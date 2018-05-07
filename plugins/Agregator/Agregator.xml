@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Agregator>
+  <doclist id="klima" wrapper="ul" path="michael_klima">
+    <li><a title="Autor: %s" var="link@href author@title heading">n/a</a></li>
+  </doclist>
+</Agregator>
