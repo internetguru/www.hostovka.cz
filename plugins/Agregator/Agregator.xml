@@ -3,4 +3,7 @@
   <doclist id="klima" wrapper="ul" path="michael_klima">
     <li><a title="Autor: %s" var="link@href author@title heading">n/a</a></li>
   </doclist>
+  <doclist id="clanky" wrapper="ul" path="clanky">
+    <li><a title="Autor: %s" var="link@href author@title heading">n/a</a></li>
+  </doclist>
 </Agregator>
