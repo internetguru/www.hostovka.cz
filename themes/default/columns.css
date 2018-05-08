@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+div.list.multiple > div {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+div.list.multiple div > * {
+  flex: 0 1 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+  margin: 0.5em 0;
+}
+
+@media screen and (min-width: 22em) {
+
+}
+
+@media (min-width: 33em) {
+  div.list.multiple div > * {
+    flex: 0 1 50%;
+    max-width: 50%;
+  }
+}
+
+@media (min-width: 52em) {
+  div.list.multiple div > * {
+    flex: 0 1 33.33%;
+    max-width: 33.3%;
+  }
+}

@@ -1,0 +1,18 @@
+@charset "UTF-8";
+/***************************/
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.wf-active body {
+  font-family: Roboto, sans-serif;
+}
+/***************************/
+strong {
+  font-weight: 600;
+}
+/***************************/
+dl.figure {
+  background: #e4e4e4;
+  padding: 0.5em;
+}
+/***************************/

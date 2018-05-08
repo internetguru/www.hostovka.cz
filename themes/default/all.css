@@ -1,0 +1,47 @@
+@charset "UTF-8";
+/***************************/
+h1,h2,h3,h4,h5,h6,p,ul,ol,dl,
+div.paragraph, div.list, pre {
+  margin: 1em auto;
+  padding-left: 0.25rem;
+  padding-right: 0.25rem;
+}
+@media screen and (min-width: 22em) {
+  h1,h2,h3,h4,h5,h6,p,ul,ol,dl,
+  div.paragraph, div.list, pre {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+#content, #header > *, #footer > * {
+  max-width: 62rem;
+  margin-left: auto;
+  margin-right: auto;
+  box-sizing: border-box;
+}
+/***************************/
+div.list {
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+/***************************/
+dl.figure {
+  display: inline-flex;
+  flex-direction: column;
+  text-align: center;
+}
+dl.figure dt {
+  padding: 0;
+  display: inline-flex;
+  min-height: 12em;
+  align-self:  center;
+}
+dl.figure dt img {
+  object-fit: cover;
+  /* width: 100%; */
+}
+dl.figure dd {
+  padding-top: 0.5em;
+  margin: 0;
+}
+/***************************/
