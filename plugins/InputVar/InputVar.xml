@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InputVar>
+<!--   <var id="service_plain">Nestárnoucí weby, www.nestarnouciweby.cz</var> -->
+<!--   <var id="service_html"><a href="http://www.nestarnouciweby.cz">Nestárnoucí weby</a></var> -->
+  <var id="odkazy_h">Související články</var>
+  <var id="odkazy_desc">Článek ve svém textu odkazuje následující zdroje (v uvedeném pořadí). Zdroje danou problematiku rozvádějí či zmiňují v dalších souvislostech.</var>
+</InputVar>
