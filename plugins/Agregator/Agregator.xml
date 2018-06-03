@@ -6,10 +6,10 @@
   <doclist id="clanky" path="clanky">
     <dl class="clanek">
       <dt><img var="preview@src heading@alt"/></dt>
-      <dd var="kw">n/a</dd>
-      <dt var="heading">n/a</dt>
-      <dd var="desc">n/a</dd>
-      <dd><a title="Autor: %s" var="link@href author@title">Číst dál</a></dd>
+      <dd class="kw" var="kw">n/a</dd>
+      <dt class="heading" var="heading">n/a</dt>
+      <dd class="desc" var="desc">n/a</dd>
+      <dd class="more"><a title="Autor: %s" var="link@href author@title">Číst dál</a></dd>
     </dl>
   </doclist>
 </Agregator>
