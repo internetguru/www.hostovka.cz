@@ -41,3 +41,22 @@ dl.figure dd {
   margin: 0;
 }
 /***************************/
+#header > div {
+  align-items: baseline;
+}
+#header > div ol.contentlink-bc {
+  padding-left: 5.5em;
+  padding-top: 1em;
+  position: relative;
+}
+.contentlink-bc img {
+  width: 5em;
+  position: absolute;
+  top:  0;
+  left:  0;
+}
+.contentlink-bc span {
+  font-size: 1.5em;
+  font-weight: 500;
+}
+/***************************/
