@@ -3,29 +3,30 @@
 div.list.multiple > div {
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
 }
 
 div.list.multiple div > * {
   flex: 0 1 100%;
   max-width: 100%;
   box-sizing: border-box;
-  margin: 0.5em 0;
+  margin: 0.5em 0.5%;
 }
 
 @media screen and (min-width: 22em) {
 
 }
 
-@media (min-width: 33em) {
+@media (min-width: 38em) {
   div.list.multiple div > * {
-    flex: 0 1 50%;
-    max-width: 50%;
+    flex: 0 1 49%;
+    max-width: 49%;
   }
 }
 
-@media (min-width: 52em) {
+@media (min-width: 68em) {
   div.list.multiple div > * {
-    flex: 0 1 33.33%;
-    max-width: 33.3%;
+    flex: 0 1 32.33%;
+    max-width: 32.33%;
   }
 }

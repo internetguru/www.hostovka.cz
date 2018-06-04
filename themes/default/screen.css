@@ -37,6 +37,7 @@ h1 + p {
   font-size: 1.2em;
   margin-top: 0;
   margin-bottom: 3em;
+  max-width: 45em;
 }
 /***************************/
 #header {
@@ -54,7 +55,6 @@ h1 + p {
 }
 #header .contentlink-bc li:first-child a:not([href]) {
   font-size: 1.2em;
-  font-weight: 500;
 }
 ol.contentlink-bc > li+li:before {
   color: #e6e6e6;
@@ -69,6 +69,7 @@ ol.contentlink-bc > li+li:before {
   display: flex;
   flex-wrap: wrap;
   flex-direction: column;
+  padding: 0 1em;
 }
 .hdesc h1 {
   margin-top: 2em;
@@ -129,6 +130,7 @@ dl.figure.mike {
   display: block;
   background: none;
   max-width: 49em;
+  margin: 5em auto;
 }
 dl.figure.mike:after {
   content: "";
@@ -145,6 +147,9 @@ dl.figure.mike dt q {
   font-style: italic;
   color: #ba8e00;
 }
+dl.figure.mike dd q {
+  font-style: italic;
+}
 @media all and (min-width: 42em) {
   dl.figure.mike {
     text-align: left;
@@ -157,28 +162,52 @@ dl.figure.mike dt q {
   }
 }
 /***************************/
-.clanek {
+#content .clanek {
   display: flex;
   flex-wrap: wrap;
   flex-direction: column;
+  padding: 0;
+  margin-top: 1.5em;
+  position: relative;
 }
 .clanek img {
   object-fit: cover;
   width: 100%;
+  height: 15em;
   max-height: 100%;
+}
+.clanek dt:first-child {
+  position: relative;
+}
+.clanek dt:first-child:after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(to bottom, rgba(0, 0, 0,0.8) 0%,rgba(0, 0, 0, 0) 25%);
 }
 .clanek > * {
   margin: 0;
   width: 100%;
 }
-.clanek dt:first-child {
-  height: 15em;
-}
-.clanek .kw {
+.clanek dd.kw {
+  margin: 0.75em 0;
 }
 .clanek .heading {
   font-size: 1.5em;
-  margin: 1em 0 0.5em 0;
+  margin: 0.75em 0 0.5em 0;
+}
+.clanek .date {
+  position: absolute;
+  top: 0;
+  left: 0;
+  color: white;
+  font-size: 1.2em;
+  text-align: right;
+  padding: 0.5rem 1rem;
+  width: calc(100% - 2rem);
 }
 .clanek .desc {
   flex-grow: 1;
@@ -190,5 +219,28 @@ dl.figure.mike dt q {
   border: thin solid #FFAD4D;
   box-shadow: 0.1em 0.7em 1em rgba(0,0,0, .15);
   padding: 0.75em 1em;
+}
+/***************************/
+.taglist:before {
+  content: "Kategorie:";
+  font-size: 1.2em;
+  margin-right: 0.5em;
+}
+.taglist {
+  list-style: none;
+}
+.taglist li {
+  display: inline-block;
+  margin: 0;
+}
+a.tag {
+  border: none;
+  color: white;
+  background: #FFAD4D;
+  padding: 0.5em;
+  display: inline-block;
+}
+a.tag[href^="#"] {
+  background: #d46d48;
 }
 /***************************/

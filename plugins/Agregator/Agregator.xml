@@ -8,10 +8,19 @@
   <doclist id="clanky" path="clanky">
     <dl class="clanek">
       <dt><img var="preview@src heading@alt"/></dt>
-      <dd class="kw" var="kw">n/a</dd>
+      <dd class="date" fn="inputvar-dateformat" var="ctime">n/a</dd>
+      <dd class="kw" var="kw" fn="inputvar-maketags">n/a</dd>
       <dt class="heading" var="heading">n/a</dt>
       <dd class="desc" var="desc">n/a</dd>
       <dd class="more"><span class="noprint" var="editlink">n/a</span><a title="Autor: %s" var="link@href author@title">Číst dál</a></dd>
     </dl>
+    <dl><dt></dt><dd></dd></dl>
   </doclist>
+  
+  <doclist id="kuchynske_techniky" kw="kuchyňské techniky" for="clanky" />
+  <doclist id="gastronomie" kw="gastronomie" for="clanky" />
+  <doclist id="kdo_kdy_kde" kw="kdo-kdy-kde" for="clanky" />
+  <doclist id="pripadova_studie" kw="případová studie" for="clanky" />
+  <doclist id="michael_klima" kw="Michael Klíma" for="clanky" />
+  
 </Agregator>

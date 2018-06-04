@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocInfo>
-  <var modifyonly="modifyonly" id="created">Autorem obsahu je <a href="hostovka/michael_klima" var="author">n/a</a> ze dne <span var="ctime" fn="inputvar-dateformat">n/a</span></var>
+  <var modifyonly="modifyonly" id="created">Autorem obsahu je <span var="author">n/a</span> ze dne <span var="ctime" fn="inputvar-dateformat">n/a</span></var>
 </DocInfo>
