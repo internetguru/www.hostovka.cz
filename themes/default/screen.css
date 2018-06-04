@@ -53,10 +53,14 @@ h1 + p {
 }
 #header .contentlink-bc a {
   color: white;
+  border-color: #ececec;
 }
 #header .contentlink-bc li:first-child a:not([href]) {
   font-size: 1.2em;
   font-weight: 500;
+}
+ol.contentlink-bc > li+li:before {
+  color: #e6e6e6;
 }
 .hdesc {
   background: url("/files/header.jpg") no-repeat;
@@ -142,23 +146,30 @@ dl.figure.mike dt q {
 .clanek {
   display: flex;
   flex-wrap: wrap;
+  flex-direction: column;
 }
 .clanek img {
-  max-height: 18em;
   object-fit: cover;
   width: 100%;
+  max-height: 100%;
 }
 .clanek > * {
   margin: 0;
   width: 100%;
 }
+.clanek dt:first-child {
+  height: 15em;
+}
+.clanek .kw {
+}
 .clanek .heading {
   font-size: 1.5em;
   margin: 1em 0 0.5em 0;
 }
-.clanek .more {
+.clanek .desc {
   flex-grow: 1;
-  align-self:  flex-end;
+}
+.clanek .more {
   margin: 2em 0;
 }
 .clanek .more a {

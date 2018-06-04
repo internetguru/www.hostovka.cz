@@ -24,7 +24,7 @@ div.list.multiple div > * {
 }
 
 @media (min-width: 52em) {
-  div.list.multiple div > *:not(.clanek) {
+  div.list.multiple div > * {
     flex: 0 1 33.33%;
     max-width: 33.3%;
   }

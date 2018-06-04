@@ -45,3 +45,7 @@ dl.figure dd {
   margin: 0;
 }
 /***************************/
+#content div.list.multiple {
+  max-width: 82em;
+}
+/***************************/
