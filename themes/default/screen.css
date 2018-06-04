@@ -48,9 +48,6 @@ h1 + p {
   top: 0;
   left: 0;
 }
-#header .hideable {
-  display: none;
-}
 #header .contentlink-bc a {
   color: white;
   border-color: #ececec;
@@ -131,7 +128,7 @@ ol.contentlink-bc > li+li:before {
 dl.figure.mike {
   display: block;
   background: none;
-  max-width: 48em;
+  max-width: 49em;
 }
 dl.figure.mike:after {
   content: "";
@@ -156,7 +153,7 @@ dl.figure.mike dt q {
     float: left;
   }
   dl.figure.mike > *:not(.img) {
-    margin-left: 15rem;
+    margin-left: 16rem;
   }
 }
 /***************************/

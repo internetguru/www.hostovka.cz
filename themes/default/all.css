@@ -43,6 +43,7 @@ dl.figure:not(.mike) dt {
 dl.figure dt img {
   object-fit: cover;
   /* width: 100%; */
+  max-width: 13em;
 }
 dl.figure dd {
   padding-top: 0.5em;
@@ -51,5 +52,10 @@ dl.figure dd {
 /***************************/
 .hdesc {
   margin-bottom: 2em;
+}
+/***************************/
+#footer .globalmenu,
+#header .hideable {
+  display: none;
 }
 /***************************/
