@@ -6,6 +6,7 @@ div.paragraph, div.list, pre {
   padding-left: 1rem;
   padding-right: 1rem;
 }
+#content > *:not(.hdesc):not(.section),
 #content > .hdesc > *,
 #content > .section > *,
 #header,
@@ -23,6 +24,9 @@ div.paragraph, div.list, pre {
 div.list {
   margin-top: 2em;
   margin-bottom: 2em;
+}
+#content div.list.multiple {
+  max-width: 82em;
 }
 /***************************/
 dl.figure {
@@ -45,7 +49,7 @@ dl.figure dd {
   margin: 0;
 }
 /***************************/
-#content div.list.multiple {
-  max-width: 82em;
+.hdesc {
+  margin-bottom: 2em;
 }
 /***************************/

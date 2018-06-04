@@ -63,12 +63,9 @@ ol.contentlink-bc > li+li:before {
   color: #e6e6e6;
 }
 .hdesc {
-  background: url("/files/header.jpg") no-repeat;
-  background-size: cover;
   min-height: 17em;
   color: white;
   position: relative;
-  background-position: 50% 30%;
   overflow: hidden;
 }
 .hdesc > div {
@@ -100,15 +97,35 @@ ol.contentlink-bc > li+li:before {
   z-index: 1;
   height: 100%;
 }
+.hdesc:before,
 .hdesc:after {
   content: "";
   width: 100%;
   height: 100%;
   position: absolute;
-  background: #000000a6;
   top: 0;
   left: 0;
+}
+.hdesc:after {
+  background: #000000a6;
   filter: blur(1em);
+}
+.hdesc:before {
+  background: url("/files/header.jpg") no-repeat;
+  background-size: cover;
+  background-position: 50% 30%;
+}
+/***************************/
+.hdesc:before {
+  animation: ken-burn-in 10s;
+}
+@keyframes ken-burn-in {
+  0% {
+    transform: scale(1.1);
+  }
+  100% {
+    transform: scale(1);
+  }
 }
 /***************************/
 dl.figure.mike {
