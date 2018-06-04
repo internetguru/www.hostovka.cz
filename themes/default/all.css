@@ -6,13 +6,18 @@ div.paragraph, div.list, pre {
   padding-left: 1rem;
   padding-right: 1rem;
 }
+#content > .hdesc > *,
 #content > .section > *,
-#header > *,
+#header,
 #footer > * {
   max-width: 62rem;
   margin-left: auto;
   margin-right: auto;
   box-sizing: border-box;
+}
+/***************************/
+#content strong  {
+  font-weight: 500;
 }
 /***************************/
 div.list {
@@ -25,7 +30,7 @@ dl.figure {
   flex-direction: column;
   text-align: center;
 }
-dl.figure dt {
+dl.figure:not(.mike) dt {
   padding: 0;
   display: inline-flex;
   min-height: 12em;
@@ -38,24 +43,5 @@ dl.figure dt img {
 dl.figure dd {
   padding-top: 0.5em;
   margin: 0;
-}
-/***************************/
-#header > div {
-  align-items: baseline;
-}
-#header > div ol.contentlink-bc {
-  padding-left: 5.5em;
-  padding-top: 1em;
-  position: relative;
-}
-.contentlink-bc img {
-  width: 5em;
-  position: absolute;
-  top:  0;
-  left:  0;
-}
-.contentlink-bc span {
-  font-size: 1.5em;
-  font-weight: 500;
 }
 /***************************/
