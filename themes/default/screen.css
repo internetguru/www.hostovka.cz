@@ -228,10 +228,11 @@ dl.figure.mike dd q {
 }
 .taglist {
   list-style: none;
+  display: table;
 }
 .taglist li {
   display: inline-block;
-  margin: 0;
+  margin: 0.1em;
 }
 a.tag {
   border: none;
@@ -242,5 +243,13 @@ a.tag {
 }
 a.tag[href^="#"] {
   background: #d46d48;
+}
+/***************************/
+.taglist {
+  border-bottom: thin solid #cecece;
+  padding-bottom: 8em;
+}
+#footer {
+  margin-top: 3em;
 }
 /***************************/

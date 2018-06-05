@@ -58,9 +58,6 @@ dl.figure dd {
 #header .hideable {
   display: none;
 }
-#footer {
-  margin-top: 5em;
-}
 /***************************/
 h2#clanky,
 h2#clanky + p {
