@@ -10,7 +10,7 @@ div.list.multiple div > * {
   flex: 0 1 100%;
   max-width: 100%;
   box-sizing: border-box;
-  margin: 0.5em 0.5%;
+  margin: 0.5em 1%;
 }
 
 @media screen and (min-width: 22em) {
@@ -19,14 +19,14 @@ div.list.multiple div > * {
 
 @media (min-width: 38em) {
   div.list.multiple div > * {
-    flex: 0 1 49%;
-    max-width: 49%;
+    flex: 0 1 48%;
+    max-width: 48%;
   }
 }
 
 @media (min-width: 68em) {
   div.list.multiple div > * {
-    flex: 0 1 32.33%;
-    max-width: 32.33%;
+    flex: 0 1 31.33%;
+    max-width: 31.33%;
   }
 }
