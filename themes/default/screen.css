@@ -106,7 +106,7 @@ ol.contentlink-bc > li+li:before {
 }
 .hdesc:after {
   background: #000000a6;
-  filter: blur(1em);
+  /* filter: blur(1em); */
 }
 .hdesc:before {
   background: url("/files/header.jpg") no-repeat;
@@ -166,7 +166,7 @@ dl.figure.mike dd q {
   display: flex;
   flex-wrap: wrap;
   flex-direction: column;
-  padding: 0;
+  /* padding: 0; */
   margin-top: 1.5em;
   position: relative;
 }
@@ -201,8 +201,8 @@ dl.figure.mike dd q {
 }
 .clanek .date {
   position: absolute;
-  top: 0;
-  left: 0;
+  top: 0.5em;
+  right: 0.5em;
   color: white;
   font-size: 1.2em;
   text-align: right;
@@ -247,7 +247,8 @@ a.tag[href^="#"] {
 /***************************/
 .taglist {
   border-bottom: thin solid #cecece;
-  padding-bottom: 8em;
+  padding: 0;
+  padding-bottom: 5em;
 }
 #footer {
   margin-top: 3em;

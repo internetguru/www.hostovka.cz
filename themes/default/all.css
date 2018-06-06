@@ -27,7 +27,7 @@ div.list {
 }
 #content div.list.multiple {
   max-width: 82em;
-  padding: 0 1%;
+  padding: 0 0.5em;
 }
 /***************************/
 dl.figure {
