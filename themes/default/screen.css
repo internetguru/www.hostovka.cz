@@ -43,7 +43,7 @@ h1 + p {
 #header {
   position: relative;
 }
-#header > div {
+#header > .contentlink-bc {
   position: absolute;
   z-index: 11;
   top: 0;
