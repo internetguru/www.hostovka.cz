@@ -7,7 +7,7 @@
 -->
   <doclist id="clanky" path="clanky">
     <dl class="clanek">
-      <dt><img var="preview@src heading@alt"/></dt>
+      <dt><img var="og-image@src heading@alt"/></dt>
       <dd class="date" fn="inputvar-dateformat" var="ctime">n/a</dd>
       <dd class="kw" var="kw" fn="inputvar-maketags">n/a</dd>
       <dt class="heading" var="heading">n/a</dt>
