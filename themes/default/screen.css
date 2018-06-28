@@ -129,7 +129,7 @@ ol.contentlink-bc > li+li:before {
 dl.figure.mike {
   display: block;
   background: none;
-  max-width: 49em;
+  max-width: 57em;
   margin: 5em auto;
 }
 dl.figure.mike:after {
