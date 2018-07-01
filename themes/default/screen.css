@@ -211,13 +211,9 @@ dl.figure.mike dd q {
 }
 .clanek .desc {
   flex-grow: 1;
-  min-height: 7em;
-  height: 7em;
-  overflow: hidden;
+  min-height: 6em;
+  /* height: 7em; */
   position: relative;
-  /* autoprefixer: off */
-  -webkit-tap-highlight-color: rgba(0,0,0,0);
-  /* autoprefixer: on */
 }
 .clanek .desc.expand {
   height: auto;
@@ -225,6 +221,23 @@ dl.figure.mike dd q {
 .clanek .desc.expand:after {
   height: 0;
 }
+.clanek .desc a {
+  /* position: absolute; */
+  /* bottom: -1.5em; */
+  /* left: 50%; */
+  cursor: pointer;
+  /* border-radius: 50%; */
+  /* text-align: center; */
+  /* width: 1.5em; */
+  /* height: 1.5em; */
+  /* background: #b2b2b2; */
+  /* color: #ececec; */
+  margin-left: 0.25em;
+}
+.clanek .desc:not(.expand) a {
+  line-height: 1.6;
+}
+/*
 .clanek .desc:after {
   content: "";
   position: absolute;
@@ -238,6 +251,7 @@ dl.figure.mike dd q {
   bottom: 0;
   cursor: pointer;
 }
+*/
 .clanek .more {
   margin: 2em 0;
 }

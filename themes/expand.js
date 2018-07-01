@@ -3,13 +3,13 @@
   
   var fullDescs = [];
   
-  var multiClickHandler = function (handlers, index, delay) {
-    var clicks = 0, timeout, index = index, delay = delay || 250;
+  var multiClickHandler = function (handlers, index, button, delay) {
+    var clicks = 0, timeout, index = index, button = button, delay = delay || 250;
     return function (e) {
       clicks++;
       clearTimeout(timeout);
       timeout = setTimeout(function () {
-        if(handlers[clicks]) handlers[clicks](e, index);
+        if(handlers[clicks]) handlers[clicks](e, index, button);
         clicks = 0;
       }, delay);
     };
@@ -24,35 +24,40 @@
       return str;
     }
     var indexof = str.lastIndexOf(separator, maxLen);
-    if (len - indexof < 10) {
+    if (len - indexof < 50) {
       return str;
     }
-    return str.substr(0, indexof) + '...';
+    return str.substr(0, indexof) + '…';
   }
   
   for (var i = 0; i < descs.length; i++) {
+    var button = document.createElement("a");
     var handler = multiClickHandler({
-      1: function (e, index) {
-        e.target.classList.toggle("expand");
-        if (e.target.classList.contains("expand")) {
-          e.target.innerText = fullDescs[index];
-//           e.target.title = "Rozbalit dvojklikem"
+      1: function (e, index, button) {
+        var parent = e.target.parentNode;
+        parent.classList.toggle("expand");
+        if (parent.classList.contains("expand")) {
+          parent.innerText = fullDescs[index];
+          button.innerText = "‹";
+          button.title = "Sbalit"
         } else {
-//           e.target.title = "Sbalit dvojklikem"
-          e.target.innerText = shorten(fullDescs[index], 285);
+          parent.innerText = shorten(fullDescs[index], 195);
+          button.innerText = "›";
+          button.title = "Rozbalit"
         }
+        parent.appendChild(button);
         e.preventDefault();
         return false;
       }
-    }, i);
+    }, i, button);
     fullDescs.push(descs[i].innerText);
-    var short = shorten(descs[i].innerText, 285);
-    if (short == descs[i].innerText.length) {
+    var short = shorten(descs[i].innerText, 195);
+    if (short.length == descs[i].innerText.length) {
       continue;
     }
     descs[i].innerText = short;
-    var button = document.createElement("a");
-    button.innerText = ">";
+    button.innerText = "›";
+    button.title = "Rozbalit"
     descs[i].appendChild(button);
     button.addEventListener("touchend", handler, false);
     button.addEventListener("click", handler, false);
