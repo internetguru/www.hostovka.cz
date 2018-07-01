@@ -221,21 +221,12 @@ dl.figure.mike dd q {
 .clanek .desc.expand:after {
   height: 0;
 }
-.clanek .desc a {
-  /* position: absolute; */
-  /* bottom: -1.5em; */
-  /* left: 50%; */
+.clanek .desc a.expand-button {
   cursor: pointer;
-  /* border-radius: 50%; */
-  /* text-align: center; */
-  /* width: 1.5em; */
-  /* height: 1.5em; */
-  /* background: #b2b2b2; */
-  /* color: #ececec; */
+  font-size: 2em;
   margin-left: 0.25em;
-}
-.clanek .desc:not(.expand) a {
-  line-height: 1.6;
+  line-height: 0;
+  vertical-align: -0.1em;
 }
 /*
 .clanek .desc:after {

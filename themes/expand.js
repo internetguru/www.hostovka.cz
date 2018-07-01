@@ -38,11 +38,11 @@
         parent.classList.toggle("expand");
         if (parent.classList.contains("expand")) {
           parent.innerText = fullDescs[index];
-          button.innerText = "‹";
+          button.innerText = "› ‹";
           button.title = "Sbalit"
         } else {
           parent.innerText = shorten(fullDescs[index], 195);
-          button.innerText = "›";
+          button.innerText = "‹ ›";
           button.title = "Rozbalit"
         }
         parent.appendChild(button);
@@ -56,7 +56,8 @@
       continue;
     }
     descs[i].innerText = short;
-    button.innerText = "›";
+    button.className = "expand-button";
+    button.innerText = "‹ ›";
     button.title = "Rozbalit"
     descs[i].appendChild(button);
     button.addEventListener("touchend", handler, false);
