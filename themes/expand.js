@@ -16,12 +16,20 @@
   for (var i = 0; i < descs.length; i++) {
     var handler = multiClickHandler({
       2: function (e) {
+        /*
+        if (e.target.classList.contains("expand")) {
+          e.target.title = "Rozbalit dvojklikem"
+        } else {
+          e.target.title = "Sbalit dvojklikem"
+        }
+        */
         e.target.classList.toggle("expand");
-        return false;
         e.preventDefault();
+        return false;
       }
     });
     descs[i].addEventListener("touchend", handler, false);
     descs[i].addEventListener("click", handler, false);
+    // descs[i].title = "Rozbalit dvojklikem"
   }
 })()

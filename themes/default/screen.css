@@ -12,7 +12,7 @@ strong {
   font-weight: 600;
 }
 a {
-  color: #d98e36;
+  color: #A76820;
 }
 /***************************/
 dl.figure {
@@ -145,7 +145,7 @@ dl.figure.mike dt q {
   margin-top: 1rem;
   font-size: 1.2em;
   font-style: italic;
-  color: #ba8e00;
+  color: #A76820;
 }
 dl.figure.mike dd q {
   font-style: italic;
@@ -236,13 +236,14 @@ dl.figure.mike dd q {
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', endColorstr='#ffffff',GradientType=0 ); /* IE6-9 */
   left: 0;
   bottom: 0;
-  pointer-events: none;
+  /* pointer-events: none; */
+  cursor: pointer;
 }
 .clanek .more {
   margin: 2em 0;
 }
 .clanek .more a {
-  border: thin solid #d98e36;
+  border: thin solid #A76820;
   box-shadow: 0.1em 0.7em 1em rgba(0,0,0, .15);
   padding: 0.75em 1em;
 }
@@ -262,13 +263,17 @@ dl.figure.mike dd q {
 }
 a.tag {
   border: none;
-  color: white;
-  background: #FFAD4D;
+  color: black;
+  background: #e3f2fd;
   padding: 0.5em;
   display: inline-block;
 }
+a.tag:before {
+  content: "#";
+}
 a.tag[href^="#"] {
-  background: #d46d48;
+  color: white;
+  background: #2196f3;
 }
 /***************************/
 .taglist {
