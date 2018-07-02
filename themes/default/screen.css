@@ -211,9 +211,10 @@ dl.figure.mike dd q {
 }
 .clanek .desc {
   flex-grow: 1;
-  min-height: 6em;
+  /* min-height: 6em; */
   /* height: 7em; */
-  position: relative;
+  /* position: relative; */
+  margin: 0.5em 0;
 }
 .clanek .desc.expand {
   height: auto;
@@ -248,11 +249,16 @@ dl.figure.mike dd q {
 }
 .clanek .more a {
   border: thin solid #A76820;
-  background: #d09551;
-  text-shadow: 0em 0em 1em #A06A2C;
+  border: none;
+  background: #d83c3c;
+  /* text-shadow: 0em 0em 1em #000000; */
   color: white;
-  box-shadow: 0.1em 0.7em 1em rgba(0,0,0, .15);
+  /* box-shadow: 0.1em 0.7em 1em rgba(0,0,0, .15); */
   padding: 0.75em 1em;
+  margin-right: 0.5em;
+}
+.clanek .more span {
+  /* display: none; */
 }
 /***************************/
 .taglist:before {
@@ -292,5 +298,6 @@ a.tag[href^="#"] {
 }
 #footer {
   margin-top: 3em;
+  margin-bottom: 3em;
 }
 /***************************/
