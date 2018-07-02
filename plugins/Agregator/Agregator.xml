@@ -12,7 +12,7 @@
       <dd class="kw" var="kw" fn="inputvar-maketags">n/a</dd>
       <dt class="heading" var="heading">n/a</dt>
       <dd class="desc" var="desc">n/a</dd>
-      <dd class="more"><span class="noprint" var="editlink">n/a</span><a title="Autor: %s" var="link@href author@title">Číst dál</a></dd>
+      <dd class="more"><span class="noprint" var="editlink">n/a</span><a title="Autor: %s" var="link@href author@title">Celý článek</a></dd>
     </dl>
     <dl><dt></dt><dd></dd></dl>
   </doclist>

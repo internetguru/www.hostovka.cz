@@ -248,6 +248,9 @@ dl.figure.mike dd q {
 }
 .clanek .more a {
   border: thin solid #A76820;
+  background: #d09551;
+  text-shadow: 0em 0em 1em #A06A2C;
+  color: white;
   box-shadow: 0.1em 0.7em 1em rgba(0,0,0, .15);
   padding: 0.75em 1em;
 }
@@ -263,21 +266,23 @@ dl.figure.mike dd q {
 }
 .taglist li {
   display: inline-block;
-  margin: 0.1em;
+  margin: 0.3em;
 }
 a.tag {
   border: none;
-  color: black;
-  background: #e3f2fd;
+  /* color: #a76820; */
+  /* background: #c4e8e7; */
   padding: 0.5em;
   display: inline-block;
+  /* border: thin solid #c5f1fe; */
 }
 a.tag:before {
   content: "#";
 }
 a.tag[href^="#"] {
-  color: white;
-  background: #2196f3;
+  /* color: white; */
+  /* background: #68acaa; */
+  border: thin solid #c0905a;
 }
 /***************************/
 .taglist {

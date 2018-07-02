@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DocInfo>
   
-  <var modifyonly="modifyonly" id="created">Autorem obsahu je <span var="author">n/a</span> ze dne <span var="ctime" fn="inputvar-dateformat">n/a</span></var>
+  <var modifyonly="modifyonly" id="created">Autorem obsahu je <span var="author">n/a</span> ze dne <span var="ctime" fn="inputvar-dateformat">n/a</span>.</var>
   
   <var modifyonly="modifyonly" id="docinfo">
     <ul class="docinfo nomultiple global">
       <li><span var="created">n/a</span></li>
-      <li><a var="source@href">Zobrazit originální znění článku</a> na původním webu hostovky</li>
+      <li><a var="source@href">Zobrazit článek na původním webu Hostovky.</a></li>
       <li><span var="edit">n/a</span></li>
     </ul>
   </var>
