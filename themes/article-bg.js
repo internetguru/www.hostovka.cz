@@ -1,11 +1,11 @@
 (function () {
   
   require("IGCMS", function () {
-    var preview = document.body.getAttribute("data-og-image").replace("/preview/", "/")
-    if (!preview) {
+    var general = document.body.getAttribute("data-og-image").replace("/preview/", "/")
+    if (!general) {
       return;
     }
-    IGCMS.appendStyle(".hdesc:before { background-image: url('" + preview + "'); }")
+    IGCMS.appendStyle(".hdesc:before { background-image: url('" + general + "'); }")
   })
   
 })()
