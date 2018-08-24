@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProgressiveWebApp>
+    <var id="manifest" modifyonly="modifyonly">
+{
+  "name": "$name",
+  "short_name": "$shortName",
+  "display": "minimal-ui",
+  "start_url": "$rootUrl",
+  "theme_color": "$themeColor",
+  "background_color": "#fff",
+  "icons": [
+    {
+      "src": "/files/pwa/256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/files/pwa/512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
+  </var>
+</ProgressiveWebApp>
