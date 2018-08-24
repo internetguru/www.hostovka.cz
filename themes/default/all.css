@@ -28,6 +28,7 @@ div.list {
 #content div.list.multiple {
   max-width: 82em;
   padding: 0 0.5em;
+  margin-top: 0;
 }
 /***************************/
 dl.figure {
@@ -60,7 +61,12 @@ dl.figure dd {
   display: none;
 }
 /***************************/
-h2#clanky,
+h2#clanky {
+  visibility: hidden;
+  height: 0;
+  margin: 0;
+  padding: 0;
+}
 h2#clanky + p {
   display: none;
 }
