@@ -22,6 +22,7 @@
     <data name="=jídla a jídelní lístky">=jidla_a_jidelni_listky</data>
     <data name="=ubytování">=ubytovani</data>
     <data name="=nejčtenější">=nejctenejsi</data>
+    <data name="?clanky=nejctenejsi"/>
   </fn>
   
 </InputVar>
