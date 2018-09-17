@@ -5,7 +5,7 @@
     if (!general) {
       return;
     }
-    IGCMS.appendStyle(".hdesc:before { background-image: url('" + general + "'); }")
+    IGCMS.appendStyle(".hdesc:before { background-image: url('" + general + "') !important; }")
   })
   
 })()
