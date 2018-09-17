@@ -5,7 +5,7 @@
     <li><a title="Autor: %s" var="link@href author@title heading">n/a</a></li>
   </doclist>
 -->
-  <doclist id="clanky" path="clanky">
+  <doclist id="clanky" path="clanky" kw="nejčtenější">
     <dl class="clanek">
       <dt><img var="og-image@src heading@alt"/></dt>
       <dd class="date" fn="inputvar-dateformat" var="ctime">n/a</dd>
@@ -24,6 +24,5 @@
   <doclist id="zivotopis" kw="Životopis" for="clanky" />
   <doclist id="jidla_a_jidelni_listky" kw="jídla a jídelní lístky" for="clanky" />
   <doclist id="ubytovani" kw="ubytování" for="clanky" />
-  <doclist id="nejctenejsi" kw="nejčtenější" for="clanky" />
   
 </Agregator>
