@@ -24,5 +24,6 @@
   <doclist id="zivotopis" kw="Životopis" for="clanky" />
   <doclist id="jidla_a_jidelni_listky" kw="jídla a jídelní lístky" for="clanky" />
   <doclist id="ubytovani" kw="ubytování" for="clanky" />
+  <doclist id="nejctenejsi" kw="nejčtenější" for="clanky" />
   
 </Agregator>
