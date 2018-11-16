@@ -25,4 +25,8 @@
     <data name="?clanky=nejctenejsi"/>
   </fn>
   
+  <fn id="html2md" fn="pregreplace" pattern="(.+).html" replacement="$1.md"/>
+  <var id="mdfile" var="file" fn="html2md"/>
+  <var id="ghedit"><a var="inputvar-mdfile@href" href="https://github.com/InternetGuru/www.hostovka.cz/edit/master/%s">Navrhnout úpravy článku</a></var>
+  
 </InputVar>
