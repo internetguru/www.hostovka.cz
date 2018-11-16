@@ -1,0 +1,15 @@
+
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=426.html" data-og-image="files/preview/clanky/concierge/general.jpg" data-og-type="article"}
+
+{id="concierge" ctime="2009-05-03" author="Michael Klíma" short="Concierge" authorid="hostovka/michael_klima"}
+
+# Concierge
+
+{kw="ubytování"}
+
+Concierge – ve Francii vrátný nebo domovník. V hotelu je to ale osoba která se stará o hostovo pohodlí a která hostům vyřizuje vše spojené s jeho pobytem. V Amerických hotelích byla funkce concierge až do sedmdesátých let zcela neznámá.
+
+Při výuce hotelového nebo front office manažmentu jsem mým studentům funkci concierge popisoval tak, že je to osoba na kterou se host může obrátit při pronájmu nebo koupi auta, při obstarávání různých pochůzek, obstarávání lístku na sportovní utkání nebo do opery apod.
+
+Prostě concierge je osoba která dokáže sehnat a zajistit i to nemožné a pro kterou nic není za těžko. V Milánském hotelu když host chce například lístky do milánské Scaly, která je třeba na rok dopředu vyprodaná, a obrátí se na concierge, tak se ho ten concierge jen zeptá, kolik těch lístků chce, ve které řadě a když ten host chce doprovod, tak se ho zeptá, jestli to má být blondýna nebo černovlasá, kolik má mít přes prsa , a jak má být stará. Neboli schopný concierge dokáže hostu přinést modré z nebe.
+
