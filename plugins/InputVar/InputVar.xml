@@ -14,6 +14,7 @@
   <fn id="makeelements" fn="pregreplace" pattern="([a-zA-Z0-9áčďéěíňóřšťůúýžÁČĎÉĚÍŇÓŘŠŤŮÚÝŽ _-]+)(:?, )?" replacement="&#x3C;a href=&#x22;?clanky=\1#clanky-seznam&#x22; class=&#x22;tag&#x22;&#x3E;\1&#x3C;/a&#x3E;" />
   
   <fn id="replacenames" fn="replace">
+    <data name="=restaurace a servis">=restaurace_a_servis</data>
     <data name="=kuchyňské techniky">=kuchynske_techniky</data>
     <data name="=gastronomie">=gastronomie</data>
     <data name="=kdo-kdy-kde">=kdo_kdy_kde</data>

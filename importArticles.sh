@@ -29,7 +29,12 @@ do
   normalizedKw="$(echo "$kw" | iconv -f utf8 -t ascii//TRANSLIT | tr " " "_")"
   migrated="$(getValue "$migrated")"
   gdocUrl="$(getValue "$gdocUrl")"
+  sourceFile="/var/www/domains${sourceUrl#http://}"
+  sourceFile="${sourceFile//\?/\\?}"
+  sourceFile="${sourceFile//=/\=}"
   [[ -n "$migrated" || -z "$gdocUrl" ]] && continue
+
+  echo "$sourceFile" && exit
 
   htmlPlus="$(curl "https://www.hostovka.cz/?Convertor=$gdocUrl")"
 
