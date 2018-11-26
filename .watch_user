@@ -15,3 +15,9 @@ plugins/Convertor/kritika_a_pochvaly.docx.html ATTRIB
 plugins/Convertor/kritika_a_pochvaly.docx.html.old MOVED_FROM
 plugins/Convertor/kritika_a_pochvaly.docx.html.1 MOVED_TO
 plugins/Convertor/kritika_a_pochvaly.docx.html.lock DELETE
+plugins/Convertor/kritika_a_pochvaly.docx DELETE
+plugins/Convertor/kritika_a_pochvaly.docx MODIFY
+plugins/Convertor/kritika_a_pochvaly.docx_document.xml DELETE
+plugins/Convertor/kritika_a_pochvaly.docx_document.xml MODIFY
+plugins/Convertor/kritika_a_pochvaly.docx_document.xml.rels DELETE
+plugins/Convertor/kritika_a_pochvaly.docx_document.xml.rels MODIFY
