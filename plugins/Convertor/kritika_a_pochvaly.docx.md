@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz"}
 
-{id="kritika\_a\_pochvaly" short="kritika\_a\_pochvaly" author="InternetGuru" ctime="2018-11-26T22:04:50+01:00"}
+{id="kritika\_a\_pochvaly" short="kritika\_a\_pochvaly" author="InternetGuru" ctime="2018-11-27T00:52:13+01:00"}
 
 # Kritika a pochvaly
 
