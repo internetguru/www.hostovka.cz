@@ -8,10 +8,10 @@
 {kw="jídla a jídelní lístky"}
 
 //desc
-Nugety byly původně malé kousky jemně sekaného kuřecího masa které bylo drženo pohromadě fosfátovými solemi. Kousky, obalené speciálním těstíčkem, byly lehce usmaženy, jen aby se těstíčko přichytilo, a byly hned individuálně zmraženy ([IQF][3]), zabaleny do krabic a rozeslány na jednotlivé prodejny. Na prodejnách se pak nugety usmažily na požadovanou vnitřní teplotu a prodávaly.
+Nugety byly původně malé kousky jemně sekaného kuřecího masa které bylo drženo pohromadě fosfátovými solemi. Kousky, obalené speciálním těstíčkem, byly lehce usmaženy, jen aby se těstíčko přichytilo, a byly hned individuálně zmraženy ([IQF][3]). Dále byly zabaleny do krabic a rozeslány na jednotlivé prodejny. Na prodejnách se pak nugety usmažily na požadovanou vnitřní teplotu a prodávaly.
 
 // zmena receptury, maso
-V listopadu 2003, McDonald změnil recepturu z tradičního tmavého a bílého masa na pouze bílé maso. To bylo silně podporováno reklamou podle které se podstatně zlepšila chuť a kvalita nugetů. McDonald udává, že používají jen mechanicky získané maso z prsou kuřete s malým množstvím kůže pro zachování šťavnatosti a zlepšení chuťi.
+V listopadu 2003, McDonald změnil recepturu z tradičního tmavého a bílého masa na pouze bílé maso. To bylo silně podporováno reklamou, podle které se podstatně zlepšila chuť a kvalita nugetů. McDonald udává, že používají jen mechanicky získané maso z prsou kuřete s malým množstvím kůže pro zachování šťavnatosti a zlepšení chuťi.
 
 {class="figure"}
 
@@ -41,7 +41,7 @@ V těch milionech je započteno i 100 dolarů, které jsem dostal za to, že jse
 <!-- TODO desc -->
 
 // ochutnavky, parametry
-Ochutnávek probíhalo více. Většinou deset pozvaných „hodnotitelů“, sedících v individuálních kójích, hodnotí několik verzí nugetů. Přesně si nepamatuji všechny sledované parametry, ale jsou to například:
+Ochutnávek probíhalo více. Většinou deset pozvaných „hodnotitelů“, sedících v individuálních kójích, posuzují několik verzí nugetů. Přesně si nepamatuji všechny sledované parametry, ale jsou to například:
 
   * první dojem,
   * velikost kousků,
@@ -51,7 +51,7 @@ Ochutnávek probíhalo více. Většinou deset pozvaných „hodnotitelů“, se
   * hmotnost porce a další.
 
 // dalsi testy na zaklade ochutnavek
-Jejich posudky následně vyhodnotí další tým hodnotitelů a podle výsledků se dělají další a další testy. Tyto testy se pak dělají v různých státech Ameriky kdy se hodnotí jednak to samé plus navrhovaná cena, která může být v každém státě jiná.
+Jejich posudky následně vyhodnotí další tým hodnotitelů a podle výsledků se dělají další a další testy. Tyto testy se pak také provádí v různých státech Ameriky kdy se hodnotí jednak to samé, plus navrhovaná cena, která může být v každém státě jiná.
 
 <!-- TODO {id, short} -->
 
