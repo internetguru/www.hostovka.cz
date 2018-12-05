@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=170.html" data-og-image="/files/preview/clanky/chicken_nuggets/general.jpg" data-og-type="article"}
 
-{id="kureci\_nugety" ctime="2006-08-28" mtime="2018-12-04" author="Michael Klíma" short="Kuřecí nugety"}
+{id="kureci_nugety" ctime="2006-08-28" mtime="2018-12-04" author="Michael Klíma" short="Kuřecí nugety"}
 
 # Zrození a vývoj kuřecích nuget
 
@@ -39,7 +39,7 @@ Potom následoval zdlouhavý výběr správného druhu fritovacího oleje, frit�
 
 ## Vývoj receptury
 
-Nugety byly původně malé kousky jemně sekaného kuřecího masa, které bylo drženo pohromadě fosfátovými solemi. Kousky, obalené speciálním těstíčkem byly lehce usmaženy, jen aby se těstíčko přichytilo, a byly hned individuálně zmrazeny ([IQF][3]). Dále byly zabaleny do krabic a rozeslány na jednotlivé prodejny. Na prodejnách se pak nugety usmažily na požadovanou vnitřní teplotu a prodávaly.
+Nugety byly původně malé kousky jemně sekaného kuřecího masa, které bylo drženo pohromadě fosfátovými solemi. Kousky, obalené speciálním těstíčkem byly lehce usmaženy, jen aby se těstíčko přichytilo, a byly hned individuálně zmrazeny ([IQF][2]). Dále byly zabaleny do krabic a rozeslány na jednotlivé prodejny. Na prodejnách se pak nugety usmažily na požadovanou vnitřní teplotu a prodávaly.
 
 V listopadu 2003, McDonald změnil recepturu z tradičních stehen a prsou na pouze prsa. To bylo silně podporováno reklamou, podle které se podstatně zlepšila chuť a kvalita nuget. McDonald udává, že používají jen mechanicky získané maso z kuřecích prsou s malým množstvím kůže pro zachování šťavnatosti a zlepšení chuti.
 
@@ -52,5 +52,5 @@ Islámské náboženství, podobně jako židovské, nedovoluje mimo plodů moř
 Tyto nové halal McNugety dávají tudíž muslimům příležitost ochutnat něco, co není jen dalším rychlým občerstvením. Dostanou se tak k jídlu, které mohou jíst společně se svými nemuslimskými sousedy.
 
  [1]: http://2017.hostovka.cz/soubor/28-8-06-1.JPG
- [2]: http://2017.hostovka.cz/soubor/28-8-06-2.JPG
- [3]: https://en.wikipedia.org/wiki/Individual_Quick_Freezing
+ [2]: https://en.wikipedia.org/wiki/Individual_Quick_Freezing
+
