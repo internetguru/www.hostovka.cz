@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=170.html" data-og-image="/files/preview/clanky/chicken_nuggets/general.jpg" data-og-type="article"}
 
-{id="kureci\_nugety" ctime="2006-08-28" author="Michael Klíma" short="Kuřecí nugety"}
+{id="kureci\_nugety" ctime="2006-08-28" mtime="2018-12-04" author="Michael Klíma" short="Kuřecí nugety"}
 
 # Zrození a vývoj kuřecích nuget
 
