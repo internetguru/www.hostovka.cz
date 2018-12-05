@@ -2,4 +2,5 @@
 <UrlHandler>
   <rewrite match="clanky/"></rewrite>
   <redir link="chicken_nuggets">kureci_nugety</redir>
+  <redir link="after_dinner_mints">mentolky_po_jidle</redir>
 </UrlHandler>

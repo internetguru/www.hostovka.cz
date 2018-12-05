@@ -18,6 +18,8 @@ Podle verze mého dobrého přítele René Arenda, to nicméně s jejich vynále
 
 Mohlo by vás zajímat, že uvedení nuget na jídelní lísky McDonaldu trvalo téměř dva roky, až do roku 1983. Cena tohoto procesu šla do milionů dolarů – what a country! V těch milionech je započteno i 100 dolarů, které jsem dostal za to, že jsem se jeden den zúčastnil jejich laboratorní ochutnávky. Takže Renému věřím, že to tak bylo.
 
+{id="ochutnavky\_a\_testovani"}
+
 ## Ochutnávky a testování
 
 Ochutnávek probíhalo více. Většinou deset pozvaných „hodnotitelů“, sedících v individuálních kójích, posuzují několik verzí nuget. Přesně si nepamatuji všechny sledované parametry, ale jsou to například:
@@ -31,17 +33,23 @@ Ochutnávek probíhalo více. Většinou deset pozvaných „hodnotitelů“, se
 
 Jejich posudky následně vyhodnotí další tým hodnotitelů a podle výsledků se dělají další a další testy. Tyto testy se pak také provádí v různých státech Ameriky kdy se navíc hodnotí navrhovaná cena, která může být v každém státě jiná.
 
+{id="vytvoreni\_postupu\_a\_vyber\_ingredienci"}
+
 ## Vytvoření postupu a výběr ingrediencí
 
 Od Reného jsem se dozvěděl, že testům předcházel výběr vhodného druhu a stáří kuřat, způsob krájení a velikost kousků, druh vhodného koření (které může být v různých státech jiné), vhodná mouka, vejce a strouhanka, a několik dalších ingredienci které vám tady ani nebudu popisovat.
 
 Potom následoval zdlouhavý výběr správného druhu fritovacího oleje, fritézy, a téměř nekonečné testy vhodné teploty a délky smažení. Dále se také vybíraly velikosti balení a velikost kousků. Důležitá byla také správná volba dipů neboli omáček, do kterých se nugety namáčí.
 
+{id="vyvoj_receptury"}
+
 ## Vývoj receptury
 
 Nugety byly původně malé kousky jemně sekaného kuřecího masa, které bylo drženo pohromadě fosfátovými solemi. Kousky, obalené speciálním těstíčkem byly lehce usmaženy, jen aby se těstíčko přichytilo, a byly hned individuálně zmrazeny ([IQF][2]). Dále byly zabaleny do krabic a rozeslány na jednotlivé prodejny. Na prodejnách se pak nugety usmažily na požadovanou vnitřní teplotu a prodávaly.
 
 V listopadu 2003, McDonald změnil recepturu z tradičních stehen a prsou na pouze prsa. To bylo silně podporováno reklamou, podle které se podstatně zlepšila chuť a kvalita nuget. McDonald udává, že používají jen mechanicky získané maso z kuřecích prsou s malým množstvím kůže pro zachování šťavnatosti a zlepšení chuti.
+
+{id="kureci\_nugety\_halal"}
 
 ## Kuřecí nugety halal
 
