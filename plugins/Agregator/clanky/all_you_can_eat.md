@@ -3,11 +3,11 @@
 
 {id="all\_you\_can\_eat" ctime="2006-02-08" author="Michael Klíma"}
 
-# All You Can Eat
+# All you can eat
 
 {kw="nejčtenější, gastronomie, bufet, pozdní snídaně"}
 
-All you can eat, v českém překladu „kolik stačíte sníst“, je způsob pohostinství, který vznikl v Americe. Je to výraz pro nabídku neomezeného množství jídel bufetovou formou za jednotnou atraktivní cenu.
+All you can eat _(česky kolik stačíte sníst)_, je způsob pohostinství, který vznikl v Americe. Je to výraz pro nabídku neomezeného množství jídel bufetovou formou za jednotnou atraktivní cenu.
 
 Tento způsob podávání jídel je dnes běžný i v České republice a to hlavně při podávání (pozdních) snídaní. Zatím s tím nejsou ale moc dobré zkušenosti.
 
@@ -34,9 +34,9 @@ Platí zde také moje další teorie. Ta zní, že do České republiky nemůže
 
 Procestoval jsem téměř celý svět a je těžké zjistit, co všechny etnické skupiny dnes jedí doma k snídani. Čeho se dá ale snadno všimnout je, jak někteří jedí když se dostanou k all you can eat bufetu. To neplatí jenom v Česku, ale po celém světě.
 
-Anglicky se tomu říká: „They eat like horses“. To by se dalo do češtiny přeložit jako: „Jedí jako kobylky“. Etnický původ hostů nebo jejich společenské postavení nehraje žádnou roli. Všimněte si například oficiálních banketů nebo rautů. Někteří lidé se například vůbec nestydí si vzít něco domů „na potom“.
+V Americe tomu říkají _they eat like horses_, česky _jedí jako kobylky_. Etnický původ hostů nebo jejich společenské postavení nehraje žádnou roli. Všimněte si například oficiálních banketů nebo rautů. Někteří lidé se například vůbec nestydí si vzít něco domů „na potom“.
 
-Proto některé restaurace v Americe u takových bufetů uvádí: „All you can eat, but not all you can take home“, česky: „Jezte kolik stačíte sníst, ale ne kolik si stačíte vzít domů". Z toho je vidět, že je to všude stejné a proto nevěště hlavu.
+Proto některé restaurace v Americe se u takových bufetů uvádí _all you can eat, but not all you can take home_, česky _jezte kolik stačíte sníst, ale ne kolik si stačíte vzít domů_. Z toho je vidět, že je to všude stejné a proto nevěště hlavu.
 
 Jediné řešení je studium tvorby bufetů, psychologie prodeje, eventuálně studium Hostovky. K tomuto článku je také k dispozici [případová studie][1], kde je ukázáno, jak jsem se s tímto problémem vypořádal já.
 
