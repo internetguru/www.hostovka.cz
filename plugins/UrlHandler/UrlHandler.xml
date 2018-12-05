@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <UrlHandler>
   <rewrite match="clanky/"></rewrite>
+  <redir link="chicken_nuggets">kureci_nugety</redir>
 </UrlHandler>
