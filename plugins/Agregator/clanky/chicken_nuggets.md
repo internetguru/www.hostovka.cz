@@ -7,14 +7,16 @@
 
 {kw="jídla a jídelní lístky"}
 
-Kuřecí nugety byly oficiálně vynalezeny na základě poptávky předsedy McDonaldu jménem Fred Turner v roce 1979. Ten údajně kontaktoval jejich tehdejšího dodavatele s tím, že by chtěl vytvořit kuřecí jídlo o velikosti palce (finger food). Podle verze mého dobrého přítele René Arenda, to nicméně s jejich vynálezem bylo trochu jinak. René mi tajně sdělil, že nugety v roce 1981 vynalezl on, a to během několika vteřin. Kuřecí nugety jsou něco tak jednoduchého, že mě až udivuje, že jsem je nevynalezl já.
+Kuřecí nugety byly oficiálně vynalezeny na základě poptávky předsedy McDonaldu jménem Fred Turner v roce 1979. Ten údajně kontaktoval jejich tehdejšího dodavatele s tím, že by chtěl vytvořit kuřecí jídlo o velikosti palce (finger food).
+
+Podle verze mého dobrého přítele René Arenda, to nicméně s jejich vynálezem bylo trochu jinak. René mi tajně sdělil, že nugety v roce 1981 vynalezl on, a to během několika vteřin. Kuřecí nugety jsou něco tak jednoduchého, že mě až udivuje, že jsem je nevynalezl já.
 
 {class="figure"}
 
 ![René Arend a M. Klima na McDonald universite v Dearfield, Illinois][1] 
 :   René Arend (šéfkuchař největšího řetězce restaurací rychlého občerstvení) a M. Klíma na McDonald univerzitě v Dearfield, Illinois
 
-Mohlo by vás zajímat, že uvedení nuget na jídelní lísky McDonaldu trvalo téměř dva roky, až do roku 1983. Cena tohoto procesu šla do milionů dolarů &ndash; what a country! V těch milionech je započteno i 100 dolarů, které jsem dostal za to, že jsem se jeden den zúčastnil jejich laboratorní ochutnávky. Takže Renému věřím, že to tak bylo.
+Mohlo by vás zajímat, že uvedení nuget na jídelní lísky McDonaldu trvalo téměř dva roky, až do roku 1983. Cena tohoto procesu šla do milionů dolarů – what a country! V těch milionech je započteno i 100 dolarů, které jsem dostal za to, že jsem se jeden den zúčastnil jejich laboratorní ochutnávky. Takže Renému věřím, že to tak bylo.
 
 ## Ochutnávky a testování
 
