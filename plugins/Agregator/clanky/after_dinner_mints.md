@@ -1,54 +1,39 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=151.html" data-og-image="/files/preview/clanky/after\_dinner\_mints/general.jpg" data-og-type="article"}
 
-{id="after\_dinner\_mints" ctime="2006-05-22" author="Michael Klíma" short="After dinner mints" authorid="hostovka/michael_klima"}
+{id="mentolky\_po\_jidle" ctime="2006-05-22" mtime="2018-12-05" author="Michael Klíma" short="Mentolky po jídle"}
 
-# After dinner mints
+# Bonbóny pro osvěžení dechu po jídle
 
 {kw="etika"}
 
-Myslím si, že vám dlužím vysvětlení toho co jsou to after dinner mints o kterých jsem se zmínil v mém příspěvku o párátkách.
+Bonbóny pro osvěžení dechu po jídle _(anglicky after dinner mints)_ jsou víceméně americký vynález. Mají za úkol osvěžit ústa, a to obzvláště po jídlech s výraznou chutí. Můžete na ně narazit nejenom v restauracích, ale často i v amerických a francouzských domácnostech, kde se tento zvyk stále drží.
 
-After dinner mints jsou více méně americký vynález. Francouzi mají ale něco podobného. Říkají tomu friandises.
-
-Francouzské friandises jsou kousky nebo sousta něčeho sladkého, jako například čokoládové bonbony nebo jahody v čokoládě, apod., které se v lepších restauracích ať již ve Francii nebo v Americe podávají nakonec stolování jakoby pozornost podniku, neboli "na dům".
-
-Podobným způsobem se i v Americe podávaly after dinner mints které mají osvěžit ústa po jídle, obzvláště po jídle nějakých pokrmů s výraznou chutí a to nejenom v restauracích ale i v domácnostech.
-
-V domácnostech se tento zvyk stále ještě drží a některé hostitelky se předhánějí v jejich nabídce a jsou schopni na nich utratit velké peníze.
-
-Velice módní jsou belgické čokoládové bonbony.
+Velice módní jsou belgické čokoládové bonbóny nebo skoro stejně dobré bonbóny z Venezuely. Francouzi mají něco podobného, říkají tomu _friandises_. Francouzské _friandises_ jsou kousky nebo sousta něčeho sladkého, jako například čokoládové bonbóny nebo jahody v čokoládě. Ty se v lepších restauracích, ať již ve Francii nebo v Americe, podávají nakonec stolování jakoby pozornost podniku.
 
 {class="figure"}
 
-![čokoládový bonbon 1][1] 
-:   čokoládový bonbon 1
+![čokoládový bonbón 1][1] 
+:   čokoládový bonbón 1
 
 {class="figure"}
 
-![čokoládový bonbon 2][2] 
-:   čokoládový bonbon 2
+![čokoládový bonbón 2][2] 
+:   čokoládový bonbón 2
 
 {class="figure"}
 
-![čokoládový bonbon 3][3] 
-:   čokoládový bonbon 3
+![čokoládový bonbón 3][3] 
+:   čokoládový bonbón 3
 
-Ale jako by toho nebylo dost tak dnes dostanete skoro stejně dobré bonbony z Venezuely.
+Z prodeje _friandises_ a tzv. _after dinner mints_ se stal velký byznys. Stejně jako vše, tak i toto se poněkud zjednodušilo. Ve většině restaurací jsou nyní mentolky pro osvěžení dechu po jídle nabízené u východu z restaurací. Zpravidla jsou položeny přímo na pultíku u hostesky, kde si jich každý host při odchodu může vzít kolik chce. What a country!
 
-{class="figure"}
+Možná že si říkáte jak je možné, že američtí restauratéři dávají tolik věcí zadarmo? Je to jednoduché. Někteří hosté si bonbónů vezmou plnou hrst, ale někteří si nevezmou vůbec. Nehledě na to, že mentolky podávané zadarmo většinou za moc nestojí.
 
-![bonboniéra][4] 
-:   bonboniéra
-
-Tudíž z prodeje friandises se stal velký byznys. Nicméně after dinner mints podávané v restauracích také neztratily svoji popularitu, ale jako vše, tak i toto se poněkud zjednodušilo. Ve většině restaurací jsou ty after dinner mints u východu z restaurace, zpravidla na pultíku hostesky, kde si jich každý host při odchodu může vzít kolik chce, jako těch párátek. What a counry!
-
-Možná že si řeknete jak to ti američtí restauratéři mohou dělat, že dávají tolik věcí zadarmo, ale nemějte obavy. Je sice pravda, že některý host si těch after dinner mints vezme plnou hrst, ale někteří si je vůbec nevezmou a tak ono se to vyrovná, nehledě k tomu, že ty "zadarmo" skutečné skutečně za moc nestojí.
-
-Já jsem podávání after dinner mints doporučil Jardovi Honzajkovi, majiteli restaurace Steakgrill v Račiněvsi a restaurace Pod Hláskou v Roudnici, ale jak jse se dozvěděl, tak jen velmi málo hostů to ocenilo protože to v Česku není ještě zvykem, a někteří hosté nevědí že pravý důvod jejich podávání je aby si hosté osvěžili dech po jídle.
+Osobně jsem podávání mentolek po jídle doporučil Jardovi Honzajkovi, majiteli [restaurace Steakgrill][4]. Jak jsem se ale následně dozvěděl, tak to ocenilo jen velmi málo hostů. Někteří hosté dokonce ani neznali jejich pravý účel.
 
  [1]: http://2017.hostovka.cz/soubor/22-5-06-1.jpg
  [2]: http://2017.hostovka.cz/soubor/22-5-06-2.jpg
  [3]: http://2017.hostovka.cz/soubor/22-5-06-3.jpg
- [4]: http://2017.hostovka.cz/soubor/22-5-06-6.jpg
+ [4]: https://www.steakgrill.cz
 
