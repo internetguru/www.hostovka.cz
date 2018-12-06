@@ -1,50 +1,45 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-og-image="/files/preview/clanky/assembly_cooking/preview.jpg" data-og-type="article" data-source="http://2017.hostovka.cz/clanek.php?clanek=438"}
 
-{id="assembly\_cooking" author="Michael Klíma" authorid="hostovka/michael\_klima" ctime="2009-05-19"}
+{id="sestavovani_komponentu" author="Michael Klíma" ctime="2009-05-19" mtime="2018-12-06"}
 
-# Assembly cooking
+# Sestavování komponentů
 
-{kw="kuchyňské techniky, nejčtenější"}
+{kw="nejčtenější, kuchyňské techniky, komponenty, assembly cooking"}
 
-Assembly cooking je technika sestavení a presentace jídel odborně připravených ze zdravotně nezávadných kuchyňsky upravených potravin (polotovarů) efektivními moderními technikami.
+Sestavování komponentů _(anglicky assembly cooking)_ spočívá v sestavení a prezentaci odborně připravených jídel složených ze zdravotně nezávadných a kuchyňsky upravených potravin, tzv. polotovarů. Technika vaření je dnes jiná než byla za dob Carêma, Escoffiera a jiných velkých kuchařů, kteří se o všechny bývalé techniky zasloužili.
 
-Technika vaření je dnes jiná než byla za dob Caréma, Escoffiera a jiných velkých kuchařů kteří se o všechny ty bývalé techniky zasloužili.
+Sestavování komponentů je založeno na znalostech
 
-  * Cílem dnešního kuchařského umění je odborně, hygienicky a ekonomicky správně připravit jídlo, které je zdravé, chutné a atraktivní, a které si získá obdiv a uznání jeho konzumentů. Cesta k tomuto cíli je jen ve znalostech a schopnostech kuchaře.
-  * (M. D. Klíma)
+* populárních kuchyní,
+* standardních receptur,
+* zbožíznalství,
+* toho jak se potraviny jedna s druhou snoubí a
+* moderních kuchařských zařízení a technik.
 
-{id="efektivni\_kuchynske\_techniky"}
+## Nároky na kuchaře
 
-## Efektivní kuchyňské techniky
+Kuchyňské techniky, kdysi založené na manuální zručnosti, se díky moderním strojům a výrobnímu zařízením zrychlily a zefektnily. Nicméně kladou vyšší nároky na schopnosti kuchyňského personálu tyto techniky využívat.
 
-Kuchyňské techniky, kdysi založené na manuální zručnosti, se díky moderním strojům a výrobnímu zařízení zrychlily a zefektivněly, nicméně kladou vyšší nároky na schopnosti kuchyňského personálu tyto techniky využívat.
+{class="example"}
 
-V mé definici dnešního kuchařského umění se sice vyloženě nezmiňuji o rychlosti nebo o čase, ale jasně je tam uvedena ekonomika.
+Cílem dnešního kuchařského umění je odborně, hygienicky a ekonomicky správně připravit jídlo, které je zdravé, chutné a atraktivní, a které si získá obdiv a uznání jeho konzumentů. Cesta k tomuto cíli je jen ve znalostech a schopnostech kuchaře.
 
-Ekonomika a čas při vaření si vyžádaly, že vaření je dnes rozděleno na přípravu a na dohotovení případně na presentaci jídel, což je v zásadě systém Assembly cooking.
+V mé definici dnešního kuchařského umění se sice vyloženě nezmiňuji o rychlosti nebo o čase, ale jasně je tam uvedena ekonomika. Ekonomika a čas při vaření si vyžádaly, že vaření je dnes rozděleno na přípravu a na dohotovení případně na presentaci jídel, což je v zásadě systém sestavování komponentů.
 
 {id="priprava"}
 
 ## Příprava
 
-Kdysi se u každého receptu opakoval popis způsobu přípravy potravin čistěním, krájením, strouháním a jinými mechanickými technikami. Opakovalo se, že před jejich úpravou, musí některé potraviny být očištěné, marinované, předvařené, oblanšírované, případně i jinak tepelně „připravené“ před jejich konečnou úpravu.
+Kdysi se u každého receptu opakoval popis způsobu přípravy potravin čistěním, krájením, strouháním a jinými mechanickými technikami. Opakovalo se, že před jejich úpravou, musí některé potraviny být očištěné, marinované, předvařené, blanšírované, případně i jinak tepelně připravené před jejich konečnou úpravu.
 
-To bylo v dobách, kdy se vůbec nevědělo o komerčně vyráběných polotovarech, nebo o konvenientních, tak zvaných k vaření připravených (Ready to Cook) potravinách, přípravcích, nebo o hotových jídlech.
+To bylo v dobách, kdy se vůbec nevědělo o komerčně vyráběných polotovarech, tzv. k vaření připravených _(anglicky ready to cook)_ potravinách, přípravcích, nebo o hotových jídlech. Dnes je trh doslova zaplaven již očištěnými, nakrájenými, porcovanými či jinak kuchyňsky upravenými _(konvenientními)_ potravinami. Tím se podstatně zjednodušila a zrychlila fyzická příprava jídel.
 
-Dnes je trh doslova zaplaven již očištěnými, nakrájenými, porcovanými či jinak kuchyňsky upravenými, tak zvanými „konvenientními“ potravinami, čímž se podstatně zjednodušila a zrychlila fyzická příprava jídel.
+## Sestavování jídel ve světě
 
-{id="dohotoveni\_a\_prezentace"}
+Dohotovení jídel sestavením jejich komponentů _(anglicky assembly)_ není nic nového. Čínská, japonská a mnoho dalších orientálních a asijských kuchyní tuto techniku používají po tisíciletí. Americké restaurace rychlého občerstvení _(anglicky fast food)_ jsou na těchto technikách rovněž založeny.
 
-## Dohotovení a prezentace
+Pracoval jsem v Americe v mnoha velkých luxusních restauracích podávajících stovky jídel, ve kterých jsem neměl ani jednoho vyučeného kuchaře. Přežil jsem jedině proto, že jsem měl dobré, přesné, ale jednoduché recepty a že jsem jako jeden z prvních techniku sestavování komponentů používal.
 
-Dohotovení jídel sestavením jejich komponentů, anglicky assembly, není nic nového. Nakonec čínská, japonská a mnoho dalších orientálních a asijských kuchyní tuto techniku používají po tisíciletí, a americké „fast food“ (restaurace rychlého občerstvení) jsou na těchto technikách rovněž založeny.
-
-Americké kuchyni se často vyčítá nedostatek „finesy“, ale pracoval jsem v Americe v mnoha velkých, takzvaných „luxury restaurants“, tedy ne vyloženě ve francouzských restauracích, ve kterých se podávaly stovky jídel, a ve kterých jsem neměl ani jednoho vyučeného kuchaře, a kde jsem přežil jedině proto, že jsem měl dobré, přesné, ale jednoduché recepty a že jsem jako jeden z prvních techniku assembly cooking, neboli sestavování komponentů používal.
-
-Dnes mně to zatím moc lidí nevěří, ale na mé předpovědi již mockrát došlo, a tak bych chtěl, aby bylo dokumentován můj výrok, že typická česká kuchyně, založená na pracných a neefektivních metodách přípravy jídel má odzvoněno a že moderní česká kuchyně se bez nějaké formy „sestavování“ již neobejde, neboli že vznikne i jakési české fast food.
-
-Assembly Cooking je však založeno na znalosti všech populárních kuchyní, na standardních recepturách, na znalosti zbožíznalství, na znalosti toho jak se potraviny jedna s druhou snoubí a na dokonalé znalosti moderních kuchařských zařízení a technik.
-
-Dalším předpokladem jsou organizační schopnosti, znalost logistiky a znalost mise-en-place jednotlivých kuchyní.
+Dnes mně to zatím moc lidí nevěří, ale na mé předpovědi již mnohokrát došlo. Chtěl bych tedy, aby byl dokumentován můj výrok, že typická česká kuchyně, založená na pracných a neefektivních metodách přípravy jídel má odzvoněno a že moderní česká kuchyně se bez nějaké formy sestavování komponentů již neobejde. Neboli že vznikne jakési české rychlé občerstvení _(fast food)_.
 
