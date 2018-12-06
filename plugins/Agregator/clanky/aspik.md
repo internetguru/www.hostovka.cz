@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=167.html" data-og-image="/files/preview/clanky/aspik/general.jpg" data-og-type="article"}
 
-{id="aspik" ctime="2006-08-07" author="Michael Klíma"}
+{id="aspik" ctime="2006-08-07" mtime="2018-12-06" author="Michael Klíma"}
 
 # Aspik
 
