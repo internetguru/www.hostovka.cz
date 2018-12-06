@@ -11,6 +11,8 @@ Samoobslužná restaurace (anglicky _all you can eat_ nebo novodobě _buffet_), 
 
 Tento způsob podávání jídel je dnes běžný i v České republice a to hlavně při podávání (pozdních) snídaní. Zatím s tím ale nejsou moc dobré zkušenosti.
 
+{id="definice_pohostinstvi"}
+
 ## Definice pohostinství
 
 Ať již v soukromí nebo, ve veřejné instituci, pohostinství je srdečné a vřelé přijímání, obsluhování, a případně bavení hostů. Pohostinství v soukromí se od pohostinství ve veřejných institucích liší tím, že je poskytováno zdarma.
@@ -19,12 +21,16 @@ Pohostinství poskytované za úplatu je považováno za pohostinství komerčn�
 
 K provozování pohostinství komerčním způsobem musí provozovatel mít živnostenské oprávnění a musí ho provozovat za účelem vytvoření zaslouženého zisku. Neboli restaurace se musí držet mé zásady „dát lidem to co chtějí“, ale musí pamatovat i na druhou stranu té mince která říká „dát lidem to, co jim za jejich peníze patří“.
 
+{id="dejte\_lidem\_co\_jim\_patri"}
+
 ## Dejte lidem, co jim patří
 
 Neoficiálně platí, že se jako restauratér musíte snažit, aby se „vlk nažral a koza zůstala celá“. Neboli podle mé teorie je umění v tom dát hostům právě to, co jim náleží, co jim za jejich peníze patří. O nic méně ani o nic více. Platí zde moje dvě zásady:
 
   * Restaurace není nějaká Armáda spásy nebo jiná charitativní organizace. Restaurace je legitimní byznys, ve kterém musí restauratér (podle živnostenského zákona) vyprodukovat zasloužený zisk.
   * Platí zde také moje další teorie. Ta zní, že do České republiky nemůžete přenést všechno, co vidíte někde v zahraničí, aniž byste to řádně domestikovali.
+
+{id="chovani_hostu"}
 
 ## Chování hostů
 
