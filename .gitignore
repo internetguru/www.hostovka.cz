@@ -2,3 +2,5 @@
 .inotify
 .*.sw*
 files/
+.watch_user
+.watch_user.tmp
