@@ -8,7 +8,7 @@
 # Co jsou to amuse-gueule
 
 
-{kw="co-kdy-kde"}
+{kw="co-kdy-kde, jednohubka, předkrm"}
 
 
 Amuse-gule, také zvané _canapés_ je francouzský výraz pro jednohubky se kterým se často setkáte na mezinárodních lístcích. Jsou to malá, velice jednoduchá pikantní sousta, z masa, ryb, plodů moře, zeleniny a ovoce, podávaná také ke koktejlům.
