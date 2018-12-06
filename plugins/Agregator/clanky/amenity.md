@@ -13,6 +13,8 @@ V cestovním ruchu je doplněk či tzv. _amenita_ (z anglického _amenity_) př�
 
 Typickými doplňky jsou například klapky na oči usnadňující spaní při denním světle, hřebínek, kartáček a pasta na zuby, holicí strojek a krém na holení.
 
+{id="vyvoj\_v\_case"}
+
 ## Vývoj v čase
 
 Dříve se některé ubytovací provozy přímo předháněly v množství a kvalitě takovýchto doplňků. Jejich cena pak tvořila nezanedbatelné procento nákladů. Tato mánie již trochu ochabla, takže se dnes i v relativně drahých hotelech můžete setkat například s nízkonákladovým dávkovačem mýdla.
@@ -25,11 +27,15 @@ Obsazenost hotelů klesla pod přijatelnou hranici a to hlavně u drahých hotel
 
 Dalším krokem bylo nahrazování balených mýdel a šamponů dávkovači umístěnými nad vanu, do sprchy a nad umyvadlo. Ukázalo se, že i hosté v drahých hotelech toto rozhodnutí přijali kladně.
 
+{id="soucasny_stav"}
+
 ## Současný stav
 
 Americké letecké společnosti podávají dnes méně jídla než kdysi. Na některých krátký tratích jídlo zdarma nedávají již vůbec. Takže si cestující jídlo musí platit. Kolik to bude v budoucnu není ještě pevně rozhodnuto, ale zatím se platí 5 € za snídani, 8 € za oběd a 12 € za večeři.
 
 Zřejmě není daleko doba, kdy se bude v hotelu ložní prádlo při delším pobytu hosta vyměňovat jen na požádání, nebo jen jednou za týden.
+
+{id="hotelove\_doplnky\_a_sluzby"}
 
 ## Hotelové doplňky a služby
 
