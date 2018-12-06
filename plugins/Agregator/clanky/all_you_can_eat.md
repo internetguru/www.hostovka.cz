@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=137.html" data-og-image="files/preview/clanky/all\_you\_can_eat/preview.jpg" data-og-type="article"}
 
-{id="samoobsluzna\_restaurace" ctime="2006-02-08" mtime="2018-12-05" author="Michael Klíma" short="Samoobslužná restaurace"}
+{id="samoobsluzna_restaurace" ctime="2006-02-08" mtime="2018-12-05" author="Michael Klíma" short="Samoobslužná restaurace"}
 
 # Sněz kolik sníš a nikoli kolik odneseš
 
@@ -23,8 +23,8 @@ K provozování pohostinství komerčním způsobem musí provozovatel mít živ
 
 Neoficiálně platí, že se jako restauratér musíte snažit, aby se „vlk nažral a koza zůstala celá“. Neboli podle mé teorie je umění v tom dát hostům právě to, co jim náleží, co jim za jejich peníze patří. O nic méně ani o nic více. Platí zde moje dvě zásady:
 
- * Restaurace není nějaká Armáda spásy nebo jiná charitativní organizace. Restaurace je legitimní byznys, ve kterém musí restauratér (podle živnostenského zákona) vyprodukovat zasloužený zisk.
- * Platí zde také moje další teorie. Ta zní, že do České republiky nemůžete přenést všechno, co vidíte někde v zahraničí, aniž byste to řádně domestikovali.
+  * Restaurace není nějaká Armáda spásy nebo jiná charitativní organizace. Restaurace je legitimní byznys, ve kterém musí restauratér (podle živnostenského zákona) vyprodukovat zasloužený zisk.
+  * Platí zde také moje další teorie. Ta zní, že do České republiky nemůžete přenést všechno, co vidíte někde v zahraničí, aniž byste to řádně domestikovali.
 
 ## Chování hostů
 
@@ -36,4 +36,5 @@ Proto některé restaurace v Americe u takových bufetů uvádí „co dokážet
 
 Jediné řešení nevhodného chování hostů v samoobslužné restauraci je studium tvorby bufetů, psychologie prodeje, eventuálně studium Hostovky. K tomuto článku je také k dispozici [případová studie][1], kde je ukázáno, jak jsem se s tímto problémem vypořádal já.
 
-[1]: http://2017.hostovka.cz/clanek.php?clanek=137.html
+ [1]: http://2017.hostovka.cz/clanek.php?clanek=137.html
+
