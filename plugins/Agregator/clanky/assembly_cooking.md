@@ -11,11 +11,13 @@ Vaření z polotovarů _(anglicky assembly cooking)_ spočívá v sestavení a p
 
 Vaření z polotovarů je založeno na znalostech:
 
-* populárních kuchyní,
-* standardních receptur,
-* zbožíznalství,
-* toho, jak se potraviny jedna s druhou snoubí, a
-* moderních kuchařských zařízení a technik.
+  * populárních kuchyní,
+  * standardních receptur,
+  * zbožíznalství,
+  * toho, jak se potraviny jedna s druhou snoubí, a
+  * moderních kuchařských zařízení a technik.
+
+{id="naroky\_na\_kuchare"}
 
 ## Nároky na kuchaře
 
@@ -27,11 +29,15 @@ Cílem dnešního kuchařského umění je odborně, hygienicky a ekonomicky spr
 
 V mé definici dnešního kuchařského umění se sice vyloženě nezmiňuji o rychlosti nebo o čase, ale jasně je tam uvedena ekonomika. Ekonomika a čas při vaření si vyžádaly, že vaření je dnes rozděleno na přípravu a na dohotovení případně na prezentaci jídel, což je v zásadě systém vaření z polotovarů.
 
+{id="priprava_polotovaru"}
+
 ## Příprava polotovarů
 
 Kdysi se u každého receptu opakoval popis způsobu přípravy potravin čistěním, krájením, strouháním a jinými mechanickými technikami. Opakovalo se, že před jejich úpravou, musí některé potraviny být očištěné, marinované, předvařené, blanšírované, případně i jinak tepelně připravené před jejich konečnou úpravu.
 
 To bylo v dobách, kdy se vůbec nevědělo o komerčně vyráběných polotovarech, tzv. k vaření připravených _(anglicky ready to cook)_ potravinách, přípravcích, nebo o hotových jídlech. Dnes je trh doslova zaplaven již očištěnými, nakrájenými, porcovanými či jinak kuchyňsky upravenými _(konvenientními)_ potravinami. Tím se podstatně zjednodušila a zrychlila fyzická příprava jídel.
+
+{id="sestavovani\_jidel\_ve_svete"}
 
 ## Sestavování jídel ve světě
 
