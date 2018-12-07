@@ -21,7 +21,7 @@ Vaření z polotovarů je založeno na znalostech:
 
 ## Nároky na kuchaře
 
-Kuchyňské techniky, kdysi založené na manuální zručnosti, se díky moderním strojům a výrobnímu zařízením zrychlily a zefektivnily. Nicméně kladou vyšší nároky na schopnosti kuchyňského personálu tyto techniky využívat.
+Kuchyňské techniky, kdysi založené na manuální zručnosti, se díky moderním strojům a výrobním zařízením zrychlily a zefektivnily. Nicméně kladou vyšší nároky na schopnosti kuchyňského personálu tyto techniky využívat.
 
 {class="example"}
 
