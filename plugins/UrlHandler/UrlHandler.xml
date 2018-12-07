@@ -7,4 +7,5 @@
   <redir link="allspice">nove_koreni</redir>
   <redir link="amenity">doplnky</redir>
   <redir link="amuse_gueule">jednohubky</redir>
+  <redir link="assembly_cooking">polotovary</redir>
 </UrlHandler>
