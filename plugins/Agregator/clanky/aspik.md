@@ -1,49 +1,40 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=167.html" data-og-image="/files/preview/clanky/aspik/general.jpg" data-og-type="article"}
 
-{id="aspik" ctime="2006-08-07" author="Michael Klíma" short="Aspik" authorid="hostovka/michael_klima"}
+{id="aspik" ctime="2006-08-07" mtime="2018-12-06" author="Michael Klíma" short="Aspik"}
 
-# Aspik
+# Podstata a využití aspiku
 
-{kw="jídla a jídelní lístky"}
+{kw="jídla a jídelní lístky, aspik, želatina, Carême"}
 
-Na stránkách www.gastronews.cz, které jsou více méně určeny odborníkům a do kterých ještě občas přispívám, mi jeden čtenář položil několik otázek ohledně aspiku.
+Obecně vzato je aspik rosol, který se používá k zalévání nebo pokrývání masa, ryb, zelenin a salátů, případně k obložení studených mís. O aspicích a rosolech byla napsána celá pojednání. Obzvláště se jimi zabýval jeden z nejslavnějších gastronomů 19. století [Marie-Antoine Carême][1].
 
-U té příležitosti jsem si uvědomil, že by o aspiku měli něco vědět i studenti Hostovky a proto vám přikládám to málo co o aspiku vím.
-
-Aspik je výraz kterým se původně označoval jistý druh jídel studené kuchyně.
-
-Mnozí odborníci se domnívají, že tento výraz byl odvozen od hadů zvaných asp, "jejichž ledový chlad připomíná studený rosol".
-
-Obecně aspik je rosol který se používá k zalévání nebo pokrývání masa, ryb, zelenin a salátů, případně k obložení studených mís.
-
-O aspicích a rosolech byla napsána celá pojednání a obzvláště Carême se aspiky zabýval velice podrobně. Základem aspiků (rosolů) je želatina.
+Aspik je výraz kterým se původně označoval jistý druh jídel studené kuchyně. Mnozí odborníci se domnívají, že byl tento byl odvozen od hadů zvaných _asp_, jejichž ledový chlad připomíná studený rosol. Základem aspiku je želatina.
 
 {id="zelatina"}
 
 ## Želatina
 
-Želatina, anglicky gelatin, je amortní beztvárná hmota, bez pachu, která nabobtná ve vodě a když je smíchána s horkou vodou vytvoří viskósní hmotu která se po vychladnutí změní na rosol anglicky jelly, za předpokladu, že se dlouho nevařila.
+Želatina _(anglicky gelatin)_ je beztvará (amorfní) hmota bez pachu, která nabobtná ve vodě. Když je smíchána s horkou vodou vytvoří viskózní hmotu, která se po vychladnutí změní na rosol _(anglicky jelly)_.
 
-Je to živočišná bílkovina se schopností "želírovat" používaná v potravinářském průmyslu a při domácím vaření, která má i jiné průmyslové použití.
+Používá se jak při domácím vaření, tak v průmyslu. Získává se dlouhým vařením z kolagenu, bílkoviny obsažené v kůži a kostech živočichů. Může být ušlehána do pěny a je také používaná jako emulzifikační a stabilizační prostředek mnoha pokrmů.
 
-Získává se z collagenu, bílkoviny obsažené v kůži a kostech živočichů. Ze kterých se dlouhým vařením extrahuje.
+Želatinu můžeme připravit z telecích nebo vepřových nožiček, hovězí kližky a nebo z kostí mladých zvířat. Nyní jsou na trhu aspiky v prášku, které jsou dokonce již ochucené. Práce s nimi je tak jednoduchá, až by se Carême a jiní slavní kuchaři divili.
 
-Želatina může být ušlehána do pěny je používaná také jako emuslifikační a stabilizační prostředek mnoha pokrmů.
+{id="vyuziti_aspiku"}
 
-Želatinu (rosol) nebo jinak řečeno aspik si můžeme připravit z vepřových nožiček, telecích nebo vepřových noh a hovězí kližky, anebo z kostí mladých zvířat. Ve velkých kuchyních se kdysi připravoval masitý rosol ze želatiny, která se rozmíchá v masitém nebo rybím odvaru.
+## Využití aspiku
 
-Kdo by se s tím ale dnes ještě dělal. Na trhu jsou dnes aspiky v prášku, které jsou dokonce již ochucené. Práce s nimi je tak jednoduchá (idiot proof) že by se Carême a jiní slavní kuchaři až divili.
+Aspik sloužil dříve nejenom pro dekoraci, ale také hlavně jako konzervační prostředek. To se hodilo za dob, kdy se jídla vařila několik dní dopředu (konkrétně například Carêmovy výtvory).
 
-Aspik v dobách těchto kuchařů, kdy se některá jídla (jako konkrétně Carémovy výtvory) připravovala několik dní dopředu, sloužil nejenom jako dekorační, ale hlavně konzervační prostředek.
+V České republice jsou jídla v aspiku, velice oblíbená. V zemích jako Afrika, Blízký východ a Orient jsou tato jídla téměř neznámá. Hlavním důvodem je, že jídla v aspiku musí být uchovávána v chladnu.
 
-V česku jídla v aspiku byla, a dodnes ještě jsou, velice oblíbená, ale jsou země jako například Tichomoří, Afrika, Blízký Východ a Orient ve kterých tato jídla jsou téměř neznámá. Jeden důvod je, že tato jídla musí být uchovávána v chladnu nejlépe v lednici.
+V Americe, kde chlazení jídel není problém, nejsou jídla v aspiku moc oblíbená. Proto mě vždy udivuje, že se v Česku americkým turistům strkají pod nos české lahůdky typu kapr nebo rolka v aspiku. Oni to ti turisté snědí, ale nechtějte slyšet, jak tato jídla popisují po návratu domů.
 
-V Americe ale, kde se nedá říci, že chlazení jídel je nějakým problémem, jídla v aspiku moc oblíbená také nejsou. Proto mně vždy udivuje, že v Česku těm americkým turistům strkají pod nos jako předkrmy ty české "lahůdky" jako je kapr či nějaká rolka v aspiku. Oni to ti turisté eventuálně snědí, protože si myslí, že to je součástí české kuchyně, ale nechtějte slyšet jak tato jídla popisují když přijedou domů.
+{class="important"}
 
-Aspik, což si mnoho lidí neuvědomuje, je totiž ideální živnou půdou pro růst bakterií. Z toho důvodu bych vám například nedoporučoval jíst jídla v rosolu která byla někde vystavena po delší dobu bez chlazení a přikrytí.
+Aspik, což si mnoho lidí neuvědomuje, je ideální živnou půdou pro růst bakterií. Proto se ta krásná jídla zalitá aspikem, která se dva nebo i tři dny vystavují na kuchařských výstavách, po skončení výstavy ihned vyhazují.
 
-Proto ta krásná jídla zalitá nebo pokrytá aspikem, která se dva nebo i tři dny vystavují na kuchařských výstavách, kdy na ně stovky lidí dýchá a prská, se po skončení výstavy vyhazují. (Viz. Moje teorie o kuchařském umění).
+Osobně se domnívám, že by v restauracích mělo být u jídel v aspiku napsáno, že je hosté mohou jíst jen na vlastní nebezpečí. Tak jako se to dělá u Tatarského bifteku.
 
-Ale abych byl upřímný, tak si myslím že i v mnoha restauracích, a to ne jenom v Česku, by u těch všemožných jídel v aspiku měli mít napsáno, že to hosté mohou jíst jen na vlastní nebezpečí tak jako se to dělá u Tatarského bifteku.
-
+ [1]: https://cs.wikipedia.org/wiki/Marie-Antoine_Car%C3%AAme
