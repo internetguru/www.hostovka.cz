@@ -7,7 +7,7 @@
 
 {kw="jídla a jídelní lístky, aspik, želatina, Carême"}
 
-Obecně vzato je aspik rosol, který se používá k zalévání nebo pokrývání masa, ryb, zelenin a salátů, případně k obložení studených mís. O aspicích a rosolech byla napsána celá pojednání. Obzvláště se jimi zabýval Carême.
+Obecně vzato je aspik rosol, který se používá k zalévání nebo pokrývání masa, ryb, zelenin a salátů, případně k obložení studených mís. O aspicích a rosolech byla napsána celá pojednání. Obzvláště se jimi zabýval jeden z nejslavnějších gastronomů 19. století [Marie-Antoine Carême][1].
 
 Aspik je výraz kterým se původně označoval jistý druh jídel studené kuchyně. Mnozí odborníci se domnívají, že byl tento byl odvozen od hadů zvaných _asp_, jejichž ledový chlad připomíná studený rosol. Základem aspiku je želatina.
 
@@ -37,3 +37,4 @@ Aspik, což si mnoho lidí neuvědomuje, je ideální živnou půdou pro růst b
 
 Osobně se domnívám, že by v restauracích mělo být u jídel v aspiku napsáno, že je hosté mohou jíst jen na vlastní nebezpečí. Tak jako se to dělá u Tatarského bifteku.
 
+ [1]: https://cs.wikipedia.org/wiki/Marie-Antoine_Car%C3%AAme
