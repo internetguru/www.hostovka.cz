@@ -7,13 +7,13 @@
 
 {kw="jídla a jídelní lístky"}
 
-Kuřecí nugety byly oficiálně vynalezeny na základě poptávky předsedy McDonaldu jménem Fred Turner v roce 1979. Ten údajně kontaktoval jejich tehdejšího dodavatele s tím, že by chtěl vytvořit kuřecí jídlo o velikosti palce (finger food).
+Kuřecí nugety byly oficiálně vynalezeny na základě poptávky předsedy McDonaldu jménem Fred Turner v roce 1979. Ten údajně kontaktoval jejich tehdejšího dodavatele s tím, že by chtěl vytvořit kuřecí [jednohubky][1].
 
 Podle verze mého dobrého přítele René Arenda, to nicméně s jejich vynálezem bylo trochu jinak. René mi tajně sdělil, že nugety v roce 1981 vynalezl on, a to během několika vteřin. Kuřecí nugety jsou něco tak jednoduchého, že mě až udivuje, že jsem je nevynalezl já.
 
 {class="figure"}
 
-![René Arend a M. Klima na McDonald universite v Dearfield, Illinois][1] 
+![René Arend a M. Klima na McDonald universite v Dearfield, Illinois][2] 
 :   René Arend (šéfkuchař největšího řetězce restaurací rychlého občerstvení) a M. Klíma na McDonald univerzitě v Dearfield, Illinois
 
 Mohlo by vás zajímat, že uvedení nuget na jídelní lísky McDonaldu trvalo téměř dva roky, až do roku 1983. Cena tohoto procesu šla do milionů dolarů – what a country! V těch milionech je započteno i 100 dolarů, které jsem dostal za to, že jsem se jeden den zúčastnil jejich laboratorní ochutnávky. Takže Renému věřím, že to tak bylo.
@@ -45,7 +45,7 @@ Potom následoval zdlouhavý výběr správného druhu fritovacího oleje, frit�
 
 ## Vývoj receptury
 
-Nugety byly původně malé kousky jemně sekaného kuřecího masa, které bylo drženo pohromadě fosfátovými solemi. Kousky, obalené speciálním těstíčkem byly lehce usmaženy, jen aby se těstíčko přichytilo, a byly hned individuálně zmrazeny ([IQF][2]). Dále byly zabaleny do krabic a rozeslány na jednotlivé prodejny. Na prodejnách se pak nugety usmažily na požadovanou vnitřní teplotu a prodávaly.
+Nugety byly původně malé kousky jemně sekaného kuřecího masa, které bylo drženo pohromadě fosfátovými solemi. Kousky, obalené speciálním těstíčkem byly lehce usmaženy, jen aby se těstíčko přichytilo, a byly hned individuálně zmrazeny ([IQF][3]). Dále byly zabaleny do krabic a rozeslány na jednotlivé prodejny. Na prodejnách se pak nugety usmažily na požadovanou vnitřní teplotu a prodávaly.
 
 V listopadu 2003, McDonald změnil recepturu z tradičních stehen a prsou na pouze prsa. To bylo silně podporováno reklamou, podle které se podstatně zlepšila chuť a kvalita nuget. McDonald udává, že používají jen mechanicky získané maso z kuřecích prsou s malým množstvím kůže pro zachování šťavnatosti a zlepšení chuti.
 
@@ -59,6 +59,7 @@ Islámské náboženství, podobně jako židovské, nedovoluje mimo plodů moř
 
 Tyto nové halal McNugety dávají tudíž muslimům příležitost ochutnat něco, co není jen dalším rychlým občerstvením. Dostanou se tak k jídlu, které mohou jíst společně se svými nemuslimskými sousedy.
 
- [1]: http://2017.hostovka.cz/soubor/28-8-06-1.JPG
- [2]: https://en.wikipedia.org/wiki/Individual_Quick_Freezing
+ [1]: jednohubky
+ [2]: http://2017.hostovka.cz/soubor/28-8-06-1.JPG
+ [3]: https://en.wikipedia.org/wiki/Individual_Quick_Freezing
 
