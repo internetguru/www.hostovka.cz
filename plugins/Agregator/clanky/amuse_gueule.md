@@ -11,11 +11,15 @@ Jednohubky (francouzsky _Amuse-gule_, či také _canapés_) jsou malá, velice j
 
 Francouzsky název _amuse-guele_ se mně osobně moc líbí, protože v překladu to doslova znamená něco, čím pobavíte vaši hubu. _Amuse_ znamená bavit a _guelle_ je huba. Tomuto výrazu odpovídá anglický název _savouries_ a do jisté míry i ruský název _zakuski_.
 
+{id="kde\_se\_s\_nimi\_setkate"}
+
 ## Kde se s nimi setkáte
 
 Jednohubky nesmíte zaměňovat s výtvory kterými se presentují studenti našich odborných škol při různých výstavách jako je například Gastro Hradec. Tam na každém takovém výrobku stráví studenti několik hodin, takže z praktického hlediska je to zcela bezcenné.
 
 V rodinách se jednohubky podávají jen při mimořádných příležitostech. V restauracích se s nimi setkáme častěji. V Americe patří do skupiny jídel, která se dají jíst rukou _(anglicky finger foods)_. Liší se tedy podstatně od předkrmů, hlavně od těch komplikovaných.
+
+{id="druhy_jednohubek"}
 
 ## Druhy jednohubek
 
