@@ -3,11 +3,11 @@
 
 {id="jednohubky" ctime="2006-02-05" mtime="2018-12-06" short="Jednohubky" author="Michael Klíma"}
 
-# Jednohubky
+# Jednohubky pro pobavení huby
 
 {kw="co-kdy-kde, jednohubka, předkrm"}
 
-Jednohubky (francouzsky _Amuse-gule_, také zvané _canapés_) jsou malá, velice jednoduchá pikantní sousta, z masa, ryb, plodů moře, zeleniny a ovoce, podávaná také ke koktejlům. Jednohubky mohou být jak teplé, tak i studené. Zásadou je, že se dají jíst třeba i ve stoje rukama.
+Jednohubky (francouzsky _Amuse-gule_, či také _canapés_) jsou malá, velice jednoduchá pikantní sousta, z masa, ryb, plodů moře, zeleniny a ovoce, podávaná také ke koktejlům. Jednohubky mohou být jak teplé, tak i studené. Zásadou je, že se dají jíst třeba i vestoje rukama.
 
 Francouzsky název _amuse-guele_ se mně osobně moc líbí, protože v překladu to doslova znamená něco, čím pobavíte vaši hubu. _Amuse_ znamená bavit a _guelle_ je huba. Tomuto výrazu odpovídá anglický název _savouries_ a do jisté míry i ruský název _zakuski_.
 
