@@ -2,6 +2,7 @@
 <HtmlOutput>
 <!--   <xslt>themes/clanky.xsl</xslt> -->
   <xslt>themes/default/h1desc.xsl</xslt>
+  <xslt>themes/delna.xsl</xslt>
   <jsFile append="body" if-xpath="/body[contains(@class, 'agregator')]">themes/article-bg.js</jsFile>
   <jsFile append="body">themes/expand.js</jsFile>
 </HtmlOutput>
