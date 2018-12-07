@@ -6,4 +6,5 @@
   <redir link="all_you_can_eat">samoobsluzna_restaurace</redir>
   <redir link="allspice">nove_koreni</redir>
   <redir link="amenity">doplnky</redir>
+  <redir link="amuse_gueule">jednohubky</redir>
 </UrlHandler>
