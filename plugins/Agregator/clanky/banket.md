@@ -1,65 +1,61 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=365.html" data-og-image="files/preview/clanky/banket/general.jpg" data-og-type="article"}
 
-{id="banket" ctime="2008-10-23" author="Michael Klíma" short="Banket" authorid="hostovka/michael_klima"}
+{id="banket" ctime="2008-10-23" author="Michael Klíma" mtime="2018-12-06"}
 
 # Banket
 
-{kw="gastronomie"}
+{kw="gastronomie, banket"}
 
-Pracuji v současné době na manuálu cateringového oddělení mého konceptu STEAKGRILL, a u té příležitosti jsem si uvědomil , že na těchto stránkách jsem již psal o všem možném, co se týká pohostinství a gastronomie, tudíž i o cateringu a všemožných společenských akcích jako je raut, bruch, bufet, párty apod., ale obávám se, že jsem se nikdy nezmínil o tom, co je to banket a přitom je to jeden z nejvíce (nesprávně) používaných výrazů. Ne každé "mecheche" se totiž dá označit jako banket.
+Banket je jeden z nejvíce (nesprávně) používaných výrazů. Pochází ze slova lavice _(francouzsky la banc)_, na které se při společných večeřích kdysi sedávalo. Banketem dnes označujeme společné stolování při mimořádných, oficiálních nebo slavnostních příležitostech _(anglicky party)_.
 
-O výrazu banket jako takovém se ale na štěstí nedá moc diskutovat. Banket je prokazatelně od francouzského slova la banc, neboli lavice, na které se při společných večeřích kdysi sedávalo.
+Oproti koktejlu, který se může podávat ve stoje, sedí hosté při banketu na židlích, lavicích nebo případně na zemi na polštářích, tak je tomu v jiných kulturách stolování. Slovo banket dalo vznik dalším jeho odvozeninám, například:
+ 
+ * banketní (cateringové) oddělení,
+ * banketní kuchyně,
+ * banketní jídelní lístek,
+ * banketní příbor,
+ * banketní zařízení a
+ * jiným odvozeným názvům, například banketky.
 
-Banket oproti koktejlu, který se může podávat ve stoje, znamená podávání jídel a nápojů hostům sedících u banketních stolů ať již na židlích nebo na lavicích, případně na zemi na polštářích, tak jak je tomu při jiných kulturách stolování.
+## Banket pohledem restaurace
 
-Výrazem banket dnes označujeme společné stolování při mimořádných, oficiálních, nebo slavnostních příležitostech anglicky také zvaných party.
+Pro potřebu kuchyně se bankety od ostatních akcí liší hlavně jídelními lístky a jídly samotnými. Každé jídlo se totiž pro bankety nehodí, což si mnohdy hosté (osoby, které banket objednávají) neuvědomují. Banketní servis (obsluha) se také podstatně liší od ostatních způsobů servisu. To se ale na všech odborných a hotelových školách nejspíše nevyučuje.
 
-Stejné slovo dalo vznik banketnímu (cateringovému) oddělení, banketním kuchyním, banketním jídelním lístkům, banketním příborům, banketnímu zařízení a jiným odvozeným názvům jako jsou banketky, (malé stolní pečivo), banketní místnosti apod.
+V banketním servisu se projevil hlavně moderní požadavek na jeho rychlost a jednoduchost. Dávno jsou pryč doby, kdy se jídlo zdlouhavě podávalo ze stříbrných mís u banketních tabulí, kde na něj kdekdo kýchal a prskal. Dnes takový servis neuvidíte už ani na oficiálních státních banketech v Bílém domě. Místo banketních tabulí se dnes nejčastěji setkáme s kulatými banketními stoly, zpravidla pro 10 osob.
 
-Pro potřebu zařízení kuchyní bychom měli jen vědět, že některá kuchyňská zařízení musí být přizpůsobena banketnímu provozu, který má své charakteristické znaky.
+Se servisem z mís se dnes ještě setkáte při tak zvaném „rodiném stylu“ servisu _(anglicky family style)_, používaném kdysi v penzionech _(anglicky bording houses)_ a v levnějších restauracích při mimořádných příležitostech. Ve ostatních případech se jídlo podává na talířích.
 
-Pro potřebu kuchyně se bankety liší hlavně jídelními lístky a jídly samotnými, která mají svá specifika. Každé jídlo se totiž pro bankety nehodí což mnohdy hosté, lépe řečeno osoby, které banket objednávají, neuvědomují.
+Jídla podávaná přímo na talířích mají tu východu, že se jich se nedotýká nikdo jiný než kuchař. Nebudu vám popisovat, jak takový servis probíhá při banketech pro jeden, dva a nebo i více tisíců osob, ale mohu vám říci, že je to jediné řešení.
 
-Také pro potřebu servisu (obsluhy) musíme vědět, že banketní servis se podstatně liší od ostatních způsobů servisu, což se ale na všech odborných a hotelových školách nejspíše nevyučuje. Museli byste totiž na různých web stránkách číst ty naivní dotazy studentů odborných škol před maturitou.
+## Banket pohledem hosta
 
-Požadavek moderního servisu na rychlost a jednoduchost se projevil hlavně při banketním servise. Doby, kdy se jídlo zdlouhavě podávalo ze stříbrných mís u tak zvaných banketních tabulích, kdy na něj kdekdo kýchal a prskal, a kdy to trvalo celou věčnost než se obsloužilo 40-50 hostů jsou ty tam.
+Jako studenti Hostovky bychom měli vědět, jak si takový banket objednat a co můžeme za naše peníze očekávat. Také bychom měli vědět jak se při takovém banketu chovat, což není mnohdy tak jednoduché jak se na první pohled zdá.
 
-Dnes takový servis už neuvidíte ani při oficiálních státních banketech v Bílém domě. Místo banketních tabulí se dnes nejčastěji setkáme s kulatými banketními stoly, zpravidla pro 10 osob, o jejichž výhodách není dnes potřeba někoho přesvědčovat.
+Banket se od běžné akce mnohdy liší také požadovaným kodexem oblékání _(anglicky dress code)_. Pro pány je to smoking _(anglicky black tie)_ a pro dámy večerní róba _(anglicky evening dress)_. To ale je jen začátek…
 
-Se servisem z mís se dnes ještě tak setkáte při servisu zvaném "family style" používaném kdysi v bording houses, v lacinějších restauracích při mimořádných příležitostech, při svatbách a pod., ale jinak, jak jste si asi povšimli, ve všech ostatních případech, veškerý servis je většinou na talířích.
+### Výběr vhodného menu
 
-Jídla podávaná přímo na talířích mají tu východu, že se jich se nedotýká nikdo jiný než kuchař, eventuálně food stylist v kuchyni a nikdo jiný. Nebudu vám popisovat, jak takový servis probíhá při banketech pro tisíc, dva a nebo i více osob,ale mohu vám říci, že je to jediné řešení.
-
-To, pokud by o to požádalo více osob, by mohlo být předmětem některého z příštích seminářů které při konceptu STEAKGRIL připravujeme, ale příležitostně vám i na těchto stránkách popíši jak dnes většinou banketní servis probíhá v lepší restauraci se stolovým zařízením a plnou obsluhou, neboli v tak zvaných "white tablecloth restaurants".
-
-Nás jako studenty Hostovky pojem banket také zajímá a to hlavně proto, abychom věděli jak si takový banket objednat a také abychom věděli co můžeme za naše peníze očekávat.
-
-Banket se od párty liší také požadovaným "dress code".Některé párty inzerují "CAYR",neboli (com as you are), což znamená že můžete přijít "tak jak jste. Při banketech je mnohdy společenský oblek předepsán. Pro pány je (smoking), v angličtině vyjádřen výrazem "black tie" a pro dámy "evening dress". To ale je jen začátek…
-
-Z pohledu studenta Hostovky bychom totiž také měli vědět jak se při takovém banketu chovat, což není mnohdy tak jednoduché jak se zdá.
-
-Jako u všeho ostatního v pohostinství, všechno totiž začíná jídelním lístkem. Toto nejsou stránky pro odborníky, a proto se zde tvorbou banketních jídelních lístků nebudeme zabývat, což mimo jiné není nic jednoduchého, a proto to rovněž bude předmětem připravovaného semináře TVORBA BANKETNÍCH JÍDELNÍCH LÍSTKŮ, ale zde budeme hovořit o tom, jak bychom banketní lístek měli číst, což je také jisté umění.
-
-Ve většině případů cateringový neboli banketní jídelní lístek nabízí několik variant předem stanovených MENU které se liší nejenom kombinací jídel a nápojů ale i cenou.
-
-Výběr MENU pro větší akce je téměř ve všech případech svěřen jedné nebo dvěma pověřeným osobám, pro které je to velice zodpovědný úkol.
-
-Při svatbách jsou to zpravidla svatebčané kteří o výběru MENU rozhodují, což není zrovna to nejlepší řešení, protože v mnoha případech je to pro ty svatebčany první velká společenská akce které se zúčastní.
-
-Při větších akcích je to zpravidla hlavně cena, která je tím hlavním ukazatelem, ale dalším požadavkem je uspokojit chutě všech stolujícíc. Tudíž by vhodné MENU měl vybírat někdo, kdo má o jídle a nápojích nějaké znalosti a hlavně znalosti toho která jídla nejspíše uspokojí většinu stolovníků.
-
-Při volbě MENU pro příbuzné, rodinné příslušníky, nebo pro spolupracovníky, kdy jejich preference v jídlech známe, to není zpravidla tak těžký úkol, ale dělat toto rozhodnutí pro několik set cizích lidí je zatracené tvrdý oříšek a velice nevděčný úkol protože ani ve čtyřčlenné rodině hospodyně neuspokojí chutě všech členů rodiny.
-
-V takovém případě si necháme poradit od odborníků, cože jsou zpravidla pracovníci cateringového oddělení podniku ve kterém nějakou akci hodláme objednat.
+Vše začíná jídelním lístkem. Ve většině případů cateringový (neboli banketní) jídelní lístek nabízí několik variant předem stanovených menu. Ty se liší nejenom kombinací jídel a nápojů ale i cenou.
 
 Co bereme při našem rozhodování v úvahu?
 
-  * pověst podniku ve kterém danou akci objednáváme
-  * finanční možnosti
-  * počet účastníků
-  * vhodný den a datum
-  * přístupnost
-  * parkování, apod.
-  * nabízené amenity a asi tisíc dalších maličkostí
+  * Pověst podniku ve kterém danou akci objednáváme,
+  * rozpočet,
+  * počet účastníků,
+  * vhodný den a datum,
+  * přístupnost,
+  * parkování,
+  * nabízené [doplňky][1] a
+  * asi tisíc dalších maličkostí.
 
+### Výběr menu pro větší události
+
+Výběr menu pro větší akce je téměř ve všech případech svěřen jedné nebo dvěma osobám, pro které je to velice zodpovědný úkol. Při svatbách jsou to zpravidla svatebčané, což není zrovna to nejlepší řešení. V mnoha případech je to totiž pro svatebčany první velká společenská akce které se zúčastní.
+
+Při větších akcích je hlavním ukazatelem především cena. Dalším požadavkem je uspokojit chutě všech stolujících. Tudíž by vhodné menu měl vybírat někdo, kdo má o jídle a nápojích nějaké znalosti a kdo ví, která jídla nejspíše uspokojí většinu stolovníků. Volba menu pro lidi, u kterých známe preference v jídlech (příbuzní, rodinní příslušníci, spolupracovníci), není již tak těžký úkol.
+
+Při výběru menu pro stovky a tisíce lidí je nejlepší si nechat poradit od odborníků. To jsou zpravidla pracovníci cateringového oddělení podniku, ve kterém akci hodláme objednat.
+
+ [1]: doplnky
+ 
