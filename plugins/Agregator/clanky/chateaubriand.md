@@ -1,61 +1,53 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-og-image="/files/preview/clanky/chateaubriand/preview.jpg" data-og-type="article" data-source="http://2017.hostovka.cz/clanek.php?clanek=157"}
 
-{id="chateaubriand" author="Michael Klíma" authorid="hostovka/michael_klima" ctime="2006-07-02"}
+{id="chateaubrianduv_steak" author="Michael Klíma" ctime="2006-07-02" mtime="2018-12-07"}
 
-# Châteaubriand
+# Chateaubriandův steak
 
 {kw="kdo-kdy-kde"}
 
-Châteaubriand [vyslov šatobriján] byl francouzský státník a spisovatel, jehož nejznámější díla byla: „Memoires d'outre-tombe“, „Atala“ a „Génie du christianisme“. Po něm bylo pojmenováno několik omáček a pokrmů, z nichž nejznámější je řez ze svíčkové o váze 400 až 500 gramů zvaný Châteaubriand nebo případně dvojitý nebo trojitý steak.
+Châteaubriand \[vyslov _šatobriján(d)_\] byl francouzský státník a spisovatel, jehož nejznámější díla jsou _Memoires d'outre-tombe_, _Atala_ a _Génie du christianisme_. Je po něm pojmenováno několik omáček a pokrmů, z nichž nejznámější je řez ze svíčkové o váze 400 až 500 gramů zvaný chateaubriandův steak nebo také jen _châteaubriand_.
 
 {class="figure"}
 
 ![Châteaubriand, François René][1] 
 :   Châteaubriand, François René, Vicompte de (1768-1848)
 
-{id="o_pokrmu"}
+Chateaubriandův steak byl sice pojmenován po Châteaubriandovi, avšak jídlo, tak jak je popsáno níže vytvořil slavný francouzský kuchař Montmireil. Recept na steak vám na těchto stránkách dát nemohu, ale jako studentům Hostovky vám musím alespoň napsat, jak se jídlo připravuje.
 
-## O pokrmu
+{id="priprava_a_prilohy" short="Příprava a přílohy"}
 
-Châteaubriand byl sice pojmenován po Châteaubriandovi, avšak jídlo, tak jak je popsáno níže vytvořil slavný francouzský kuchař Montmireil. Recept na Châteaubriand vám na těchto stránkách dát nemohu, ale jako studentům Hostovky vám musím alespoň napsat, jak se připravuje.
+## Příprava steaku a přílohy
 
-Châteaubriand se připravuje ze střední části pravé svíčkové anglicky zvané beef tenderloin o váze nejméně 400 gramů (dvojité filé), čímž je toto jídlo také poměrně drahé.
+Steak se připravuje ze střední části pravé svíčkové _(anglicky beef tenderloin)_ o váze nejméně 400 gramů (dvojité filé). Tím je toto jídlo také poměrně drahé. Zruční kuchaři jsou schopni z celé svíčkové, udělat dvě nebo i více porcí. Větší umění je však tyto steaky prodat.
 
 {class="figure"}
 
 ![Rozdělení svíčkové][2] 
 :   Rozdělení svíčkové
 
-Zruční kuchaři, podle velikosti celé svíčkové jsou schopni udělat dva nebo i více porcí což není ani tak velké umění jako je umění ty châteaubriandy prodat.
+Cena hotového jídla je relativní. Jídlo se totiž připravuje nejméně pro 2 osoby a v ceně je zahrnuto i jeho podávání. Pokud je chateaubriandův steak správně prezentovaný, tak je nezapomenutelným gastronomickým zážitkem.
 
-Cena hotového Châteaubriand je však relativní, protože se připravuje nejméně pro 2 osoby a v ceně je zahrnut celý showmanship – podávání tohoto pokrmu. Pokud je správně presentovaný, tak je nezapomenutelným gastronomickým zážitkem.
+Steak musí být připravený z dobře odleželé svíčkové, což v Česku dnes již málo kdo umí. Musí být opečený nebo grilovaný přesně na požadovaný stupeň vnitřní teploty (většinou medium rare).
 
-Hlavním gastronomickým zážitkem kdysi byl samotný châteaubriand který musel být připravený z dobře odleželé svíčkové, což v Česku dnes již málo kdo umí. Musel být opečený nebo grilovaný přesně na požadovaný stupeň vnitřní teploty (většinou medium rare).
+K tomu není potřeba žádné speciální zařízení. Osolený a opepřený steak se na pánvi nebo pod grilem dozlatova opeče prudce ze všech stran _(anglicky to sear)_. Pak se zvolna dodělá v horní části grilu nebo v horké troubě na vnitřní teplotu 48 °C.
 
-{id="priprava"}
+Podává se v celku, zásadně na horké míse. Zpravidla je položený na soklu z bílého chleba a obložený nejméně třemi druhy v páře vařené barevné zeleniny, jako je květák, karotka a hrášek, zelené fazolky, brokolice, cukety, bruselské kapustičky, apod.
 
-## Příprava
+Mimo zeleniny se spolu se steakem musí podávat alespoň dva druhy brambor. Jsou to například _pommes château_ nebo _pommes parisienne_, ale v každém případě brambory _duchesse_. Ty se ozdobně nastříkají po okraji mísy a opečou dozlatova pod grilem. Tím se vytvoří jedlý okraj zvaný _bordura_, neboli _rám obrazu_ tohoto velice atraktivního jídla.
 
-K tomu není potřeba nějaké speciální zařízení. Osolený a opepřený châteaubriand se opekl prudce ze všech stran dozlatova na pánvi nebo pod grilem, čemuž se anglicky říká to sear, a pak se zvolna dodělal v horní části grilu nebo v horké troubě na vnitřní teplotu 48° C.
+## Porcování a omáčky
 
-Podával se zásadně na horké míse v celku a zpravidla na soklu z bílého chleba a obložený nejméně třemi druhy v páře vařené barevné zeleniny jako je květák, karotka a hrášek, zelené fazolky, brokolice, cukety, bruselské kapustičky, apod.
+Steak se kdysi porcoval (dranšíroval) na servírovacím stolku (keridonu) přímo u stolu. To vyžadovalo jistou zkušenost a profesionálnost. Toto umění tzv. _dranšéra_ ale už bohužel zaniklo, takže na to můžete dnes již zapomenout.
 
-Mimo zeleniny by spolu se châteaubriandem musely podávat alespoň dva druhy brambor jako například pommes château nebo pommes parisienne, v každém případě s brambory duchesse. Ty se ozdobně nastříkaly po okraji mísy a opekou dozlatova pod grilem, čímž se vytvořil jedlý okraj zvaný bordura, neboli rám celému obrazu tohoto velice atraktivního jídla.
+Chateaubriandův steak má dva konce _(anglicky end cuts)_, které jsou poněkud propečenější než jeho střední část. Pro každou osobu dranšér ukrojil ze steaku 3 plátky masa, z čehož dva (podle hostovy preference propečenosti) položil na levou stranu horkého talíře. Na pravou stranu přidal zeleninu podle hostova výběru.
 
-{id="podavani"}
+Zbylé maso a zelenina se udržovala teplá na horké desce nebo nad kahanem. Na talíře se hostům přidávala až na jejich přání, čemuž se v číšnické hantýrce říká „náchservis“.
 
-## Podávání
+Ke steaku se podávaly zvlášť dvě omáčky. První byla omáčka na maso, což mohlo být jen obyčejné _demi-glace_ nebo jiná vhodná hnědá omáčka, jako je třeba omáčka _bordelaise_. Dále pak holandská nebo pikantní béarnská omáčka, která se na přání přelévala na zeleninu.
 
-Châteaubriand se kdysi dranšíroval na keridonu přímo u stolu, což také vyžadovalo určitý showmanship zkušeného carvera (dranšéra), ale toto umění už také zaniklo takže na to také můžete dnes již zapomenout.
-
-Châteaubriand má dva konce, kterým se anglicky říká end cuts, a které jsou poněkud propečenější než jeho střední část. Pro každou osobu dranšér ukrojil ze châteaubriandu 3 plátky masa, z čehož dva (podle hostovy preference propečenosti) položil na levou stranu horkého talíře, a na pravou stranu přidal zeleninu podle hostova výběru.
-
-Zbylé maso a zelenina se udržovala teplá na horké desce nebo nad kahanem, a na talíře se hostům přidávala až na jejich přání, čemuž se v číšnické hantýrce říká náchservis.
-
-K châteaubriandu se podávaly zvlášť dvě omáčky. Jednak omáčka na maso, což mohlo být jen obyčejné demi-glace, nebo jiná vhodná hnědá omáčka jako je třeba omáčka bordelaise, a dále pak holandská nebo pikantní béarnská omáčka která se na přání přelévala na zeleninu.
-
-Podávání châteaubriandu, tak jak popsáno výše, upadlo již v zapomenutí hlavně proto, že dnes již k tomu není klientela. Proto jsem to popisoval v minulém čase. To co dnes některé restaurace pod názvem châteaubriand podávají je úplný paskvil a mělo by se to nějak pokutovat.
+Podávání Chateaubriandova steaku, tak jak popsáno výše, upadlo již v zapomenutí. To hlavně proto, že k tomu dnes již není klientela. To co dnes některé restaurace pod názvem Chateaubriandův steak podávají, je úplný paskvil a mělo by se to nějak pokutovat.
 
  [1]: /files/thumbs/clanky/chateaubriand/2-7-06-1.jpg
  [2]: /files/preview/clanky/chateaubriand/2-7-06-2.jpg
