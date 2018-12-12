@@ -30,7 +30,7 @@ h2 {
   font-size: 2em;
 }
 h2, h3 {
-  color: #444;
+  color: #111;
 }
 h1 + p {
   font-style: italic;
@@ -145,7 +145,7 @@ dl.figure.mike dt q {
   margin-top: 1rem;
   font-size: 1.2em;
   font-style: italic;
-  color: #111;
+  color: #b87b00;
 }
 dl.figure.mike dd q {
   font-style: italic;
