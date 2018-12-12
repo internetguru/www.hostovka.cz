@@ -5,6 +5,7 @@
     <ul class="docinfo nomultiple global">
       <li class="fa fa-user">Autor: <span var="author">n/a</span></li>
       <li class="fa fa-file">Datum vytvoření: <span var="ctime" fn="inputvar-dateformat">n/a</span></li>
+      <li class="fa fa-wrench"><span var="modified">n/a</span></li>
       <li class="fa fa-eye"><a var="source@href">Zobrazit článek na původním webu Hostovky</a></li>
     </ul>
   </var>
