@@ -11,7 +11,7 @@
   </fn>
   
   <!--  https://mothereff.in/html-entities#%3Ca%20href%3D%22%3Fclanky%3D%5C1%23clanky%22%20class%3D%22tag%22%3E%5C1%3C%2Fa%3E  -->
-  <fn id="makeelements" fn="pregreplace" pattern="([a-zA-Z0-9áčďéěíňóřšťůúýžÁČĎÉĚÍŇÓŘŠŤŮÚÝŽ _-]+)(:?, )?" replacement="&#x3C;a href=&#x22;?clanky=\1#clanky&#x22; class=&#x22;tag nowarning&#x22;&#x3E;\1&#x3C;/a&#x3E;" />
+  <fn id="makeelements" fn="pregreplace" pattern="([a-zA-Z0-9áčďéěíňóřšťůúýžÁČĎÉĚÍŇÓŘŠŤŮÚÝŽ _-]+)(:?, )?" replacement="&#x3C;a href=&#x22;/?clanky=\1#clanky&#x22; class=&#x22;tag nowarning&#x22;&#x3E;\1&#x3C;/a&#x3E;" />
   
   <fn id="replacenames" fn="replace">
     <data name="/?clanky=Životopis#clanky"></data>
