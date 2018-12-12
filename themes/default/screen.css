@@ -16,8 +16,16 @@ a {
   color: #f57f17;
 }
 /***************************/
+.clanek .heading a,
 h1, h2, h3 {
   font-weight: 400;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.clanek .heading a,
+.wf-active h1,
+.wf-active h2,
+.wf-active h3 {
+  font-family: Rubik, sans-serif;
 }
 h1 {
   font-size: 3em;
