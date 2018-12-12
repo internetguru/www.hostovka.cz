@@ -9,10 +9,6 @@
 
 K novému koření, lépe řečeno k jeho anglickému jménu _allspice_ se váže jedna zábavná příhoda. Ta se stala u hotelu Marriott v Chicagu na letišti.
 
-<!--
-Nové koření, anglicky _allspice_, latinsky _pimenta dioica_, španělsky _pimenta gorda_, francouzsky _piment_, německy _piment_, švédsky _kryddpeppar_, italsky peppe _di giamaica_ portugalsky _pimenta-da-Jamaica_, rusky _умаусkи перец_, arabsky _Bahar_.
--->
-
 V hotelu jsme připravovali tisíce jídel pro různé mezinárodní letecké společnosti. Pracovali tam většinou Mexičané, kteří nebyli sice vyučení kuchaři, ale měli již několik let praxe a někteří mluvili docela obstojně anglicky.
 
 Když se pro nějakou zahraniční společnost mělo připravit zcela neznámé jídlo, tak jsem dal kuchařům podrobný recept v angličtině s přesným popisem jeho přípravy. Musím říci, že to většinou bez problémů zvládli.
