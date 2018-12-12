@@ -12,7 +12,7 @@ strong {
   font-weight: 600;
 }
 a {
-  color: #A76820;
+  color: #f57f17;
 }
 /***************************/
 dl.figure {
@@ -145,7 +145,7 @@ dl.figure.mike dt q {
   margin-top: 1rem;
   font-size: 1.2em;
   font-style: italic;
-  color: #A76820;
+  color: #b87b00;
 }
 dl.figure.mike dd q {
   font-style: italic;
@@ -369,8 +369,8 @@ a.tag[href^="#"],
 .taglist a.tag:not([href]) {
   /* color: white; */
   /* background: #68acaa; */
-  border: thin solid #c0905a;
-  color: #a76820;
+  border: thin solid #f57f17;
+  color: #f57f17;
 }
 /***************************/
 .taglist {
