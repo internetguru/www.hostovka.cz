@@ -285,8 +285,11 @@ a.tag {
 a.tag:before {
   content: "#";
 }
-a.tag[href^="#"],
 a.tag:not([href]) {
+  color: #777;
+}
+a.tag[href^="#"],
+taglist a.tag:not([href]) {
   /* color: white; */
   /* background: #68acaa; */
   border: thin solid #c0905a;
