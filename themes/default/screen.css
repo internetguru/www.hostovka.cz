@@ -240,7 +240,7 @@ a.tag:before,
   border: none;
 }
 .clanek .heading a:hover {
-  color: #3949ab;
+  color: #f57f17;
 }
 .clanek .date {
   position: absolute;
@@ -329,13 +329,13 @@ a.tag:before,
 }
 .contentbalancer-simple a:hover,
 .clanek .extra .button:hover {
-  background: #e8eaf6;
+  background: #fff8e1;
 }
 .contentbalancer-simple a:focus,
 .contentbalancer-simple a:active,
 .clanek .extra .button:focus,
 .clanek .extra .button:active {
-  background: #c5cae9;
+  background: #ffecb3;
 }
 /***************************/
 .taglist:before {
