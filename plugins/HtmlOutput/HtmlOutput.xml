@@ -5,4 +5,5 @@
   <xslt>themes/delna.xsl</xslt>
   <jsFile append="body" if-xpath="/body[contains(@class, 'agregator')]">themes/article-bg.js</jsFile>
   <jsFile append="body">themes/expand.js</jsFile>
+  <stylesheet>lib/font-awesome/css/font-awesome.css</stylesheet>
 </HtmlOutput>
