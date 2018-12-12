@@ -38,3 +38,4 @@ Aspik, což si mnoho lidí neuvědomuje, je ideální živnou půdou pro růst b
 Osobně se domnívám, že by v restauracích mělo být u jídel v aspiku napsáno, že je hosté mohou jíst jen na vlastní nebezpečí. Tak jako se to dělá u Tatarského bifteku.
 
  [1]: https://cs.wikipedia.org/wiki/Marie-Antoine_Car%C3%AAme
+
