@@ -14,11 +14,11 @@
   <fn id="makeelements" fn="pregreplace" pattern="([a-zA-Z0-9áčďéěíňóřšťůúýžÁČĎÉĚÍŇÓŘŠŤŮÚÝŽ _-]+)(:?, )?" replacement="&#x3C;a href=&#x22;/?clanky=\1#clanky&#x22; class=&#x22;tag nowarning&#x22;&#x3E;\1&#x3C;/a&#x3E;" />
   
   <fn id="replacenames" fn="replace">
-    <data name="/?clanky=Životopis#clanky"></data>
+    <data name="=Životopis">=Zivotopis</data>
     <data name="/?clanky=želatina#clanky"></data>
     <data name="/?clanky=zbožíznalství#clanky"></data>
     <data name="/?clanky=vybavení#clanky"></data>
-    <data name="/?clanky=ubytování#clanky"></data>
+    <data name="=ubytování">=ubytovani</data>
     <data name="=restaurace a servis">=restaurace_a_servis</data>
     <data name="=případová studie">=pripadova_studie</data>
     <data name="/?clanky=předkrm#clanky"></data>
@@ -26,7 +26,7 @@
     <data name="/?clanky=polotovary#clanky"></data>
     <data name="/?clanky=o čem se nemluví#clanky"></data>
     <data name="=nejčtenější">=nejctenejsi</data>
-    <data name="/?clanky=nápoje#clanky"></data>
+    <data name="=nápoje">=napoje</data>
     <data name="=kuchyňské techniky">=kuchynske_techniky</data>
     <data name="/?clanky=koření#clanky"></data>
     <data name="/?clanky=komponenty#clanky"></data>
@@ -35,10 +35,10 @@
     <data name="/?clanky=jednohubka#clanky"></data>
     <data name="/?clanky=historka#clanky"></data>
     <data name="=gastronomie">=gastronomie</data>
-    <data name="/?clanky=etnické kuchyně#clanky"></data>
-    <data name="/?clanky=etika#clanky"></data>
+    <data name="=etnické kuchyně">=etnicke_kuchyne</data>
+    <data name="=etika">=etika</data>
     <data name="/?clanky=doplňky#clanky"></data>
-    <data name="/?clanky=co-kdy-kde#clanky"></data>
+    <data name="=co-kdy-kde">=co-kdy-kde</data>
     <data name="/?clanky=Carême#clanky"></data>
     <data name="/?clanky=bufet#clanky"></data>
     <data name="/?clanky=aspik#clanky"></data>
@@ -50,26 +50,38 @@
   <var id="ghedit"><a var="inputvar-mdfile@href" href="https://github.com/InternetGuru/www.hostovka.cz/edit/master/%s">.</a></var>
   
   <var id="taglist">
+    <a fn="inputvar-replacenames@href" class="taglist-tag tag nowarning" href="/?clanky=Zivotopis">Životopis</a>
+    <a fn="inputvar-replacenames@href" class="taglist-tag tag nowarning" href="/?clanky=ubytovani">ubytování</a>
     <a fn="inputvar-replacenames@href" class="taglist-tag tag nowarning" href="/?clanky=restaurace_a_servis">restaurace a servis</a>
     <a fn="inputvar-replacenames@href" class="taglist-tag tag nowarning" href="/?clanky=pripadova_studie">případová studie</a>
     <a fn="inputvar-replacenames@href" class="taglist-tag tag nowarning" href="/?clanky=nejctenejsi">nejčtenější</a>
+    <a fn="inputvar-replacenames@href" class="taglist-tag tag nowarning" href="/?clanky=napoje">nápoje</a>
     <a fn="inputvar-replacenames@href" class="taglist-tag tag nowarning" href="/?clanky=kuchynske_techniky">kuchyňské techniky</a>
     <a fn="inputvar-replacenames@href" class="taglist-tag tag nowarning" href="/?clanky=kdo-kdy-kde">kdo-kdy-kde</a>
     <a fn="inputvar-replacenames@href" class="taglist-tag tag nowarning" href="/?clanky=jidla_a_jidelni_listky">jídla a jídelní lístky</a>
     <a fn="inputvar-replacenames@href" class="taglist-tag tag nowarning" href="/?clanky=gastronomie">gastronomie</a>
+    <a fn="inputvar-replacenames@href" class="taglist-tag tag nowarning" href="/?clanky=etnicke_kuchyne">etnické kuchyně</a>
+    <a fn="inputvar-replacenames@href" class="taglist-tag tag nowarning" href="/?clanky=etika">etika</a>
+    <a fn="inputvar-replacenames@href" class="taglist-tag tag nowarning" href="/?clanky=co-kdy-kde">co-kdy-kde</a>
   </var>
   
   <var id="tags-files-list">
   <form action="/" method="get" class="search">
     <ul>
       <li><select name="s" class="completable">
+<option class="tag" value="stitky/Zivotopis">Životopis (4 výskytů) #stitky/Zivotopis</option>
+<option class="tag" value="stitky/ubytovani">ubytování (4 výskytů) #stitky/ubytovani</option>
 <option class="tag" value="stitky/restaurace_a_servis">restaurace a servis (6 výskytů) #stitky/restaurace_a_servis</option>
 <option class="tag" value="stitky/pripadova_studie">případová studie (6 výskytů) #stitky/pripadova_studie</option>
 <option class="tag" value="stitky/nejctenejsi">nejčtenější (9 výskytů) #stitky/nejctenejsi</option>
+<option class="tag" value="stitky/napoje">nápoje (2 výskytů) #stitky/napoje</option>
 <option class="tag" value="stitky/kuchynske_techniky">kuchyňské techniky (5 výskytů) #stitky/kuchynske_techniky</option>
 <option class="tag" value="stitky/kdo-kdy-kde">kdo-kdy-kde (5 výskytů) #stitky/kdo-kdy-kde</option>
 <option class="tag" value="stitky/jidla_a_jidelni_listky">jídla a jídelní lístky (24 výskytů) #stitky/jidla_a_jidelni_listky</option>
 <option class="tag" value="stitky/gastronomie">gastronomie (11 výskytů) #stitky/gastronomie</option>
+<option class="tag" value="stitky/etnicke_kuchyne">etnické kuchyně (2 výskytů) #stitky/etnicke_kuchyne</option>
+<option class="tag" value="stitky/etika">etika (2 výskytů) #stitky/etika</option>
+<option class="tag" value="stitky/co-kdy-kde">co-kdy-kde (3 výskytů) #stitky/co-kdy-kde</option>
 <option class="article" value="clanky/znalec_pohostinstvi">Kdo je lepším znalcem pohostinství #clanky/znalec_pohostinstvi</option>
 <option class="article" value="clanky/zkusenosti_ze_sveta">Zkušenosti ze světa #clanky/zkusenosti_ze_sveta</option>
 <option class="article" value="clanky/zkratky_na_listcich">Zkratky na jídelních lístcích #clanky/zkratky_na_listcich</option>
