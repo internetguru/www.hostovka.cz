@@ -15,11 +15,6 @@ a {
   color: #f57f17;
 }
 /***************************/
-dl.figure {
-  background: #e4e4e4;
-  padding: 0.5em;
-}
-/***************************/
 h1, h2, h3 {
   font-weight: 400;
 }
@@ -428,5 +423,14 @@ button:hover {
     0 0.05em 0.35em 0 rgba(0,0,0,0.12),
     0 0.15em 0.05em -0.05em rgba(0,0,0,0.2);
   */
+}
+/***************************/
+dl.figure {
+  padding: 0.5em;
+  background: #eceff1;
+  color: #263238;
+}
+dl.figure dt img {
+  max-height: 20em;
 }
 /***************************/
