@@ -195,6 +195,16 @@ dl.figure.mike dd q {
 .clanek dd.kw {
   margin: 0.75em 0;
 }
+.clanek dd.kw {
+  display: flex;
+  flex-wrap: wrap;
+}
+.clanek dd.kw a[href^="#"] {
+  order: -1;
+}
+.clanek dd.kw a:not([href]) {
+  order: 100;
+}
 .clanek .heading {
   font-size: 1.5em;
   margin: 0 0 0.5em 0;
