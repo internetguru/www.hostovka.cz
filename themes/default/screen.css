@@ -434,3 +434,31 @@ dl.figure dt img {
   max-height: 20em;
 }
 /***************************/
+.example,
+.important {
+  max-width: 45em !important;
+  padding: 1em;
+  background: #ffebee;
+  color: #b71c1c;
+  overflow: hidden;
+  display: table;
+}
+.example:before,
+.important:before {
+  content: "\f071";
+  font-family: "FontAwesome";
+  color: #ef9a9a;
+  font-size: 2em;
+  padding-right: 1rem;
+  display: table-cell;
+  vertical-align: middle;
+}
+.example {
+  background: #fff3e0;
+  color: #e65100;
+}
+.example:before {
+  content: "\f0eb";
+  color: #ef6c00;
+}
+/***************************/
