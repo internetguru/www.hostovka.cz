@@ -10,4 +10,6 @@
     </ul>
   </var>
   
+  <var modifyonly="modifyonly" id="modified">Datum revize: <span var="mtime" fn="inputvar-dateformat">n/a</span></var>
+  
 </DocInfo>
