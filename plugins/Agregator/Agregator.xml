@@ -14,16 +14,13 @@
       <dd class="desc" var="desc">n/a</dd>
       <dd class="more"><span class="noprint" var="editlink">n/a</span><a title="Autor: %s" var="link@href author@title">Celý článek</a></dd>
     </dl>
-    <dl><dt></dt><dd></dd></dl>
   </doclist>
   
-  <doclist id="kuchynske_techniky" kw="kuchyňské techniky" for="clanky" />
   <doclist id="gastronomie" kw="gastronomie" for="clanky" />
-  <doclist id="kdo_kdy_kde" kw="kdo-kdy-kde" for="clanky" />
-  <doclist id="pripadova_studie" kw="případová studie" for="clanky" />
-  <doclist id="zivotopis" kw="Životopis" for="clanky" />
   <doclist id="jidla_a_jidelni_listky" kw="jídla a jídelní lístky" for="clanky" />
-  <doclist id="ubytovani" kw="ubytování" for="clanky" />
-  
+  <doclist id="kdo-kdy-kde" kw="kdo-kdy-kde" for="clanky" />
+  <doclist id="kuchynske_techniky" kw="kuchyňské techniky" for="clanky" />
+  <doclist id="nejctenejsi" kw="nejčtenější" for="clanky" />
+  <doclist id="pripadova_studie" kw="případová studie" for="clanky" />
   <doclist id="restaurace_a_servis" kw="restaurace a servis" for="clanky" />
 </Agregator>
