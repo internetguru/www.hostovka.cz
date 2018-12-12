@@ -6,7 +6,7 @@
       <li class="fa fa-user">Autor: <span var="author">n/a</span></li>
       <li class="fa fa-file">Datum vytvoření: <span var="ctime" fn="inputvar-dateformat">n/a</span></li>
       <li class="fa fa-wrench"><span var="modified">n/a</span></li>
-      <li class="fa fa-external-link"><a var="source@href">Zobrazit článek na původním webu Hostovky</a></li>
+      <li class="fa fa-external-link-square"><a var="source@href">Zobrazit článek na původním webu Hostovky</a></li>
     </ul>
   </var>
   
