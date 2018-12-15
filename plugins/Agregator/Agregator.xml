@@ -13,7 +13,7 @@
       <dt class="heading"><a title="Autor: %s" var="link@href author@title heading">n/a</a></dt>
       <dd class="desc" var="desc">n/a</dd>
       <dd class="extra"><ul>
-        <li><a var="link@href" class="button">Přečíst</a></li>
+        <li><a var="link@href" class="button b">Přečíst</a></li>
       </ul></dd>
     </dl>
   </doclist>
