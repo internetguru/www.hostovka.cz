@@ -17,7 +17,6 @@
       </ul></dd>
     </dl>
   </doclist>
-<!--         <li><span class="button share fa fa-share-alt" title="Zkopírovat odkaz článku" var="link@data-clipboard-text link" data-clipboard-text="https://www.pralek.cz/%s">n/a</span></li> -->
   
   <doclist id="co-kdy-kde" kw="co-kdy-kde" for="clanky" />
   <doclist id="etika" kw="etika" for="clanky" />
