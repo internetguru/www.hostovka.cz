@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-og-image="/files/preview/clanky/caesar_salat/preview.jpg" data-og-type="article" data-source="http://2017.hostovka.cz/clanek.php?clanek=237"}
 
-{id="caesar\_salat" author="Michael Klíma" ctime="2007-06-04" mtime="2018-12-07"}
+{id="cezar\_salat" author="Michael Klíma" ctime="2007-06-04" mtime="2018-12-07"}
 
 # Cézar salát
 
