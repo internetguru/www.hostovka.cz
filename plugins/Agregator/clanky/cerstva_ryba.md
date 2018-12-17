@@ -17,7 +17,7 @@ Jak víme, tak Hostovka není škola vaření. Je to pomyslná vysoká škola, n
 
 ## Jak stará ryba je ještě čerstvá
 
-Podle mě je čerstvá ryba taková, která je do kuchyně dodána ještě živá. Eventuálně je to taková ryba, kterou jsme si dnes sami chytili, nebo o které bezpečně víme, že byla vylovena a zabita nejdéle minulého dne.
+Podle mě je čerstvá ryba taková, která je do kuchyně dodána ještě živá. Eventuálně je to taková ryba, kterou jsme si dnes sami chytili, nebo o které bezpečně víme, že byla vylovena a zabita nanejvýš předchozí den.
 
 {class="figure"}
 
