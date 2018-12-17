@@ -3,7 +3,7 @@
 
 {id="kucharske_tituly" ctime="2010-09-24" mtime="2018-12-16" author="Michael Klíma" short="Kuchařské tituly"}
 
-# Kuchařské tituly
+# Mezinárodní kuchařské tituly
 
 {kw="gastronomie"}
 
