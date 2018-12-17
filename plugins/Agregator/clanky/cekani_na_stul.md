@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=140.html" data-og-image="/files/preview/clanky/cekani\_na\_stul/general.jpg" data-og-type="article"}
 
-{id="cekani\_na\_stul" ctime="2006-03-13" mtime="2018-12-07" author="Michael Klíma"}
+{id="cekani\_na\_stul" ctime="2006-03-13" mtime="2018-12-07" author="Michael Klíma" short="Čekání na stůl"}
 
 # Rezervace a čekání na stůl
 
@@ -11,7 +11,7 @@ Rezervace stolů není ve všech restauracích běžná. Restaurace, ve kterých
 
 Existuje nepsaný zákon, že pokud jste si udělali rezervaci na první sezení, dejme tomu od 18 do 20 hodin, tak musíte ve 20 hodin svůj stůl opustit. Pokud máte v úmyslu sedět po jídle u stolu déle, tak je rozumnější si rezervaci udělat na pozdější dobu.
 
-I při dobré organizaci se ale může stát, že rezervovaný stůl není při vašem příchodu ještě volný. V takovém případě se restaurace snaží hostovi čekání nějakým způsobem zpříjemnit. Z toho důvodu vám nabídnou místo u baru, nebo mají jakési předsálí / čekárnu _(anglicky lounge)_, ve které vám čekání zpříjemní podáním vášeho oblíbeného koktejlu. Ten vám samozřejmě připíší na účet.
+I při dobré organizaci se ale může stát, že rezervovaný stůl není při vašem příchodu ještě volný. V takovém případě se restaurace snaží hostovi čekání nějakým způsobem zpříjemnit. Z toho důvodu vám nabídnou místo u baru, nebo mají jakési předsálí / čekárnu _(anglicky lounge)_, ve které vám čekání zpříjemní podáním vašeho oblíbeného koktejlu. Ten vám samozřejmě připíší na účet.
 
 {class="important"}
 
