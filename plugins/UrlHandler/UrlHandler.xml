@@ -99,4 +99,5 @@
   <redir link="amuse_gueule">jednohubky</redir>
   <redir link="assembly_cooking">vareni_z_polotovaru</redir>
   <redir link="bechamel">besamel</redir>
+  <redir link="buzzword">modni_pojmy</redir>
 </UrlHandler>
