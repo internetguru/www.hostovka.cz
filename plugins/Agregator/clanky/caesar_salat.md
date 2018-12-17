@@ -1,44 +1,15 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-og-image="/files/preview/clanky/caesar_salat/preview.jpg" data-og-type="article" data-source="http://2017.hostovka.cz/clanek.php?clanek=237"}
 
-{id="caesar\_salat" author="Michael Klíma" authorid="hostovka/michael\_klima" ctime="2007-06-04"}
+{id="caesar\_salat" author="Michael Klíma" ctime="2007-06-04" mtime="2018-12-07" short="Caesar salát"}
 
-# Caesar salát
+# Suroviny a příprava Caesar salátu
 
-{kw="gastronomie, nejčtenější"}
+{kw="nejčtenější, gastronomie"}
 
-První co je na tom salátu zajímavé je, že není, tak jak by se někdo domníval americký, a také nemá co společného s Juliem Césarem, ale Cézarem Cardini. Americký název tohoto salátu Caesar je tudíž špatný, ale tak se to v Americe píše.
+První zajímavá věc na Caesar salátu je, že není americký, a že nemá nic společného s Juliem Caesarem. Americký název salátu _Caesar_ je chybný. Vynález tohoto salátu, kdysi populárního jen ve Spojených státech amerických, je přičítán italskému imigrantovi Livio Santinimu. Ten byl v roce 1925 kuchařem původní restaurace Caesara Cardinino v Tijuaně v Mexiku.
 
-{id="priprava" short="Příprava"}
-
-## Suroviny a příprava salátu
-
-Pokud se gastronomie týká tak jsem sice jakýsi purista a mám rád, když se jídla nazývají správným jménem, ale na druhé straně se dá říci, že to nepřeháním. Tudíž v Česku tento salát nemůžete uvádět jako Césarův salát, ale Salát César nebo Cézar salát.
-
-{class="figure"}
-
-![Caesar tossed salad][1] 
-:   Caesar tossed salad
-
-Jsem puristou i pokud se týká surovin při přípravě některých klasických jídel. Ale ani tady to nepřeháním. Nechci zde jít do detailů, ale některé někdejší recepty používaly suroviny které autor měl v době vytvoření receptu zrovna při ruce.
-
-Kdyby takový recept tvořil dnes, tak by také pravděpodobně použil nejenom jinou, i když podobnou surovinu, ale zcela určitě současnou techniku. Velmi často si kladu otázku jak by se v dnešních kuchyních choval Carême, Louis Diat, Urbain Dubois, Escoffier, Prosper Montagné a celá řada jiných.
-
-Výběr surovin a všechnu tu moderní technologii by určitě uvítali, ale nejsem si jist jestli by si věděli rady s něčím takovým jako je food, nebo labor cost, a s tou nepředstavitelnou konkurencí.
-
-Pokud se surovin týká tak saláty jsou nejlepším příkladem a tudíž i Cézar salát. Některé náležitosti každého klasického receptu jsou neměnné. U César salátu je to jednak romain, ale podstatný je jeho dresink.
-
-Tudíž pokud nemáte zrovna při ruce romain lettuce, a máte například hlávkový nebo iceberg lettuce, tak přesto, že to není tak docela košer, tak se toho moc neděje. Důležité je, aby ten salát byl čerstvý, vychlazený a křehký a abyste dodrželi správný postup.
-
-Jak zacházet se zeleninou, a hlavně s listovou, to nejspíše víte. Důležité je, aby tato zelenina byla hned po sklizni udržována v ledničce až do doby potřeby.
-
-Při přípravě Cézar salátu je důležité, aby se "vylomilo" srdíčko, a aby se křehké a vychlazené listy salátu nekrájely nožem, ale lámaly rukou a to těsně před použitím. To ostatní je pak popsáno, čímž se dostáváme ku dresinku.
-
-{id="vznik\_a\_priprava\_klasickeho\_salatu"}
-
-## Vznik a příprava klasického salátu
-
-Vynález tohoto salátu, kdysi populárního jen ve Spojených Státech Amerických, a dnes oblíbeného po celém světě, je přičítán italskému imigrantovi Livio Santinimu, který byl kuchařem původním restaurantu Cézara Cardinino v Tijuaně v Mexiku v roce 1925.
+Pokud jste byli v Tijuaně a nenavšívili jste Caesar hotel, tak jste hodně propásli. Já jsem v Tijuaně relativně často a musím přiznat, že z obavy aby mě nestihla „Montezumova pomsta“, jsem mimo Caesar salátu zatím nic jiného nejedl.
 
 {class="figure"}
 
@@ -48,43 +19,56 @@ Vynález tohoto salátu, kdysi populárního jen ve Spojených Státech Americk�
 {class="figure"}
 
 ![Restaurace Cézara Cardinino][3] 
-:   Restaurace Cézara Cardinino
+:   Restaurace Caesara Cardinino
 
-Pokud jste byli v Tihuaně a nebyli jste v Caesarově hotelu, tak jste hodně zmeškali. Já jsem v Tijuaně relativně často a musím se přiznat, že z obavy aby mně nestihla Montezumova pomsta, mimo Caesar salátu jsem tam zatím nic jiného nejedl.
+
+{id="suroviny" short="Suroviny"}
+
+## Správné suroviny Caesar salátu
+
+Co se týká surovin při přípravě klasických jídel, tak jsem puristou. Snažím se to ale nepřehánět. Nechci zde jít do detailů, ale některé někdejší recepty používaly suroviny, které autor měl v době vytvoření receptu zrovna při ruce. Kdyby takový recept tvořil dnes, tak by pravděpodobně použil jinou (ale podobnou) surovinu. Zcela určitě by ale použil téže techniku.
+
+Velmi často si kladu otázku, jak by se v dnešních kuchyních choval Carême, Louis Diat, Urbain Dubois, Escoffier, Prosper Montagné a celá řada jiných. Výběr surovin a všechny moderní technologie by určitě uvítali, ale nejsem si jistý, jestli by si věděli rady s aktuální nepředstavitelnou konkurencí.
+
+Některé náležitosti klasických receptů jsou ale neměnné. U Caesar salátu je to hlavně dresink. Pokud nemáte při ruce římský salát a použijete místo něj například hlávkový nebo ledový, tak se toho moc neděje. Důležité je, aby byl salát čerstvý, vychlazený, křehký a abyste dodrželi správný postup.
+
+Jak zacházet se zeleninou, hlavně s listovou, nejspíše víte. Důležité je, aby byla zelenina hned po sklizni udržována v chladu, až do okamžiku přípravy. Při přípravě římského salátu je důležité vylomit „srdíčko“. Křehké a vychlazené listy salátu se krájí nožem až těsně před použitím.
+
+{id="priprava_salatu" short="Příprava salátu"}
+
+## Příprava klasického Caesar salátu
+
+Původně se tento salát umělecky připravoval u stolu v jídelně. Velká dřevěná salátová mísa se napřed vytřela čerstvým česnekem, potom se do mísy přidala rozetřená sardelová filátka, citrónová šťáva, čerstvě drcený černý pepř, sůl, hořčice, olivový olej a nakonec velmi krátce v horké vodě spařené vejce _(anglicky coddled eggs)_.
+
+{class="important"}
+
+Pokud byste v Tijuaně do dresinku přidali hnědý cukr, tak vyfasujete sto let žaláře. A žalář v Tijuaně není žádný Hilton.
+
+Všechny suroviny se v míse dobře promíchaly, tak jako při přípravě majonézy. Nakonec se do dresinku přidaly na menší kusy rozlámané listy římského salátu a dozlatova opečené malé krutony z bílého chleba.
+
+Salát se opatrně prohodil _(anglicky to toss)_, tak aby se kousky salátu moc nepolámaly a aby se zároveň všechny kousky stejnoměrně pokryly dresinkem. Takto připravený salát se podával na vychlazených talířích posypaný strouhaným parmazánem.
 
 {class="figure"}
 
 ![Tossing the salad][4] 
-:   Tossing the salad
+:   Prohození salátu
 
-Původně se tento salát připravoval artisticky u stolu v jídelně. Velká dřevěná salátová mísa se napřed vytřela čerstvým česnekem, potom se do mísy přidala rozetřená sardelová filátka, citrónová šťáva, čerstvě drcený černý pepř, sůl, hořčice, olivový olej a nakonec velmi krátce v horké vodě spařené vejce, kterým se v Americe říká coddled eggs.
+Dnes se dresink prodává již hotový, takže příprava tohoto salátu je v zásadě velice jednoduchá. Restaurace už jen soutěží v tom, kdo naservíruje více salátu na porci.
 
-Pokud byste v Tihuaně do toho dresinku přidali hnědý cukr, tak vyfasujete sto let tisíciletého žaláře a žalář v Tihuaně není nějaký Hilton.
-
-Vše se v míse dobře promíchalo, jako při přípravě majonézy, a nakonec se do tohoto drezinku přidaly na menší kusy rozlámané listy romain salátu a dozlatova opečené malé krutóny z bílého chleba.
-
-Salát se opatrně prohodil (to toss), tak aby se kousky salátu moc nepolámaly a aby se všechny kousky stejnoměrně pokryly drezinkem. Takto připravený salát se podával na vychlazených talířích posypaný strouhaným parmezánem.
-
-Dnes se Caesar drezink dostane po celém světě již hotový, takže příprava tohoto salátu je v zásadě velice jednoduchá, a restaurace již jen soutěží v tom, kdo toho salátu dá více na porci. Nicméně nejkomplikovanější a největší Caesar salát byl opět připraven v Tijuaně.
-
-{id="nejvetsi\_caesar\_salat"}
+{id="nejvetsi_cezar_salat"}
 
 ## Největší Caesar salát
 
-V Tijuně v Mexiku, se na ulici Avenida Revolucion sešlo několik kuchařů a studentů kulinářského umění, aby více než 200 metrů dlouhou salátovou mísu naplnili tímto populárním salátem. Tato atrakce byla jednak na oslavu tohoto salátu, ale hlavně úsilí o jeho zapsáni do Ginisovy knihy rekordů. 
+V Tijuaně v Mexiku, se na ulici Avenida Revolucion sešlo několik kuchařů a studentů kulinářského umění, aby naplnili více než 200 metrů dlouhou salátovou mísu Caesar salátem. Událost se konala jednak na oslavu salátu, ale hlavně kvůli snaze zapsat se do [Guinnessovy knihy rekordů][5].
 
-Více než 120 studentů, adeptů kuchařského umění, a 10 předních mexických kuchařů, se asi 4 měsíce zabývalo plánováním této akce.
+Plánováním akce se asi 4 měsíce dopředu zabývalo více než 120 studentů a adeptů kuchařského umění. Bylo zapotřebí naplánovat dodávku všech potřebných surovin od místních dodavatelů, zkoordinovat přípravné práce a hlavně vypracovat harmonogram míchání salátu, tak aby byl čerstvý, křehký a hotový přesně načas.
 
-Nebyla to otázka receptu, ten nakonec je dnes dobře známý již po celém světě, ale bylo zapotřebí naplánovat dodávku všech potřebný surovin od místních dodavatelů, koordinovat přípravné práce, tak zvaný mise-en-place, a hlavně vypracovat harmonogram míchání salátu, tak aby byl čerstvý, křehký a dohotovený přesně na čas.
+V Tijuaně je přes den velmi horko a proto většina přípravných prací probíhala v noci před prezentací. Muselo se nakrájet 1.200 hlávek salátu, na minutu povařit 1.200 vajec a přidat je k ostatním surovinám dresinku. Dresink, mimo jiné, obsahoval 75,7 litrů olivového oleje, 53,2 kg citrónů, a 99,9 kilogramů strouhaného parmazánu.
 
-V Tijuaně je přes den velmi horko a proto většina přípravných prací probíhala v noci před jeho presentací. Muselo se nakrájet 1.200 hlávek salátu, 1.200 vajec se muselo asi minutu povařit (to coddle), a přidat k ostatním surovinám dresinku, který mimo jiné obsahoval 75,7 litrů olivového oleje, 53,2 kg citrónů, a 99,9 kilogramů strouhaného parmazánu.
-
-Já si osobně myslím, že při takovém množství by se asi nic nestalo, kdyby se ty váhy surovin zaokrouhlily, ale uvedené přesné váhy budou v Guinisově knize zřejmě působit věrohodněji.
-
-Z rodiny Santini bohužel nikdo nebyl přítomen, ale při míchání salátu byl jednak Alex Caesar Cardini III, který přiletěl z Mexiko City, a zástupci vlády, kteří museli potvrdit délku salátové mísy, váhy surovin a celkovou identitu této významné akce.
+Z rodiny Santini bohužel nebyl nikdo přítomen. Na míchání salátu dorazil Alex Caesar Cardini III. a zástupci vlády, kteří museli potvrdit délku salátové mísy, váhy surovin a celkovou identitu této významné akce.
 
  [1]: /files/thumbs/clanky/caesar_salat/04-06-07-4.JPG
  [2]: /files/thumbs/clanky/caesar_salat/04-06-07-5.JPG
  [3]: /files/thumbs/clanky/caesar_salat/04-06-07-6.JPG
  [4]: /files/thumbs/clanky/caesar_salat/04-06-07-7.JPG
-
+ [5]: https://cs.wikipedia.org/wiki/Guinnessova_kniha_rekord%C5%AF
