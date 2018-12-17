@@ -10,13 +10,15 @@
 Banket je jeden z nejvíce (nesprávně) používaných výrazů. Pochází ze slova lavice _(francouzsky la banc)_, na které se při společných večeřích kdysi sedávalo. Banketem dnes označujeme společné stolování při mimořádných, oficiálních nebo slavnostních příležitostech _(anglicky party)_.
 
 Oproti koktejlu, který se může podávat vestoje, sedí hosté při banketu na židlích, lavicích nebo případně na zemi na polštářích, tak je tomu v jiných kulturách stolování. Slovo banket dalo vznik dalším jeho odvozeninám, například:
- 
- * banketní (cateringové) oddělení,
- * banketní kuchyně,
- * banketní jídelní lístek,
- * banketní příbor,
- * banketní zařízení a
- * jiným odvozeným názvům, například banketky.
+
+  * banketní (cateringové) oddělení,
+  * banketní kuchyně,
+  * banketní jídelní lístek,
+  * banketní příbor,
+  * banketní zařízení a
+  * jiným odvozeným názvům, například banketky.
+
+{id="banket\_pohledem\_restaurace"}
 
 ## Banket pohledem restaurace
 
@@ -28,11 +30,15 @@ Se servisem z mís se dnes ještě setkáte při servisu v takzvaném „rodinn�
 
 Jídla podávaná přímo na talířích mají tu východu, že se jich se nedotýká nikdo jiný než kuchař. Nebudu zde popisovat, jak takový servis probíhá při banketech pro jeden, dva a nebo i více tisíců osob, ale mohu konstatovat, že je to jediné řešení.
 
+{id="banket\_pohledem\_hosta"}
+
 ## Banket pohledem hosta
 
 Jako studenti Hostovky byste měli vědět, jak si takový banket objednat a co můžete za své peníze očekávat. Také byste měli vědět, jak se při takovém banketu chovat, což není mnohdy tak jednoduché, jak se na první pohled zdá.
 
 Banket se od běžné akce mnohdy liší také požadovaným kodexem oblékání _(anglicky dress code)_. Pro pány je to smoking _(anglicky black tie)_ a pro dámy večerní róba _(anglicky evening dress)_. To je však jen začátek…
+
+{id="vyber\_vhodneho\_menu"}
 
 ### Výběr vhodného menu
 
@@ -47,6 +53,8 @@ Vše začíná jídelním lístkem. Ve většině případů cateringový (nebol
   * [nabízené doplňky][1] a
   * celou řadu dalších maličkostí.
 
+{id="vyber\_menu\_pro\_vetsi\_udalosti"}
+
 ### Výběr menu pro větší události
 
 Výběr menu pro větší akce je téměř ve všech případech svěřen jedné nebo dvěma osobám, pro které je to velice zodpovědný úkol. Při svatbách jsou to zpravidla svatebčané, což není zrovna to nejlepší řešení. V mnoha případech je to totiž pro svatebčany první velká společenská akce které se účastní.
@@ -56,4 +64,4 @@ Při větších akcích je hlavním ukazatelem především cena. Dalším poža
 Při výběru menu pro stovky a tisíce lidí je nejlepší si nechat poradit od odborníků. To jsou zpravidla pracovníci cateringového oddělení podniku, ve kterém akci objednáváte.
 
  [1]: doplnky
- 
+
