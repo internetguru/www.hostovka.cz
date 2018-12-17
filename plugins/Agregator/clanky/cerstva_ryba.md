@@ -3,7 +3,7 @@
 
 {id="cerstva\_ryba" ctime="2006-07-09" author="Michael Klíma" short="Čerstvá ryba" mtime="2018-12-07"}
 
-# Čerstvá ryba v restauraci
+# Opravdově čerstvá ryba v restauraci
 
 {kw="gastronomie, ryby, historka"}
 
@@ -15,7 +15,7 @@ Pokud si někdy v restauraci hodláte objednat rybu, tak si dejte velký pozor, 
 
 Jak víme, tak Hostovka není škola vaření. Je to pomyslná vysoká škola, na které by se studenti měli dozvědět, co jim za jejich peníze patří. To je ale podmíněno tím, že absolvent Hostovky ví, co si kde objednat, neboli že studenti Hostovky mají alespoň základní znalosti o zbožíznalství.
 
-## Jak poznáme čerstvou rybu
+## Jak stará ryba je ještě čerstvá
 
 Podle mě je čerstvá ryba taková, která je do kuchyně dodána ještě živá. Eventuálně je to taková ryba, kterou jsme si dnes sami chytili, nebo o které bezpečně víme, že byla vylovena a zabita nejdéle minulého dne.
 
