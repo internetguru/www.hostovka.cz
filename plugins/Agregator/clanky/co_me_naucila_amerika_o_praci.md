@@ -7,11 +7,11 @@
 
 {kw="Životopis"}
 
-V Česku vám stačí titul a nějaké medaile. V Americe ale tituly nejsou a na medaile se také moc nevěří. Můžete tam být jakkoli dobří, ale pokud to nikdo neví, tak si za to nic nekoupíte. Musíte mýt neustále viditelní, propagovat se a nesmíte být skromní.
+V Česku vám stačí titul a nějaké medaile. V Americe ale tituly nejsou a na medaile se také moc nevěří. Můžete tam být jakkoli dobří, ale pokud to nikdo neví, tak si za to nic nekoupíte. Musíte mýt neustále vidět, propagovat se a nesmíte být skromní.
 
 Propagovat se jsem se naučil až v Americe. Tam takové povídačky jako „sedávej panenko v koutě, budeš-li skromná najdu tě“, kterými dříve vrchnost udržovala podané v lati, neplatí.
 
-Pokud ale v Americe začnete vykřikovat jak jste dobří, tak musíte být připraveni na to, že to po vás také budou chtít dokázat. Tudíž vám nepomůže ani to, že z vás někdo udělal osobnost nebo když jste držitelem ceny Magdaleny Dobromily Rettigové, Dr. Štětiny, či Jaroslava Vašaty. Nikdo stejně neví, kdo to vlastně byl.
+Pokud ale v Americe začnete vykřikovat jak jste dobří, tak musíte být připraveni na to, že to po vás také budou chtít dokázat. Tudíž vám nepomůže ani to, že z vás někdo udělal osobnost nebo když jste držitelem ceny Magdaleny Dobromily Rettigové, Dr. Štětiny, či Jaroslava Vašaty. Nikdo stejně neví, kdo tito lidé vlastně byli.
 
 Nesmíte se také spoléhat na to, že vám něco přijde od Boha. Ne nadarmo se tady říká „člověče přičiň se a Bůh ti pak také trochu pomůže“. Nevím kolik je v Americe bohů, ale vím, že jsou tady velice úspěšní i někteří ateisté. Podle mě je tedy nelepší spoléhat se jen sám na sebe. Plné znění mojí náboženské filosofie vám přikládám v angličtině, protože v češtině by se to nerýmovalo.
 
@@ -30,4 +30,3 @@ My Religious Philosophy
 :   He never has asked, if I’m Protestant, Catholic or Jew.
 
 Já například nerozumím ničemu jinému než pohostinství. Nejsem ještě první na světě, ale pracuji na tom a už jsem sakramentsky blízko. Člověk musí být zatraceně dobrý, aby byl lepší než jsem já. Tolik o mé skromnosti.
-
