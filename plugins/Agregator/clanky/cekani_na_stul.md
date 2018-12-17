@@ -7,15 +7,15 @@
 
 {kw="restaurace a servis"}
 
-Rezervace stolů není ve všech restauracích běžná. Restaurace, ve kterých je rezervace nutná, obsazují stoly většinou dvakrát za večer _(anglicky double sitting)_. Proto se musíte rozhodnout, na kdy si svůj stůl rezervovat.
+Rezervace stolů není ve všech restauracích běžná. Restaurace, ve kterých je rezervace nutná, obsazují stoly většinou dvakrát za večer _(anglicky double sitting)_. Proto se musíte rozhodnout, na kdy si stůl rezervovat.
 
-Je takový nepsaný zákon, že pokud jste si udělali rezervaci na prvé sezení, dejme tomu od 18:00 do 20:00 hodin, tak musíte ve 20:00 svůj stůl opustit. Pokud máte tedy v úmyslu sedět po jídle u stolu ještě déle, tak je rozumnější si udělat rezervaci na pozdější dobu.
+Existuje nepsaný zákon, že pokud jste si udělali rezervaci na první sezení, dejme tomu od 18 do 20 hodin, tak musíte ve 20 hodin svůj stůl opustit. Pokud máte v úmyslu sedět po jídle u stolu déle, tak je rozumnější si rezervaci udělat na pozdější dobu.
 
-I při dobré organizaci se ale stane, že rezervovaný stůl není při vašem příchodu ještě volný. V takovém případě se restaurace snaží hostovi čekání nějakým způsobem zpříjemnit. Z toho důvodu vám nabídnou místo u baru, nebo mají jakési předsálí / čekárnu _(anglicky lounge)_, ve které vám čekání zpříjemní podáním vášeho oblíbeného koktejlu, který vám připíší na účet.
+I při dobré organizaci se ale může stát, že rezervovaný stůl není při vašem příchodu ještě volný. V takovém případě se restaurace snaží hostovi čekání nějakým způsobem zpříjemnit. Z toho důvodu vám nabídnou místo u baru, nebo mají jakési předsálí / čekárnu _(anglicky lounge)_, ve které vám čekání zpříjemní podáním vášeho oblíbeného koktejlu. Ten vám samozřejmě připíší na účet.
 
 {class="important"}
 
 Pokud čekáte neúměrně dlouho, tak vám v některých restauracích nabídnou drink zdarma, ale moc se na to nespoléhejte.
 
-Jako studenti Hostovky nebo jako sofistikovaní hosté byste měli vědět, že když se váš stůl uvolní, tak by vám některý z obsluhujících měl vaše nedopité drinky přenést k vašemu stolu. To abyste si drinky ke stolu nesli sami nepatří zrovna k tomu nejlepšímu bontonu.
+Jako studenti Hostovky nebo jako sofistikovaní hosté, byste měli vědět, že když se váš stůl uvolní, tak by vám obsluha měla nedopité drinky přenést k novému stolu. To abyste si drinky ke stolu nesli sami nepatří zrovna k nejlepšímu bontonu.
 
