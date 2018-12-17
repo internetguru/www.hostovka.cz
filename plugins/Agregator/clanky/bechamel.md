@@ -11,6 +11,8 @@ Omáčku bešamel oficiálně vynalezl správce královského dvora Ludvíka XIV
 
 Bez bešamelu se dnes neobejde žádná evropská kuchyně a jeho použití je nekonečné. Můžete ho použít k lepení tapet na zeď, je základem pro celou řadu dalších omáček a polévek a je jakýmsi zahušťovacím prostředkem mnoha jídel.
 
+{id="varianty_besamelu"}
+
 ## Varianty bešamelu
 
 Bešamel má několik variant, u kterých každý autor tvrdí, že je to ta pravá. Nedělejte z toho však žádnou vědu a vyberte si jakýkoli z uvedených receptů.
@@ -49,22 +51,25 @@ U výše uvedených receptů je základem bešamelu jíška. Ta se v české kuc
 
 Cibule se zapíchnutými hřebíčky a petrželka dají omáčce poněkud odlišnou chuť, ale nejsou podmínkou. Rozšlehaný žloutek omáčku do jisté míry zjemní, přidá jí nažloutlý odstín a zároveň ji neznatelně zahustí. Žloutek není podmínkou a pokud omáčku hodláme několikrát ohřívat, doporučuje se vynechat.
 
+{id="priprava_besamelu"}
+
 ## Příprava bešamelu
 
 Při přípravě bešamelu postupujeme rychle. Někdy se totiž omáčka připálí ke dnu kastrolu. To ale není žádná tragédie, pokud jste omáčku míchali zlehka dřevěnou vařečkou a neseškrábli jste tak připálenou vrstvu.
 
 Postup přípravy:
 
- 1. V kastrole se silným dnem rozpustíme máslo.
- 2. Přidáme mouku, sůl a vše rychle zamícháme dřevěnou vařečkou.
- 3. Dříve, nežli mouka zhnědne, přiléváme za stálého míchání mléko.
-    
-    Mléko by mělo být horké. Při použití studeného mléka je sice výsledek stejný, ale vystavujeme se riziku, že se v omáčce udělají hrudky. Pak bychom museli omáčku propasírovat. {class="important"}
- 4. Mícháme do té doby, než je omáčka hladká.
- 5. Hotovou omáčku nalijeme do čistého hrnku a dáme ji do horké lázně _(anglicky bain marie)_ k dalšímu použití.
- 6. Zbylou omáčku necháme v čisté nádobě vychladnout a uložíme ji do chladničky.
+  1. V kastrole se silným dnem rozpustíme máslo.
+  2. Přidáme mouku, sůl a vše rychle zamícháme dřevěnou vařečkou.
+  3. Dříve, nežli mouka zhnědne, přiléváme za stálého míchání mléko.
+  4. Mléko by mělo být horké. Při použití studeného mléka je sice výsledek stejný, ale vystavujeme se riziku, že se v omáčce udělají hrudky. Pak bychom museli omáčku propasírovat. {class="important"}
+  5. Mícháme do té doby, než je omáčka hladká.
+  6. Hotovou omáčku nalijeme do čistého hrnku a dáme ji do horké lázně _(anglicky bain marie)_ k dalšímu použití.
+  7. Zbylou omáčku necháme v čisté nádobě vychladnout a uložíme ji do chladničky.
 
 Při šetrném zacházení můžeme omáčku ohřívat kolikrát chceme. Bešamelová omáčka, tak jako mnoho jiných krémových omáček, je tím lepší, čím déle se vařila. Každé ohřátí tedy omáčce jen prospěje.
+
+{id="syrova\_omacka\_mornay"}
 
 ## Sýrová omáčka mornay
 
@@ -78,10 +83,11 @@ Na jeden litr omáčky budete potřebovat
 
 Příprava omáčky je jednoduchá:
 
- 1. Do horké, ne příliš husté bešamelové omáčky přidáme strouhaný sýr.
- 2. Omáčku vaříme, než se sýr roztaví.
- 3. Poté přimícháme strouhaný parmezán a použijeme podle potřeby.
+  1. Do horké, ne příliš husté bešamelové omáčky přidáme strouhaný sýr.
+  2. Omáčku vaříme, než se sýr roztaví.
+  3. Poté přimícháme strouhaný parmezán a použijeme podle potřeby.
 
 {class="example"}
+
 Kdysi bylo běžné omáčku mornay zjemňovat žloutkem a smetanou _(anglicky liaison)_. Omáčka byla sice jemnější, ale měla nesmírné množství kalorií. Dnes už se od této praxe upouští.
 
