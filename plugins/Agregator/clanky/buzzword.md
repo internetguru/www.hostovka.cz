@@ -13,7 +13,7 @@ Na jídelních lístcích se k upoutání pozornosti velmi často používají p
 
 Je to například: kaviár, humři, krevety, lanýže, žampiony, artyčoky, avokádo, chřest, steak. Dále šampaňské, campari nebo koňak, ale například i čerstvá bazalka, houby shiitake a balzamikový ocet.
 
-Například vejce s kaviárem nebo kaviárová vejce upoutají pozornost i když obsahují jen velice malou porci kaviáru. Obdobně telecí ragú s lanýži zní přitažlivěji, než obyčejné telecí na houbách. V mysli hostů totiž lanýže představují něco exotického, takže si takové jídlo rádi objednají.
+Například vejce s kaviárem upoutají pozornost, i když obsahují jen velice malou porci kaviáru. Obdobně telecí ragú s lanýži zní přitažlivěji, než obyčejné telecí na houbách. V mysli hostů totiž lanýže představují něco exotického, takže si takové jídlo rádi objednají.
 
 ## Používané druhy upoutávek
 
@@ -21,7 +21,7 @@ Mezi tzv. _taháky_ se řadí i momentálně populární suroviny. Tak napříkl
 
 Zašlo to dokonce tak daleko, že někteří kuchaři už ve svých receptech nepoužívají jen obyčejnou sůl, ale buď košer sůl nebo mořskou sůl.  Jejich rozdíl ve vařeném jídle ve skutečnosti vůbec nikdo nepozná. Zní to ale exkluzivně a tím pádem i více draze.
 
-Na jídelních lístcích, některých českých (rádoby francouzských) restaurací, se dnes setkáte s jídly a výrazy, jako jsou:
+Na jídelních lístcích, některých českých (rádoby francouzských) restaurací, se dnes setkáte s jídly a výrazy, jako:
 
  * crusta,
  * fond,
@@ -33,7 +33,7 @@ Na jídelních lístcích, některých českých (rádoby francouzských) restau
  * pinie (což by měly být piniová jádra) nebo s
  * bramborovým pyré místo obyčejné bramborové kaše.
 
-Stejně tak narazíte na kuchařské techniky, jako jsou sotýrovat, konfinovat (což česky znamená konzervování) a s mnoha dalšími nepravdami, kravinami a výrazy, které nejsou jasné ani některým kuchařům, natožpak hostům.
+Stejně tak narazíte na kuchařské techniky, jako sotýrovat, konfinovat (což česky znamená konzervování) a s mnoha dalšími nepravdami, kravinami a výrazy, které nejsou jasné ani některým kuchařům, natožpak hostům.
 
 Tyto všechny výrazy souvisí hlavně s cenou, což uspokojuje hlavně snoby.
 
