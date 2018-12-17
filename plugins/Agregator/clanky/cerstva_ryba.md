@@ -7,13 +7,13 @@
 
 {kw="gastronomie, ryby, historka"}
 
-Pokud si někdy v restauraci hodláte objednat rybu, tak si nejprve položte otázku, zda je čerstvá. V Americe je zákon zvaný „pravda na jídelním lístku“ _(anglicky truth on the menu)_. Podle tohoto zákona je trestné, aby restaurace uváděla na jídelním lístku, že používá čerstvé ryby a přitom používala ryby rozmražené. What a country!
+Pokud si někdy v restauraci hodláte objednat rybu, tak si dejte velký pozor, zda je čerstvá. V Americe je zákon zvaný „pravda na jídelním lístku“ _(anglicky truth on the menu)_. Podle tohoto zákona je trestné, aby restaurace uváděla na jídelním lístku, že používá čerstvé ryby a přitom používala ryby rozmražené. What a country!
+
+Česká obchodní inspekce by si s tím také eventuálně věděla rady, může totiž požadovat dodací list. Normální host takovou možnost ale nemá, tudíž záleží jedině na důvěře. Jak ale říkám, v pohostinství nikomu nevěř, ani sobě.
 
 {class="important"}
 
-Jak víme, tak Hostovka není nějaká škola vaření. Je to pomyslná vysoká škola, na které by se studenti měli dozvědět, co jim za jejich peníze patří. To je ale podmíněno tím, že absolvent Hostovky ví, co si kde objednat, neboli že studenti Hostovky mají alespoň základní znalosti o zbožíznalství.
-
-Ne nadarmo američtí restauratéři říkají, že nejlepší je sofistikovaný host, který ví co chce. Česká obchodní inspekce by si s tím také eventuálně věděla rady, může totiž požadovat dodací list. Normální host tu možnost ale nemá, tudíž záleží jedině na důvěře. Jak ale říkám, v pohostinství nikomu nevěř, ani sobě.
+Jak víme, tak Hostovka není škola vaření. Je to pomyslná vysoká škola, na které by se studenti měli dozvědět, co jim za jejich peníze patří. To je ale podmíněno tím, že absolvent Hostovky ví, co si kde objednat, neboli že studenti Hostovky mají alespoň základní znalosti o zbožíznalství.
 
 ## Jak poznáme čerstvou rybu
 
@@ -24,9 +24,9 @@ Podle mě je čerstvá ryba taková, která je do kuchyně dodána ještě živ�
 ![čerstvá ryba, ale tak trochu velké sousto][1] 
 :   čerstvá ryba, ale tak trochu velké sousto
 
-Některé restaurace, které se specializují na ryby a plody moře, mají v kuchyni nebo dokonce i v restauraci nádrže, ve kterých mají živé ryby a dary moře vystavené. Hosté si pak mají možnost vybrat rybu, kterou jim pak v kuchyni připraví. Další možnost je koupit čerstvou rybu v nejbližší rybárně. Ta ale musí být hned uvařená, protože druhý den se o čerstvé rybě už hovořit nedá.
+Některé restaurace mají nádrže s živými rybami a plody moře umístěné v kuchyni nebo dokonce přímo v restauraci. Hosté si pak mají možnost vybrat živou rybu, kterou jim v kuchni následně připraví. Další možnost je koupit čerstvou rybu v nejbližší rybárně. Ta ale musí být hned uvařená, protože druhý den se o čerstvé rybě již hovořit nedá.
 
-Pokud jsou ryby vystavené atraktivně na ledu, tak to ještě mnohdy není zárukou toho, že jsou skutečně čerstvé. Někdo by mě musel přesvědčit o opaku, ale v moha případech jsou to ryby, které byly dodané zmražené a na led byly vystaveny až po jejich rozmrazení.
+Pokud jsou ryby atraktivně vystavené na ledu, tak to ještě mnohdy není zárukou jejich čerstvosti. Někdo by mě musel přesvědčit o opaku, ale v moha případech jsou to ryby, které byly dodány mražené a na led byly vystaveny až po rozmrazení.
 
 {class="figure"}
 
@@ -37,11 +37,11 @@ Pokud jsou ryby vystavené atraktivně na ledu, tak to ještě mnohdy není zár
 
 ## Historka o čerstvých rybách v hotelu Panoráma
 
-Kdysi, asi tak v roce 1949, jsem jako student Hotelové školy v Mariánských Lázních, pracoval s několika dalšími studenty v hotelu Panoráma. Nebyla to ani tak moc práce jako spíše zábava. Byli jsme mladí a podnikaví a už tehdy, i když jsme nevěděli jak se tomu vlastně říká, jsme byli ti největší odborníci na marketing.
+Kolem roku 1949 jsem jako student Hotelové školy v Mariánských Lázních pracoval s několika dalšími studenty v hotelu Panoráma. Nebyla to ani tak moc práce jako spíše zábava. Byli jsme mladí a podnikaví a už tehdy, i když jsme nevěděli jak se tomu vlastně říká, jsme byli největší odborníci na marketing.
 
 Na zahradě u hotelu bylo mělké, ale relativně velké umělé jezírko s fontánou uprostřed. Podle nás to jezírko bylo k ničemu, pokud se nedalo nějak obchodně využít. Přišli jsme tudíž s nápadem nakoupit živé kapry, ty dát do jezírka a inzerovat, že si každý host může vylovit živého kapra podběrákem. Toho jsme mu potom v kuchyni upravili podle jeho přání.
 
-Tento nápad se ihned uchytil. Po Mariánkách se to ihned rozkřiklo, hosté měli při té lázeňské nudě o zábavu postaráno a my jsme měli v kuchyni stále co dělat. Nehledě na to, jaká to byla sranda.
+Nápad se ihned uchytil. Po Mariánkách se to ihned rozkřiklo, hosté měli při té lázeňské nudě o zábavu postaráno a my jsme měli v kuchyni stále co dělat. Nehledě na to, jaká to byla sranda.
 
 Zabít, oškrábat a vykuchat kapra ale už taková sranda není a navíc to zabere nějaký čas. Netrvalo tedy dlouho než náš kuchař Pepa, který byl mimo jiné velký rošťák, přišel s takzvaným zlepšovákem. Každý den ráno vylovil z jezírka několik kaprů, které očistil, vykuchal a uložil je do ledničky. Tam zůstali do té doby, než některý z hostů přinesl do kuchyně živého kapra, kterého si chtěl nechat uvařit podle svého přání.
 
