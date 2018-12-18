@@ -15,18 +15,19 @@ Pokud ale v Americe začnete vykřikovat jak jste dobří, tak musíte být při
 
 Nesmíte se také spoléhat na to, že vám něco přijde od Boha. Ne nadarmo se tady říká „člověče přičiň se a Bůh ti pak také trochu pomůže“. Nevím kolik je v Americe bohů, ale vím, že jsou tady velice úspěšní i někteří ateisté. Podle mě je tedy nelepší spoléhat se jen sám na sebe. Plné znění mojí náboženské filosofie vám přikládám v angličtině, protože v češtině by se to nerýmovalo.
 
-{lang="en" xml:lang="en"}
+{xml:lang="en"}
 
 My Religious Philosophy
 :   I am neither Protestant, Catholic nor Jew  
-    If you don’t understand, I’ll explain it to you
+    If you don’t understand, I’ll explain it to you 
 :   These religious of man, are only a name  
-    They must not be right, or they’d believe the same
+    They must not be right, or they’d believe the same 
 :   I believe in God, just as they do  
-    Same as the Protestant, Catholic and Jew
+    Same as the Protestant, Catholic and Jew 
 :   But what makes me think, that I’m right  
     I talk to God, every night  
-    And I’m happy to know, and tell it to you
+    And I’m happy to know, and tell it to you 
 :   He never has asked, if I’m Protestant, Catholic or Jew.
 
 Já například nerozumím ničemu jinému než pohostinství. Nejsem ještě první na světě, ale pracuji na tom a už jsem sakramentsky blízko. Člověk musí být zatraceně dobrý, aby byl lepší než jsem já. Tolik o mé skromnosti.
+
