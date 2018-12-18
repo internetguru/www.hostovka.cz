@@ -7,7 +7,7 @@
 
 {kw="kdo-kdy-kde, recept, steak"}
 
-Châteaubriand \[vyslov _šatobriján(d)_\] byl francouzský státník a spisovatel, jehož nejznámější díla jsou _Memoires d'outre-tombe_ (Paměti ze záhrobí), _Atala_ a _Génie du christianisme_ (Duch křesťanství). Je po něm pojmenováno několik omáček a pokrmů, z nichž nejznámější je řez ze svíčkové o váze 400 až 500 gramů zvaný chateaubriandův steak nebo také jen _chateaubriand_.
+Châteaubriand [vyslov _šatobriján(d)\_] byl francouzský státník a spisovatel, jehož nejznámější díla jsou \_Memoires d'outre-tombe_ (Paměti ze záhrobí), _Atala_ a _Génie du christianisme_ (Duch křesťanství). Je po něm pojmenováno několik omáček a pokrmů, z nichž nejznámější je řez ze svíčkové o váze 400 až 500 gramů zvaný chateaubriandův steak nebo také jen _chateaubriand_.
 
 {class="figure"}
 
@@ -16,7 +16,7 @@ Châteaubriand \[vyslov _šatobriján(d)_\] byl francouzský státník a spisova
 
 Chateaubriandův steak byl sice pojmenován po Châteaubriandovi, avšak jídlo, tak jak je popsáno níže, vytvořil slavný francouzský kuchař Montmireil. Recept na steak vám na těchto stránkách dát nemohu, ale jako studentům Hostovky vám musím alespoň napsat, jak se jídlo připravuje.
 
-{id="priprava_a_prilohy" short="Příprava a přílohy"}
+{id="priprava\_a\_prilohy" short="Příprava a přílohy"}
 
 ## Příprava steaku a přílohy
 
@@ -35,6 +35,8 @@ Steak se podává v celku, zásadně na horké míse. Zpravidla je položený na
 
 Mimo zeleniny se musí podávat alespoň dva druhy brambor. Jsou to například _pommes château_ nebo _pommes parisienne_, ale v každém případě brambory _duchesse_. Ty se ozdobně nastříkají po okraji mísy a opečou se dozlatova pod grilem. Tím se vytvoří jedlý okraj zvaný _bordura_, neboli _rám obrazu_ tohoto velice atraktivního jídla.
 
+{id="porcovani\_a\_omacky"}
+
 ## Porcování a omáčky
 
 Steak se kdysi porcoval (dranšíroval) na servírovacím stolku (keridonu) přímo u stolu. To vyžadovalo jistou zkušenost a profesionálnost. Toto umění tzv. _dranšéra_ ale už bohužel zaniklo, takže na to dnes můžete již zapomenout.
@@ -49,3 +51,4 @@ Podávání chateaubriandova steaku, tak jak popsáno výše, upadlo již v zapo
 
  [1]: /files/thumbs/clanky/chateaubriand/2-7-06-1.jpg
  [2]: /files/preview/clanky/chateaubriand/2-7-06-2.jpg
+
