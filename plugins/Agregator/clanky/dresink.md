@@ -1,175 +1,107 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=210.html" data-og-image="/files/preview/clanky/dresink/general.jpg" data-og-type="article"}
 
-{id="dresink" ctime="2007-01-13" author="Michael Klíma" short="Dresink" authorid="hostovka/michael_klima"}
+{id="zalivka_dresink" ctime="2007-01-13" mtime="2018-12-18" author="Michael Klíma" short="Zálivka a dresink"}
 
-# Dresink
+# Příprava zálivky a dresinku
 
 {kw="jídla a jídelní lístky"}
 
-V encyklopedickém slovníku gastronomie od Jiřího Černého, dresink je popsán jako zálivka, zpravidla studená, používaná k ochucení zeleninových ovocných nebo kombinovaných salátů.
+V encyklopedickém slovníku gastronomie od Jiřího Černého, je dresink popsán jako zálivka, zpravidla studená, používaná k ochucení zeleninových ovocných nebo kombinovaných salátů. Jako studentům Hostovky by vám ale tato definice stačit neměla.
 
-Je možné že odborníkům, hlavně těm kteří neradi čtou mé podrobné popisy věcí a kteří si potrpí na všechny ty odborné informace podávané "v kostce" toto postačí, ale vám jako studentům Hostovky by to stačit nemělo, protože vy byste o jídle a pití měli vědět pokud možno vše.
+V Americe, obzvláště ve středu, musíte být s používáním slova dresink opatrní. Výraz dresink _(anglicky dressing)_ se tam používá pro  nádivku _(anglicky stuffing)_. Podle některých anglických slovníků může dresink _(dressing)_ znamenat také obvaz na rány.
 
-Je ale možné, že i mezi studenty Hostovky se najdou někteří kterým se mé příspěvky zdají být zdlouhavé a polopatické, ale já na stará kolena už asi jiný nebudu ale krása internetu je v tom, že to prostě nemusí číst protože se bez toho asi obejdou.
-
-Nicméně já ale jak jsem slíbil, chci ze studentů Hostovky vychovat skutečně sofistikované návštěvníky restauračních provozů nejen doma ale i při jejich cestách do zahraničí.
-
-Absolvent Hostovky by se nikdy neměl dostat do nepříjemné situace, měl by vědět co je co, a co mu za jeho peníze patři.
-
-{id="dressing"}
-
-## Dressing
-
-Angl.; podle některých anglických slovníků to může být obvaz na rány. V Americe, obzvláště v Midwest, v okolí Chicága musíte ale být opatrní, protože tam pod výrazem dressing (česky dresink) se rozumí nádivka (stuffing), zejména nádivka pro nadívání krocanů (Turkey dressing), ale o tom eventuálně někdy příště.
-
-Jinak ale dresink (také drezink), anglicky dressing je dnes obecně vžitý název pro zálivky na saláty, ale povězme si o těch zálivkách více.
-
-{id="zalivka"}
+Zálivka či dresink má salát ochutit a ne ho přehlušit. Zároveň se k salátu musí hodit. Buďte opatrní, protože například v Americe vám v některých restauracích podají salát zamíchaný přímo s dresinkem. Proto je dobré objednat si dresink zvlášť _(anglicky on the side)_ a přidat si ho na salát až podle chuti.
 
 ## Zálivka
 
-Zálivka, jak název napovídá, je něco čím se salát zalévá, a to nakonec je i dresink, jenomže málo lidí to tak praktikuje.
+Zálivka, jak napovídá název, je něco, čím se salát zalévá. To je nakonec i dresink, jenomže ne každý to tak praktikuje.
 
-Většinou zálivkou nebo dresinkem salát smíchají, což ve skutečnosti je faut pas, protože salát, obzvláště lupenový, má být dresinkem, nebo chcete-li zálivkou jen obalen.
+Lidé většinou salát rovnou smíchají se zálivkou nebo s dresinkem. To se ve skutečnosti nedělá, protože salát, obzvláště lupenový, má být dresinkem, či zálivkou pouze obalen.
 
-{id="zakladni_zalivka"}
+Základní zálivka se nazývá _vinegret_. Při používání tohoto výrazu musíte být opatrní, protože například v ruské kuchyni znamená slovo vinegret _(rusky винегрет)_ již hotový salát ze zeleniny, masa a ryb, který se podává již smíchaný se zálivkou.
 
-### Základní zálivka
+{class="card"}
 
-Základní zálivka je francouzský Vinegret, ale při používání tohoto výrazu musíte být také opatrní protože například v ruské kuchyni Vinegret (винегрет) znamená již hotový salát ze zeleniny, masa a ryb, který se podává již smíchaný se zálivkou.
+Základní zálivka
+:   Původní francouzská zálivka měla poměr oleje a octu 3:1. Bylo to proto, že se používal méně výrazný ocet (vinný nebo estragonový).
+:   Dnešní zálivka se skládá z 8 lžic oleje, 1/2 lžičky soli, trošky mletého černého pepře a ze 2 lžic octa.
 
-Vinegret má ale také nekonečnou řadu variant
+{class="card"}
 
-{id="zakladni_vinegret"}
+Zálivka s hořčicí
+:   K základní zálivce přidáme 1 lžičku vaší oblíbené hořčice.
+:   Je nutno podotknout, že kremžská hořčice se do zálivky moc nehodí.
 
-### Základní Vinegret
+{class="card"}
 
-Francouzský název vinegrette, svádí k domnění, že hlavní surovinou je ocet, od francouzského vinegre, ale pravý opak je pravdou.
+Zálivka s česnekem
+:   Česnek, s velkým obsahem vitamínu C, kdysi opomíjený pro jeho typický pach, je dnes naopak vítaným „vylepšením“ mnoha pokrmů.
+:   Pokud můžeme, používáme čerstvě drcený česnek a přidáváme ho jen v úměrném množství, podle preferencí vaši klientely.
 
-Původní francouzský vinegrette měl poměr oleje k octu 3:1 a to proto, že se používal výraznější ocet, a to buď vinný nebo estragonový. Dnešní vinegret pro saláty označovaný jako 4:1 sestává z 8 lžic oleje, ½ lžičky soli, trošky mletého černého pepře a ze 2 lžic octa, neboli olej je tou dominantní surovinou a přitom nemusí být olivový.
+{class="card"}
 
-Nicméně rozhodující je vaše chuť lépe řečeno chuť vašich strávníků.
+Zálivka s citrónovou šťávou
+:   V některých případech dáváme před octem přednost citrónové nebo limetkové šťávě. Případně můžeme použít kombinaci obojího.
 
-{id="vinegret\_s\_horcici"}
+{class="card"}
 
-### Vinegret s hořčicí
+Zálivka s kari kořením
+:   K indickým nebo i jiným orientálním salátům můžeme použít dresink s kari kořením.
+:   Kari, které se ve vodě nebo octu velmi těžko rozpouští, rozmícháme v oleji na jemnou pastu. Tu pak přidáme do dresinku.
 
-K základnímu vinegretu přidáme 1 lžičku vaši oblíbené hořčice, přičemž je nutno podotknout, že kremžská hořčice se na vinegret moc nehodí.
+{class="card"}
 
-{id="vinegret\_s\_cesnekem"}
+Zálivka s plísňovým sýrem
+:   Pravý plísňový sýr _(Roquefort)_ není podmínkou. Niva nebo modrý sýr, nám udělá stejnou službu.
+:   Tento dresink připravujeme až těsně před podáváním a to tak, že k základnímu dresinku přidáme 2 lžíce drobně sekaného sýra.
 
-### Vinegret s česnekem
+{class="card"}
 
-Česnek, s velikým obsahem vitaminu C, kdysi opomíjený pro jeho typický pach, je dnes naopak vítaným ?vylepšením? mnoha pokrmů a drezinky nejsou výjimkou.
+Zálivka s vínem
+:   Polovinu dávky octa nahradíme vínem (červeným, bílým či šampaňským).
+:   Tento dresink připravujeme až těsně před podáváním.
 
-Někdejší teatrální vytírání salátové mísy česnekem pro získání jen jemné chutě česneku dnes již upadlo v zapomenutí. Nicméně pokud možno používáme čerstvě drcený česnek a přidáváme ho jen v úměrném množství a to podle chutě vaši klientely.
+{class="card"}
 
-{id="vinegret\_s\_citronovou_stavou"}
+Zálivka s ančovičkami
+:   Ančovičky, správně sardelky, jsou vítanou změnou v chuti dresinku.
+:   Ančovičky do dresinku přidáme v úměrném množství. Mohou být buďto drobně nasekané nebo ve formě pasty.
+:   Dávku soli snížíme nebo ji zcela vypustíme.
 
-### Vinegret s citrónovou šťávou
+{class="card"}
 
-V některých případech dáváme přednost citrónové nebo limetkové šťávě před octem, případně kombinaci obojího.
+Zálivka s grilovanou americkou slaninou
+:   Studenou grilovanou „americkou“ slaninu rozsekáme na malé kousky a přidáme k základnímu dresinku těsně před podáváním.
 
-{id="vinegret\_s\_kari_korenim"}
+{class="card"}
 
-### Vinegret s kari kořením
+Zálivka se žloutkem
+:   V tomto případě se rozumí žloutek vařený natvrdo.
+:   Žloutek přidáme jemně nasekaný nebo propasírovaný přes síto.
 
-K indickým nebo i jiným orientálním salátům můžeme použít dresink s kari kořením.
 
-Příprava je téměř stejná až na to, že kari, které se ve vodě nebo v octě velmi těžko rozpouští, rozmícháme napřed v oleji na jemnou pastu, kterou pak k dresinku přidáme.
+{class="card"}
 
-{id="vinegret\_s\_roquefortem"}
-
-### Vinegret s Roquefortem
-
-Podle zákona pokud nepoužijete pravý Roquefort nesmíte ho specifikovat. Pravý Roquefort ale není podmínkou. Jakýkoliv podobný sýr jako například Niva nebo Blue Cheese, nám udělá stejnou službu ovšem toto musí být v názvu drezinku uvedeno. Pravda na jídelním lístku.
-
-Tento drezink připravujeme až těsně před podáváním. K základnímu vinegretu přidáme 2 lžíce drobně sekaného sýra.
-
-{id="vinegret\_s\_vinem"}
-
-### Vinegret s vínem
-
-Víno, podle preference červené, bílé či šampaňské nahradíme polovinu dávky octa. Tento dresink rovněž připravujeme až těsně před podáváním.
-
-{id="vinegret\_s\_ancovickami_sardelkami"}
-
-### Vinegret s ančovičkami (sardelkami)
-
-Anšovičky, správně sardelky, jsou vítanou změnou v chutích drezinků. Přidáváme je však jen úměrném množství a to budě drobně nasekané nebo ve formě sardelové pasty kterou dobře rozpustíme. Dávku soli snížíme nebo ji zcela vypustíme.
-
-{id="vinegret\_s\_grilovanou\_americkou\_slaninou"}
-
-### Vinegret s grilovanou americkou slaninou
-
-Studenou grilovanou "americkou" slaninu rozsekáme na malé kousky a přidáme k základnímu dresinku těsně před podáváním.
-
-{id="vinegret\_se\_zloutkem"}
-
-### Vinegret se žloutkem
-
-V tomto případě se rozumí žloutek natvrdo vařený jemně nasekaný nebo propasírovaný přes jemné síto.
-
-{id="vinegret\_s\_taragonem_estragonem"}
-
-### Vinegret s taragonem (estragonem)
-
-Čerstvý estragon můžeme nahradit sušeným nebo ještě lépe estragonovým octem který dává výraznější chuť a vůni.
+Zálivka s estragonem
+:   Čerstvý estragon můžeme nahradit sušeným nebo ještě lépe estragonovým octem, který dá zálivce výraznější chuť a vůni.
 
 {id="dresinky"}
 
 ## Dresinky
 
-Oproti vinegretu základem dresinku může být nejenom ocet a olej, ale i majonéza, kyselá smetana, jogurt, rajská omáčka či kečup, apod.
+Oproti základní zálivce můžeme v dresinku použít nejenom ocet a olej, ale i například majonézu, zakysanou smetanu, jogurt, rajskou omáčku či kečup.
 
-{id="nazev_dresinku"}
+Dresink má zpravidla své jméno, které však není odvozené od jeho přísad. V Americe, kde je více než 300 komerčně vyráběných dresinků, jsou dresinky pojmenovávány i po populárních zpěvácích nebo hercích. Některé americké dresinky, jako například dresink tisíce ostrovů _(anglicky thousand island dressing)_, jsou dnes velmi populární po celém světě.
 
-### Název dresinků
+### Předpřipravený a domácí dresink
 
-Podle přísad má drezink neboli zálivka zpravidla své jméno, ale nejsou to jen přísady, které dávají drezinkům jejich jméno.
+Předpřipravené (komerčně vyráběné) dresinky se sice hodí, ale v restauracích s velkou spotřebou dresinků se vyplatí připravovat si dresinky od základu sami. V takovém případě můžete s takzvaným „domácím dresinkem“ _(anglicky house dressing)_ dokonce získat popularitu.
 
-V Americe, kde komerčně vyráběných drezinků je více než 300, jsou drezinky pojmenovávány i po populárních zpěvácích nebo hercích, kteří takový drezink třeba ani nemají rádi.
+{class="important"}
 
-Já například nevěřím, že Paulu Newmanovi, kterého jako herce mám docela rád, a po kterém je jeden drezink pojmenován, může ten jeho drezink chutnat.
+Kuchaři v restauracích by měli své dresinky připravovat podle chuti hostů a ne podle jejich vlastní.
 
-Také nevěřím, že Paul Newman ten dresink vymyslel, ale kdo ví, možná že neví o mé dohodě.
+Opravte mě, pokud se mýlím, ale spousta kuchařů ví o dresincích jen velmi málo. To, že dělají dresinky podle své chuti, mně osobně nic neříká. Některé dresinky se hodí pro těstovinové saláty, jiné pro masité či rybí saláty, jiné pro saláty ovocné nebo zeleninové. Proto mám rád, když restaurace nabízí několik populárních, třeba i kupovaných dresinků.
 
-Já totiž když jsem přišel do Ameriky jsem slíbil všem hercům, že, přestože jsem do jisté míry také umělec, se jim nebudu do jejich umění míchat, a oni mi slíbili, že mi nebudou fušovat do vaření.
-
-Do toho vaření mi sice nefušují, protože k tomu by museli něco umět, ale nepovedlo se mi zabránit v tom, aby psali kuchařky.
-
-To ale znáte i v Česku kde píši kuchařky také více zpěváci, herci a baviči než profesionální kuchaři.
-
-Některé americké drezinky jako například Thousand Island Dressing, neboli dresink tisíce ostrovů jsou dnes populární po celém světě stejně tak jako Blue Cheese Dressing, což je dressing s modrým sýrem neboli Roquefortem.
-
-French Dressing, který když se to tak vezme nemá s Francii co společného a kde by vám ho hodili na hlavu, si s nimi v Americe v popularitě nezadá.
-
-{id="convenience"}
-
-### Convenience
-
-Hotové, komerčně vyráběné drezinky, jsou sice příhodné (convenient) ale úměrně k tomu drahé a proto v podnicích ve kterých máte velkou spotřebu drezinků se vyplatí připravovat si drezinky od píky, čemuž se anglicky říká from the scratch.
-
-V takovém případě si můžete dokonce získat popularitu tak zvaným "domácím drezinkem" (house dressing).
-
-Kuchaři v restauracích by ale měli své dresinky připravovat podle chuti jejich hostů a ne podle jejich vlastni.
-
-{id="domaci_dresink"}
-
-### Domácí dresink
-
-Opravte mně pokud se mýlím, ale když se na to zaměříte, tak po nějakém čase mi dáte za pravdu, že o dresincích toho někteří kuchaři moc nevědí, a to ne jenom v Česku.
-
-To že dělají dresinky podle své chutě mně osobně ještě nic neříká protože ne každá taková zálivka či dresink se hodí na každý salát.
-
-Jiné dresinky se hodí pro těstovinové, jiné pro masité či rybí saláty, jiné pro saláty ovocné či zeleninové. Proto já mám rád když restaurace nabízí několik populárních, třeba i convenientních dresinků tak abych si mohl vybrat.
-
-{id="kolik\_zalivky\_ci_dresiku"}
-
-## Kolik zálivky či dresiku
-
-Zálivka či dresink má salát ochutit a ne ho přehlušit a musí se k němu hodit. Buďte opatrní protože například v Americe v některých restauracích vám podají ne salát s drezinkem ale dresink se salátem.
-
-Proto je dobře objednat si váš oblíbený dresink zvlášť (on the side) a přidat si ho na salát podle vaši preference.
 
