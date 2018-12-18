@@ -1,19 +1,21 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-og-image="/files/preview/clanky/amerika\_o\_praci/preview.jpg" data-og-type="article" data-source="http://2017.hostovka.cz/nekolik-slov-o-mikovi-a-jeho-aktivitach.php"}
 
-{id="amerika\_o\_praci" author="Michael Klíma" ctime="2006-05"}
+{id="propagace" short="Propagace" author="Michael Klíma" ctime="2006-05" mtime="2018-12-17"}
 
-# Co mě naučila Amerika o práci
+# Důležitost propagace
 
 {kw="Životopis"}
 
-To o tom propagování jsem se naučil až v Americe kde takové povídačky jako: „Sedávej panenko v koutě, budeš-li skromná najdu tě“, kterými ta vrchnost udržovala ty podané v lati, neplatí.
+V Česku vám stačí titul a nějaké medaile. V Americe ale tituly nejsou a na medaile se také moc nevěří. Můžete tam být jakkoli dobří, ale pokud to nikdo neví, tak si za to nic nekoupíte. Musíte mýt neustále vidět, propagovat se a nesmíte být skromní.
 
-To víte, v Česku vám stačí nějaký titul nějaké medaile, ale v Americe tituly nejsou a na medaile se také moc nevěří, takže můžete být nevím jak dobří, ale pokud to nikdo neví tak si za to nic nekoupíte, neboli musíte neustále být viditelní, nesmíte být skromní a musíte se neustále propagovat, což tedy já dělám.
+Propagovat se jsem se naučil až v Americe. Tam takové povídačky jako „sedávej panenko v koutě, budeš-li skromná najdu tě“, kterými dříve vrchnost udržovala podané v lati, neplatí.
 
-V Americe ale pokud si otevřete vaši velkou hubu tak musíte být připraveni na to, že vám někdo řekne abyste dokázali činy to o čem kážete. Tudíž vám nepomůže ani to že z vás někdo udělal osobnost, nebo když jste držiteli ceny Magdaleny Dobromily Rettigové, Dr. Štětiny, či Jaroslava Vašaty, protože stejně nikdo neví kdo to vlastně byl. Prostě česky řečeno, musíte umět něco co je „prodejné“ a musíte pokud možno být jeden z nejlepších. Nesmíte se také spoléhat na to, že vám něco přijde od Boha. Ne nadarmo se tady říká: „Člověče přičiň se a Bůh ti pak také trochu pomůže.“
+Pokud ale v Americe začnete vykřikovat jak jste dobří, tak musíte být připraveni na to, že to po vás také budou chtít dokázat. Tudíž vám nepomůže ani to, že z vás někdo udělal osobnost nebo když jste držitelem ceny Magdaleny Dobromily Rettigové, Dr. Štětiny, či Jaroslava Vašaty. Nikdo stejně neví, kdo tito lidé vlastně byli.
 
-V Americe je asi 800 různých náboženství a kolik je zde Bohů to nevím, ale vím že jsou tady velice úspěšní i někteří ateisté. What a country! Tudíž podle mě nelepší je spoléhat se jen sám na sebe a to je moje náboženská filosofie kterou vám přikládám v angličtině, protože v češtině by se to nerýmovalo.
+Nesmíte se také spoléhat na to, že vám něco přijde od Boha. Ne nadarmo se tady říká „člověče přičiň se a Bůh ti pak také trochu pomůže“. Nevím kolik je v Americe bohů, ale vím, že jsou tady velice úspěšní i někteří ateisté. Podle mě je tedy nelepší spoléhat se jen sám na sebe. Plné znění mojí náboženské filosofie vám přikládám v angličtině, protože v češtině by se to nerýmovalo.
+
+{lang="en" xml:lang="en"}
 
 My Religious Philosophy
 :   I am neither Protestant, Catholic nor Jew  
@@ -27,5 +29,4 @@ My Religious Philosophy
     And I’m happy to know, and tell it to you
 :   He never has asked, if I’m Protestant, Catholic or Jew.
 
-Já například ničemu jinému nerozumím než pohostinství a nejsem ještě první na světě, ale pracuji na tom, a jsem už sakramentsky blízko a každý druhý musí být zatraceně dobrý aby byl lepší než jsem já. Tolik o mé skromnosti.
-
+Já například nerozumím ničemu jinému než pohostinství. Nejsem ještě první na světě, ale pracuji na tom a už jsem sakramentsky blízko. Člověk musí být zatraceně dobrý, aby byl lepší než jsem já. Tolik o mé skromnosti.
