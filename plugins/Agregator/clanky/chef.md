@@ -52,15 +52,25 @@ Níže jsou popsány další typické kuchařské tituly. Další, méně běžn
 Cetifikovaný výkonný šéfkuchař
 :   Anglicky _certified executive chef_.
 :   Titul uděluje americká kulinářská federace _(American Culinary Federation)_ kuchařům splňující stanovené podmínky a předepsané zkoušky. Zástupce šéfkuchaře
+
+Zástupce šéfkuchaře
 :   Anglicky _sou-chef_.
 :   Menší kuchyně funkci zástupce šéfkuchaře nemají, zatímco jiné jich mohou mít několik. Vyvolávač
+
+Vyvolávač
 :   Anglicky _abouyer_, v přesném překladu „štěkač“.
 :   Vyvolává objednávky v kuchyni a je také poslední vizuální kontrolou kvality jídel. Musí tedy o jídle něco vědět. Funkci vyvolávače zpravidla zastává šéfkuchař nebo zástupce šéfkuchaře. Učedník
+
+Učedník
 :   Anglicky _commis_.
 :   Zpravidla je to student nějaké odborné školy nebo absolvent odborného kurzu. Učitel
+
+Učitel
 :   Anglicky _culinary educator_.
 :   V Americe je to každý výkonný šéfkuchař, protože jedna z jeho povinností je předávat své zkušenosti podřízeným.
 :   Jinak to ale může být každý, kdo složí zkoušky z pedagogického minima. Certifikovaný učitel
+
+Certifikovaný učitel
 :   Anglicky _certified culinary educator_.
 :   Titul uděluje americká kulinářská federace _(American Culinary Federation)_ každému žadateli s prokázanou praxí, který složí zkoušky z pedagogického minima a předepsaných znalostí.
 
