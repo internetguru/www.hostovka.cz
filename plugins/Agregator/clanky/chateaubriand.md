@@ -7,7 +7,7 @@
 
 {kw="kdo-kdy-kde, recept, steak"}
 
-Châteaubriand [vyslov _šatobriján(d)\_] byl francouzský státník a spisovatel, jehož nejznámější díla jsou \_Memoires d'outre-tombe_ (Paměti ze záhrobí), _Atala_ a _Génie du christianisme_ (Duch křesťanství). Je po něm pojmenováno několik omáček a pokrmů, z nichž nejznámější je řez ze svíčkové o váze 400 až 500 gramů zvaný chateaubriandův steak nebo také jen _chateaubriand_.
+Châteaubriand [vyslov _šatobriján(d)_] byl francouzský státník a spisovatel, jehož nejznámější díla jsou _Memoires d'outre-tombe_ (Paměti ze záhrobí), _Atala_ a _Génie du christianisme_ (Duch křesťanství). Je po něm pojmenováno několik omáček a pokrmů, z nichž nejznámější je řez ze svíčkové o váze 400 až 500 gramů zvaný chateaubriandův steak nebo také jen _chateaubriand_.
 
 {class="figure"}
 
