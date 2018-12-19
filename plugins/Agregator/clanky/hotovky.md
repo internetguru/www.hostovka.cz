@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=154.html" data-og-image="/files/preview/clanky/hotovky/general.jpg" data-og-type="article"}
 
-{id="hotovky_a_minutky" short="Hotovky a minutky" ctime="2006-06-08" mtime="2018-12-19" author="Michael Klíma"}
+{id="hotovky\_a\_minutky" short="Hotovky a minutky" ctime="2006-06-08" mtime="2018-12-19" author="Michael Klíma"}
 
 # Hotovky a minutky v českých restauracích
 
@@ -27,11 +27,11 @@ Za socialismu byly ve státním ceníků jídel a nápojů oblohy dvě. Jedna by
 
 Téměř ve všech případech se obloha skládala z:
 
- * hořčice, kterou takzvaně „nakydali“ přímo na talíř,
- * kopečku čalamády nebo zelného salátu,
- * kopečku sekané cibule,
- * vějířku okurky nebo kousku kapie,
- * ale v každém případě nesměla chybět červená řepa.
+  * hořčice, kterou takzvaně „nakydali“ přímo na talíř,
+  * kopečku čalamády nebo zelného salátu,
+  * kopečku sekané cibule,
+  * vějířku okurky nebo kousku kapie,
+  * ale v každém případě nesměla chybět červená řepa.
 
 {class="example"}
 
@@ -53,7 +53,7 @@ Průzkumem jsem zjistil, že si kuchaři, takzvaní _minutkáři_, dělají př�
 
 Čeští _minutkáři_ přišli samozřejmě se zlepšovákem. Ke všem minutkám dávají jednak stejnou oblohu, a aby byli skutečně připraveni (což se asi naučili v pionýru), tak si oblohy na talíře připravují předem. Tím se vlastně vysvětluje proč byly minutky podávány na studených talířích. Klidně se s vámi ale vsadím, že to ve valné většině případů platí i dnes.
 
-{id="obloha_studente_talire_v_americe"}
+{id="obloha\_studente\_talire\_v\_americe"}
 
 ## Jak řeší problém oblohy a studených talířů v Americe
 
@@ -79,7 +79,7 @@ Obsluhující dále jídlo
 
 Toto je jen velice stručný popis organizace při výdeji jídel. Dá vám ale představu o rychlém a ekonomickém výdeji vhodně ozdobeného jídla na horkém talíři.
 
-{id="bez_hotovek_minutek"}
+{id="bez\_hotovek\_minutek"}
 
 ## Úspěšný podnik nemusí vydávat hotovky ani minutky
 
@@ -96,3 +96,4 @@ Na jednoduchém stálém jídelním lístku je výběr populárních specialit m
 O tom, že [tento koncept][1] má předpoklady růstu a popularity svědčí to, že se většina hostů opakovaně vrací, a že hosté odcházejí spokojení – ať s cenou či kvalitou.
 
  [1]: https://www.steakgrill.cz/o_nas#koncept
+
