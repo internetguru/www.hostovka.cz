@@ -11,6 +11,8 @@ Spojená kuchyně _(anglicky fusion cuisine)_ je definována jako kuchyně, kter
 
 Výraz spojená kuchyně se přímo nabízí v případech, kdy jsou jídla na jídelním lístku směsí všeho možného. To vlastně není v Česku a na Slovensku nic nového. Čeští a slovenští kuchaři tato jídla velmi často označují za _orientální_.
 
+{id="historie\_spojene\_kuchyne"}
+
 ## Historie spojené kuchyně
 
 K rozmachu spojené kuchyně došlo v poválečných letech v Americe. Do Ameriky tehdy přicházeli schopní kuchaři z téměř celého světa. Ti s sebou přinášeli osvědčené techniky a recepty z rodných zemí.
@@ -21,6 +23,8 @@ Bohatší surovinová základna, přístup k novým výkonnějším zařízením
 
 Amerika ale v tomto ohledu nebyla jediná. Spojená kuchyně se následně uchytila v zemích jako je například Austrálie, Nový Zéland, Kanada a Izrael. Na druhé straně pochybuji, že francouzští, italští, čínští a thajští kuchaři budou někdy spojenou kuchyni brát vážně. Myslí si totiž, že [jejich kuchyně je již plně vyvinutá][1].
 
+{id="osobni_zkusenosti"}
+
 ## Osobní zkušenosti
 
 Aniž bych o tom věděl, tak jsem byl vlivu spojené kuchyně vystaven už v době učení. Učil jsem se totiž v hotelu Alcron v Praze, a sice za války, kdy byl hotel pod německým vedením. A ačkoli se o tom oficiálně nemluvilo, kuchyně tam byla do jisté míry i německá.
@@ -30,3 +34,4 @@ Aniž bych o tom věděl, tak jsem byl vlivu spojené kuchyně vystaven už v do
 Já jsem si to tehdy ani neuvědomoval, ale zkušenosti z dob učení byly dalším podnětem ke studiu etnických kuchyní. Krátce po vyučení jsem odešel za praxí do Francie. Později jsem se seznámil s čínskou, vietnamskou a dokonce i s ruskou kuchyní. Ve spojené kuchyni jsem se pak zdokonalil v 70. letech v Americe a používal ji dále po celém světě.
 
  [1]: francouzska_gastronomie
+
