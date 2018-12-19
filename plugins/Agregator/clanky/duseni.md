@@ -11,11 +11,11 @@ Dušení je úprava pokrmů za pomocí vlhkého tepla, umístěných v nádobě 
 
 {class="important"}
 
-Hostovka není škola vaření a proto vám zde nebudu popisovat přesný postup dušení.
+Hostovka není škola vaření, a proto vám zde nebudu popisovat přesný postup dušení.
 
 ## Dušení ve světě
 
-Jelikož předpokládám, že se dříve nebo později vypravíte do zahraničí, tak vám povím, jakými všemi výrazy se dušení nazývá. Dušenina může být někdy označována jako pečeně. Jsou to hlavně hovězí pečeně _(anglicky potroast)_, což v překladu znamená _pečeně v hrnci_.
+Jelikož předpokládám, že se dříve nebo později vypravíte do zahraničí, tak vám povím, jakými všemi výrazy se dušení nazývá. Dušenina může být někdy označována jako pečeně. Jsou to hlavně hovězí pečeně _(anglicky potroast)_, což v překladu znamená _pečení v hrnci_.
 
 Německy se dušení říká _dünsten_. V americké kuchyni může být dušení označeno jako _braising_ a používá se na něj kastrol zvaný holandská trouba _(anglicky dutch oven)_. Ale aby se to trochu zkomplikovalo, tak pro dušení existuje ještě jeden anglický výraz – _stewing_. Takže dušeniny jsou nazývány také jako _stews_.
 
@@ -29,9 +29,8 @@ Některé velké nebo tuhé kusy masa, hlavně zvěřina, jsou před dušením m
 
 ## Marináda
 
-Marináda, mořidlo, pajc nebo bajc _(od německého beize)_ a lák, jsou prostředky ke konzervování a křehčení (tenderizování) potravin. V minulosti bylo marinování (pajcování) používáno hlavně při zpracování zvěřiny. Důvodem bylo přehlušení její mnohdy nepříjemné chuti.
+Marináda, mořidlo, pajc nebo bajc _(od německého Beize)_ a lák, jsou prostředky ke konzervování a křehčení (tenderizování) potravin. V minulosti bylo marinování (pajcování) používáno hlavně při zpracování zvěřiny. Důvodem bylo přehlušení její mnohdy nepříjemné chuti.
 
-Dnes se dlouhé marinování zavrhuje. Nicméně 10 až 15 minutové marinování drůbeže či ryb může znatelně zlepšit chuť. Puristé to ale také zavrhují. Říkají, že ryba má chutnat a páchnout po rybě, a že jakékoliv zasahování do přírodních chutí a vůní je proti zdravému rozumu.
+Dnes se dlouhé marinování zavrhuje. Nicméně 10 až 15 minutové marinování drůbeže či ryb může znatelně zlepšit chuť. Puristé to ale také zavrhují. Říkají, že ryba má chutnat a být cítit po rybě, a že jakékoliv zasahování do přírodních chutí a vůní je proti zdravému rozumu.
 
 Při cestách na východ nebo do Orientu, se ale s marinovanými potravinami setkáte velmi často. Mohu vám z vlastní praxe říci, že bez marinády by tam jídla nebyla tak dobrá.
-
