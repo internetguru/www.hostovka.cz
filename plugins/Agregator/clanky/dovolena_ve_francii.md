@@ -13,6 +13,8 @@ Málokdo to ví, ale čeští kuchaři byli (po dvou nebo třech letech praxe ve
 
 Spokojenost se sebou samotným je nejjistější cesta, jak dříve nebo později vypadnout z pohostinství. A to je právě ten důvod, který po stoletém prvenství přivedl francouzské restauratéry a kuchaře do situace, kdy ho ztrácejí.
 
+{id="vyvoj\_francouzske\_gastronomie\_ze\_svetoveho_pohledu"}
+
 ## Vývoj francouzské gastronomie ze světového pohledu
 
 V době, kdy se profesionálové dohadují, kde jsou ve světě nejlepší restaurace, je Paříž jen málokdy jmenována. Není to proto, že by francouzští kuchaři zapomněli vařit nebo udržovat při životě respektovanou tradici francouzské kuchyně. Je to proto, že se odmítají přizpůsobit době a současnému trendu.
@@ -23,6 +25,8 @@ Naštěstí ale existuje několik kuchařů-inovátorů jako jsou například Al
 
 Dnes i ti nejtvrdohlavější francouzští kuchaři uznávají talent a nadání jejich kolegů v zahraničí, jako jsou například Daniel Boulud, Jean-Georges Vongerichten, Eric Ripert a Christian Delovrier. Přitom ale uznávají i vliv nefrancouzských kuchařů v Americe, jako je například Thomas Keller.
 
+{id="ceny\_francouzskych\_jidel"}
+
 ## Ceny francouzských jídel
 
 Sami Francouzi jsou právem rozhořčeni nad nehorázně vysokými cenami za jídlo v restauracích. Někdy cena jídla dosahuje až 100 dolarů na osobu. Francouzští slavní kuchaři si takové peníze účtují za večeři, která se skládá z plátku kachních jater s lanýži, pečeného kuřete s lanýži a jablečného koláče (ideálně také s lanýži).
@@ -32,6 +36,8 @@ Sami Francouzi jsou právem rozhořčeni nad nehorázně vysokými cenami za jí
 {class="important"}
 
 Francouzské restaurace trpí přemírou lahůdek. Zastavte francouzskému kuchaři přísun lanýžů, kachních jater a kaviáru a on zpanikaří. Také se ale změní v odvážnějšího a zajímavějšího kuchaře.
+
+{id="nazor\_francouzu\_na\_ceske\_turisty"}
 
 ## Názor Francouzů na české turisty
 
@@ -47,6 +53,8 @@ Jak jsem již řekl, tak čeští turisté nejsou pro Francouze podstatným zdro
 
 Francouzi jsou patrioti, ale podle mě jsou někteří tak fanatičtí, že nemají rádi nikoho než sami sebe. Je až zarážející, jak „patrioticky“ se někteří z nich chovají k turistům. To i přesto, že bez turistů by mnozí z nich nemohli vůbec existovat.
 
+{id="kam\_se\_nezajit_najist"}
+
 ## Kam se (ne)zajít najíst
 
 Paříž, která se vždy mohla chlubit dobrými jídly a gastronomií, se díky drahým restauracím stala tzv. „pastí pro turisty“. Francouzská gastronomie ale není jen Paříž. Mohu vás ubezpečit, že v moha jiných regionech se setkáte nejenom s dobrým pohostinstvím, ale i s dobrou kuchyní.
@@ -56,4 +64,4 @@ Musíte ale hledat domácí kuchyni _(francouzsky cuisine bourgeoise)_. S tou se
 Mimo francouzštiny jsem také dost dlouho studoval francouzskou gastronomii, takže vím co si objednat a co mohu za své peníze očekávat. Chce to ale také praktickou zkušenost s francouzskými jídly. To ale stojí peníze a to nemluvím o francouzských vínech nebo o koňaku, který mám tak rád.
 
  [1]: restauracni_snob
- 
+
