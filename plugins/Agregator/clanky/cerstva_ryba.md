@@ -1,79 +1,53 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=161.html" data-og-image="/files/preview/clanky/cerstva_ryba/general.jpg" data-og-type="article"}
 
-{id="cerstva\_ryba" ctime="2006-07-09" author="Michael Klíma" short="Čerstvá ryba" authorid="hostovka/michael\_klima"}
+{id="cerstva_ryba" ctime="2006-07-09" author="Michael Klíma" short="Čerstvá ryba" mtime="2018-12-07"}
 
-# Co je čerstvá ryba
+# Opravdově čerstvá ryba v restauraci
 
-{kw="gastronomie"}
+{kw="gastronomie, ryby, historka"}
 
-HOSTOVKA jak víme, není nějaká škola vaření ale je to pomyslná vysoká škola na které by se studenti Hostovky měli dozvědět, co jim za jejich peníze patří.
+Pokud si někdy v restauraci hodláte objednat rybu, tak si dejte velký pozor, zda je čerstvá. V Americe je zákon zvaný „pravda na jídelním lístku“ _(anglicky truth on the menu)_. Podle tohoto zákona je trestné, aby restaurace uváděla na jídelním lístku, že používá čerstvé ryby a přitom používala ryby rozmražené. What a country!
 
-Toto je ale podmíněno tím, že absolvent Hostovky ví co si kde objednat, neboli že studenti Hostovky mají alespoň ty základní znalosti o zbožíznalství.
+Česká obchodní inspekce by si s tím také eventuálně věděla rady, může totiž požadovat dodací list. Normální host takovou možnost ale nemá, tudíž záleží jedině na důvěře. Jak ale říkám, v pohostinství nikomu nevěř, ani sobě.
 
-Ne nadarmo američtí restauratéři říkají: "Nejlepší náš hot je sofistikovaný host, který ví co chce".
+{class="important"}
 
-Tudíž pokud si někdy v restauraci hodláme objednat rybu, tak si klademe otázku zda ryby které ta restaurace nabízí jsou čerstvé.
+Jak víme, tak Hostovka není škola vaření. Je to pomyslná vysoká škola, na které by se studenti měli dozvědět, co jim za jejich peníze patří. To je ale podmíněno tím, že absolvent Hostovky ví, co si kde objednat, neboli že studenti Hostovky mají alespoň základní znalosti o zbožíznalství.
 
-V Americe je zákon zvaný "Trouth on the menu", česky "Pravda na jídelním lístku", podle kterého je trestné, aby restaurace uváděla na jídelním lístku, že používá čerstvé ryby a přitom používala ryby rozmražené. What a country!
+{id="jak\_stara\_ryba\_je\_jeste_cerstva"}
 
-Česká Obchodní Inspekce by si s tím eventuálně věděla rady, protože může požadovat dodací list, ale normální host tu možnost nemá tudíž záleží jedině na důvěře, ale jak již asi víte, tak jedno z přikázání mého náboženství říká: "V pohostinství nikomu nevěř, ani sobě".
+## Jak stará ryba je ještě čerstvá
+
+Podle mě je čerstvá ryba taková, která je do kuchyně dodána ještě živá. Eventuálně je to taková ryba, kterou jsme si dnes sami chytili, nebo o které bezpečně víme, že byla vylovena a zabita nanejvýš předchozí den.
 
 {class="figure"}
 
 ![čerstvá ryba, ale tak trochu velké sousto][1] 
 :   čerstvá ryba, ale tak trochu velké sousto
 
-Podle mně totiž čerstvá ryba je jen taková která je do kuchyně dodána ještě živá, nebo taková ryba kterou jsme si dnes sami chytili, nebo o které bezpečně víme, že byla vylovena a zabita nejdéle minulého dne.
+Některé restaurace mají nádrže s živými rybami a plody moře umístěné v kuchyni nebo dokonce přímo v restauraci. Hosté si pak mají možnost vybrat živou rybu, kterou jim v kuchni následně připraví. Další možnost je koupit čerstvou rybu v nejbližší rybárně. Ta ale musí být hned uvařená, protože druhý den se o čerstvé rybě již hovořit nedá.
 
-Některé restaurace, které se specializují na ryby a plody moře mají v kuchyni nebo dokonce i v restauraci nádrže ve kterých mají živé ryby a dary moře vystavené, a hosté mají možnost si vybrat rybu kterou jim pak v kuchyni upraví.
-
-#IMG \[http://2017.hostovka.cz/soubor/9-7-06-4.JPG\] \[ryby v ledu\]
-
-Pokud jsou ty ryby vystavené atraktivně na ledu tak to mnohdy ještě není zárukou toho že ty ryby jsou skutečně čerstvé.
-
-Někdo by mně musel přesvědčit o opaku, ale moha případech jsou to ryby které byly dodané zmražená a na ten led byly vystaveny až po jejich rozmrazení.
-
-Mé příspěvky do stránek Hostovky mají byt praktické nebo poučné, ale nemám rád suchopárná fakta a myslím si, že trochu zábavy nemůže škodit a proto se s vámi musím podělit o takovou zábavnou historku?
-
-{id="cerstve\_ryby\_na_panorame"}
-
-## Čerstvé ryby na Panorámě
-
-Kdysi, před mnoha a mnoha lety, za mnoha a mnoha moři a za tisícerými horami, asi tak v roce 1949, jsem jako student Hotelové školy v Mariánských Lázních, s několika dalšími studenty, během povinné letní praxe pracoval v hotelu Panoráma.
-
-Nebyla to ani tak moc práce jako spíše zábava. Byli jsme mladí a podnikaví a už tehdy, i když jsme nevěděli jak se tomu vlastně říká, jsme byli ti největší odborníci na marketing.
-
-Na zahradě u hotelu bylo mělké, ale relativně velké umělé jezírko s fontánou uprostřed. Podle nás to jezírko bylo k ničemu pokud se nedalo nějak obchodně využít. Přišli jsme tudíž s nápadem nakoupit živé kapry, ty dát do jezírka a inzerovat, že každý host, podběrákem který jsme měli k disposici, si může vylovit živého kapra kterého jsme mu potom v kuchyni upravili podle jeho přání.
-
-Tento gimmick (také jsme tehdy nevěděli, že se tomu tak říká) se ihned uchytil. Po Mariánkách se to rozkřiklo, hosté měli při té lázeňské nudě o zábavu postaráno a my jsme měli v kuchyni stále co dělat, nehledě k tomu, že to byla veliká junda.
-
-Zabít, oškrábat a vykuchat kapra není ale moc zábavné a navíc to zabere nějaký čas, a tak netrvalo dlouho než Pepa, náš kuchař, který mimo jiné byl velký rošťák, přišel s tak zvaným "zlepšovákem" což se tehdy nosilo.
-
-Každý den ráno totiž vylovil z jezírka několik kaprů, které očistil, a vykuchal a uložil do ledničky až do doby kdy některý z hostů přinesl do kuchyně živého kapra kterého si chtěl nechat uvařit podle svého přání.
-
-No více vám asi ani nemusím vyzrazovat. Živý kapr šel do škopku s vodou a později pak zpátky do jezírka a do pánve šel kapr kterého měl náš pan "šéfkuchař" už připraveného, neboli: "host se najedl a ryba zůstala celá".
-
-Já vím, že tato metoda by dnes nebyla příliš košer, ale tehdy jsme si mysleli že to byl geniální nápad.
-
-Bohužel takových restaurací které by měly nádrže na živé ryby a nebo jezírka je stále ještě málo a o koupelnovou vanu jsou lidé ochotni se s rybou podělit jen o vánocích a tak pokud nemůžeme mít rybu živou, tak nejlepší alternativa v domácnosti je ryba IQF zmrazená.
-
-Jak jsem již řekl, tak podle mně čerstvá ryba je jen taková, která byla právě vylovena, ale čekat na to až se nám podaří nějakou rybu ulovit, to bychom se načekali. Nehledě k tomu, že máme třeba chuť na tuňáka a ten den třeba berou jen samí žraloci.
+Pokud jsou ryby atraktivně vystavené na ledu, tak to ještě mnohdy není zárukou jejich čerstvosti. Někdo by mě musel přesvědčit o opaku, ale v moha případech jsou to ryby, které byly dodány mražené a na led byly vystaveny až po rozmrazení.
 
 {class="figure"}
 
 ![rybí oko][2] 
 :   rybí oko
 
-Chodit ale na rybí trh, a dívat se rybám do očí, jestli je mají jasné, strkat jim prst do žáber a očichávat ho jestli žábry (ne ten prst), nemají nepříjemný pach, což by byla známka toho, že ryba už čerstvá není, to vidíme dnes už jen na televizi, nebo o tom můžeme číst v Gourmet magazínech. Mimo to mi tyto praktiky připadají jako pohádky "O tisíci a jedné noci".
+{id="cerstve\_ryby\_na_panorame"}
 
-Z vlastni praxe totiž vím, že když má kuchař uvařit pořádné nějaké rybí jídlo, tak nemá čas "courat" po rybích trzích, i kdyby, jak se říká, měl rybí trh přímo "u nosu", což mimo jiné je u nás úplně nemyslitelné.
+## Historka o čerstvých rybách v hotelu Panoráma
 
-Nezbývá nám totiž, než koupit v nejbližší rybárně "čerstvou rybu", kterou ale musíme hned uvařit, protože druhý den se o čerstvé rybě nedá vůbec hovořit. Nevím kdo to vymyslel - že ryba a host třetí den..., atd., a příbuzný již druhý den, ale vím, že u ryby bychom se měli držet jednoho dne.
+Kolem roku 1949 jsem jako student Hotelové školy v Mariánských Lázních pracoval s několika dalšími studenty v hotelu Panoráma. Nebyla to ani tak moc práce jako spíše zábava. Byli jsme mladí a podnikaví a už tehdy, i když jsme nevěděli jak se tomu vlastně říká, jsme byli největší odborníci na marketing.
 
-Proto na ryby chodíme do restaurace o které víme, že tam umí ryby upravit a to jak čerstvé nebo zmrazené, a ve které za tu večeři neutratíte celou novomanželskou půjčku.
+Na zahradě u hotelu bylo mělké, ale relativně velké umělé jezírko s fontánou uprostřed. Podle nás to jezírko bylo k ničemu, pokud se nedalo nějak obchodně využít. Přišli jsme tudíž s nápadem nakoupit živé kapry, ty dát do jezírka a inzerovat, že si každý host může vylovit živého kapra podběrákem. Toho jsme mu potom v kuchyni upravili podle jeho přání.
 
-Byl jsem svědkem toho, že kuchař v jednom českém hotelu dal zmrazeného pstruha do fritézy "rozmrazit" a pak ho dodělal na pávi "à la Meuniére". What a country!
+Nápad se ihned uchytil. Po Mariánkách se to ihned rozkřiklo, hosté měli při té lázeňské nudě o zábavu postaráno a my jsme měli v kuchyni stále co dělat. Nehledě na to, jaká to byla sranda.
+
+Zabít, oškrábat a vykuchat kapra ale už taková sranda není a navíc to zabere nějaký čas. Netrvalo tedy dlouho než náš kuchař Pepa, který byl mimo jiné velký rošťák, přišel s takzvaným zlepšovákem. Každý den ráno vylovil z jezírka několik kaprů, které očistil, vykuchal a uložil je do ledničky. Tam zůstali do té doby, než některý z hostů přinesl do kuchyně živého kapra, kterého si chtěl nechat uvařit podle svého přání.
+
+No více vám asi ani nemusím vyzrazovat. Živý kapr šel do škopku s vodou a později pak zpátky do jezírka. Do pánve šel kapr kterého měl kuchař už připraveného, neboli „host se najedl a ryba zůstala celá“. Já vím, že tato metoda by dnes nebyla příliš košer, ale tehdy jsme si mysleli, že to byl geniální nápad.
 
  [1]: http://2017.hostovka.cz/soubor/9-7-06-3.JPG
  [2]: http://2017.hostovka.cz/soubor/9-7-06-5.JPG
