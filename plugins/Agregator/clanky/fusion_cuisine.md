@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-og-image="/files/preview/clanky/fusion_cuisine/preview.jpg" data-og-type="article" data-source="http://2017.hostovka.cz/clanek.php?clanek=465"}
 
-{id="spojena_kuchne" author="Michael Klíma" ctime="2009-11-07" mtime="2018-12-19" short="Spojená kuchyně"}
+{id="spojena_kuchyne" author="Michael Klíma" ctime="2009-11-07" mtime="2018-12-19" short="Spojená kuchyně"}
 
 # Spojení více druhů kuchyní
 
