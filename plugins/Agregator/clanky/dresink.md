@@ -13,6 +13,8 @@ V Americe, obzvláště ve střední, musíte být s používáním slova dresin
 
 Zálivka či dresink má salát ochutit a ne ho přehlušit. Zároveň se k salátu musí hodit. Buďte opatrní, protože například v Americe vám v některých restauracích podají salát zamíchaný přímo s dresinkem. Proto je dobré objednat si dresink zvlášť _(anglicky on the side)_ a přidat si ho na salát až podle chuti.
 
+{id="zalivka"}
+
 ## Zálivka
 
 Zálivka, jak napovídá název, je něco, čím se salát zalévá. To je nakonec i dresink, jenomže ne každý to tak praktikuje. Lidé většinou salát rovnou smíchají se zálivkou nebo s dresinkem. To se ve skutečnosti nedělá, protože salát, obzvláště lupenový, má být dresinkem či zálivkou pouze obalen.
@@ -91,6 +93,8 @@ Oproti základní zálivce můžeme v dresinku použít nejenom ocet a olej, ale
 
 Dresink má zpravidla své jméno, které však není odvozené od jeho přísad. V Americe, kde je více než 300 komerčně vyráběných dresinků, jsou dresinky pojmenovávány i po populárních zpěvácích nebo hercích. Některé americké dresinky, jako například dresink tisíce ostrovů _(anglicky thousand island dressing)_, jsou dnes velmi populární po celém světě.
 
+{id="predpripraveny\_a\_domaci_dresink"}
+
 ### Předpřipravený a domácí dresink
 
 Předpřipravené (komerčně vyráběné) dresinky se sice hodí, ale v restauracích s velkou spotřebou dresinků se vyplatí připravovat si dresinky od základu sami. V takovém případě můžete s takzvaným „domácím dresinkem“ _(anglicky house dressing)_ dokonce získat popularitu.
@@ -100,3 +104,4 @@ Předpřipravené (komerčně vyráběné) dresinky se sice hodí, ale v restaur
 Kuchaři v restauracích by měli své dresinky připravovat podle chuti hostů a ne podle jejich vlastní.
 
 Opravte mě, pokud se mýlím, ale spousta kuchařů ví o dresincích jen velmi málo. To, že dělají dresinky podle své chuti, mně osobně nic neříká. Některé dresinky se hodí pro těstovinové saláty, jiné pro masité či rybí saláty, jiné pro saláty ovocné nebo zeleninové. Proto mám rád, když restaurace nabízí několik populárních, třeba i kupovaných dresinků.
+
