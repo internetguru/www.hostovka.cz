@@ -9,15 +9,13 @@
 
 V encyklopedickém slovníku gastronomie od Jiřího Černého, je dresink popsán jako zálivka, zpravidla studená, používaná k ochucení zeleninových ovocných nebo kombinovaných salátů. Jako studentům Hostovky by vám ale tato definice stačit neměla.
 
-V Americe, obzvláště ve středu, musíte být s používáním slova dresink opatrní. Výraz dresink _(anglicky dressing)_ se tam používá pro  nádivku _(anglicky stuffing)_. Podle některých anglických slovníků může dresink _(dressing)_ znamenat také obvaz na rány.
+V Americe, obzvláště ve střední, musíte být s používáním slova dresink opatrní. Výraz dresink _(anglicky dressing)_ se tam používá pro nádivku _(anglicky stuffing)_. Podle některých anglických slovníků může _dressing_ znamenat také obvaz na rány.
 
 Zálivka či dresink má salát ochutit a ne ho přehlušit. Zároveň se k salátu musí hodit. Buďte opatrní, protože například v Americe vám v některých restauracích podají salát zamíchaný přímo s dresinkem. Proto je dobré objednat si dresink zvlášť _(anglicky on the side)_ a přidat si ho na salát až podle chuti.
 
 ## Zálivka
 
-Zálivka, jak napovídá název, je něco, čím se salát zalévá. To je nakonec i dresink, jenomže ne každý to tak praktikuje.
-
-Lidé většinou salát rovnou smíchají se zálivkou nebo s dresinkem. To se ve skutečnosti nedělá, protože salát, obzvláště lupenový, má být dresinkem, či zálivkou pouze obalen.
+Zálivka, jak napovídá název, je něco, čím se salát zalévá. To je nakonec i dresink, jenomže ne každý to tak praktikuje. Lidé většinou salát rovnou smíchají se zálivkou nebo s dresinkem. To se ve skutečnosti nedělá, protože salát, obzvláště lupenový, má být dresinkem či zálivkou pouze obalen.
 
 Základní zálivka se nazývá _vinegret_. Při používání tohoto výrazu musíte být opatrní, protože například v ruské kuchyni znamená slovo vinegret _(rusky винегрет)_ již hotový salát ze zeleniny, masa a ryb, který se podává již smíchaný se zálivkou.
 
@@ -80,7 +78,6 @@ Zálivka se žloutkem
 :   V tomto případě se rozumí žloutek vařený natvrdo.
 :   Žloutek přidáme jemně nasekaný nebo propasírovaný přes síto.
 
-
 {class="card"}
 
 Zálivka s estragonem
@@ -103,5 +100,3 @@ Předpřipravené (komerčně vyráběné) dresinky se sice hodí, ale v restaur
 Kuchaři v restauracích by měli své dresinky připravovat podle chuti hostů a ne podle jejich vlastní.
 
 Opravte mě, pokud se mýlím, ale spousta kuchařů ví o dresincích jen velmi málo. To, že dělají dresinky podle své chuti, mně osobně nic neříká. Některé dresinky se hodí pro těstovinové saláty, jiné pro masité či rybí saláty, jiné pro saláty ovocné nebo zeleninové. Proto mám rád, když restaurace nabízí několik populárních, třeba i kupovaných dresinků.
-
-
