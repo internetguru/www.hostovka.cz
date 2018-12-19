@@ -387,7 +387,7 @@ a.tag:not([href]):hover:before {
 .kw {
   display: flex;
   flex-wrap: wrap;
-  max-height: 3.5em;
+  height: 3.5em;
   overflow: hidden;
   justify-content: center;
 }
