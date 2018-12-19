@@ -7,7 +7,7 @@
 
 {kw="etnické kuchyně, gastronomie, Francie"}
 
-Moje první zkušenost s Francií byla 18. května 1945, neboli hned po válce. Pracoval jsem tam v několika restauracích a hotelech. Z té doby vím, že čeští kuchaři a číšníci měli díky jejich kolegům, pracujících ve Francii před válkou, tu nejlepší pověst.
+Moje první zkušenost s Francií byla 18. května 1945, neboli hned po válce. Pracoval jsem tam v několika restauracích a hotelech. Z té doby vím, že čeští kuchaři a číšníci měli díky svým kolegům, pracujících ve Francii před válkou, tu nejlepší pověst.
 
 Málokdo to ví, ale čeští kuchaři byli (po dvou nebo třech letech praxe ve Francii) lepší než samotní Francouzi. Měli totiž navíc nejméně tříletou praxi v rodném Československu. Něčím takovým se francouzští kuchaři pochlubit nemohli. Ti byli totiž odjakživa natolik namyšlení a natolik se sebou spokojení, že bylo pod jejich důstojnost učit se od někoho jiného.
 
@@ -39,7 +39,7 @@ Po sametové revoluci začali Češi do Francie houfně jezdit jako turisté. V 
 
 Jako hosté se v té době nijak neprojevovali, protože většina z nich spala v autech a jedli to, co si přivezli z domova. Já jsem ale ten poslední, kdo by je odsuzoval, protože jsem také Čech. Vím, že to nebylo jejich vinou, ale bylo to díky gastronomickému temnu ve kterém vyrostli.
 
-Mezi turisty byli ale i snobové, kteří chodili do lepších francouzských restauracích. Ti k dobré pověsti Čechů (jako hostů) také moc nepřispěli. Většinou se totiž neuměli v restauracích chovat. Měli byste si vyslechnout jak o nich mluvili francouzští číšníci.
+Mezi turisty byli ale i [restaurační snobové][1], kteří chodili do lepších francouzských restauracích. Ti k dobré pověsti Čechů (jako hostů) také moc nepřispěli. Většinou se totiž neuměli v restauracích chovat. Měli byste si vyslechnout, jak o nich mluvili francouzští číšníci.
 
 Byly dokonce případy, kdy byli Češi obviňováni za to, že odcházeli z restaurací bez placení, a že kradli v některých obchodech. Musím ale dodat, že jsou výjimky, a že všichni Češi nejsou stejní. Nehledě na to, že se od té doby hodně změnilo.
 
@@ -55,3 +55,5 @@ Musíte ale hledat domácí kuchyni _(francouzsky cuisine bourgeoise)_. S tou se
 
 Mimo francouzštiny jsem také dost dlouho studoval francouzskou gastronomii, takže vím co si objednat a co mohu za své peníze očekávat. Chce to ale také praktickou zkušenost s francouzskými jídly. To ale stojí peníze a to nemluvím o francouzských vínech nebo o koňaku, který mám tak rád.
 
+ [1]: restauracni_snob
+ 
