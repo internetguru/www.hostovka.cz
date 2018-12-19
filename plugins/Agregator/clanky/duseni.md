@@ -1,45 +1,36 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=165.html" data-og-image="files/preview/clanky/duseni/general.jpg" data-og-type="article"}
 
-{id="duseni" ctime="2006-08-01" author="Michael Klíma" short="Dušení" authorid="hostovka/michael_klima"}
+{id="duseni" ctime="2006-08-01" mtime="2018-12-19" author="Michael Klíma" short="Dušení"}
 
-# Dušení
+# Technika dušení ve světě
 
-{kw="kuchyňské techniky"}
+{kw="kuchyňské techniky, marináda"}
 
-Dušení je v české kuchyni relativně srozumitelný a většinou dobře chápaný výraz. Je to úprava pokrmů vlhkým teplem v nádobě si silným dnem a dobře přiléhající poklicí. Dušení je relativně úsporný způsob přípravy jídel protože může probíhat při mírné teplotě přímo na plotně nebo v troubě, případně v remosce. Pokrmy připravované tímto způsobem jsou nazývány dušeniny, aglicky stews.
+Dušení je úprava pokrmů za pomocí vlhkého tepla, umístěných v nádobě si silným dnem a dobře přiléhající poklicí. Je to relativně úsporný způsob přípravy jídel, protože může probíhat při mírné teplotě přímo na plotně nebo v troubě. Pokrmy připravované tímto způsobem jsou nazývány dušeniny _(anglicky stews)_.
 
-Dušeninou například může být guláš, u kterého je maso krájené na kosky, ake dušeninou jsou například i roštěnky které jsou krájeny na plátky, tudíž velikost a tvar kousků není rozhodujicí.
+{class="important"}
 
-Hostovka není nějaká škola vaření a proto postup dušení vám zde popisovat nebudu, ale jelikož předpokládám, že dříve nebo později se vypravíte do zahraničí a tak bych vám jen chtěl říci že v některých zemích může dušení být označeno několika výrazy.
+Hostovka není škola vaření, a proto vám zde nebudu popisovat přesný postup dušení.
 
-Dušeninou může někdy být i jídlo označené jako pečeně, jako například některé hovězí pečeně, anglicky zvané potroast, což v překladu znamená "pečeně v hrnci".
+## Dušení ve světě
 
-Německy se dušení říká dünsten, ale německé jídlo Sauerbraten, což v překladu znamená "kyselá pečeně", je v zásadě hovězího maso dušené ve velkých kusech jako například naše svíčková, které nakonec se také říká "pečeně" i když vlastně z větší části se jedná o dušení.
+Jelikož předpokládám, že se dříve nebo později vypravíte do zahraničí, tak vám povím, jakými všemi výrazy se dušení nazývá. Dušenina může být někdy označována jako pečeně. Jsou to hlavně hovězí pečeně _(anglicky potroast)_, což v překladu znamená _pečení v hrnci_.
 
-V americké kuchyni dušení může být označeno jako braising, používané hlavně při dušení masa ve zvláštním kastrole zvaném Dutch Oven.
+Německy se dušení říká _dünsten_. V americké kuchyni může být dušení označeno jako _braising_ a používá se na něj kastrol zvaný holandská trouba _(anglicky dutch oven)_. Ale aby se to trochu zkomplikovalo, tak pro dušení existuje ještě jeden anglický výraz – _stewing_. Takže dušeniny jsou nazývány také jako _stews_.
 
-Ale aby se to trochu zkomplikovalo, tak další výraz pro dušení je stewing, tudíž stews jsou také dušeniny.
+Ve francouzsky mluvících zemích se dušení říká _braiser_. To je dušení v hrncích (kastrolech) zvaných _daubiére_. Ale aby se to i ve francouzské gastronomii trochu zkomplikovalo, tak pro dušení používají také výraz _étuver_ nebo _étufée_.
 
-Ve francouzsky mluvících zemích se setkáte s výrazem braiser, což je dušení v hrncích, lépe řečeno v kastrolech zvaných daubiére, což vlastně je to samé jako již zmíněné Dutch Oven. Ale aby se to i v té francouzské gastronomii trochu zkomplikovalo, tak Francouzi mají ještě něco takového jako je estufade.
+{class="important"}
 
-Jestli vám to je ale málo, tak vám musím říci, že ve francoužštině étuver nebo étufée je také dušení.
-
-Nakonec pokud byste jeli na dovolenu do Ruska, a znáte azbuku, tak tam тушен 86;е мяс 86; je skutečně dušené maso.
-
-Když už ale píši o dušení, tak bych se měl zmínit o tom, že některé velké nebo tuhé kusy masa ale hlavně zvěřina jsou před dušením marinovány nebo nakládány do mořidla nebo do láku.
+Některé velké nebo tuhé kusy masa, hlavně zvěřina, jsou před dušením marinovány nebo nakládány do mořidla nebo do láku.
 
 {id="marinada"}
 
 ## Marináda
 
-Marináda, mořidlo případně pajc, nebo bajc od německého Beize, nebo lák, je prostředek ku konzervování, tenderizování, případně k okořenění potravin.
+Marináda, mořidlo, pajc nebo bajc _(od německého Beize)_ a lák, jsou prostředky ke konzervování a křehčení (tenderizování) potravin. V minulosti bylo marinování (pajcování) používáno hlavně při zpracování zvěřiny. Důvodem bylo přehlušení její mnohdy nepříjemné chuti.
 
-V minulosti bylo marinování, neboli pajcování používáno hlavně při zpracování zvěřiny, kdy marináda měla ještě další funkci a to je přehlušit mnohdy až nepříjemnou zvěřinovou chuť.
+Dnes se dlouhé marinování zavrhuje. Nicméně 10 až 15 minutové marinování drůbeže či ryb může znatelně zlepšit chuť. Puristé to ale také zavrhují. Říkají, že ryba má chutnat a být cítit po rybě, a že jakékoliv zasahování do přírodních chutí a vůní je proti zdravému rozumu.
 
-Dnes se ale dlouhé marinování zavrhuje. Nicméně 10 až 15 ninutové marnování masa drůbeže či ryb může znatelně zlepšit jejich chuť.
-
-Puristé toto ale zavrhují a argumentují, že ryba má chutnat a páchnout po rybě, durian po durianu a pomeranč má vonět po pomerančích, a jakékoliv zasahování to těchto přírodních chutí a vůní je proti zdravému rozumu.
-
-Jako studenty Hostovky bych vás ale chtěl upozornit na to, že při vašich cestách na Blízký či Dálný Východ nebo do Orientu, se s marinovanými potravinami setkáte velmi často a mohu vám z vlastní praxe říci že bez těch marinád by ta jídla nebyla vlastně ani dobrá a tak na to co jsem vám tady o těch marinádách napsal, zapomeňte.
-
+Při cestách na východ nebo do Orientu, se ale s marinovanými potravinami setkáte velmi často. Mohu vám z vlastní praxe říci, že bez marinády by tam jídla nebyla tak dobrá.
