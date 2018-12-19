@@ -13,15 +13,15 @@ Některým lidem došlo, že označení jídel, na jejichž přípravu musíte �
 
 Většině lidem to ale nevadí. Podle mé zásady „dejte lidem to, co chtějí“, se tedy budeme s typickými českými minutkami setkávat ještě hodně dlouho. Také jsem dlouho nevěděl, proč musí mít každá minutka na talíři takzvanou _oblohu_ a proč se minutky v Česku dávají na studené talíře.
 
-{id="vznik_oblohy"}
+{id="ceska_obloha"}
 
-## Jak vznikla (česká) obloha
+## Vznik české oblohy
 
 Obloha je něco, co jsem nemohl dlouho pochopit. Proto jsem si udělal vlastní neoficiální průzkum. Obloha je specialita české gastronomie, v jiných kuchyních se jí říká _garnitura_, _garnish_, _garni_ a dokonce i v české kuchyni se jí kdysi říkalo _garnýr_. Všechny tyto výrazy znamenají v překladu _ozdoba_, což je hezký srozumitelný výraz. Ozdobou jídla může být cokoliv, pokud je to jedlé a pokud to dané jídlo _zdobí_.
 
 {class="important"}
 
-Problém začal zavedením státních spotřebních norem. V tu chvíli se nic nemohlo nechat na kuchaři. Všechno, včetně ozdoby, muselo být sjednoceno tak, aby se to dalo snadno kontrolovat.
+Problém začal zavedením státních spotřebních norem v komunistickém Československu. V tu chvíli se nic nemohlo nechat na kuchaři. Všechno, včetně ozdoby, muselo být sjednoceno tak, aby se to dalo snadno kontrolovat.
 
 Za socialismu byly ve státním ceníků jídel a nápojů oblohy dvě. Jedna byla malá a druhá velká a každá měla samozřejmě jinou cenu. Nepamatuji si, kolik to přesně bylo peněz, ale řekněme, že malá stála 10 korun a velká 17 korun. Dá rozum, že restaurace podávaly všechny minutky s _velkou oblohou_, ať už se to k nim hodilo nebo ne. Tím pádem si k jídlu mohly účtovat dalších 17 korun.
 
@@ -33,11 +33,9 @@ Téměř ve všech případech se obloha skládala z:
  * vějířku okurky nebo kousku kapie,
  * ale v každém případě nesměla chybět červená řepa.
 
-Červená řepa se ke každé minutce sice nehodila, ale byla levná a dávala obloze barvu. A ne jenom obloze; dávala barvu celému jídlu. Šťáva z řepy se totiž krásně smíchala s hořčicí, natekla pod jídlo a tím pádem vytvořila krásnou duhu barev.
-
 {class="example"}
 
-Tím se dostáváme i k tomu, proč se v České republice podávají jídla na studených talířích.
+Červená řepa se ke každé minutce sice nehodila, ale byla levná a dávala obloze barvu. A ne jenom obloze; dávala barvu celému jídlu. Šťáva z řepy se totiž krásně smíchala s hořčicí, natekla pod jídlo a tím pádem vytvořila krásnou duhu barev.
 
 {id="studene_talire"}
 
@@ -51,9 +49,7 @@ V Americe, kde se věci někdy přehání, mají saláty až do posledního okam
 
 Se spokojeností hostů si v České republice některé restaurace moc starostí nedělají. V jedné pražské restauraci jsem si stěžoval na to, že mám jídlo na studeném talíři. Číšník, zřejmě spolumajitel, mi na to řekl: „Kde máme vzít peníze na režon (ohřívač talířů), tadle restaurace stála už dost peněz tak jako tak.“
 
-Průzkumem jsem zjistil, že si kuchaři, takzvaní _minutkáři_, dělají přípravu všech surovin předem _(anglicky mise-en-place)_. Součástí toho je i příprava ozdoby.
-
-Francouzští kuchaři mají na svém pracovišti připravené v miskách například vějířky okurek, osminky nebo plátky citrónu, osminky nebo plátky rajčat, lupeny salátu, sekanou cibuli, sekanou petrželku, černé a zelené olivy. Tím potom pokrmy zdobí.
+Průzkumem jsem zjistil, že si kuchaři, takzvaní _minutkáři_, dělají přípravu všech surovin předem _(z francouzského mise-en-place)_. Součástí toho je i příprava ozdoby. Francouzští kuchaři mají na svém pracovišti připravené v miskách například vějířky okurek, osminky nebo plátky citrónu, osminky nebo plátky rajčat, lupeny salátu, sekanou cibuli, sekanou petrželku, černé a zelené olivy. Tím potom pokrmy zdobí.
 
 Čeští _minutkáři_ přišli samozřejmě se zlepšovákem. Ke všem minutkám dávají jednak stejnou oblohu, a aby byli skutečně připraveni (což se asi naučili v pionýru), tak si oblohy na talíře připravují předem. Tím se vlastně vysvětluje proč byly minutky podávány na studených talířích. Klidně se s vámi ale vsadím, že to ve valné většině případů platí i dnes.
 
@@ -61,7 +57,7 @@ Francouzští kuchaři mají na svém pracovišti připravené v miskách např�
 
 ## Jak řeší problém oblohy a studených talířů v Americe
 
-Americký vedoucí restaurace se jako správný hospodář snaží dělat různé (třeba i odborné) práce lidmi, kteří za ně mají co možná nejmenší mzdu. No a nejmenší mzdu mají v americké restauraci číšník a servírka. Tudíž dělají veškeré pomocné práce, jako například nalévání polévky, krájení chleba, nabírání salátů a zdobení jídel, které u nás dělá vysoce placený _minutkář_.
+Americký vedoucí restaurace se jako správný hospodář snaží dělat různé (třeba i odborné) práce lidmi, kteří za ně mají co možná nejnižší mzdu. No a nejnižší mzdu mají v americké restauraci číšník a servírka. Tudíž dělají veškeré pomocné práce, jako například nalévání polévky, krájení chleba, nabírání salátů a zdobení jídel, které u nás dělá vysoce placený _minutkář_.
 
 Výdej z kuchyně (až na výjimky) je ve většině případů organizován takto:
 
