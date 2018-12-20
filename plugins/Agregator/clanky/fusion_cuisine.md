@@ -17,9 +17,9 @@ Výraz spojená kuchyně se přímo nabízí v případech, kdy jsou jídla na j
 
 K rozmachu spojené kuchyně došlo v poválečných letech v Americe. Do Ameriky tehdy přicházeli schopní kuchaři z téměř celého světa. Ti s sebou přinášeli osvědčené techniky a recepty z rodných zemí.
 
-Tito kuchaři začali zakládat etnické restaurace, sloužící za začátku hlavně novým vlnám imigrantů téhož etnického původu. Velmi brzy se ale tyto restaurace staly přitažlivými i pro jiné skupiny hostů. Z velké míry byly také navštěvovány Americkými vojáky po návratu ze zahraničí.
+Tito kuchaři začali zakládat etnické restaurace, sloužící za začátku hlavně novým vlnám imigrantů téhož etnického původu. Velmi brzy se ale tyto restaurace staly přitažlivými i pro jiné skupiny hostů. Z velké míry byly také navštěvovány americkými vojáky po návratu ze zahraničí.
 
-Bohatší surovinová základna, přístup k novým výkonnějším zařízením a hlavně přístupnost Američanů k novinkám způsobila, že tyto etnické restaurace začaly přejímat osvědčené techniky jedna od druhé a daly vzniku spojené kuchyni.
+Bohatší surovinová základna, přístup k novým výkonnějším zařízením a hlavně přístupnost Američanů k novinkám způsobily, že tyto etnické restaurace začaly přejímat osvědčené techniky jedna od druhé a daly vzniku spojené kuchyni.
 
 Amerika ale v tomto ohledu nebyla jediná. Spojená kuchyně se následně uchytila v zemích jako je například Austrálie, Nový Zéland, Kanada a Izrael. Na druhé straně pochybuji, že francouzští, italští, čínští a thajští kuchaři budou někdy spojenou kuchyni brát vážně. Myslí si totiž, že [jejich kuchyně je již plně vyvinutá][1].
 
