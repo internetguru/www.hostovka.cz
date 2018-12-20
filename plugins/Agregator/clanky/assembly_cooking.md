@@ -7,7 +7,7 @@
 
 {kw="nejčtenější, kuchyňské techniky, polotovary, komponenty"}
 
-Vaření z polotovarů _(anglicky assembly cooking)_ spočívá v sestavení a prezentaci odborně připravených jídel složených ze zdravotně nezávadných a kuchyňsky upravených potravin. Technika vaření z polotovarů je dnes jiná než byla za dob Carêma, Escoffiera a jiných velkých kuchařů, kteří se o všechny bývalé techniky zasloužili.
+Vaření z polotovarů _(anglicky assembly cooking)_ spočívá v sestavení a prezentaci odborně připravených jídel složených ze zdravotně nezávadných a kuchyňsky upravených potravin. Technika vaření z polotovarů je dnes jiná, než byla za dob Carêma, Escoffiera a jiných velkých kuchařů, kteří se o všechny bývalé techniky zasloužili.
 
 Vaření z polotovarů je založeno na znalostech:
 
