@@ -9,9 +9,9 @@
 
 Rezervace stolů není ve všech restauracích běžná. Restaurace, ve kterých je rezervace nutná, obsazují stoly většinou dvakrát za večer _(anglicky double sitting)_. Proto se musíte rozhodnout, na kdy si stůl rezervovat.
 
-Existuje nepsaný zákon, že pokud jste si udělali rezervaci na první sezení, dejme tomu od 18 do 20 hodin, tak musíte ve 20 hodin svůj stůl opustit. Pokud máte v úmyslu sedět po jídle u stolu déle, tak je rozumnější si rezervaci udělat na pozdější dobu.
+Existuje nepsaný zákon, že pokud si uděláte rezervaci na první sezení, dejme tomu od 18 do 20 hodin, tak musíte do 20 hodin svůj stůl opustit. Pokud máte v úmyslu sedět po jídle u stolu déle, tak je rozumnější si rezervaci udělat na pozdější dobu.
 
-I při dobré organizaci se ale může stát, že rezervovaný stůl není při vašem příchodu ještě volný. V takovém případě se restaurace snaží hostovi čekání nějakým způsobem zpříjemnit. Z toho důvodu vám nabídnou místo u baru, nebo mají jakési předsálí / čekárnu _(anglicky lounge)_, ve které vám čekání zpříjemní podáním vašeho oblíbeného koktejlu. Ten vám samozřejmě připíší na účet.
+I při dobré organizaci se ale může stát, že rezervovaný stůl není při vašem příchodu ještě volný. V takovém případě se restaurace snaží hostovi čekání nějakým způsobem zpříjemnit. Z toho důvodu vám nabídnou místo u baru, nebo mají jakési předsálí či čekárnu _(anglicky lounge)_, ve které vám čekání zpříjemní podáním vašeho oblíbeného koktejlu. Ten vám samozřejmě připíší na účet.
 
 {class="important"}
 
