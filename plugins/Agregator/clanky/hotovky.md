@@ -89,7 +89,7 @@ Tento případ byl jiný v tom, že můj klient znal spoustu restaurací z pohle
 
 Podrobnosti vám popisovat nemohu, ale mohu vám říci, že se vším, co jsem doporučil, můj klient souhlasil. Měl ale obavy, že ztratí typickou českou klientelu, která bez hotovek údajně nemůže žít. Ukázalo se ale, že českou klientelu neztratil, ba naopak získal.
 
-Můj [koncept restaurace][1] hotovky přímo nevylučuje, ale na české poměry je neortodoxní. Místo přípravy celé řady hotovek, které se třeba i neprodají, a celé řady nákladných minutek, je postavený z 80 % na přípravě a z 20 % na dohotovení.
+Můj [koncept restaurace][1] hotovky přímo nevylučuje, ale na české poměry je neortodoxní. Místo přípravy celé řady hotovek (které se třeba ani neprodají) a celé řady nákladných minutek, je postavený z 80 % na přípravě a z 20 % na dohotovení.
 
 Na jednoduchém stálém jídelním lístku je výběr populárních specialit mezinárodní kuchyně, včetně sendvičů a salátových talířů připravovaných na objednávku. Hotovky, měnící se každý den, jsou nabízeny jako speciality, vyrábějící se v takovém množství, které se denně prodá.
 
