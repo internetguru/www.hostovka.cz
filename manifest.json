@@ -1,0 +1,22 @@
+
+{
+  "name": "Univerzita pro hosty restaurací",
+  "short_name": "Hostovka.cz",
+  "display": "minimal-ui",
+  "start_url": "/",
+  "theme_color": "#ddd",
+  "background_color": "#fff",
+  "icons": [
+    {
+      "src": "/files/pwa/256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/files/pwa/512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
+  

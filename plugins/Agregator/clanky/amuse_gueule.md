@@ -7,15 +7,15 @@
 
 {kw="co-kdy-kde, jednohubka, předkrm"}
 
-Jednohubky (francouzsky _Amuse-gule_, či také _canapés_) jsou malá, velice jednoduchá pikantní sousta, z masa, ryb, plodů moře, zeleniny a ovoce, podávaná také ke koktejlům. Jednohubky mohou být jak teplé, tak i studené. Zásadou je, že se dají jíst třeba i vestoje rukama.
+Jednohubky (francouzsky _amuse-gueule_, či také _canapés_) jsou malá, velice jednoduchá pikantní sousta, z masa, ryb, plodů moře, zeleniny a ovoce, podávaná také ke koktejlům. Jednohubky mohou být jak teplé, tak i studené. Zásadou je, že se dají jíst třeba i vestoje rukama.
 
-Francouzsky název _amuse-guele_ se mně osobně moc líbí, protože v překladu to doslova znamená něco, čím pobavíte vaši hubu. _Amuse_ znamená bavit a _guelle_ je huba. Tomuto výrazu odpovídá anglický název _savouries_ a do jisté míry i ruský název _zakuski_.
+Francouzsky název _amuse-gueule_ se mně osobně moc líbí, protože v překladu to doslova znamená něco, čím pobavíte vaši hubu. _Amuse_ znamená bavit a _gueule_ je huba. Tomuto výrazu odpovídá anglický název _savouries_ a do jisté míry i ruský název _zakuski_.
 
 {id="kde\_se\_s\_nimi\_setkate"}
 
 ## Kde se s nimi setkáte
 
-Jednohubky nesmíte zaměňovat s výtvory kterými se presentují studenti našich odborných škol při různých výstavách jako je například Gastro Hradec. Tam na každém takovém výrobku stráví studenti několik hodin, takže z praktického hlediska je to zcela bezcenné.
+Jednohubky nesmíte zaměňovat s výtvory, kterými se prezentují studenti našich odborných škol při různých výstavách jako je například Gastro Hradec. Tam na každém takovém výrobku stráví studenti několik hodin, takže z praktického hlediska je to zcela bezcenné.
 
 V rodinách se jednohubky podávají jen při mimořádných příležitostech. V restauracích se s nimi setkáme častěji. V Americe patří do skupiny jídel, která se dají jíst rukou _(anglicky finger foods)_. Liší se tedy podstatně od předkrmů, hlavně od těch komplikovaných.
 

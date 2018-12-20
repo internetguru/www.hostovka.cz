@@ -7,23 +7,28 @@
 -->
   <doclist id="clanky" path="clanky" kw="nejčtenější">
     <dl class="clanek">
-      <dt><img var="og-image@src heading@alt"/></dt>
+      <dt><a title="Autor: %s" var="link@href author@title"><img var="og-image@src heading@alt"/></a></dt>
       <dd class="date" fn="inputvar-dateformat" var="ctime">n/a</dd>
       <dd class="kw" var="kw" fn="inputvar-maketags">n/a</dd>
-      <dt class="heading" var="heading">n/a</dt>
+      <dt class="heading"><a title="Autor: %s" var="link@href author@title heading">n/a</a></dt>
       <dd class="desc" var="desc">n/a</dd>
-      <dd class="more"><span class="noprint" var="editlink">n/a</span><a title="Autor: %s" var="link@href author@title">Celý článek</a></dd>
+      <dd class="extra"><ul>
+        <li><a var="link@href" class="button">Přečíst</a></li>
+      </ul></dd>
     </dl>
-    <dl><dt></dt><dd></dd></dl>
   </doclist>
   
-  <doclist id="kuchynske_techniky" kw="kuchyňské techniky" for="clanky" />
+  <doclist id="co-kdy-kde" kw="co-kdy-kde" for="clanky" />
+  <doclist id="etika" kw="etika" for="clanky" />
+  <doclist id="etnicke_kuchyne" kw="etnické kuchyně" for="clanky" />
   <doclist id="gastronomie" kw="gastronomie" for="clanky" />
-  <doclist id="kdo_kdy_kde" kw="kdo-kdy-kde" for="clanky" />
-  <doclist id="pripadova_studie" kw="případová studie" for="clanky" />
-  <doclist id="zivotopis" kw="Životopis" for="clanky" />
   <doclist id="jidla_a_jidelni_listky" kw="jídla a jídelní lístky" for="clanky" />
-  <doclist id="ubytovani" kw="ubytování" for="clanky" />
-  
+  <doclist id="kdo-kdy-kde" kw="kdo-kdy-kde" for="clanky" />
+  <doclist id="kuchynske_techniky" kw="kuchyňské techniky" for="clanky" />
+  <doclist id="napoje" kw="nápoje" for="clanky" />
+  <doclist id="nejctenejsi" kw="nejčtenější" for="clanky" />
+  <doclist id="pripadova_studie" kw="případová studie" for="clanky" />
   <doclist id="restaurace_a_servis" kw="restaurace a servis" for="clanky" />
+  <doclist id="ubytovani" kw="ubytování" for="clanky" />
+  <doclist id="Zivotopis" kw="Životopis" for="clanky" />
 </Agregator>

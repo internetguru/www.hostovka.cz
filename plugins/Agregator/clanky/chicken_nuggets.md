@@ -7,7 +7,7 @@
 
 {kw="jídla a jídelní lístky"}
 
-Kuřecí nugety byly oficiálně vynalezeny na základě poptávky předsedy McDonaldu jménem Fred Turner v roce 1979. Ten údajně kontaktoval jejich tehdejšího dodavatele s tím, že by chtěl vytvořit kuřecí [jednohubky][1].
+Kuřecí nugety byly oficiálně vynalezeny na základě poptávky předsedy McDonaldu jménem Fred Turner v roce 1979. Ten údajně kontaktoval svého tehdejšího dodavatele s tím, že by chtěl vytvořit kuřecí [jednohubky][1].
 
 Podle verze mého dobrého přítele René Arenda, to nicméně s jejich vynálezem bylo trochu jinak. René mi tajně sdělil, že nugety v roce 1981 vynalezl on, a to během několika vteřin. Kuřecí nugety jsou něco tak jednoduchého, že mě až udivuje, že jsem je nevynalezl já.
 
@@ -16,13 +16,13 @@ Podle verze mého dobrého přítele René Arenda, to nicméně s jejich vynále
 ![René Arend a M. Klima na McDonald universite v Dearfield, Illinois][2] 
 :   René Arend (šéfkuchař největšího řetězce restaurací rychlého občerstvení) a M. Klíma na McDonald univerzitě v Dearfield, Illinois
 
-Mohlo by vás zajímat, že uvedení nuget na jídelní lísky McDonaldu trvalo téměř dva roky, až do roku 1983. Cena tohoto procesu šla do milionů dolarů – what a country! V těch milionech je započteno i 100 dolarů, které jsem dostal za to, že jsem se jeden den zúčastnil jejich laboratorní ochutnávky. Takže Renému věřím, že to tak bylo.
+Mohlo by vás zajímat, že uvedení nuget na jídelní lístky McDonaldu trvalo téměř dva roky, až do roku 1983. Cena tohoto procesu šla do milionů dolarů. What a country! V těch milionech je započteno i 100 dolarů, které jsem dostal za to, že jsem se jeden den zúčastnil jejich laboratorní ochutnávky. Takže Renému věřím, že to tak bylo.
 
 {id="ochutnavky\_a\_testovani"}
 
 ## Ochutnávky a testování
 
-Ochutnávek probíhalo více. Většinou deset pozvaných „hodnotitelů“, sedících v individuálních kójích, posuzují několik verzí nuget. Přesně si nepamatuji všechny sledované parametry, ale jsou to například:
+Ochutnávek probíhalo více. Většinou deset pozvaných „hodnotitelů“ sedících v individuálních kójích posuzuje několik verzí nuget. Přesně si nepamatuji všechny sledované parametry, ale jsou to například:
 
   * první dojem,
   * velikost kousků,
@@ -37,15 +37,15 @@ Jejich posudky následně vyhodnotí další tým hodnotitelů a podle výsledk�
 
 ## Vytvoření postupu a výběr ingrediencí
 
-Od Reného jsem se dozvěděl, že testům předcházel výběr vhodného druhu a stáří kuřat, způsob krájení a velikost kousků, druh vhodného koření (které může být v různých státech jiné), vhodná mouka, vejce a strouhanka, a několik dalších ingredienci které vám tady ani nebudu popisovat.
+Od Reného jsem se dozvěděl, že testům předcházel výběr vhodného druhu a stáří kuřat, způsob krájení a velikost kousků, druh vhodného koření (které může být v různých státech různé), vhodná mouka, vejce a strouhanka, a několik dalších ingredienci které vám tady ani nebudu popisovat.
 
-Potom následoval zdlouhavý výběr správného druhu fritovacího oleje, fritézy, a téměř nekonečné testy vhodné teploty a délky smažení. Dále se také vybíraly velikosti balení a velikost kousků. Důležitá byla také správná volba dipů neboli omáček, do kterých se nugety namáčí.
+Potom následoval zdlouhavý výběr správného druhu fritovacího oleje, fritézy, a téměř nekonečné testy vhodné teploty a délky smažení. Dále se také vybírala velikost balení a velikost kousků. Důležitá byla také správná volba dipů neboli omáček, do kterých se nugety namáčí.
 
 {id="vyvoj_receptury"}
 
 ## Vývoj receptury
 
-Nugety byly původně malé kousky jemně sekaného kuřecího masa, které bylo drženo pohromadě fosfátovými solemi. Kousky, obalené speciálním těstíčkem byly lehce usmaženy, jen aby se těstíčko přichytilo, a byly hned individuálně zmrazeny ([IQF][3]). Dále byly zabaleny do krabic a rozeslány na jednotlivé prodejny. Na prodejnách se pak nugety usmažily na požadovanou vnitřní teplotu a prodávaly.
+Nugety byly původně malé kousky jemně sekaného kuřecího masa, které bylo drženo pohromadě fosfátovými solemi. Kousky obalené speciálním těstíčkem byly lehce usmaženy, jen aby se těstíčko přichytilo, a byly hned individuálně zmrazeny ([IQF][3]). Dále byly zabaleny do krabic a rozeslány na jednotlivé prodejny. Na prodejnách se pak nugety před prodejem usmažily na požadovanou vnitřní teplotu.
 
 V listopadu 2003, McDonald změnil recepturu z tradičních stehen a prsou na pouze prsa. To bylo silně podporováno reklamou, podle které se podstatně zlepšila chuť a kvalita nuget. McDonald udává, že používají jen mechanicky získané maso z kuřecích prsou s malým množstvím kůže pro zachování šťavnatosti a zlepšení chuti.
 
@@ -55,7 +55,7 @@ V listopadu 2003, McDonald změnil recepturu z tradičních stehen a prsou na po
 
 V Česku jsou údajně lidé, kterým výrobky McDonald nechutnají nebo jim nedůvěřuji. Oproti tomu v Detroitu, v oblasti se silnou muslimskou populací, začal McDonald prodávat nugety v krabicích označených jako „halal“. Označení halal je něco podobného jako jídla označená „košer“. To do Detroitu přilákalo mnoho muslimů z tak dalekého okolí jako je Severní Karolína a Nový York.
 
-Islámské náboženství, podobně jako židovské, nedovoluje mimo plodů moře konzumaci masa zvířat která nebyla zabita způsobem „zabiha“. S narůstající populaci muslimů není dnes v Americe již žádný problém nalézt řezníka který prodává halal maso. Restaurací, které by z takového masa vařily, je ale stále ještě málo a proto velmi málo muslimů chodí do restaurací a dávají přednost domácí kuchyni.
+Islámské náboženství, podobně jako židovské, nedovoluje mimo plodů moře konzumaci masa zvířat která nebyla zabita způsobem „zabiha“. S narůstající populaci muslimů není dnes v Americe již žádný problém nalézt řezníka který prodává halal maso. Restaurací, které by z takového masa vařily, je ale stále ještě málo, a proto muslimové dávají přednost domácí kuchyni a do restaurací chodí jen velmi málo.
 
 Tyto nové halal McNugety dávají tudíž muslimům příležitost ochutnat něco, co není jen dalším rychlým občerstvením. Dostanou se tak k jídlu, které mohou jíst společně se svými nemuslimskými sousedy.
 
