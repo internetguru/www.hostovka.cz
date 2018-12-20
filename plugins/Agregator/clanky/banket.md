@@ -28,7 +28,7 @@ V banketním servisu se projevil hlavně moderní požadavek na rychlost a jedno
 
 Se servisem z mís se dnes ještě setkáte při servisu v takzvaném „rodinném stylu“ _(anglicky family style)_ používaném kdysi v penzionech _(anglicky bording houses)_ a v levnějších restauracích při mimořádných příležitostech. V ostatních případech se jídlo podává na talířích.
 
-Jídla podávaná přímo na talířích mají tu východu, že se jich se nedotýká nikdo jiný než kuchař. Nebudu zde popisovat, jak takový servis probíhá při banketech pro jeden, dva a nebo i více tisíců osob, ale mohu konstatovat, že je to jediné řešení.
+Jídla podávaná přímo na talířích mají tu východu, že se jich se nedotýká nikdo jiný, než kuchař. Nebudu zde popisovat, jak takový servis probíhá při banketech pro jeden, dva anebo i více tisíců osob, ale mohu konstatovat, že je to jediné řešení.
 
 {id="banket\_pohledem\_hosta"}
 
@@ -57,7 +57,7 @@ Vše začíná jídelním lístkem. Ve většině případů cateringový (nebol
 
 ### Výběr menu pro větší události
 
-Výběr menu pro větší akce je téměř ve všech případech svěřen jedné nebo dvěma osobám, pro které je to velice zodpovědný úkol. Při svatbách jsou to zpravidla svatebčané, což není zrovna to nejlepší řešení. V mnoha případech je to totiž pro svatebčany první velká společenská akce které se účastní.
+Výběr menu pro větší akce je téměř ve všech případech svěřen jedné nebo dvěma osobám, pro které je to velice zodpovědný úkol. Při svatbách jsou to zpravidla svatebčané, což není zrovna to nejlepší řešení. V mnoha případech je to totiž pro svatebčany první velká společenská akce, které se účastní.
 
 Při větších akcích je hlavním ukazatelem především cena. Dalším požadavkem je uspokojit chutě všech stolujících. Tudíž by vhodné menu měl vybírat někdo, kdo má o jídle a nápojích nějaké znalosti, a kdo ví, která jídla nejspíše uspokojí většinu stolovníků. Volba menu pro lidi, u kterých známe preference v jídlech (příbuzní, rodinní příslušníci, spolupracovníci), není již tak těžký úkol.
 
