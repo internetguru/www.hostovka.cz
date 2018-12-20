@@ -3,7 +3,7 @@
 
 {id="francouzska_gastronomie" ctime="2006-07-16" mtime="2018-12-18" author="Michael Klíma" short="Francouzská gastronomie"}
 
-# Vývoj a historie francouzské gastronomie
+# Úskalí francouzské gastronomie
 
 {kw="etnické kuchyně, gastronomie, Francie"}
 
