@@ -9,7 +9,7 @@
 
 První zajímavá věc na Caesar salátu je, že není americký, a že nemá nic společného s Juliem Caesarem. Americký název salátu _Caesar_ je chybný. Vynález tohoto salátu, kdysi populárního jen ve Spojených státech amerických, je přičítán italskému imigrantovi Livio Santinimu. Ten byl v roce 1925 kuchařem původní restaurace Caesara Cardinino v Tijuaně v Mexiku.
 
-Pokud jste byli v Tijuaně a nenavšívili jste Caesar hotel, tak jste hodně propásli. Já jsem v Tijuaně relativně často a musím přiznat, že z obavy, aby mě nestihla „Montezumova pomsta“, jsem zde mimo Caesar salátu zatím nic jiného nejedl.
+Pokud jste byli v Tijuaně a nenavštívili jste Caesar hotel, tak jste hodně propásli. Já jsem v Tijuaně relativně často a musím přiznat, že z obavy, aby mě nestihla „Montezumova pomsta“, jsem zde mimo Caesar salátu zatím nic jiného nejedl.
 
 {class="figure"}
 
@@ -38,7 +38,7 @@ Jak zacházet se zeleninou, hlavně s listovou, nejspíše víte. Důležité je
 
 ## Příprava klasického Caesar salátu
 
-Původně se tento salát umělecky připravoval u stolu v jídelně. Velká dřevěná salátová mísa se napřed vytřela čerstvým česnekem, potom se do mísy přidala rozetřená sardelová filátka, citrónová šťáva, čerstvě drcený černý pepř, sůl, hořčice, olivový olej a nakonec velmi krátce v horké vodě spařené vejce _(anglicky coddled eggs)_.
+Původně se tento salát umělecky připravoval u stolu v jídelně. Velká dřevěná salátová mísa se napřed vytřela čerstvým česnekem, potom se do mísy přidala rozetřená sardelová filátka, citrónová šťáva, čerstvě drcený černý pepř, sůl, hořčice, olivový olej, a nakonec velmi krátce v horké vodě spařené vejce _(anglicky coddled eggs)_.
 
 {class="important"}
 
@@ -61,9 +61,9 @@ Dnes se dresink prodává již hotový, takže příprava tohoto salátu je v z�
 
 V Tijuaně v Mexiku, se na ulici Avenida Revolucion sešlo několik kuchařů a studentů kulinářského umění, aby naplnili více než 200 metrů dlouhou salátovou mísu Caesar salátem. Událost se konala jednak na oslavu salátu, ale hlavně kvůli snaze zapsat se do [Guinnessovy knihy rekordů][5].
 
-Plánováním akce se asi 4 měsíce dopředu zabývalo více než 120 studentů a adeptů kuchařského umění. Bylo zapotřebí naplánovat dodávku všech potřebných surovin od místních dodavatelů, zkoordinovat přípravné práce a hlavně vypracovat harmonogram míchání salátu tak, aby byl čerstvý, křehký a hotový přesně načas.
+Plánováním akce se asi 4 měsíce dopředu zabývalo více než 120 studentů a adeptů kuchařského umění. Bylo zapotřebí naplánovat dodávku všech potřebných surovin od místních dodavatelů, zkoordinovat přípravné práce, a hlavně vypracovat harmonogram míchání salátu tak, aby byl čerstvý, křehký a hotový přesně načas.
 
-V Tijuaně je přes den velmi horko a proto většina přípravných prací probíhala v noci před prezentací. Muselo se nakrájet 1.200 hlávek salátu, na minutu povařit 1.200 vajec a přidat je k ostatním surovinám dresinku. Dresink mimo jiné obsahoval 75,7 litrů olivového oleje, 53,2 kg citrónů, a 99,9 kilogramů strouhaného parmazánu.
+V Tijuaně je přes den velmi horko, a proto většina přípravných prací probíhala v noci před prezentací. Muselo se nakrájet 1.200 hlávek salátu, na minutu povařit 1.200 vajec a přidat je k ostatním surovinám dresinku. Dresink mimo jiné obsahoval 75,7 litrů olivového oleje, 53,2 kg citrónů, a 99,9 kilogramů strouhaného parmazánu.
 
 Z rodiny Santini bohužel nebyl nikdo přítomen. Na míchání salátu dorazil Alex Caesar Cardini III. a zástupci vlády, kteří museli potvrdit délku salátové mísy, váhy surovin a celkovou identitu této významné akce.
 
