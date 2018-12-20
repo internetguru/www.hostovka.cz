@@ -31,6 +31,8 @@ Cena hotového jídla je relativní. Jídlo se totiž připravuje nejméně pro 
 
 Steak musí být připravený z dobře odleželé svíčkové, což v Česku dnes již málokdo umí. Musí být opečený nebo grilovaný přesně na požadovaný stupeň vnitřní teploty (většinou medium rare). K tomu není potřeba žádné speciální zařízení. Osolený a opepřený steak se na pánvi nebo pod grilem prudce a dozlatova opeče ze všech stran _(anglicky to sear)_. Pak se zvolna dodělá v horní části grilu nebo v horké troubě na vnitřní teplotu 48 °C.
 
+{class="important"}
+
 Steak se podává v celku, zásadně na horké míse. Zpravidla je položený na soklu z bílého chleba a obložený nejméně třemi druhy barevné zeleniny vařené v páře. To mohou být například květák, karotka a hrášek, zelené fazolky, brokolice, cukety a bruselské kapustičky.
 
 Mimo zeleniny se musí podávat alespoň dva druhy brambor. Jsou to například _pommes château_ nebo _pommes parisienne_, ale v každém případě brambory _duchesse_. Ty se ozdobně nastříkají po okraji mísy a opečou se dozlatova pod grilem. Tím se vytvoří jedlý okraj zvaný _bordura_, neboli _rám obrazu_ tohoto velice atraktivního jídla.
@@ -43,7 +45,9 @@ Steak se kdysi porcoval (dranšíroval) na servírovacím stolku (keridonu) př�
 
 Steak má dva konce _(anglicky end cuts)_, které jsou poněkud propečenější než střední část. Pro každou osobu dranšér ukrojil ze steaku 3 plátky masa, z čehož dva (podle hostovy preference propečenosti) položil na levou stranu horkého talíře. Na pravou stranu pak dranšér přidal zeleninu podle výběru.
 
-Zbylé maso a zelenina se udržovala teplá na horké desce nebo nad kahanem. Na talíře se hostům přidávala až na jejich přání, čemuž se v číšnické hantýrce říká „náchservis“.
+{class="important"}
+
+Zbylé maso a zelenina se udržovaly teplé na horké desce nebo nad kahanem. Na talíře se hostům přidávaly až na jejich přání, čemuž se v číšnické hantýrce říká „nachservis“.
 
 Ke steaku se podávaly zvlášť dvě omáčky. První byla omáčka na maso, což mohla být jen obyčejná _demi-glace_ nebo jiná vhodná hnědá omáčka, jako je třeba omáčka _bordelaise_. Dále pak holandská nebo pikantní béarnská omáčka, která se na přání přelévala přes zeleninu.
 
