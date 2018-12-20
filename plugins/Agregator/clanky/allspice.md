@@ -17,7 +17,7 @@ Jednoho dne jsem přišel s novým receptem k Jessusovi (kuchař, který připra
 
 Asi po deseti minutách jsem se vrátil k Jessusovi, který měl na svém pracovním stole v takovém vysokém pojízdném kabinetu vyložené všechno koření z kuchyně. Bylo jich asi 40 a já nevěděl, co to znamená.
 
-Vypadalo to, jako když chce Jessus tu skřínku vyčistit a tak jsem se ho zeptal, co to vlastně dělá. Jessus mi řekl, abych neměl starosti, že přeci umí číst a že mám v tom receptu jasně napsáno, že se k jeho přípravě má použít _allspice_.
+Vypadalo to, jako když chce Jessus tu skřínku vyčistit, a tak jsem se ho zeptal, co to vlastně dělá. Jessus mi řekl, abych neměl starosti, že přeci umí číst a že mám v tom receptu jasně napsáno, že se k jeho přípravě má použít _allspice_.
 
 Nu, ukázalo se, že Jessusova angličtina přeci jenom nebyla tak dobrá. Jinak by věděl, že _allspice_, psáno dohromady, je nové koření. Všechno koření by se muselo napsat zvlášť jako _all spice_.
 
