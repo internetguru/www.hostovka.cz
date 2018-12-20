@@ -31,7 +31,7 @@ Ochutnávek probíhalo více. Většinou deset pozvaných „hodnotitelů“ sed
   * chuť, barva, konsistence a vhodnost dipů (omáček do kterých se nugety namáčí),
   * hmotnost porce a další.
 
-Jejich posudky následně vyhodnotí další tým hodnotitelů a podle výsledků se dělají další a další testy. Tyto testy se pak také provádí v různých státech Ameriky kdy se navíc hodnotí navrhovaná cena, která může být v každém státě jiná.
+Jejich posudky následně vyhodnotí další tým hodnotitelů a podle výsledků se dělají další a další testy. Tyto testy se pak také provádí v různých státech Ameriky, kde se navíc hodnotí navrhovaná cena, která může být v každém státě jiná.
 
 {id="vytvoreni\_postupu\_a\_vyber\_ingredienci"}
 
@@ -55,7 +55,7 @@ V listopadu 2003, McDonald změnil recepturu z tradičních stehen a prsou na po
 
 V Česku jsou údajně lidé, kterým výrobky McDonald nechutnají nebo jim nedůvěřuji. Oproti tomu v Detroitu, v oblasti se silnou muslimskou populací, začal McDonald prodávat nugety v krabicích označených jako „halal“. Označení halal je něco podobného jako jídla označená „košer“. To do Detroitu přilákalo mnoho muslimů z tak dalekého okolí jako je Severní Karolína a Nový York.
 
-Islámské náboženství, podobně jako židovské, nedovoluje mimo plodů moře konzumaci masa zvířat která nebyla zabita způsobem „zabiha“. S narůstající populaci muslimů není dnes v Americe již žádný problém nalézt řezníka který prodává halal maso. Restaurací, které by z takového masa vařily, je ale stále ještě málo, a proto muslimové dávají přednost domácí kuchyni a do restaurací chodí jen velmi málo.
+Islámské náboženství, podobně jako židovské, nedovoluje mimo plodů moře konzumaci masa zvířat, která nebyla zabita způsobem „zabiha“. S narůstající populaci muslimů není dnes v Americe již žádný problém nalézt řezníka který prodává halal maso. Restaurací, které by z takového masa vařily, je ale stále ještě málo, a proto muslimové dávají přednost domácí kuchyni a do restaurací chodí jen velmi málo.
 
 Tyto nové halal McNugety dávají tudíž muslimům příležitost ochutnat něco, co není jen dalším rychlým občerstvením. Dostanou se tak k jídlu, které mohou jíst společně se svými nemuslimskými sousedy.
 
