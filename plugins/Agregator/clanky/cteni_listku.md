@@ -7,7 +7,7 @@
 
 {kw="jídla a jídelní lístky, minutky, chuťovky"}
 
-Není tajemstvím, že jídelní lístky opisuje jeden restauratér od druhého. Trvá to již od padesátých let, takže se na nich za celou dobu moc nezměnilo. Jsou sice výjimky, ale to se po patnácti letech gastronomického temna zdá být trochu pozdě. Nebylo by tedy na škodu, aby se studenti Hostovky naučili naše archaické jídelní lístky číst.
+Není tajemstvím, že jídelní lístky opisuje jeden restauratér od druhého. Trvá to již od padesátých let, takže se na nich za celou dobu moc nezměnilo. Jsou sice výjimky, ale to se po padesáti letech gastronomického temna zdá být trochu pozdě. Nebylo by tedy na škodu, aby se studenti Hostovky naučili naše archaické jídelní lístky číst.
 
 {id="prvni_dojem"}
 
@@ -28,11 +28,11 @@ Jako studenti Hostovky, byste také měli hodnotit:
 
 ## Gastronomické skupiny jídel
 
-Gastronomické skupiny a jejich sled na jídelních lístcích, tak jak se o nic píše v mnoha učebnicích, jsou již dávno zastaralé. To platí i u oficiálních státních banketů, natožpak v moderní gastronomii. Počet gastronomických skupin a druhů jídel v jednotlivých skupinách se liší v každém podniku.
+Gastronomické skupiny a jejich sled na jídelních lístcích tak, jak se o nic píše v mnoha učebnicích, jsou již dávno zastaralé. To platí i u oficiálních státních banketů, natožpak v moderní gastronomii. Počet gastronomických skupin a druhů jídel v jednotlivých skupinách se liší v každém podniku.
 
-Ani ti nejsofistikovanější hosté neočekávají na jídelních lístcích všechny gastronomické skupiny, které existují, nehledě na to, že je ani neznají. Jelikož o tvorbě jídelních lístků za posledních 50 let nevyšla žádná pořádná publikace, tak prostě každý druhý restauratér opíše z některé staré učebnice všechno, co tam najde. Nakonec se ukázalo, že je to zbytečné.
+Ani ti nejsofistikovanější hosté neočekávají na jídelních lístcích všechny gastronomické skupiny, které existují. Nehledě na to, že je ani neznají. O tvorbě jídelních lístků za posledních 50 let nevyšla žádná pořádná publikace. Tak prostě každý druhý restauratér opíše z některé staré učebnice všechno, co tam najde. Nakonec se však ukazuje, že je to zbytečné.
 
-Na takzvaných „klasických“ českých a slovenských jídelních lístcích najdete snad vše. Jsou to například studené a teplé předkrmy a polévky rozdělené na bílé a hnědé (jako kdyby to průměrnému hostovi něco říkalo). Nikdo se ale nezabýval dokumentací toho, která jídla se za rok neprodala třeba ani jednou.
+Na takzvaných „klasických“ českých a slovenských jídelních lístcích najdete snad vše. Jsou to například studené a teplé předkrmy a polévky rozdělené na bílé a hnědé (jako kdyby to průměrnému hostovi něco říkalo). Raději by se někdo měl zabývat tím, která jídla se za rok neprodala třeba ani jednou.
 
 {id="minutky"}
 
@@ -52,7 +52,7 @@ Minutky jsou dražší než hotová jídla. To je údajně proto, že jsou ve v�
 
 {class="example"}
 
-Hamburger, který je příkladným reprezentantem jídel na objednávku, se připravuje z toho nejlacinějšího masa. Je ale na objednávku, a tak by podle české teorie měl být dražší.
+Hamburger, který je příkladným reprezentantem jídel na objednávku, se připravuje z toho nejlacinějšího masa. Je ale na objednávku, a tak by podle této české teorie měl být dražší.
 
 Jídla na objednávku se dnes připravují i z těch nejlevnějších surovin, jako jsou například zelenina, vejce, těstoviny a uzeniny. Do jaké skupiny jídel zařazují čeští restauratéři tyto „minutky“?
 
@@ -72,11 +72,11 @@ Ve světě se chuťovkám říká všelijak, jako například _crudités_, _reli
 
 {class="important"}
 
-Crudités nemusí být jen zelenina. Například se můžeme setkat také s ovocem nebo s kukuřičnými chipsy se slasou.
+Crudités nemusí být jen zelenina. Například se můžeme setkat také s ovocem nebo s kukuřičnými chipsy se salsou.
 
 V západních restauracích _crudités_ na jídelním lístků nenajdete. Většinou vám je přinesou ke stolu bez požádání, na talířích nebo na mísách, spolu s takzvaným dipem. Dip je pikantní omáčka do které se chuťovky namáčí. Je zvykem, že jsou v ceně jídla, tedy za ně neplatíte nic navíc.
 
-V našich restauracích by se chuťovkám mělo říkat něco jako „chyták“ nebo „nemilé překvapení“. Při placení vám totiž započítají nestydatou cenu za to, že jste si „zobli“ z mandlí, oříšků nebo pistácií, které byly na stole ještě předtím, než jste přišli. Tento ubohý a primitivní způsob šizení hostů je jen ukázkou toho, jak zoufalí někteří naši restauratéři mohou být. Jako studenti Hostovky byste si takové chování neměli nechat líbit.
+V našich restauracích by se chuťovkám mělo říkat něco jako _chyták_ nebo _nemilé překvapení_. Při placení vám totiž započítají nestydatou cenu za to, že jste si „zobli“ z mandlí, oříšků nebo pistácií, které byly na stole ještě předtím než jste přišli. Tento ubohý a primitivní způsob šizení hostů je jen ukázkou toho, jak zoufalí někteří naši restauratéři mohou být. Jako studenti Hostovky byste si takové chování neměli nechat líbit.
 
  [1]: /modni_pojmy
 
