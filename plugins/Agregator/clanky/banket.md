@@ -9,7 +9,7 @@
 
 Banket je jeden z nejvíce (nesprávně) používaných výrazů. Pochází ze slova lavice _(francouzsky la banc)_, na které se při společných večeřích kdysi sedávalo. Banketem dnes označujeme společné stolování při mimořádných, oficiálních nebo slavnostních příležitostech _(anglicky party)_.
 
-Oproti koktejlu, který se může podávat vestoje, sedí hosté při banketu na židlích, lavicích nebo případně na zemi na polštářích, tak je tomu v jiných kulturách stolování. Slovo banket dalo vznik dalším jeho odvozeninám, například:
+Oproti koktejlu, který se může podávat vestoje, sedí hosté při banketu na židlích, lavicích nebo případně na zemi na polštářích (v jiných kulturách stolování). Slovo banket dalo vznik řadě odvozeninám, například:
 
   * banketní (cateringové) oddělení,
   * banketní kuchyně,
@@ -24,9 +24,9 @@ Oproti koktejlu, který se může podávat vestoje, sedí hosté při banketu na
 
 Pro potřebu kuchyně se bankety od ostatních akcí liší hlavně jídelními lístky a jídly samotnými. Každé jídlo se totiž pro bankety nehodí, což si mnohdy hosté (osoby, které banket objednávají) neuvědomují. Banketní servis (obsluha) se také podstatně liší od ostatních způsobů servisu. To se ale na všech odborných a hotelových školách nejspíše nevyučuje.
 
-V banketním servisu se projevil hlavně moderní požadavek na rychlost a jednoduchost. Dávno jsou pryč doby, kdy se jídlo zdlouhavě podávalo ze stříbrných mís u banketních tabulí, kde na něj kdekdo kýchal a prskal. Dnes takový servis neuvidíte už ani na oficiálních státních banketech v Bílém domě. Místo banketních tabulí se dnes nejčastěji setkáme s kulatými banketními stoly, zpravidla pro 10 osob.
+V banketním servisu se projevil hlavně moderní požadavek na rychlost a jednoduchost. Dávno jsou pryč doby, kdy se jídlo zdlouhavě podávalo ze stříbrných mís u banketních tabulí, kde na něj kdekdo kýchal a prskal. Dnes takový servis neuvidíte už ani na oficiálních státních banketech v Bílém domě. Místo banketních tabulí se dnes nejčastěji setkáme s kulatými banketními stoly zpravidla pro 10 osob.
 
-Se servisem z mís se dnes ještě setkáte při servisu v takzvaném „rodinném stylu“ _(anglicky family style)_, používaném kdysi v penzionech _(anglicky bording houses)_ a v levnějších restauracích při mimořádných příležitostech. V ostatních případech se jídlo podává na talířích.
+Se servisem z mís se dnes ještě setkáte při servisu v takzvaném „rodinném stylu“ _(anglicky family style)_ používaném kdysi v penzionech _(anglicky bording houses)_ a v levnějších restauracích při mimořádných příležitostech. V ostatních případech se jídlo podává na talířích.
 
 Jídla podávaná přímo na talířích mají tu východu, že se jich se nedotýká nikdo jiný než kuchař. Nebudu zde popisovat, jak takový servis probíhá při banketech pro jeden, dva a nebo i více tisíců osob, ale mohu konstatovat, že je to jediné řešení.
 
