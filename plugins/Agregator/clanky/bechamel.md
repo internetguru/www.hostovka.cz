@@ -18,7 +18,7 @@ Bez bešamelu se dnes neobejde žádná evropská kuchyně a jeho použití je n
 Bešamel má několik variant, u kterých každý autor tvrdí, že je to ta pravá. Nedělejte z toho však žádnou vědu a vyberte si jakýkoli z uvedených receptů.
 
 Lehká bešamelová omáčka
-:   l lžíce másla
+:   1 lžíce másla
 :   1 lžíce mouky
 :   1 šálek mléka nebo smetany
 :   1/2 lžičky soli
@@ -27,29 +27,11 @@ Lehká bešamelová omáčka
 :   2 stonky petrželky (volitelně)
 :   1 rozšlehaný žloutek (volitelně)
 
-Středně hustá bešamelová omáčka
-:   2 lžíce másla
-:   2 lžíce mouky
-:   1 šálek mléka nebo smetany
-:   1/2 lžičky soli
-:   1/8 mletého bílého pepře
-:   1/2 loupané cibule se 2 hřebíčky (volitelně)
-:   2 stonky petrželky (volitelně)
-:   1 rozšlehaný žloutek (volitelně)
-
-Hustá bešamelová omáčka
-:   3 lžíce másla
-:   3 lžíce mouky
-:   1 šálek mléka nebo smetany
-:   1/2 lžičky soli
-:   1/8 mletého bílého pepře
-:   1/2 loupané cibule se 2 hřebíčky (volitelně)
-:   2 stonky petrželky (volitelně)
-:   1 rozšlehaný žloutek (volitelně)
+Středně hustá bešamelová omáčka se od lehké liší pouze přidáním jedné lžíce másla a jedné lžíce mouky navíc. Hustá přidáním dvou lžic másla a mouky. Tedy středně hustá bešamelová omáčka má celkem 2 lžíce másla a mouky a hustá po třech.
 
 U výše uvedených receptů je základem bešamelu jíška. Ta se v české kuchyni dělá ze stejného dílu másla a mouky. Množství jíšky se mění podle požadovaného stupně hustoty, ale dávkování ostatních surovin zůstává stejné.
 
-Cibule se zapíchnutými hřebíčky a petrželka dají omáčce poněkud odlišnou chuť, ale nejsou podmínkou. Rozšlehaný žloutek omáčku do jisté míry zjemní, přidá jí nažloutlý odstín a zároveň ji neznatelně zahustí. Žloutek není podmínkou a pokud omáčku hodláme několikrát ohřívat, doporučuje se vynechat.
+Cibule se zapíchnutými hřebíčky a petrželka dají omáčce poněkud odlišnou chuť, ale nejsou podmínkou. Rozšlehaný žloutek omáčku do jisté míry zjemní, přidá jí nažloutlý odstín a zároveň ji nepatrně zahustí. Žloutek není podmínkou, a pokud omáčku hodláme několikrát ohřívat, doporučuje se vynechat.
 
 {id="priprava_besamelu"}
 
@@ -59,13 +41,13 @@ Při přípravě bešamelu postupujeme rychle. Někdy se totiž omáčka připá
 
 Postup přípravy:
 
-  1. V kastrole se silným dnem rozpustíme máslo.
-  2. Přidáme mouku, sůl a vše rychle zamícháme dřevěnou vařečkou.
-  3. Dříve, nežli mouka zhnědne, přiléváme za stálého míchání mléko.
-  4. Mléko by mělo být horké. Při použití studeného mléka je sice výsledek stejný, ale vystavujeme se riziku, že se v omáčce udělají hrudky. Pak bychom museli omáčku propasírovat. {class="important"}
-  5. Mícháme do té doby, než je omáčka hladká.
-  6. Hotovou omáčku nalijeme do čistého hrnku a dáme ji do horké lázně _(anglicky bain marie)_ k dalšímu použití.
-  7. Zbylou omáčku necháme v čisté nádobě vychladnout a uložíme ji do chladničky.
+ 1. V kastrole se silným dnem rozpustíme máslo.
+ 2. Přidáme mouku, sůl a vše rychle zamícháme dřevěnou vařečkou.
+ 3. Dříve než mouka zhnědne, přiléváme za stálého míchání mléko.
+    * Mléko by mělo být horké. Při použití studeného mléka je sice výsledek stejný, ale vystavujeme se riziku, že se v omáčce udělají hrudky. Pak bychom museli omáčku propasírovat. {class="important"}
+ 4. Mícháme do té doby, než je omáčka hladká.
+ 5. Hotovou omáčku nalijeme do čistého hrnku a dáme ji do horké lázně _(anglicky bain-marie)_ k dalšímu použití.
+ 6. Zbylou omáčku necháme v čisté nádobě vychladnout a uložíme ji do chladničky.
 
 Při šetrném zacházení můžeme omáčku ohřívat kolikrát chceme. Bešamelová omáčka, tak jako mnoho jiných krémových omáček, je tím lepší, čím déle se vařila. Každé ohřátí tedy omáčce jen prospěje.
 
@@ -79,11 +61,11 @@ Na jeden litr omáčky budete potřebovat
 
   * 750 g bešamelu,
   * 200 g strouhaného snadno tavitelného sýra a
-  * 50 g strouhaného parmezánu.
+  * 50 g strouhaného parmazánu.
 
 Příprava omáčky je jednoduchá:
 
-  1. Do horké, ne příliš husté bešamelové omáčky přidáme strouhaný sýr.
+  1. Do horké nepříliš husté bešamelové omáčky přidáme strouhaný sýr.
   2. Omáčku vaříme, než se sýr roztaví.
   3. Poté přimícháme strouhaný parmezán a použijeme podle potřeby.
 
