@@ -28,7 +28,7 @@ Velice módní jsou belgické čokoládové bonbóny nebo skoro stejně dobré b
 
 Z prodeje _friandises_ a tzv. _after dinner mints_ se stal velký byznys. Stejně jako vše, tak i toto se poněkud zjednodušilo. Ve většině restaurací jsou nyní mentolky pro osvěžení dechu po jídle nabízené u východu z restaurací. Zpravidla jsou položeny přímo na pultíku u hostesky, kde si jich každý host při odchodu může vzít kolik chce. What a country!
 
-Možná že si říkáte jak je možné, že američtí restauratéři dávají tolik věcí zadarmo? Je to jednoduché. Někteří hosté si bonbónů vezmou plnou hrst, ale někteří si nevezmou vůbec. Nehledě na to, že mentolky podávané zadarmo většinou za moc nestojí.
+Možná že si říkáte, jak je možné, že američtí restauratéři dávají tolik věcí zadarmo? Je to jednoduché. Někteří hosté si bonbónů vezmou plnou hrst, ale někteří si nevezmou vůbec. Nehledě na to, že mentolky podávané zadarmo většinou za moc nestojí.
 
 Osobně jsem podávání mentolek po jídle doporučil Jardovi Honzajkovi, majiteli [restaurace Steakgrill][4]. Jak jsem se ale následně dozvěděl, tak to ocenilo jen velmi málo hostů. Někteří hosté dokonce ani neznali jejich pravý účel.
 
