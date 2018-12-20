@@ -19,11 +19,11 @@ Typickými doplňky jsou například klapky na oči usnadňující spaní při d
 
 Dříve se některé ubytovací provozy přímo předháněly v množství a kvalitě takovýchto doplňků. Jejich cena pak tvořila nezanedbatelné procento nákladů. Tato mánie již trochu ochabla, takže se dnes i v relativně drahých hotelech můžete setkat například s nízkonákladovým dávkovačem mýdla.
 
-Ukázalo se totiž, že většina hostů (hlavně ženy) mají své vlastní mýdlo, šampony, žínku, apod. Tudíž, všechny ty atraktivně balené pozornosti podniku označené jménem a logem hotelu, jsou více jakýmsi suvenýrem a marketingovým prostředkem, než praktickou věcí.
+Ukázalo se totiž, že většina hostů (hlavně ženy) mají své vlastní mýdlo, šampony, žínku apod. Tudíž, všechny ty atraktivně balené pozornosti podniku označené jménem a logem hotelu, jsou více jakýmsi suvenýrem a marketingovým prostředkem, než praktickou věcí.
 
 Krátce po sametové revoluci, kdy tyto doplňky byly u nás ještě něco neznámého, jsem je v Česku rozdával mým známým. Potom ale přišla bída na kozáky.
 
-Obsazenost hotelů klesla pod přijatelnou hranici a to hlavně u drahých hotelů, které tyto doplňky nabízejí. Hotely začaly na doplňcích šetřit a ty nejzoufalejší je začaly rozdávat bez jména a znaku podniku. Tím sice trochu snížily své náklady, ale zároveň přišly o svou hlavní přednost – marketing a propagace svého jména.
+Obsazenost hotelů klesla pod přijatelnou hranici, a to hlavně u drahých hotelů, které tyto doplňky nabízejí. Hotely začaly na doplňcích šetřit a ty nejzoufalejší je začaly rozdávat bez jména a znaku podniku. Tím sice trochu snížily své náklady, ale zároveň přišly o svou hlavní přednost – marketing a propagace svého jména.
 
 Dalším krokem bylo nahrazování balených mýdel a šamponů dávkovači umístěnými nad vanu, do sprchy a nad umyvadlo. Ukázalo se, že i hosté v drahých hotelech toto rozhodnutí přijali kladně.
 
@@ -49,7 +49,7 @@ Luxusní hotely pod hlavičkou doplňků nabízejí a patřičně inzerují celo
   * rozestlání postelí,
   * nastavení radia na stanici s příjemnou hudbou,
   * přeložení koupacích plášťů přes postele,
-  * přiložení (hotelových) pantoflí k posteli.
+  * přiložení (hotelových) pantoflů k posteli.
 
 Některé hotely pod jejich doplňky uvádí i jiné služby, což je víceméně jen marketingový tah. Těmito placenými službami mohou být například:
 
