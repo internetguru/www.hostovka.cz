@@ -13,7 +13,7 @@ Na jídelních lístcích se k upoutání pozornosti velmi často používají p
 
 Je to například kaviár, humři, krevety, lanýže, žampiony, artyčoky, avokádo, chřest, steak. Dále šampaňské, Campari nebo koňak, ale například i čerstvá bazalka, houby shiitake a balzamikový ocet.
 
-Například vejce s kaviárem upoutají pozornost, i když obsahují jen velice malé množství kaviáru. Obdobně telecí ragú s lanýži zní přitažlivěji, než obyčejné telecí na houbách. V mysli hostů totiž lanýže představují něco exotického, takže si takové jídlo rádi objednají.
+Například vejce s kaviárem upoutají pozornost, i když obsahují jen velice malé množství kaviáru. Obdobně telecí ragú s lanýži zní přitažlivěji než obyčejné telecí na houbách. V mysli hostů totiž lanýže představují něco exotického, takže si takové jídlo rádi objednají.
 
 {id="pouzivane\_druhy\_modnich_slov"}
 
