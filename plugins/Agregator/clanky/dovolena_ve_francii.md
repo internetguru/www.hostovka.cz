@@ -11,7 +11,7 @@ Moje první zkušenost s Francií byla 18. května 1945, neboli hned po válce. 
 
 Málokdo to ví, ale čeští kuchaři byli po dvou nebo třech letech praxe ve Francii lepší než samotní Francouzi. Měli totiž navíc nejméně tříletou praxi v rodném Československu. Něčím takovým se francouzští kuchaři pochlubit nemohli. Ti byli totiž odjakživa natolik namyšlení a natolik se sebou spokojení, že bylo pod jejich důstojnost učit se od někoho jiného.
 
-Spokojenost se sebou samotným je nejjistější cesta, jak dříve nebo později vypadnout z pohostinství. A to je právě ten důvod, který po stoletém prvenství přivedl francouzské restauratéry a kuchaře do situace, kdy ho ztrácejí.
+Spokojenost se sebou samotným je nejjistější cesta, jak dříve nebo později vypadnout z pohostinství. A to je právě ten důvod, který po stoletém prvenství přivedl francouzské restauratéry a kuchaře do situace, kdy svou pozici ztrácejí.
 
 {id="vyvoj\_francouzske\_gastronomie\_ze\_svetoveho_pohledu"}
 
