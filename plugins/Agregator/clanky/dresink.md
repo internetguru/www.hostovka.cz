@@ -3,13 +3,15 @@
 
 {id="zalivka_dresink" ctime="2007-01-13" mtime="2018-12-18" author="Michael Klíma" short="Zálivka a dresink"}
 
-# Příprava zálivky a dresinku
+# Rozdíl a příprava zálivky a dresinku
 
 {kw="jídla a jídelní lístky"}
 
 V encyklopedickém slovníku gastronomie od Jiřího Černého, je dresink popsán jako zálivka, zpravidla studená, používaná k ochucení zeleninových ovocných nebo kombinovaných salátů. Jako studentům Hostovky by vám ale tato definice stačit neměla.
 
 V Americe, obzvláště ve střední, musíte být s používáním slova dresink opatrní. Výraz dresink _(anglicky dressing)_ se tam používá pro nádivku _(anglicky stuffing)_. Podle některých anglických slovníků může _dressing_ znamenat také obvaz na rány.
+
+{class="important"}
 
 Zálivka či dresink má salát ochutit a ne ho přehlušit. Zároveň se k salátu musí hodit. Buďte opatrní, protože například v Americe vám v některých restauracích podají salát zamíchaný přímo s dresinkem. Proto je dobré objednat si dresink zvlášť _(anglicky on the side)_ a přidat si ho na salát až podle chuti.
 
@@ -65,7 +67,7 @@ Zálivka s vínem
 {class="card"}
 
 Zálivka s ančovičkami
-:   Ančovičky, správně sardelky, jsou vítanou změnou v chuti dresinku.
+:   Ančovičky (správně sardelky) jsou vítanou změnou v chuti dresinku.
 :   Ančovičky do dresinku přidáme v úměrném množství. Mohou být buďto drobně nasekané nebo ve formě pasty.
 :   Dávku soli snížíme nebo ji zcela vypustíme.
 
@@ -97,11 +99,11 @@ Dresink má zpravidla své jméno, které však není odvozené od jeho přísad
 
 ### Předpřipravený a domácí dresink
 
-Předpřipravené (komerčně vyráběné) dresinky se sice hodí, ale v restauracích s velkou spotřebou dresinků se vyplatí připravovat si dresinky od základu sami. V takovém případě můžete s takzvaným „domácím dresinkem“ _(anglicky house dressing)_ dokonce získat popularitu.
+Kupované (komerčně vyráběné) dresinky se sice hodí, ale v restauracích s velkou spotřebou dresinků se vyplatí připravovat si je od základu sami. V takovém případě můžete s takzvaným „domácím dresinkem“ _(anglicky house dressing)_ dokonce získat popularitu.
 
 {class="important"}
 
-Kuchaři v restauracích by měli své dresinky připravovat podle chuti hostů a ne podle jejich vlastní.
+Kuchaři v restauracích by měli své dresinky připravovat podle chuti hostů a ne podle své vlastní.
 
 Opravte mě, pokud se mýlím, ale spousta kuchařů ví o dresincích jen velmi málo. To, že dělají dresinky podle své chuti, mně osobně nic neříká. Některé dresinky se hodí pro těstovinové saláty, jiné pro masité či rybí saláty, jiné pro saláty ovocné nebo zeleninové. Proto mám rád, když restaurace nabízí několik populárních, třeba i kupovaných dresinků.
 
