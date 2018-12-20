@@ -27,7 +27,7 @@ Používá se jak při domácím vaření, tak v průmyslu. Získává se dlouh�
 
 Aspik sloužil dříve nejenom pro dekoraci, ale také hlavně jako konzervační prostředek. To se hodilo za dob, kdy se jídla vařila několik dní dopředu (konkrétně například Carêmovy výtvory).
 
-V České republice jsou jídla v aspiku, velice oblíbená. V zemích jako Afrika, Blízký východ a Orient jsou tato jídla téměř neznámá. Hlavním důvodem je, že jídla v aspiku musí být uchovávána v chladnu.
+V České republice jsou jídla v aspiku velice oblíbená. V zemích jako Afrika, Blízký východ a Orient jsou tato jídla téměř neznámá. Hlavním důvodem je, že jídla v aspiku musí být uchovávána v chladu.
 
 V Americe, kde chlazení jídel není problém, nejsou jídla v aspiku moc oblíbená. Proto mě vždy udivuje, že se v Česku americkým turistům strkají pod nos české lahůdky typu kapr nebo rolka v aspiku. Oni to ti turisté snědí, ale nechtějte slyšet, jak tato jídla popisují po návratu domů.
 
@@ -35,7 +35,7 @@ V Americe, kde chlazení jídel není problém, nejsou jídla v aspiku moc oblí
 
 Aspik, což si mnoho lidí neuvědomuje, je ideální živnou půdou pro růst bakterií. Proto se ta krásná jídla zalitá aspikem, která se dva nebo i tři dny vystavují na kuchařských výstavách, po skončení výstavy ihned vyhazují.
 
-Osobně se domnívám, že by v restauracích mělo být u jídel v aspiku napsáno, že je hosté mohou jíst jen na vlastní nebezpečí. Tak jako se to dělá u Tatarského bifteku.
+Osobně se domnívám, že by v restauracích mělo být u jídel v aspiku napsáno, že je hosté mohou jíst jen na vlastní nebezpečí. Tak jako se to dělá u tatarského bifteku.
 
  [1]: https://cs.wikipedia.org/wiki/Marie-Antoine_Car%C3%AAme
 
