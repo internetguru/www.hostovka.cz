@@ -7,7 +7,7 @@
 
 {kw="gastronomie"}
 
-Kuchařské tituly jsou mnohdy odvozeny od tak zvaných kuchyňských brigád založených [Augustem Escoffierem][1]. Také mohou mít obecnější význam v závislosti na jednotlivých kuchyňských funkcích nebo technikách.
+Kuchařské tituly jsou mnohdy odvozeny od takzvaných kuchyňských brigád založených [Augustem Escoffierem][1]. Také mohou mít obecnější význam v závislosti na jednotlivých kuchyňských funkcích nebo technikách.
 
 Některé restaurační kuchyně kuchařské tituly nepoužívají. Mohou mít vlastní systém kuchyně a rozdělení funkcí. Speciální a hierarchické tituly kuchařů se dnes používají jen v kuchyních vybraného pohostinství. V obyčejných restauracích jsou kuchaři nazýváni anglickým slovem _cooks_, nebo _short–order cooks_.
 
@@ -51,24 +51,24 @@ Níže jsou popsány další typické kuchařské tituly. Další, méně běžn
 
 Cetifikovaný výkonný šéfkuchař
 :   Anglicky _certified executive chef_.
-:   Titul uděluje americká kulinářská federace _(American Culinary Federation)_ kuchařům splňující stanovené podmínky a předepsané zkoušky. Zástupce šéfkuchaře
+:   Titul uděluje americká kulinářská federace _(American Culinary Federation)_ kuchařům splňující stanovené podmínky a předepsané zkoušky.
 
 Zástupce šéfkuchaře
 :   Anglicky _sou-chef_.
-:   Menší kuchyně funkci zástupce šéfkuchaře nemají, zatímco jiné jich mohou mít několik. Vyvolávač
+:   Menší kuchyně funkci zástupce šéfkuchaře nemají, zatímco jiné jich mohou mít několik.
 
 Vyvolávač
 :   Anglicky _abouyer_, v přesném překladu „štěkač“.
-:   Vyvolává objednávky v kuchyni a je také poslední vizuální kontrolou kvality jídel. Musí tedy o jídle něco vědět. Funkci vyvolávače zpravidla zastává šéfkuchař nebo zástupce šéfkuchaře. Učedník
+:   Vyvolává objednávky v kuchyni a je také poslední vizuální kontrolou kvality jídel. Musí tedy o jídle něco vědět. Funkci vyvolávače zpravidla zastává šéfkuchař nebo zástupce šéfkuchaře.
 
 Učedník
 :   Anglicky _commis_.
-:   Zpravidla je to student nějaké odborné školy nebo absolvent odborného kurzu. Učitel
+:   Zpravidla je to student nějaké odborné školy nebo absolvent odborného kurzu.
 
 Učitel
 :   Anglicky _culinary educator_.
 :   V Americe je to každý výkonný šéfkuchař, protože jedna z jeho povinností je předávat své zkušenosti podřízeným.
-:   Jinak to ale může být každý, kdo složí zkoušky z pedagogického minima. Certifikovaný učitel
+:   Jinak to ale může být každý, kdo složí zkoušky z pedagogického minima.
 
 Certifikovaný učitel
 :   Anglicky _certified culinary educator_.
