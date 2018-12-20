@@ -7,9 +7,9 @@
 
 {kw="etnické kuchyně, gastronomie, Francie"}
 
-Moje první zkušenost s Francií byla 18. května 1945, neboli hned po válce. Pracoval jsem tam v několika restauracích a hotelech. Z té doby vím, že čeští kuchaři a číšníci měli díky svým kolegům, pracujících ve Francii před válkou, tu nejlepší pověst.
+Moje první zkušenost s Francií byla 18. května 1945, neboli hned po válce. Pracoval jsem tam v několika restauracích a hotelech. Z té doby vím, že čeští kuchaři a číšníci měli díky svým kolegům pracujícím ve Francii před válkou tu nejlepší pověst.
 
-Málokdo to ví, ale čeští kuchaři byli (po dvou nebo třech letech praxe ve Francii) lepší než samotní Francouzi. Měli totiž navíc nejméně tříletou praxi v rodném Československu. Něčím takovým se francouzští kuchaři pochlubit nemohli. Ti byli totiž odjakživa natolik namyšlení a natolik se sebou spokojení, že bylo pod jejich důstojnost učit se od někoho jiného.
+Málokdo to ví, ale čeští kuchaři byli po dvou nebo třech letech praxe ve Francii lepší než samotní Francouzi. Měli totiž navíc nejméně tříletou praxi v rodném Československu. Něčím takovým se francouzští kuchaři pochlubit nemohli. Ti byli totiž odjakživa natolik namyšlení a natolik se sebou spokojení, že bylo pod jejich důstojnost učit se od někoho jiného.
 
 Spokojenost se sebou samotným je nejjistější cesta, jak dříve nebo později vypadnout z pohostinství. A to je právě ten důvod, který po stoletém prvenství přivedl francouzské restauratéry a kuchaře do situace, kdy ho ztrácejí.
 
@@ -21,9 +21,9 @@ V době, kdy se profesionálové dohadují, kde jsou ve světě nejlepší resta
 
 Perfektnost může znamenat uspokojení, ale po nějaké době vede k nedostatku žádoucnosti. Co Francouze děsí, nejsou obavy z klesajícího standardu, ale pocit, že jejich gastronomie již není středem světové pozornosti.
 
-Naštěstí ale existuje několik kuchařů-inovátorů jako jsou například Alain Ducasse, Pierre Gagnaire a Alain Passard, kteří se snaží o změnu tradice. Ducasse dokonce ve svých restauracích v Paříži a v Londýně uvádí vlastní verzi americké kuchyně. Nicméně z celkového pohledu zaznamenala francouzská kuchyně jen velmi málo změn.
+Naštěstí ale existuje několik kuchařů-inovátorů jako jsou například Alain Ducasse, Pierre Gagnaire a Alain Passard, kteří usilují o změnu tradice. Ducasse dokonce ve svých restauracích v Paříži a v Londýně uvádí vlastní verzi americké kuchyně. Nicméně z celkového pohledu zaznamenala francouzská kuchyně jen velmi málo změn.
 
-Dnes i ti nejtvrdohlavější francouzští kuchaři uznávají talent a nadání jejich kolegů v zahraničí, jako jsou například Daniel Boulud, Jean-Georges Vongerichten, Eric Ripert a Christian Delovrier. Přitom ale uznávají i vliv nefrancouzských kuchařů v Americe, jako je například Thomas Keller.
+Dnes i ti nejtvrdohlavější francouzští kuchaři uznávají talent a nadání svých kolegů v zahraničí, jako jsou například Daniel Boulud, Jean-Georges Vongerichten, Eric Ripert a Christian Delovrier. Přitom ale uznávají i vliv nefrancouzských kuchařů v Americe, jako je například Thomas Keller.
 
 {id="ceny\_francouzskych\_jidel"}
 
@@ -43,9 +43,9 @@ Francouzské restaurace trpí přemírou lahůdek. Zastavte francouzskému kucha
 
 Po sametové revoluci začali Češi do Francie houfně jezdit jako turisté. V té době se názor Francouzů na Čechy podstatně změnil.
 
-Jako hosté se v té době nijak neprojevovali, protože většina z nich spala v autech a jedli to, co si přivezli z domova. Já jsem ale ten poslední, kdo by je odsuzoval, protože jsem také Čech. Vím, že to nebylo jejich vinou, ale bylo to díky gastronomickému temnu ve kterém vyrostli.
+Jako hosté se v té době nijak neprojevovali, protože většina z nich spala v autech a jedli to, co si přivezli z domova. Já jsem ale ten poslední, kdo by je odsuzoval, protože jsem také Čech. Vím, že to nebylo jejich vinou, ale bylo to kvůli gastronomickému temnu, ve kterém vyrůstali.
 
-Mezi turisty byli ale i [restaurační snobové][1], kteří chodili do lepších francouzských restauracích. Ti k dobré pověsti Čechů (jako hostů) také moc nepřispěli. Většinou se totiž neuměli v restauracích chovat. Měli byste si vyslechnout, jak o nich mluvili francouzští číšníci.
+Mezi turisty byli ale i [restaurační snobové][1], kteří chodili do lepších francouzských restaurací. Ti k dobré pověsti Čechů jako hostů také moc nepřispěli. Většinou se totiž neuměli v restauracích chovat. Měli byste si vyslechnout, jak o nich mluvili francouzští číšníci.
 
 Byly dokonce případy, kdy byli Češi obviňováni za to, že odcházeli z restaurací bez placení, a že kradli v některých obchodech. Musím ale dodat, že jsou výjimky, a že všichni Češi nejsou stejní. Nehledě na to, že se od té doby hodně změnilo.
 
@@ -57,9 +57,9 @@ Francouzi jsou patrioti, ale podle mě jsou někteří tak fanatičtí, že nema
 
 ## Kam se (ne)zajít najíst
 
-Paříž, která se vždy mohla chlubit dobrými jídly a gastronomií, se díky drahým restauracím stala tzv. „pastí pro turisty“. Francouzská gastronomie ale není jen Paříž. Mohu vás ubezpečit, že v moha jiných regionech se setkáte nejenom s dobrým pohostinstvím, ale i s dobrou kuchyní.
+Paříž, která se vždy mohla chlubit dobrými jídly a gastronomií, se kvůli předraženým restauracím stala tzv. „pastí pro turisty“. Francouzská gastronomie ale není jen Paříž. Mohu vás ubezpečit, že v moha jiných regionech se setkáte nejenom s dobrým pohostinstvím, ale i s dobrou kuchyní.
 
-Musíte ale hledat domácí kuchyni _(francouzsky cuisine bourgeoise)_. S tou se dnes ve Francii setkáte už jen v malých městech nebo na vesnicích, kde jsou ceny relativně přijatelné. V těchto místech se také ještě setkáte s pověstnou francouzskou úslužností a pohostinností. Obzvláště když pozdravíte, třeba i s českým přízvukem _(Bon jour)_.
+Musíte ale hledat domácí kuchyni _(francouzsky cuisine bourgeoise)_. S tou se dnes ve Francii setkáte už jen v malých městech nebo na vesnicích, kde jsou ceny relativně přijatelné. V těchto místech se také ještě setkáte s pověstnou francouzskou úslužností a pohostinností. Obzvláště když pozdravíte „Bonjour“ – byť s českým přízvukem.
 
 Mimo francouzštiny jsem také dost dlouho studoval francouzskou gastronomii, takže vím co si objednat a co mohu za své peníze očekávat. Chce to ale také praktickou zkušenost s francouzskými jídly. To ale stojí peníze a to nemluvím o francouzských vínech nebo o koňaku, který mám tak rád.
 
