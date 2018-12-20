@@ -9,7 +9,7 @@
 
 Obecně vzato je aspik rosol, který se používá k zalévání nebo pokrývání masa, ryb, zelenin a salátů, případně k obložení studených mís. O aspicích a rosolech byla napsána celá pojednání. Obzvláště se jimi zabýval jeden z nejslavnějších gastronomů 19. století [Marie-Antoine Carême][1].
 
-Aspik je výraz kterým se původně označoval jistý druh jídel studené kuchyně. Mnozí odborníci se domnívají, že byl tento byl odvozen od hadů zvaných _asp_, jejichž ledový chlad připomíná studený rosol. Základem aspiku je želatina.
+Aspik je výraz, kterým se původně označoval jistý druh jídel studené kuchyně. Mnozí odborníci se domnívají, že byl tento byl odvozen od hadů zvaných _asp_, jejichž ledový chlad připomíná studený rosol. Základem aspiku je želatina.
 
 {id="zelatina"}
 
@@ -19,7 +19,7 @@ Aspik je výraz kterým se původně označoval jistý druh jídel studené kuch
 
 Používá se jak při domácím vaření, tak v průmyslu. Získává se dlouhým vařením z kolagenu, bílkoviny obsažené v kůži a kostech živočichů. Může být ušlehána do pěny a je také používaná jako emulzifikační a stabilizační prostředek mnoha pokrmů.
 
-Želatinu můžeme připravit z telecích nebo vepřových nožiček, hovězí kližky a nebo z kostí mladých zvířat. Nyní jsou na trhu aspiky v prášku, které jsou dokonce již ochucené. Práce s nimi je tak jednoduchá, až by se Carême a jiní slavní kuchaři divili.
+Želatinu můžeme připravit z telecích nebo vepřových nožiček, hovězí kližky anebo z kostí mladých zvířat. Nyní jsou na trhu aspiky v prášku, které jsou dokonce již ochucené. Práce s nimi je tak jednoduchá, až by se Carême a jiní slavní kuchaři divili.
 
 {id="vyuziti_aspiku"}
 
