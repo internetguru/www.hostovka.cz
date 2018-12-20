@@ -19,7 +19,7 @@ K rozmachu spojené kuchyně došlo v poválečných letech v Americe. Do Amerik
 
 Tito kuchaři začali zakládat etnické restaurace, sloužící za začátku hlavně novým vlnám imigrantů téhož etnického původu. Velmi brzy se ale tyto restaurace staly přitažlivými i pro jiné skupiny hostů. Z velké míry byly také navštěvovány americkými vojáky po návratu ze zahraničí.
 
-Bohatší surovinová základna, přístup k novým výkonnějším zařízením a hlavně přístupnost Američanů k novinkám způsobily, že tyto etnické restaurace začaly přejímat osvědčené techniky jedna od druhé a daly vzniku spojené kuchyni.
+Bohatší surovinová základna, přístup k novým výkonnějším zařízením, a hlavně přístupnost Američanů k novinkám způsobily, že tyto etnické restaurace začaly přejímat osvědčené techniky jedna od druhé a daly vzniku spojené kuchyni.
 
 Amerika ale v tomto ohledu nebyla jediná. Spojená kuchyně se následně uchytila v zemích jako je například Austrálie, Nový Zéland, Kanada a Izrael. Na druhé straně pochybuji, že francouzští, italští, čínští a thajští kuchaři budou někdy spojenou kuchyni brát vážně. Myslí si totiž, že [jejich kuchyně je již plně vyvinutá][1].
 
@@ -31,7 +31,7 @@ Aniž bych o tom věděl, tak jsem byl vlivu spojené kuchyně vystaven už v do
 
 Šéfkuchařem hotelu byl pan Florian Zimmermann, jeden z vynikajících českých kuchařů. Na lístku tedy byla jak česká, tak díky Zimmermanově praxi ve Francii i francouzská jídla. Zimmermanna si do Alcronu majitel hotelu pan Alois Krofta přivezl z Ameriky. I když se o tom také oficiálně nemluvilo, tak byla na lístku i jídla jiných různých kuchyní, se kterými se Zimmermann v Americe seznámil.
 
-Já jsem si to tehdy ani neuvědomoval, ale zkušenosti z dob učení byly dalším podnětem ke studiu etnických kuchyní. Krátce po vyučení jsem odešel za praxí do Francie. Později jsem se seznámil s čínskou, vietnamskou a dokonce i s ruskou kuchyní. Ve spojené kuchyni jsem se pak zdokonalil v 70. letech v Americe a používal ji dále po celém světě.
+Já jsem si to tehdy ani neuvědomoval, ale zkušenosti z dob učení byly dalším podnětem ke studiu etnických kuchyní. Krátce po vyučení jsem odešel za praxí do Francie. Později jsem se seznámil s čínskou, vietnamskou, a dokonce i s ruskou kuchyní. Ve spojené kuchyni jsem se pak zdokonalil v 70. letech v Americe a používal ji dále po celém světě.
 
  [1]: francouzska_gastronomie
 
