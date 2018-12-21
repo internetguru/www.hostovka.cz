@@ -35,7 +35,7 @@ Steak musí být připravený z dobře odleželé svíčkové, což v Česku dne
 
 Steak se podává v celku, zásadně na horké míse. Zpravidla je položený na soklu z bílého chleba a obložený nejméně třemi druhy barevné zeleniny vařené v páře. To mohou být například květák, karotka a hrášek, zelené fazolky, brokolice, cukety a bruselské kapustičky.
 
-Mimo zeleniny se musí podávat alespoň dva druhy brambor. Jsou to například _pommes château_ nebo _pommes parisienne_, ale v každém případě brambory _duchesse_. Ty se ozdobně nastříkají po okraji mísy a opečou se dozlatova pod grilem. Tím se vytvoří jedlý okraj zvaný _bordura_, neboli _rám obrazu_ tohoto velice atraktivního jídla.
+Mimo zeleniny se musí podávat alespoň dva druhy brambor. Jsou to například _pommes château_ nebo _pommes parisienne_, ale v každém případě brambory _duchesse_. Ty se ozdobně nastříkají po okraji mísy a opečou se dozlatova pod grilem. Tím se vytvoří jedlý okraj zvaný _bordura_ neboli _rám obrazu_ tohoto velice atraktivního jídla.
 
 {id="porcovani\_a\_omacky"}
 
