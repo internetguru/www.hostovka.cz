@@ -33,7 +33,7 @@ V Americe navíc rozlišují funkce _cook_ a _chef_, což jsem zpočátku nevěd
 
 ## Výkonný šéfkuchař
 
-Výkonný šéfkuchař _(anglicky executive chef)_ má stejné povinnosti jako šéfkuchař a je navíc zodpovědný za plynulý chod několika restaurací nebo stravovacích provozů. Jen tak pro zajímavost, tato funkce není podmíněna ničím jiným, než schopností organizovat, učit personál a řídit třeba i několik kuchyní jednoho podniku najednou.
+Výkonný šéfkuchař _(anglicky executive chef)_ má stejné povinnosti jako šéfkuchař a je navíc zodpovědný za plynulý chod několika restaurací nebo stravovacích provozů. Jen tak pro zajímavost, tato funkce není podmíněna ničím jiným než schopností organizovat, učit personál a řídit třeba i několik kuchyní jednoho podniku najednou.
 
 {id="regionalni\_vykonny\_sefkuchar"}
 
