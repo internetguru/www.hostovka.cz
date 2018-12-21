@@ -31,7 +31,7 @@ Ochutnávek probíhalo více. Většinou deset pozvaných „hodnotitelů“ sed
   * chuť, barva, konsistence a vhodnost dipů (omáček do kterých se nugety namáčí),
   * hmotnost porce a další.
 
-Jejich posudky následně vyhodnotí další tým hodnotitelů a podle výsledků se dělají další a další testy. Tyto testy se pak také provádí v různých státech Ameriky, kde se navíc hodnotí navrhovaná cena, která může být v každém státě jiná.
+Jejich posudky následně vyhodnotí další tým hodnotitelů a podle výsledků se dělají další a další testy. Tyto testy se pak také provádí v různých státech Ameriky, přičemž se navíc hodnotí navrhovaná cena, která může být v každém státě jiná.
 
 {id="vytvoreni\_postupu\_a\_vyber\_ingredienci"}
 
