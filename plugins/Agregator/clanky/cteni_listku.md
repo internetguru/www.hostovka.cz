@@ -74,9 +74,9 @@ Ve světě se chuťovkám říká všelijak, jako například _crudités_, _reli
 
 Crudités nemusí být jen zelenina. Například se můžeme setkat také s ovocem nebo s kukuřičnými chipsy se salsou.
 
-V západních restauracích _crudités_ na jídelním lístků nenajdete. Většinou vám je přinesou ke stolu bez požádání, na talířích nebo na mísách, spolu s takzvaným dipem. Dip je pikantní omáčka do které se chuťovky namáčí. Je zvykem, že jsou v ceně jídla, tedy za ně neplatíte nic navíc.
+V západních restauracích _crudités_ na jídelním lístků nenajdete. Většinou vám je přinesou ke stolu bez požádání, na talířích nebo na mísách, spolu s takzvaným dipem. Dip je pikantní omáčka, do které se chuťovky namáčí. Je zvykem, že jsou v ceně jídla, tedy za ně neplatíte nic navíc.
 
-V našich restauracích by se chuťovkám mělo říkat něco jako _chyták_ nebo _nemilé překvapení_. Při placení vám totiž započítají nestydatou cenu za to, že jste si „zobli“ z mandlí, oříšků nebo pistácií, které byly na stole ještě předtím než jste přišli. Tento ubohý a primitivní způsob šizení hostů je jen ukázkou toho, jak zoufalí někteří naši restauratéři mohou být. Jako studenti Hostovky byste si takové chování neměli nechat líbit.
+V našich restauracích by se chuťovkám mělo říkat něco jako _chyták_ nebo _nemilé překvapení_. Při placení vám totiž započítají nestydatou cenu za to, že jste si „zobli“ z mandlí, oříšků nebo pistácií, které byly na stole ještě předtím, než jste přišli. Tento ubohý a primitivní způsob šizení hostů je jen ukázkou toho, jak zoufalí někteří naši restauratéři mohou být. Jako studenti Hostovky byste si takové chování neměli nechat líbit.
 
  [1]: /modni_pojmy
 
