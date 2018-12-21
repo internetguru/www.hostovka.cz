@@ -3,7 +3,7 @@
 
 {id="samoobsluzna_restaurace" ctime="2006-02-08" mtime="2018-12-05" author="Michael Klíma" short="Samoobslužná restaurace"}
 
-# Vše co sníš a nikoli co odneseš
+# Vše, co sníš a nikoli co odneseš
 
 {kw="nejčtenější, gastronomie, bufet, pozdní snídaně"}
 
