@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz"}
 
-{id="hostovka" short="Hostovka.cz" author="InternetGuru" ctime="2018-05"}
+{id="hostovka" short="Hostovka.cz" author="Internet Guru" ctime="2018-05"}
 
 # Univerzita pro hosty restaurací
 
