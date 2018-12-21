@@ -13,7 +13,7 @@ V Americe, obzvláště ve střední, musíte být s používáním slova dresin
 
 {class="important"}
 
-Zálivka či dresink má salát ochutit a ne ho přehlušit. Zároveň se k salátu musí hodit. Buďte opatrní, protože například v Americe vám v některých restauracích podají salát zamíchaný přímo s dresinkem. Proto je dobré objednat si dresink zvlášť _(anglicky on the side)_ a přidat si ho na salát až podle chuti.
+Zálivka či dresink má salát ochutit, a ne ho přehlušit. Zároveň se k salátu musí hodit. Buďte opatrní, protože například v Americe vám v některých restauracích podají salát zamíchaný přímo s dresinkem. Proto je dobré objednat si dresink zvlášť _(anglicky on the side)_ a přidat si ho na salát až podle chuti.
 
 {id="zalivka"}
 
@@ -103,7 +103,7 @@ Kupované (komerčně vyráběné) dresinky se sice hodí, ale v restauracích s
 
 {class="important"}
 
-Kuchaři v restauracích by měli své dresinky připravovat podle chuti hostů a ne podle své vlastní.
+Kuchaři v restauracích by měli své dresinky připravovat podle chuti hostů, a ne podle své vlastní.
 
 Opravte mě, pokud se mýlím, ale spousta kuchařů ví o dresincích jen velmi málo. To, že dělají dresinky podle své chuti, mně osobně nic neříká. Některé dresinky se hodí pro těstovinové saláty, jiné pro masité či rybí saláty, jiné pro saláty ovocné nebo zeleninové. Proto mám rád, když restaurace nabízí několik populárních, třeba i kupovaných dresinků.
 
