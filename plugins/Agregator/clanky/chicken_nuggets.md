@@ -3,7 +3,7 @@
 
 {id="kureci_nugety" ctime="2006-08-28" mtime="2018-12-04" author="Michael Klíma" short="Kuřecí nugety"}
 
-# Zrození a vývoj kuřecích nuget
+# Zrození a vývoj kuřecích nuget!
 
 {kw="jídla a jídelní lístky"}
 
