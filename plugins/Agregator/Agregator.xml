@@ -10,11 +10,9 @@
       <dt><a title="Autor: %s" var="link@href author@title"><img var="og-image@src heading@alt"/></a></dt>
       <dd class="date" fn="inputvar-dateformat" var="ctime">n/a</dd>
       <dd class="kw" var="kw" fn="inputvar-maketags">n/a</dd>
-      <dt class="heading"><a title="Autor: %s" var="link@href author@title heading">n/a</a></dt>
+      <dt class="heading" var="heading">n/a</dt>
       <dd class="desc" var="desc">n/a</dd>
-      <dd class="extra"><ul>
-        <li><a var="link@href" class="button">Přečíst</a></li>
-      </ul></dd>
+      <dd class="more"><span class="noprint" var="editlink">n/a</span><a title="Autor: %s" var="link@href author@title">Celý článek</a></dd>
     </dl>
   </doclist>
 
