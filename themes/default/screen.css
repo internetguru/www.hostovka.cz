@@ -474,7 +474,6 @@ dl.figure dt img {
 ul.docinfo.nomultiple.global {
   display: flex;
   flex-wrap: wrap;
-  margin-top: 3em;
 }
 ul.docinfo.nomultiple.global li {
   margin: 0;
