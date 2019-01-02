@@ -7,7 +7,7 @@
 -->
   <doclist id="clanky" path="clanky" kw="nejčtenější">
     <dl class="clanek">
-      <dt><a title="Autor: %s" var="link@href author@title"><img var="og-image@src heading@alt"/></a></dt>
+      <dt><img var="og-image@src heading@alt"/></dt>
       <dd class="date" fn="inputvar-dateformat" var="ctime">n/a</dd>
       <dd class="kw" var="kw" fn="inputvar-maketags">n/a</dd>
       <dt class="heading" var="heading">n/a</dt>
