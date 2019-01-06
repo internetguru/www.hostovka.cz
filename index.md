@@ -23,13 +23,13 @@ Snahou Hostovky je zvýšit uvědomění našich hostů v tom, co jim patří a 
 
 Články
 
-{var="doclist-clanky"}
-
-  * n/a
-
 {class="taglist" var="inputvar-taglist"}
 
 n/a
+
+{var="doclist-clanky"}
+
+  * n/a
 
 <!--
     <h id="otazky_a_odpovedi" short="Otázky a odpovědi">Často kladené dotazy</h>
