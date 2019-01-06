@@ -399,9 +399,9 @@ a.tag:not([href]):hover:before {
 }
 /***************************/
 .taglist {
-  border-bottom: thin solid #cecece;
+  /* border-bottom: thin solid #cecece; */
   padding: 0;
-  padding-bottom: 5em;
+  padding-bottom: 2em;
 }
 #footer {
   margin-top: 3em;
