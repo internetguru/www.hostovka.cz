@@ -80,10 +80,10 @@ ol.contentlink-bc > li+li:before {
 }
 @media all and (min-width: 52em) {
   .hdesc {
-    min-height: 35em;
+    min-height: 40em;
   }
   .hdesc h1 {
-    margin-top: 3.5em;
+    margin-top: 4.5em;
   }
 }
 .hdesc a {
