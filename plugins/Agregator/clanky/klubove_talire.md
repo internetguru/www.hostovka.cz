@@ -59,7 +59,7 @@ Jelikož vidím, že se používání klubových talířů ještě vyučuje, tak
 
 Zapomeňme také na to, jestli se mají sklízet po prvním chodu, tak jak to má být, anebo jestli je necháte na stole až do moučníku, protože se vám to líbí. 
 
-Zamysleme se ale nad tím, kolik mimo jejich ceny, půjčovného, nebo ztrát opotřebováním, rozbitím nebo rozkradením (mimo Česka a Slovenska kde se nekrade) stojí ta manipulace s nimi. Klubové talíře (nebo prkénka) by se totiž měly po každém hostu umýt, a mimo doby provozu někde uskladnit. Také by se měly na stůl dávat až před servisem, a ne je nechávat na stolech po několik dní nebo týdnů, což je mnohde běžná praxe. Z pohledu logistiky je s nimi prostě velké množství manipulace.
+Zamysleme se ale nad tím, kolik mimo jejich ceny, půjčovného, nebo ztrát opotřebováním, rozbitím nebo rozkradením (mimo Česka a Slovenska kde se nekrade) stojí manipulace s nimi. Klubové talíře (nebo prkénka) by se totiž měly po každém hostu umýt, a mimo doby provozu někde uskladnit. Také by se měly na stůl dávat až před servisem, a ne je nechávat na stolech po několik dní nebo týdnů, což je mnohde běžná praxe. Z pohledu logistiky je s nimi prostě velké množství manipulace.
 
 Závěrem s ohledem na některé mé kritiky musím zdůraznit, že vše, co jsem o klubových talířích napsal, jsou moje osobní poznatky a mé osobní názory.  
 
