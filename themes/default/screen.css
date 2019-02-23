@@ -573,7 +573,7 @@ ul.docinfo.nomultiple.partial li {
   border-radius: 0;
   -webkit-appearance: none;
   border-radius: 0 0 0 0.25em;
-  border: thin solid rgba(255, 175, 110, 0.6196078431372549);
+  border: thin solid rgba(255, 255, 255, 0.32);
   border-top: none;
 }
 @media (min-width: 38em) {
@@ -624,7 +624,7 @@ ul.docinfo.nomultiple.partial li {
   position: absolute;
   right: -6rem;
   top: 0;
-  background: #ef6c00;
+  background: #f4511e;
   color: #fbe9e7;
   padding: 0 1rem;
   font-size: 1.8em;
