@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GoogleAnalytics>
   <ga_id readonly="readonly" domain="www.hostovka.cz">UA-52883188-15</ga_id>
+  <ga_id readonly="readonly" domain="beta.hostovka.cz">UA-52883188-5</ga_id>
 </GoogleAnalytics>
