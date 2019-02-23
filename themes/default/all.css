@@ -90,3 +90,17 @@ ul.docinfo.nomultiple.global {
   margin-right: auto;
 }
 /***************************/
+ol.contentlink-bc {
+  margin: 0;
+  padding: 0;
+}
+#header .contentlink-bc {
+  flex-shrink: 0;
+}
+#header .contentlink-bc li ~ li {
+  display: none;
+}
+#header .contentlink-bc a {
+  border: none;
+}
+/***************************/
