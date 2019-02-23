@@ -15,7 +15,7 @@ Kdysi byla kuřecí křidélka víceméně nepotřebným odpadem. Pracoval jsem 
 
 Podle jedné historky jednou pozdě večer v jednom baru v Buffalu ve státě New York chtělo několik hostů něco „na zakousnutí“. Kuchyň byla již zavřená, ale barman se jim snažil nějak vyhovět, a tak hledal v lednici a v mrazáku, jestli tam je něco, co by jim mohl prodat. Jediné, co v mrazáku našel, byla kuřecí křidélka. Onen barman byl zřejmě Čech, protože nebyl líný si s křidélky dát práci, a tak se hned pustil do práce. 
 
-Křidélka rozmrazil v mikrovlnce, což mu trvalo asi tak 3 minuty. Potom je osolil, opepřil, a aby ti hosté měli věší chuť na pivo, tak je také okořenil cayennským pepřem. Okořeněná křidélka trošku pomoučnil, osmahl je krátce ve fritéze, a dal je asi na 15 minut do horké trouby a upekl je dokřupava. Upečená křidélka dal do košíčku, přidal k nim na kousky krájený řapíkatý celer a dva pikantní dipy a ještě horká je podával. 
+Křidélka rozmrazil v mikrovlnce, což mu trvalo asi tak 3 minuty. Potom je osolil, opepřil, a aby ti hosté měli větší chuť na pivo, tak je také okořenil cayenským pepřem. Okořeněná křidélka trošku pomoučnil, osmahl je krátce ve fritéze, a dal je asi na 15 minut do horké trouby a upekl je dokřupava. Upečená křidélka dal do košíčku, přidal k nim na kousky krájený řapíkatý celer a dva pikantní dipy a ještě horká je podával. 
 
 S něčím takovým se ti hosté ještě nesetkali, a tak se barmana ptali, co to vlastně je. Odpověděl, že jsou to prachobyčejná kuřecí křidélka z Buffala. Hostům křidélka nesmírně chutnala. Barman zřejmě znal moji techniku tvorby cen, podle které za jídlo počítáte tolik, kolik jsou hosté ochotni zaplatit. A tak jim započítal 90 centů za každé křidélko. 
 
@@ -31,9 +31,9 @@ Kuřecí křidélka ale můžeme upravovat i jinými způsoby, které jsou sice 
 
 2. Konečky, které spojují spodní a horní část křidélek, odkrojte ostrým nožem asi ze 2 mm (mají měkké kostičky). 
 
-3. Dva kousky papírových ubrousků přeložíte na čtyřikrát. Spodní kousky křidélek postavíte silnějším koncem na krájecí desku, čtverečky ubrousků uchopíte mezi prsty, a stáhnete maso a kůži křidélka. Normálně to není nijak obtížné. Je ale možná, že si budete muset trochu pomoci ostrým nožem. 
+3. Dva kousky papírových ubrousků přeložíte na čtyřikrát. Spodní kousky křidélek postavíte silnějším koncem na krájecí desku, čtverečky ubrousků uchopíte mezi prsty, a stáhnete maso a kůži křidélka. Normálně to není nijak obtížné. Je ale možné, že si budete muset trochu pomoci ostrým nožem. 
 
-4. Se střední částí křidélka uděláte totéž. Při odkrojení konce se objeví dvě kostičky. Malým ostrým nožem proříznete šlachu, která obě kostičky spojuje. Pak pokračujete jako u spodní části křidélek. Musíte ale být opatrní. Jedna ta kostička je menší. Právě té musíte věnovat větší pozornost. 
+4. Se střední částí křidélka uděláte totéž. Při odkrojení konce se objeví dvě kostičky. Malým ostrým nožem proříznete šlachu, která obě kostičky spojuje. Pak pokračujete jako u spodní části křidélek. Musíte být ale opatrní. Jedna kostička je menší. Právě té musíte věnovat větší pozornost. 
   ![odkrojení konečků][2]  
 
 6. Když maso a kůži křidélka stlačíte dolů, tak se malá kostička obnaží natolik, že ji budete moci snadno vyjmout tak, že maso zůstane jen kolem té silnější kostičky. 
@@ -61,7 +61,7 @@ Nyní ale, když to tak studenti a absolventi Hostovky budou vyžadovat, tak se 
 
 ## Grilovaná kuřecí křidélka 
 
-Grilovaná kuřecí křidélka jsou oblíbeným doplňkem kterékoliv fiesty, ale pokud máme jen jedno kuře, tak se grilováním křidélek nebudeme vůbec zabývat. Je to totiž taková lahůdka, že člověk nemusí být ani moc hladový k tomu, aby jich snědl 6 i 5. Tudíž pokud máme například společnost deseti lidí, tak jich musíme mít alespoň 50. Naštěstí se dnes dají sehnat samotná křidélka, jinak bychom k tomu museli koupit 25 kuřat. 
+Grilovaná kuřecí křidélka jsou oblíbeným doplňkem kterékoliv fiesty, ale pokud máme jen jedno kuře, tak se grilováním křidélek nebudeme vůbec zabývat. Je to totiž taková lahůdka, že člověk nemusí být ani moc hladový k tomu, aby jich snědl 5 i 6. Tudíž pokud máme například společnost deseti lidí, tak jich musíme mít alespoň 50. Naštěstí se dnes dají sehnat samotná křidélka, jinak bychom k tomu museli koupit 25 kuřat.
 
 Křidélka se jedí rukama, a tak pro usnadnění nařízneme kůžičku křidélka u kloubku, a masíčko s kůží stáhneme trochu dolů, tak jak je to vyobrazeno výše. Křidélka osolíme, opepříme nebo okořeníme paprikou, případně potřeme drceným česnekem, potřeme olejem, a grilujeme je na mírném ohni na otevřeném grilu. 
 
