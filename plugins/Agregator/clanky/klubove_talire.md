@@ -25,7 +25,7 @@ Na klubové talíře se musíte dívat jak z pohledu logiky, tak i z pohledu log
 
 ## Typy materiálu  
 
-Stříbrné talíře, které byly kdysi velice oblíbené, mohou v Americe stát kolem 300 až 400 dolarů za kus. Pokud jsou nějak zdobené nebo dokonce s monogramem, tak jsou ještě draží. Umíte si představit, kolik stojí vybavit například restauraci o takových 150 místech nějakými třeba obyčejnými porcelánovými klubovými talíři? Podle zásad logistiky byste jich museli mít nejméně o 30 % více – tedy kolem 200. 
+Stříbrné talíře, které byly kdysi velice oblíbené, mohou v Americe stát kolem 300 až 400 dolarů za kus. Pokud jsou nějak zdobené nebo dokonce s monogramem, tak jsou ještě dražší. Umíte si představit, kolik stojí vybavit například restauraci o takových 150 místech nějakými třeba obyčejnými porcelánovými klubovými talíři? Podle zásad logistiky byste jich museli mít nejméně o 30 % více – tedy kolem 200. 
 
 Vybavení restaurace o něco elegantnějšími zdobeným porcelánovými klubovými talíři je nezanedbatelná položka, ke které musíte připočíst ztráty opotřebením a rozbitím.  
 
