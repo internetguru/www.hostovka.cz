@@ -5,6 +5,8 @@
 
 # Můj guláš
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="jídla a jídelní lístky"}
 
 Já jsem se sice již zařekl, že žádné kuchařské knihy psát nebudu a že recepty také nikomu nebudu dávat ale vy, jako studenti Hostovky jste výjimka a tak vám něco napíši pro pobavení.

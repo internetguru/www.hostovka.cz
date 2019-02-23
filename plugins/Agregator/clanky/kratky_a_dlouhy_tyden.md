@@ -5,6 +5,8 @@
 
 # Krátký a dlouhý týden
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="případová studie, nejčtenější"}
 
 Hostovka jak název napovídá je v zásadě určena hostům nebo těm kteří se sofistikovanými hosty chtějí stát. Při této snaze se ale nevyhneme nutnosti porozumět tomu jak některé věci v tom našem pohostinství fungují.

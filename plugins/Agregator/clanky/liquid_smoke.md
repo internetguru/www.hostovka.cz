@@ -5,6 +5,8 @@
 
 # Liquid smoke
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="co-kdy-kde"}
 
 Na stránkách www.gastronews.cz se mně někdo zeptal co to je "liquid smoke". Nikdy by mě nenapadlo, že se na něco takového někdy někdo zeptá.

@@ -5,6 +5,8 @@
 
 # Moje denní rutina
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="Životopis"}
 
 Žiji v Carslbadu což je jedno z jedno z nejkrásnějších míst na pobřeží Pacifiku v Jižní Kalifornii. Bydlím ve čtvrti zvané Altamira, což je více méně park, kde je spousta květin, zajímavých palem, stromů a keřů, takže se ta čtvrť dá nazvat botanickou zahradou a proto se tady líbí nejen lidem, ale i všem zvířatům.

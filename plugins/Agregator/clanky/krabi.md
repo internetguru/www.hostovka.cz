@@ -5,6 +5,8 @@
 
 # Krabi
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="jídla a jídelní lístky"}
 
 Lidé někdy naříkají nad svým životem a říkají jaký psí život to mají. No nevím, všichni psi mých známých mají život o kterém se mně nikdy ani nezdálo. A myslím si, že to vůbec nemá co společného s tím, že někteří z nich mají rodokmen a já ne. Prostě si myslím, že na životě psů mých známých, ať mají rodokmen nebo ne, není vůbec nic špatného a že by někteří lidé skutečně měli život lepší než svůj pokud by mohli žít životem miláčků mých přátel.

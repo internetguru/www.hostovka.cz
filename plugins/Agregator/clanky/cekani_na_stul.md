@@ -5,6 +5,8 @@
 
 # Rezervace a čekání na stůl
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="restaurace a servis"}
 
 Rezervace stolů není ve všech restauracích běžná. Restaurace, ve kterých je rezervace nutná, obsazují stoly většinou dvakrát za večer _(anglicky double sitting)_. Proto se musíte rozhodnout, na kdy si stůl rezervovat.

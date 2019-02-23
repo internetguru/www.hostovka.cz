@@ -5,6 +5,8 @@
 
 # Physalis
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="zbožíznalství"}
 
 Physalis se na českých trzích dnes objevuje velice často, ale já se obávám, že jen málo lidí ví co to vlastně je a jak physalis jíst nebo podávat.

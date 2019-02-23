@@ -5,6 +5,8 @@
 
 # Obloha
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="jídla a jídelní lístky, nejčtenější"}
 
 Na téma "obloha" v české kuchyni jsem napsal v odborném tisku více než je zdrávo a přesto že to všechno bylo v dobrém úmyslu tak jsem si vlastně udělal ještě více nepřátel a to hlavně mezi kuchaři a tak jsem to více méně vzdal protože jako více takových snah to nikam nevedlo.

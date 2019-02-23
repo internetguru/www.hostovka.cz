@@ -5,6 +5,8 @@
 
 # Tvorba cen nápojů a jídel
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="jídla a jídelní lístky"}
 
 Jedno ze zásadních poslání Hostovky je naučit studenty Hostovky co jim za jejich peníze patří, a to nejenom v České republice ale i při jejich cestách do zahraničí.

@@ -5,6 +5,8 @@
 
 # Kritika a pochvaly
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="restaurace a servis"}
 
 Jako studenti Hostovky byste měli vědět, že máte morální povinnost poukázat na nedostatky v jídle a servisu protože někdy naši pracovníci, pokud nejsou absolventy některé z těch našich četných hotelových škol, ani nevědí že nějakou chybu dělají.

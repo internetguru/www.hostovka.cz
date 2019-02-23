@@ -5,6 +5,8 @@
 
 # Upoutání pozornosti módními pojmy
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="jídla a jídelní lístky, snob"}
 
 Na jídelních lístcích se k upoutání pozornosti velmi často používají populární, dobře znějící slova _(anglicky buzzwords)_. _Buzzword_ je odvozené od slova bzukot _(anglick buzz)_. Dalo by se tedy přeložit jako slovo, které „bzučí“, aby upoutalo pozornost.

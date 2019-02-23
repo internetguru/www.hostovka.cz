@@ -5,6 +5,8 @@
 
 # Stroganov
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="jídla a jídelní lístky, nejčtenější"}
 
 Já jsem se se Stroganovem prvně setkal v Moskvě asi tak v roce 1954, a od té doby jsem ho jedl jak v Sovětském svazu tak i jinde ve světě nesčíslněkrát.

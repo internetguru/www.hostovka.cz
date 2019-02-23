@@ -5,6 +5,8 @@
 
 # Názvy jídel
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="jídla a jídelní lístky"}
 
 S jídelními lístky souvisí názvy jídel.V zásadě existují dva druhy názvů jídel a to názvy klasické, chcete-li vžité, celosvětově uznávané a respektované, a názvy novodobé tvořené bez jakýchkoliv zásad.

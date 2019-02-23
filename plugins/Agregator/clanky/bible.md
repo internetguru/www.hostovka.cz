@@ -5,6 +5,8 @@
 
 # Bible
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="jídla a jídelní lístky"}
 
 K tomu abyste se stali sofistikovanými hosty vám studium Hostovky stačit nebude.K tomu abyste se stali znalci jídel se sice nemusíte učit vařit, nicméně byste měli do některých dobrých kuchařek nahlédnout. To ale jsem učil i mé studenty na jedné hotelové škole v Americe kde jsem 15 let učil.

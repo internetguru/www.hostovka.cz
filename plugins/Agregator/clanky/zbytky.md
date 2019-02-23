@@ -5,6 +5,8 @@
 
 # Zbytky
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="jídla a jídelní lístky"}
 
 Zbytky, někdy zvané resty, jsou největším bolehlavem každého manažera kuchyně. Zbytky jsou nenahraditelné ztráty. Zbytky mohou být neprodané porce prvotřídních a drahých jídel, které se z nějakého důvodu neprodaly a které tím pádem ztrácí až 50% své hodnoty ovšem v praxi to neznamená, že by na těch zbytcích bylo něco špatného nebo že jsou zdravotně nebezpečné.

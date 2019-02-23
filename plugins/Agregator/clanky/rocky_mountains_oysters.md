@@ -5,6 +5,8 @@
 
 # Rocky mountain oysters
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="jídla a jídelní lístky"}
 
 Když neznáte názvy vašich oblíbených jídel v cizích jazycích tak si v cizině kolikrát ani nemůžete podle vaši chutě objednat přesto, že ta jídla jsou tam známá ale pod jiným jménem.

@@ -5,6 +5,8 @@
 
 # Význam slova banket a banketní
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="gastronomie, banket"}
 
 Banket je jeden z nejvíce (nesprávně) používaných výrazů. Pochází ze slova lavice _(francouzsky la banc)_, na které se při společných večeřích kdysi sedávalo. Banketem dnes označujeme společné stolování při mimořádných, oficiálních nebo slavnostních příležitostech _(anglicky party)_.

@@ -5,6 +5,8 @@
 
 # Mezinárodní kuchařské tituly
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="gastronomie"}
 
 Kuchařské tituly jsou mnohdy odvozeny od takzvaných kuchyňských brigád založených [Augustem Escoffierem][1]. Také mohou mít obecnější význam v závislosti na jednotlivých kuchyňských funkcích nebo technikách.

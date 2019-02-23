@@ -5,6 +5,8 @@
 
 # Psychologie rozmístění buffetových jídel
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="o čem se nemluví"}
 
 Bufetové pulty mohou být obdélníkové, postavené podél stěny s jednosměrným vyhrazeným přístupem, nebo volně stojící v prostoru s jednosměrným přístupem po obou stranách, případně kulaté „ostrůvky“ s přístupem se všech stran.

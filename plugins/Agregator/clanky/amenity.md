@@ -5,6 +5,8 @@
 
 # Doplňky zpříjemňující hostův pobyt
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="ubytování, vybavení, doplňky"}
 
 V cestovním ruchu je doplněk či tzv. _amenita_ (z anglického _amenity_) přírodní nebo lidmi vytvořená vlastnost prostředí, která v lidech zanechá příjemný zážitek a tím činí dané místo přitažlivějším. V osobní letecké dopravě a v ubytovacích provozech jsou to pozornosti zpříjemňující hostův pobyt.

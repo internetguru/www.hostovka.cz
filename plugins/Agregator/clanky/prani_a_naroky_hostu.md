@@ -5,6 +5,8 @@
 
 # Přání a nároky sofistikovaných hostů
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="restaurace a servis"}
 
 Kvalitní jídla a nápoje nejsou to jediné co uspokojí nároky současné klientely. Sofistikovaný host EU očekává také kvalitní služby a servis.

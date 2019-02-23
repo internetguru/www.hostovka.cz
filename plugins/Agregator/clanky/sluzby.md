@@ -5,6 +5,8 @@
 
 # Služby
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="restaurace a servis"}
 
 Dnes je již dokázáno, že ani všichni profesionální hodnotitelé nebo auditoři tak renomované organizace jako je MICHELIN GUIDE nevědí co dělají.

@@ -5,6 +5,8 @@
 
 # Co je správné a co ne
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="etika"}
 
 Kolem roku 1958, Hotelový a cateringový institut Velké Británie se rozhodl stanovit jednou provždy zásady toho co je správné a co ne v gastronomickém světě. Dvanáct vysoce kvalifikovaných kuchařů bylo jmenováno do komise která měla vypracovat jakýsi Kuchařský Kodex.

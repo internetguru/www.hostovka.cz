@@ -5,6 +5,8 @@
 
 # Alois Krofta
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="kdo-kdy-kde"}
 
 Když pražský architekt Alois Krofta ve třicátých letech otevíral hotel Alcron (zkratka jeho jména), tak si jako šéfkuchaře s mezinárodní zkušeností přivezl Floriána Zimmermanna až z Nového Yorku.

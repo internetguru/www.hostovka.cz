@@ -5,6 +5,8 @@
 
 # Kdo je lepším znalcem pohostinství
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="gastronomie"}
 
 Učil jsem 15 let na hotelové škole v Chicagu, a v té době jsem mým studentům často kladl otázku: "Kdo je lepším znalcem pohostinství, kuchař který posledních 10 let pracuje v jednom a tom samém podniku, šest, někdy i sedm dnů v týdnu, nebo obchodní cestující který poslední 3 roky cestuje po světě, spí každý den v jiném hotelu a jí každý den v jiné, někdy dobré a jindy špatné restauraci?"

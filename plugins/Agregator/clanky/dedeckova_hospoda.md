@@ -5,6 +5,8 @@
 
 # Dědečkova hospoda
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="případová studie"}
 
 Můj dědeček, který měl za prvé republiky hospodu na vesnici, nevěděl nic o marketingu a o kalkulaci cen. Ceny dělal takové, aby jeho hosté si je mohli dovolit, a snažil se jim dát co jim patřilo. Dědeček neměl sice hotelovku, ale měl zdravý selský rozum a tak si myslím, že tu hospodu vedl dobře.

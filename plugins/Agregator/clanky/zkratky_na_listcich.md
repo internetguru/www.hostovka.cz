@@ -5,6 +5,8 @@
 
 # Zkratky na jídelních lístcích
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="jídla a jídelní lístky"}
 
 Učit české restauratéry jak psát jídelní lístky jsem po několikaletém úsilí více méně vzdal. Založením Hostovky ale považuji za jakousi morální povinnost naučit mé studenty jak české jídelní lístky číst což je někdy jisté umění.

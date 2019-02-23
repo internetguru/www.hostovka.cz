@@ -5,6 +5,8 @@
 
 # Americká kuchyně
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="gastronomie"}
 
 Americká kuchyně, když to řeknu zjednodušeně, je kukuřice, krocani a apple páj, ale když chcete vědět co Američané jedí dnes, tak k seznamu všech steaků s pečenými bramborami si připište seznam jídel všech etnických kuchyní které na světě existují, a to jsou jídla, která ve vylepšené formě připravená z prvotřídních amerických surovin, Američané jedí dnes.

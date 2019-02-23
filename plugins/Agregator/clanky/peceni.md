@@ -5,6 +5,8 @@
 
 # Pečení
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="kuchyňské techniky"}
 
 Pečení je prodloužená tepelná úprava potravin suchým teplem v uzavřeném prostoru zpravidla vyzařováním, prouděním nebo kondukcí tepla. Angličtina používá výraz baking pro pečení chleba nebo jiných moučných výrobků a roasting pro pečení masa, drůbeže a podobně. Běžní hosté v tom nedělají velkých rozdílů a bohužel ani někteří kuchaři, ale jako studenti Hostovky bychom ty rozdíly měli znát.

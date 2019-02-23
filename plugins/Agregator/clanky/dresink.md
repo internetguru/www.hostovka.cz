@@ -5,6 +5,8 @@
 
 # Rozdíl a příprava zálivky a dresinku
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="jídla a jídelní lístky"}
 
 V encyklopedickém slovníku gastronomie od Jiřího Černého, je dresink popsán jako zálivka, zpravidla studená, používaná k ochucení zeleninových ovocných nebo kombinovaných salátů. Jako studentům Hostovky by vám ale tato definice stačit neměla.

@@ -5,6 +5,8 @@
 
 # Gastronomické skupiny na českých lístcích
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="jídla a jídelní lístky"}
 
 O názvech jídel jsme si v této sekci již něco řekli, ale o čem by studenti Hostovky něco měli vědět jsou gastronomické skupiny. Nemám ale na mysli gastronomické skupiny do kterých se jídla dělí tak aby v nich byl nějaký přehled, mám na mysli gastronomické skupiny se kterými se setkávají hosté na jídelních lístcích.

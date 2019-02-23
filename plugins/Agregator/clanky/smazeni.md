@@ -5,6 +5,8 @@
 
 # Smažení
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="kuchyňské techniky"}
 
 Jedna z důležitých kuchyňských technik je smažení, které spadá mezi techniky přípravy jídel na tuku nebo v tuku. Tato technika je popsána v milionu kuchařských knih a vyučuje se na všech odborných školách a proto vám ji tady popisovat nebudu, ale pokud se týká jídelních lístků, tak na těch je hodně o tom smažení zanedbáno.
