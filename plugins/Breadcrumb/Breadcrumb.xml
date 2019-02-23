@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Breadcrumb>
-  <var id="logo">/files/header.png</var>
+  <var id="logo">/files/wine-glass-alt-solid.png</var>
+<!--   <var id="homeTitle">Na domovskou stránku</var> -->
 </Breadcrumb>
