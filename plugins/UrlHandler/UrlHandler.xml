@@ -16,6 +16,10 @@
   <redir link="dresink">zalivka_dresink</redir>
   <redir link="fusion_cuisine">spojena_kuchyne</redir>
   <redir link="hotovky">hotovky_a_minutky</redir>
+  
+  <redir parName="s" parValueMatch="stitky/([^/]+)">/?usp=navig&amp;stitek=$1#clanky</redir>
+  <redir parName='s' parValueMatch='clanky/([^/]+)'>$1?usp=navig</redir>
+  <redir parName='s' parValueMatch='(.*)'>https://www.google.com/search?sitesearch=www.hostovka.cz.cz&amp;q=$1</redir>
 
 <!-- [redir] generated content, do not edit -->
 <redir parName='s' parValue='stitky/jidla_a_jidelni_listky'>/?usp=navig&amp;clanky=jidla_a_jidelni_listky#clanky</redir>
