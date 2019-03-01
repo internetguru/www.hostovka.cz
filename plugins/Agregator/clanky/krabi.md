@@ -6,7 +6,7 @@
 
 {kw="jídla a jídelní lístky, recepty, krabi"} 
 
-Každý krab pochází z relativně velké rodiny. Krabí samice, která byla oplodněna krabím samcem v době, kdy byla nahá bez krunýře, po nějaké době snese několik miliónů vajíček. Tyto vajíčka vytvoří oranžovou hmotu, která je přichycena ke spodnímu krunýři samice po dobu asi patnácti dnů. Po té době se každé vajíčko stane volně plovoucí _lahůdkou_.
+Každý krab pochází z relativně velké rodiny. Krabí samice, která byla oplodněna krabím samcem (v době, kdy byla nahá bez krunýře), po nějaké době snese několik miliónů vajíček. Tato vajíčka vytvoří oranžovou hmotu, která je přichycena ke spodnímu krunýři samice po dobu asi patnácti dnů. Poté době se každé vajíčko stane volně plovoucí „lahůdkou“.
 
 Po čase se vylíhne zárodek kraba, ze kterého se stane asi za měsíc po vylíhnutí malý krab. Ten se usadí na dně moře a začíná přibírat na váze. Jakmile přibere natolik, že se mu krunýř stane těsným, tak ho musí shodit a čekat, až mu spodní kůže ztvrdne. To trvá několik hodin, během kterých je opět velice bezmocný, takže ho v té době sežere třeba i vlastní bratr. 
 
