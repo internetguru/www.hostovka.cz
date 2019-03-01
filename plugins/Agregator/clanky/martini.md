@@ -9,9 +9,9 @@
 
 Pravděpodobně žádný jiný koktejl není tak známý jako Martini. Dejte se na baru do řeči s kterýmkoliv hostem a zmiňte se o Martini a v tom okamžiku dostanete další z milionů receptů, za který jsou jeho vyznavači ochotni bojovat. 
 
-Tomu navíc moc nepřidají ty bary, které na svém koktejlovém lístku uvádí tucet nebo i více Martini koktejlů, které vám je schopen jejich barman namíchat. Se všemi koktejly jako je Cosmopolitan, Lemon Drop a Manhattan, které jsou kategorizovány jako druh Martini, se nedivím, že pro mnohé návštěvníky baru je snadnější si objednat prostě pivo. 
+Tomu navíc moc nepřidají ty bary, které na svém koktejlovém lístku uvádí tucet nebo i více Martini koktejlů, které vám je schopen jejich barman namíchat. Se všemi koktejly jako je Cosmopolitan, Lemon Drop a Manhattan (které jsou kategorizovány jako druh Martini) se nedivím, že pro mnohé návštěvníky baru je snadnější si objednat prostě pivo. 
 
-Když se podíváte na původ Martini koktejlů, tak vidíte, že trpěli jistou schizofrenií po celou délku své existence. Jejich recepty byly v neustálém pohybu stejně tak jako jejich názvy. 
+Když se podíváte na původ Martini koktejlů, tak uvidíte, že trpěly jistou schizofrenií po celou délku své existence. Jejich recepty byly v neustálém pohybu stejně tak jako jejich názvy. 
 
 {id="puvod_martini"} 
 
@@ -21,13 +21,13 @@ Málokdo by chtěl popírat, že Martini vzniklo z jednoho starého koktejlu zva
 
 V těchto dnech běžné ingredience pro Martinez byl Old Tom Gin, Sladký Vermouth, jeden nebo dva střiky Maraschia anebo Curaçao, a střik Orange Bitters. Poměry ginu a vermutu neuvádím, protože ty se velice lišily. Většinou to ale byly stejné díly nebo spíše více vermutu než ginu. 
 
-Možná že si v moderních historických popisech Martini povšimnete, že Martinez používal francouzský (nebo suchý) vermut a angosturu bitters. To proto, že starší recepty uváděly jen „vermut“ a „bitters“ jako ingredience, které v těch dnech byly chápány jako „suchý vermut“ a „Angostura Bitters“, což nebylo vždy pravidlem. 
+Možná si v moderních historických popisech Martini povšimnete, že Martinez používal francouzský (nebo suchý) vermut a angosturu bitters. To proto, že starší recepty uváděly jen „vermut“ a „bitters“ jako ingredience, které v těch dnech byly chápány jako „suchý vermut“ a „Angostura Bitters“, což nebylo vždy pravidlem. 
 
 V 1880 byl sladký vermut do koktejlů používán daleko častěji a Angostura byla jen jedna z dalšího tuctu jiných ingrediencí které byly používány. Ve starších barmanských knihách, které specifikovaly druh vermutu používaného do Martinez, to byl vždy sladký vermut a Bitters byl velmi často (ale ne vždy) pomerančový. 
 
 {class="example"} 
 
-Pokud porovnáte někdejší starý Martinez s dnešním Martini, tak si povšimnete, že tyto dva koktejly jsou od sebe na míle vzdáleny. To ale tak vždy nebylo. Těsně před rokem 1990 bylo vydáno několik barmanských knížek, které uváděly recepty pro běžný Martinez, ale pojmenovávaly je Martini, zatímco jiné knihy je uváděly jako Martinez. V poznámce ale uváděly, že mohou být nazývány Martini (nebo opačně). Kdy přesně tyto rozdílné názvy byly používány není známo, což vlastně přidalo na celé záhadě. 
+Pokud porovnáte někdejší starý Martinez s dnešním Martini, tak zjistíte, že tyto dva koktejly jsou od sebe na míle vzdáleny. To ale tak vždy nebylo. Těsně před rokem 1990 bylo vydáno několik barmanských knížek, které uváděly recepty pro běžný Martinez, ale pojmenovávaly je Martini, zatímco jiné knihy je uváděly jako Martinez. V poznámce ale uváděly, že mohou být nazývány Martini (nebo opačně). Kdy přesně tyto rozdílné názvy byly používány není známo, což vlastně přidalo na celé záhadě.
 
 ## Suché Martini 
 
@@ -35,7 +35,7 @@ Začátkem devadesátých let se začaly objevovat recepty na Martini, které se
 
 {class="example"} 
 
-Harry Cradock ve své knize _The Savoy Cocktail Book_, uvádí dva rozdílné recepty pro suché Maritni. Nejprve uvádí suché Martini, ve kterém je recept se tejnými díly ginu a suchého vermutu se střikem Orange Bitters. Následně pak ve stejné knize uvádí suchý Martini koktejl, kde je jeden díl suchého vermutu v poměru ku dvou dílům ginu bez Orange Bitters. Skutečnost, že v této knize se setkáme se dvěma rozdílnými recepty pod názvem Dry Martini jen ilustruje již tehdejší nesrovnalosti ve způsobu přípravy tohoto legendárního koktejlu. 
+Harry Cradock ve své knize _The Savoy Cocktail Book_, uvádí dva rozdílné recepty pro suché Maritni. Nejprve uvádí suché Martini, ve kterém je recept se stejnými díly ginu a suchého vermutu se střikem Orange Bitters. Následně pak ve stejné knize uvádí suchý Martini koktejl, kde je jeden díl suchého vermutu v poměru ku dvou dílům ginu bez Orange Bitters. Skutečnost, že v této knize se setkáme se dvěma rozdílnými recepty pod názvem Dry Martini jen ilustruje již tehdejší nesrovnalosti ve způsobu přípravy tohoto legendárního koktejlu. 
 
 Důležité je si uvědomit, že původní Suché Martini dostalo své jméno podle toho, že obsahovalo suchý vermut místo sladkého. To byl (a stále ještě je) popis koktejlů, které obsahují vermut ať již jako hlavní nebo vedlejší ingredienci. Nejběžnější koktejl, který se dnes drží této zásady je Manhattan. Manhattan se připravuje se sladkým vermutem. Suchý Manhattan používá suchý vermut, a _Perfekt Manhattan_ používá jeden díl suchého a jeden díl sladkého vermutu. Tytéž jmenovatelé ve stejných poměrech se používají i pro Marini koktejly. A pak přišla prohibice. 
 
