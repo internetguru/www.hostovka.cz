@@ -4,15 +4,15 @@
 
 {id="koktejly" ctime="2005-11-12" author="Michael Klíma" short="Koktejly" mtime="2019-02-19"} 
 
-# Zkušenosti s koktejly a barmanstvím 
+# Koktejly a barmanství 
 
 {kw="nápoje, koktejly, zkušensti"} 
 
-Občas jsem se díval na barmana Karla Kroupu, zvaného Charlie, o kterém jsem si ve svých 14 letech myslel, že je největším barmanem na světě. Pozoroval jsem ho, když mixoval koktejly a snil jsem o tom, že jednoho dne budu také takovým slavným barmanem jako je on. Musím vám ale říci, že mi tento sen se nikdy nesplnil.  
+Občas jsem se díval na barmana Karla Kroupu zvaného Charlie, o kterém jsem si ve svých 14 letech myslel, že je největším barmanem na světě. Pozoroval jsem ho, když mixoval koktejly, a snil jsem o tom, že jednoho dne budu také takovým slavným barmanem jako je on. Tento sen se mi však nikdy nesplnil.
 
 ## Zkušenosti z pohledu hosta 
 
-Pohostinství se ale stalo mým koníčkem, a když jsem trochu povyrostl, tak jsem za účelem lepšího porozumění barmanství začal vymetat všechny pražské noční lokály – od těch luxusních až po pajzly. Moje odbornost díky tomu nepředstavitelně vzrostla, a to hlavě z toho důvodu, že jsem se na barmanství naučil dívat spíše z pohledu hosta než z pohledu barmana. 
+Pohostinství se ale stalo mým koníčkem. Když jsem trochu povyrostl, tak jsem za účelem lepšího porozumění barmanství začal vymetat všechny pražské noční lokály – od pajzlů až po ty luxusní. Moje odbornost díky tomu nepředstavitelně vzrostla, a to hlavě z toho důvodu, že jsem se na barmanství naučil dívat spíše z pohledu hosta než z pohledu barmana. 
 
 Poznal jsem celou řadu barmanů v Est baru, Barberině, Boccaciu, u 5-P, Sekt pavilonu, v Baroku, Rokoku a nevím, jak se všechny ty noční zapadáky jmenovaly a mohu vám říci, že jsem přišel na to, že všichni barmani byli většinou stejně dobří jako byl Charlie. 
 
@@ -26,17 +26,17 @@ Po návratu do Česka jsem si pak později koupil moji druhou barmanskou knížk
 
 Později jsem na hotelové škole v Mariánských lázních absolvoval další barmanský kurz a dalo by se tudíž předpokládat, že jsem byl dostatečně odborně vzdělaný. Musím se ale přiznat, že mimo občasného fušování do této profese jsem barmana nikdy nedělal. 
 
-Víte, s barmanstvím je to totiž tak, že to musíte dělat nepřetržitě, a to bez ohledu na to, jestli je to v Praze, v Brně nebo v Pekingu. Barmanství má své zásady a nepsané zákony, které jsou v každém baru trochu jiné a sice podle klientely. 
+Víte, s barmanstvím je to totiž tak, že to musíte dělat nepřetržitě, a to bez ohledu na to, jestli je to v Praze, v Brně nebo v Pekingu. Barmanství má své zásady a nepsané zákony, které jsou v každém baru trochu jiné – a sice podle klientely. 
 
 ## Praxe
 
 Byl jsem kdysi majitelem české hospody v Ciceru, což je česká čtvrť na předměstí Chicaga. Tam mi mé chabé barmanské vědomosti přišly vhod, když mi jednoho dne nepřišel do práce barman. 
 
-Moje klientela byla zvyklá na své oblíbené drinky, které dobře znali (protože nic jiného nepili), a tak prostě nic nebylo dost dobré. Nebýt toho, že naše jídlo nemělo chybu, tak by k nám mnozí bývali již nikdy ani nepáchli. Prostě každá věc chce své a podle mého kréda musíte hostům dát to, co jim patří. 
+Moje klientela byla zvyklá na své oblíbené drinky. Hosté naše drinky dobře znali (protože nic jiného nepili), a tak pro ně nic nebylo dost dobré. Nebýt toho, že naše jídlo nemělo chybu, tak by k nám mnozí bývali již nikdy ani nepáchli. Prostě každá věc chce své a podle mého kréda musíte hostům dát to, co jim patří.
 
-Někdy v padesátých letech jsem zaslechl, že v Zürichu na letišti, jsou díky mezinárodní klientele schopni připravit jakýkoliv drink který existuje. Měl jsem v té době příležitost se do toho baru podívat, a tak jsem konečně rozluštil celé to tajemství.
+Někdy v padesátých letech jsem zaslechl, že v Zürichu na letišti, jsou díky mezinárodní klientele schopni připravit jakýkoliv drink, který existuje. Měl jsem v té době příležitost se do toho baru podívat, a tak jsem konečně rozluštil celé to tajemství. 
 
-Ano, pokud přiletěl host třeba i z Tokia, Číny nebo z Ameriky a požadoval jakýkoliv drink, tak musel barmanům říci jen název drinku a případně hlavní ingredienci. Tehdy počítače ještě nebyly, a tak pokud drink barmani neznali, šáhli pod pult, kde měli lexikony všech drinků, které byly kdy publikovány. Když recept našli, tak ho hostu udělali. Jestliže ale požadovaný drink nikdy publikován nebyl, tak měl host prostě smůlu.
+Ano, pokud přiletěl host třeba i z Tokia, Číny nebo z Ameriky a požadoval jakýkoliv drink, tak musel barmanům říci jen název drinku a případně hlavní ingredienci. Tehdy počítače ještě nebyly, a tak pokud drink barmani neznali, šáhli pod pult, kde měli lexikony všech drinků, které byly kdy publikovány. Když recept našli, tak ho zákazníkovi namíchali. Jestliže ale požadovaný drink nikdy publikován nebyl, tak měl host prostě smůlu.
 
 No, a jsme opět u klientely. Kdysi byli barmani staří ostřílení bojovníci a většinou viděli svým hostům nejenom do kapsy, ale i do žaludku. Při objednávce kteréhokoli drinku věděli, jestli host jen blafuje nebo se jedná o hosta který drinkům skutečně rozumí. 
 
@@ -44,6 +44,6 @@ No, a jsme opět u klientely. Kdysi byli barmani staří ostřílení bojovníci
 
 Dnes, až na výjimky, dělá barmanství kdekdo a o lihovinách, koktejlech a jiných drincích nemusí vědět vůbec nic. Stačí jen, když je dobrý žonglér nebo komediant (taky umění). V Americe jsou například mnozí barmani policajti, kteří pracují „na vedlejšák“ v době svého volna. Barmanstvím se také čím dále tím více zabývají ženy a zde je to něco podobného. 
 
-Já proti barmankám nic nemám, ba naopak, ale mnohé z nich toho o barmanství moc nevědí. Proto to dohánějí svým dekoltem a ve světě jsou bary, kde jsou dokonce barmanky „nahoře bez“. Některé toho o barmanství vědí tak málo, že by podle mě za barem mohly být i nahaté a stejně by jim to nepomohlo. 
+Já proti barmankám nic nemám, ba naopak, ale mnohé z nich toho o barmanství moc nevědí. Proto to dohánějí svým dekoltem. Ve světě jsou bary, kde jsou dokonce barmanky „nahoře bez“. Některé toho o barmanství vědí tak málo, že by podle mě za barem mohly být i nahaté a stejně by jim to nepomohlo. 
 
-Nemám nic proti mladým lidem, protože i já jsem byl kdysi mladý, a navíc téměř celý život pracuji s mladými lidmi, ale přesto si myslím, že nějaká zralost je k barmanství potřeba. Prostě si myslím, že to s mladými barmany a someliéry trochu přeháníme. Nemám nic proti ambiciózním mladým lidem, ale obávám se, že některým našim mladým barmanům odměny, ceny a medaile stouply až moc do hlavy.
+Nemám nic proti mladým lidem, protože i já jsem byl kdysi mladý, a navíc téměř celý život pracuji s mladými lidmi. Přesto se ale domnívám, že nějaká zralost je k barmanství potřeba. Prostě si myslím, že to s mladými barmany a someliéry trochu přeháníme. Nemám nic proti ambiciózním mladým lidem, ale obávám se, že některým našim mladým barmanům odměny, ceny a medaile stouply až moc do hlavy. 
