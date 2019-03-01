@@ -2,7 +2,7 @@
 
 {id="kucharske\_umeni" ctime="2005-12-23" author="Michael Klíma" short="Kuchařské umění" mtime="2019-02-19"} 
 
-# Kuchařské umění
+# Pomíjivost kuchařského umění
 
 {kw="gastronomie"} 
 
