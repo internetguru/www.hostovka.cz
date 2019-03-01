@@ -1,99 +1,103 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=126.html" data-og-image="files/preview/clanky/stroganov/preview.jpg" data-og-type="article"}
 
-{id="stroganov" ctime="2005-12-21" author="Michael Klíma" authorid="hostovka/michael_klima"}
+{id="stroganov" ctime="2005-12-21" author="Michael Klíma" mtime="2019-02-27"}
 
 # Stroganov
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
-
 {kw="jídla a jídelní lístky, nejčtenější"}
 
-Já jsem se se Stroganovem prvně setkal v Moskvě asi tak v roce 1954, a od té doby jsem ho jedl jak v Sovětském svazu tak i jinde ve světě nesčíslněkrát.
+Se Stroganovem jsem se poprvé setkal v Moskvě kolem roku 1954. Od té doby jsem ho jedl jak v Sovětském svazu tak i jinde ve světě. Stroganov byl vynalezen dvorním kuchařem carského dvora Sergejem Stroganovem za vlády ruské carevny Kateřiny Veliké.
 
-Věděl jsem z čeho a jak se Stroganov dělá, ale dlouho jsem nevěděl že Stroganov byl vynalezen Sergejem Stroganovem, dvorním kuchařem na carském dvoře za vlády ruské carevny Kateřiny Veliké která byla dcerou pruského vévody z Anhold-Zervst, narozená v 1729.
+Byla to právě ona, která pobízela ruské kuchaře jako byl Stroganov k tomu, aby se jednak naučili francouzskému kuchařskému umění, ale aby také vytvářeli ruská jídla.
 
-Byla to právě ona která pobízela ruské kuchaře jako byl Stroganov k tomu, aby se jednak naučili francouzskému kuchařskému umění, ale také aby vytvářeli ruská jídla.
+{class="example"}
 
-Původní recept na hovězí maso podle Stroganova nepoužíval žampiony a rajčatový protlak už vůbec ne, tak jak je tomu v některých případech dnes, ale také nepoužíval vařenou mrkev tak jako v restauraci Novoměstský pivovar v Praze.
+Původní recept na hovězí maso podle Stroganova nepoužíval žampiony ani rajčatový protlak. Nepoužíval ani vařenou mrkev, tak jako v restauraci Novoměstský pivovar v Praze.
 
-Stroganov je pod názvem Beef Stroganov, Stroganoff, nebo Bifstroganof, rusky Строганов populární po celém světě, ale ne všude se připravuje ze svíčkové a ne všude se připravuje na objednávku.
+## Varianty Stroganovu
 
-V Americe se kupříkladu připravuje i jako hotové jídlo a dokonce i v závodních a školních jídelnách, a to z hovězího zadního, které je ale v Americe tak kvalitní, že svíčková ani není potřeba.
+Stroganov je pod názvem _Beef Stroganov_, _Stroganoff_, _Bifstroganof_ nebo rusky _Строганов_ populární po celém světě. Ne všude se však připravuje ze svíčkové a na objednávku.
 
-Popularita tohoto jídla dostoupila v Americe takového stupně že se připravují dokonce Meatballs à la Stroganoff, což jsou ve skutečnosti masové kuličky v krémové omáčce která je známá pod názvem Stroganoff sauce.
+V Americe se Stroganov kupříkladu připravuje i jako hotové jídlo. Dokonce se připravuje i v závodních a školních jídelnách. K přípravě se často používá zadní hovězí, které je v Americe tak kvalitní, že nahradí svíčkovou. Popularita Stroganovu v Americe dospěla do takového stupně, že už se dokonce vaří i jako masové kuličky v krémové omáčce (anglicky _Stroganoff sauce_).
 
-V Americe se všechny tyto formy Stroganovů podávají s nudlemi nebo s rýží, ale pravý ruský Stroganov se podává s hranolkami, zvanými "French fried potatoes".
+{class="important"}
 
-Já vím, že tomu nevěříte a tak vám k tomu jako obyčejně musím napsat případovou studii...
+V Americe se všechny formy Stroganovů podávají s nudlemi nebo s rýží, ale pravý ruský Stroganov se podává s hranolkami, zvanými _french fried potatoes_.
 
-Asi tak v r. 1976 jsem pracoval jako Executive Chef v Evanstonu na severu Chicaga v hotelu Sheraton, kde se každoročně na jaře pořádal mezinárodní hudební festival.
+## Recept na Stroganov na 100 porcí
 
-Jednoho dne mi volali z kanceláře že prý mají v hotelu skupinu asi 11 ruských hudebníků, a ti že by si přáli, abych jim uvařil nějaké typické ruské jídlo.
+Přikládám vám vlastní recept na Stroganoff a způsob, kterým ho můžete během 30 až 35 minut udělat jakékoliv množství. Recept jsem úmyslně napsal na 100 porcí, ale neměl by být problém ho přepočíst na 800 nebo i více porcí.
 
-Osvobození Československa vojsky USA, rozuměj (Udatnou Sovětskou Armádou) v r. 68, bylo u mě ještě v živé paměti, a tak jsem jim řekl, že pro Ruské SOB nic nevařím a praštil jsem telefonem.
+### Ingredience
 
-Volali mi ještě asi třikrát, ale scéna se pokaždé opakovala. Nakonec mi ale volal sám ředitel, s tím, že se jedná o velice populárního ruského čelistu Mstislava Rostropoviče, který byl zrovna jmenován dirigentem washingtonské filharmonie a že jemu by moc záleželo na tom, abych jim vyhověl.
+Uvedené váhy ingrediencí jsou v tomto případě (obzvláště pro použití v českých podmínkách) přibližné a slouží hlavně pro kalkulaci ceny.
 
-Řekl jsem řediteli, že to měl říci hned o koho se jedná, protože pro Rostropoviče, který v době druhého "osvobození" Československa byl v zahraničí, a který na protest se do Sovětského svazu nevrátil, a tudíž, že pro Rostropoviče udělám na co si vzpomene.
+: 15 kg hovězí špičky nebo ořechu krájené na nudličky (_julienne_)
+: 80 g soli
+: 10 g mletého bílého pepře
+: 1,5 šálku oleje
+: 1,5 kg drobně krájené cibule
+: 4 l kyselé smetany
+: 2 l mléka
+: 2 kg hladné mouky
+: 0,5 šálku hořčice
+: 1 lžíce mletého kmínu
+: 0,5 lžíce worcestrové omáčky
+: 1 kg nakládaných okurek nakrájených na nudličky
+: 2 kg na plátky krájených čerstvých žampionů
+: 0,5 lžíce strouhané citrónové kůry
+: 0,5 šálku citrónové šťávy
 
-Mistr Rostropovič když mu řekli, že jsem Čech, řekl, že to nechá na mně a abych mu po koncertu připravil něco podle sebe.
+{class="example"}
 
-Měl jsem v hlavě ještě několik receptů z mé Ruské kuchařky kterou jsem napsal v roce 1968 krátce před odchodem do Ameriky (která nakonec pod mým jménem ani nevyšla) a tak jsem si řekl, že ho možná nějakým ruským jídlem uctím.
+Například americké maso z ořechu nebo ze špičky bývá dost prorostlé tukem (_marbled_) a uzrálé (_aged_), čímž je to maso chutnější a křehčí. Proto potom bývá množství tuku potřebné k jeho orestování minimální.
 
-Připravil jsem pro něj po koncertu nějaký typický ruský předkrm který si již ani nepamatuji, ale i ukrajinský boršč, a Beef Stroganoff.
+Také velikost porcí masa je v Americe jiná. U dušených mas se pohybuje od 100 až 150 g na porci, ale záleží, zda se jedná o oběd nebo večeři. Váha okurek je závislá na tom, jak šťavnaté a kyselé okurky jsou, apod. Prostě zkušenost, praxe a místní zvyklosti hrají velkou roli.
 
-Ten boršč, jak mistr Rosropovič údajně prohlásil byl "Out of this world".
+### Postup
 
-Jinak i při večeři všechno probíhalo v pořádku až do okamžiku když jsem vydával ten Stroganoff s hranolkami.
+Použité technice se říká [vaření z polotovarů][1] (anglicky _assembly cooking_).
 
-Číšník který skupinu Rostropoviče obsluhoval totiž odmítal ten Stroganoff s těmi hranolkami podávat a domáhal se nudlí nebo rýže, tak jak je to v Americe zvykem.
+1. Napřed si uděláme takzvaný kvásek (anglicky _whitewash_), kterým později zahustíme omáčku.
 
-Já jsem vám ale asi ještě neřekl, že Executive Chef v Americkém hotelu je hned po pánu Bohu ten nejvyšší pán, a tak milému číšníku nezbylo než to podávat tak jek jsem mu to dal, neboli s hranolkami.
+   1. V kotlíku smícháme tři čtvrtiny dávky kyselé smetany s moukou. To zabrání, aby se omáčka srazila.
+   
+   2. Přimícháme hořčici, mletý kmín a popřípadě trošku worcestrové omáčky.
+   
+   3. Kvásek rozředíme trochou mléka a dáme stranou.
 
-Jakmile ale mistr Rostropovič ten Stroganov dojedl, si mně nechal zavolat, a začal mně objímat jako žádný jiný host nikdy před tím, a přitom mi řekl, že procestoval téměř celý svět, ale že nikde, včetně Sovětského svazu, neochutnal tak dobrý Stroganov, a že nikde mimo Sovětského svazu mu ho nepodali tak jak to má být a sice s hranolkami.
+2. Nakrájené maso, osolíme, opepříme a orestujeme na pomaštěném gridlu nebo ve velké sklopné pánvi a dáme na teplo.
+   
+   Ve velké kuchyni můžeme maso dát v tenkých vrstvách na plechy (anglicky _sheet pans_) o opéct ho dozlatova v konvektomatu nebo v horké troubě. {class="example"}
 
-Mistr Rostropovič byl tak nadšený že mně pozval ku stolu na "stakančik" jeho osobní Rostropovič vodky, a po několika sto gramech, mně požádal, abych mu říkal Slavo, což bylo jméno kterým ho nazývala jen jeho manželka a jen jeho nejbližší přátelé. No, a on mi začal říkat Míšo takže z toho vznikla pravá ruská družba.
+3. Mezitím ve sklopné pánvi zpěníme cibuli. Dříve než začne cibule pouštět šťávu, tak přidáme orestované maso a vše na prudkém ohni dobře promícháme.
 
-Od té doby jsem na toto přátelství velice pyšný a ještě pyšnější jsem na kompliment na ten můj Stroganoff který mi Slava vyslovil.
+4. Dříve než maso začne pouštět šťávu a ztrácet na váze, přimícháme kvásek a vše přivedeme do varu.
 
-Jak jsem se již zmínil, tak Stroganov by se měl dělat à la minut a v tom případě by se mohl dělat ze svíčkové. Svíčková v Americe není tak drahá jako všude jinde na světě, ale také se tam všechno dělá ve velkém a proto se ten Stroganov dělá z hovězího ořechu nebo ze špičky, což ale na objednávku dělat nelze.
+5. Přidáme tři čtvrtiny dávky okurek i s jejich šťávou, nakrájené žampiony a při občasném míchání dusíme na mírném ohni asi 20 minut (podle kvality masa).
 
-Jak víte, tak recepty na těchto stránkách nikomu nedávám, protože jsem s psaním kuchařských knížek skoncoval, nehledě k tomu, že na českém trhu je kuchařských knížek jako nikde jinde na světě, ale občas udělám výjimku.
+6. Nakonec pokrm ochutíme citrónovou šťávou.
 
-Přikládám vám tudíž můj americký Stroganoff a způsob kterým ho můžete během 30 až 35 minut udělat jakékoliv množství. Přiložený recept jsem úmyslně napsal na 100 porcí ale neměl by být problém ho přepočíst na 800 nebo i více porcí.
+7. Před podáváním každou porci ozdobíme lžící husté kyselé smetany a posypeme přiměřeným množstvím na nudličky krájených okurek.
 
-{id="na\_sto\_porci"}
+## Jak jsem v Americe vařil Stroganov pro Rostropoviče
 
-## Na sto porcí
+V roce 1976 jsem pracoval jako [výkonný šéfkuchař][2] v Evanstonu na severu Chicaga v hotelu Sheraton, kde se každoročně na jaře pořádal mezinárodní hudební festival. Jednoho dne mi volali z kanceláře, že prý mají v hotelu skupinu asi 11 ruských hudebníků, a že chtějí uvařit nějaké typické ruské jídlo.
 
-15 kg hovězí špičky nebo ořechu krájené na nudličky (Julienne); 80 gramů soli; 10 gramů mletého bílého pepře; 1 ½ šálku oleje; 1 ½ kg drobně krájené cibule; 4 litry kyselé smetany, 2 litry mléka 2 kg hladné mouky; ½ šálku hořčice; 1 lžíce mletého kmínu; ½ lžíce Worcesterové omáčky; 1 kg nakládaných okurek krájených na nudličky; 2 kg na plátky krájených čerstvých žampionů; ½ lžíce strouhané citrónové kůry; ½ šálku citrónové šťávy.
+Osvobození Československa vojsky USA, rozuměj _Udatnou Sovětskou Armádou_, v roce 1968, bylo u mě ještě v živé paměti. Tak jsem jim řekl, že pro rusy nic nevařím a praštil jsem telefonem. Volali mi ještě asi třikrát, ale scéna se pokaždé opakovala. Nakonec mi volal sám ředitel, s tím, že se jedná o velice populárního ruského čelistu Mstislava Rostropoviče.
 
-Uvedené váhy v tomto případě, obzvláště pro použití v českých podmínkách, jsou více méně přibližné a slouží hlavně pro připadnou kalkulaci FC.
+Řekl jsem řediteli, že měl říci hned o koho se jedná. Rostropovič, byl v době druhého „osvobození“ Československa v zahraničí, a na protest se do Sovětského svazu už nevrátil. Tudíž jsem řekl, že pro Rostropoviče udělám na co si vzpomene.
 
-Například americké maso z ořechu nebo ze špičky je v zásadě dosti prorostlé tukem, neboli mramorované (marbled) a uzrálé (aged), čímž je to maso chutnější a křehčí a proto potřebné množství tuku k jeho orestování je mnohdy minimální.
+Měl jsem v hlavě několik receptů z mé ruské kuchařky, kterou jsem napsal v roce 1968, krátce před odchodem do Ameriky. Připravil jsem pro něj nějaký typický ruský předkrm, který si již ani nepamatuji, ale také ukrajinský boršč a hovězí Stroganov.
 
-Také velikost porcí masa je v Americe jiná. U dušených mas se pohybuje od 100 až 150 gramů na porci, ale záleží zda se jedná o oběd nebo večeři.
+Boršč, jak mistr Rosropovič údajně prohlásil, byl z jiného světa (anglicky _out of this world_). Při večeři všechno probíhalo v pořádku, až do okamžiku, kdy jsem vydával Stroganov s hranolkami.
 
-Také váha okurek je odvislá od toho jak šťavnaté a jak kyselé ty okurky jsou, apod. Prostě zkušenost, praxe a místní zvyklosti hrají velkou roli.
+Číšník, který skupinu Rostropoviče obsluhoval, odmítal Stroganov s hranolkami podávat a domáhal se nudlí nebo rýže. Výkonný šéfkuchař je ale v Americkém hotelu je hned po pánu Bohu ten nejvyšší pán. Milému číšníku tedy nezbylo nic jiného, než Stroganov podávat s hranolkami.
 
-{id="postup"}
+Jakmile mistr Rostropovič Stroganov dojedl, nechal si mě zavolat, a začal mě objímat jako žádný jiný host nikdy před tím. Řekl mi, že procestoval téměř celý svět, ale že nikde, včetně Sovětského svazu, neochutnal tak dobrý Stroganov. Také mi řekl, že nikde mimo Sovětského svazu, mu ho nepodali tak jak to má být – a sice s hranolkami.
 
-## Postup
+Mistr Rostropovič byl tak nadšený že mě pozval ke stolu na panáka jeho osobní vodky. Po několika kolech, mě požádal, abych mu říkal Slavo. Tak ho nazývala jen jeho manželka a jen jeho nejbližší přátelé. On mi začal říkat Míšo, takže z toho vznikla pravá ruská družba.
 
-Použité technice se říká "Assembly cooking", což je jakési stavebnicové vaření.
-
-Napřed si uděláme tak zvaný kvásek (whitewash) kterým zahustíme později omáčku.
-
-V kotlíku smícháme ¾ dávky kyselé smetany s moukou, což zabrání tomu, aby se ta omáčka případně srazila. Přimícháme hořčici, mletý kmín, eventuálně trošku Worcesterové omáčky. Kvásek rozředíme trochou mléka a dáme stranou.
-
-Nakrájené maso, osolíme, opepříme a orestujeme na pomaštěném gridlu nebo ve velké sklopné pánvi a dáme na teplo. Ve velké kuchyni můžeme maso dát v tenkých vrstvách ne plechy (sheet pans) o opéct ho dozlatova v konvektomatu nebo v horké troubě.
-
-Mezitím ve sklopné pánvi zpěníme cibuli a dříve než stačí pouštět šťávu přidáme orestované maso, a na prudkém ohni dobře promícháme.
-
-Dříve než maso začne pouštět šťávu a ztrácet na váze, přimícháme kvásek a vše přivedeme do varu. Přidáme ¾ dávky okurek i s jejich šťávou, nakrájené žampiony a při občasném zamíchání dusíme na mírném ohni asi 20 minut (což je odvislé od kvality masa).
-
-Nakonec pokrm ochutíme citrónovou šťávou.
-
-Před podáváním každou porci ozdobíme lžící husté kyselé smetany a posypeme přiměřeným množstvím na nudličky krájených okurek.
-
+ [1]: /vareni_z_polotovaru
+ [2]: /kucharske_tituly#vykonny_sefkuchar
