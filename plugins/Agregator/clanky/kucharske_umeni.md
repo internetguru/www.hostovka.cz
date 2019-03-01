@@ -10,7 +10,7 @@ Cílem dnešního kuchařského umění je odborně, hygienicky a ekonomicky spr
 
 Mám veliký respekt před uměním, obzvláště takovým, které vyjadřuje talent, nadání a tvrdou práci. Mám ale mnohdy dilema při hodnocení kuchařiny jako umění. I když se o tom v mé definici kuchařského umění nezmiňuji, tak si myslím, že kuchařina je více dřina než umění. 
 
-Při hodnocení kuchařiny jako umění mi totiž nejvíce vadí, že oproti hudbě, malířství, sochařině, a podobných uměních, výtvory kuchařů umělců nemají trvalou hodnotu. Příkladem je jídlo samotné, které mnohdy po několikahodinové dřině kuchaře, zmizí v žaludcích jeho obdivovatelů během několika minut. 
+Při hodnocení kuchařiny jako umění mi totiž nejvíce vadí, že oproti hudbě, malířství, sochařině a podobným uměním, výtvory kuchařů umělců nemají trvalou hodnotu. Příkladem je jídlo samotné, které mnohdy po několikahodinové dřině kuchaře, zmizí v žaludcích jeho obdivovatelů během několika minut. 
 
 Příkladem může být Carême, který je považován za zakladatele umění prezentace jídel. Carémovy výtvory, jejichž tvorba vyžadovala mnohdy několik dní, sice vydržely po dobu stolování hostů, ale jen velmi zřídka mohly být použity ještě jednou. 
 
