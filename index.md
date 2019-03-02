@@ -27,7 +27,7 @@ Snahou Hostovky je zvýšit uvědomění našich hostů v tom, co jim patří a 
 
 n/a
 
-{var="doclist-clanky"}
+{var="doclist-stitek"}
 
   * n/a
 
