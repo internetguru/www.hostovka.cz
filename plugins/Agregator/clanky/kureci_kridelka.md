@@ -7,13 +7,13 @@
 
 {kw="jídla a jídelní lístky, kuře"} 
 
-Kdysi byla kuřecí křidélka víceméně nepotřebným odpadem. Pracoval jsem tehdy jako konzultant v jednom relativně velkém hotelu v Egyptě, kde se zpracovává velké množství kuřat, a to většinou pečených. Před pečením se z těch kuřat křidélka odřízla a uložila do mrazáku. Následně je použili do vývaru nebo je upekli a podávali je na bufetu pod názvem Bufalo Wings. 
+Kdysi byla kuřecí křidélka víceméně nepotřebným odpadem. Pracoval jsem tehdy jako konzultant v jednom relativně velkém hotelu v Egyptě, kde se zpracovává velké množství kuřat, a to většinou pečených. Před pečením se z těch kuřat křidélka odřízla a uložila do mrazáku. Následně je použili do vývaru nebo je upekli a podávali je na bufetu pod názvem Buffalo Wings. 
 
 {id="puvod\_nazvu\_buffalo_wings"} 
 
 ## Křidélka Buffalo Wings 
 
-Podle jedné historky jednou pozdě večer v jednom baru v Buffalu ve státě New York chtělo několik hostů něco „na zakousnutí“. Kuchyň byla již zavřená, ale barman se jim snažil nějak vyhovět, a tak hledal v lednici a v mrazáku, jestli tam je něco, co by jim mohl prodat. Jediné, co v mrazáku našel, byla kuřecí křidélka. Onen barman byl zřejmě Čech, protože nebyl líný si s křidélky dát práci, a tak se hned pustil do práce. 
+Podle jedné historky jednou pozdě večer v jednom baru v Buffalu ve státě New York chtělo několik hostů něco na zakousnutí. Kuchyň byla již zavřená, ale barman se jim snažil nějak vyhovět, a tak hledal v lednici a v mrazáku, jestli tam je něco, co by jim mohl prodat. Jediné, co v mrazáku našel, byla kuřecí křidélka. Onen barman byl zřejmě Čech, protože nebyl líný si s křidélky pohrát, a tak se hned pustil do práce.
 
 Křidélka rozmrazil v mikrovlnce, což mu trvalo asi tak 3 minuty. Potom je osolil, opepřil, a aby ti hosté měli větší chuť na pivo, tak je také okořenil cayenským pepřem. Okořeněná křidélka trošku pomoučnil, osmahl je krátce ve fritéze, a dal je asi na 15 minut do horké trouby a upekl je dokřupava. Upečená křidélka dal do košíčku, přidal k nim na kousky krájený řapíkatý celer a dva pikantní dipy a ještě horká je podával. 
 
