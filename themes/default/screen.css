@@ -402,6 +402,7 @@ a.tag:not([href]):hover:before {
   /* border-bottom: thin solid #cecece; */
   padding: 0 1em;
   padding-bottom: 2em;
+  max-width: 40em !important;
 }
 #footer {
   margin-top: 3em;
