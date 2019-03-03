@@ -5,6 +5,8 @@
 
 # Koktejly
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="nápoje"}
 
 Pocházím z relativně malého vojenského města kde byla jen samá kasárna a jinak nic než samá hospoda, jedna hospoda vedle druhé.

@@ -5,6 +5,8 @@
 
 # No Problem
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="případová studie"}
 
 V konceptu STEAKGRILL® nemáme problémy ale úkoly. Žádný úkol není nesplnitelný musíme však vědět jak na něj, neboli že musíme mít potřebný know how, potřebnou sebedůvěru a potřebný drive. Nemohu o sobě říci, že bych neměl sebedůvěru, ale přesto jsem kdysi viděl problémy tam kde žádné vlastně nebyly.

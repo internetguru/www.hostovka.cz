@@ -5,6 +5,8 @@
 
 # Základní povinnosti obsluhy
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="případová studie"}
 
 Pracuji v současné době na podnikovém manuálu pro jednu restauraci v Česku. V daném okamžiku pracuji na základních povinnostech obsluhy a napadlo mně že stať kterou jsem právě dokončil by mohla zajímat i studenty Hostovky protože by se z ní také poučili a proto vám tuto část přikládám.

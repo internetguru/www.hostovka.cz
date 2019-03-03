@@ -5,6 +5,8 @@
 
 # Gastronomy
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="jídla a jídelní lístky"}
 
 GASTRONOMY je označení americké gastronomie, která se podstatně liší od všech těch známých světových gastronomií.

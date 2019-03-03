@@ -7,11 +7,10 @@
     <body>
       <xsl:copy-of select="@*"/>
       <div id="header">
-<!--         <xsl:value-of disable-output-escaping="yes" select="$breadcrumb"/> -->
-<!--         <xsl:apply-templates select="h1"/> -->
-        <xsl:copy>
-          <xsl:apply-templates select="h1"/>
-        </xsl:copy>
+        <div>
+          <xsl:value-of disable-output-escaping="yes" select="$breadcrumb"/>
+          <xsl:value-of disable-output-escaping="yes" select="$inputvar-tags-files-list"/>
+        </div>
       </div>
       <div id="content">
         <xsl:apply-templates/>

@@ -5,6 +5,8 @@
 
 # Historka o novém koření
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="kdo-kdy-kde, koření, historka"}
 
 K novému koření, lépe řečeno k jeho anglickému jménu _allspice_ se váže jedna zábavná příhoda. Ta se stala u hotelu Marriott v Chicagu na letišti.

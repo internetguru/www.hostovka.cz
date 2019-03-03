@@ -5,6 +5,8 @@
 
 # Pravda na jídelním lístku
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="jídla a jídelní lístky"}
 
 Já jsem na stránkách www.gastronews.cz , což jsou více méně stránky pro odborníky v pohostinství byl některými čtenáři mimo jiné kritizován proto, že jsem vše popisoval příliš podrobně a zdlouhavě, čímž jsem údajně podceňoval jejich inteligenci a některé dokonce i urážel. Na základě toho a několika nechutných invektiv jsem do Gastronews přestal psát, takže je již neurážím, ale tím pádem se více věnuji Hostovce a doufám jenom, že mé podrobné informace padnou na těchto stránkách na úrodnější půdu.

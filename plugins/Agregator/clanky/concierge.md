@@ -5,6 +5,8 @@
 
 # Concierge
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="ubytování"}
 
 Concierge – ve Francii vrátný nebo domovník. V hotelu je to ale osoba která se stará o hostovo pohodlí a která hostům vyřizuje vše spojené s jeho pobytem. V Amerických hotelích byla funkce concierge až do sedmdesátých let zcela neznámá.

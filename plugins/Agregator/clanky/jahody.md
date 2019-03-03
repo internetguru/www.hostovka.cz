@@ -5,6 +5,8 @@
 
 # Jahody
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="jídla a jídelní lístky"}
 
 Jahody jsou jeden druh ovoce které nikdo nikdy neodmítne a které jak se zdá jsou celý rok populární, nicméně nejpopulárnější jsou jahody lesní.

@@ -5,6 +5,8 @@
 
 # Podstata a využití aspiku
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="jídla a jídelní lístky, aspik, želatina, Carême"}
 
 Obecně vzato je aspik rosol, který se používá k zalévání nebo pokrývání masa, ryb, zelenin a salátů, případně k obložení studených mís. O aspicích a rosolech byla napsána celá pojednání. Obzvláště se jimi zabýval jeden z nejslavnějších gastronomů 19. století [Marie-Antoine Carême][1].

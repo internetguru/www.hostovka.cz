@@ -5,6 +5,8 @@
 
 # Úskalí francouzské gastronomie
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="etnické kuchyně, gastronomie, Francie"}
 
 Moje první zkušenost s Francií byla 18. května 1945, neboli hned po válce. Pracoval jsem tam v několika restauracích a hotelech. Z té doby vím, že čeští kuchaři a číšníci měli díky svým kolegům pracujícím ve Francii před válkou tu nejlepší pověst.

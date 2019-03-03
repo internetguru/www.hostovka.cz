@@ -5,6 +5,8 @@
 
 # Food Cost
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="kdo-kdy-kde"}
 
 To co blábolí o food cost ve svém pořadu Ano šéfe náš samozvaný nejvyšší kuchař Zdeňek Pohlreich tomu nevěřte. Musíte si o tom něco přečíst, abyste viděli že jsou to všechno nesmysle. Pokud si to řekneme velice zjednodušeně a laicky, tak Food cost je anglický výraz pro náklady na výrobu jídel které jsou vyjádřeny v procentech v poměru k jejich prodejní ceně.

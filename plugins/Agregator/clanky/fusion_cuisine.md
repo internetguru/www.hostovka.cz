@@ -5,6 +5,8 @@
 
 # Spojení více druhů kuchyní
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="kuchyňské techniky"}
 
 Spojená kuchyně _(anglicky fusion cuisine)_ je definována jako kuchyně, která vznikla sloučením dvou nebo i více kuchyní. Lépe řečeno vzniká spojením technik, používaných potravin, receptur, náčiní a případně i zařízení.

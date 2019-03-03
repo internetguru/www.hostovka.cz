@@ -5,6 +5,8 @@
 
 # Omáčka bešamel a její varianty
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="nejčtenější, jídla a jídelní lístky, omáčka, recept"}
 
 Omáčku bešamel oficiálně vynalezl správce královského dvora Ludvíka XIV., markýz Louis de Béchameil de Nointel (1630–1703). Je ale více než pravděpodobné, že si Francouzi tuto omáčku přivlastnili od Italů. V Itálii byla tato omáčka již několik století před tím.
@@ -41,13 +43,13 @@ Při přípravě bešamelu postupujeme rychle. Někdy se totiž omáčka připá
 
 Postup přípravy:
 
- 1. V kastrole se silným dnem rozpustíme máslo.
- 2. Přidáme mouku, sůl a vše rychle zamícháme dřevěnou vařečkou.
- 3. Dříve než mouka zhnědne, přiléváme za stálého míchání mléko.
-    * Mléko by mělo být horké. Při použití studeného mléka je sice výsledek stejný, ale vystavujeme se riziku, že se v omáčce udělají hrudky. Pak bychom museli omáčku propasírovat. {class="important"}
- 4. Mícháme do té doby, než je omáčka hladká.
- 5. Hotovou omáčku nalijeme do čistého hrnku a dáme ji do horké lázně _(anglicky bain-marie)_ k dalšímu použití.
- 6. Zbylou omáčku necháme v čisté nádobě vychladnout a uložíme ji do chladničky.
+  1. V kastrole se silným dnem rozpustíme máslo.
+  2. Přidáme mouku, sůl a vše rychle zamícháme dřevěnou vařečkou.
+  3. Dříve než mouka zhnědne, přiléváme za stálého míchání mléko. 
+      * Mléko by mělo být horké. Při použití studeného mléka je sice výsledek stejný, ale vystavujeme se riziku, že se v omáčce udělají hrudky. Pak bychom museli omáčku propasírovat. {class="important"}
+  4. Mícháme do té doby, než je omáčka hladká.
+  5. Hotovou omáčku nalijeme do čistého hrnku a dáme ji do horké lázně _(anglicky bain-marie)_ k dalšímu použití.
+  6. Zbylou omáčku necháme v čisté nádobě vychladnout a uložíme ji do chladničky.
 
 Při šetrném zacházení můžeme omáčku ohřívat kolikrát chceme. Bešamelová omáčka, tak jako mnoho jiných krémových omáček, je tím lepší, čím déle se vařila. Každé ohřátí tedy omáčce jen prospěje.
 

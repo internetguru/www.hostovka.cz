@@ -1,9 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-og-image="/files/preview/clanky/caesar_salat/preview.jpg" data-og-type="article" data-source="http://2017.hostovka.cz/clanek.php?clanek=237"}
 
-{id="caesar\_salat" author="Michael Klíma" ctime="2007-06-04" mtime="2018-12-07" short="Caesar salát"}
+{id="caesar_salat" author="Michael Klíma" ctime="2007-06-04" mtime="2018-12-07" short="Caesar salát"}
 
 # Suroviny a příprava Caesar salátu
+
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
 
 {kw="nejčtenější, gastronomie"}
 
@@ -13,14 +15,13 @@ Pokud jste byli v Tijuaně a nenavštívili jste Caesar hotel, tak jste hodně p
 
 {class="figure"}
 
-![Tijuana][2] 
+![Tijuana][1] 
 :   Tijuana
 
 {class="figure"}
 
-![Restaurace Cézara Cardinino][3] 
+![Restaurace Cézara Cardinino][2] 
 :   Restaurace Caesara Cardinino
-
 
 {id="suroviny" short="Suroviny"}
 
@@ -50,16 +51,16 @@ Salát se opatrně prohodil _(anglicky to toss)_ tak, aby se kousky salátu moc 
 
 {class="figure"}
 
-![Tossing the salad][4] 
+![Tossing the salad][3] 
 :   Prohození salátu
 
 Dnes se dresink prodává již hotový, takže příprava tohoto salátu je v zásadě velice jednoduchá. Restaurace už jen soutěží v tom, kdo naservíruje více salátu na porci.
 
-{id="nejvetsi_cezar_salat"}
+{id="nejvetsi\_cezar\_salat"}
 
 ## Největší Caesar salát
 
-V Tijuaně v Mexiku, se na ulici Avenida Revolucion sešlo několik kuchařů a studentů kulinářského umění, aby naplnili více než 200 metrů dlouhou salátovou mísu Caesar salátem. Událost se konala jednak na oslavu salátu, ale hlavně kvůli snaze zapsat se do [Guinnessovy knihy rekordů][5].
+V Tijuaně v Mexiku, se na ulici Avenida Revolucion sešlo několik kuchařů a studentů kulinářského umění, aby naplnili více než 200 metrů dlouhou salátovou mísu Caesar salátem. Událost se konala jednak na oslavu salátu, ale hlavně kvůli snaze zapsat se do [Guinnessovy knihy rekordů][4].
 
 Plánováním akce se asi 4 měsíce dopředu zabývalo více než 120 studentů a adeptů kuchařského umění. Bylo zapotřebí naplánovat dodávku všech potřebných surovin od místních dodavatelů, zkoordinovat přípravné práce, a hlavně vypracovat harmonogram míchání salátu tak, aby byl čerstvý, křehký a hotový přesně načas.
 
@@ -67,8 +68,8 @@ V Tijuaně je přes den velmi horko, a proto většina přípravných prací pro
 
 Z rodiny Santini bohužel nebyl nikdo přítomen. Na míchání salátu dorazil Alex Caesar Cardini III. a zástupci vlády, kteří museli potvrdit délku salátové mísy, váhy surovin a celkovou identitu této významné akce.
 
- [1]: /files/thumbs/clanky/caesar_salat/04-06-07-4.JPG
- [2]: /files/thumbs/clanky/caesar_salat/04-06-07-5.JPG
- [3]: /files/thumbs/clanky/caesar_salat/04-06-07-6.JPG
- [4]: /files/thumbs/clanky/caesar_salat/04-06-07-7.JPG
- [5]: https://cs.wikipedia.org/wiki/Guinnessova_kniha_rekord%C5%AF
+ [1]: /files/thumbs/clanky/caesar_salat/04-06-07-5.JPG
+ [2]: /files/thumbs/clanky/caesar_salat/04-06-07-6.JPG
+ [3]: /files/thumbs/clanky/caesar_salat/04-06-07-7.JPG
+ [4]: https://cs.wikipedia.org/wiki/Guinnessova_kniha_rekord%C5%AF
+

@@ -5,6 +5,8 @@
 
 # Boarding House
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="ubytování"}
 
 Ve Spojených státech se Boarding house kdysi také někdy nazýval "rooming house", nebo také "lodging" house, ale všechny tyto výrazy v tom původním poslání upadají v zapomenutí. "Board" má v angličtině několik významů a jeden z nich je strava, tudíž v tom názvu Boarding house se o ubytování nemluví.

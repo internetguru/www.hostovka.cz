@@ -5,6 +5,8 @@
 
 # Neznámé potraviny
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="gastronomie"}
 
 Opravte mně jestli se mýlím, ale já se domnívám že málo který průměrný návštěvník české či slovenské restaurace má bez podrobnějšího popisu představy o tom co to je argula, awabi, balsamický ocet, broiler, brusketa, calamari, cannelloni, carpacio, coulis, crudité, crusta, hřebenatky, řapíkatý celer, konfit, křupinka, mantl soufflé, terč, wasabi, a to jsem vyjmenoval jen pár těch výrazů které se na některých českých či slovenských jídelních lístcích objevují bez jakéhokoliv vysvětlení.

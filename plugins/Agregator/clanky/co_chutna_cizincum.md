@@ -5,6 +5,8 @@
 
 # Co chutná cizincům
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="etnické kuchyně"}
 
 Cizinci, kteří k nám přijíždějí ochutnat tradiční českou kuchyni, s vyhlášenými pokrmy dokážou někdy pěkně zatočit.

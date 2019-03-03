@@ -1,5 +1,5 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz"}
+{xml:lang="cs" ns="https://www.hostovka.cz" data-og-image="/files/header.jpg"}
 
 {id="hostovka" short="Hostovka.cz" author="Internet Guru" ctime="2018-05"}
 
@@ -27,7 +27,7 @@ Snahou Hostovky je zvýšit uvědomění našich hostů v tom, co jim patří a 
 
 n/a
 
-{var="doclist-clanky"}
+{var="doclist-stitek"}
 
   * n/a
 

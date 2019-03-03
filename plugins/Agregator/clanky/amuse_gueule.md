@@ -5,6 +5,8 @@
 
 # Jednohubky pro pobavení huby
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="co-kdy-kde, jednohubka, předkrm"}
 
 Jednohubky (francouzsky _amuse-gueule_, či také _canapés_) jsou malá, velice jednoduchá pikantní sousta, z masa, ryb, plodů moře, zeleniny a ovoce, podávaná také ke koktejlům. Jednohubky mohou být jak teplé, tak i studené. Zásadou je, že se dají jíst třeba i vestoje rukama.

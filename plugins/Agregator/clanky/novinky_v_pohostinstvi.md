@@ -5,6 +5,8 @@
 
 # Co je nového v českém pohostinství
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="gastronomie"}
 
 Já jsem se již někde zmínil, že pohostinství (do kterého spadá i cestovní ruch) se skládá ze dvou základních segmentů a to jsou hoste a ti kteří to pohostinství či cestovní ruch provozují a sice v odhadovaném poměru 96:4.

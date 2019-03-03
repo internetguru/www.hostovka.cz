@@ -5,6 +5,8 @@
 
 # Váha porcí
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="jídla a jídelní lístky, nejčtenější"}
 
 Jedním posláním Hostovky je naučit studenty umění zvažovat zda velikost a váha, neboli hmotnost porce odpovídá ceně aby věděli, jestli za své peníze dostávají to co jim patří.

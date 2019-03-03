@@ -5,6 +5,8 @@
 
 # Vše, co sníš a nikoli co odneseš
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="nejčtenější, gastronomie, bufet, pozdní snídaně"}
 
 Samoobslužná restaurace (anglicky _all you can eat_ nebo novodobě _buffet_) je způsob pohostinství, který vznikl v Americe. Je to výraz pro nabídku neomezeného množství jídel bufetovou formou za jednotnou atraktivní cenu.

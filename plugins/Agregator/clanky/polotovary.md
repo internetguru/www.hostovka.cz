@@ -5,6 +5,8 @@
 
 # Polotovary
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="co-kdy-kde"}
 
 Polotovar,také zvaný konvenientní nebo příhodný výrobek, je buď koupený nebo vlastní výroby který usnadňuje nebo urychluje práci v kuchyni. Rozdíl je v ceně a případně ve kvalitě, přičemž neznamená, že polotovar vlastní výroby je lacinější nebo lepší.

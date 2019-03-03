@@ -5,6 +5,8 @@
 
 # Technika dušení ve světě
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="kuchyňské techniky, marináda"}
 
 Dušení je úprava pokrmů za pomocí vlhkého tepla, umístěných v nádobě se silným dnem a dobře přiléhající poklicí. Je to relativně úsporný způsob přípravy jídel, protože může probíhat při mírné teplotě přímo na plotně nebo v troubě. Pokrmy připravované tímto způsobem jsou nazývány dušeniny _(anglicky stews)_.

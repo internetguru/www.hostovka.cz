@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Canonical>
-  <!-- <ns domain="www.hostovka.cz"/> --> 
+  <ns domain="www.hostovka.cz" for="beta.hostovka.cz"/>
 </Canonical>

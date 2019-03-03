@@ -5,6 +5,8 @@
 
 # Zrození a vývoj kuřecích nuget
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="jídla a jídelní lístky"}
 
 Kuřecí nugety byly oficiálně vynalezeny na základě poptávky předsedy McDonaldu jménem Fred Turner v roce 1979. Ten údajně kontaktoval svého tehdejšího dodavatele s tím, že by chtěl vytvořit kuřecí [jednohubky][1].

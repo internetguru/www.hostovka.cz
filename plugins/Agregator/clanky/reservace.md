@@ -5,6 +5,8 @@
 
 # Reservace
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="restaurace a servis"}
 
 Jako sofistikovaní hosté nebo jako studenti Hostovky byste také měli vědět, jak, kdy a proč si dělat v restauracích reservaci.

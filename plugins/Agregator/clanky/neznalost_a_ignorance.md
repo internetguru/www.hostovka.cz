@@ -5,6 +5,8 @@
 
 # Neznalost a ignorance
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="případová studie"}
 
 Vložil jsem tento příspěvek do oddělení případové studie, ale je to spíše konstatování smutné skutečnosti. S neznalostí a ignorantstvím se setkáte po celém světě a Česká a Slovenská republika nejsou výjimkou.

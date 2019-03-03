@@ -5,6 +5,8 @@
 
 # Bonbóny pro osvěžení dechu po jídle
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="etika"}
 
 Bonbóny pro osvěžení dechu po jídle _(anglicky after dinner mints)_ jsou víceméně americký vynález. Mají za úkol osvěžit ústa, a to obzvláště po jídlech s výraznou chutí. Můžete na ně narazit nejenom v restauracích, ale často i v amerických a francouzských domácnostech, kde se tento zvyk stále drží.

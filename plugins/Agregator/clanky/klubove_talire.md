@@ -5,6 +5,8 @@
 
 # Klubové talíře
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="restaurace a servis"}
 
 KLUBOVÉ TALÍŘE (předložní talíře) anglicky base plates nebo service plates, německy zvané Platzteller; francouzsky Assiette de présentation, se v Česku, nevím proč,nazývají Klubové nebo předložní talíře.

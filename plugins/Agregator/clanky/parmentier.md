@@ -5,6 +5,8 @@
 
 # Parmentier
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="kdo-kdy-kde"}
 
 Antoine-Augustin Parmentier (Montdidier srpen 12, 1737, prosinec 13, 1813). Francouzský agronom a ekonom který mimo jiné ve Francii a v Evropě zpopularizoval brambory.

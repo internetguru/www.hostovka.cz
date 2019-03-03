@@ -5,6 +5,8 @@
 
 # Sacher Eduard
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="ubytování"}
 
 Kostel svatého Štěpána ve Vídní je jen několik kroků od hotelu Sacher, ale nejsem si jist co je u vídeňských turistů populárnější, jestli ten nádherný oltář kostela nebo dort kterým se zakladatel hotelu Sacher proslavil.

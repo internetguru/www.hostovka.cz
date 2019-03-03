@@ -5,6 +5,8 @@
 
 # Kuřecí křidélka
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="jídla a jídelní lístky"}
 
 Kdysi kuřecí křidélka, pokud pro ně nebylo využití pro přípravu drůbežího vývaru, byly více méně neupotřebitelným odpadem.

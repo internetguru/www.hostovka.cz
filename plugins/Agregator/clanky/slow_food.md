@@ -5,6 +5,8 @@
 
 # Slow food
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+
 {kw="gastronomie"}
 
 Před několika lety se mně jedna česká studentka která studovala na švýcarské hotelové škole zeptala co to je Slow food. Zmínila se také o tom, že si myslí že pohostinství v porovnání s tím minulým je ve Švýcarsku v jakési krizi.
