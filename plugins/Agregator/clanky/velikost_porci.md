@@ -12,7 +12,7 @@
 
 Velikost porcí určíme na základě zkušeností nebo průzkumu o přáních, potřebách, a hlavně finančních možnostech naší potenciální klientely. S velikostí porce masa, nebo hlavní potraviny narůstá i cena jídel. Ta je v mnoha případech pro klientelu rozhodujícím faktorem při volbě restaurace.
 
-Jiné představy o správné velikosti porcí jídel (a jejich ceně) mají mladí lidé, ženy, muži, těžce pracující dělník a také důchodce. V minulosti u nás byly porce masa regulovány na základě hospodářských možností, a proto byly ve srovnání s mezinárodním standardem relativně malé.
+Jiné představy o správné velikosti porcí jídel (a jejich ceně) mají mladí lidé, ženy, muži, těžce pracující dělníci a nebo důchodci. V minulosti u nás byly porce masa regulovány na základě hospodářských možností, a proto byly ve srovnání s mezinárodním standardem relativně malé.
 
 Zahraniční hosté (ze západu) jsou zvyklí na větší porce masa. Jsou také zvyklí na to, že porce jídel, a tudíž i jejich [ceny, jsou v poledne nižší než večer][1]. 
 
@@ -20,19 +20,21 @@ Zahraniční hosté (ze západu) jsou zvyklí na větší porce masa. Jsou také
 
 Pokud váhu porcí na jídelním lístku uvádíme, tak je to víceméně proto, abychom informovali hosty o velikosti porcí. V tom případě je tento údaj závazný.
 
-Jak vyplývá ze zákona 104/1995 Sb. o ochraně spotřebitele, v případech, kdy to není možné nebo účelné, nemusí být informace o hmotnosti porce a složení pokrmu sděleny písemnou formou. Zákon však prodávajícímu ukládá tyto informace na požádání pravdivě sdělit a kontrolnímu orgánu také doložit. Nechci kritizovat české zákonodárství, ale někdy mi přijde, že se zákony dělají tak, aby se vlk nažral a koza zůstala celá.
+Podle zákona 104/1995 Sb. o ochraně spotřebitele, v případech, kdy to není možné nebo účelné, nemusí být informace o hmotnosti porce a složení pokrmu sděleny písemnou formou. Zákon však prodávajícímu ukládá tyto informace na požádání pravdivě sdělit a kontrolnímu orgánu také doložit.
 
-Velikost porcí totiž uvádíme na jídelním lístku ve vlastním zájmu a pro lepší informovanost hostů, a ne proto, že je to nařízení obchodní inspekce.
+Nechci kritizovat české zákonodárství, ale někdy mi přijde, že se zákony dělají tak, aby se vlk nažral a koza zůstala celá. Velikost porcí totiž uvádíme na jídelním lístku ve vlastním zájmu a pro lepší informovanost hostů, a ne proto, že je to nařízení obchodní inspekce.
 
-Porce udávané běžně na jídelních lístcích jako pár holubů, půlka kuřete, čtvrtka kachny, celý pstruh, celý humr a podobně, jsou jen přibližný údaj o velikosti. Například tucet nebo půl tuctu ústřic nikomu nic neříká, protože rozdíly v jejich velikosti jsou veliké. Zajímalo by mě, jak se s tím kontrolní orgány vypořádávají.
+{class="example"}
+
+Porce udávané běžně na jídelních lístcích jako pár holubů, půlka kuřete, čtvrtka kachny, celý pstruh, celý humr a podobně, jsou jen přibližný údaj o velikosti. Například tucet nebo půl tuctu ústřic nikomu moc neřekne, protože rozdíly ve velikosti ústřic mohou být veliké. Zajímalo by mě, jak se s tím kontrolní orgány vypořádávají.
 
 ### Psychologie tvorby velikosti porce
 
 Mělo by být v zájmu restauratéra, aby každá porce jídla odpovídala představám hosta, a aby byla vizuálně co možná největší. Bohužel to bude ještě dlouho trvat, než naši restauratéři psychologii prodeje pochopí, a proto s některými zdánlivě zbytečnými nařízeními mlčky souhlasím.
 
-Tajemství úspěchu amerického restauratéra je například v tom, že mnohdy ani nespí, a stále přemýšlí, co by svému hostu dal navíc, aby ho uspokojil a aby mu přitom zbyl zasloužený zisk.
+{class="important"}
 
-Tajemství neúspěchu některých našich restauratérů (až na výjimky) je v tom, že mnohdy ani nespí a stále jen přemýšlí, jak to udělat, aby hostu za jeho peníze dali co nejméně a aby tím pádem zbylo pro ně co nejvíce.
+Tajemství _úspěchu_ amerického restauratéra je v tom, že mnohdy ani nespí, a stále přemýšlí, co by svému hostu dal navíc, aby ho uspokojil a aby mu přitom zbyl zasloužený zisk. Naproti tomu tajemství _neúspěchu_ některých českých restauratérů je (až na výjimky) v tom, že mnohdy ani nespí a stále jen přemýšlí, jak to udělat, aby hostu za jeho peníze dali co nejméně a aby tím pádem zbylo pro ně co nejvíce.
 
 ### Jak určit velikost porce
 
@@ -59,6 +61,8 @@ Dušeniny, haše, masové směsi (těstovinová a rýžová jídla)
 Kuřata, drůbež s kostí
 
 : 250 až 350 g
+
+
 
 Drůbež bez kostí
 
