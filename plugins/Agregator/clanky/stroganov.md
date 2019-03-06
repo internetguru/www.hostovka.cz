@@ -65,7 +65,7 @@ Uvedené váhy ingrediencí jsou v tomto případě (obzvláště pro použití 
 
 {class="example"} 
 
-Například americké maso z ořechu nebo ze špičky bývá dost prorostlé tukem (_marbled_) a uzrálé (_aged_), čímž je to maso chutnější a křehčí. Proto potom bývá množství tuku potřebné k jeho orestování minimální. 
+Například americké maso z ořechu nebo ze špičky bývá dost prorostlé tukem (mramorované, anglicky _marbled_) a uzrálé (stařené, anglicky _aged_), čímž je to maso chutnější a křehčí. Proto pak bývá množství tuku potřebné k jeho orestování minimální.  
 
 Také velikost porcí masa je v Americe jiná. U dušených mas se pohybuje od 100 až 150 g na porci, ale záleží, zda se jedná o oběd nebo večeři. Váha okurek je závislá na tom, jak šťavnaté a kyselé okurky jsou apod. Prostě zkušenost, praxe a místní zvyklosti hrají velkou roli. 
 
@@ -75,7 +75,7 @@ Použité technice se říká [vaření z polotovarů][1] (anglicky _assembly co
 
 1. Napřed si uděláme takzvaný kvásek (anglicky _whitewash_), kterým později zahustíme omáčku. 
 
-   1. V kotlíku smícháme tři čtvrtiny dávky kyselé smetany s moukou. To zabrání, aby se omáčka srazila. 
+   1. V kotlíku smícháme tři čtvrtiny dávky kyselé smetany s moukou. To zabrání tomu, aby se omáčka srazila. 
 
    2. Přimícháme hořčici, mletý kmín a popřípadě trošku worcestrové omáčky. 
 
@@ -107,7 +107,7 @@ Měl jsem v hlavě několik receptů z mé ruské kuchařky, kterou jsem napsal 
 
 Boršč, jak mistr Rosropovič údajně prohlásil, byl z jiného světa (anglicky _out of this world_). Při večeři všechno probíhalo v pořádku, až do okamžiku, kdy jsem vydával Stroganov s hranolky. 
 
-Číšník, který skupinu Rostropoviče obsluhoval, odmítal Stroganov s hranolky podávat a domáhal se nudlí nebo rýže. Výkonný šéfkuchař je ale v Americkém hotelu je hned po pánu Bohu ten nejvyšší pán. Milému číšníku tedy nezbylo nic jiného než Stroganov podávat s hranolky. 
+Číšník, který skupinu Rostropoviče obsluhoval, odmítal Stroganov s hranolky podávat a domáhal se nudlí nebo rýže. Výkonný šéfkuchař v americkém hotelu je ale hned po pánu Bohu ten nejvyšší pán. Takže milému číšníku tedy nezbylo nic jiného než Stroganov podávat s hranolky. 
 
 Jakmile mistr Rostropovič Stroganov dojedl, nechal si mě zavolat, a začal mě objímat jako žádný jiný host nikdy před tím. Řekl mi, že procestoval téměř celý svět, ale že nikde, včetně Sovětského svazu, neochutnal tak dobrý Stroganov. Také mi řekl, že nikde mimo Sovětského svazu, mu ho nepodali tak jak to má být – a sice s hranolky. 
 
