@@ -11,7 +11,7 @@
 
 Studenti Hostovky by měli mít alespoň základní ponětí, jak restauratéři vytvářejí ceny jídel. Pokud si článek pozorně přečtete, tak se dokonce stanete odborníky na odhad správných cen.
 
-Nedá se říci, že kalkulace jídel a nápojů by byla nějaká věda, ale Hostovka není školou vaření či managementu, a tak se s vámi o techniku jejich tvorby na těchto stránkách podělit nemohu. Jsem přesvědčen, že v případě zájmu, vám o nich podá jakákoliv z našich odborných či hotelových škol alespoň základní informace.
+Nedá se říci, že kalkulace jídel a nápojů by byla nějaká věda. Hostovka však není školou vaření či managementu, a tak se s vámi o techniku jejich tvorby na těchto stránkách podělit nemohu. Jsem přesvědčen, že v případě zájmu, vám o nich jakákoliv z našich odborných či hotelových škol podá alespoň základní informace.
 
 {short="Ceny v českých restauracích"}
 
@@ -29,7 +29,9 @@ Nemohu pochopit, proč si to neulehčí tím, že by ke každému jídlu zakalku
 
 To, zda mají být ceny jídel po celý den stejné, není jednoznačné. Odjakživa bylo známo, že největší podíl na potenciálním trhu má ten, kdo nabídne nejnižší ceny za nejlepší kvalitu jídel a nápojů. 
 
-Ve Francii se ještě dodnes setkáte s tím, že dělníci si s sebou na stavbu nosí jídla v kastrůlku s velkou bagetou a nezbytnou láhví vína. Ptáte se proč? No, protože na stavbách závodní jídelny nemají a na rychlé občerstvení nebo na cateringové vozy, které rozváží jídlo na různá pracoviště, Francouzi zatím nevěří. Bistra, která jsou nablízku, jsou dnes již tak drahá, že si je nemůže běžný dělník dovolit.
+Ve Francii se dodnes setkáte s tím, že dělníci si s sebou na stavbu nosí jídla v kastrůlku s velkou bagetou a nezbytnou láhví vína. Ptáte se proč? No, protože na stavbách závodní jídelny nemají a na rychlé občerstvení nebo na cateringové vozy, které rozváží jídlo na různá pracoviště, Francouzi zatím nevěří. Bistra, která jsou nablízku, jsou dnes již tak drahá, že si je nemůže běžný dělník dovolit.
+
+{class="important"}
 
 Není tomu tak ale jen ve Francii. S něčím podobným se můžete setkat všude, včetně České republiky. Restauratéři si dosud neuvědomují, že většina lidí nechce za oběd utratit celodenní kapesné.
 
@@ -89,11 +91,13 @@ Některé ceny jsou považovány za tradiční a v mnoha případech se na nich 
 
 Cena kávy zůstala ještě po mnoho let stejná, i přes zvýšení cen zrnkové kávy. Žádný z restauratérů nechtěl riskovat ztrátu své klientely zvýšením její tradiční ceny. V šedesátých letech, kdy byla cena pár centů byla již neúnosná, se cena kávy poněkud zvýšila. Tato káva podle našeho standardu sice za moc nestála, ale Američané ji pili jako vodu.
 
+{class="example"}
+
 Tradiční ceny jsou také často nepřímo diktovány vedoucími organizacemi v oboru. V provozech rychlého občerstvení firmy jako je McDonald, Kentucky Fried Chicken, Burger King, Wendy's a jiné silné organizace udávají výši cen, které se pak jejich konkurenti neodváží překročit. Takovou nepřekročitelnou hranicí dnes je jeden dolar, lépe řečeno 99 centů.
 
 Pro příklady tradičních cen nemusíme chodit do Ameriky. Příklady tradičních cen piva v České republice jsou příkladné. Ne nadarmo se říká, že vláda, která zdraží pivo okamžitě padne.
 
-## Nejlepší způsob tvorby cen
+## Nejlepší způsob tvorby cen neexistuje
 
 Je několik způsobů tvorby cen, ale žádný z nich nelze označit jako nejlepší. Tvorba cen je tak náročná a zodpovědná práce, že některé hotely, které mají několik odbytových středisek, mají celé oddělení, které se nezabývá ničím jiným než tvorbou cen.
 
@@ -114,4 +118,4 @@ Nejběžnější způsob tvorby cen je podle požadovaného procenta nákladů n
 
 Podle charakteru podniku to může u provozoven rychlého občerstvení být 10 až 12 %, avšak u restaurací vyšších cenových skupin, ve kterých zpracovávají většinou drahé ryby, dary moře, steaky a výběrová masa, to může být až 50 %. Všeobecně akceptované „ideální“ procento je 33 %.
 
-Někteří malí restauratéři, kteří se moc kalkulacemi cen nezabývají, vědí, že k dodržení tohoto ideálního procenta musí suroviny, které nakoupí například za 10 Kč prodat za 30 Kč. U větších restaurací tento zjednodušený způsob kontroly spotřeby bohužel nestačí a k tvorbě cen musíme přistupovat poněkud zodpovědněji, a to pomocí kalkulací.
+Někteří malí restauratéři, kteří se moc kalkulacemi cen nezabývají, vědí, že k dodržení tohoto ideálního procenta musí suroviny nakoupené například za 10 Kč prodat za 30 Kč. U větších restaurací tento zjednodušený způsob kontroly spotřeby bohužel nestačí a k tvorbě cen musíme přistupovat poněkud zodpovědněji, a to pomocí kalkulací.
