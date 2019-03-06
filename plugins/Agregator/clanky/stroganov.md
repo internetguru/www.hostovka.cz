@@ -69,7 +69,7 @@ Například americké maso z ořechu nebo ze špičky bývá dost prorostlé tuk
 
 Také velikost porcí masa je v Americe jiná. U dušených mas se pohybuje od 100 až 150 g na porci, ale záleží, zda se jedná o oběd nebo večeři. Váha okurek je závislá na tom, jak šťavnaté a kyselé okurky jsou apod. Prostě zkušenost, praxe a místní zvyklosti hrají velkou roli. 
 
-### Postup 
+### Postup přípravy
 
 Použité technice se říká [vaření z polotovarů][1] (anglicky _assembly cooking_). 
 
@@ -83,7 +83,7 @@ Použité technice se říká [vaření z polotovarů][1] (anglicky _assembly co
 
 2. Nakrájené maso, osolíme, opepříme a orestujeme na pomaštěném gridlu nebo ve velké sklopné pánvi a dáme na teplo. 
 
-   Ve velké kuchyni můžeme maso dát v tenkých vrstvách na plechy (anglicky _sheet pans_) o opéct ho dozlatova v konvektomatu nebo v horké troubě. {class="example"} 
+   Ve velké kuchyni můžeme maso dát v tenkých vrstvách na plechy (anglicky _sheet pans_) a opéct ho dozlatova v konvektomatu nebo v horké troubě. {class="example"} 
 
 3. Mezitím ve sklopné pánvi zpěníme cibuli. Dříve než začne cibule pouštět šťávu, tak přidáme orestované maso a vše na prudkém ohni dobře promícháme. 
 
@@ -99,17 +99,17 @@ Použité technice se říká [vaření z polotovarů][1] (anglicky _assembly co
 
 V roce 1976 jsem pracoval jako [výkonný šéfkuchař][2] v Evanstonu na severu Chicaga v hotelu Sheraton, kde se každoročně na jaře pořádal mezinárodní hudební festival. Jednoho dne mi volali z kanceláře, že prý mají v hotelu skupinu asi 11 ruských hudebníků, a že chtějí uvařit nějaké typické ruské jídlo. 
 
-Osvobození Československa vojsky USA, rozuměj _Udatnou Sovětskou Armádou_, v roce 1968, bylo u mě ještě v živé paměti. Tak jsem jim řekl, že pro Rusy nic nevařím a praštil jsem telefonem. Volali mi ještě asi třikrát, ale scéna se pokaždé opakovala. Nakonec mi volal sám ředitel, s tím, že se jedná o velice populárního ruského čelistu Mstislava Rostropoviče. 
+„Osvobození“ Československa vojsky USA, rozuměj _Udatnou Sovětskou Armádou_, v roce 1968, bylo u mě ještě v živé paměti. Tak jsem jim řekl, že pro Rusy nic nevařím a praštil jsem telefonem. Volali mi ještě asi třikrát, ale scéna se pokaždé opakovala. Nakonec mi volal sám ředitel, s tím, že se jedná o velice populárního ruského čelistu Mstislava Rostropoviče. 
 
-Řekl jsem řediteli, že měl říci hned o koho se jedná. Rostropovič, byl v době druhého „osvobození“ Československa v zahraničí, a na protest se do Sovětského svazu už nevrátil. Tudíž jsem řekl, že pro Rostropoviče udělám, na co si vzpomene. 
+Řekl jsem řediteli, že měl říci hned o koho se jedná. Rostropovič byl v době onoho „osvobození“ Československa v zahraničí, a na protest se do Sovětského svazu už nevrátil. Tudíž jsem řekl, že pro Rostropoviče udělám, na co si vzpomene. 
 
-Měl jsem v hlavě několik receptů z mé ruské kuchařky, kterou jsem napsal v roce 1968, krátce před odchodem do Ameriky. Připravil jsem pro něj nějaký typický ruský předkrm, který si již ani nepamatuji, ale také ukrajinský boršč a hovězí Stroganov. 
+Měl jsem v hlavě několik receptů z mé ruské kuchařky, kterou jsem napsal v roce 1968 krátce před odchodem do Ameriky. Připravil jsem pro něj nějaký typický ruský předkrm, který si již ani nepamatuji, ale také ukrajinský boršč a hovězí Stroganov. 
 
 Boršč, jak mistr Rosropovič údajně prohlásil, byl z jiného světa (anglicky _out of this world_). Při večeři všechno probíhalo v pořádku, až do okamžiku, kdy jsem vydával Stroganov s hranolky. 
 
-Číšník, který skupinu Rostropoviče obsluhoval, odmítal Stroganov s hranolky podávat a domáhal se nudlí nebo rýže. Výkonný šéfkuchař v americkém hotelu je ale hned po pánu Bohu ten nejvyšší pán. Takže milému číšníku tedy nezbylo nic jiného než Stroganov podávat s hranolky. 
+Číšník, který skupinu Rostropoviče obsluhoval, odmítal Stroganov s hranolky podávat a domáhal se nudlí nebo rýže. Výkonný šéfkuchař v americkém hotelu je ale hned po pánu Bohu ten nejvyšší pán. Takže milému číšníku nezbylo nic než Stroganov s hranolky podat. 
 
-Jakmile mistr Rostropovič Stroganov dojedl, nechal si mě zavolat, a začal mě objímat jako žádný jiný host nikdy před tím. Řekl mi, že procestoval téměř celý svět, ale že nikde, včetně Sovětského svazu, neochutnal tak dobrý Stroganov. Také mi řekl, že nikde mimo Sovětského svazu, mu ho nepodali tak jak to má být – a sice s hranolky. 
+Jakmile mistr Rostropovič Stroganov dojedl, nechal si mě zavolat, a začal mě objímat jako žádný jiný host nikdy před tím. Řekl mi, že procestoval téměř celý svět, ale že nikde, včetně Sovětského svazu, neochutnal tak dobrý Stroganov. Také mi řekl, že nikde mimo Sovětského svazu, mu ho nepodali tak jak má být – a sice s hranolky. 
 
 Mistr Rostropovič byl tak nadšený že mě pozval ke stolu na panáka jeho osobní vodky. Po několika kolech, mě požádal, abych mu říkal Slavo. Tak ho nazývala jen jeho manželka a jen jeho nejbližší přátelé. On mi začal říkat Míšo, takže z toho vznikla pravá ruská družba. 
 
