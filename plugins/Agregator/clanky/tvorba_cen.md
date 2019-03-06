@@ -11,6 +11,8 @@
 
 Studenti Hostovky by měli mít alespoň základní ponětí, jak restauratéři vytvářejí ceny jídel. Pokud si článek pozorně přečtete, tak se dokonce stanete odborníky na odhad správných cen.
 
+Nedá se říci, že kalkulace jídel a nápojů by byla nějaká věda, ale Hostovka není školou vaření či managementu, a tak se s vámi o techniku jejich tvorby na těchto stránkách podělit nemohu. Jsem přesvědčen, že v případě zájmu, vám o nich podá jakákoliv z našich odborných či hotelových škol alespoň základní informace.
+
 {short="Ceny v českých restauracích"}
 
 ## Nejasnost výpočtu cen v českých restauracích
@@ -25,9 +27,9 @@ Nemohu pochopit, proč si to neulehčí tím, že by ke každému jídlu zakalku
 
 ## Proměnná cena jídel během dne
 
-To, zda mají být ceny jídel po celý den stejné není jednoznačné. Odjakživa bylo známo, že největší podíl na potencionálním trhu má ten, kdo nabídne nejnižší ceny za nejlepší kvalitu jídel a nápojů.
+To, zda mají být ceny jídel po celý den stejné, není jednoznačné. Odjakživa bylo známo, že největší podíl na potenciálním trhu má ten, kdo nabídne nejnižší ceny za nejlepší kvalitu jídel a nápojů. 
 
-Ve Francii se ještě dodnes setkáte s tím, že dělníci si s sebou na stavbu nosí jídla v kastrůlku s velkou bagetou a nezbytnou láhví vína. Ptáte se proč? No, protože na stavbách závodní jídelny nemají a na rychlé občerstvení nebo na cateringové vozy, které rozváží jídlo na různá pracoviště Francouzi zatím nevěří. Bistra, která jsou nablízku, jsou dnes již tak drahá, že si je nemůže běžný dělník dovolit.
+Ve Francii se ještě dodnes setkáte s tím, že dělníci si s sebou na stavbu nosí jídla v kastrůlku s velkou bagetou a nezbytnou láhví vína. Ptáte se proč? No, protože na stavbách závodní jídelny nemají a na rychlé občerstvení nebo na cateringové vozy, které rozváží jídlo na různá pracoviště, Francouzi zatím nevěří. Bistra, která jsou nablízku, jsou dnes již tak drahá, že si je nemůže běžný dělník dovolit.
 
 Není tomu tak ale jen ve Francii. S něčím podobným se můžete setkat všude, včetně České republiky. Restauratéři si dosud neuvědomují, že většina lidí nechce za oběd utratit celodenní kapesné.
 
@@ -35,13 +37,13 @@ Není tomu tak ale jen ve Francii. S něčím podobným se můžete setkat všud
 
 Velká většina restaurací v Americe má ceny v poledne nižší než večer, a proto mají tolik těch u nás nenáviděných rychlých občerstvení, kde se najíte za pár drobných.
 
-Donutily je k tomu okolnosti. Jak jsem se již zmínil, většina lidí v Americe, kteří během dne pracují, se chtějí v poledne rychle a levně najíst. Dávají tedy přednost rychlým občerstvením nebo restauracím se samoobsluhou, kde nemusí čekat, a kde se za pár dolarů najedí během 15 až 20 minut, a navíc ještě ušetří spropitné.
+Donutily je k tomu okolnosti. Jak jsem se již zmínil, většina lidí v Americe, kteří během dne pracují, se chtějí v poledne rychle a levně najíst. Dávají tedy přednost rychlým občerstvením nebo restauracím se samoobsluhou, kde hosté nemusí čekat, a kde se za pár dolarů najedí během 15 až 20 minut, a navíc ještě ušetří spropitné.
 
 Restauratérům se stolovým zařízením a plnou obsluhou netrvalo dlouho, než si to také uvědomili. Proto mají polední a večerní jídelní lístky. Ve většině případů mají na poledních lístcích mimo takzvaných poledních jídel a sendvičů i stejná jídla jako večer. Jsou ale levnější, protože je podávají v menších porcích.
 
 Existuje ale stále dost restauratérů, kteří mají stejné ceny jak v poledne, tak i večer. Argumentují tím, že elektřina, plyn i voda je stojí po celý den stejně, a že ani kuchařům nemohou platit v poledne méně než večer.
 
-S těmito argumenty plně souhlasím. Přesto si ale myslím, že by restaurace měly mít jídla v poledne levnější než večer i kdyby porce byly stejné, a ztráty vyrovnat zvýšeným obratem. Myslím si, že dříve nebo později, by k tomuto systému měla i v Česku přistoupit většina restaurací bývalé první a druhé cenové skupiny.
+S těmito argumenty plně souhlasím. Přesto si ale myslím, že by restaurace měly mít jídla v poledne levnější než večer, i kdyby porce byly stejné, a pomyslné ztráty vyrovnat zvýšeným obratem. Myslím si, že dříve nebo později, by k tomuto systému měla i v Česku přistoupit většina restaurací bývalé první a druhé cenové skupiny. 
 
 ## Výrobní cena jídel
 
@@ -49,7 +51,7 @@ V každé restauraci, ať malé nebo velké, bychom měli mít seznam jídel, kt
 
 Výrobní cena jídel je ale něco, co se velmi často mění. Výrobní cenu, jak víme, ovlivňuje nákupní cena surovin, jejich výtěžnost při opracování a přípravě před kuchyňskou úpravou. Výrobní cena je ovlivněna i zručností kuchaře. Uvědomme si jen, kolik jídel pokazí učedník do doby, než se to všechno naučí.
 
-Ale i mistr tesař, se někdy utne a mistři kuchaři nejsou výjimkou. V běžné kuchyni se o takovýchto věcech nemluví, ale musí se s tím počítat. Chtěl bych mít peníze za suroviny, které jsem během praxe pokazil. Když dojde ke katastrofální ztrátě, tak se to většinou nějak odepíše. V každé kuchyni dochází k řadě ztrát, které někdo musí zaplatit. Některé ztráty jsou zjevné, ale některé, jako například ztráty rozkrádáním, tak docela zjevné nejsou.
+Ale i mistr tesař se někdy utne a mistři kuchaři nejsou výjimkou. V běžné kuchyni se o takovýchto věcech nemluví, ale musí se s tím počítat. Chtěl bych mít peníze za suroviny, které jsem během praxe pokazil. Když dojde ke katastrofální ztrátě, tak se to většinou nějak odepíše. V každé kuchyni dochází k řadě ztrát, které někdo musí zaplatit. Některé ztráty jsou zjevné, ale některé, jako například ztráty rozkrádáním, tak docela zjevné nejsou.
 
 Proto výrobní cenu doplňujeme do seznamu surovin až po vypracování kalkulací, ale chtě nechtě k ní budeme muset přičíst i tyto „nezjistitelné“ ztráty. Výrobní cena nám pak umožní vybírat pro jídelní lístek jídla podle její výše.
 
@@ -77,7 +79,7 @@ Ceny by každopádně měly odpovídat charakteru podniku, kvalitě jídel a slu
 
 Neměli bychom podceňovat inteligenci hostů. Nevím jak dlouho si hosté, obzvláště absolventi Hostovky, nechají líbit to, aby ve většině pražských restauracích cena polévky činila téměř třetinu ceny hlavního jídla.
 
-Nebo aby všechny přílohy byly na lísku vždy zvlášť, a to za třetinu až polovinu ceny hlavního jídla. Jestliže zelenina jako chřest je pro daný podnik příliš drahá, tak proč ji vůbec dávají na lístek.
+Nebo aby všechny přílohy byly na lísku vždy zvlášť, a to za třetinu až polovinu ceny hlavního jídla. Jestliže zelenina jako chřest je pro daný podnik příliš drahá, tak proč ji vůbec dávají na lístek?
 
 Některé restaurace jsou tak nestydaté, že uvádí na lístku i ceny omáček. Na některých lístcích rozdíl mezi nejlevnějším a nejdražším hlavním jídlem bez přílohy je až 300 Kč. To pan vedoucí nevidí, že něco není v pořádku? Buď musí snížit velikost porce u drahého jídla, nebo musí zvýšit velikost porce u laciného, aby se poměr cen vyrovnal. Jestliže to nejde, tak se dané jídlo na lístek nehodí.
 
@@ -108,16 +110,8 @@ Dosažení maximálního zisku je podmíněno správnou tvorbou cen a dodržení
 
 ### Požadované procento nákladů na suroviny
 
-Nejběžnější způsob tvorby cen je podle požadovaného procenta nákladů na suroviny je. Jak ale uvidíme později, z hlediska vytvoření maximálního zisku není zrovna nejlepší.
-
-Restaurace si stanoví požadované procento spotřeby surovin. To za předpokladu dodržení stanoveného procenta ostatních nákladů, musí dodržet, aby dosáhli požadovaného zisku.
+Nejběžnější způsob tvorby cen je podle požadovaného procenta nákladů na suroviny. Jak ale uvidíme později, z hlediska vytvoření maximálního zisku není zrovna nejlepší. Restaurace si stanoví požadované procento spotřeby surovin. To za předpokladu dodržení stanoveného procenta ostatních nákladů musí dodržet, aby dosáhla požadovaného zisku. 
 
 Podle charakteru podniku to může u provozoven rychlého občerstvení být 10 až 12 %, avšak u restaurací vyšších cenových skupin, ve kterých zpracovávají většinou drahé ryby, dary moře, steaky a výběrová masa, to může být až 50 %. Všeobecně akceptované „ideální“ procento je 33 %.
 
 Někteří malí restauratéři, kteří se moc kalkulacemi cen nezabývají, vědí, že k dodržení tohoto ideálního procenta musí suroviny, které nakoupí například za 10 Kč prodat za 30 Kč. U větších restaurací tento zjednodušený způsob kontroly spotřeby bohužel nestačí a k tvorbě cen musíme přistupovat poněkud zodpovědněji, a to pomocí kalkulací.
-
-### Kalkulace
-
-Nedá se říci, že kalkulace jídel a nápojů by byla nějaká věda, ale Hostovka není školou vaření či managementu, a tak se s vámi o techniku jejich tvorby na těchto stránkách podělit nemohu.
-
-Jsem přesvědčen, že v případě zájmu, vám o nich podá jakákoliv z našich odborných či hotelových škol alespoň základní informace.
