@@ -1,9 +1,9 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=126.html" data-og-image="files/preview/clanky/stroganov/preview.jpg" data-og-type="article"} 
 
-{id="stroganov" ctime="2005-12-21" author="Michael Klíma" mtime="2019-02-27"}  
+{id="stroganov" short="Stroganov" ctime="2005-12-21" author="Michael Klíma" mtime="2019-02-27"}  
 
-# Stroganov 
+# Hovězí Stroganov s hranolky
 
 {kw="jídla a jídelní lístky, nejčtenější"}  
 
@@ -27,7 +27,7 @@ V Americe se všechny formy Stroganovů podávají s nudlemi nebo s rýží, ale
 
 ## Recept na Stroganov na 100 porcí 
 
-Přikládám vám vlastní recept na Stroganoff a způsob, kterým ho můžete během 30 až 35 minut udělat jakékoliv množství. Recept jsem úmyslně napsal na 100 porcí, ale neměl by být problém ho přepočíst na 800 nebo i více porcí. 
+Přikládám vám vlastní recept na Stroganov a způsob, kterým ho můžete během 30 až 35 minut udělat jakékoliv množství. Recept jsem úmyslně napsal na 100 porcí, ale neměl by být problém ho přepočíst na 800 nebo i více porcí. 
 
 ### Ingredience 
 
