@@ -5,6 +5,8 @@
 
 # Používání klubových talířů
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-06, do not edit -->
+
 {kw="restaurace a servis"}
 
 Klubové talíře jsou velké, kulaté ozdobné porcelánové, kovové, stříbrné, nebo dokonce i dřevěné talíře o průměru 30 až 33 cm. Dávají se na každé místo u stolu místo prostírání. Klubové talíře pocházejí z anglického _base plates_ nebo _service plates_ a ve světě jsou známy jako _Platzteller_ (německy) anebo také _Assiette de présentation_ (francouzsky).

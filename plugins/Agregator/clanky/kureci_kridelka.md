@@ -5,6 +5,8 @@
 
 # Kuřecí křidélka a jejich příprava
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-06, do not edit -->
+
 {kw="jídla a jídelní lístky, kuře"}
 
 Kdysi byla kuřecí křidélka víceméně nepotřebným odpadem. Pracoval jsem tehdy jako konzultant v jednom relativně velkém hotelu v Egyptě, kde se zpracovává velké množství kuřat, a to většinou pečených. Před pečením se z těch kuřat křidélka odřízla a uložila do mrazáku. Následně je použili do vývaru nebo je upekli a podávali je na bufetu pod názvem Buffalo Wings.

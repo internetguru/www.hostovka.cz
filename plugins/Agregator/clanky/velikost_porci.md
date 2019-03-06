@@ -5,6 +5,8 @@
 
 # Správná velikost porce
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-06, do not edit -->
+
 {kw="jídla a jídelní lístky"}
 
 Žádný úřad, instituce, strana a vláda nám dnes již nemůže diktovat, jak velké by porce měly být. Jediný, kdo určuje velikost porcí, je spotřebitel.

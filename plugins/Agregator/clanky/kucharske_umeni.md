@@ -5,6 +5,8 @@
 
 # Pomíjivost kuchařského umění
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-06, do not edit -->
+
 {kw="gastronomie"}
 
 Cílem dnešního kuchařského umění je odborně, hygienicky a ekonomicky správně připravit jídlo, které je zdravé, chutné a atraktivní, a které si získá obdiv a uznání jeho konzumentů. Cesta k tomuto cíli je jen ve znalostech a schopnostech kuchaře.

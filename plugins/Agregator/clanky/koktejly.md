@@ -5,6 +5,8 @@
 
 # Koktejly a barmanství
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-06, do not edit -->
+
 {kw="nápoje, koktejly, zkušensti"}
 
 Občas jsem se díval na barmana Karla Kroupu zvaného Charlie, o kterém jsem si ve svých 14 letech myslel, že je největším barmanem na světě. Pozoroval jsem ho, když mixoval koktejly, a snil jsem o tom, že jednoho dne budu také takovým slavným barmanem jako je on. Tento sen se mi však nikdy nesplnil.

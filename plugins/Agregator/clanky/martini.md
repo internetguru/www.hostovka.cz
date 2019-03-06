@@ -5,6 +5,8 @@
 
 # Historie koktejlu Martini
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-06, do not edit -->
+
 {kw="nápoje, koktejly"}
 
 Pravděpodobně žádný jiný koktejl není tak známý jako Martini. Dejte se na baru do řeči s kterýmkoliv hostem a zmiňte se o Martini a v tom okamžiku dostanete další z milionů receptů, za který jsou jeho vyznavači ochotni bojovat.

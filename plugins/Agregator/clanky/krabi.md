@@ -5,6 +5,8 @@
 
 # Druhy a příprava krabů
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-06, do not edit -->
+
 {kw="jídla a jídelní lístky, recepty, krabi"}
 
 Každý krab pochází z relativně velké rodiny. Krabí samice, která byla oplodněna krabím samcem (v době, kdy byla nahá bez krunýře), po nějaké době snese několik miliónů vajíček. Tato vajíčka vytvoří oranžovou hmotu, která je přichycena ke spodnímu krunýři samice po dobu asi patnácti dnů. Poté se každé vajíčko stane volně plovoucí „lahůdkou“.

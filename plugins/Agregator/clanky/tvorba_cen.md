@@ -5,6 +5,8 @@
 
 # Tvorba cen nápojů a jídel
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-06, do not edit -->
+
 {kw="jídla a jídelní lístky"}
 
 Studenti Hostovky by měli mít alespoň základní ponětí, jak restauratéři vytvářejí ceny jídel. Pokud si článek pozorně přečtete, tak se dokonce stanete odborníky na odhad správných cen.
