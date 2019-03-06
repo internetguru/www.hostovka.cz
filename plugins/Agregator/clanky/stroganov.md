@@ -37,24 +37,23 @@ Přikládám vám vlastní recept na Stroganov a způsob, kterým ho můžete b�
 
 ### Ingredience
 
-n/a
-
 Uvedené váhy ingrediencí jsou v tomto případě (obzvláště pro použití v českých podmínkách) přibližné a slouží hlavně pro kalkulaci ceny.
-:   15 kg hovězí špičky nebo ořechu krájené na nudličky (_julienne_)
-:   80 g soli
-:   10 g mletého bílého pepře
-:   1,5 šálku oleje
-:   1,5 kg drobně krájené cibule
-:   4 l kyselé smetany
-:   2 l mléka
-:   2 kg hladké mouky
-:   0,5 šálku hořčice
-:   1 lžíce mletého kmínu
-:   0,5 lžíce worcestrové omáčky
-:   1 kg nakládaných okurek nakrájených na nudličky
-:   2 kg na plátky krájených čerstvých žampionů
-:   0,5 lžíce strouhané citrónové kůry
-:   0,5 šálku citrónové šťávy
+
+  * 15 kg hovězí špičky nebo ořechu krájené na nudličky (_julienne_)
+  * 80 g soli
+  * 10 g mletého bílého pepře
+  * 1,5 šálku oleje
+  * 1,5 kg drobně krájené cibule
+  * 4 l kyselé smetany
+  * 2 l mléka
+  * 2 kg hladké mouky
+  * 0,5 šálku hořčice
+  * 1 lžíce mletého kmínu
+  * 0,5 lžíce worcestrové omáčky
+  * 1 kg nakládaných okurek nakrájených na nudličky
+  * 2 kg na plátky krájených čerstvých žampionů
+  * 0,5 lžíce strouhané citrónové kůry
+  * 0,5 šálku citrónové šťávy
 
 {class="example"}
 
