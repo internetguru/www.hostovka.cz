@@ -14,7 +14,7 @@ Velikost porcí určíme na základě zkušeností nebo průzkumu o přáních, 
 
 Jiné představy o správné velikosti porcí jídel (a jejich ceně) mají mladí lidé, ženy, muži, těžce pracující dělník a také důchodce. V minulosti u nás byly porce masa regulovány na základě hospodářských možností, a proto byly ve srovnání s mezinárodním standardem relativně malé.
 
-Zahraniční hosté (ze západu) jsou zvyklí na větší porce masa. Jsou také zvyklí na to, že porce jídel, a tudíž i jejich ceny, jsou v poledne nižší než večer.
+Zahraniční hosté (ze západu) jsou zvyklí na větší porce masa. Jsou také zvyklí na to, že porce jídel, a tudíž i jejich [ceny, jsou v poledne nižší než večer][1]. 
 
 ### Velikost porce na jídelním lístku
 
@@ -22,7 +22,7 @@ Pokud váhu porcí na jídelním lístku uvádíme, tak je to víceméně proto,
 
 Jak vyplývá ze zákona 104/1995 Sb. o ochraně spotřebitele, v případech, kdy to není možné nebo účelné, nemusí být informace o hmotnosti porce a složení pokrmu sděleny písemnou formou. Zákon však prodávajícímu ukládá tyto informace na požádání pravdivě sdělit a kontrolnímu orgánu také doložit. Nechci kritizovat české zákonodárství, ale někdy mi přijde, že se zákony dělají tak, aby se vlk nažral a koza zůstala celá.
 
-Velikost porcí totiž uvádíme na jídelním lístku v našem vlastním zájmu a pro lepší informovanost hostů, a ne proto, že je to nařízení obchodní inspekce.
+Velikost porcí totiž uvádíme na jídelním lístku ve vlastním zájmu a pro lepší informovanost hostů, a ne proto, že je to nařízení obchodní inspekce.
 
 Porce udávané běžně na jídelních lístcích jako pár holubů, půlka kuřete, čtvrtka kachny, celý pstruh, celý humr a podobně, jsou jen přibližný údaj o velikosti. Například tucet nebo půl tuctu ústřic nikomu nic neříká, protože rozdíly v jejich velikosti jsou veliké. Zajímalo by mě, jak se s tím kontrolní orgány vypořádávají.
 
@@ -36,7 +36,7 @@ Tajemství neúspěchu některých našich restauratérů (až na výjimky) je v
 
 ### Jak určit velikost porce
 
-Udávání velikostí steaků ve váhách 150, 200 nebo 300 g je jen vžitou zvyklostí. V Americe se například váha steaků uvádí v uncích - 8 uncí (226.8 g), 10 uncí (283.5 g), 16 uncí (453.6 g).
+Udávání velikostí steaků ve váhách 150, 200 nebo 300 g je jen vžitou zvyklostí. V Americe se například váha steaků uvádí v uncích: 8 uncí (226,8 g), 10 uncí (283,5 g), 16 uncí (453,6 g).
 
 Vodítkem k určení váhy porcí může být následující mezinárodně užívaná tabulka pro večerní jídelní lístek, přičemž polední porce mohou být o 50 až 100 g menší.
 
@@ -91,3 +91,5 @@ Vařená rýže, těstoviny, knedlíky (jako příloha)
 {class="example"}
 
 V případě, že si host objedná k jídlu dva druhy zeleniny nebo například dva druhy knedlíků, podáváme dvě poloviční porce. Váhy porcí upravujeme podle místních zvyklostí a nesmíme se bát vybočit ze stereotypu stogramových až třistagramových porcí, a začít podávat některé pokrmy ve váze 170, nebo 220 g apod.
+
+[1]: /tvorba_cen
