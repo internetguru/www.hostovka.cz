@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=171.html" data-og-image="/files/preview/clanky/tvorba_cen/general.jpg" data-og-type="article"}
 
-{id="tvorba_cen" ctime="2006-09-02" author="Michael Klíma" short="Velikost porce" mtime="2019-02-27"}
+{id="velikost_porce" ctime="2006-09-02" author="Michael Klíma" short="Velikost porce" mtime="2019-02-27"}
 
 # Správná velikost porce
 
