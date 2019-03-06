@@ -1,8 +1,9 @@
+
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=171.html" data-og-image="/files/preview/clanky/tvorba_cen/general.jpg" data-og-type="article"}
 
-{id="tvorba\_cen" ctime="2006-09-02" author="Michael Klíma" short="Velikost porce" mtime="2019-02-27"}
+{id="tvorba_cen" ctime="2006-09-02" author="Michael Klíma" short="Velikost porce" mtime="2019-02-27"}
 
-## Správná velikost porce
+# Správná velikost porce
 
 {kw="jídla a jídelní lístky"}
 
@@ -14,9 +15,11 @@ Velikost porcí určíme na základě zkušeností nebo průzkumu o přáních, 
 
 Jiné představy o správné velikosti porcí jídel (a jejich ceně) mají mladí lidé, ženy, muži, těžce pracující dělníci a nebo důchodci. V minulosti u nás byly porce masa regulovány na základě hospodářských možností, a proto byly ve srovnání s mezinárodním standardem relativně malé.
 
-Zahraniční hosté (ze západu) jsou zvyklí na větší porce masa. Jsou také zvyklí na to, že porce jídel, a tudíž i jejich [ceny, jsou v poledne nižší než večer][1]. 
+Zahraniční hosté (ze západu) jsou zvyklí na větší porce masa. Jsou také zvyklí na to, že porce jídel, a tudíž i jejich [ceny, jsou v poledne nižší než večer][1].
 
-### Velikost porce na jídelním lístku
+{id="velikost\_porce\_na\_jidelnim\_listku"}
+
+## Velikost porce na jídelním lístku
 
 Pokud váhu porcí na jídelním lístku uvádíme, tak je to víceméně proto, abychom informovali hosty o velikosti porcí. V tom případě je tento údaj závazný.
 
@@ -28,7 +31,9 @@ Nechci kritizovat české zákonodárství, ale někdy mi přijde, že se zákon
 
 Porce udávané běžně na jídelních lístcích jako pár holubů, půlka kuřete, čtvrtka kachny, celý pstruh, celý humr a podobně, jsou jen přibližný údaj o velikosti. Například tucet nebo půl tuctu ústřic nikomu moc neřekne, protože rozdíly ve velikosti ústřic mohou být veliké. Zajímalo by mě, jak se s tím kontrolní orgány vypořádávají.
 
-### Psychologie tvorby velikosti porce
+{id="psychologie\_tvorby\_velikosti_porce"}
+
+## Psychologie tvorby velikosti porce
 
 Mělo by být v zájmu restauratéra, aby každá porce jídla odpovídala představám hosta, a aby byla vizuálně co možná největší. Bohužel to bude ještě dlouho trvat, než naši restauratéři psychologii prodeje pochopí, a proto s některými zdánlivě zbytečnými nařízeními mlčky souhlasím.
 
@@ -36,7 +41,9 @@ Mělo by být v zájmu restauratéra, aby každá porce jídla odpovídala před
 
 Tajemství _úspěchu_ amerického restauratéra je v tom, že mnohdy ani nespí, a stále přemýšlí, co by svému hostu dal navíc, aby ho uspokojil a aby mu přitom zbyl zasloužený zisk. Naproti tomu tajemství _neúspěchu_ některých českých restauratérů je (až na výjimky) v tom, že mnohdy ani nespí a stále jen přemýšlí, jak to udělat, aby hostu za jeho peníze dali co nejméně a aby tím pádem zbylo pro ně co nejvíce.
 
-### Jak určit velikost porce
+{id="jak\_urcit\_velikost_porce"}
+
+## Jak určit velikost porce
 
 Udávání velikostí steaků ve váhách 150, 200 nebo 300 g je jen vžitou zvyklostí. V Americe se například váha steaků uvádí v uncích: 8 uncí (226,8 g), 10 uncí (283,5 g), 16 uncí (453,6 g).
 
@@ -45,57 +52,46 @@ Vodítkem k určení váhy porcí může být následující mezinárodně uží
 {class="col"}
 
 Libové maso bez kostí, s malou tukovou vrstvou
-
-: 150 až 200 g
+:   150 až 200 g
 
 Maso, kotleta nebo žebírko s kostí
-
-: 200 až 300 g
+:   200 až 300 g
 
 Maso bez kostí (steaky a řízky)
-
-: 150 až 200 g
+:   150 až 200 g
 
 Dušeniny, haše, masové směsi (těstovinová a rýžová jídla)
-
-: 100 až 200 g
+:   100 až 200 g
 
 Kuřata, drůbež s kostí
-
-: 250 až 350 g
+:   250 až 350 g
 
 {class="col"}
 
 Drůbež bez kostí
-
-: 150 až 250 g
+:   150 až 250 g
 
 Ryby celé
-
-: 150 až 200 g
+:   150 až 200 g
 
 Rybí filé
-
-: 100 až 150 g
+:   100 až 150 g
 
 Plody moře (krevetky, mušle)
-
-: 120 až 180 g
+:   120 až 180 g
 
 Zelenina (brambory) jako příloha
-
-: 150 až 200 g
+:   150 až 200 g
 
 Tekutiny (polévky, džusy, káva)
-
-: 2 až 3 dl
+:   2 až 3 dl
 
 Vařená rýže, těstoviny, knedlíky (jako příloha)
-
-: 120 až 150 g
+:   120 až 150 g
 
 {class="example"}
 
 V případě, že si host objedná k jídlu dva druhy zeleniny nebo například dva druhy knedlíků, podáváme dvě poloviční porce. Váhy porcí upravujeme podle místních zvyklostí a nesmíme se bát vybočit ze stereotypu stogramových až třistagramových porcí, a začít podávat některé pokrmy ve váze 170, nebo 220 g apod.
 
-[1]: /tvorba_cen
+ [1]: /tvorba_cen
+
