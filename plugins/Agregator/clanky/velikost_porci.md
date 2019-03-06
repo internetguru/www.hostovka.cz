@@ -42,6 +42,8 @@ Udávání velikostí steaků ve váhách 150, 200 nebo 300 g je jen vžitou zvy
 
 Vodítkem k určení váhy porcí může být následující mezinárodně užívaná tabulka pro večerní jídelní lístek, přičemž polední porce mohou být o 50 až 100 g menší.
 
+{class="col"}
+
 Libové maso bez kostí, s malou tukovou vrstvou
 
 : 150 až 200 g
@@ -62,7 +64,7 @@ Kuřata, drůbež s kostí
 
 : 250 až 350 g
 
-
+{class="col"}
 
 Drůbež bez kostí
 
