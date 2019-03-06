@@ -45,3 +45,9 @@ Příprava krabů na grilu je nejenom jednoduchá, ale velice rychlá. Předpokl
 
 n/a
 
+Pojídání krabů, hlavně těch velkých, není žádná věda. Po skončení krabí hostiny je více odpadu, než bylo krabů na začátku. Gurmáni, kteří často jedí kraby říkají, že ideální je jíst kraby ve vaně.
+
+Ve většině restaurací vám vanu sice nepřinesou, ale podávají kraby s už rozdrcenými klepety. Někteří labužníci dávají přednost tomu, že si klepeta rozlousknou sami. V tom případě vám podají louskáček na klepeta a případně i malý bryndáček, abyste si nepotřísnili kravatu.
+
+Skladování krabů je jednoduché. Živé kraby přikryjeme vlhkou utěrkou a uložíme v chladném místě kde nám vydrží až 12 hodin. Dříve než je začneme vařit, tak se přesvědčíme, zda se ještě hýbou (zda jsou živí). Vařit mrtvé kraby je dosti riskantní byznys. Nakonec i vaření krabi by se měli spotřebovat ten den, kdy byli uvařeni.
+
