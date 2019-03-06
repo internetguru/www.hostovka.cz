@@ -19,11 +19,11 @@ Nedá se říci, že kalkulace jídel a nápojů by byla nějaká věda. Hostovk
 
 Musím předeslat, že s cenotvorbou v České republice mám jisté dilema. Během let jsem napsal tisíce jídelních lístků a vykalkuloval ještě více cen. Přestože si myslím, že jsem odborník na cenotvorbu, tak se mi ale ani při nejbujnější fantazii nedaří odhadnout, podle jakého systému se tvoří ceny v České republice.
 
-Například v jedné restauraci na Karlovarsku (v roce 2001) měli na jídelním lístku svíčkovou i s knedlíky za 85 Kč. To je podle mě úplně zadarmo. Nejsem tak naivní, abych si myslel, že používají pravou svíčkovou. Odmyslím-li si ale hodnotu masa, tak vím, že svíčková dá zatraceně hodně práce, nehledě na to, že ji musí uvařit někdo, kdo o vaření něco ví.
+{class="example"}
 
-Oproti tomu smažené žampiony, které můžete koupit předem obalené a zmražené, a které může na objednávku usmažit každý zámečník, v té restauraci stály 80 Kč bez přílohy.
+V jedné restauraci na Karlovarsku měli (v roce 2001) na jídelním lístku svíčkovou i s knedlíky za 85 Kč. To je podle mě úplně zadarmo. Nejsem tak naivní, abych si myslel, že používají pravou svíčkovou. Odmyslím-li si ale hodnotu masa, tak vím, že svíčková dá zatraceně hodně práce, nehledě na to, že ji musí uvařit někdo, kdo o vaření něco ví. Oproti tomu smažené žampiony, které můžete koupit předem obalené a zmražené, a které může na objednávku usmažit každý zámečník, v té restauraci stály 80 Kč bez přílohy.
 
-Nemohu pochopit, proč si to neulehčí tím, že by ke každému jídlu zakalkulovali zeleninu a přílohu, která se k tomu jídlu hodí, rovnou. Pak stačí na lístek například napsat, že záměna příloh je možná.
+Nemohu pochopit ani to, proč si české restaurace tvorbu cen neulehčí také tím, že by ke každému jídlu zakalkulovaly zeleninu a vhodnou přílohu rovnou. Pak stačí na lístek například napsat, že záměna příloh je možná.
 
 ## Proměnná cena jídel během dne
 
@@ -79,21 +79,19 @@ Ceny by každopádně měly odpovídat charakteru podniku, kvalitě jídel a slu
 
 ### Nepoměr v cenách
 
-Neměli bychom podceňovat inteligenci hostů. Nevím jak dlouho si hosté, obzvláště absolventi Hostovky, nechají líbit to, aby ve většině pražských restauracích cena polévky činila téměř třetinu ceny hlavního jídla.
+Neměli bychom podceňovat inteligenci hostů. Nevím jak dlouho si hosté (obzvláště absolventi Hostovky) nechají líbit to, aby ve většině pražských restauracích cena polévky činila téměř třetinu ceny hlavního jídla. Nebo aby všechny přílohy byly na lísku vždy zvlášť, a to za třetinu až polovinu ceny hlavního jídla. Pokud je chřest jako zeleninová příloha pro daný podnik příliš drahý, tak proč ho vůbec dávají na lístek?
 
-Nebo aby všechny přílohy byly na lísku vždy zvlášť, a to za třetinu až polovinu ceny hlavního jídla. Jestliže zelenina jako chřest je pro daný podnik příliš drahá, tak proč ji vůbec dávají na lístek?
-
-Některé restaurace jsou tak nestydaté, že uvádí na lístku i ceny omáček. Na některých lístcích rozdíl mezi nejlevnějším a nejdražším hlavním jídlem bez přílohy je až 300 Kč. To pan vedoucí nevidí, že něco není v pořádku? Buď musí snížit velikost porce u drahého jídla, nebo musí zvýšit velikost porce u laciného, aby se poměr cen vyrovnal. Jestliže to nejde, tak se dané jídlo na lístek nehodí.
+Některé restaurace jsou tak nestydaté, že uvádí na lístku i ceny omáček. Na některých lístcích je rozdíl mezi nejlevnějším a nejdražším hlavním jídlem bez přílohy až 300 Kč. To pan vedoucí nevidí, že něco není v pořádku? Buď musí snížit velikost porce u drahého jídla, nebo musí zvýšit velikost porce u laciného, aby se poměr cen vyrovnal. Jestliže to nejde, tak se dané jídlo na lístek prostě nehodí.
 
 ### Tradiční ceny
 
 Některé ceny jsou považovány za tradiční a v mnoha případech se na nich nedá nic měnit. Ve čtyřicátých letech byla například cena kávy v Americe tak nízká, že káva byla při konzumaci jídla zdarma.
 
-Cena kávy zůstala ještě po mnoho let stejná, i přes zvýšení cen zrnkové kávy. Žádný z restauratérů nechtěl riskovat ztrátu své klientely zvýšením její tradiční ceny. V šedesátých letech, kdy byla cena pár centů byla již neúnosná, se cena kávy poněkud zvýšila. Tato káva podle našeho standardu sice za moc nestála, ale Američané ji pili jako vodu.
+Cena kávy zůstala ještě po mnoho let stejná, i přes zvýšení cen zrnkové kávy. Žádný z restauratérů nechtěl riskovat ztrátu své klientely zvýšením její tradiční ceny. V šedesátých letech se cena kávy poněkud zvýšila, protože bylo už neúnosné, aby její cena byla stále pár centů. Tato káva podle evropského standardu sice za moc nestála, ale Američané ji pili jako vodu.
 
 {class="example"}
 
-Tradiční ceny jsou také často nepřímo diktovány vedoucími organizacemi v oboru. V provozech rychlého občerstvení firmy jako je McDonald, Kentucky Fried Chicken, Burger King, Wendy's a jiné silné organizace udávají výši cen, které se pak jejich konkurenti neodváží překročit. Takovou nepřekročitelnou hranicí dnes je jeden dolar, lépe řečeno 99 centů.
+Tradiční ceny jsou také často nepřímo diktovány vedoucími organizacemi v oboru. V provozech rychlého občerstvení firmy jako je McDonald's, Kentucky Fried Chicken, Burger King, Wendy's a jiné silné organizace udávají výši cen, které se pak jejich konkurenti neodváží překročit. Takovou nepřekročitelnou hranicí pro kávu je dnes jeden dolar, lépe řečeno 99 centů.
 
 Pro příklady tradičních cen nemusíme chodit do Ameriky. Příklady tradičních cen piva v České republice jsou příkladné. Ne nadarmo se říká, že vláda, která zdraží pivo okamžitě padne.
 
@@ -105,6 +103,8 @@ Cena musí splňovat dvě základní podmínky:
 
   1. být atraktivní pro hosty a
   2. být rentabilní pro provozovatele.
+
+{class="important"}
 
 Atraktivní ceny jsou takové, které upoutají hostovu pozornost, působí věrohodně, a které na prvý pohled odpovídají charakteru podniku a standardu poskytovaných služeb. Nesprávně stanovené ceny hosta odradí ještě dříve, než se přesvědčí o jejich správnosti.
 
