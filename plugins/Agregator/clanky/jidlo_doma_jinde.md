@@ -1,0 +1,87 @@
+
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=189.html" data-og-image="/files/preview/clanky/jidlo\_doma\_jinde/general.jpg" data-og-type="article"}
+
+{id="jidlo\_doma\_jinde" ctime="2006-11-10" author="Michael Klíma" short="Jídlo doma a jinde" authorid="hostovka/michael_klima"}
+
+# Doma jez co máš a jinde co ti dají
+
+{kw="gastronomie"}
+
+Toto je jedno velmi staré české přísloví které ale nesmíte brát doslova, nebo lépe řečeno které si můžete vyložit jak chcete.
+
+Já jsem to například slyšel velmi často od maminky když jsem někdy nevyjádřil nadšení nad tím co nám uvařila, ale můžete mi věřit že to nikdy nebylo díky pochybám o kvalitě toho jídla nebo jeho hygienické či zdravotní nezávadnosti.
+
+Já ale dnes doma jím jen to co si sám uvařím a nemusím vás asi ubezpečovat, že to nemá chybu. Nicméně díky mému povolání jím velice často mimo domov, a tak jak nás naše strana a vláda učila, jsem bdělý a ostražitý v tom kdy, kde, co a jak jím.
+
+Poslání Hostovky, jak jsme si již několikrát řekli je naučit studenty kdy, kde, co a jak jíst, ale obávám se že jsem se nikdy nezmínil o riziku které s konzumací některých jídel a nápojů souvisí.
+
+Ve většině případů to není potravina sama o sobě, protože já jsem si vytvořil takovou teorii, že když něco, co se nám zdá být odporné mohou jíst druzí a to s velkou chutí a přežijí to, tak na té potravině samotné nemůže být nic špatného.
+
+Já ale vím, že v zahraničí je to v mnoha případech i imunita domorodců vůči některým škodlivým bakteriím díky které nikdy neonemocní.
+
+Pracoval jsem totiž v Americe v kuchyních se samými Mexičany kteří nikdy neměli žádné gastronomické potíže až do doby kdy odjeli do svého rodného Mexika na několika denní dovolenou. Díky tomu že tu imunitu v Americe ztratili se z té dovolené vrátili se stejnými potíži s jakými se z Mexika vrací Američané.
+
+V čem je tudíž zakopaný pes, je hygiena a techniky přípravy jídel. K té hygieně jen tolik, že přes některé nedostatky nemůžeme hygienu ve většině nových restauracích v České republice hodnotit že by byla pod mezinárodním standardem. Navíc díky přísným současným zákonům a nařízením dojde doufám ještě k dalšímu podstatnému zlepšení.
+
+Problém tudíž ještě jsou současné zastaralé techniky přípravy jídel, případně v tom do kdy jsou tato jídla po přípravě konzumována, eventuálně jak jsou udržována při stanovené teplotě.
+
+Hostovka není nějaká škola vaření tudíž o těch technikách si řekněme jen tolik, že od nepaměti snahou všech kuchařů je dobu od dohotovení jídla do doby jeho kontumace zkrátit na minimum. Potom ale v tak zvaných technicky vyspělých zemích přišlo chlazení, mrazení a jiné techniky uchovávání jídel (tak zvaných hotovek), po delší dobu, a tak se na všechny ty tisíce let staré techniky jako, grilování, brojlování, rožnění, nemluvě o smažení nebo o přípravě jídel ve woku (stir-frying), tak říkajíce "na objednávku" v západním světě úplně zapomnělo.
+
+Nicméně jak se zdá, tak v posledních několika letech díky moderním grilům, gridlům a rotiseriím došlo k jistému obrození těch zapomenutých technik. Problémem ale stále ještě zůstává že ku znalostem většiny výše zmíněných technik potraviny schází znalost vhodných potravin a mnohdy skutečnost, že tyto potraviny, jako například kvalitní maso, na našem trhu zatím nejsou. To že někdo tvrdí opak, pramení z nedostatečné možnosti srovnání.
+
+Proto ale ještě po dlouhou dobu milovníci všech těch dušených a zdlouhavě připravovaných jídel nemusí mít obavy, že by z našich jídelních lístků z cela vymizely.
+
+Totiž vepřo, knedlo, zelo; pečená kachna; svíčková, guláš, španělští ptáčci, dušené roštěnky a podobná jídla, která lze připravit i z méně kvalitních (nevyzrálých) mas, budou na jídelních lístcích českých restaurací ještě hodně a hodně dlouho.
+
+Navzdory tomu se ale dá říci, že rychlá příprava jídel je současný globální trend, a já jak jste si asi povšimli, jsem propagátorem tohoto trendu již od Sametové revoluce.
+
+V Česku má rychlá příprava jídel stále ještě mnoho odpůrců, ale i to je jen z nedostatečné možnosti srovnání. V Česku totiž se někteří lidé domnívají, že jedinými representanty rychlé přípravy jídel jsou jen ty řetězce restaurací známe pod pojmem ?fast food? jako jsou například McDonalds?, KFC, Dunkin Donuts, Pizza Hut apod., na kterých zřejmě není nic špatného, o čemž svědčí jejich popularita.
+
+Nicméně lze říci, že tyto restaurace nejsou pro každého, ale přesto taková protestní hnutí jako je například Slow food nemůže tento trend zastavit.
+
+Carlo Petrini zakladatel hnutí Slow Food poukazuje na to, že industrializace potravinářského průmyslu zavedením tisíce nových druhů potravin způsobila standardizaci chutí což údajně dosáhlo stupně nenávratnosti. Toto není ale tak docela přesný popis protože právě ty "tisíce nových druhů potravin" jsou díky těm nesčetným restauracím rychlého občerstvení zpřístupněny trilionům lidí a ne jen určité třídě "vyvolených".
+
+Podle Petriniho se lidé k tomuto hnutí údajně přidávají proto, že jsou již unaveni kupováním jedněch a těch samých potravin (což odporuje předešlému prohlášení), nebo jídlem z jedněch a těch samých jídel a žít jedním a tím samým životem.
+
+Já se ale domnívám, že argumenty Carlo Petriniho jsou rovněž na základě nedostatečného srovnání. Ono totiž "fast food" a rychlá příprava jídel (fast food preparation) není jedno a to samé.
+
+Já jsem například včera po delší době byl opět v jedné populární restauraci rychlé přípravy PICK UP STIX kterou dobře znám a kterou tady u nás otevřeli. Tato restaurace staví svoji popularitu právě na tom, že žádné jejich jídlo není připravené dopředu jako je tomu v mnoha restauracích ve kterých se jídla vaří po dlouhé hodiny a pak po dalších několik hodin čekají na to, že si je někdo objedná.
+
+Pick Up Stix se specializuje na asijská jídla, tudíž mimo celé řady populárních čínských jídel mají na lístku i jídla ostatních asijských kuchyní.
+
+A kvalita? K tomu mohu říci jen tolik, že se považuji za znalce asijských kuchyní a musím říci, že jejich jídla která jsem zatím ochutnal nemají chybu.
+
+Moje nejoblíbenější čínské jídlo je kuře Kung Pao, které jsem podrobně popsal v mé Čínské kuchařce vydané prvně v roce 1967!
+
+Mohu se také pochlubit tím, že jsem Kung Pao od té doby ochutnal nejméně ve dvaceti zemích, a mohu tudíž zcela zodpovědně říci, že jejich Kung Pao patří mezi ty nejlepší a že se od mého Kung Pao to jejich liší jedině tím, že v něm mají na plátky krájené cukety a plátky vodních kaštanů.
+
+Tím se dostávám k hlavním charakteristikám jídel připravovaným rychlým způsobem:
+
+Naprosto čerstvé očištěné potraviny nakrájené předepsaným způsobem a odvážené či odměřené podle standardní receptury.
+
+Jídla připravená na předepsaném zařízení stanovenými technikami.
+
+#IMG [[http://2017.hostovka.cz/soubor/10-11-06-4.JPG][1]][Prohazování jídla na pánvi]
+
+Jak vidíte, tak toho není moc a navíc musím dodat, že k přípravě těchto jídel nikdo nemusí být vyučen, ani nemusí mít hotelovou školu, ale musí znát potřebný know how.
+
+Žádné požadavky na fantazii či kreativitu kuchaře, žádné svévolné vylepšování jako je tomu v Česku, kdy každý kuchař má svůj vlastní "nejlepší" recept na přípravu svíčkové, ba naopak.
+
+Po krátkém zaškolení všichni kuchaři (pokud se jim tak dá říkat), musí připravovat ta jídla všude a vždy stejně, neboli Kuře Kung Pao v Pekingu na rynku musí být stejné jako v Horních Počáplech.
+
+#IMG \[http://2017.hostovka.cz/soubor/10-11-06-6.JPG\]\[Jídlo\]
+
+To samé se dá říci o velikosti porcí které také musí být pokaždé stejné. Manželka která nemá ráda ostrá jídla si dala její oblíbené kuře s čerstvými cashew ořechy, což podle ní také nemělo chybu, a podle mého odhadu ta porce byla stejně velká jako u toho kuřete Kung Pao.
+
+A to jsem se vlastně nezmínil o rychlosti podle které tento způsob přípravy jídel má své jméno. Příprava žádného toho jídla netrvá déle ne ž 5 minut a tak není divu, že na zahajovací den jenom v poledne obsloužili zhruba asi 300 lidí nemluvě o asi 150 jídlech "přes ulici".
+
+#IMG \[http://2017.hostovka.cz/soubor/10-11-06-7.JPG\]\[Telefonicky objednaná jídla\]
+
+No a teď se ale nemůžete divit, že já jsem všemi těmi technikami rychlé přípravy jídel přímo fascinován.
+
+Nemám ale na mysli jen výše zmíněné řetězce fast food, ale i restaurace, u nás známé jako "zážitkové", ve kterých tím hlavním zážitkem jsou jídla která se sice připravují moderními rychlými technikami, ale ve kterých je host může vychutnat v příjemném prostředí spolu s jeho oblíbeným pivem nebo vínem.
+
+Takovými restauracemi jsou dnes na západě tak zvané STEAKHOUSES, neboli restaurace ve kterých se připravují hlavně steaky a proto jsem vypracoval koncept typického amerického STEAKHOUSE, který ale je přizpůsoben možnostem evropského a východoevropského trhu který vám příležitostně popíši.
+
+ [1]: http://2017.hostovka.cz/soubor/10-11-06-4.JPG
+

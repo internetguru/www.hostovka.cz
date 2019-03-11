@@ -5,10 +5,8 @@ getValue() {
   echo "${val%\"}"
 }
 
-MIN_COUNT=5
 AGREGATOR_XML="plugins/Agregator/Agregator.xml"
 INPUTVAR_XML="plugins/InputVar/InputVar.xml"
-URLHANDLER_XML="plugins/UrlHandler/UrlHandler.xml"
 #sed -i '/for="/d' $AGREGATOR_XML
 #sed -i '/<data/d' $INPUTVAR_XML
 #sed -i '/<option /d' $INPUTVAR_XML
@@ -34,7 +32,6 @@ do
   sourceFile="${sourceFile//=/\=}"
   [[ -n "$migrated" || -z "$gdocUrl" ]] && continue
 
-  echo "$sourceFile" && exit
 
   htmlPlus="$(curl "https://www.hostovka.cz/?Convertor=$gdocUrl")"
 
