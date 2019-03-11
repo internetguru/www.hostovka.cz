@@ -19,7 +19,7 @@ Jiné představy o správné velikosti porcí jídel (a jejich ceně) mají mlad
 
 Zahraniční hosté (ze západu) jsou zvyklí na větší porce masa. Jsou také zvyklí na to, že porce jídel, a tudíž i jejich [ceny, jsou v poledne nižší než večer][1].
 
-{short="Velikost porce vs cena"}
+{short="Velikost porce vs. cena"}
 
 ## Poměr mezi velikostí porce a cenou
 
