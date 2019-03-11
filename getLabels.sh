@@ -25,4 +25,13 @@ for f in plugins/Agregator/clanky/*.html; do
   echo "${fname%.html}"
 done
 
+echo
+echo "--- mtimes ---"
+for f in $(grep -l "mtime=" plugins/Agregator/clanky/*.html); do
+  hxselect -c "body > h::attr(id)" < "$f"
+  echo -n ";"
+  hxselect -c "body > h::attr(mtime)" < "$f"
+  echo
+done
+
 
