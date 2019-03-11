@@ -13,7 +13,7 @@ Ozdobě jídel se říká všelijak, ozdoba, garnýr, garnitůra, anglicky _garn
 
 Některé ozdoby těchto kuchařů jsou doslova uměleckými výtvory. Dnes se s tím ještě setkáme při kuchařských soutěžích, banketech nebo studených bufetech. Při běžném stravování se na zdobení téměř zapomnělo.
 
-V některých etnických kuchyních, jako například v kuchyni japonské nebo čínské, zdobení teplých jídel není obvyklé. Tato jídla jsou tak pestrá, že jsou ozdobou sami o sobě. Francoužští kuchaři si na vzhled a ozdobu jídel moc nepotrpí, protože tvrdí, že chuť jídla je to, co se hodnotí nejvíce.
+V některých etnických kuchyních, jako například v kuchyni japonské nebo čínské, zdobení teplých jídel není obvyklé. Tato jídla jsou tak pestrá, že jsou ozdobou sami o sobě. Francouzští kuchaři si na vzhled a ozdobu jídel moc nepotrpí, protože tvrdí, že chuť jídla je to, co se hodnotí nejvíce.
 
 Nicméně v české kuchyni jsou jídla teplé kuchyně (zejména [minutky][3]) zdobena, ale neříká se tomu ozdoba, ale [obloha][4].
 
