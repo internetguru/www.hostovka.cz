@@ -5,7 +5,9 @@
 
 # Dopady vyhlášky č. 107
 
-{kw="gastronomie"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+
+{kw=""}
 
 Již jsem se někde zmínil o tom, že hygienická vyhláška 107 se Čechům nelíbí protože zpřísňuje podmínky pro uchovávání hotových jídel, to ale neznamená, že bude zrušena.
 

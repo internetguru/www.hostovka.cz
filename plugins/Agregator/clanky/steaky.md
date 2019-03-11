@@ -5,6 +5,8 @@
 
 # Steaky
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+
 {kw="jídla a jídelní lístky"}
 
 Steaků jak víme je celá řada, ale pokud se týká restaurací, tak jenom restaurace zvané steakhouses, jako například BLACK ANGUS RESTAURANT, BLACK HAWK nebo LAWRY’ S RESTARUANT v Chicagu, se specializují na steaky a případně na Prime Rib.

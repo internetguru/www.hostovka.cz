@@ -5,6 +5,8 @@
 
 # Slevy
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+
 {kw="gastronomie"}
 
 jak hodnotné, syté nebo obsáhlé večeře by měly být je individuální.

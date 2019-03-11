@@ -5,6 +5,8 @@
 
 # Trendy vývoje českého pohostinství
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+
 {kw="gastronomie"}
 
 Já jsem na toto téma napsal podobný článek do stránek www.gastronews.cz, ale z nějakého důvodu ten článek z těchto stránek zmizel, nejspíše proto, že odborníci to všechno znají a nechtějí aby jim to někdo připomínal.

@@ -5,6 +5,8 @@
 
 # Proč nechodí lidé do restaurací
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+
 {kw="restaurace a servis"}
 
 Na stránkách www.cestovní-ruch.cz proběhla v těchto dnech docela zajímavá diskuse na článek uveřejněný v časopise AHA který jsem já ohodnotil jako LATRINE NACHRICHTEN a do které jsem se také zapojil.

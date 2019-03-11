@@ -5,6 +5,8 @@
 
 # Sele
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+
 {kw="jídla a jídelní lístky"}
 
 Kdysi se jistý Vladimír na stránkách www.gastronews.cz zeptal že by rád upekl na rožni sele a jestli mu někdo může poradit.

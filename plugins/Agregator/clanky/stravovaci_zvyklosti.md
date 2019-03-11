@@ -5,6 +5,8 @@
 
 # Stravovací zvyklosti
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+
 {kw="gastronomie"}
 
 Není vůbec pochyb o tom, že stravovací zvyklosti jsou jedním z nejdůležitějších faktorů ovlivňujících jídelní lístky.

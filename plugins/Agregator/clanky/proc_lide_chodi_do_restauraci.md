@@ -5,6 +5,8 @@
 
 # Proč chodí lidé do restaurací
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+
 {kw="restaurace a servis"}
 
 Při běžné povrchní konverzaci lidé nejčastěji hovoří o politice, sportu, o sexu a o jídle, i když ne zrovna v tomto pořadí.

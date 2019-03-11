@@ -5,6 +5,8 @@
 
 # Přepuštěné máslo
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+
 {kw="jídla a jídelní lístky"}
 
 Hostovka jak jsme si již řekli, není nějakou školou vaření, ale jako studenti Hostovky a budoucí sofistikovaní hosté byste o přípravě některých jídel měli něco vědět.

@@ -5,6 +5,8 @@
 
 # Tatarský steak trochu jinak
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+
 {kw="jídla a jídelní lístky"}
 
 Co je tatarský steak, a jak vlastně vznikl dnes už ví i každý čtenář HOSTOVKY a mnozí ho jedí a rádi a vůbec neuvažují o tom, že je to vlastně syrové maso.

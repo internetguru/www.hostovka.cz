@@ -5,6 +5,8 @@
 
 # Speciality
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+
 {kw="jídla a jídelní lístky"}
 
 JSOU SPECIALITY SKUTEČNĚ SPECIALITAMI? Restauratéři, a to ne jenom v České republice, pod názvem "specialita" uvádějí v mnoha případech jídla a nápoje na kterých není speciálního nic než cena.

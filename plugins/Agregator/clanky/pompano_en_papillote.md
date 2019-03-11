@@ -5,6 +5,8 @@
 
 # Pompano en Papillote
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+
 {kw="jídla a jídelní lístky"}
 
 Při svých cestách do zahraničí se určitě v některé restauraci setkáte s rybím jídlem zvaným Pompano en Papillote. Pokud máte rádi ryby, tak si ho nenechte ujít.

@@ -5,6 +5,8 @@
 
 # Pití vína a jeho vliv na zdraví
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+
 {kw="nápoje"}
 
 Jako studenti Hostovky byste měli něco vědět o víně a proto se k vínu budeme ještě několikrát vracet, ale dnes si řekněme, jak zdravé či škodlivé pití vína vlastně je.

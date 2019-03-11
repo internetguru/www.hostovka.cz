@@ -5,6 +5,8 @@
 
 # Tequila
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+
 {kw="nápoje"}
 
 Já si myslím, že Češi jsou v zásadě kujóni protože například rum dokáží udělat stejně dobrý, ne-li lepší než ten dovezený, ale Tequila je podle mě úplně jiné zvíře a pochybuji, že se Čechům někdy podaří tequilu udělat takovou jakou ji dělají v Mexiku a mně to můžete věřit, protože já jsem to tam při mé poslední návštěvě Mexika tak trochu okoukl.

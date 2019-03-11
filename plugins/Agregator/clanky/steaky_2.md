@@ -5,6 +5,8 @@
 
 # Steaky 2
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+
 {kw="jídla a jídelní lístky"}
 
 Jak jsem se již zmínil, tak jsem po několika letech průzkumu vypracoval koncept jakéhosi amerického steakhousu přizpůsobeného evropským podmínkám, který se podle mých předpokladů velice dobře uchytil a pokud jsou nějaké stížnsti, tak je to jen na kvalitu masa kerou ale bohužel nemohu moc ovlivnit.

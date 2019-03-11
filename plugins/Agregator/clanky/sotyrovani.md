@@ -5,6 +5,8 @@
 
 # Sotýrování
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+
 {kw="co-kdy-kde"}
 
 Sotýrování, anglicky sauté, od francouzského slovesa sauter, je kuchařský výraz (hantýrka) pro techniku rychlého přehazování potravin v pánvi nad intenzivním teplem, zpravidla otevřeným ohněm.

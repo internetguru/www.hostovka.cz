@@ -5,6 +5,8 @@
 
 # Minutky
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+
 {kw="co-kdy-kde"}
 
 À la minute je francouzský výraz pro jídla připravená na objednávku tak zvané minutky, německy Zur bestelung, anglicky To order.

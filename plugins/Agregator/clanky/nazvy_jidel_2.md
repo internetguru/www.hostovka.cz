@@ -5,6 +5,8 @@
 
 # Názvy jídel 2
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+
 {kw="jídla a jídelní lístky"}
 
 Již jsme si řekli, že to jak si jídla pojmenováváte ve vaši rodině nebo mezi vašimi přáteli je jedna věc, ale jídla na jídelních lístcích, obzvláště těch mezinárodních, musí být pojmenovávána podle nějakých zásad protože by se v těch mezinárodních lístcích nikdo nevyznal.

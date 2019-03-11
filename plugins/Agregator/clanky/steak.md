@@ -5,6 +5,8 @@
 
 # Steak
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+
 {kw="jídla a jídelní lístky"}
 
 Já jsem se již zmínil, že steak je nejvíce zneužívaný výraz v gastronomii.
