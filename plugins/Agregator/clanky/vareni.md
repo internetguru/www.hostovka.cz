@@ -9,23 +9,23 @@
 
 {kw="kuchyňské techniky"}
 
-Výrazem vaření (_cooking_) jsou obecně označovány všechny techniky používané v kuchyni při přípravě a úpravě potravin. V profesionálním provozování pohostinství označit všechny kuchařské techniky slovem vaření ale nestačí.
+Výrazem vaření (_cooking_) jsou obecně označovány všechny techniky používané v kuchyni při přípravě a úpravě potravin. V profesionálním provozování pohostinství ale označit všechny kuchařské techniky slovem vaření nestačí.
+
+Vaření je náročné jak na teoretické znalosti a zručnost, tak i na odbornou praxi, dokonalou znalost potravin, potřebného náčiní, pomůcek, nového zařízení a nových technologií. Naučit se vařit, podobně jako naučit se zpívat, tančit nebo jezdit na kole, předpokládá základní zručnost.
 
 {class="important"}
 
 Hostovka není škola vaření, ale jako studenti Hostovky byste pro lepší orientaci v jídelních lístcích měli znát význam názvů kuchařských technik, které se na jídelních lístcích běžně objevují.
 
-Vaření je náročné jak na teoretické znalosti a zručnost, tak i na odbornou praxi, dokonalou znalost potravin, potřebného náčiní, pomůcek, nového zařízení a nových technologií. Naučit se vařit, podobně jako naučit se zpívat, tančit nebo jezdit na kole, předpokládá základní zručnost.
+Pro lepši orientaci byly kdysi tepelné úpravy potravin rozděleny do tří základních skupin.
 
-Pro lepši orientaci byly kdysi tepelné úpravy potravin rozděleny do tří základních skupin:
-
-  * vaření vlhkým teplem (_moist heat cooking_),
+  * Vaření vlhkým teplem (_moist heat cooking_),
   * vaření suchým teplem (_dry heat cooking_)
   * vaření v tuku (_cooking in fat_).
 
 ## Vaření vlhkým teplem
 
-Vaření vlhkým teplem lze ještě rozdělit do několika dalších skupin.
+Vaření vlhkým teplem lze dále rozdělit do čtyř podskupin.
 
   * Vaření ve vodě (_boiling_),
   * v páře (_steaming_),
@@ -38,7 +38,7 @@ Vaření vlhkým teplem lze ještě rozdělit do několika dalších skupin.
 
 {class="important"}
 
-Jsou ale výjimky. Například přípravě kuřete obaleného strouhankou, nebo jen i moukou se říká _baking_. Obdobně se výraz _baking_ používá při přípravě masa obaleného těstem, jako je například svíčková Welington.
+Jsou ale výjimky. Například přípravě kuřete obaleného strouhankou, nebo jen i moukou, se říká _baking_. Obdobně se výraz _baking_ používá při přípravě masa obaleného těstem, jako je například svíčková Welington.
 
 Do technik přípravy jídel suchým teplem spadá také:
 
@@ -47,7 +47,7 @@ Do technik přípravy jídel suchým teplem spadá také:
 
 ## Vaření v tuku a další techniky
 
-Další skupina tepelné úpravy jídel jsou úpravy v tuku nebo na tuku (_cooking in fat_) a dá se rozdělit do několika dalších skupin.
+Další skupina tepelné úpravy jídel jsou úpravy v tuku nebo na tuku (_cooking in fat_) a dá se dále rozdělit o tří podskupin.
 
   * Hluboké smažení (_deep frying_),
   * smažení na pánvi (_pan frying_) a
