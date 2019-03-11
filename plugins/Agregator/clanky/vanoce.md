@@ -11,13 +11,13 @@
 
 [Americké díkuvzdání][1] (anglicky _Thanksgiving_) jsem již částečně popsal. Teď jsou na řadě americké Vánoce.
 
-Vánoce jsem prožíval v mnoha zemích, jako například ve Skandinávii, Rakousku, Německu, Africe, Vietnamu, Austrálii, a dokonce i v zemi našich někdejších vzorů. Myslím si ale, že se nikde jinde na světě média nesnaží navodit pravou vánoční náladu tak, jako v Americe.
+Vánoce jsem prožíval v mnoha zemích, jako například ve Skandinávii, Rakousku, Německu, Africe, Vietnamu, Austrálii, a dokonce i v Rusku. Myslím si ale, že se nikde jinde na světě média nesnaží navodit pravou vánoční náladu tak, jako v Americe.
 
-Přesto mohu říci, že Vánoce v Americe nejsou takové, jaké si je pamatuji z domova. Ne že by mi scházely jesličky, ale schází mi jiné věci ze vzpomínek na mé mládí, včetně sněhu.
+Přesto mohu říci, že Vánoce v Americe nejsou takové, jaké si je pamatuji z domova. Ne že by mi scházely jesličky, ale schází mi jiné věci ze vzpomínek na mládí, včetně sněhu.
 
 {class="example"}
 
-Kolem jesliček je v současné době v Americe velká diskuse, protože podle amerického zákona o oddělení církve od státu, se nesmí již nikde veřejně vystavovat.
+Kolem jesliček je v současné době v Americe velká diskuse, protože podle zákona o oddělení církve od státu, se již nesmí nikde veřejně vystavovat.
 
 Tady v Kalifornii sice nejsou taková vedra jako v Austrálii, kde jsme Štědrý den slavili u moře na pláži, ale sníh tady také nemáme. Nejbližší sníh je v Mamouth, což je asi 5 hodin jízdy, a tak Vánoce slavíme bez sněhu. Více než sníh mi schází typická česká vánoční jídla, a to hlavně vánoční kapr.
 
@@ -88,8 +88,6 @@ Složení typické americké glazury:
 {class="example"}
 
 Glazura se nedá ničím pokazit a nekladou se u ní meze fantazii, takže do ní můžete bez problému přidat ananas nebo třeba javorový sirup.
-
-Postup přípravy:
 
   1. Suroviny smícháme a vaříme na mírném ohni asi 1 minutu. Přidáme jablko a čtvrtinu pomeranče (oboje nakrájené na plátky) a zahřejeme na servírovací teplotu.
   2. Kůži šunky nařízneme ostrým nožem, šunku pomázneme slabou vrstvu hořčice, posypeme hnědým cukrem a dáme do trouby vyhřáté na 176 °C.
