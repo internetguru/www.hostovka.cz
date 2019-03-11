@@ -5,6 +5,8 @@
 
 # Avokádo
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+
 {kw="zbožíznalství"}
 
 Avocado, (Persea gratissima nebo P. americana), česky nejspíše avokádo je někdy označováno za tropické ovoce a jindy za zeleninu.

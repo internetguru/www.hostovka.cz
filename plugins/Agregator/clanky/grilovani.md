@@ -5,6 +5,8 @@
 
 # Grilování
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+
 {kw="kuchyňské techniky"}
 
 Já jsem jeden z posledních kdo by někomu upíral právo psát či říkat to co chce, ale byl bych veliký pokrytec kdybych nevyjádřil svůj názor na nějaké zkreslené odborné informace. To co píše Radka Hrdinová, autorka článku I GRILOVAT SE DÁ ZDRAVĚ uveřejněného na stránkách www.gastronews.cz je podle mě snůška těch nevětších bludů o grilování jaké jsem kdy četl, a za 60 let praxe v pohostinství jsem toho o grilování četl hodně.

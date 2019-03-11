@@ -5,6 +5,8 @@
 
 # Přání a stížnosti
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+
 {kw="etika"}
 
 Stěžovatelé v pohostinství jsou různí. Někteří chroničtí stěžovatelé si stěžují vždycky, všude a na všechno. Již jsem se několikrát zmínil o rčení, že host má vždycky pravdu které jsem ale doplnil tím, že host má sice pravdu, ale jen pokud je to host.

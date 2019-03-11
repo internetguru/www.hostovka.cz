@@ -5,6 +5,8 @@
 
 # Doma jez co máš a jinde co ti dají
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+
 {kw="gastronomie"}
 
 Toto je jedno velmi staré české přísloví které ale nesmíte brát doslova, nebo lépe řečeno které si můžete vyložit jak chcete.

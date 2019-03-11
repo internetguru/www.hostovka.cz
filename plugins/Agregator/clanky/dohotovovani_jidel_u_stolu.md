@@ -5,6 +5,8 @@
 
 # Dohotovování jídel u stolu
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+
 {kw="kuchyňské techniky"}
 
 Na stránkách www.gastronews.cz, což jsou více méně stránky pro odborníky do kterých ještě někdy přispívám, jistá Jana položila následující otázku:

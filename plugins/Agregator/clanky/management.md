@@ -5,6 +5,8 @@
 
 # Management
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+
 {kw="gastronomie"}
 
 Již jsem se zmínil o tom, že jsem do Ameriky přišel chudý jak kostelní myš a že jsem dělal všechno možné jen abych si vydělal nějaký ten dolar.

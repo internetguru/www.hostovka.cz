@@ -5,6 +5,8 @@
 
 # Catering
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+
 {kw="gastronomie"}
 
 Arnošt si zaslouží kredit za to, že mně upozornil na to, že používám výraz catering aniž bych kdy upozornil na to co to ten catering vlastně je.

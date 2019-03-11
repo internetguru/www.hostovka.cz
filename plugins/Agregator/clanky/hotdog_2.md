@@ -5,6 +5,8 @@
 
 # Hotdog 2
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+
 {kw="gastronomie"}
 
 el Coronado hotel na ostrově Coronado v Kalifornii, o kterém se zmiňuji jednak proto, že se mi líbí a hlavně proto, že zde byl filmován známý film Někdo to rád horké, což se vztahuje k hot dogům o kterých bude řeč.

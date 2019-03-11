@@ -5,6 +5,8 @@
 
 # Catering 2
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+
 {kw="gastronomie"}
 
 V mém minulém příspěvku jsem více méně odpověděl na otázku Arnošta. Bylo to takové volné podání toho co o tom cateringu vím já, ale nebyl to návod jak ten catering u nás dělat nebo jak ho koordinovat.

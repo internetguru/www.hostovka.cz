@@ -5,6 +5,8 @@
 
 # Cruises
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+
 {kw="cestovní ruch"}
 
 Cestování zaoceánskými loděmi (cruises) se dnes stalo ideálním trávením volného času při poznávání neznámých zemí hlavně pro lidi kteří jsou již na odpočinku protože je to považováno za nejméně namáhavý způsob jak poznat svět.

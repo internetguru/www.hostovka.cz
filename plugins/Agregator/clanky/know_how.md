@@ -5,6 +5,8 @@
 
 # Know-how
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+
 {kw="gastronomie"}
 
 K přípravě jídel nepotřebujete nic jiného než potraviny, eventuálně náčiní a zařízení, ale hlavně potřebné know how. To know how v tomto případě začíná znalostí toho co jsou to hotová jídla neboli hotovky, jídla na objednávku neboli minutky, fast food neboli jídla rychlého občersvení, convenient food a pod., protože jsou v tom rozdíly a to hlavně cenové. V mnoha zemích ve světě se ale bez toho všeho obejdete protože některé typy jídel dostanete v restauracích které jsou dostupné každé kapse.

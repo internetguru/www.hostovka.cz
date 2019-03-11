@@ -5,6 +5,8 @@
 
 # Jak si vybrat z lístku
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+
 {kw="gastronomie"}
 
 Tímto příspěvkem do jisté míry narušuji logistiku celé Hostovky, protože by nejdříve měl být popsán z působ jak si vybrat restauraci, ale musel jsem tento příspěvek napsat teď dokud mám ještě v paměti příhodu která se v současné době odehrála v jedné restauraci v ČR.

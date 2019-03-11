@@ -5,6 +5,8 @@
 
 # Česko
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+
 {kw="gastronomie"}
 
 Nedávno jedna čtenářka těchto stránek se mně zeptalala že když mám takové odborné znalosti tak proč tedy neotevřu na těchto stránkách kolonku kritiky.

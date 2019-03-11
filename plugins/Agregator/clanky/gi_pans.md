@@ -5,6 +5,8 @@
 
 # GI Pans
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+
 {kw="co-kdy-kde"}
 
 V článku o prime rib jsem se zmínil o GI pan a slíbil jsem vám, že vám o nich napíši více a jelikož bych na to eventuálně mohl zapomenout, tak vám to raději napíši hned teď.

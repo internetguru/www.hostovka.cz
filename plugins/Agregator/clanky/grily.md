@@ -5,6 +5,8 @@
 
 # Grily
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+
 {kw="kuchyňské techniky"}
 
 Já jsem se o zdravé výživě a o dietetice učil na hotelové škole v Mariánských Lázních někdy v roce 1949-50. Přednášejícím byl pan profesor Mates, ředitel, lépe řečeno primář Balneologického ústavu v Mariánským lázních který byl uznáván jako kapacita v tehdejší dietetice. Pan profesor se do nás snažil o zdravé výživě a o dietetice něco natlouci, ale musím se přiznat, že já jsem nikdy žádný dietář nebyl, a se znalostmi o správné výživě to také bylo slabší.

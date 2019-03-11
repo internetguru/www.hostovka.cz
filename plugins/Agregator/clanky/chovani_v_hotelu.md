@@ -5,6 +5,8 @@
 
 # Chování v hotelu
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+
 {kw="ubytování"}
 
 Hostovka jak dnes již víme, je pomyslná vysoká škola pro hosty kteří by měli vědět nejenom jak se chovat v restauracích ale i v hotelích.

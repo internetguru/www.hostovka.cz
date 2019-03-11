@@ -5,6 +5,8 @@
 
 # Dětské jídelní lístky
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+
 {kw="jídla a jídelní lístky"}
 
 Pokud se týká dětských jídelních lístků tak vstupem do EU se situace v Česku a na Slovensku zkomplikuje tím, že většina rodin s dětmi budou zahraniční hosté.

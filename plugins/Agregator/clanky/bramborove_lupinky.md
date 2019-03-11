@@ -5,6 +5,8 @@
 
 # Bramborové lupínky
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+
 {kw="jídla a jídelní lístky"}
 
 Bramborové lupínky jsou populární po celém světě, ale málo lidí ví kde vlastně vznikly.

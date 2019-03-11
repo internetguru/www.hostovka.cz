@@ -5,6 +5,8 @@
 
 # Kolik řečí umíš
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+
 {kw="ubytování"}
 
 Pokud čtete některé mé příspěvky do různých web stránek, tak jste se asi povšimli, že v mnoha případech používám cizí, většinou odborné výrazy.

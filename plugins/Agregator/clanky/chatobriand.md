@@ -5,6 +5,8 @@
 
 # Chatobriand
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+
 {kw="jídla a jídelní lístky"}
 
 Já jsem se sice v oddělení KDO, KDY, KDE již napsal několik řádků o tom kdo je to Châteaubriand, ale uvědomil jsem si, že mé informace nejsou kompletní a proto se to tímto příspěvkem pokusím napravit protože jako studenti Hostovky byste měli mít o všem pokud možno kompletní informace.

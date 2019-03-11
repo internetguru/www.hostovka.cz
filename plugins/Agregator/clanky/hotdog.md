@@ -5,6 +5,8 @@
 
 # Hotdog
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+
 {kw="gastronomie"}
 
 Jedním posláním Hostovky také je, seznamovat své studenty s gastronomickými výrazy se kterými se eventuálně setkají na svých cestách do zahraničí.

@@ -5,6 +5,8 @@
 
 # Finger Food
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+
 {kw="jídla a jídelní lístky"}
 
 Jedním posláním Hostovky je připravit své studenty na jídla se kterými se setkají při svých cestách do zahraničí.

@@ -5,6 +5,8 @@
 
 # Chřest
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+
 {kw="gastronomie"}
 
 Na stránkách NEVIDITELNÝ PES jsem zcela náhodou narazil na docela zajímavý článek o chřestu který, jak jsem se dozvěděl z té diskuse k tomuto článku, někteří lidé ani neznají.

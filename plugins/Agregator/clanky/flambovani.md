@@ -5,6 +5,8 @@
 
 # Flambování
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+
 {kw="gastronomie"}
 
 V době popularity tak zvaného francouzského servisu bylo dranšírování, dohotovování jídel u stolu a flambování velice populární.

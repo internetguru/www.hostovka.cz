@@ -5,6 +5,8 @@
 
 # Celer řapíkatý
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+
 {kw="zbožíznalství"}
 
 Řapíkatý celer, (Opium Graveloens dulce) anglicky zvaný celery, byl V Evropě kde až do 16 století, kdy celer byl zkultivován, znám jenom jako lékařská rostlina.

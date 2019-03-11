@@ -5,6 +5,8 @@
 
 # Bakery
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+
 {kw="restaurace a servis"}
 
 Já vím, že jako studenti Hostovky se možná zabýváte i myšlenkou, že po jejím absolvování byste si možná mohli otevřít restauraci a proč ne.

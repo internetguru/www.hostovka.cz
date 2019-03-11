@@ -5,6 +5,8 @@
 
 # Etnické kuchyně
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+
 {kw="etnické kuchyně"}
 
 Znalost stravovacích zvyklostí zahraničních hostů a etnických skupin, kterým byla kdysi přikládána veliká důležitost, pomalu ale jistě ztrácí na své důležitosti.

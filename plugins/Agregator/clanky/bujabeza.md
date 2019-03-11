@@ -5,6 +5,8 @@
 
 # Bujabéza
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+
 {kw="jídla a jídelní lístky"}
 
 Správný název by měl být "Buillabaise" eventuálně "Bouillabaise Marseillais", ale pod názvem bujabéza je tato polévky v Česku více známá.

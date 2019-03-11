@@ -5,6 +5,8 @@
 
 # Americké brambory
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+
 {kw="jídla a jídelní lístky"}
 
 Úvodem bych chtěl říci, že to čemu se v českých restauracích říká americké brambory podle mého názoru americkými bramborami nejsou a věřte mi, že vím o čem mluvím.

@@ -5,6 +5,8 @@
 
 # Bedekr
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+
 {kw="co-kdy-kde"}
 
 Bedekr, někdy také beadekr podle jednoho českého slovníku cizích slov je knižní cestovní turistický průvodce.

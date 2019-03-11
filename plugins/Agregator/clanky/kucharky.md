@@ -5,6 +5,8 @@
 
 # Kuchařské knihy
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+
 {kw="co-kdy-kde"}
 
 Na stránkách www.labužník.cz se v těchto dnech rozvinula docela zajímavá diskuse vyprovokovaná Karmínkem který píše, že by ho zajímal názor jiných na množství kuchařek, a vyslovuje názor, že jich je až příliš mnoho a že jedno jak je ta kniha zaměřena.

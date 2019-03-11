@@ -5,6 +5,8 @@
 
 # Celebrity
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+
 {kw="gastronomie"}
 
 Naďa Klavisová, iHned.cz, v článku uveřejněném na stránkách www.gastronews.cz, KUCHAŘI JSOU JAKO VOJEVŮDCI položila Pavlu Maurerovi, vydavateli příručky Grand Restauant mimo jiné otázku: "Co je to dnes za trend, že jsou z kuchařů takové celebrity?"
