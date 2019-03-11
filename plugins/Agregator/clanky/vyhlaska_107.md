@@ -11,7 +11,7 @@
 
 Hygienická vyhláška č. 107 se Čechům nelíbí, protože zpřísňuje podmínky pro uchovávání hotových jídel. To ale neznamená, že bude zrušena.
 
-Toho se asi nedočkáte, spíše se dočkáte toho, že se příslušné orgány naučí plnění této vyhlášky kontrolovat. Vyhláška je v zásadě dobrá, a to v tom smyslu, že chrání zdraví jak hostů, tak i zdraví všech zaměstnanců v pohostinství.
+Toho se asi nedočkáte, spíše se dočkáte toho, že se příslušné orgány naučí plnění této vyhlášky kontrolovat. Vyhláška je v zásadě dobrá, a to v tom smyslu, že chrání zdraví hostů a všech zaměstnanců v pohostinství.
 
 {class="important"}
 
@@ -21,9 +21,9 @@ Již od nepaměti je základní snahou všech konstruktérů kuchyňských zař�
 
 ## Budoucnost české kuchyně
 
-Nemyslím si, že by se Češi měli okamžitě vzdát surovin a jídel, na která jsou po staletí zvyklí. Nicméně musí naši kuchaři nalézt nové techniky jejich přípravy a úpravy.
+Nemyslím si, že by se Češi měli okamžitě vzdát surovin a jídel, na která jsou po staletí zvyklí. Naši kuchaři musí nicméně nalézt nové techniky jejich přípravy a úpravy.
 
-Extrémem ale zase naopak je, že některé restaurace používají jenom [konvenientní potraviny][1], což se mi nezdá jako nejlepší řešení. Je to sice ta nejsnadnější cesta z nouze, ale budoucnost české kuchyně se na tom stavět nedá.
+Opačným extrémem je, že některé restaurace používají jenom [konvenientní potraviny][1], což se mi nezdá jako nejlepší řešení. Je to sice ta nejsnadnější cesta z nouze, ale budoucnost české kuchyně se na tom stavět nedá.
 
 {id="hotova_jidla"}
 
