@@ -1,13 +1,13 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=171.html" data-og-image="/files/preview/clanky/tvorba_cen/general.jpg" data-og-type="article"}
 
-{id="velikost_porce" ctime="2006-09-02" author="Michael Klíma" short="Velikost porce" mtime="2019-02-27"}
+{id="velikost_porce" ctime="2006-09-02" author="Michael Klíma" short="Velikost porce" mtime="2019-03-11"}
 
 # Správná velikost porce
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-03-06, do not edit -->
 
-{kw="jídla a jídelní lístky"}
+{kw="jídla a jídelní lístky, nejčtenější"}
 
 Žádný úřad, instituce, strana a vláda nám dnes již nemůže diktovat, jak velké by porce měly být. Jediný, kdo určuje velikost porcí, je spotřebitel.
 
@@ -18,6 +18,26 @@ Velikost porcí určíme na základě zkušeností nebo průzkumu o přáních, 
 Jiné představy o správné velikosti porcí jídel (a jejich ceně) mají mladí lidé, ženy, muži, těžce pracující dělníci a nebo důchodci. V minulosti u nás byly porce masa regulovány na základě hospodářských možností, a proto byly ve srovnání s mezinárodním standardem relativně malé.
 
 Zahraniční hosté (ze západu) jsou zvyklí na větší porce masa. Jsou také zvyklí na to, že porce jídel, a tudíž i jejich [ceny, jsou v poledne nižší než večer][1].
+
+{short="Velikost porce vs cena"}
+
+## Poměr mezi velikostí porce a cenou
+
+Odhadnout správnost ceny není tak jednoduché, jak se zdá. Cena jídel se zjednodušeně skládá z nákladů na suroviny, mzdy a ostatních provozních nákladů, z přidané hodnoty a samozřejmě ze zaslouženého zisku.
+
+{class="important"}
+
+Cena musí být pro hosta přijatelná a musí odpovídat jeho představám o hodnotě. No, a v tom je zakopaný pes.
+
+Jsou lidé, které cena vůbec nezajímá a kteří jen zvažují zda váha či hmotnost porce odpovídá jejich požadavkům. Oproti tomu jsou lidé, pro které je cena rozhodujícím faktorem.
+
+Pro jednoho se tedy může jídlo zdát drahé, pro druhého zase laciné a obdobně i porce se jednomu může zdát malá, či velká, ale odpovídající, a druhý se cítí ošizen v každém případě.
+
+Jak cena, tak i hmotnost musí také odpovídat místním zvyklostem. Proto například za jedno a to samé jídlo dáte ve velkém městě nebo populárním místě o mnoho více než v odlehlém místě.
+
+Nicméně i zde jsou výjimky potvrzují pravidlo. Nedávno jsme byli na obědě v poušti, kde mimo restaurace široko daleko nic nebylo a ceny jídel byly větší než v luxusní restauraci ve velkém městě.
+
+Proto také za obyčejný párek na Sněžce dáte více než na Václaváku, nehledě na to, že vám připočítají vysokohorskou přirážku.
 
 {id="velikost\_porce\_na\_jidelnim\_listku"}
 
