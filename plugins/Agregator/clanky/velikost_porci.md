@@ -15,7 +15,7 @@
 
 Velikost porcí určíme na základě zkušeností nebo průzkumu o přáních, potřebách, a hlavně finančních možnostech naší potenciální klientely. S velikostí porce masa, nebo hlavní potraviny narůstá i cena jídel. Ta je v mnoha případech pro klientelu rozhodujícím faktorem při volbě restaurace.
 
-Jiné představy o správné velikosti porcí jídel (a jejich ceně) mají mladí lidé, ženy, muži, těžce pracující dělníci a nebo důchodci. V minulosti u nás byly porce masa regulovány na základě hospodářských možností, a proto byly ve srovnání s mezinárodním standardem relativně malé.
+Jiné představy o správné velikosti porcí jídel (a jejich ceně) mají mladí lidé, ženy, muži, těžce pracující dělníci anebo důchodci. V minulosti u nás byly porce masa regulovány na základě hospodářských možností, a proto byly ve srovnání s mezinárodním standardem relativně malé.
 
 Zahraniční hosté (ze západu) jsou zvyklí na větší porce masa. Jsou také zvyklí na to, že porce jídel, a tudíž i jejich [ceny, jsou v poledne nižší než večer][1].
 
@@ -29,7 +29,7 @@ Odhadnout správnost ceny není tak jednoduché, jak se zdá. Cena jídel se zje
 
 Cena musí být pro hosta přijatelná a musí odpovídat jeho představám o hodnotě. No, a v tom je zakopaný pes.
 
-Jsou lidé, které cena vůbec nezajímá a kteří jen zvažují zda váha či hmotnost porce odpovídá jejich požadavkům. Oproti tomu jsou lidé, pro které je cena rozhodujícím faktorem.
+Jsou lidé, které cena vůbec nezajímá a kteří jen zvažují, zda váha či hmotnost porce odpovídá jejich požadavkům. Oproti tomu jsou lidé, pro které je cena rozhodujícím faktorem.
 
 Pro jednoho se tedy může jídlo zdát drahé, pro druhého zase laciné a obdobně i porce se jednomu může zdát malá, či velká, ale odpovídající, a druhý se cítí ošizen v každém případě.
 
