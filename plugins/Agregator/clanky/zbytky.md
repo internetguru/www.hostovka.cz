@@ -33,7 +33,7 @@ Příprava lilku není nijak extra časově náročná.
 
   1. Dno máslem vymaštěného pekáčku pokryjeme plátky smaženého lilku a tenkou vrstvou sýra.
   2. Následně vše přelijeme bešamelovou omáčkou.
-  3. Tímto způsobem přidáme ještě dvě nebo tři vrstvy tak, abychom zkončili bešamelovou omáčkou.
+  3. Tímto způsobem přidáme ještě dvě nebo tři vrstvy tak, abychom skončili bešamelovou omáčkou.
   4. Povrch posypeme strouhaným sýrem a pokapeme rozpuštěným máslem.
   5. Lilek pečeme v troubě dozlatova.
 
