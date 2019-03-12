@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=326.html" data-og-image="/files/preview/clanky/artycoky/general.jpg" data-og-type="article"}
 
-{id="artycoky" ctime="2008-06-01" author="Michael Klíma" short="Artyčoky" authorid="hostovka/michael_klima"}
+{id="artycoky" ctime="2008-06-01" author="Michael Klíma" short="Artyčoky" mtime="2019-03-12"}
 
 # Artyčoky
 
@@ -9,57 +9,40 @@
 
 {kw="gastronomie"}
 
-Artyčoky mají překrásné květy které jsem ale tady v Kalifornii nikdy neviděl.
+Artyčoky mají překrásné květy, které jsem ale tady v Kalifornii nikdy neviděl. Musí se totiž sklidit dříve, než rozkvetou. Artyčoky většinou stojí 2 dolary a v době, když jsou v akci, tak stojí kus 1 dolar, ale to se po nich jen zapráší.
 
-Carlsbad je totiž známý svými květinovými poli a artyčoky se tu pěstují na jídlo a za tím účelem se musí zklidit dříve než rozkvetou.
+{class="example"}
 
-Kolem Carlsbadu v současné době jsou nedozírná pole artyčoků a tak byste si možná mysleli, že jsou laciné, ale bohužel tomu tak není. Většinou stojí  _{var="2"}_, a v době když jsou na "sale" (akce), tak stojí kus  _{var="1"}_, ale to se po nich jen zapráší.
+Když jsou zlevněné tak si jich koupím více, protože v lednici v plastikovém sáčku vydrží 3 až 4 dny beze změny.
 
-Musím ale říci, že jsou pěkně velké a tak když jsou zlevněné tak si jich koupím více protože v lednici v plastikovém sáčku vydrží 3-4 dny beze změny.
+Artyčoky jsou původem ze Severní Afriky, ale daří se jim dobře téměř po celém světě. Například v italské kuchyni jsou populární od nepaměti. Plinius, římský spisovatel je ale neměl moc rád. Nemohl pochopit, proč lidé platí tak velké peníze za obyčejný bodlák.
 
-Artyčoky jsou původem ze Severní Afriky, ale daří se jim dobře téměř po celém světě. Například v italské kuchyni jsou populární od nepaměti. Plinius, římský spisovatel je ale neměl moc rád. Nemohl pochopit, proč lidé platí tak velké peníze za obyčejný bodlák ze kterého jak se zdá, zbyde po jídle více nežli toho bylo před tím.
-
-Artyčok je totiž ve skutečnosti jedlý bodlák s ostny, lépe řečeno listy, které vyráží ze spodečku artyčoku a rostou šindelovitě kolem špuntu s vousy který je ve středu.
-
-Nedozrálé artyčoky které nejsou větší než 5 cm se mohou jíst syrové ale já sobně nikoho kdo by je jedl syrové neznám.
+Artyčok je totiž ve skutečnosti jedlý bodlák s ostny, lépe řečeno listy. Ty vyráží ze spodku artyčoku a rostou šindelovitě kolem středu s vousy. Nedozrálé artyčoky, které nejsou větší než 5 cm, se mohou jíst syrové. Osobně ale neznám nikoho, kdo by je takto jedl.
 
 {id="priprava_artycoku"}
 
 ## Příprava artyčoků
 
-Ostny, nebloli špičky artyčoku které rostou postraně odstříněme nůžkami a špičku artyčoku zarovnáme ostrým nožem.
+Ostny neboli špičky artyčoku, které rostou po straně, odstřihneme nůžkami a špičku artyčoku zarovnáme ostrým nožem. Před vařením musíme artyčoky dobře opláchnout pod tekoucí vodou, hlavně mezi listy, kde se mnohdy usazuje hlína.
 
-{id="vareni"}
+Kořen artyčoku pomažeme citronovou šťávou, aby nezčernal. Artyčoky pak vložíme jeden vedle druhého kořenem dolů do kastrolu s vroucí, slabě osolenou vodou tak, aby byly celé ponořené.
 
-### Vaření
+Menší artyčoky vaříme 30 minut a větší zhruba 45 minut. Pro jistotu můžeme zkusit vytrhnout jeden ze spodních lístků. Ze správně uvařeného artryčoku lístek vytrhnete velice snadno. Pokud to jde ztuha, tak je vaříme dále asi 5 minut.
 
-Před vařením musíme artyčoky pod tekoucí vodou dobře opláchnout, hlavně mezi listy, kde se mnohdy usazuje hlína.
-
-Kořen pomažeme citronovou šťávou aby nezčernal. Artyčoky pak vložíme kořenem dolů, jeden vedle druhého do kastrolu s vroucí slabě osolenou vodou tak aby byly celé ponořené. Menší artyčoky vaříme asi 30 a větší asi 45 minut.
-
-Pro jistotu můžeme jeden ze spodních lístků vytrhnou a přesvědčit se, že artyčoky jsou vařené.
-
-Ze správně vařeného atryčoku ten lístek vytrhnete velice snadno. Pokud to jde z tuha tak je vaříme ještě asi 5 minut.
-
-Vařené artyčoky okamčitě vyndáme dráteníkem a dáme je opatrně na nějakou teplou mísu s lístky dolů, aby z nich rychle vytekla voda.
+Uvařené artyčoky okamžitě vyndáme a uložíme je opatrně do teplé mísy, aby z nich rychle vytekla voda.
 
 {id="podavani_artycoku"}
 
 ### Podávání artyčoků
 
-Srdíčka velkých artyčoků mohou být po uvaření zchlazena a marinována pro popužití do salátů nebo k přípravě několika studených předkrmů.
+Vařené artyčoky se mohou jíst jak studené, tak i teplé, podávané s pikantními dipy. Klasický a nejjednodušší způsob podávání artyčoků je s citrónem a rozpuštěným máslem nebo s holandskou omáčkou.
 
-Vařené artyčoky se mohou jíst jak studené tak i teplé podávané s pikantními dipy, ale klasický a nejjednodužší způsob podávání artyčoků je s rozpuštěným máslem, holandskou, nebo i jinými omáčkami.
+{class="example"}
 
-Potom je dáme na talířek na kterém je budeme podávat. Já někdy do středu dávám nějaký pikantní sýr, ale v zásadě stačí k nim podat rozpuštěné máslo a osminku citrónu, případně nějaký dip.
+Srdíčka velkých artyčoků mohou být po uvaření zchlazena a [marinována][1] pro použití do salátů nebo k přípravě studených předkrmů.
 
-Jedí se tak, že každý lístek se dvěmi prsty vytrhne z hlavy, namočí do rozpuštěného másla nebo do omáčky a jemná lahodná dřeň která je u kořene lístků se mezi zuby z lístku strhne. Vařené artyčoky se podávají ale také i studené s majonézou nebo jinými dresinky
+Jedí se tak, že se dvěma prsty každý lístek vytrhne z hlavy, namočí se do rozpuštěného másla nebo do omáčky a zuby se strhne jemná a lahodná dřeň, která je u jeho kořene. No a takto pokračujete, než všechny lístky otrháte.
 
-No, a takto pokračujete až všechny lístky otrháte.
+Posléze nožem nebo ostrou lžičkou vyškrábete z artyčoku vousy. Ty pokrývají jeho nejcennější část, a to je jeho srdíčko. To si nakrájíte na malé kousky a podobně jako lístky jej namáčíte do másla nebo do vaší oblíbené omáčky.
 
-Posléze nožem nebo ostrou lžičkou vyškrábete a odstraníte "vousy" které se nejedí a které pokrývají to další co je na tom artyčoku nejcenější a to je jeho srdíčko, které si nakrájíte na malé kousky a podobně jako ty lístky je namáčíte do másla nebo do vaši oblíbené omáčky.
-
-No, a teď po tom úspěšném festivalu na Žofíně lidé už u nás vědí co je to chřest a tak možná někdo dá dohromady podobný festival artyčoků.
-
-Zrovna minullý týden tady probihal jeden z největších artyčokových festivalů CASTROVILLE ARTICHOKE FESTIVAL na který jsem se ale nedostal.
-
+ [1]: /duseni#marinada
