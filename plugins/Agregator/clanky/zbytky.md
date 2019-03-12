@@ -3,7 +3,7 @@
 
 {id="zbytky" ctime="2005-11-26" author="Michael Klíma" short="Zbytky" mtime="2019-03-07"}
 
-# Zbytky a lilek po milánsku
+# Zbytky jako specialita
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
 
