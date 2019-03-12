@@ -13,7 +13,7 @@
 
 {class="example"}
 
-Velikost porcí určíme na základě zkušeností nebo průzkumu o přáních, potřebách, a hlavně finančních možnostech naší potenciální klientely. S velikostí porce masa, nebo hlavní potraviny narůstá i cena jídel. Ta je v mnoha případech pro klientelu rozhodujícím faktorem při volbě restaurace.
+Velikost porcí určíme na základě zkušeností nebo průzkumu o přáních, potřebách, a hlavně finančních možnostech naší potenciální klientely. S velikostí porce masa nebo hlavní potraviny narůstá i cena jídel. Ta je v mnoha případech pro klientelu rozhodujícím faktorem při volbě restaurace.
 
 Jiné představy o správné velikosti porcí jídel (a jejich ceně) mají mladí lidé, ženy, muži, těžce pracující dělníci anebo důchodci. V minulosti u nás byly porce masa regulovány na základě hospodářských možností, a proto byly ve srovnání s mezinárodním standardem relativně malé.
 
@@ -29,13 +29,15 @@ Odhadnout správnost ceny není tak jednoduché, jak se zdá. Cena jídel se zje
 
 Cena musí být pro hosta přijatelná a musí odpovídat jeho představám o hodnotě. No, a v tom je zakopaný pes.
 
-Jsou lidé, které cena vůbec nezajímá a kteří jen zvažují, zda váha či hmotnost porce odpovídá jejich požadavkům. Oproti tomu jsou lidé, pro které je cena rozhodujícím faktorem.
+Jsou lidé, které cena vůbec nezajímá, a kteří jen zvažují, zda váha či hmotnost porce odpovídá jejich požadavkům. Oproti tomu jsou lidé, pro které je cena rozhodujícím faktorem.
 
-Pro jednoho se tedy může jídlo zdát drahé, pro druhého zase laciné a obdobně i porce se jednomu může zdát malá, či velká, ale odpovídající, a druhý se cítí ošizen v každém případě.
+Pro jednoho se tedy může jídlo zdát drahé, pro druhého zase laciné. Obdobně i porce se jednomu může zdát malá, či velká, ale odpovídající. A druhý se cítí ošizen v každém případě.
 
-Jak cena, tak i hmotnost musí také odpovídat místním zvyklostem. Proto například za jedno a to samé jídlo dáte ve velkém městě nebo populárním místě o mnoho více než v odlehlém místě.
+Jak cena, tak i hmotnost musí také odpovídat místním zvyklostem. Proto například za totéž jídlo dáte ve velkém městě nebo populárním místě o mnoho více než na odlehlém místě. Nicméně i zde jsou výjimky potvrzují pravidlo.
 
-Nicméně i zde jsou výjimky potvrzují pravidlo. Nedávno jsme byli na obědě v poušti, kde mimo restaurace široko daleko nic nebylo a ceny jídel byly větší než v luxusní restauraci ve velkém městě.
+{class="example"}
+
+Nedávno jsme byli na obědě v poušti, kde mimo restaurace široko daleko nic nebylo a ceny jídel byly větší než v luxusní restauraci ve velkém městě.
 
 Proto také za obyčejný párek na Sněžce dáte více než na Václaváku, nehledě na to, že vám připočítají vysokohorskou přirážku.
 
