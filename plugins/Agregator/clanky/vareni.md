@@ -3,7 +3,7 @@
 
 {id="vareni" ctime="2005-07-03" author="Michael Klíma" short="Vaření" mtime="2019-03-11"}
 
-# Vaření
+# Tepelné úpravy potravin
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
 
@@ -11,23 +11,21 @@
 
 Výrazem vaření (_cooking_) jsou obecně označovány všechny techniky používané v kuchyni při přípravě a úpravě potravin. V profesionálním provozování pohostinství ale označit všechny kuchařské techniky slovem vaření nestačí.
 
-Vaření je náročné jak na teoretické znalosti a zručnost, tak i na odbornou praxi, dokonalou znalost potravin, potřebného náčiní, pomůcek, nového zařízení a nových technologií. Naučit se vařit, podobně jako naučit se zpívat, tančit nebo jezdit na kole, předpokládá základní zručnost.
+Vaření je náročné jak na teoretické znalosti a zručnost, tak i na odbornou praxi, dokonalou znalost potravin, potřebného náčiní, pomůcek, nového zařízení a nových technologií. Naučit se vařit předpokládá základní zručnost podobně jako naučit se zpívat, tančit nebo jezdit na kole.
 
 {class="important"}
 
-Hostovka není škola vaření, ale jako studenti Hostovky byste pro lepší orientaci v jídelních lístcích měli znát význam názvů kuchařských technik, které se na jídelních lístcích běžně objevují.
+Hostovka není škola vaření, ale jako studenti Hostovky byste pro lepší orientaci v jídelních lístcích měli znát význam názvů kuchařských technik, které se na jídelních lístcích běžně objevují. Pro lepši orientaci byly kdysi tepelné úpravy potravin rozděleny do tří základních skupin:
 
-Pro lepši orientaci byly kdysi tepelné úpravy potravin rozděleny do tří základních skupin.
-
-  * Vaření vlhkým teplem (_moist heat cooking_),
+  * vaření vlhkým teplem (_moist heat cooking_),
   * vaření suchým teplem (_dry heat cooking_)
   * vaření v tuku (_cooking in fat_).
 
 ## Vaření vlhkým teplem
 
-Vaření vlhkým teplem lze dále rozdělit do čtyř podskupin.
+Vaření vlhkým teplem lze dále rozdělit do čtyř podskupin:
 
-  * Vaření ve vodě (_boiling_),
+  * vaření ve vodě (_boiling_),
   * v páře (_steaming_),
   * [dušení][1] (_braising_) a
   * vaření ve vodní lázni (_cooking in a double boiler_).
@@ -45,13 +43,15 @@ Do technik přípravy jídel suchým teplem spadá také:
   * úprava na grilu, na rožni, na gridlu (_grilling_) a
   * úprava na pánvi (_pan grilling_).
 
-## Vaření v tuku a další techniky
+## Vaření v tuku
 
 Další skupina tepelné úpravy jídel jsou úpravy v tuku nebo na tuku (_cooking in fat_) a dá se dále rozdělit o tří podskupin.
 
   * Hluboké smažení (_deep frying_),
   * smažení na pánvi (_pan frying_) a
   * smažení v troubě nebo v konvektomatu.
+
+## Další techniky
 
 Další kuchařské techniky, o kterých v některých našich učebnicích není zatím zmínka, jsou:
 
