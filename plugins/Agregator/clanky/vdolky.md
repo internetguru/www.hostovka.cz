@@ -9,7 +9,7 @@
 
 {kw="jídla a jídelní lístky, recept, historka"}
 
-Někdo má rád vdolky, někdo zase holky, no a já se netajím tím, že mám rád obojí. Holky nemusí být vyloženě české, ale vdolky, to je něco jiného. Vdolky musí být pravé české, jak je dělala moje maminka, babička a prababička.
+Někdo má rád vdolky, někdo zase holky. No a já se netajím tím, že mám rád obojí. Holky nemusí být vyloženě české, ale vdolky, to je něco jiného. Vdolky musí být pravé české, jak je dělala moje maminka, babička a prababička.
 
 Nemám na mysli vdolečky ze všech možných cukrářských knížek jako jsou smažené vdolečky, bavorské vdolečky, tvarohové vdolečky apod. Mám na mysli takové ty jednoduché, co se dělají přímo na plotně nebo v nejhorším případě v troubě.
 
@@ -41,7 +41,7 @@ Pokud pečené vdolky hned nepoužijeme, tak je necháme vychladnout, horizontá
 
 ## Americké vdolky
 
-V Americe je vdolků několik druhů a pokud jim nerozumíte, tak si ani nemůžete vybrat. Říká se jim, nevím proč, _English muffins_.
+V Americe je vdolků několik druhů a pokud jim nerozumíte, tak si ani nemůžete vybrat. Říká se jim (nevím proč) _English muffins_.
 
 Nejpopulárnější jsou vdolky od firmy Sara Lee balené po šesti kusech. Stejně dobré jsou ale i vdolky od firmy Thomas, které si říkají _Original_. To jsou ale jen řeči, protože originál by bylo _Podle mé babičky_.
 
@@ -61,9 +61,9 @@ Měl jsem tam k dispozici asi 15 kuchařů, přičemž žádný z nich nebyl vyu
 
 {class="example"}
 
-Tehdy jsem to nevěděl, ale udali nás pašeráci, kteří imigranty převáděli přes hranice. Potřebovali totiž urychleně zaměstnání pro nové imigranty, aby mohli splácet poplatek za převod. What a country!
+Tehdy jsem to nevěděl, ale udali nás pašeráci, kteří imigranty převáděli přes hranice. Potřebovali totiž urychleně zaměstnání pro nové imigranty, aby mohli splácet poplatek za převod. _What a country!_
 
-Pokud to nebyli takoví, kteří byli posláni zpět do Mexika již po několikáté, tak jsem je musel naučit vše od začátku. Jednou jsem tam měl mladíka, kolem 20 let, který se nádobí naučil mýt kupodivu velice rychle, a který sledoval každý můj krok.
+Pokud to nebyli takoví, kteří byli posláni zpět do Mexika již poněkolikáté, tak jsem je musel naučit vše od začátku. Jednou jsem tam měl mladíka, kolem 20 let, který se nádobí naučil mýt kupodivu velice rychle, a který sledoval každý můj krok.
 
 Já jsem tam vaření moc nedal, ale téměř denně jsem dělal holandskou omáčku, které jsme tam spotřebovali asi tak 3 litry. Ráno jsem si zpravidla vše připravil (_mise-en-place_). Rozpustil jsem asi 3 kg másla, připravil nějaké žloutky a citrónovou šťávu a pak jsem ve volné chvíli holandskou omáčku zmáknul.
 
