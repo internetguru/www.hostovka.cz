@@ -1,29 +1,42 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=117.html" data-og-image="files/preview/clanky/zbytky/preview.jpg" data-og-type="article"}
 
-{id="zbytky" ctime="2005-11-26" author="Michael Klíma" authorid="hostovka/michael_klima"}
+{id="zbytky" ctime="2005-11-26" author="Michael Klíma" short="Zbytky" mtime="2019-03-07"}
 
-# Zbytky
+# Zbytky a lilek po milánsku
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
 
-{kw="jídla a jídelní lístky"}
+{kw="jídla a jídelní lístky, recept"}
 
-Zbytky, někdy zvané resty, jsou největším bolehlavem každého manažera kuchyně. Zbytky jsou nenahraditelné ztráty. Zbytky mohou být neprodané porce prvotřídních a drahých jídel, které se z nějakého důvodu neprodaly a které tím pádem ztrácí až 50% své hodnoty ovšem v praxi to neznamená, že by na těch zbytcích bylo něco špatného nebo že jsou zdravotně nebezpečné.
+Zbytky jsou nenahraditelné ztráty a jsou největším bolehlavem každého manažera kuchyně. Mohou to například být neprodané porce prvotřídních a drahých jídel, které se z nějakého důvodu neprodaly. Taková jídla ztrácí až 50 % své hodnoty. V praxi to však neznamená, že by na zbytcích bylo něco špatného nebo že jsou zdravotně závadné.
 
-Pokud se nezávadnosti zbytků týká tak záleží jak se s těmi zbytky zachází. Proto jako studenti Hostovky bychom nad některými zbytky neměli ohrnovat nos, ba naopak protože někdy takový "zbytek" je vlastně velkou lahůdkou.
+To, jestli jsou zbytky závadné, závisí na tom, jak se s nimi zachází. Jako studenti Hostovky bychom nad některými zbytky neměli ohrnovat nos, ba naopak. Někdy je zbytek vlastně velkou lahůdkou.
 
-Zbytky totiž nejsou jen neprodané porce vařených jídel. Surové potraviny které nebyly zpracovány a prodány v plánované době jsou ve skutečnosti také "zbytky".
-
-Jsou ale i "zbytky" které se tvoří úmyslně. Já například když jsem měl na lístku smažený lilek, jsem ho vždy usmažil více než jsem předpokládal že se ho prodá a druhý den jsem ten zbytek lilku prodal jako specialitu zvanou Lilek po Milánsku.
+Zbytky totiž nejsou jen neprodané porce vařených jídel. Jsou to i surové potraviny, které nebyly zpracovány a prodány v plánované době.
 
 {id="lilek\_po\_milansku"}
 
 ## Lilek po milánsku
 
-Plátky obalovaného, smaženého lilku (zbytek z minulého dne), rajská omáčka, na tenké plátky krájený nebo strouhaný sýr, bešamelová omáčka, přepuštěné máslo.
+Existují ale i zbytky, které se tvoří úmyslně. Například když jsem měl na lístku smažený lilek, tak jsem ho vždy usmažil více než se prodá. Druhý den jsem zbytek lilku prodal jako specialitu zvanou _lilek po milánsku_.
 
-Dno máslem vymaštěného pekáčku pokryjeme plátky smaženého lilku, pokryjeme tenkou vrstvou sýra a přelijeme bešamelovou omáčkou. Tímto způsobem přidáme ještě 2 nebo tři vrstvy smaženého lilku a ostatních surovin tak abychom zakončili bešamelovou omáčkou. Povrch posypeme strouhaným sýrem, pokapeme rozpuštěným máslem a pečeme v troubě dozlatova.
+Budeme potřebovat:
+
+  * plátky obalovaného, smaženého lilku (zbytek z minulého dne),
+  * rajskou omáčku,
+  * na tenké plátky krájený nebo strouhaný sýr,
+  * [bešamelovou omáčku][1] a
+  * přepuštěné máslo.
+
+Příprava lilku není nijak extra časově náročná.
+
+  1. Dno máslem vymaštěného pekáčku pokryjeme plátky smaženého lilku a tenkou vrstvou sýra.
+  2. Následně vše přelijeme bešamelovou omáčkou.
+  3. Tímto způsobem přidáme ještě dvě nebo tři vrstvy tak, abychom zkončili bešamelovou omáčkou.
+  4. Povrch posypeme strouhaným sýrem a pokapeme rozpuštěným máslem.
+  5. Lilek pečeme v troubě dozlatova.
 
 Pečený lilek nakrájíme na porce požadované velikosti a podáváme jako hlavní chod s opečenými bramborami nebo s bramborovou kaší.
 
+ [1]: /besamel
