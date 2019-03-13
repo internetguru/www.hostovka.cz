@@ -23,11 +23,7 @@ Zahraniční hosté (ze západu) jsou zvyklí na větší porce masa. Jsou také
 
 ## Poměr mezi velikostí porce a cenou
 
-Odhadnout správnost ceny není tak jednoduché, jak se zdá. Cena jídel se zjednodušeně skládá z nákladů na suroviny, mzdy a ostatních provozních nákladů, z přidané hodnoty a samozřejmě ze zaslouženého zisku.
-
-{class="important"}
-
-Cena musí být pro hosta přijatelná a musí odpovídat jeho představám o hodnotě. No, a v tom je zakopaný pes.
+Odhadnout správnost ceny není tak jednoduché, jak se zdá. Cena jídel se zjednodušeně skládá z nákladů na suroviny, mzdy a ostatních provozních nákladů, z přidané hodnoty a samozřejmě ze zaslouženého zisku. Cena musí být pro hosta přijatelná a musí odpovídat jeho představám o hodnotě. No, a v tom je zakopaný pes.
 
 Jsou lidé, které cena vůbec nezajímá, a kteří jen zvažují, zda váha či hmotnost porce odpovídá jejich požadavkům. Oproti tomu jsou lidé, pro které je cena rozhodujícím faktorem.
 
