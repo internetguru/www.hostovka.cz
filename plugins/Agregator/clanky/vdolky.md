@@ -5,13 +5,13 @@
 
 # Vdolky u nás a v Americe
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
-
 {kw="jídla a jídelní lístky, recept, historka"}
 
 Někdo má rád vdolky, někdo zase holky. No a já se netajím tím, že mám rád obojí. Holky nemusí být vyloženě české, ale vdolky, to je něco jiného. Vdolky musí být pravé české, jak je dělala moje maminka, babička a prababička.
 
 Nemám na mysli vdolečky ze všech možných cukrářských knížek jako jsou smažené vdolečky, bavorské vdolečky, tvarohové vdolečky apod. Mám na mysli takové ty jednoduché, co se dělají přímo na plotně nebo v nejhorším případě v troubě.
+
+{id="recept\_na\_babicciny_vdolky"}
 
 ## Recept na babiččiny vdolky
 
@@ -39,6 +39,8 @@ Příprava i s kynutím by neměla zabrat více než 90 minut, pečení pak dal�
 
 Pokud pečené vdolky hned nepoužijeme, tak je necháme vychladnout, horizontálně je rozkrojíme a po jednom je zabalíme. Zabalené vdolky označíme datumem a uložíme do mrazáku.
 
+{id="americke_vdolky"}
+
 ## Americké vdolky
 
 V Americe je vdolků několik druhů a pokud jim nerozumíte, tak si ani nemůžete vybrat. Říká se jim (nevím proč) _English muffins_. Nejpopulárnější jsou vdolky od firmy Sara Lee balené po šesti kusech. Stejně dobré jsou ale i vdolky od firmy Thomas, které si říkají _Original_. To jsou ale jen řeči, protože originál by bylo _Podle mé babičky_.
@@ -49,7 +51,7 @@ Nedávno jsem objevil podstatně levnější vdolky balené také po šesti kuse
 
 U nás si vdolky děláme jen tak opečené pod salamandrem a jíme je suché, ale vynikající jsou namáznuté máslem a marmeládou. Nejpopulárnější jsou ale jako _Eggs Benedict_. Když už jsem u holandské omáčky, tak vám k tomu musím přidat příhodnou historku.
 
-{short="Holandská omáčka á la mokrá záda"}
+{short="Holandská omáčka á la mokrá záda" id="holandska\_omacka\_a\_la\_mokra_zada"}
 
 ## Historka o holandské omáčce á la mokrá záda
 
@@ -78,3 +80,4 @@ Samozřejmě, že jsem mu to dovolil, ale ne jenom to. Musím říci, že José 
 Sice nejsem učitel národů jako byl Komenský, ale za léta praxe jsem téměř po celém světě vychoval stovky, ne-li tisíce dobrých kuchařů, na které dnes mohu být pyšný.
 
  [1]: /kucharske_tituly#vykonny_sefkuchar
+

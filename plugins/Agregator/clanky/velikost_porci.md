@@ -5,8 +5,6 @@
 
 # Správná velikost porce
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-06, do not edit -->
-
 {kw="jídla a jídelní lístky, nejčtenější"}
 
 Žádný úřad, instituce, strana a vláda nám dnes již nemůže diktovat, jak velké by porce měly být. Jediný, kdo určuje velikost porcí, je spotřebitel.
@@ -19,7 +17,7 @@ Jiné představy o správné velikosti porcí jídel (a jejich ceně) mají mlad
 
 Zahraniční hosté (ze západu) jsou zvyklí na větší porce masa. Jsou také zvyklí na to, že porce jídel, a tudíž i jejich [ceny, jsou v poledne nižší než večer][1].
 
-{short="Velikost porce vs. cena"}
+{short="Velikost porce vs. cena" id="velikost\_porce\_vs_cena"}
 
 ## Poměr mezi velikostí porce a cenou
 

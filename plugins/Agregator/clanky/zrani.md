@@ -5,8 +5,6 @@
 
 # Zrání hovězího masa
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
-
 {kw="kuchyňské techniky"}
 
 Maso z čerstvě poraženého hovězího a zvěřiny není vhodné k tepelné úpravě. Takové maso musí nejdříve správně _vyzrát_. Pod pojmem zrání masa se normálně rozumí doba neboli počet dnů, od okamžiku poražení hovězího dobytčete, do doby, kdy je tzv. „rozbouráno“ na jateční kusy. Průměrná doba od porážky do bourání na jateční kusy je v Americe asi 7 dnů.
@@ -17,6 +15,8 @@ Ke skutečnému zrání masa dochází až u bouraného masa. Zrání bouraného
 
 Vzhledem k tomu, že podmínky potřebné k bezpečnému zrání nejsou triviální, tak se v domácích podmínkách nedoporučuje.
 
+{id="suche\_a\_vlhke_zrani"}
+
 ## Suché a vlhké zrání
 
 Rozdíl metod zrání je v tom, že suché zrání dává masu lepší a výraznější chuť. Maso uzrálé vlhkým způsobem je levnější a může být na trh dodáno mnohem rychleji. Proto má delší dobu regálové životnosti.
@@ -26,6 +26,8 @@ Suché zrání (anglicky _dry aging_) je podstatně dražší a trvá delší do
 Během této doby se enzymy v mase rozloží, čímž se křehčí svaly a tkáně masa. Na povrchu maso ztratí vlhkost, čímž se vytvoří nepoživatelná slupka. Ta musí být odkrojena. Pečlivě kontrolované prostředí, potřebný čas a ztráta vrchní slupky podstatně navyšuje cenu.
 
 Při vlhkém zrání (anglicky _wet aging_) je maso vakuově zabalené do plastikového obalu a vloženo do krabic k distribuci. Tím, že obal zabraňuje ztrátě vlhkosti, jí maso více absorbuje, což napomáhá k jeho šťavnatosti a křehkosti.
+
+{id="ucel_zrani"}
 
 ## Účel zrání
 
@@ -62,3 +64,4 @@ V restauracích většina hostů dává přednost masu uzrálému, za což jsou 
 Zrání masa nesmíme zaměňovat s [marinováním][1] o kterém si povíme později.
 
  [1]: /duseni#marinada
+

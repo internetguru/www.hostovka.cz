@@ -1,11 +1,9 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=263.html" data-og-image="/files/preview/clanky/vanoce/general.jpg" data-og-type="article"}
 
-{id="vanoce_v_americe" ctime="2007-12-22" author="Michael Klíma" short="Vánoce v Americe" mtime="2019-03-11"}
+{id="vanoce\_v\_americe" ctime="2007-12-22" author="Michael Klíma" short="Vánoce v Americe" mtime="2019-03-11"}
 
 # Vánoce u nás a v Americe
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
 
 {kw="gastronomie, Vánoce, recept"}
 
@@ -20,6 +18,8 @@ Tady v Kalifornii sice nejsou taková vedra jako v Austrálii, kde jsme Štědr�
 Mořských ryb, humrů, krevetek, ústřic a všelijakých dalších mořských potvor tady máme jako nikde jinde na světě. O pořádného kapra tady člověk ale nezavadí. A bez kapra to prostě nejsou Vánoce.
 
 V Americe se kapr nejí ani v Berwynu nebo Ciceru. To jsou předměstí Chicaga a místa s největší koncentrací českých emigrantů. Je to proto, že kapři v Americe nejsou vůbec dobří a jsou považováni za podřadné jídlo. Jsou z pravidla příliš velcí a páchnou bahnem, takže se vůbec nedají jíst. Když už, tak se jí ryby zvané buffalo. Ty se kapru velice podobají, ale věřte mi, že to není ono.
+
+{id="kapr\_u\_nas_doma"}
 
 ## Kapr u nás doma
 
@@ -63,7 +63,7 @@ V Americe, stejně tak jako dnes i u nás, je možno koupit všechno hotové. Tu
 
 Při porcování navíc vznikne takzvaný ořez, ze kterého se dělá moje oblíbené jídlo šunkofleky. Co mi však u americké šunky schází nejvíce, je kost, bez které se myslím neobejde žádná pořádná hrachová polévka.
 
-{short="Glazurovaná šunka"}
+{short="Glazurovaná šunka" id="glazurovana_sunka"}
 
 ## Recept na glazurovanou šunku
 
@@ -93,3 +93,4 @@ Vhodná příloha k pečené šunce jsou v Americe sladké brambory v jakékoliv
  [2]: /peceni
  [3]: /duseni#marinada
  [4]: /liquid_smoke
+
