@@ -5,8 +5,6 @@
 
 # Jídelní hůlky
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
-
 {kw="gastronomie"}
 
 Používání jídelních hůlek bylo vyvinuto asi před 5000 lety v Číně. Nejspíše v době kdy se jídlo vařilo ve velkých hrncích nebo kotlích, a nedočkavci si zřejmě ulomili větvičku kterou si jídlo z kotle vybírali, a později přišli na to, že dvěma větvičkami to jde pohodlněji a tak vznikly jídelní hůlky.
@@ -38,14 +36,6 @@ Japonské zásady při jídle hůlkami:
   * K rozdělení větších kousků masa musíte použít většího tlaku na hůlky, což ale vyžaduje již určitou praxi.
   * V případě, že jste vaše hůlky měli již v ústech, k podání jídal ze společné mísy použijte druhý konec hůlek.
   * Jídelní hůlky můžeme chápat jako pinzetu, přičemž u hůlek jsou dvě části. Jedna která je pevná, a druhá která se pohybuje.
-
-1. Tento obrázek znázorňuje vlastně uložení druhé hůlky která je založena mezi palec a špičku druhého a třetího prstu a která se pohybuje jako páka.
-
-2. První hůlka by měla být již založena hluboko mezi palec, tak že se její spodní část opírá o špičku prsteníku a ta druhá taj jak je znázorněno.
-
-3. Hůlkami pak si bereme kousky jídel ze společných mís a dáváme si je navrch rýže kterou máme v individuální rýžové misce což po krátké tréninku je velice jednoduché.
-
-4. Větší kousky jsou sice poněkud obtížnější, ale dá se to také zvládnout.
 
 Pokud hůlky nepoužíváme, pokládáme je před sebe na tak zvané chopsticks rest, což jsou jakési podložky (kobylky) na kterých hůlky leží tak aby se nepotřísnil ubrus.
 

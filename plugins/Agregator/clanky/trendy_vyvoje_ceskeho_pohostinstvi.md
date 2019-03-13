@@ -5,8 +5,6 @@
 
 # Trendy vývoje českého pohostinství
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
-
 {kw="gastronomie"}
 
 Já jsem na toto téma napsal podobný článek do stránek www.gastronews.cz, ale z nějakého důvodu ten článek z těchto stránek zmizel, nejspíše proto, že odborníci to všechno znají a nechtějí aby jim to někdo připomínal.
@@ -195,9 +193,9 @@ Většina prognostiků se ale shoduje v tom, že budoucnost pohostinství se bud
   6. Zvýšenými nároky na služby- to co bylo považováno dosud jako mimořádné služby zákazníkům bude standard každého podniku kterýbude chtít ve vzrůstající konkurenci obstát.
   7. Novou technologií nahrazující zakořeněné zastaralé metody.
   8. Změnou sortimentu výrobků.
-  9. Snížením intervence vládních orgánů.
- 10. Zvýšenými požadavky na soukromý kapitál.
- 11. Zvýšenými požadavky na hospodářský výsledek neboli zisk.
+  9. Snížením intervence vládních orgánů. 
+      1. Zvýšenými požadavky na soukromý kapitál.
+      2. Zvýšenými požadavky na hospodářský výsledek neboli zisk.
 
 Zodpovědné plánování úkolů, schopnost rychle reagovat na změny, umění rychle vyhodnocovat informace, rychlost, kvalita služeb a uspokojení potřeb a přání hostů, budou základními podmínkami úspěchu podnikání v pohostinství v příštím století. Tyto podmínky bude možné zvládnout jedině novými formami managementu jak restaurací tak i kuchyní.
 
