@@ -41,9 +41,7 @@ Pokud pečené vdolky hned nepoužijeme, tak je necháme vychladnout, horizontá
 
 ## Americké vdolky
 
-V Americe je vdolků několik druhů a pokud jim nerozumíte, tak si ani nemůžete vybrat. Říká se jim (nevím proč) _English muffins_.
-
-Nejpopulárnější jsou vdolky od firmy Sara Lee balené po šesti kusech. Stejně dobré jsou ale i vdolky od firmy Thomas, které si říkají _Original_. To jsou ale jen řeči, protože originál by bylo _Podle mé babičky_.
+V Americe je vdolků několik druhů a pokud jim nerozumíte, tak si ani nemůžete vybrat. Říká se jim (nevím proč) _English muffins_. Nejpopulárnější jsou vdolky od firmy Sara Lee balené po šesti kusech. Stejně dobré jsou ale i vdolky od firmy Thomas, které si říkají _Original_. To jsou ale jen řeči, protože originál by bylo _Podle mé babičky_.
 
 Jak Sara Lee, tak Thomas jsou relativně drahé, ale tak jako u všeho, tak i u vdolků, drahé ještě neznamená nejlepší. Přišel jsem na to, že u nich platíte jednak za atraktivní balení, a také za to, že jsou již horizontálně rozkrojené a poněkud lépe opečené.
 
