@@ -11,11 +11,11 @@
 
 Žádný úřad, instituce, strana a vláda nám dnes již nemůže diktovat, jak velké by porce měly být. Jediný, kdo určuje velikost porcí, je spotřebitel.
 
-{class="example"}
-
-Velikost porcí určíme na základě zkušeností nebo průzkumu o přáních, potřebách, a hlavně finančních možnostech naší potenciální klientely. S velikostí porce masa nebo hlavní potraviny narůstá i cena jídel. Ta je v mnoha případech pro klientelu rozhodujícím faktorem při volbě restaurace.
+Velikost porcí určíme na základě zkušeností nebo průzkumu o přáních, potřebách, a hlavně finančních možnostech potenciální klientely. S velikostí porce masa nebo hlavní potraviny narůstá i cena jídel. Ta je v mnoha případech pro klientelu rozhodujícím faktorem při volbě restaurace.
 
 Jiné představy o správné velikosti porcí jídel (a jejich ceně) mají mladí lidé, ženy, muži, těžce pracující dělníci anebo důchodci. V minulosti u nás byly porce masa regulovány na základě hospodářských možností, a proto byly ve srovnání s mezinárodním standardem relativně malé.
+
+{class="example"}
 
 Zahraniční hosté (ze západu) jsou zvyklí na větší porce masa. Jsou také zvyklí na to, že porce jídel, a tudíž i jejich [ceny, jsou v poledne nižší než večer][1].
 
@@ -33,13 +33,11 @@ Jsou lidé, které cena vůbec nezajímá, a kteří jen zvažují, zda váha č
 
 Pro jednoho se tedy může jídlo zdát drahé, pro druhého zase laciné. Obdobně i porce se jednomu může zdát malá, či velká, ale odpovídající. A druhý se cítí ošizen v každém případě.
 
-Jak cena, tak i hmotnost musí také odpovídat místním zvyklostem. Proto například za totéž jídlo dáte ve velkém městě nebo populárním místě o mnoho více než na odlehlém místě. Nicméně i zde jsou výjimky potvrzují pravidlo.
+Jak cena, tak i hmotnost musí také odpovídat místním zvyklostem. Proto například za totéž jídlo dáte ve velkém městě nebo populárním místě o mnoho více než na odlehlém místě. Proto také za obyčejný párek na Sněžce dáte více než na Václaváku, nehledě na to, že vám připočítají vysokohorskou přirážku. Nicméně i zde jsou výjimky potvrzují pravidlo.
 
 {class="example"}
 
 Nedávno jsme byli na obědě v poušti, kde mimo restaurace široko daleko nic nebylo a ceny jídel byly větší než v luxusní restauraci ve velkém městě.
-
-Proto také za obyčejný párek na Sněžce dáte více než na Václaváku, nehledě na to, že vám připočítají vysokohorskou přirážku.
 
 {id="velikost\_porce\_na\_jidelnim\_listku"}
 
@@ -69,9 +67,7 @@ Tajemství _úspěchu_ amerického restauratéra je v tom, že mnohdy ani nespí
 
 ## Jak určit velikost porce
 
-Udávání velikostí steaků ve váhách 150, 200 nebo 300 g je jen vžitou zvyklostí. V Americe se například váha steaků uvádí v uncích: 8 uncí (226,8 g), 10 uncí (283,5 g), 16 uncí (453,6 g).
-
-Vodítkem k určení váhy porcí může být následující mezinárodně užívaná tabulka pro večerní jídelní lístek, přičemž polední porce mohou být o 50 až 100 g menší.
+Udávání velikostí steaků ve váhách 150, 200 nebo 300 g je jen vžitou zvyklostí. V Americe se například váha steaků uvádí v uncích: 8 uncí (226,8 g), 10 uncí (283,5 g), 16 uncí (453,6 g). Vodítkem k určení váhy porcí může být následující mezinárodně užívaná tabulka pro večerní jídelní lístek, přičemž polední porce mohou být o 50 až 100 g menší.
 
 {class="col"}
 
