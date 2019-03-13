@@ -9,9 +9,11 @@
 
 {kw="jídla a jídelní lístky, recept"}
 
-Zbytky jsou nenahraditelné ztráty a jsou největším bolehlavem každého manažera kuchyně. Mohou to být například neprodané porce prvotřídních a drahých jídel, které se z nějakého důvodu neprodaly. Taková jídla ztrácí až 50 % své hodnoty. V praxi to však neznamená, že by na zbytcích bylo něco špatného nebo že jsou zdravotně závadné.
+Zbytky jsou nenahraditelné ztráty a jsou největším bolehlavem každého manažera kuchyně. Mohou to být například neprodané porce prvotřídních a drahých jídel, které se z nějakého důvodu neprodaly. Taková jídla ztrácí až 50 % své hodnoty. V praxi to však neznamená, že by na zbytcích bylo něco špatného, nebo že jsou zdravotně závadné.
 
 To, jestli jsou zbytky závadné, závisí na tom, jak se s nimi zachází. Jako studenti Hostovky bychom nad některými zbytky neměli ohrnovat nos, ba naopak. Někdy je zbytek vlastně velkou lahůdkou.
+
+{class="important"}
 
 Zbytky totiž nejsou jen neprodané porce vařených jídel. Jsou to i suroviny, které nebyly zpracovány a prodány v plánované době.
 
@@ -19,7 +21,7 @@ Zbytky totiž nejsou jen neprodané porce vařených jídel. Jsou to i suroviny,
 
 ## Lilek po milánsku
 
-Existují zbytky, které se tvoří úmyslně. Například když jsem měl na lístku smažený lilek, tak jsem ho vždy usmažil více než se prodá. Druhý den jsem zbytek lilku prodal jako specialitu zvanou _lilek po milánsku_.
+Existují zbytky, které se tvoří úmyslně. Například když jsem měl na lístku smažený lilek, tak jsem ho vždy záměrně usmažil více než se prodá. Druhý den jsem zbytek lilku prodal jako specialitu zvanou _lilek po milánsku_.
 
 Budeme potřebovat:
 
