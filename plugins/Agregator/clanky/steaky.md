@@ -115,7 +115,6 @@ Nemusím vám ale asi říkat, že i v churaskeriích se dnes naučili šetřit 
 
 Součástí churasca jsou dnes také uzeniny zvané defumados.
 
-#IMG \[http://2017.hostovka.cz/soubor/16-03-06-8.jpg\]\[defumagos\]
 
 Nejoblíbenější masa jsou vepřová panenka, vrchní šál, rib eye, svíčková a brazilská specialita "the hump of the Brahman bull" neboli hrb bráhmanského býka.
 
@@ -131,7 +130,6 @@ Jediným koření byla hrubá sůl. Maso se na těchto špízech grilovalo a př
 
 Churasco uspokojuje všechny carnivores (žrouty masa), jemněji řečeno všechny "meat lovers", neboli lidi kteří mají rádi maso v jednoduché přípravě.
 
-#IMG \[http://2017.hostovka.cz/soubor/16-03-06-10.jpg\]\[Churaso\]
 
 Každý gaučo měl svůj churasco nůž kterým si z masa odkrojoval kousky podle svého přání. V Jižní Brazílii mají lidé toto barbecue na zahradě v jámách vyzděných cihlami, nebo je mají zabudované do zdi s okraji z ozdobných dlaždiček.
 
@@ -215,7 +213,6 @@ Talíř na který vám ta jídla podávají je samozřejmě studený a tak mi ř
 
 Nicméně se dá říci, že je to nezapomenutelná zkušenost obzvláště když si uschováte účtenku
 
-#IMG \[http://2017.hostovka.cz/soubor/16-03-06-21.jpg\]\[Účtenka\]
 
 K tomu si ale přičtěte 10% spropitného, malý poplatek za šatnu a vidíte, že můj přítel Bohouš by to z jeho penze šéfkuchaře denně dělat nemohl.
 

@@ -27,7 +27,6 @@ Nakonec ani Kolumbova Santa Maria, nebyl nějaký "luxary cruiser", ale ocean cr
 
 V roce 1844 velice známá britská zaoceánská lodní společnost Peninsular and Oriental Co., pozvala známého britského spisovatele Williama Thakersy na prvou, dá se říci "rekreační" plavbu po Středozemním moři "bez specifického cíle", jen tak za poznáním a pro rekreaci na "luxury liner".
 
-#IMG \[http://2017.hostovka.cz/soubor/29-03-07-6.JPG\]\[cruise ship\]
 
 Bill se P&O společnosti odměnil článkem ve kterém nešetřil superlativy o cruise, kterou právě podnikl.
 
@@ -35,7 +34,6 @@ Od te doby se cruise stalo synonymem pro rekreační, někdy i okružní plavby 
 
 Cruise ships jsou lodi používané výhradně pro "pleasure cruising" na rozdíl od Ocean Steamers, jako například Titanic, které se zbývají pravidelnou lodní dopravou.
 
-#IMG \[http://2017.hostovka.cz/soubor/29-03-07-8.JPG\]\[Queen Mary 2, na které jsem sice byl ale zatím jsem se s ní neplavil, což je můj sen\]
 
 Cruise ships, i když nazývané loděmi, loděmi vlastně ani nejsou. Jsou to obrovské plovoucí luxusní hotely, které se předhánějí ve kvalitě a množství podávaných jídel a nápojů, které mimo pohodlí poskytují pasažérům všemožnou, téměř 24 hodinovou zábavu v podobě kasina, kabaretů, barů, a tanečních míst a fitness center, takže po takové "rekreaci" si vlastně musíte vzít několik dní dovolené, abyste si trochu odpočinuli. Cruises začínají a končí v nějakém přístavu do kterého se lidé musí nějakým způsobem dostat, tudíž cruises jsou velice úzce spojeny s leteckou dopravou, takže to nejsou vyloženě jenom okružní plavby tak jako tak. Tím ale se taková cruise pro některé vnitrozemce prodraží.
 
