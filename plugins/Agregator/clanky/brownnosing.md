@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=303.html" data-og-image="/files/preview/clanky/brownnosing/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=303.html" data-og-image="/files/preview/clanky/brownnosing/general.png" data-og-type="article"}
 
 {id="brownnosing" ctime="2008-03-31" author="Michael Klíma" short="Brownnosing" authorid="hostovka/michael_klima"}
 
 # Brownnosing
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="koho se to týká"}
 
