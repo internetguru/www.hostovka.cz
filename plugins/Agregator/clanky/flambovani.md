@@ -87,7 +87,6 @@ Já jsem tyto banany v restauraci ochutnal asi tak v roce 1971, což bylo asi ta
 
 Cherry Jubilé jsou flambované černé třešně které se podávají horké, a pokud možno ještě hořící na vanilkové zmrzlině.
 
-#IMG \[http://2017.hostovka.cz/soubor/12-12-05-9.jpg\]\[CHERRY JUBILÉ\]
 
 Je to jeden z nejednodušších flambovaných moučníků takže jsem je měl na jídelním lístku téměř ve všech restauracích ve kterých jsem pracoval a docela mně udivuje, že ho v Česku, kde flambování je ještě ve velké oblibě, ještě nikdo neobjevil.
 

@@ -5,8 +5,6 @@
 
 # Chřest
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
-
 {kw="gastronomie"}
 
 Na stránkách NEVIDITELNÝ PES jsem zcela náhodou narazil na docela zajímavý článek o chřestu který, jak jsem se dozvěděl z té diskuse k tomuto článku, někteří lidé ani neznají.
@@ -26,8 +24,6 @@ Proto ať již budete někdy chřest jíst nebo ne, byste o něm měli něco vě
 SPOLEČNOST: České nechřestění
 
 Převzato z časopisu Neviditelný Pes
-
-16. května 2007
 
 Jako každý rok se těšíme s manželkou na poslední dekádu dubna, až se objeví na tržištích Saska a polského Dolního Slezska charakteristické štíhlé tvary čerstvého chřestu, bílého i zeleného. Jdeme do toho a každý víkend ať již autem, pěšky nebo na kole vyrazíme do Oberlausitz (Horní Lužice) do okolí Zittau nebo Görlitz či Bautzenu, a dopřeme si nějakou variaci na báječné jídlo s chřestem.
 

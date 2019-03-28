@@ -81,7 +81,6 @@ Nejsou to ale jen někteří "odborníci" ale podobný přístup k hamburgrům a
 
 Oproti tomu například v Číně, asi tak před šesti měsíci, firma McDonnald's oznámila, že hodlá otevřít během 3 let asi 400 jejich restaurací. Nedávno jsem se na internetu dozvěděl, že dnes jich tam je už téměř tisíc a vypadá to tak, že za nějaký čas bude v Číně Macdonald's, nebo nějaký jiný fast food, na každé vesnici a na každé křižovatce jako je tomu v Americe a Číňané se místo hůlkami naučí jíst rukama.
 
-#IMG \[http://2017.hostovka.cz/soubor/7-9-06-5.JPG\]\[MONTE CHRISTO SANDWICH\]
 
 Další velice oblíbený sendvič v Americe je Monte Christo sandwich, o kterém jsem se již zmínil a který je tak jednoduchý, že mně to až udivuje, že jsem ho nevynašel já.
 
@@ -91,7 +90,6 @@ Já vím, že mně hned někdo vytkne, že jim dělám reklamu, ale pokud ho chc
 
 Opravte mně pokud se mýlím, ale v současné době nikde jinde takové domácí hranolky nedostanete a já vím o čem mluvím protože koncept toho motorestu je moje dítě a ty hranolky tam dělají podle mého receptu.
 
-#IMG \[http://2017.hostovka.cz/soubor/7-9-06-6.JPG\]\[CLUB SANDWICH\]
 
 V té samé restauraci dostanete ale i klasický americký CLUB SANDIVCH který je populární po celém světě.
 

@@ -11,8 +11,6 @@
 
 Avocado, (Persea gratissima nebo P. americana), česky nejspíše avokádo je někdy označováno za tropické ovoce a jindy za zeleninu.
 
-#IMG \[http://2017.hostovka.cz/soubor/12-1-07-3.JPG\]\[Velikosti avokáda\]
-
 Jeho jméno má původ v Nahuatl abuacatl, "varlata" (díky jeho tvaru). Španělé, avokádu říkali aquacate nebo aguate. Jsou známy i jiné názvy jako albecata, arragoat, nebo auocato.
 
 Plody jsou kulaté, oválné nebo hruškovitého tvaru. Barva avokáda může být od jasně zelené přes červenou po tmavě rudou až černou barvu.

@@ -17,7 +17,6 @@ Pro grilování vyberte co nejlibovější maso, případně tučné části je�
 
 Tlusté maso odborníci nedoporučují ani při přípravě v kuchyni, při grilování je však nízkotučná dieta ještě důležitější.Tuk, který odkapává na žhavé uhlíky, se totiž při teplotě vyšší než 400 stupňů Celsia rozkládá na polycyklické aromatické uhlovodíky. Tyto karcinogenní látky se pak s proudem horkého vzduchu přenášejí zpátky na grilované maso. Tvořit se mohou také karcinogenní heterocyklické aminy, které jsou součástí chutné šťávy vypékající se z masa.
 
-#IMG \[http://2017.hostovka.cz/soubor/26-06-07-3.JPG\]\[Druhy steaků\]
 
 Pro grilování vyberte maso které je dostatečně prorostlé tukem, neboli mramorované.
 
@@ -25,7 +24,6 @@ Pokud některé maso je příliš libové, jako například očištěná svíčk
 
 Já vím, že v Česku se z toho asi žádná věda nedělá, ale v Americe tak zvaní "steak lovers" jsou prevíti kteří vědí co jim za jejich peníze patří? Někteří sice nemusí mít u steaků ten "palec" který nesmí být více než 3 inče dlouhý, ale všechen ten tuk by si z toho svého steaku opižlat nenechali.
 
-#IMG \[http://2017.hostovka.cz/soubor/26-06-07-6.JPG\]\[Druhy steaků\]
 
 Prostě ten tuk tam patří a basta! No, a když ten palec nechcete tak si ty steaky (v Americe)objednejte bez palce.
 
@@ -53,7 +51,6 @@ Mimo to ale můžete ještě dnes dostat gril na lávové kameny, které když s
 
 Poslední hit jsou ale plynové grily se zářiči které nepotřebují vůbec nic a které mají několik kontrolovatelných tepelných zón a které používá v Česku již koncept STEAKGRILL.
 
-#IMG \[http://2017.hostovka.cz/soubor/26-06-07-11.JPG\]\[Plynový gril\]
 
 Jinak pokud se týká potravin grilovaných po zabalení do folie nebo do jakéhokoliv obalu, hovoříme o metodě zvané "en papillote", kde ale pak nejde jíž o grilování v pravém slova smyslu, ale o "vaření v páře" která se v tomto obalu vytvoří.
 

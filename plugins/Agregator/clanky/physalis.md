@@ -29,7 +29,6 @@ Já jsem kolem ovoce physalis chodil hodně dlouho než jsem dostal odvahu ho oc
 
 Měl jsem ho v kuchyni po nějaký čas a stále se mi do toho moc nechtělo.
 
-#IMG \[http://2017.hostovka.cz/soubor/22-12-05-2.jpg\] \[Physalis\]
 
 Když ale se pak ta slupka otevře, tak vidíte, že uvnitř je plod velikosti velkého hroznového vína, lesklé a trochu lepkavé s velice příjemno vůní takže nakonec neodoláte a ochutnáte ho.
 

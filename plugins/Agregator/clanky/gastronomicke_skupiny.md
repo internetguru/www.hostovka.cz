@@ -5,8 +5,6 @@
 
 # Gastronomické skupiny na českých lístcích
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
-
 {kw="jídla a jídelní lístky"}
 
 O názvech jídel jsme si v této sekci již něco řekli, ale o čem by studenti Hostovky něco měli vědět jsou gastronomické skupiny. Nemám ale na mysli gastronomické skupiny do kterých se jídla dělí tak aby v nich byl nějaký přehled, mám na mysli gastronomické skupiny se kterými se setkávají hosté na jídelních lístcích.
@@ -22,9 +20,6 @@ Dal jsem si s tím práci a sepsal jsem gastronomické skupiny se kterými se se
   * Hotová jídla (Hotovky)
   * Chlebové papačky
   * Jehněčí maso
-  * Jídla na objedávku
-
-  * Jídla pro celou rodinu
   * Kompoty
   * Masové směsi
   * Moučníky
@@ -32,18 +27,12 @@ Dal jsem si s tím práci a sepsal jsem gastronomické skupiny se kterými se se
   * Něco pro štíhlou línii
   * Osvěžující saláty
   * Poháry, zmrzliny a moučníky
-  * Pokrmy k pivu a k jiným mokům
-
-  * Pokrmy na grilu
   * Polévky
   * Předkrmy
   * Přílohy
   * Rybí speciality
   * Ryby
   * Saláty
-  * Slovanská kuchyně
-
-  * Speciality
   * Speciality na grilu
   * Speciality naší kuchyně
   * Speciality z bramborového těsta
@@ -52,9 +41,6 @@ Dal jsem si s tím práci a sepsal jsem gastronomické skupiny se kterými se se
   * Studená jídla
   * Studené předkrmy
   * Sýry
-  * Teplé nápoje
-
-  * Teplé omáčky
   * Teplé předkrmy
   * Těstoviny
   * Vepřové maso

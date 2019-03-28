@@ -63,7 +63,6 @@ Naprosto čerstvé očištěné potraviny nakrájené předepsaným způsobem a 
 
 Jídla připravená na předepsaném zařízení stanovenými technikami.
 
-#IMG [[http://2017.hostovka.cz/soubor/10-11-06-4.JPG][1]][Prohazování jídla na pánvi]
 
 Jak vidíte, tak toho není moc a navíc musím dodat, že k přípravě těchto jídel nikdo nemusí být vyučen, ani nemusí mít hotelovou školu, ale musí znát potřebný know how.
 
@@ -71,13 +70,11 @@ Jak vidíte, tak toho není moc a navíc musím dodat, že k přípravě těchto
 
 Po krátkém zaškolení všichni kuchaři (pokud se jim tak dá říkat), musí připravovat ta jídla všude a vždy stejně, neboli Kuře Kung Pao v Pekingu na rynku musí být stejné jako v Horních Počáplech.
 
-#IMG \[http://2017.hostovka.cz/soubor/10-11-06-6.JPG\]\[Jídlo\]
 
 To samé se dá říci o velikosti porcí které také musí být pokaždé stejné. Manželka která nemá ráda ostrá jídla si dala její oblíbené kuře s čerstvými cashew ořechy, což podle ní také nemělo chybu, a podle mého odhadu ta porce byla stejně velká jako u toho kuřete Kung Pao.
 
 A to jsem se vlastně nezmínil o rychlosti podle které tento způsob přípravy jídel má své jméno. Příprava žádného toho jídla netrvá déle ne ž 5 minut a tak není divu, že na zahajovací den jenom v poledne obsloužili zhruba asi 300 lidí nemluvě o asi 150 jídlech "přes ulici".
 
-#IMG \[http://2017.hostovka.cz/soubor/10-11-06-7.JPG\]\[Telefonicky objednaná jídla\]
 
 No a teď se ale nemůžete divit, že já jsem všemi těmi technikami rychlé přípravy jídel přímo fascinován.
 

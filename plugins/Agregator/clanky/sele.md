@@ -138,7 +138,6 @@ Z pečeného selete odřízneme napřed opečenou kůžičku (kterou gurmáni po
 
 Vypečenou šťávu odtučníme, přecedíme a nezahuštěnou podáváme zvlášť v omáčníku.
 
-#IMG \[http://2017.hostovka.cz/soubor/14-05-07-4.JPG\]\[Porcování selete\]
 
 Pro 15 ? 20 lidí by 15 kg sele mělo bohatě stačit, ale záleží co k tomu budete podávat jako filler neboli plnič.
 

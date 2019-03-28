@@ -50,7 +50,7 @@ Minutkám se také někdy říká jídla na objednávku. Podle mě, se i každé
 
 ### Cena minutek
 
-Minutky jsou dražší než hotová jídla. To je údajně proto, že jsou ve většině případů připraveny z dražších mas, vybraných a dražších druhů surovin. Toto tvrzení je neopodstatněné. Například drůbež použitá na minutky, je stejně drahá jako drůbež použitá na hotová jídla.
+Minutky jsou dražší než hotová jídla. To je údajně proto, že jsou ve většině případů připraveny z dražších mas, vybraných a dražších druhů surovin. Toto tvrzení je neopodstatněné. Například drůbež použitá na minutky je stejně drahá jako drůbež použitá na hotová jídla.
 
 {class="example"}
 
@@ -62,7 +62,7 @@ Jídla na objednávku se dnes připravují i z těch nejlevnějších surovin, j
 
 ## Příprava minutek
 
-Minutky, mohou být připraveny ve velmi krátkém čase. Některé, jako například čínská jídla, dokonce během několika vteřin, takže by se vlastně měly jmenovat „vteřinky“. Tím pádem je spotřeba energie podstatně nižší nežli u hotových jídel. Tak proč jsou dražší?
+Minutky mohou být připraveny ve velmi krátkém čase. Některé, jako například čínská jídla, dokonce během několika vteřin, takže by se vlastně měly jmenovat „vteřinky“. Tím pádem je spotřeba energie podstatně nižší nežli u hotových jídel. Tak proč jsou dražší?
 
 Tvrzení, že jídla na objednávku musí přepravovat takzvaný „minutkář“ je také neopodstatněné. Minutku nemusí připravovat zkušený a vyučený kuchař. Po krátkém zaškolení dokáže minutky a případně i sotýrovaná jídla připravit kdokoli. Americké restaurace a řetězce rychlého občerstvení, dokáží během 2 nebo 3 dnů zaškolit i úplného laika.
 

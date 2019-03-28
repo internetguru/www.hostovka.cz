@@ -67,21 +67,15 @@ Některé bedekry a cestovní průvodci na Západě vyznačují ceny jídel znak
 
 To samé platí pro označení hvězdičkami
 
-#IMG \[http://2017.hostovka.cz/soubor/27-11-05-30.jpg\] \[Toque\]
-
 Když už jsem se o těch kuchařských čepic, kterým se říká toque, tak bych se chtěl zmínit o tom, že podle jedné teorie toque měly u mistrů kuchařů znázorňovat papežskou mitru.
 
 Čím "větší" šéfkuchař, tím vyšší jeho čepice. Toques byly od nepaměti bílé, ale pak se našli i extrémisté, kterým rozlišení jejich odbornosti výškou jejich čepice nestačilo a tak začali tvrdit, že opravdový šéfkuchař se pozná podle černé čepice. What a BS!
 
 Nevím jestli je to snaha se lišit, nebo jestli je to projev demokracie, ale najednou se v České republice stalo módní, že "mistři" kuchaři, obzvláště ti kteří se producírují na televizi, začali chodit bez čepice a v tom nejlepším případě mají na hlavě něco čemu se v Americe říká baseball cap, což sice není kuchařská čepice, ale alespoň něco.
 
-#IMG \[http://2017.hostovka.cz/soubor/27-11-05-31.jpg\] \[Baseball cap\]
-
 Když to někdy vidím, tak si říkám že všechny ty předpisy o tom, že při přípravě jídla musí mít každý něčím pokrytou hlavu a pokud má dlouhé vlasy, nebo vousy že dokonce musí mít síťku, jsou předpisy nanic když representanti kuchařského umění je nerespektují.
 
 V tom ohledu tu americkou demokracii čeští kuchaři přetrumfli, protože v Americe se nepřikrytá hlava při přípravě potravin pokutuje. What a country!
-
-#IMG \[http://2017.hostovka.cz/soubor/27-11-05-32.gif\] \[Ozdobné kuchařské čepice\]
 
 Něco takového je ale pokutováno i například v Kazachstánu kde jsem se setkal s tím že místní kuchařky nosili velice pracně vykrajované (kroužkované) plátěné a naškrobené čepice.
 

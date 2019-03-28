@@ -5,9 +5,7 @@
 
 # Vánoce přicházejí
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
-
-{kw=""}
+{kw="gastronomie"}
 
 Vážení gastronomičtí přátelé a studenti Hostovky!
 
@@ -32,8 +30,8 @@ MY RELIGIOUS PHILOSOPHY
 :   Same as the Protestant, Catholic and Jew
 :   But what makes me think, that I'm right
 :   I talk to God, every night
-:   And I'm happy to know, and tell it to you 
-:   He never has asked, if I'm Protestant, Catholic or 
+:   And I'm happy to know, and tell it to you
+:   He never has asked, if I'm Protestant, Catholic or
 :   Jew (or Muslim, for that matter)
 
 Je to v angličtině, protože by se to jinak nerýmovalo, ale v zásadě se v tom říká, že nejsem příslušníkem žádného z těch dvou tisíc náboženských organizací nebo sekt, ale že věřím v Boha tak jako většina z nich věří, ale že nevěřím tomu, že bych k mé komunikaci s mým Bohem potřeboval nějakého zprostředkovatele, nebo manažerskou firmu.

@@ -47,8 +47,6 @@ Celou dobu mého učení jsem si jako každý mladý kuchař sliboval že jakmil
 
 Musím říci, že jsem dodržel slovo a po skončení války jsem skutečně na nic nečekal a 25. května jsem byl již v Paříži a krátce na to v Marseille, kde jsem konečně měl možnost moji vysněnou bujabézu ochutnat.
 
-#IMG \[http://2017.hostovka.cz/soubor/20-11-06-8.JPG\]\[Rybí trh v Marseilles\]
-
 Samozřejmě, že jsem šel na do přístavní čtvrti, kde jsem byl jak u vytržení z toho výběru těch ryb a plodů moře které byly sice označeny svými francouzskými názvy, ale mně by to bývalo nic neříkalo, i kdyby to bylo česky.
 
 Po celém nábřeží byly rybí restaurace jedna vedle druhé. Každá z nich inzerovala na tabuli u dveří různé ryby ale hlavně marsejskou bujabézu. Názvy těch jídel mi, jako typickému suchozemci nic neříkaly, nehledě k tomu, že byly ve francouzštině. Jediné co jsem při mé chabé znalosti francouzštiny rozeznal bylo že bouillabaise je zřejmě bujabéza.

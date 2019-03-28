@@ -14,7 +14,7 @@ for f in plugins/Agregator/clanky/*.html; do
   while read -r kw; do
     fname="${f##*/}"
     fname="${fname%.html}"
-    echo -e "$fname\t$kw"
+    echo -e "$fname;$kw"
   done <<< "$(hxselect -c "body > h + desc::attr(kw)" < "$f" | tr "," $'\n' | sed 's/^ *\| *$//')"
 done
 

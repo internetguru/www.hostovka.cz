@@ -141,5 +141,3 @@ Louis totiž nezaměstnával profesionální číšníky, ale zásadně jen stud
 
 Tato historka není návodem k tomu, jak byste si měli zařídit vaši restauraci u nás, ale když tak sečtete všechno na čem Louis ušetřil, tak vás nepřekvapí, že v té Bakery, která bohužel již neexistuje, během 30 let její existence nadělal miliony dolarů to jedině tím, jak mi Louis důvěrně sdělil, že přišel s lepší pastičkou na myši, neboli restaurací, do které se hosté, jako myšky do pastičky, vraceli díky dobrému vnadidlu a přitom je vůbec nezajímalo je na jakém zařízení a kým bylo připraveno.
 
-#IMG \[http://2017.hostovka.cz/soubor/6-2-07-6.JPG\]\[Louis Szathmary and Mike Klima 1989 Chicago\]
-

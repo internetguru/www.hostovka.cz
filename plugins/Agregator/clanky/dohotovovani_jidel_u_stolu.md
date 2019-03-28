@@ -47,7 +47,6 @@ Ve středu kotlíku, který má průměr asi 30 cm, je komínek s roštem, na kt
 
 Kotlík naplníme vývarem, zakryjeme pokličkou, a teprve pak naplníme spodní část komínku žhavým dřevěným uhlím a postavíme doprostřed kulatého stolu.
 
-#IMG \[http://2017.hostovka.cz/soubor/30-12-06-3.jpg\]\[Mongolský kotlík s vývarem\]
 
 Kolem kotlíku rozložíme mísy se všemi druhy masa a před každého stolovníka položíme misky s pikantními omáčkami.
 

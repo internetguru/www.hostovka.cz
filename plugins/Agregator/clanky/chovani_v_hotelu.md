@@ -37,7 +37,6 @@ Kdysi bylo zvykem dát tomu dveřníkovi spropitné, v tomto případě ?všimn�
 
 ## Bell Captain
 
-#IMG [[http://2017.hostovka.cz/soubor/4-12-05-3.jpg][1]] [Hotel Lobby (hotelová hala)]
 
 Pracovník který ve velkých hotelích je zodpovědný za bell staff má honosný titul Bell Captain. Je zodpovědný za přivítání hosta, za jeho uvedení k recepci, za přinesení jeho zavazadel do hotelové haly a za jejich odnesení do hostova pokoje a při hostově odjezdu je zodpovědný za přivezení hostových zavazadel do haly hotelu případně do hostova dopravního prostředku.
 
@@ -55,7 +54,6 @@ Proto ve velkých hotelích mají tak zvaný bell staff což zahrnuje všechny h
 
 V Česku jsem se v relativně velkém hotelu setkal s tím že ti nosiči zavazadel byli bez uniformy ale Bell boy, jako každý jiný zaměstnanec v každém dobrém hotelu má zpravidla uniformu a jmenovku většinou s jeho křestním jménem.
 
-#IMG \[http://2017.hostovka.cz/soubor/4-12-05-4.jpg\] \[Bell boy\]
 
 Bell boy odnáší do hostova pokoje jeho zavazadla která uloží na zavazadlovou podložku "luggage rack" a seznámí hosta s jeho pokojem.
 
