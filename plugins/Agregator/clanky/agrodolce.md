@@ -28,5 +28,5 @@ Podobná sladkokyselá omáčka se připravuje ze směsi
 * špetky pepře a skořice a
 * sekaných rajčat s bílým vínem a cukrem.
 
-Na francouzdkých jídelních lístcích se s touto omáčkou setkáte pod názvem _aigre-doux_. Anglický název _sweet and sour_, se ve většině případů vztahuje k čínským jídlům.
+Na francouzských jídelních lístcích se s touto omáčkou setkáte pod názvem _aigre-doux_. Anglický název _sweet and sour_, se ve většině případů vztahuje k čínským jídlům.
 
