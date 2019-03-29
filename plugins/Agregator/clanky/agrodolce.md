@@ -7,9 +7,9 @@
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
 
-{kw="gastronomie, recept, omáčka"}
+{kw="gastronomie, recept, omáčka, Francie"}
 
-Agrodolce je italský výraz pro sladkokyselé, se kterým se setkáte na více mezinárodních jídelních lístcích. V italské kuchyni je agrodolce také (sladkokyselá) omáčka, která se podává k pečenému masu a ke grilovaným jídlům.
+Agrodolce je italský výraz pro sladkokyselé, se kterým se setkáte na mezinárodních jídelních lístcích. V italské kuchyni je agrodolce také sladkokyselá omáčka, která se podává k pečenému masu a ke grilovaným jídlům.
 
 Omáčka se skládá z
 
@@ -21,12 +21,14 @@ Omáčka se skládá z
 * rybízového rosolu a
 * hovězí šťávy, do které se někdy přidává různé koření, případně ovoce a víno.
 
-Podobná sladkokyselá omáčka se připravuje ze směsi
+Podobná populární sladkokyselá omáčka _aigre-doux_ se připravuje ze směsi
 
 * sekané cibule,
 * bazalky a petrželky usmažené v olivovém oleji a másle,
 * špetky pepře a skořice a
 * sekaných rajčat s bílým vínem a cukrem.
 
-Na francouzských jídelních lístcích se s touto omáčkou setkáte pod názvem _aigre-doux_. Anglický název _sweet and sour_, se ve většině případů vztahuje k čínským jídlům.
+{class="example"}
+
+Anglický název _sweet and sour_, se ve většině případů vztahuje k čínským jídlům.
 
