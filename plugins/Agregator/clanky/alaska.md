@@ -19,7 +19,7 @@ Příprava omelety s překvapením:
 
 Tato omeleta se většinou podávala při mimořádných příležitostech. Před podáváním se přelila dobře hořící lihovinou. Za potlesku stolovníků se zapálila a přinesla do ztemnělé místnosti, což je to překvapení.
 
-Omeleta se urychleně naporcovala a hned podávala. Příprava tohoto moučníku byla relativně pracná. To se odrazilo v její ceně, která byla pro hostitele jistě také překvapením.
+Omeleta se urychleně naporcovala a podávala. Příprava tohoto moučníku byla relativně pracná, což se odrazilo v její ceně. Ta byla pro hostitele jistě také překvapením.
 
-Je třeba zdůraznit, že se v žádném případě k přípravě omelety nepoužívá šlehačka. To nejenom z důvodu, že by se nedala přelít lihovinou a zapálit, ale také kvůli jejímu uchování. Dnes se totiž omeleta může připravovat dopředu v zamražených individuálních porcích.
+Je třeba zdůraznit, že se v žádném případě k přípravě omelety nepoužívá šlehačka. To nejenom z důvodu, že by se nedala přelít lihovinou a zapálit, ale také kvůli uchování omelety. Dnes se totiž omeleta může připravovat dopředu v zamražených individuálních porcích.
 
