@@ -7,7 +7,7 @@
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
 
-{kw="co-kdy-kde, omáčka, recept"}
+{kw="co-kdy-kde, omáčka, recept, Itálie"}
 
 Aioli je italská dochucovací omáčka, se kterou se běžně setkáte na českých jídelních lístcích. Je také k dostání v obchodech. V italské rodině si ale každá hospodyně dělá omáčku aioli sama.
 
@@ -22,7 +22,7 @@ Tajemství omáčky spočívá v poměru jednotlivých surovin. Omáčka se skl�
 
 Tradičně se omáčka dělala v kamenném hmoždíři. Stejného výsledku ale dosáhnete za pomocí jakéhokoliv moderního mixéru.
 
-Aioli je vlastně česnekem ochucená majonéza. Existují ale její různé druhy, z nichž je nejběžnější varianta s hořčicí. Ve Francii se aioli podává tradičně s rybou a plody moře. Nejčastěji se s ní setkáte v kombinaci s rybí polévkou s krutony.
+Aioli je vlastně česnekem ochucená majonéza. Existují ale její různé druhy, z nichž nejběžnější je varianta s hořčicí. Ve Francii se aioli podává tradičně s rybou a plody moře. Nejčastěji se s ní setkáte v kombinaci s rybí polévkou s krutony.
 
 {class="important"}
 
