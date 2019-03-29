@@ -15,7 +15,7 @@ Avokádo (anglicky _avocado_), je někdy označováno za tropické ovoce a jindy
 
 Kolem roku 1950 byly největšími producenty avokáda Kalifornie, Florida a Havaj. Tehdy začala být avokáda používána jako přísada do salátů.
 
-Povrch avokáda může být hladký nebo hrbolatý (jako povrch aligátora). Od jeho tvaru a povrchu má své anglické jméno _aligator pear_. Všechny druhy mají ale jemnou, hladkou, světle zelenou dužinou. Nejznámějšími druhy avokáda jsou západoindické, guatemalské a mexické.
+Povrch avokáda může být hladký nebo hrbolatý (jako povrch aligátora). Od toho má své anglické jméno _aligator pear_. Všechny druhy ale mají jemnou, hladkou, světle zelenou dužinou. Nejznámějšími druhy avokáda jsou západoindické, guatemalské a mexické.
 
 Dužina, která obklopuje velkou pecku, byla často označovaná jako bez chutě. Mnohými je ale popisována jako ořechová. Žádné jiné ovoce (kromě oliv) nemá tak vysoké procento tuku jako avokádo. Díky své máslovité konzistenci se přímo nabízí pro tvorbu pomazánek a dipů.
 
@@ -27,11 +27,9 @@ K uspíšení zrání stačí avokádo uložit do papírového sáčku za okno, 
 
 ## Zpracování a skladování
 
-Avokádo rozkrojíme horizontálně na dvě půlky, které oddělíme otočením vrchní poloviny. Kulatou pecku, která zůstane ve spodní polovině, vyloupneme pomocí špičky nože.
+Avokádo rozkrojíme horizontálně na dvě půlky, které oddělíme otočením vrchní poloviny. Kulatou pecku, která zůstane ve spodní polovině, vyloupneme pomocí špičky nože. Někteří lidé avokádo podávají vychlazené, ale podle mě to není košer. Nejlepší avokádo je při pokojové teplotě (od 15 °C do 21 °C).
 
-Někteří lidé avokádo podávají vychlazené, ale podle mě to není košer. Nejlepší avokádo je při pokojové teplotě (od 15 °C do 21 °C).
-
-Rozpůlené avokádo (francouzsky _avocado à la française_) je jedním z nejjednodušších předkrmů. Místo po pecce naplníte vaším oblíbeným [dresinkem][1] a avokádo jíte kávovou lžičkou.
+Rozpůlené avokádo (francouzsky _avocado à la française_) je jedním z nejjednodušších předkrmů. Místo po pecce naplníte oblíbeným [dresinkem][1] a avokádo jíte kávovou lžičkou.
 
 Mexičané používají avokádové listy již po generace jako koření, které je podobné bobkovým listům nebo anýzu. Jsou téměř nezbytné pro přípravu pokrmu barbacoa ze státu Oaxaca a několika jídel z černých fazolí.
 
@@ -39,7 +37,7 @@ Tradiční zpracování avokáda se liší podle zemí a jejich zvyků. Napřík
 
 Avokádo zraje až po utrhnutí. Je to kvůli látkám v listech avokáda, které brání zrání. Nejlepší způsob, jak skladovat avokádo, je ponechat ho na stromě, na kterém vydrží až 7 měsíců.
 
-Skladování pod 4 °C nebo nad 21 °C způsobí kažení. Některé druhy se začnou kazit už pod 7 °C. Ideální je nechat avokádo uzrát při pokojové teplotě (od 15 °C do 21 °C), a pak ho skladovat při teplotě 7 °C do doby použití.
+Skladování pod 4 °C nebo nad 21 °C způsobí kažení. Některé druhy se začnou kazit už při 7 °C. Ideální je nechat avokádo uzrát při pokojové teplotě (od 15 °C do 21 °C), a pak ho skladovat při teplotě 7 °C do doby použití.
 
  [1]: /zalivka_dresink
 
