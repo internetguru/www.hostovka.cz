@@ -33,7 +33,7 @@ Před další úpravou se řapíky většinou krájí na malé, stejnoměrně ve
 
 ## Dušený celer
 
-I když se mu říká dušený celer (anglicky _braised celery_), tak ho nemusíme přiklápět pokličkou. Jde nám totiž o to, aby jednotlivé kousky zůstaly křehké. Dušený celer se moc nehodí k zadělávaným jídlům. Je spíše vhodný k většině pečených nebo grilovaných mas, drůbeži a k některým rybám.
+I když se celeru říká dušený (anglicky _braised celery_), tak ho nemusíme přiklápět pokličkou. Jde nám totiž o to, aby jednotlivé kousky zůstaly křehké. Dušený celer se moc nehodí k zadělávaným jídlům. Je spíše vhodný k většině pečených nebo grilovaných mas, drůbeži a k některým rybám.
 
  1. V kastrole se silným dnem rozpustíme máslo nebo margarin,
  2. přidáme kousky celeru,
@@ -60,7 +60,9 @@ Při podávání řapíků v celku je musíme oškrábat, lépe řečeno zbavit 
  3. smícháme ho s horkým [velouté][4] a
  4. podle potřeby rozředíme drůbežím vývarem.
 
- Máme polévku, které můžete říkat _potage Alexandrina_, nebo _potage au céleri_. Ve slově _céleri_ nesmíte zapomenout na dlouhé „é“, které polévku pofrancouzšťuje. Tím pádem za ni můžete počítat jednou tolik, než kdybychom ji říkali pouze celerová polévka.
+Máme polévku, které můžete říkat _potage Alexandrina_, nebo _potage au céleri_. Ve slově _céleri_ nesmíte zapomenout na dlouhé „é“, které polévku pofrancouzšťuje. Tím pádem za ni můžete počítat jednou tolik, než kdybychom ji říkali pouze celerová polévka.
+
+{class="example"}
 
 Syrový celer (anglicky _celery sticks_) je velmi často součástí [crudités][1] nebo salátů. Jedním takovým, velice populárním salátem, je _kobb salát_.
 
