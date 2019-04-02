@@ -19,7 +19,7 @@ Po celou dobu učení jsem si jako každý mladý kuchař sliboval, že jakmile 
 
 ## Marseillská bujabéza
 
-Po skončení války jsem skutečně na nic nečekal a 25. května jsem byl v Paříži. Krátce na to jsem byl v Marseille, kde jsem měl konečně možnost ochutnat svoji vysněnou bujabézu.
+Po skončení války jsem skutečně na nic nečekal a 25. května jsem byl v Paříži. Krátce na to jsem byl v Marseille, kde jsem měl konečně možnost ochutnat vysněnou bujabézu.
 
 Samozřejmě, že jsem jako první zamířil do přístavní čtvrti. Byl jsem jako u vytržení z výběru všech možných ryb a plodů moře. Byly sice označeny francouzskými názvy, ale mně by to bývalo nic neříkalo i kdyby byly česky.
 
@@ -33,9 +33,7 @@ Mimoto tam také byla miska s něčím záhadným, co sice moc vábně nevypadal
 
 Musím přiznat, že jsem nevěděl, co s tím. Číšník, který mě obsluhoval, byl zřejmě zvyklý na cizince, a tak se mi velice ochotně snažil pomoci. Napřed mi kolem krku uvázal ubrousek, abych si při jídle nepokecal kravatu. Říkám při jídle, ale podle společenské etiky a kultury stolování se to jídlem nedá nazvat.
 
-Polévka se sice jí docela kulturně lžící a některé ryby vidličkou, ale všechny ostatní mořské potvory se musí rozlousknout a jedí se rukama. Jak by řekla moje maminka, tak se tím se hodně nasviní.
-
-Nejvíce se ale nasviní křupavým chlebem. Ten musíte nalámat do polévkového talíře a zalít horkým vývarem. Do všeho pak přimícháte koncentrovaný česnek _(rouille)_.
+Polévka se sice jí docela kulturně lžící a některé ryby vidličkou, ale všechny ostatní mořské potvory se musí rozlousknout a jedí se rukama. Jak by řekla moje maminka, tak se tím se hodně nasviní. Nejvíce se ale nasviní křupavým chlebem. Ten musíte nalámat do polévkového talíře a zalít horkým vývarem. Do všeho pak přimícháte koncentrovaný česnek _(rouille)_.
 
 Francouzi k bujabéze podávají mladé červené víno, a to buď Beaujolais, nebo rosé. Případně podávají nějaké bílé víno jako je Chablis nebo Côtes du Rhone. Teď ale přijde pointa toho, proč to celé popisuji.
 
