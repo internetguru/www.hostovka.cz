@@ -81,8 +81,6 @@ Drobně krájené jalapeño papričky
 Sůl
 :   dle chuti
 
-{id="technika_pripravy"}
-
 ### Technika přípravy
 
 V receptu je specifikováno libové maso, ale s tučností masa si moc hlavu nelamte. Tuk obsažený v mase a sádlo, na kterém maso restujeme, dá vašemu chili unikátní chuť.
@@ -98,8 +96,6 @@ V receptu je specifikováno libové maso, ale s tučností masa si moc hlavu nel
 V Mexiku takové chili vaří na mírném ohni hodiny a hodiny, někdy i celý den. To si sice nemůžeme dovolit, ale při občasném míchání vaříme chili na mírném ohni alespoň 2 hodiny.
 
 V Mexiku se chili, které je s masem říká _chili con carne_ (chili s masem). Musíte to ale brát s rezervou. Maso bylo v Mexiku vždy relativně drahé, obzvláště hovězí. Masa tedy v pravém mexickém chili nikdy moc nebylo.
-
-{id="chili\_v\_konceptu_steakgril"}
 
 ## Chili v konceptu Steakgrill
 
