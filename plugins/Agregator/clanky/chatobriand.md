@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=202.html" data-og-image="/files/preview/clanky/chatobriand/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=202.html" data-image="/files/preview/clanky/chatobriand/general.jpg" data-type="article"}
 
 {id="chatobriand" ctime="2006-12-22" author="Michael Klíma" short="Chatobriand" authorid="hostovka/michael_klima"}
 
 # Chatobriand
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -101,7 +101,9 @@ Tento malý stolek je zpravidla nižší než jídelní stůl. Používá se pro
 
 ## Demi-glace (fr.)
 
-- hnědá omáčka připravená redukcí španělské omáčky, jejíž příprava od píky je dnes zcela neekonomická. Je běžně k dostání v prášku.
+n/a
+
+  * hnědá omáčka připravená redukcí španělské omáčky, jejíž příprava od píky je dnes zcela neekonomická. Je běžně k dostání v prášku.
 
 Někteří výrobci demi-glace, ať již v prášku nebo jako pasty, aby odradily lidi od toho, aby si dělali tu demi-glace od píky, čemuž se anglicky říká
 
@@ -113,7 +115,7 @@ Demi-glace chce jednak španělskou omáčku, která sama o sobě potřebuje spo
 
 Nicméně pokud se nedáte odradit, tak vám její přípravu výjimečně popíši.
 
-Zaprvé budete potřebovat: 
+Zaprvé budete potřebovat:
 
   * 4 šálky hnědé omáčky, francouzsky zvané Sauce Espagnole
   * 4 šálky silného hovězího vývaru

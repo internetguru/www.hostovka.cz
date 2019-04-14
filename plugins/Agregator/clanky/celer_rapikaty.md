@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=208.html" data-og-image="/files/preview/clanky/celer_rapikaty/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=208.html" data-image="/files/preview/clanky/celer_rapikaty/general.jpg" data-type="article"}
 
 {id="celer\_rapikaty" ctime="2007-01-26" author="Michael Klíma" short="Celer řapíkatý" authorid="hostovka/michael\_klima"}
 
 # Celer řapíkatý
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="zbožíznalství"}
 

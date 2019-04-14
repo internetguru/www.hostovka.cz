@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=245.html" data-og-image="/files/preview/clanky/uroven_pohostinstvi/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=245.html" data-image="/files/preview/clanky/uroven_pohostinstvi/general.jpg" data-type="article"}
 
 {id="uroven\_pohostinstvi" ctime="2007-08-17" author="Michael Klíma" short="Úroveň pohostinství" authorid="hostovka/michael\_klima"}
 
 # Zlepšení úrovně pohostinství
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="případová studie"}
 

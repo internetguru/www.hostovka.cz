@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=193.html" data-og-image="/files/preview/clanky/polotovary/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=193.html" data-image="/files/preview/clanky/polotovary/general.jpg" data-type="article"}
 
 {id="polotovary" ctime="2006-11-29" author="Michael Klíma" short="Polotovary" authorid="hostovka/michael_klima"}
 
 # Polotovary
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="co-kdy-kde"}
 

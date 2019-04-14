@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=213.html" data-og-image="/files/preview/clanky/proc\_lide\_nechodi\_do\_restauraci/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=213.html" data-image="/files/preview/clanky/proc\_lide\_nechodi\_do\_restauraci/general.jpg" data-type="article"}
 
 {id="proc\_lide\_nechodi\_do\_restauraci" ctime="2007-01-26" author="Michael Klíma" short="Proč nechodí lidé do restaurací" authorid="hostovka/michael_klima"}
 
 # Proč nechodí lidé do restaurací
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="restaurace a servis"}
 

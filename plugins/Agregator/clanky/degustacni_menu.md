@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=356.html" data-og-image="/files/preview/clanky/degustacni_menu/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=356.html" data-image="/files/preview/clanky/degustacni_menu/general.jpg" data-type="article"}
 
 {id="degustacni\_menu" ctime="2008-07-24" author="Michael Klíma" short="Degustační menu" authorid="hostovka/michael\_klima"}
 
 # Degustační menu
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="gastronomie"}
 
@@ -17,11 +17,11 @@ Jedno co ale musím říci je, že v zájmu degustace a odborného růstu jsem p
 
 No, a dnes, na stará kolena, pokud by se mně někdo zeptal které z těch jídel které jsem za celý život snědl považuji za nejlepší, bych vlastně nevěděl které jídlo to bylo.
 
-Jako každý, tak i já mám v jídle své preference, ale nerajtuji na tom. Prostě jím když mám chuť a jednak to co mám doma, ale vaření mi již nic neříká a tak raději jdu do restaurace kterou znám a kde jsem zatím byl jakž takž spokojený. 
+Jako každý, tak i já mám v jídle své preference, ale nerajtuji na tom. Prostě jím když mám chuť a jednak to co mám doma, ale vaření mi již nic neříká a tak raději jdu do restaurace kterou znám a kde jsem zatím byl jakž takž spokojený.
 
 Jinak ale musím říci, že dnes již v jídle ani pití nikterak neexperimentuji a v žádném případě bych asi už nešel na nějaké "degustačí menu" ať již by to bylo v Americe, v Česku nebo kdekoliv jinde na světě.
 
-Občas pro změnu jdu do nějaké etnické restarace, ale ani tam neexperimentuji. 
+Občas pro změnu jdu do nějaké etnické restarace, ale ani tam neexperimentuji.
 
 Chodím někdy do zdejší japonské restaurace kde mají výběr asi 80 druhů suši a navíc vám udělají suši podle vašeho přání, ale mně osobně suši nic neříká a tak si z bufetu vyberu jídlo které znám a u kterého vím co jím, protože degustace není už pro mně.
 

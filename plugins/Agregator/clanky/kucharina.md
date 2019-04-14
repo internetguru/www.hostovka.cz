@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=331.html" data-og-image="/files/preview/clanky/kucharina/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=331.html" data-image="/files/preview/clanky/kucharina/general.jpg" data-type="article"}
 
 {id="kucharina" ctime="2008-06-17" author="Michael Klíma" short="Kuchařina" authorid="hostovka/michael_klima"}
 
 # Kuchařina
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="gastronomie"}
 
@@ -25,7 +25,7 @@ S tím uměním ale stále ještě mám jakési dilema. Jednak si myslím, že p
 
 Uznání a medaile z různých kuchařských soutěží je sice hezká věc a jsou výrazem určitého umění avšak kreativita, kdysi tolik ceněna, není dnes v mnoha běžných kuchyních tak důležitým požadavkem jako potřebné know how, neboli znalost zbožiznalství, moderních výrobních technik a pořebného zařízení které s těmi technikami úzce souvisí a hlavně disciplina v dodržování podnikových receptů a zásad, o ekonomice ani nemluvě.
 
-V souvislosti s tím nemohu jinak než znovu poukázat na zaostalost našeho odborného školství, ve kterém je podle mně zakopaný ten pes. 
+V souvislosti s tím nemohu jinak než znovu poukázat na zaostalost našeho odborného školství, ve kterém je podle mně zakopaný ten pes.
 
 Naše odborné školství už by konečně mělo přestat ze snahami udělat z každého kuchaře "umělce". Umění se dá sice vyučovat, ale nedá se naučit. Buďto to v někom je a nebo ty léta studii je vyložená ztráta času a financí.
 

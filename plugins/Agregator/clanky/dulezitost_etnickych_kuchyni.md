@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=206.html" data-og-image="/files/preview/clanky/dulezitost\_etnickych\_kuchyni/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=206.html" data-image="/files/preview/clanky/dulezitost\_etnickych\_kuchyni/general.jpg" data-type="article"}
 
 {id="dulezitost\_etnickych\_kuchyni" ctime="2007-01-01" author="Michael Klíma" short="Etnické kuchyně" authorid="hostovka/michael_klima"}
 
 # Etnické kuchyně
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="etnické kuchyně"}
 

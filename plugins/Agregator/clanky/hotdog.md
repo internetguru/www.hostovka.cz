@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=188.html" data-og-image="/files/preview/clanky/hotdog/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=188.html" data-image="/files/preview/clanky/hotdog/general.jpg" data-type="article"}
 
 {id="hotdog" ctime="2006-11-06" author="Michael Klíma" short="Hotdog" authorid="hostovka/michael_klima"}
 
 # Hotdog
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="gastronomie"}
 

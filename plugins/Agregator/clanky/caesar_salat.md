@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-og-image="/files/preview/clanky/caesar_salat/preview.jpg" data-og-type="article" data-source="http://2017.hostovka.cz/clanek.php?clanek=237"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-image="/files/preview/clanky/caesar_salat/preview.jpg" data-type="article" data-source="http://2017.hostovka.cz/clanek.php?clanek=237"}
 
 {id="caesar_salat" author="Michael Klíma" ctime="2007-06-04" mtime="2018-12-07" short="Caesar salát"}
 
 # Suroviny a příprava Caesar salátu
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="nejčtenější, gastronomie"}
 

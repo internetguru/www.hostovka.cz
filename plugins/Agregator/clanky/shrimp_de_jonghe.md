@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=354.html" data-og-image="/files/preview/clanky/shrimp\_de\_jonghe/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=354.html" data-image="/files/preview/clanky/shrimp\_de\_jonghe/general.jpg" data-type="article"}
 
 {id="shrimp\_de\_jonghe" ctime="2008-07-17" author="Michael Klíma" short="Shrimp de Jonghe" authorid="hostovka/michael_klima"}
 
 # Shrimp de Jonghe
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 

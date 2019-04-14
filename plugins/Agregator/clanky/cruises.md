@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=222.html" data-og-image="/files/preview/clanky/cruises/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=222.html" data-image="/files/preview/clanky/cruises/general.jpg" data-type="article"}
 
 {id="cruises" ctime="2007-03-29" author="Michael Klíma" short="Cruises" authorid="hostovka/michael_klima"}
 
 # Cruises
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="cestovní ruch"}
 
@@ -27,13 +27,11 @@ Nakonec ani Kolumbova Santa Maria, nebyl nějaký "luxary cruiser", ale ocean cr
 
 V roce 1844 velice známá britská zaoceánská lodní společnost Peninsular and Oriental Co., pozvala známého britského spisovatele Williama Thakersy na prvou, dá se říci "rekreační" plavbu po Středozemním moři "bez specifického cíle", jen tak za poznáním a pro rekreaci na "luxury liner".
 
-
 Bill se P&O společnosti odměnil článkem ve kterém nešetřil superlativy o cruise, kterou právě podnikl.
 
 Od te doby se cruise stalo synonymem pro rekreační, někdy i okružní plavby spojené s poznáváním neznámých míst.
 
 Cruise ships jsou lodi používané výhradně pro "pleasure cruising" na rozdíl od Ocean Steamers, jako například Titanic, které se zbývají pravidelnou lodní dopravou.
-
 
 Cruise ships, i když nazývané loděmi, loděmi vlastně ani nejsou. Jsou to obrovské plovoucí luxusní hotely, které se předhánějí ve kvalitě a množství podávaných jídel a nápojů, které mimo pohodlí poskytují pasažérům všemožnou, téměř 24 hodinovou zábavu v podobě kasina, kabaretů, barů, a tanečních míst a fitness center, takže po takové "rekreaci" si vlastně musíte vzít několik dní dovolené, abyste si trochu odpočinuli. Cruises začínají a končí v nějakém přístavu do kterého se lidé musí nějakým způsobem dostat, tudíž cruises jsou velice úzce spojeny s leteckou dopravou, takže to nejsou vyloženě jenom okružní plavby tak jako tak. Tím ale se taková cruise pro některé vnitrozemce prodraží.
 
@@ -51,7 +49,7 @@ Ten komfort je různý podle společnosti kterých je asi 17 a podle lodi který
   * volný vstup do piano baru, nočních klubů, a více
   * aktivity jako například joga a košíková
   * fines centrum, bazény a jacuzy
-  * přístavní poplatky 
+  * přístavní poplatky
   * Co není v ceně
   * spropitné (které je povinné)
   * lázeňské kůry
@@ -118,7 +116,7 @@ Prostě než na nějakou cruise vyrazíte, tak se o všem dobře informujte aby 
 
 Každou takovou cruise si pravděpodobně budete reservovat nějaký čas dopředu a musíte ji také předem zaplatit. Protože ale nevíte co se může stát, tak já osobně bych vám doporučoval si zaplatit pojistku pro případ, že na tu cruise nebudete moci jet.
 
-My jsem jednou takovou cruise díky manželky onemocnění museli zrušit, ale měli jsme naštěstí pojistku a tak nám všechny ty peníze vrátili. 
+My jsem jednou takovou cruise díky manželky onemocnění museli zrušit, ale měli jsme naštěstí pojistku a tak nám všechny ty peníze vrátili.
 
 Šťastnou plavbu!
 

@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=398.html" data-og-image="files/preview/clanky/peceni/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=398.html" data-image="files/preview/clanky/peceni/general.jpg" data-type="article"}
 
 {id="peceni" ctime="2009-04-13" author="Michael Klíma" short="Pečení" authorid="hostovka/michael_klima"}
 
 # Pečení
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="kuchyňské techniky"}
 

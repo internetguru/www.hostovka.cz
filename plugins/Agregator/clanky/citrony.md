@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=248.html" data-og-image="/files/preview/clanky/citrony/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=248.html" data-image="/files/preview/clanky/citrony/general.jpg" data-type="article"}
 
 {id="citrony" ctime="2007-08-29" author="Michael Klíma" short="Citróny" authorid="hostovka/michael_klima"}
 
 # Citróny
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="zbožíznalství"}
 
@@ -47,7 +47,7 @@ V některých restauracích vám dají půlku citrónu a v těch lepších je ta
 
 Běžnější ale je, že vám ten citrón podají nakrájený na na dílky (anglicky wedges), nebo na plátky (anglicky slices).
 
-Pokud se citrón krájí na plátky, tak z průměrně velkého citrónu, po odkrojení obou špiček, se krájí 10 plátků. 
+Pokud se citrón krájí na plátky, tak z průměrně velkého citrónu, po odkrojení obou špiček, se krájí 10 plátků.
 
 Ze stejného citrónu, pokud není stanoveno jinak, se krájí osminky (1/8) a výjimečně šestinky (1/6).
 
@@ -133,7 +133,7 @@ Ve většině západních zemí je téměř nemyslitelné podávat rybu nebo ně
   * 1 velký citrón = cca 125 gramů = 54,29 gr citrónové šťávy = 1 1/2 lžičky citrónové kůry
   * velké citróny krájíme na 8 kusů, malé na 6 ks
   * 1/8 velkého citrónu = 15,6 gr
-  * 1 malý citrón = cca 100 gramů 
+  * 1 malý citrón = cca 100 gramů
   * 1/6 malého citrónu = 16,6 gr
 
 Jak vidíte, tak ty citróny nechtěji nic jiného než umět trochu počítat a tak by někteří ti naši kuchaři měli už přestat blbnout s těmi "terči" a měli by k těm rybám dávat kdyžˇne půlky, tak alspoň osminky nebo šestinky citrónu.

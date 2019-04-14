@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=227.html" data-og-image="/files/preview/clanky/pompano\_en\_papillote/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=227.html" data-image="/files/preview/clanky/pompano\_en\_papillote/general.jpg" data-type="article"}
 
 {id="pompano\_en\_papillote" ctime="2007-04-23" author="Michael Klíma" short="Pompano en Papillote" authorid="hostovka/michael_klima"}
 
 # Pompano en Papillote
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 

@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=105.html" data-og-image="files/preview/clanky/slow_food/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=105.html" data-image="files/preview/clanky/slow_food/general.jpg" data-type="article"}
 
 {id="slow\_food" ctime="2005-11-08" author="Michael Klíma" short="Slow food" authorid="hostovka/michael\_klima"}
 
 # Slow food
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="gastronomie"}
 

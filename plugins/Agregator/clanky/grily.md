@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=240.html" data-og-image="/files/preview/clanky/grily/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=240.html" data-image="/files/preview/clanky/grily/general.jpg" data-type="article"}
 
 {id="grily" ctime="2007-06-28" author="Michael Klíma" short="Grily" authorid="hostovka/michael_klima"}
 
 # Grily
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="kuchyňské techniky"}
 

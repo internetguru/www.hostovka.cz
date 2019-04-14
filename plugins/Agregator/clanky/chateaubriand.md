@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-og-image="/files/preview/clanky/chateaubriand/preview.jpg" data-og-type="article" data-source="http://2017.hostovka.cz/clanek.php?clanek=157"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-image="/files/preview/clanky/chateaubriand/preview.jpg" data-type="article" data-source="http://2017.hostovka.cz/clanek.php?clanek=157"}
 
 {id="chateaubriand" short="Chateaubriand" author="Michael Klíma" ctime="2006-07-02" mtime="2018-12-07"}
 
 # Historie chateaubriandova steaku
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="kdo-kdy-kde, recept, steak"}
 

@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=186.html" data-og-image="/files/preview/clanky/tenderizovani/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=186.html" data-image="/files/preview/clanky/tenderizovani/general.jpg" data-type="article"}
 
 {id="tenderizovani" ctime="2006-10-30" author="Michael Klíma" short="Tenderizování" authorid="hostovka/michael_klima"}
 
 # Tenderizování
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="kuchyňské techniky"}
 

@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=209.html" data-og-image="/files/preview/clanky/avokado/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=209.html" data-image="/files/preview/clanky/avokado/general.jpg" data-type="article"}
 
 {id="avokado" ctime="2007-01-27" author="Michael Klíma" short="Avokádo" authorid="hostovka/michael_klima"}
 
 # Avokádo
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="zbožíznalství"}
 
