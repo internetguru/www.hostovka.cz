@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=108.html" data-og-image="/files/preview/clanky/kritika\_a\_pochvaly/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=108.html" data-image="/files/preview/clanky/kritika\_a\_pochvaly/general.jpg" data-type="article"}
 
 {id="kritika\_a\_pochvaly" ctime="2005-11-15" author="Michael Klíma" short="Kritika a pochvaly" authorid="hostovka/michael_klima"}
 
 # Kritika a pochvaly
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="restaurace a servis"}
 

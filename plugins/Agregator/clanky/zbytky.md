@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=117.html" data-og-image="files/preview/clanky/zbytky/preview.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=117.html" data-image="files/preview/clanky/zbytky/preview.jpg" data-type="article"}
 
 {id="zbytky" ctime="2005-11-26" author="Michael Klíma" short="Zbytky" mtime="2019-03-07"}
 
 # Zbytky jako specialita
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="jídla a jídelní lístky, recept"}
 
@@ -42,3 +42,4 @@ Příprava lilku není nijak moc časově náročná.
 Pečený lilek nakrájíme na porce požadované velikosti a podáváme ho jako hlavní chod s opečenými bramborami nebo s bramborovou kaší.
 
  [1]: /besamel
+

@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=236.html" data-og-image="/files/preview/clanky/catering_2/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=236.html" data-image="/files/preview/clanky/catering_2/general.jpg" data-type="article"}
 
 {id="catering\_2" ctime="2007-05-27" author="Michael Klíma" short="Catering 2" authorid="hostovka/michael\_klima"}
 
 # Catering 2
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="gastronomie"}
 
@@ -19,13 +19,13 @@ Hostovka je hlavně určena té větší skupině která se na pohostinství pod
 
 Jméno pisatel toho příspěvku neuvádím protože to bylo, jak je v Česku zvykem zřejmě stejně smýšlené, ale rád bych se s ním seznámil a tak mi může napsat na afticeuro@aol.com
 
-XX: 
+XX:
 
 "Je to zvláštní. Jako nový student Vaši univerzity se snažím ve své nové škole zorientovat a moc mi to nejde. Nevím, kde je která učebna. Vyučované obory se různě promíchávají a velmi často jsou jen nakousnuty.
 
 Zjišťuji, že jestliže chci být interaktivním studentem, jsem nucen používat jen IE. Možnost "cut&paste" se mi nedaří vůbec. Jedině na co netrefuji do kola je ten Voltaire:) Jinak abych řekl pravdu, jsem se o cateringu z Vašeho článku vůbec nic užitečného nedozvěděl. Pouze to, že v Americe OK, v Čechách bída, chudáci, zbytek velmi povrchně o logistice".
 
-MK: 
+MK:
 
 K této první části musím napsat jen tolik, že v popisu poslání Hostovky bylo jasně napsáno, že to není nějaká škola vaření nebo servisu, kterých mimo jiné u nás máme více než je zdrávo a že je to "pomyslná" univerzita pro hosty v tom smyslu že by se z případných příspěvků studenti Hostovky měli dozvědět co jim při návštěvě restaurací a případně hotelů za jejich peníze patří a to ne jenom v Česku ale i v zahraničí.
 

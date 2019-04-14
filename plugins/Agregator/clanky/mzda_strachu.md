@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=362.html" data-og-image="/files/preview/clanky/mzda_strachu/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=362.html" data-image="/files/preview/clanky/mzda_strachu/general.jpg" data-type="article"}
 
 {id="mzda\_strachu" ctime="2008-08-07" author="Michael Klíma" short="Mzda strachu" authorid="hostovka/michael\_klima"}
 
 # Mzda strachu
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="hygiena a sanitace"}
 
@@ -23,7 +23,7 @@ Jak se ale později zjistilo, to nebylo z jídla které měli na palubě, ale z 
 
 Já jsem ty mušle v Bruselu také jedl několikrát a nikdy jsem něměl žádné potíže, ale mušle, tak jako jakékoliv jiné mořské potvory jsou prevít. Nemusíte jich sníst tunu k tomu abyste onemocněli. Jeden takový mrňous udělá neplechy že nemáte zdání. Jenomže na to, že to bylo z těch mušlí se přišlo až později, ale jako obyčejně, tak se taková věc "svalí" na ten nejpravděpodobnější důvod, a to byla ta strava na letadle. Ale abych to zkrátil...
 
-Od té doby ale tak jako tak jsou jídla do letadel většinou rozdělena do několika skupin jako například pro economy, busnyss, a first clas. Další zvláštní skupinou jsou crew meals, neboli jídla pro posádku. 
+Od té doby ale tak jako tak jsou jídla do letadel většinou rozdělena do několika skupin jako například pro economy, busnyss, a first clas. Další zvláštní skupinou jsou crew meals, neboli jídla pro posádku.
 
 Toto rozdělení je sice jednak podle ceny té letenky, ale pokud se posádky týká tak je to z bezpečnostních důvodů.
 

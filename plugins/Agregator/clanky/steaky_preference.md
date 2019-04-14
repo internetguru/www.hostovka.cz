@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=358.html" data-og-image="/files/preview/clanky/steaky_preference/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=358.html" data-image="/files/preview/clanky/steaky_preference/general.jpg" data-type="article"}
 
 {id="steaky\_preference" ctime="2008-07-28" author="Michael Klíma" short="Steaky preference" authorid="hostovka/michael\_klima"}
 
 # Steaky preference
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="kuchyňské techniky"}
 
@@ -43,7 +43,7 @@ Jsou samozřejmě výjimky jako je například světoznámá restaurace Big Texa
 
 ## Zadarmo
 
-To slovo "zadarmo" nesmíte brát vážně, alespoň ne v Americe. 
+To slovo "zadarmo" nesmíte brát vážně, alespoň ne v Americe.
 
 FOR FREE, což v češtině znamená zadarmo, vidíte v Americe na každém rohu, ale ve skutečnosti to co je zadarmo někdo musí zaplatit.
 

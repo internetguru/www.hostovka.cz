@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=176.html" data-og-image="/files/preview/clanky/stravovaci_zvyklosti/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=176.html" data-image="/files/preview/clanky/stravovaci_zvyklosti/general.jpg" data-type="article"}
 
 {id="stravovaci\_zvyklosti" ctime="2006-09-17" author="Michael Klíma" short="Stravovací zvyklosti" authorid="hostovka/michael\_klima"}
 
 # Stravovací zvyklosti
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="gastronomie"}
 

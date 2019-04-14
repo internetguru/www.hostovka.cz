@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=353.html" data-og-image="/files/preview/clanky/pripradove_studie/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=353.html" data-image="/files/preview/clanky/pripradove_studie/general.jpg" data-type="article"}
 
 {id="pripradove\_studie" ctime="2008-07-17" author="Michael Klíma" short="Případové studie" authorid="hostovka/michael\_klima"}
 
 # Případové studie
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="koho se to týká"}
 

@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=87.html" data-og-image="files/preview/clanky/smazeni/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=87.html" data-image="files/preview/clanky/smazeni/general.jpg" data-type="article"}
 
 {id="smazeni" ctime="2005-10-30" author="Michael Klíma" short="Smažení" mtime="2019-02-25"}
 
 # Druhy smažení
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-06, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="kuchyňské techniky"}
 
