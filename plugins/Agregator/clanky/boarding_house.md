@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=178.html" data-og-image="files/preview/clanky/barding_house/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=178.html" data-image="files/preview/clanky/barding_house/general.jpg" data-type="article"}
 
 {id="boarding\_house" ctime="2006-09-22" author="Michael Klíma" short="Boarding House" authorid="hostovka/michael\_klima"}
 
 # Boarding House
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="ubytování"}
 
@@ -32,8 +32,6 @@ Nabízejí se v různých kategoriích od těch nejjednodušších až po ty lux
 Na Hawaji, kde ubytování je relativně drahé, je tento způsob oblíbený u pracovníků v hotelích a u sezónních pracovníků.
 
 Koncept B&B nebo ekvivalent britských boarding houses, je rozšířený po celém světě i když mnohdy pod jiným názvem.
-
-
 
 Například japonské minshuku, jsou téměř stejné jako jiné B&B, ale vyznačují se pověstnou až chorobnou péčí o čistotu a hygienu. Američani si v zásadě na hygienu také potrpí a někteří se sprchují až dvakrát denně, ale v některých zemích kdyby jim to občasné mytí nenařizovalo jejich náboženství by se nemyli třeba i celý rok.
 

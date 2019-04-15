@@ -1,9 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=257.html" data-og-image="/files/preview/clanky/kniha\_prani\_a_stiznosti/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=257.html" data-image="/files/preview/clanky/kniha\_prani\_a_stiznosti/general.jpg" data-type="article"}
 
 {id="kniha\_prani\_a\_stiznosti" ctime="2007-10-27" author="Michael Klíma" short="Přání a stížnosti" authorid="hostovka/michael\_klima"}
 
 # Přání a stížnosti
+
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="etika"}
 

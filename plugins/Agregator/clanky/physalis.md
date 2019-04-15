@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=127.html" data-og-image="/files/preview/clanky/physalis/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=127.html" data-image="/files/preview/clanky/physalis/general.jpg" data-type="article"}
 
 {id="physalis" ctime="2005-12-22" author="Michael Klíma" short="Physalis" authorid="hostovka/michael_klima"}
 
 # Physalis
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="zbožíznalství"}
 
@@ -28,7 +28,6 @@ Domorodí Indiáni používají odvar z listů při zažívacích potížích.
 Já jsem kolem ovoce physalis chodil hodně dlouho než jsem dostal odvahu ho ochutnat k tomu abych poznal co to vlastně je. Když se to tak vezme, tak to jako ovoce ani nevypadá. V té suché slupce to spíše vypadá jako nějaká květina.
 
 Měl jsem ho v kuchyni po nějaký čas a stále se mi do toho moc nechtělo.
-
 
 Když ale se pak ta slupka otevře, tak vidíte, že uvnitř je plod velikosti velkého hroznového vína, lesklé a trochu lepkavé s velice příjemno vůní takže nakonec neodoláte a ochutnáte ho.
 

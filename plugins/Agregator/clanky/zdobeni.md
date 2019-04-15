@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=347.html" data-og-image="/files/preview/clanky/zdobeni/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=347.html" data-image="/files/preview/clanky/zdobeni/general.jpg" data-type="article"}
 
 {id="zdobeni" ctime="2008-07-06" author="Michael Klíma" short="Zdobení" mtime="2019-03-11"}
 
 # Zdobení jídla
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="gastronomie"}
 
@@ -21,3 +21,4 @@ Nicméně v české kuchyni jsou jídla teplé kuchyně (zejména [minutky][3]) 
  [2]: /food_styling
  [3]: /minutky
  [4]: /obloha
+

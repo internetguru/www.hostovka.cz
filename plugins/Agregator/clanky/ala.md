@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=317.html" data-og-image="/files/preview/clanky/ala/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=317.html" data-image="/files/preview/clanky/ala/general.jpg" data-type="article"}
 
 {id="ala" ctime="2008-05-07" author="Michael Klíma" short="À la" authorid="hostovka/michael_klima"}
 
 # À la
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="gastronomie"}
 
@@ -65,7 +65,9 @@ Tento způsob přípravy jídel je starý jako lidstvo samo. Od objevení ohně 
 
 ## À la minute
 
-- je ale dosti nepřesné, protože existují techniky přípravy jídel, jako například technika přípravy některých čínských jídel, které se anglicky říká stir frying která trvá jen několik vteřin.
+n/a
+
+  * je ale dosti nepřesné, protože existují techniky přípravy jídel, jako například technika přípravy některých čínských jídel, které se anglicky říká stir frying která trvá jen několik vteřin.
 
 Nakonec i většina jídel označených jako fast food je připravena tímto způsobem. Většinou se jedná o konečnou tepelnou přípravu které ale předchází mnohdy velice zdlouhavá úprava potravin a příprava tak zvaných polotvarů.
 

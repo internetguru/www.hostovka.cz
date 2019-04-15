@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=130.html" data-og-image="files/preview/clanky/bechamel/preview.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=130.html" data-image="files/preview/clanky/bechamel/preview.jpg" data-type="article"}
 
 {id="besamel" ctime="2006-01-13" mtime="2018-12-07" short="Omáčka bešamel" author="Michael Klíma"}
 
 # Omáčka bešamel a její varianty
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
 
 {kw="nejčtenější, jídla a jídelní lístky, omáčka, recept"}
 
@@ -19,6 +19,8 @@ Bez bešamelu se dnes neobejde žádná evropská kuchyně a jeho použití je n
 
 Bešamel má několik variant, u kterých každý autor tvrdí, že je to ta pravá. Nedělejte z toho však žádnou vědu a vyberte si jakýkoli z uvedených receptů.
 
+Středně hustá bešamelová omáčka se od lehké liší pouze přidáním jedné lžíce másla a jedné lžíce mouky navíc. Hustá přidáním dvou lžic másla a mouky. Tedy středně hustá bešamelová omáčka má celkem 2 lžíce másla a mouky a hustá po třech.
+
 Lehká bešamelová omáčka
 :   1 lžíce másla
 :   1 lžíce mouky
@@ -29,7 +31,25 @@ Lehká bešamelová omáčka
 :   2 stonky petrželky (volitelně)
 :   1 rozšlehaný žloutek (volitelně)
 
-Středně hustá bešamelová omáčka se od lehké liší pouze přidáním jedné lžíce másla a jedné lžíce mouky navíc. Hustá přidáním dvou lžic másla a mouky. Tedy středně hustá bešamelová omáčka má celkem 2 lžíce másla a mouky a hustá po třech.
+Středně hustá bešamelová omáčka
+:   2 lžíce másla
+:   2 lžíce mouky
+:   1 šálek mléka nebo smetany
+:   1/2 lžičky soli
+:   1/8 mletého bílého pepře
+:   1/2 loupané cibule se 2 hřebíčky (volitelně)
+:   2 stonky petrželky (volitelně)
+:   1 rozšlehaný žloutek (volitelně)
+
+Hustá bešamelová omáčka
+:   3 lžíce másla
+:   3 lžíce mouky
+:   1 šálek mléka nebo smetany
+:   1/2 lžičky soli
+:   1/8 mletého bílého pepře
+:   1/2 loupané cibule se 2 hřebíčky (volitelně)
+:   2 stonky petrželky (volitelně)
+:   1 rozšlehaný žloutek (volitelně)
 
 U výše uvedených receptů je základem bešamelu jíška. Ta se v české kuchyni dělá ze stejného dílu másla a mouky. Množství jíšky se mění podle požadovaného stupně hustoty, ale dávkování ostatních surovin zůstává stejné.
 

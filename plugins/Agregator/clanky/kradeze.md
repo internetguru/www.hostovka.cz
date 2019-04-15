@@ -1,0 +1,43 @@
+
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=533.html" data-image="/files/preview/clanky/kradeze/general.jpg" data-type="article"}
+
+{id="kradeze" ctime="2010-09-20" author="Michael Klíma" short="Krádeže" authorid="hostovka/michael_klima"}
+
+# Krádeže
+
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
+{kw="o čem se mluví"}
+
+Nejvíce v EU kradou Češi, DNES Sobota 11. září 2010. What a BS! Téměř autentický článek pod názvem Češi kradou v obchodech nejvíc z Evropy vyšel již 11. 10. 2006, AUTOR: (čtk, eko)
+
+V těch článcích a statistikách se nemluví o tom, že hodně těch zemí může za to špatné umístění děkovat Čechům, kteří v těch zemích žijí, nebo je navštěvují jako turisté. Zeptejte se, na vysoké zlodějské umění Čechů těch obchodníků v pohraničních městech Německa či Rakouska a Polsko nevyjímaje. Já si například vzpomínám, že již v sedmdesátých letech minulého století byly australské kriminály plné Čechů, kteří tam emigrovali a něco podobného se dá říci i o Americe a mnoha jiných zemích.
+
+V obou těch článcích se píše hlavně o tom kolik toho Češi ukradnou v obchodech jako kupující, ale podle mě jsou to prkotiny v porovnání s tím, co Češi ukradnou v obchodech a podnicích ve kterých pracují. To víte, teď se tak trochu mluví o tom, co Češi rozkradou například v armádě, zdravotnictví a jiných sektorech národního hospodářství, a politiky nevyjímaje, ale to nemohu posoudit, protože tomu nerozumím. Myslím si ale, že rozumím pohostinství a tudíž vím, že pohostinství má ve zlodějně již po staletí primát, a tak nějak mi připadá, že to nikomu ani nevadí ba naopak. Náš nejvyšší kuchař se tím že kradl, jako každý jiný, dokonce chlubí a já si myslím, že pokud je takový „férový chlap“, za kterého ho mnozí vydávají, že těm svým zaměstnancům a kolegům ty krádeže mlčky trpí.
+
+K tomu Vám musím přidat příhodnou historku…
+
+{id="mensi_zlo"}
+
+## Menší zlo
+
+Bylo to v Česku asi tak v 54 roce. Byl jsem relativně mladým a nezkušeným soudruhem vedoucím jedné restaurace. 
+
+Stalo se mi, že z ničeho nic mi můj šéfkuchař dal výpověď kradl jako každý jiný a jako kuchař také za moc nestál a tak jsem byl více méně rád. Tak jak se to tehdy dělalo, jsem ale zavolal do kádrového oddělení podnikového ředitelství s tím, aby mi poslali nového kuchaře. Kádrovák mi zcela otevřeně řekl, že nikoho nemá mimo jedné kuchařky, která je sice velice dobrá kuchařka, a umí ušetřit peníze, ale že ji nikdo nechce, protože krade.
+
+Jak jsem řekl, tak já jsem byl tehdy sice ještě nezkušený, ale nebyl jsem naivní, a tak jsem mu řekl, aby mi ji poslal. Když ta kuchařka nastoupila, tak jsem ji řekl, že o ní všechno vím, jako například že je rozvedená a že má doma asi 15 letého hladového kluka a že také vím, že krade, ale že vím, že kradou i někteří ti ostatní zaměstnanci, a že je to prostě na ni, aby tomu zabránila. Ale abych to zkrátil…
+
+Velmi rychle jsem přišel na to, že ta kuchařka krade i mě, ale nebylo to na „kšeft ve kšeftě“ jako je to ve většině případů, ale proto, aby uživila toho hladového kluka. 
+
+Musím se teď přiznat, že jsem dělal, jako že to nevidím, a sice proto, že na druhé straně ona byla takový četník, že nikdo jiný si neukradl už ani nudli. Anglicky se tomu říká: „The lesser of the evil“ a česky „menší zlo“.
+
+Pohostinství v tomto směru je neustálý boj vedení proti zaměstnancům a to vedení je bohužel vždy v menšině. Nejhorší je, když se ti zaměstnanci proti tomu vedení scuknou. Tudíž když vám krade kuchař, tak to ještě není tak zlé, horší je, když ten kuchař je v kahucu s číšníky, což v mnoha podnicích je ještě dnes docela „normální“.
+
+On to nikdo taky nechce říci nahlas, ale za socialismu se to řešilo tak, že se s těmi zaměstnanci prostě s cukl i soudruh vedoucí, a jak se říká „jeli do šábu všichni“. 
+
+No a teď jsem nedávno s hrůzou zjistil, že takto ale postupují dnes i někteří majitelé restaurací, čemuž se anglicky říká: “If you cannot defeat them, join them”, česky něco jako: „Když je nemůžeš přemoci, tak se s nimi spoj“.
+
+Nu, a pokud s vašimi zaměstnanci nechcete šábovat tak vám nic jiného nezbývá než s tím, že někteří zaměstnanci kradou, musíte prostě počítat, a když tomu nemůžete zabránit, tak ty krádeže alespoň minimalizoval.
+
+Já sice mám na zadním hořáku již hodně dlouho takové úvahy o tom, jak se v pohostinství šidí a krade, a jak se tomu dá zabránit, ale to abych je uveřejnil odkládám a to jen proto, že by ti zlodějíčkové, kteří jsou zpravidla bystřejší než ti majitelé restaurací, by se naučili to, co ještě neumí a tak by to mohlo udělat více škody než užitku.
+

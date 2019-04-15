@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=273.html" data-og-image="/files/preview/clanky/dress_code/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=273.html" data-image="/files/preview/clanky/dress_code/general.jpg" data-type="article"}
 
 {id="dress\_code" ctime="2008-01-18" author="Michael Klíma" short="Dress Code" authorid="hostovka/michael\_klima"}
 
 # Dress Code
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="restaurace a servis"}
 
@@ -15,7 +15,7 @@ To bylo v době kdy jsem na těchto stránkách na podobné dotazy přidával m�
 
 Já do těchto stránek již nepřizpívám, ale musím přiznat, že je čtu protože podle těch otázek někter‎ých čtenářů si mohu udělat jak‎ýsi obrázek o jejich odborné úrovni či inteligenci.
 
-Před několika dny se na zmíněn‎ých stránkách objevil příspěvek jisté Jany tohoto znění: 
+Před několika dny se na zmíněn‎ých stránkách objevil příspěvek jisté Jany tohoto znění:
 
 Dobrý den, chtěla bych se zeptat jestli mi může zaměstnavatel zakázat nošení řetízků na pracovišti. Pracuji jako prodavačka a jsem i u potravin. Pochopím zákaz nošení prstýnků, náramků a hodinek z hygienických důvodů, ale nejdou mi do hlavy ty řetízky a náušnice.........???? Je na to nějaký zákon? nebo je to jen výmisl nějaké INICIATIVNí KRÁVY ? Prosím poraďte mi co jedříve,ať se můžu bránit.........Děkuji?.
 

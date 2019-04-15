@@ -1,95 +1,88 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=208.html" data-og-image="/files/preview/clanky/celer_rapikaty/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=208.html" data-image="/files/preview/clanky/celer_rapikaty/general.jpg" data-type="article"}
 
-{id="celer\_rapikaty" ctime="2007-01-26" author="Michael Klíma" short="Celer řapíkatý" authorid="hostovka/michael\_klima"}
+{id="celer_rapikaty" ctime="2007-01-26" author="Michael Klíma" short="Řapíkatý celer" mtime="2019-03-29"}
 
-# Celer řapíkatý
+# Jak vybrat a podávat řapíkatý celer
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
 
-{kw="zbožíznalství"}
+{kw="zbožíznalství, recept, zelenina"}
 
-Řapíkatý celer, (Opium Graveloens dulce) anglicky zvaný celery, byl V Evropě kde až do 16 století, kdy celer byl zkultivován, znám jenom jako lékařská rostlina.
+Řapíkatý celer _(Apium graveolens dulce)_ anglicky zvaný _celery_, byl v Evropě až do 16 století, znám pouze jako lékařská rostlina. V Česku byl řapíkatý celer znám až od Sametové revoluce.
 
-České republice až do Sametové revoluce pokud byla v nějakém receptu zmínka o celeru, tak to byl celer kořenový. Dnes ale při zmínce o celeru musíte být velice opatrní, protože mezi kořenovým a řapíkatým celerem je veliký rozdíl.
+{class="example"}
 
-O existenci řapíkového celeru ještě dodnes nevědí někteří překladatelé cizích, obzvláště amerických receptů, a proto vzniká mnoho nedorozumění. Dokonce i někteří kuchaři, kteří sice s řapíkovým receptem přišli do styku nevědí jak ho správně používat a říkají mu zjednodušeně řapík, což je zavádějící, protože řapíky mohou mít i jiné rostliny.
+Při zmínce o celeru musíte být velice opatrní. Mezi kořenovým a řapíkatým celerem je totiž veliký rozdíl. V Americe je (pro jeho cenu) řapíkatý celer běžnou a velice často používanou zeleninou.
 
-V Americe pro jeho cenu je řapíkatý celer běžnou a velice často používanou zeleninou. Nejznámější druh je bledě zelená odrůda zvaná Pascal.
+O existenci řapíkového celeru dodnes nevědí ani někteří překladatelé cizích, obzvláště amerických receptů. Dokonce i někteří kuchaři nevědí, jak řapíkatý celer správně používat a říkají mu zjednodušeně řapík. To je ovšem zavádějící, protože řapíky mohou mít i jiné rostliny.
 
-Druhá, méně známá odrůda golden celery, jejíž zlatá barva se získá pěstováním této odrůdy bez přístupu světla, aby se zabránilo růstu chlorofylu, se v používá jen zřídka a to také proto, že je zpravidla podstatně dražší.
+{id="jak\_celer\_vybrat\_a\_uchovat"}
 
-Řapíkatý celer, jak název napovídá, se skládá z řapíků, neboli žeber (ribs) které u vzrostlého celeru mohou dosahovat délky až 40 cm. Ve středu je tak zvané srdíčko (celery heart), které je křehčí a které se používá k ozdobě jídel a nápojů.
+## Jak celer vybrat a uchovat
 
-Při nákupu vybíráme celer zakončený jasně zelenými a neovadlými listy které ale odřízneme.
+Nejznámějším druhem je bledě zelená odrůda zvaná _pascal_. Druhá, méně známá odrůda _golden celery_, se v používá jen zřídka. Její zlatá barva se získává pěstováním bez přístupu světla, aby se zabránilo růstu chlorofylu. Proto je také podstatně dražší.
 
-Celer zabalíme do plastikového filmu nebo do papíru a uložíme v ledničce kde nám vydrží asi týden. Podle potřeby odlamujeme řapíky a zbytek celeru opět dobře zabalíme.
+Řapíkatý celer se skládá z řapíků neboli žeber (anglicky _ribs_). Ty mohou u vzrostlého celeru dosahovat délky až 40 cm. Ve středu je takzvané srdíčko (anglicky _celery heart_). Srdíčko je křehčí a používá se k ozdobě jídel a nápojů.
 
-Řapíky celeru nemají již téměř žádný odpad a proto jsou v kuchyni oblíbeny. Zelené listy kterými jsou řapíky zakončeny můžeme použít do vývaru a polévek, a po nasekání v malém množství i do některých salátů.
+Při nákupu vybíráme celer zakončený jasně zelenými a neovadlými listy. Listy odřízneme a uložíme zvlášť. Celer zabalíme do plastikové fólie nebo do papíru a uložíme do ledničky. Tam nám vydrží asi týden. Podle potřeby řapíky postupně odlamujeme a zbytek celeru opět dobře zabalíme.
 
-Očištěné řapíky celeru, anglicky zvané celery sticks, se přidávají ku crudités, používají jako jedlá míchátka nápojů, apod.
+Zelené listy, kterými jsou řapíky zakončeny, můžeme použít do vývaru a polévek, a po nasekání i do některých salátů (v malém množství).
 
-Před další úpravou se řapíky většinou krájí na malé stejnoměrně velké a úhledné kousky. Velice oblíbená forma jsou kousky krájené nakoso (on bias). Kousky celeru se pak přidávají do salátů, nebo se dusí jako přílohová zelenina.
+Řapíky celeru nemají téměř žádný odpad, a proto jsou v kuchyni tak oblíbené. Očištěné řapíky celeru (anglicky _celery sticks_) se podávají ke [crudités][1], používají se jako jedlá míchátka nápojů apod.
 
-V kastrole se silným dnem rozpustíme máslo nebo margarin, přidáme kousky celeru, a dříve než celer začne pouštět šťávu, ho zaprášíme moukou. Celer rychle zamícháme tak, aby se všechny kousky obalily moukou, a zalijeme je horkým vývarem tak, aby celer byl sotva ponořen.
+Před další úpravou se řapíky většinou krájí na malé, stejnoměrně velké, úhledné kousky. Oblíbená forma jsou kousky krájené nakoso (anglicky _on bias_). Kousky celeru se pak přidávají do salátů, nebo se dusí jako přílohová zelenina.
 
-Řapíkatý celer má svoji osobitou kořenovou chuť a proto pepř nepřidáváme, nicméně ho musíme podle chuti osolit.
+{id="duseny_celer"}
 
-I když se mu říká dušený celer (anglicky Braised Celery), tak pokličkou ho přiklápět nemusíme. Snaha totiž je, aby jednotlivé kousky zůstaly křehké, takže ho vaříme nejvýše 10 až 15 minut.
+## Dušený celer
 
-Takto připravený celer má výhodu, že si dlouho udrží svoji teplotu a že na bufetovém nebo výdejním pultě vydrží 2-3 hodiny bez ztráty na barvě a na křehkosti.
+I když se celeru říká dušený (anglicky _braised celery_), tak ho nemusíme přiklápět pokličkou. Jde nám totiž o to, aby jednotlivé kousky zůstaly křehké. Dušený celer se moc nehodí k zadělávaným jídlům. Je spíše vhodný k většině pečených nebo grilovaných mas, drůbeži a k některým rybám.
 
-Nehodí se moc k zadělávaným jídlům, ale hodí se ku většině pečených neb grilovaných mas, drůbeže a k některým rybám.
+  1. V kastrole se silným dnem rozpustíme máslo nebo margarin,
+  2. přidáme kousky celeru,
+  3. dříve, než celer začne pouštět šťávu ho zaprášíme moukou,
+  4. celer rychle zamícháme, aby se všechny kousky obalily moukou,
+  5. zalijeme ho horkým vývarem tak, aby byl celer sotva ponořen,
+  6. vaříme nejvýše 10 až 15 minut,
+  7. osolíme podle chuti.
 
-Řapíky mladého celeru můžeme uvařit v celku a podávat je s vinegretem jako předkrm, nebo s přepuštěným máslem jako přílohovou zeleninu.
+{class="example"}
 
-Žebra vzrostlého celeru, pokud je podáváme vcelku, musíme ale oškrábat, lépe řečeno zbavit "vousů". Není to ani tak komplikovaná jako zdlouhavá práce a proto v restauracích se tím většinou nezabývají, ale pokud máme trochu času, tak ty vousy odstraníme.
+Takto připravený celer má výhodu, že si dlouho udrží svoji teplotu, a že na bufetovém nebo výdejním pultě vydrží 2 až 3 hodiny, bez ztráty na barvě a na křehkosti.
 
-Na řezu žebra, uchopíme mezi palcem a nožem konec vousu a stáhneme ho dolů.
+Řapíky mladého celeru můžeme uvařit v celku a podávat je s [vinegretem][2] jako předkrm, nebo s přepuštěným máslem jako přílohovou zeleninu.
 
-Řapíkatý celer je zatím nedoceněná zelenina i v restauracích, kde pokud máte při ruce bešamel nebo velouté, tak z řapíkatého celeru můžeme během 10 minut připravit vynikající celerovou polévku, kterou jsem s oblibou dělal protože byla veliký "money maker".
+{id="dalsi\_zpusoby\_podavani"}
 
-V tom případě řapíky celeru umeleme na hrubé šajbě (myslím si že se tomu tak česky říká), podusíte ho asi 10 minut na másle, přidáme ho do horkého velouté, podle potřeby rozředíme drůbežím vývarem - a voialá - máme polévku které můžete říkat Potage Alexandrina, nebo Potage au céleri (přičemž nesmíte zapomenout na to dlouhé "é" které tu polévku pofrancouzšťuje), takže za ni můžete počítat jednou tolik než kdybychom ji říkali jen celerová polévka.
+## Další způsoby podávání
 
-{id="veloutee"}
+Při podávání řapíků v celku je musíme oškrábat, lépe řečeno zbavit „vousů“. Je to zdlouhavá práce, a proto se tím v restauracích většinou nezabývají. Pokud máme ale trochu času, tak vousy odstraníme.
 
-## Veloutée
+Řapíkatý celer je zatím nedoceněná zelenina. Pokud máte při ruce [bešamel][3] nebo [velouté][4], tak z řapíkatého celeru můžeme během 10 minut připravit vynikající celerovou polévku.
 
-Veloutée je francouzský název omáčky připravené z prachobyčejného bešamelu do kterého přidáme smetanu případně smetanu se žloutky. Liaison.
+  1. Řapíky celeru pomeleme na hrubé kousky,
+  2. podusíte ho asi 10 minut na másle,
+  3. smícháme ho s horkým [velouté][4] a
+  4. podle potřeby rozředíme drůbežím vývarem.
 
-Dnes dostanete veloutée v prášku, ale pokud si ho chcete udělat "od píky", čemuž se anglicky říká from the scratch, což není žádná věda, tak vám prozradím jak na to.
+Máme polévku, které můžete říkat _potage Alexandrina_, nebo _potage au céleri_. Ve slově _céleri_ nesmíte zapomenout na dlouhé „é“, které polévku pofrancouzšťuje. Tím pádem za ni můžete počítat jednou tolik, než kdybychom ji říkali pouze celerová polévka.
 
-{id="napred\_si\_udelame_besamel"}
+{class="example"}
 
-### Napřed si uděláme bešamel
+Syrový celer (anglicky _celery sticks_) je velmi často součástí [crudités][1] nebo salátů. Jedním takovým, velice populárním salátem, je _kobb salát_.
 
-Přestože vynalezení bešamelové omáčky je přiznáváno správci královského dvora Ludvíka XIV, Markýzu Béchamel de Nointel (? 1703), je více než pravděpodobné, že si Francouzi tuto omáčku více méně přivlastnili od Italů protože v Itálii byla tato omáčka známa již několik století před tím.
+V Americe je syrový celer také nezbytnou součástí nejpopulárnějšího předkrmu, krevetového koktejlu (anglicky _shrimp cocktail_). Tento koktejl je velmi jednoduchý na přípravu.
 
-Ale ať již vynálezcem této omáčky byl kdokoliv, tak ji považuji za jeden z nejlepších kulinářských výtvorů a buďme rádi, že ji máme protože bez této omáčky si neumím představit žádnou z evropských kuchyní.
+  1. Spodek misky (anglicky _cocktail glass_) naplníme drobně krájeným řapíkatým celerem.
+  2. Na něj popřípadě, jako plnidlo (anglicky _filler_), dáme trošku sekaných listů salátu.
+  3. Na okraje misky zavěsíme vařené krevetky (anglicky _shripms_).
+  4. Do středu dáme koktejlovou omáčku.
 
-V kastrole se silným dnem, zahřejeme máslo, a dříve než máslo začne hnědnout do něj přimícháme stejný díl hladké mouky. Vzniklou jíšku zalijeme okamžitě horkým mlékem a za stálého míchání dřevěnou vařečku na mírném ohni vaříme nejméně 30 minut.
+Celer má také využití při přípravě některých koktejlů jako přírodní míchátko. Například velice populární koktejl _Bloody Mary_ by bez míchátka z celeru nebyl úplný. V tomto případě se ke koktejlu míchátko přikusuje.
 
-Bešamel jak asi již víte můžete použít ne nekonečnou řadu polévek a omáček, můžete s ním zahušťovat mnoho jídel, nebo ho použít k lepení tapet na zeď.
-
-Tudíž vidíte že bez bešamelu skutečně nemůžete existovat.
-
-Na bešamel existuje řada receptů které doporučuji přidat cibuli atd., ale já věřím jen na obyčejný bešamel protože pak ho mohu použít i pro cukrářské krémy apod.
-
-Syrový celer (celery sticks) je velmi často součástí crudités nebo salátů.
-
-Jedním takovým salátem je velice populární Kobb salát.
-
-Jak víte tak na stránkách Hostovky vám recept na něj dát nemohu, ale zrovna tento týden jsem na něj poslal recept do restaurace STEAKGRILL a tak doufám, že ho nejbližší době dají na jídelní lístek.
-
-V Americe je syrový celer také nezbytnou součástí nejpopulárnějšího předkrmu zvaného "shrimp cocktail".
-
-Shrimp cocktail je nejenom nejpopulárnější ale také nejjednodušší předkrm. Spodek misky zvané "cocktail glass" se naplní drobně krájeným řepíkovým celerem, navrch jako "filler" se eventuálně dá troška sekaných listů salátu, na okraje misky se zavěsí vařené ktervetky (shripms), do středu se dá koktejlová omáčka a to je celý ten zázrak.
-
-V Americe se jich prodá biliony (česky triliony), ale pro mnoho českých kuchařů kteří jsou zvyklí na každém předkrmu strávit alespoň 10 minut by tento předkrm byl moc jednoduchý protože by na něm nemohli demonstrovat svoji kreativitu.
-
-Celer má ale použití i při přípravě některých koktejlů jako přírodní míchátko.
-
-Například velice populární kokteil Blody Mary by nebyl úplný bez "celery stick", neboli míchátka z celeru.
-
-V tomto případě se toto míchátko přikusuje.
+ [1]: /jednohubky
+ [2]: /zalivka_dresink#zalivka
+ [3]: /besamel
+ [4]: /agnes_sorel#veloute
 

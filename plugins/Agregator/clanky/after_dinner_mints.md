@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=151.html" data-og-image="/files/preview/clanky/after\_dinner\_mints/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=151.html" data-image="/files/preview/clanky/after\_dinner\_mints/general.jpg" data-type="article"}
 
 {id="mentolky\_po\_jidle" ctime="2006-05-22" mtime="2018-12-05" author="Michael Klíma" short="Mentolky po jídle"}
 
 # Bonbóny pro osvěžení dechu po jídle
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="etika"}
 

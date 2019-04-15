@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=287.html" data-og-image="/files/preview/clanky/hoste/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=287.html" data-image="/files/preview/clanky/hoste/general.jpg" data-type="article"}
 
 {id="hoste" ctime="2008-02-19" author="Michael Klíma" short="Hosté" authorid="hostovka/michael_klima"}
 
 # Hosté
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="gastronomie"}
 

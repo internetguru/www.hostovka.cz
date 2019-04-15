@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=315.html" data-og-image="/files/preview/clanky/polevky/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=315.html" data-image="/files/preview/clanky/polevky/general.jpg" data-type="article"}
 
 {id="polevky" ctime="2008-05-01" author="Michael Klíma" short="Polévky" authorid="hostovka/michael_klima"}
 
 # Polévky
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -283,7 +283,7 @@ Všechny ty recepty jsou pro 4?5 porcí podle toho jak vám to bude chutnat což
 
 ## CHUO KUO
 
-Mongolský kotlík 
+Mongolský kotlík
 
 Tuto polévku jsem také podrobně popsal v mé čínské kuchařce a nemyslím si, že byste si ji někdy dělali doma, ale pokud se vám naskytne příležitost, tak si ji nenechte ujít, protože je to skutečně gastronomický zážitek na kterém se můžete i podílet.
 

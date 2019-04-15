@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=189.html" data-og-image="/files/preview/clanky/jidlo\_doma\_jinde/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=189.html" data-image="/files/preview/clanky/jidlo\_doma\_jinde/general.jpg" data-type="article"}
 
 {id="jidlo\_doma\_jinde" ctime="2006-11-10" author="Michael Klíma" short="Jídlo doma a jinde" authorid="hostovka/michael_klima"}
 
 # Doma jez co máš a jinde co ti dají
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="gastronomie"}
 
@@ -63,24 +63,19 @@ Naprosto čerstvé očištěné potraviny nakrájené předepsaným způsobem a 
 
 Jídla připravená na předepsaném zařízení stanovenými technikami.
 
-
 Jak vidíte, tak toho není moc a navíc musím dodat, že k přípravě těchto jídel nikdo nemusí být vyučen, ani nemusí mít hotelovou školu, ale musí znát potřebný know how.
 
 Žádné požadavky na fantazii či kreativitu kuchaře, žádné svévolné vylepšování jako je tomu v Česku, kdy každý kuchař má svůj vlastní "nejlepší" recept na přípravu svíčkové, ba naopak.
 
 Po krátkém zaškolení všichni kuchaři (pokud se jim tak dá říkat), musí připravovat ta jídla všude a vždy stejně, neboli Kuře Kung Pao v Pekingu na rynku musí být stejné jako v Horních Počáplech.
 
-
 To samé se dá říci o velikosti porcí které také musí být pokaždé stejné. Manželka která nemá ráda ostrá jídla si dala její oblíbené kuře s čerstvými cashew ořechy, což podle ní také nemělo chybu, a podle mého odhadu ta porce byla stejně velká jako u toho kuřete Kung Pao.
 
 A to jsem se vlastně nezmínil o rychlosti podle které tento způsob přípravy jídel má své jméno. Příprava žádného toho jídla netrvá déle ne ž 5 minut a tak není divu, že na zahajovací den jenom v poledne obsloužili zhruba asi 300 lidí nemluvě o asi 150 jídlech "přes ulici".
-
 
 No a teď se ale nemůžete divit, že já jsem všemi těmi technikami rychlé přípravy jídel přímo fascinován.
 
 Nemám ale na mysli jen výše zmíněné řetězce fast food, ale i restaurace, u nás známé jako "zážitkové", ve kterých tím hlavním zážitkem jsou jídla která se sice připravují moderními rychlými technikami, ale ve kterých je host může vychutnat v příjemném prostředí spolu s jeho oblíbeným pivem nebo vínem.
 
 Takovými restauracemi jsou dnes na západě tak zvané STEAKHOUSES, neboli restaurace ve kterých se připravují hlavně steaky a proto jsem vypracoval koncept typického amerického STEAKHOUSE, který ale je přizpůsoben možnostem evropského a východoevropského trhu který vám příležitostně popíši.
-
- [1]: http://2017.hostovka.cz/soubor/10-11-06-4.JPG
 

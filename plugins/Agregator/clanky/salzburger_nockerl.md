@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=328.html" data-og-image="/files/preview/clanky/salzburger_nockerl/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=328.html" data-image="/files/preview/clanky/salzburger_nockerl/general.jpg" data-type="article"}
 
 {id="salzburger\_nockerl" ctime="2008-06-12" author="Michael Klíma" short="Salzburger Nockerl" authorid="hostovka/michael\_klima"}
 
 # Salzburger Nockerl
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -17,7 +17,7 @@ Já jsem v Saltzburgu neboli v Solnohradu byl, ale ne k vůli těm nokům, i kdy
 
   * 20g cukru
   * 10g mouky
-  * 3 vaječné bílky 
+  * 3 vaječné bílky
   * 2 žloutky
   * ½ lžičky vanilkového cukru
   * 1 lžíce citrónové šťávy

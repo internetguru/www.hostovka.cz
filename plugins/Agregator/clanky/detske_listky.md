@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=149.html" data-og-image="/files/preview/clanky/detske_listky/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=149.html" data-image="/files/preview/clanky/detske_listky/general.jpg" data-type="article"}
 
 {id="detske\_listky" ctime="2006-05-12" author="Michael Klíma" short="Dětské lístky" authorid="hostovka/michael\_klima"}
 
 # Dětské jídelní lístky
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -125,7 +125,7 @@ To samé platí i o těstovinách. Například v Americe každé malé dítě v�
 
 Nedávno jsme byli s mými vnoučaty v jedné relativně populární italské restauraci El Fornaio v Del Mar v Kalifornii.
 
-Babička jim přečetla dětský jídelní lístek, který podle mě není moc dobrý, ale byly na něm makarony se sýrem ( _{var="4"}_,95), což moji gurmáni samozřejmě znají a mají rádi, tak si je objednali.
+Babička jim přečetla dětský jídelní lístek, který podle mě není moc dobrý, ale byly na něm makarony se sýrem (  _{var="4"}_,95), což moji gurmáni samozřejmě znají a mají rádi, tak si je objednali.
 
 To aby děti z nudy snědly všechny housky, chleba a máslo které v každé západní restauraci jsou již na stole (zadarmo), by nebylo příliš žádoucí, ale v Českých a Slovenských restauracích se vám to ani nemůže stát protože to ještě není zvykem.
 

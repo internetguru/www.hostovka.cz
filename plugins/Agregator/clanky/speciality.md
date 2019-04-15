@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=156.html" data-og-image="/files/preview/clanky/speciality/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=156.html" data-image="/files/preview/clanky/speciality/general.jpg" data-type="article"}
 
 {id="speciality" ctime="2006-06-26" author="Michael Klíma" short="Speciality" authorid="hostovka/michael_klima"}
 
 # Speciality
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -166,7 +166,7 @@ Příklad denních specialit:
 
   * pondělí - Králík na smetaně nebo na víně, na česneku, na slanině, apod.
   * úterý - Kuře Marengo nebo kuře na víně (Coque au vin), nadívané, grilované, atd.
-  * středa- Pečená telecí ledvina, Osso Buco, telecí kýta pečená, apod. 
+  * středa- Pečená telecí ledvina, Osso Buco, telecí kýta pečená, apod.
   * čtvrtek- Pečené vepřové koleno, Moravský vepřový vrabec, Kološvárské zelí, atd.
   * pátek- Kapr po Polsku, smažený, na paprice, apod.
 
@@ -182,7 +182,7 @@ Hosté mají důvěru v jídla která jim šéfkuchař doporučí, zvláště kd
 
 Ve Francii například jsou některé restaurace známé jen pod křestními jménem šéfa kuchyně jako například: Chez Paul, Chez René, Chez August, Chez Louis, apod.
 
-To ale předpokládá velmi malou fluktuaci takových kuchařů. Jednou z mých zásad tvorby jídelních lístků ale je ― nestavět jídelní lístek na odborných znalostech vašeho šéfkuchaře. Jakmile vám váš kuchař odejde, tak ten nový vám hned udělo jídelní lístek podle svých "bohatých" zkušeností a v mnoha případech vám řekne, že musíte přestavět i kuchyˇ. 
+To ale předpokládá velmi malou fluktuaci takových kuchařů. Jednou z mých zásad tvorby jídelních lístků ale je ― nestavět jídelní lístek na odborných znalostech vašeho šéfkuchaře. Jakmile vám váš kuchař odejde, tak ten nový vám hned udělo jídelní lístek podle svých "bohatých" zkušeností a v mnoha případech vám řekne, že musíte přestavět i kuchyˇ.
 
 Proto některé restaurace dávají přednost uvádět tyto speciality pod hlavičkou "Šéf doporučuje", "Šéfova specialita", "À la Chef", a pod., bez uvedení šéfova jména.
 
@@ -194,7 +194,7 @@ Je to jen jakýsi gimmick, a nevím jestli natolik účinný, protože se mi nec
 
 Byl jsem v Americe kdysi majitelem české restaurace na Čermákově ulici v české čtvrti Chicaga.
 
-Klientela byla z osmdesáti procent česká, a proto jídelní lístek obsahoval asi 80 procent českých jídel. Jednoho dne pozdě večer, přišel do restaurace host který si zdlouhavě pročítal jídelní lístek. 
+Klientela byla z osmdesáti procent česká, a proto jídelní lístek obsahoval asi 80 procent českých jídel. Jednoho dne pozdě večer, přišel do restaurace host který si zdlouhavě pročítal jídelní lístek.
 
 Šel jsem k němu s otázkou, jestli mu snad mohu pomoci s výběrem. Dal mi takovou typickou otázku některých hostů a sice "Které jídlo na tom vašem lístku je nejlepší?"
 

@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=296.html" data-og-image="/files/preview/clanky/nikdy/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=296.html" data-image="/files/preview/clanky/nikdy/general.jpg" data-type="article"}
 
 {id="nikdy" ctime="2008-03-12" author="Michael Klíma" short="Nikdy" authorid="hostovka/michael_klima"}
 
 # Nikdy
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="hygiena a sanitace"}
 
@@ -21,7 +21,7 @@ Nicméně Vaše otázka je velice důležitá a proto moje odpověď, i když zp
 
 V zásadě se jedná o to, zda můžete na těchto stránkách uveřejnit jméno restaurace ve které jste byla z nějakého důvodu nespokojená a odpověď je že ano, ale má to nějaká pravidla.
 
-V daném případě je to o onemocnění nebo otrava z požitého jídla, což jak správně říkáte je trestuhodné, sama ale přiznáváte, že vašemu manželovi nic nebylo a to samo o sobě vám naznačuje, že něco sice nebylo v pořádku, ale prost‎ým uveřejněním restaurace ve které se vám to stalo by se to nikdy řešit nemělo o čemž svědčí příhodná historka kterou vám přikládám... 
+V daném případě je to o onemocnění nebo otrava z požitého jídla, což jak správně říkáte je trestuhodné, sama ale přiznáváte, že vašemu manželovi nic nebylo a to samo o sobě vám naznačuje, že něco sice nebylo v pořádku, ale prost‎ým uveřejněním restaurace ve které se vám to stalo by se to nikdy řešit nemělo o čemž svědčí příhodná historka kterou vám přikládám...
 
 Jedno kuře z 8000
 

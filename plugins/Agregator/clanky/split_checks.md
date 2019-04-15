@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=267.html" data-og-image="/files/preview/clanky/split_checks/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=267.html" data-image="/files/preview/clanky/split_checks/general.jpg" data-type="article"}
 
 {id="split\_checks" ctime="2008-01-04" author="Michael Klíma" short="Split Checks" authorid="hostovka/michael\_klima"}
 
 # Split Checks
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="restaurace a servis"}
 

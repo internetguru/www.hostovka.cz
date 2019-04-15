@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=142.html" data-og-image="/files/preview/clanky/steaky/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=142.html" data-image="/files/preview/clanky/steaky/general.jpg" data-type="article"}
 
 {id="steaky" ctime="2006-03-16" author="Michael Klíma" short="Steaky" authorid="hostovka/michael_klima"}
 
 # Steaky
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -115,7 +115,6 @@ Nemusím vám ale asi říkat, že i v churaskeriích se dnes naučili šetřit 
 
 Součástí churasca jsou dnes také uzeniny zvané defumados.
 
-
 Nejoblíbenější masa jsou vepřová panenka, vrchní šál, rib eye, svíčková a brazilská specialita "the hump of the Brahman bull" neboli hrb bráhmanského býka.
 
 S masem se podávají jednoduché saláty a přílohy jako marinované zeleniny, rýže, restované nebo pečené brambory a farofa, což ze jídlo z praženého manioku.
@@ -129,7 +128,6 @@ Původně se toto maso napíchané na velké kovové špízy.
 Jediným koření byla hrubá sůl. Maso se na těchto špízech grilovalo a přinášelo ku stolu.
 
 Churasco uspokojuje všechny carnivores (žrouty masa), jemněji řečeno všechny "meat lovers", neboli lidi kteří mají rádi maso v jednoduché přípravě.
-
 
 Každý gaučo měl svůj churasco nůž kterým si z masa odkrojoval kousky podle svého přání. V Jižní Brazílii mají lidé toto barbecue na zahradě v jámách vyzděných cihlami, nebo je mají zabudované do zdi s okraji z ozdobných dlaždiček.
 
@@ -212,7 +210,6 @@ Celé to stolováni je jakýsi tyátr tak jako tak. Já mám rád maso, v tomto 
 Talíř na který vám ta jídla podávají je samozřejmě studený a tak mi řekněte kde je nějaký požitek z jídla (nebo pití).
 
 Nicméně se dá říci, že je to nezapomenutelná zkušenost obzvláště když si uschováte účtenku
-
 
 K tomu si ale přičtěte 10% spropitného, malý poplatek za šatnu a vidíte, že můj přítel Bohouš by to z jeho penze šéfkuchaře denně dělat nemohl.
 

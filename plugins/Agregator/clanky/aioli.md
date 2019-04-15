@@ -1,19 +1,30 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=396.html" data-og-image="/files/preview/clanky/aioli/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=396.html" data-image="/files/preview/clanky/aioli/general.jpg" data-type="article"}
 
-{id="aioli" ctime="2009-04-13" author="Michael Klíma" short="Aioli" authorid="hostovka/michael_klima"}
+{id="aioli" ctime="2009-04-13" author="Michael Klíma" short="Italská omáčka aioli" mtime="2019-03-28"}
 
-# Aioli
+# Italská dochucovací omáčka aioli
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
 
-{kw="co-kdy-kde"}
+{kw="co-kdy-kde, omáčka, recept, Itálie"}
 
-Aioli je výraz se kterým se na českých jídelních lístcích dnes běžně setkáte, ale někteří hosté nevědí co to vlastně je.
+Aioli je italská dochucovací omáčka, se kterou se běžně setkáte na českých jídelních lístcích. Je také k dostání v obchodech. V italské rodině si ale každá hospodyně dělá omáčku aioli sama.
 
-Aioli je italská dochucovací omáčka která je dnes již běžně v obchodech k dostání, ale v každé pořádné italské rodině si hospodyně dělá aioli sama protož to její aioli je nejlepší a jediné tajemství je poměr jednotlivých potravin.
+Tajemství omáčky spočívá v poměru jednotlivých surovin. Omáčka se skládá ze směsi
 
-Je to směs česneku, vajec, citrónové šťávy nebo octa a olivového oleje, neboli to je česnekem ochucená majonéza. Jsou ale různé variace, z nichž nejčastější je přidání hořčice. Ve Francii se aioli tradičně podává s rybami a plody moře a zejména s rybími polévkami ku kterým se rovněž podávají krutóny.
+  * česneku,
+  * vajec,
+  * citrónové šťávy nebo octa a
+  * olivového oleje.
 
-Aioli se obyčejně podává při pokojové teplotě, ale mělo by být uchováváno v lednici. Tradičně se aioli dělalo v kameném hmoždíři, ale jakémkoliv moderním mixéru dosáhnete stejných výsledků.
+{class="example"}
+
+Tradičně se omáčka dělala v kamenném hmoždíři. Stejného výsledku ale dosáhnete za pomocí jakéhokoliv moderního mixéru.
+
+Aioli je vlastně česnekem ochucená majonéza. Existují ale její různé druhy, z nichž nejběžnější je varianta s hořčicí. Ve Francii se aioli podává tradičně s rybou a plody moře. Nejčastěji se s ní setkáte v kombinaci s rybí polévkou s krutony.
+
+{class="important"}
+
+Omáčka se podává při pokojové teplotě, ale měla by být uchována v lednici.
 

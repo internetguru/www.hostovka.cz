@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=262.html" data-og-image="/files/preview/clanky/thanksgiving/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=262.html" data-image="/files/preview/clanky/thanksgiving/general.jpg" data-type="article"}
 
 {id="thanksgiving" ctime="2007-12-13" author="Michael Klíma" short="Thanksgiving" authorid="hostovka/michael_klima"}
 
 # Thanksgiving
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="gastronomie"}
 

@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=111.html" data-og-image="files/preview/clanky/allspice/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=111.html" data-image="files/preview/clanky/allspice/general.jpg" data-type="article"}
 
 {id="nove_koreni" ctime="2005-11-18" mtime="2018-12-05" author="Michael Klíma" short="Nové koření"}
 
 # Historka o novém koření
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="kdo-kdy-kde, koření, historka"}
 

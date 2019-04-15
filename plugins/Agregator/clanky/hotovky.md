@@ -1,19 +1,19 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=154.html" data-og-image="/files/preview/clanky/hotovky/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=154.html" data-image="/files/preview/clanky/hotovky/general.jpg" data-type="article"}
 
 {id="hotovky\_a\_minutky" short="Hotovky a minutky" ctime="2006-06-08" mtime="2018-12-19" author="Michael Klíma"}
 
 # Hotovky a minutky v českých restauracích
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
 
 {kw="jídla a jídelní lístky, hotovky, minutky, obloha"}
 
 Hotovky jsou jídla připravovaná zpravidla ve větším množství a mnohdy relativně komplikovanými a zdlouhavými technikami. Ve většině případů je vaří někdo s alespoň základními znalostmi. Hotovky jsou také připravovány z potravin, které rychlými technikami nelze zpracovat.
 
-Některým lidem došlo, že označení jídel, na jejichž přípravu musíte čekat až půl hodiny, jako minutky, je neúnosné. Začali tedy používat označení _jídla na objednávku_. Podle mě se každé jídlo nebo nápoj musí objednat, ale budiž. Alespoň se tato jídla přeci jenom nějak liší od takzvaných hotovek.
+Některým lidem došlo, že označení jídel, na jejichž přípravu musíte čekat až půl hodiny, jako minutky, je neúnosné. Začali tedy používat označení _jídla na objednávku_. Podle mě se každé jídlo nebo nápoj musí objednat, ale budiž. Alespoň se tato jídla přece jenom nějak liší od takzvaných hotovek.
 
-Většině lidí to ale nevadí. Podle mé zásady „dejte lidem to, co chtějí“, se tedy budeme s typickými českými minutkami setkávat ještě hodně dlouho. Také jsem dlouho nevěděl, proč musí mít každá minutka na talíři takzvanou _oblohu_ a proč se minutky v Česku dávají na studené talíře.
+Většině lidí to ale nevadí. Podle mé zásady „dejte lidem to, co chtějí“ se tedy budeme s typickými českými minutkami setkávat ještě hodně dlouho. Také jsem dlouho nevěděl, proč musí mít každá minutka na talíři takzvanou _oblohu_ a proč se minutky v Česku dávají na studené talíře.
 
 {id="ceska_obloha"}
 
@@ -49,7 +49,7 @@ Jídlo podávané na studeném talíři je zcela bezcenné. Kuchař, který při
 
 V Americe, kde se věci někdy přehání, mají saláty až do posledního okamžiku v chladničce. Podávají je na vychlazených talířích a mnohdy vám k nim přinesou i vychlazenou vidličku. What a country!
 
-Se spokojeností hostů si v České republice některé restaurace moc starostí nedělají. V jedné pražské restauraci jsem si stěžoval na to, že mám jídlo na studeném talíři. Číšník, zřejmě spolumajitel, mi na to řekl: „Kde máme vzít peníze na režon (ohřívač talířů), tadle restaurace stála už dost peněz tak jako tak.“
+Se spokojeností hostů si v České republice některé restaurace moc starostí nedělají. V jedné pražské restauraci jsem si stěžoval na to, že mám jídlo na studeném talíři. Číšník, zřejmě spolumajitel, mi na to řekl: „Kde máme vzít peníze na režon, tadle restaurace stála už dost peněz tak jako tak.“
 
 Průzkumem jsem zjistil, že si kuchaři, takzvaní _minutkáři_, dělají přípravu všech surovin předem _(z francouzského mise-en-place)_. Součástí toho je i příprava ozdoby. Francouzští kuchaři mají na svém pracovišti připravené v miskách například vějířky okurek, osminky nebo plátky citrónu, osminky nebo plátky rajčat, lupeny salátu, sekanou cibuli, sekanou petrželku, černé a zelené olivy. Tím potom pokrmy zdobí.
 
@@ -85,7 +85,7 @@ Toto je jen velice stručný popis organizace při výdeji jídel. Dá vám ale 
 
 ## Úspěšný podnik nemusí vydávat hotovky ani minutky
 
-Nedávno jsem jednomu klientovi pomohl uskutečnit sen otevřít si vlastní restauraci. Podobný požadavek jsem již několikrát odmítl lidem, kteří mě hned z počátku upozornili na to, že sice všechno vědí, ale že by přeci jenom v něčem potřebovali poradit.
+Nedávno jsem jednomu klientovi pomohl uskutečnit sen otevřít si vlastní restauraci. Podobný požadavek jsem již několikrát odmítl lidem, kteří mě hned z počátku upozornili na to, že sice všechno vědí, ale že by přece jenom v něčem potřebovali poradit.
 
 Tento případ byl jiný v tom, že můj klient znal spoustu restaurací z pohledu hosta, ale dobře si uvědomoval, že o pohostinství jako takovém neví nic. Díky této upřímnosti jsem se ho ujal jako konzultant.
 

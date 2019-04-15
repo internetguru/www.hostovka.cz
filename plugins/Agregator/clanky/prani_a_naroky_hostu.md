@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=144.html" data-og-image="/files/preview/clanky/prani\_a\_naroky_hostu/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=144.html" data-image="/files/preview/clanky/prani\_a\_naroky_hostu/general.jpg" data-type="article"}
 
 {id="prani\_a\_naroky\_hostu" ctime="2006-03-31" author="Michael Klíma" short="Přání a nároky hostů" authorid="hostovka/michael\_klima"}
 
 # Přání a nároky sofistikovaných hostů
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="restaurace a servis"}
 

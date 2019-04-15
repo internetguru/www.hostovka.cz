@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=313.html" data-og-image="/files/preview/clanky/sizeni/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=313.html" data-image="/files/preview/clanky/sizeni/general.jpg" data-type="article"}
 
 {id="sizeni" ctime="2008-04-29" author="Michael Klíma" short="Šizení" authorid="hostovka/michael_klima"}
 
 # Šizení
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="o čem se mluví"}
 
@@ -33,7 +33,9 @@ Jeden ze základních nákladů je tak zvaný food cost (FC), což je anglický 
 
 ## Food cost
 
-1. Cena použitých potavin - k čemuž vám musím říci, že je velký rozdíl mezi cenou použitých potravin a jejich hodnotou. Říká se, že v pohostinství se peníze vydělávají již při nákupu, ale když ten restauratér neví co je to zbožíznalství a neumí nakupovat, tak samozřejmě tím jsou poškozeni i hosté.
+n/a
+
+  1. Cena použitých potavin - k čemuž vám musím říci, že je velký rozdíl mezi cenou použitých potravin a jejich hodnotou. Říká se, že v pohostinství se peníze vydělávají již při nákupu, ale když ten restauratér neví co je to zbožíznalství a neumí nakupovat, tak samozřejmě tím jsou poškozeni i hosté.
 
 2.Ztráty při přípravě surovin jsou nutné zlo, ale ty také nejsou vždy stejné. Ne všechny suroviny se nakupují RTC, neboli ready to cook, což česky znamená v takovém stavu ve kterém se dají rovnou použít.
 
@@ -65,7 +67,7 @@ K těmto základním nákladům si ale musíte přičíst náklady na kuchyňsk�
 
 {id="ambiance_"}
 
-## Ambiance 
+## Ambiance
 
 U některých Českých restaurací, bez znalosti podrobností, je mi jasné, že ty náklady na vybavení a na tu ambiánce budou splácet ještě vnoučata toho majitele. On vám to nikdo neřekne, ale přesto, že se někteří restauratéři snaží tyto náklady přenést na hosta, tak se jim to hned tak nepovede a někdy to ani nejde, a tak dříve nebo později to vede k jejich krachu.
 
