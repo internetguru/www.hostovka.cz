@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=110.html" data-og-image="files/preview/clanky/americka_kuchyne/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=110.html" data-image="files/preview/clanky/americka_kuchyne/general.jpg" data-type="article"}
 
 {id="americka\_kuchyne" ctime="2005-11-16" author="Michael Klíma" short="Americká kuchyně" authorid="hostovka/michael\_klima"}
 
 # Americká kuchyně
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="gastronomie"}
 
@@ -45,7 +45,7 @@ Vedle hotelu byla restaurace známého amerického řetězce Denny's. Tyto resta
 
 U vchodu nás uvítala hosteska, a zeptala se kde bychom chtěli sedět. My jsme žádnou preferenci neměli a tak nás usadila ku stolu pro 6 osob, podala nám jídelní lístky a řekla nám, že Margret se nás hned ujme.
 
-Servírka, která se objevila během několika okamžiků se s úsměvem na rtech se skutečně představila jako Margret ( což se v Česku ještě nedělá) a řekla že bude naší servírkou. 
+Servírka, která se objevila během několika okamžiků se s úsměvem na rtech se skutečně představila jako Margret ( což se v Česku ještě nedělá) a řekla že bude naší servírkou.
 
 To byl samozřejmě první okamžik kdy páni inženýři byli šokováni. Hosté se v takovém případě nepředstavují, ale já jsem se představil jako Mike a řekl jsem Margret, že moji partneři jsou Češi, z nichž někteří anglicky neumí a každého jsem představil jménem jako Franta, Karel, Jirka, Petr a Riša.
 

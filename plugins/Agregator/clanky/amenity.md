@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=112.html" data-og-image="files/preview/clanky/amenity/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=112.html" data-image="files/preview/clanky/amenity/general.jpg" data-type="article"}
 
 {id="doplnky" ctime="2005-11-18" mtime="2018-12-05" author="Michael Klíma" short="Doplňky"}
 
 # Doplňky zpříjemňující hostův pobyt
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="ubytování, vybavení, doplňky"}
 

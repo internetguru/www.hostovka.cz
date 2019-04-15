@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=308.html" data-og-image="/files/preview/clanky/salsa/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=308.html" data-image="/files/preview/clanky/salsa/general.jpg" data-type="article"}
 
 {id="salsa" ctime="2008-04-24" author="Michael Klíma" short="Salsa" authorid="hostovka/michael_klima"}
 
 # Salsa
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -13,13 +13,13 @@ V překladu salsa je mexická omáčka. Mexičané rozeznávají jen omáčky st
 
 Nemusí se totiž učit dělení omáček na bílé, hnědé, červené, teplé a studené, na olejové a máslové a nevím ještě jaké.
 
-Ale ono když se to tak vezme, tak salsa není vlastně ani omáčka v pravém slova smyslu, je to prostě salsa cruda která je více dip než omáčka. Další čím se salsy od omáček liší, je, že bez omáček se v mexické kuchyni obejdete, ale bez salsy ne. 
+Ale ono když se to tak vezme, tak salsa není vlastně ani omáčka v pravém slova smyslu, je to prostě salsa cruda která je více dip než omáčka. Další čím se salsy od omáček liší, je, že bez omáček se v mexické kuchyni obejdete, ale bez salsy ne.
 
 {id="co\_je\_salsa_cruda"}
 
 ## Co je salsa cruda?
 
-Crudo znamená ve španělštině syrové. V tomto případě ale vhodnější překlad je omáčky nevařené. 
+Crudo znamená ve španělštině syrové. V tomto případě ale vhodnější překlad je omáčky nevařené.
 
 Tyto salsy byly nedílnou součástí stravy již před-columbijského Mexika. Jejich důležitost v mexické kuchyni je viditelná již ze seznamu surovin používaných dodnes k jejich přípravě jako jsou napříkläd rajčata, cibule, chili papriky, česnek, avokáda, citrónová šťáva a pikantní koření.
 

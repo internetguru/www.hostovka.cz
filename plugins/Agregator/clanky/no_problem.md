@@ -1,17 +1,17 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=445.html" data-og-image="files/preview/clanky/no_problem/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=445.html" data-image="files/preview/clanky/no_problem/general.jpg" data-type="article"}
 
 {id="no\_problem" ctime="2009-06-16" author="Michael Klíma" short="No Problem" authorid="hostovka/michael\_klima"}
 
 # No Problem
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="případová studie"}
 
 V konceptu STEAKGRILL® nemáme problémy ale úkoly. Žádný úkol není nesplnitelný musíme však vědět jak na něj, neboli že musíme mít potřebný know how, potřebnou sebedůvěru a potřebný drive. Nemohu o sobě říci, že bych neměl sebedůvěru, ale přesto jsem kdysi viděl problémy tam kde žádné vlastně nebyly.
 
-Nicméně v Americe jsem se od jedné servírky jednoho dne naučil, že to co jsem viděl jako problém jsou vlastně chalenges, neboli úkoly. 
+Nicméně v Americe jsem se od jedné servírky jednoho dne naučil, že to co jsem viděl jako problém jsou vlastně chalenges, neboli úkoly.
 
 Jmenovala se Linda a přijal jsem ji jen proto, že na mně udělala dobrý dojem tím, že se stále usmívala.
 

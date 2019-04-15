@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=215.html" data-og-image="/files/preview/clanky/bakery/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=215.html" data-image="/files/preview/clanky/bakery/general.jpg" data-type="article"}
 
 {id="bakery" ctime="2007-02-06" author="Michael Klíma" short="Bakery" authorid="hostovka/michael_klima"}
 
 # Bakery
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="restaurace a servis"}
 
@@ -131,7 +131,7 @@ Zisk z prodeje lihovin je ale pětkrát až osmkrát vyšší než zisk z prodej
 
 Ne tak Chef Louis. Louis, jak již teď víme byl nejenom filosof, ale i eskamotér který si v každé situaci věděl rady, a který uměl každou překážku a nevýhodu obrátit ve výhodu.
 
-Vedle jeho restaurace byl obchod s lihovinami, který byl otevřený až pozdě do noci. Proto Louis místo drahých originálů vyvěsil na stěny restaurace upozornění tohoto znění: 
+Vedle jeho restaurace byl obchod s lihovinami, který byl otevřený až pozdě do noci. Proto Louis místo drahých originálů vyvěsil na stěny restaurace upozornění tohoto znění:
 
 "Nepodařilo se nám zatím získat licenci na prodej vína a lihovin, ale hned vedle naši restaurace je prodejna lihovin, která má tak bohatý výběr, že zcela určitě tam najdete Váš oblíbený drink a nebo víno. Nemusíte se ale obtěžovat sami s přinesením Vašich nápojů. Naši zaměstnanci Vám velmi ochotně vaše drinky donesou. Za otevření láhví a zapůjčení skleniček počítáme přibližně 15% z ceny Vašich nápojů".
 

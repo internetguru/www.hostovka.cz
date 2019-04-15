@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=290.html" data-og-image="/files/preview/clanky/gulas/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=290.html" data-image="/files/preview/clanky/gulas/general.jpg" data-type="article"}
 
 {id="gulas" ctime="2008-03-01" author="Michael Klíma" short="Guláš" authorid="hostovka/michael_klima"}
 
 # Guláš
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -51,7 +51,7 @@ Ve čtvrtek většinou ten guláš měl nejenom štych, ale byl již tak trochu 
 
 No, v pátek se ještě přidáním několika ostrých papriček dal udělat Mexický guláš, atd., ale já vám zase všechna má tajemství vyzradit nemohu a tak vám přesné receptury na ty zbývající dny nedám. Nicméně vidíte, že si můžete poradit.
 
-Musím se ale také přiznat, že v Americe jsem všechny ty "české" guláše také s úspěchem dělal, ale musel jsem každý z nich vařit denně čerstvý protože americké maso je tak kvalitní, že by se po druhém ohřátí ten guláš úplně rozpadl." 
+Musím se ale také přiznat, že v Americe jsem všechny ty "české" guláše také s úspěchem dělal, ale musel jsem každý z nich vařit denně čerstvý protože americké maso je tak kvalitní, že by se po druhém ohřátí ten guláš úplně rozpadl."
 
 Také na nějaký "glanz" což je ten tuk který se do guláše v Česku přidává, můžete zapomenot protože naopak každou kapku tuku které to maso pustí musíte z toho guláše sebrat. What a country!
 

@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=135.html" data-og-image="/files/preview/clanky/amuse_gueule/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=135.html" data-image="/files/preview/clanky/amuse_gueule/general.jpg" data-type="article"}
 
 {id="jednohubky" ctime="2006-02-05" mtime="2018-12-06" short="Jednohubky" author="Michael Klíma"}
 
 # Jednohubky pro pobavení huby
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="co-kdy-kde, jednohubka, předkrm"}
 

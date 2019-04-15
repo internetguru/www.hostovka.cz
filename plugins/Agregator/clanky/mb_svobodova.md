@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=344.html" data-og-image="/files/preview/clanky/mb_svobodova/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=344.html" data-image="/files/preview/clanky/mb_svobodova/general.jpg" data-type="article"}
 
 {id="mb\_svobodova" ctime="2008-07-01" author="Michael Klíma" short="M. B. Svobodová" authorid="hostovka/michael\_klima"}
 
 # M. B. Svobodová
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="gastronomie"}
 
@@ -19,13 +19,13 @@ Největší obavy mám, že teď po tom fiasku s tou Magdalenou Dobromilou Retti
 
 Pozor, je to dlouhé!
 
-Jaroměř 9./10. 1893 
+Jaroměř 9./10. 1893
 
 KUCHAŘSKÁ ŠKOLA
 
 s podtitulkem:?Důkladné navedení k samostatnému naučení se vaření".
 
-MARIE B. SVOBODOVÁ 
+MARIE B. SVOBODOVÁ
 
 Předmluva autorky
 
@@ -63,7 +63,7 @@ Přála bych sobě, aby dílo toto vyhovělo vytknutému účelu a bylo skutečn
 
 {id="marie\_b\_svobodova\_uvod\_autorky_"}
 
-## Marie B. Svobodová Úvod autorky 
+## Marie B. Svobodová Úvod autorky
 
 Přirozený pořádek a zdravý rozum nutně na nás vyžadují, abychom si nejprve opatřili, čeho nevyhnutelně potřebujeme; v druhé pak řadě starati se máme o to, co nám slouží k užitku, a konečně teprve poohlédnouti se můžeme po tom, co jest zábavné a krásné. Toto pravidlo mělo by býti vodítkem veškerého našeho jednání a konání. Než porovnáme-li nynější vychovávání dívek s tímto nezvratným pravidlem, shledáváme obyčejně pravý opak tohoto přirozeného pořádku. Ponejvíce příliš důkladný návod se jim podává pro zábavu, tak že skoro ani času se jim nedopřeje, aby se naučily tomu, čeho jedenkráte nevyhnutelně potřebovati budou, anebo co by jim k užitku sloužilo. Tak ku př. mnohá dívka učí se nyní s neobyčejnou horlivostí a pilností cizím řečem, malbě, hudbě, vyšívání anebo jiným pro život její málo neb zcela nepotřebným vědomostem. Bylo by to všecko dobře, neboť každé umění jest ctihodné, jen kdyby se šetřilo při tom svrchu udaného pořádku. Ale takto skoro pohrdavě zanedbávají se všecky praktické vědomosti v domácnosti potřebné, a nezřídka vyvine se z toho nechuť a odpor proti hospodaření vůbec, poněvadž dívky od nejprvnějšího mládí se k němu nevedou a budoucí jeho potřeba se jim nevysvětlí a nedokáže. Takto jednostranně ? tíeba že po módě ? vychované dívky hodí se sice výborně do společností, ale v praktickém životě, jako budoucí hospodyně, nebývají k potřebě.
 
@@ -143,7 +143,7 @@ Podotýkáme, že zasluhuje kniha tím většího rozšíření, an ji zaslouži
 
 Praha, 25/6 1893.
 
-L. Grossmannová-Brodská. 
+L. Grossmannová-Brodská.
 
 Vítám vždy s upřímnou radostí každý český spis, který má na zření výchovu dívčí a jímž se dotyčná literatura obohacuje. Předložené mi oddělení z ?Kuchařské školy" sepsané Marii B.Svobodovou, založeno jest na dobrém základu a také se již samo bez jakéhokoliv přičinění nejlépe doporučuje. Přeji, aby mnohoslibné dílo v brzku se zamluvilo všem českým dívkám, jimž jest věnováno, čímž by také účel jeho byl dosažen. Karlín, 26/6 1893.
 

@@ -1,5 +1,5 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=303.html" data-og-image="/files/preview/clanky/brownnosing/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=303.html" data-image="/files/preview/clanky/brownnosing/general.jpg" data-type="article"}
 
 {id="brownnosing" ctime="2008-03-31" author="Michael Klíma" short="Brownnosing" authorid="hostovka/michael_klima"}
 

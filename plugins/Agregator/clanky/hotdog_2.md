@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=228.html" data-og-image="/files/preview/clanky/hotdog_2/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=228.html" data-image="/files/preview/clanky/hotdog_2/general.jpg" data-type="article"}
 
 {id="hotdog\_2" ctime="2007-04-23" author="Michael Klíma" short="Hotdog 2" authorid="hostovka/michael\_klima"}
 
 # Hotdog 2
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="gastronomie"}
 
@@ -237,7 +237,7 @@ Zeptal jsem se ale, jakou má průměrnou denní tržbu. Načež mi řekl, že a
 
 Měl ten stánek otevřený od 11:00 do 22:00 hodin, nebo-li 11 hodin, což je hodin jako na kostele a v průměru prodal 55 párků za hodinu čímž vytvořil  _{var="374"}_,- hrubého zisku.
 
-Ten stánek měl zaplacený, zaměstnance žádné neměl, takže po úhradě všech ostatních nákladů, které nemohly být vyšší než  _{var="130"}_.- (asi 26% z tržby), mu teoreticky mohlo zbýt asi 244 dolarů ( _{var="374"}_ - 130=  _{var="244"}_).
+Ten stánek měl zaplacený, zaměstnance žádné neměl, takže po úhradě všech ostatních nákladů, které nemohly být vyšší než  _{var="130"}_.- (asi 26% z tržby), mu teoreticky mohlo zbýt asi 244 dolarů (  _{var="374"}_ - 130=  _{var="244"}_).
 
 Připočteme-li k provozní době 2 hodiny pro nákup a přípravu a 2 hodiny pro úklid a vyúčtování, což je 15 pracovních hodin, zjistíme, že jeho teoretická hodinová mzda mohla být kolem 16.26 dolarů (před zdaněním).
 

@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=205.html" data-og-image="/files/preview/clanky/dohotovovani\_jidel\_u_stolu/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=205.html" data-image="/files/preview/clanky/dohotovovani\_jidel\_u_stolu/general.jpg" data-type="article"}
 
 {id="dohotovovani\_jidel\_u\_stolu" ctime="2006-12-30" author="Michael Klíma" short="Dohotovování jídel u stolu" authorid="hostovka/michael\_klima"}
 
 # Dohotovování jídel u stolu
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="kuchyňské techniky"}
 
@@ -46,7 +46,6 @@ Tyto kotlíky jsou dnes již z nerezu, ale ty původní byly většinou měděn�
 Ve středu kotlíku, který má průměr asi 30 cm, je komínek s roštem, na který se dává žhavé dřevěné uhlí. Komínek tvoří zároveň podstavec kotlíku, v němž je otvor pro přívod vzduchu potřebného pro udržení ohně. Vaří-li se obsah kotlíku příliš zprudka, přikryjeme vrchní otvor komínku miskou naplněnou studenou vodou, tah komínku se tím přeruší a obsah kotlíku se po několika okamžicích přestane vařit. Kotlík se zakrývá snímatelnou pokličkou s kulatým otvorem uprostřed, kterým prochází komínek.
 
 Kotlík naplníme vývarem, zakryjeme pokličkou, a teprve pak naplníme spodní část komínku žhavým dřevěným uhlím a postavíme doprostřed kulatého stolu.
-
 
 Kolem kotlíku rozložíme mísy se všemi druhy masa a před každého stolovníka položíme misky s pikantními omáčkami.
 

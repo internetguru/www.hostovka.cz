@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=239.html" data-og-image="/files/preview/clanky/grilovani/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=239.html" data-image="/files/preview/clanky/grilovani/general.jpg" data-type="article"}
 
 {id="grilovani" ctime="2007-06-26" author="Michael Klíma" short="Grilování" authorid="hostovka/michael_klima"}
 
 # Grilování
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="kuchyňské techniky"}
 
@@ -17,13 +17,11 @@ Pro grilování vyberte co nejlibovější maso, případně tučné části je�
 
 Tlusté maso odborníci nedoporučují ani při přípravě v kuchyni, při grilování je však nízkotučná dieta ještě důležitější.Tuk, který odkapává na žhavé uhlíky, se totiž při teplotě vyšší než 400 stupňů Celsia rozkládá na polycyklické aromatické uhlovodíky. Tyto karcinogenní látky se pak s proudem horkého vzduchu přenášejí zpátky na grilované maso. Tvořit se mohou také karcinogenní heterocyklické aminy, které jsou součástí chutné šťávy vypékající se z masa.
 
-
 Pro grilování vyberte maso které je dostatečně prorostlé tukem, neboli mramorované.
 
 Pokud některé maso je příliš libové, jako například očištěná svíčková (denuded) tak ho eventuálně obalte slaninou, čemuž se anglicky říká barding.Ten tuk se vypeče a tomu masu to dá lepší chuť.
 
 Já vím, že v Česku se z toho asi žádná věda nedělá, ale v Americe tak zvaní "steak lovers" jsou prevíti kteří vědí co jim za jejich peníze patří? Někteří sice nemusí mít u steaků ten "palec" který nesmí být více než 3 inče dlouhý, ale všechen ten tuk by si z toho svého steaku opižlat nenechali.
-
 
 Prostě ten tuk tam patří a basta! No, a když ten palec nechcete tak si ty steaky (v Americe)objednejte bez palce.
 
@@ -50,7 +48,6 @@ Je to něco jako česnek bez zápachu nebo zápach bez česneku.
 Mimo to ale můžete ještě dnes dostat gril na lávové kameny, které když se to tak vezme jsou daleko zdravější a hlavně příhodnější, protože nemusíte nikam chodit pro to dřevěné uhlí a nemusíte vynášet popel.
 
 Poslední hit jsou ale plynové grily se zářiči které nepotřebují vůbec nic a které mají několik kontrolovatelných tepelných zón a které používá v Česku již koncept STEAKGRILL.
-
 
 Jinak pokud se týká potravin grilovaných po zabalení do folie nebo do jakéhokoliv obalu, hovoříme o metodě zvané "en papillote", kde ale pak nejde jíž o grilování v pravém slova smyslu, ale o "vaření v páře" která se v tomto obalu vytvoří.
 

@@ -1,5 +1,5 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=33.html" data-og-image="/files/preview/clanky/zrani/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=33.html" data-image="/files/preview/clanky/zrani/general.jpg" data-type="article"}
 
 {id="zrani" ctime="2008-07-03" author="Michael Klíma" short="Zrání" mtime="2019-03-12"}
 

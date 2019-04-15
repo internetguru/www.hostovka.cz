@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=171.html" data-og-image="/files/preview/clanky/tvorba_cen/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=171.html" data-image="/files/preview/clanky/tvorba_cen/general.jpg" data-type="article"}
 
 {id="tvorba_cen" ctime="2006-09-02" author="Michael Klíma" short="Tvorba cen" mtime="2019-02-27"}
 
 # Tvorba cen nápojů a jídel
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-06, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 

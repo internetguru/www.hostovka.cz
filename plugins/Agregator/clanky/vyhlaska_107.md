@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=204.html" data-og-image="/files/preview/clanky/vyhlaska_107/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=204.html" data-image="/files/preview/clanky/vyhlaska_107/general.jpg" data-type="article"}
 
-{id="vyhlaska\_107" ctime="2006-12-27" author="Michael Klíma" short="Vyhláška č. 107" mtime="2019-03-11"}
+{id="vyhlaska_107" ctime="2006-12-27" author="Michael Klíma" short="Vyhláška č. 107" mtime="2019-03-11"}
 
 # Hygienická vyhláška č. 107
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="gastronomie"}
 
@@ -34,3 +34,4 @@ To, že díky zmíněné vyhlášce z českých jídelníčků zmizela některá
 V některých lepších či populárních restauracích hosté sice předpokládají, že musí mít rezervaci někdy i den předem. Kdyby potom ale měli čekat více než 20 minut na stůl a potom dalších 20 až 30 minut na hlavní jídlo, tak by do takové restaurace již nikdy nevkročili.
 
  [1]: /convenience
+

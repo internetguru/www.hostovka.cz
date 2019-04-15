@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=343.html" data-og-image="/files/preview/clanky/ceska_gastronomie/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=343.html" data-image="/files/preview/clanky/ceska_gastronomie/general.jpg" data-type="article"}
 
 {id="ceska\_gastronomie" ctime="2008-07-01" author="Michael Klíma" short="Česká gastronomie" authorid="hostovka/michael\_klima"}
 
 # Česká gastronomie
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="gastronomie"}
 

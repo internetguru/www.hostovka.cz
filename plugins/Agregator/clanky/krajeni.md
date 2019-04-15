@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=355.html" data-og-image="/files/preview/clanky/krajeni/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=355.html" data-image="/files/preview/clanky/krajeni/general.jpg" data-type="article"}
 
 {id="krajeni" ctime="2008-07-22" author="Michael Klíma" short="Krájení" authorid="hostovka/michael_klima"}
 
 # Krájení
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="gastronomie"}
 
@@ -97,15 +97,15 @@ Tyto drobné kostičky používám většinou k úpravě různých ragú. Maso n
 
 ## Jemně sekané mo
 
-Jak bylo již řečeno, čínská kuchyně nepoužívá mlýnků na maso, Kde je v předpisech maso mleté, čínský kuchař by ho nasekal svým nožem. Maso nejdříve nakrájíme na plátky pchien (1) a potom je nožem velmi jemně nasekáme. Čínští kuchaři doporučují: "Máte-li dojem, že maso je již dosti jemně nasekané, sekejte ho ještě jednou tak dlouho". Pokud máme mlýnek na maso nebo mixer, samozřejmě nebudeme váhat ho použít. □ 
+Jak bylo již řečeno, čínská kuchyně nepoužívá mlýnků na maso, Kde je v předpisech maso mleté, čínský kuchař by ho nasekal svým nožem. Maso nejdříve nakrájíme na plátky pchien (1) a potom je nožem velmi jemně nasekáme. Čínští kuchaři doporučují: "Máte-li dojem, že maso je již dosti jemně nasekané, sekejte ho ještě jednou tak dlouho". Pokud máme mlýnek na maso nebo mixer, samozřejmě nebudeme váhat ho použít. □
 
 Já vím, že toto všechno o krájení potravin a hlavně o jednotlivých technikách včetně broušení nožů a jiného nářadí vám moc neříká.
 
 Není to totiž jen ve velikosti kousků, ale i v potřebném nářadí, zařízení, a technikách s tím souvisejících.
 
-Ono to také není jen o krájení surovin před přípravou, protože krájení má svoji důležitost při bourání masa, porcování ryb a syrové drůbže, a u krájení (karvrování) hotových mas, což je profese sama o sobě. 
+Ono to také není jen o krájení surovin před přípravou, protože krájení má svoji důležitost při bourání masa, porcování ryb a syrové drůbže, a u krájení (karvrování) hotových mas, což je profese sama o sobě.
 
-Proto mám již léta v troubě materiál pro knížku která se měla jmenovat KUCHYŇSKÉ TECHNIKY. 
+Proto mám již léta v troubě materiál pro knížku která se měla jmenovat KUCHYŇSKÉ TECHNIKY.
 
 Před nějakým časem jsem se ale zařekl, že žádnou knihu v Česku už publikovat nebudu a tak ta knížka světlo světa nejspíše nikdy neuvidí, nehledě k tomu, že dnes velkou většinu potravin dostanete již v tak zvané konvenientní formě.
 

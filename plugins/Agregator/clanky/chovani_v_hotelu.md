@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=122.html" data-og-image="/files/preview/clanky/chovani\_v\_hotelu/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=122.html" data-image="/files/preview/clanky/chovani\_v\_hotelu/general.jpg" data-type="article"}
 
 {id="chovani\_v\_hotelu" ctime="2005-12-04" author="Michael Klíma" short="Chování v hotelu" authorid="hostovka/michael_klima"}
 
 # Chování v hotelu
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="ubytování"}
 
@@ -37,7 +37,6 @@ Kdysi bylo zvykem dát tomu dveřníkovi spropitné, v tomto případě ?všimn�
 
 ## Bell Captain
 
-
 Pracovník který ve velkých hotelích je zodpovědný za bell staff má honosný titul Bell Captain. Je zodpovědný za přivítání hosta, za jeho uvedení k recepci, za přinesení jeho zavazadel do hotelové haly a za jejich odnesení do hostova pokoje a při hostově odjezdu je zodpovědný za přivezení hostových zavazadel do haly hotelu případně do hostova dopravního prostředku.
 
 Toto je v zásadě velice jednoduchá funkce ale její důležitost si uvědomíte když do nějakého hotelu přejdete se zájezdem 50 lidí a kdy u recepce stojí již lidé ze dvou nebo třech podobných zájezdů.
@@ -54,7 +53,6 @@ Proto ve velkých hotelích mají tak zvaný bell staff což zahrnuje všechny h
 
 V Česku jsem se v relativně velkém hotelu setkal s tím že ti nosiči zavazadel byli bez uniformy ale Bell boy, jako každý jiný zaměstnanec v každém dobrém hotelu má zpravidla uniformu a jmenovku většinou s jeho křestním jménem.
 
-
 Bell boy odnáší do hostova pokoje jeho zavazadla která uloží na zavazadlovou podložku "luggage rack" a seznámí hosta s jeho pokojem.
 
 Zpravidla hosta seznámí s ovládáním televise, případně telefonu, ukáže mu jak se zatahují žaluzie, jak se ovládá klimatizační zařízení, na přání přinese hostovi led, apod.
@@ -62,6 +60,4 @@ Zpravidla hosta seznámí s ovládáním televise, případně telefonu, ukáže
 Tento bell boy zpravidla očekává spropitné, což málo lidí ví, a ještě méně jich ví kolik by takové spropitné mělo být.
 
 Většinou se to řídí počtem zavazadel ale to není pravidlem. Spíše se to řídí místními zvyklostmi a typem hotelu, prostě "In Rome do as the Romans do".
-
- [1]: http://2017.hostovka.cz/soubor/4-12-05-3.jpg
 

@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=199.html" data-og-image="/files/preview/clanky/jak\_si\_vybrat\_z\_listku/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=199.html" data-image="/files/preview/clanky/jak\_si\_vybrat\_z\_listku/general.jpg" data-type="article"}
 
 {id="jak\_si\_vybrat\_z\_listku" ctime="2006-12-13" author="Michael Klíma" short="Jak si vybrat z lístku" authorid="hostovka/michael_klima"}
 
 # Jak si vybrat z lístku
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="gastronomie"}
 

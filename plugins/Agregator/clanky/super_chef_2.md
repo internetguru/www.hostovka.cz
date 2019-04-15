@@ -1,0 +1,35 @@
+
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=538.html" data-image="/files/preview/clanky/super\_chef\_2/general.jpg" data-type="article"}
+
+{id="super\_chef\_2" ctime="2010-10-06" author="Michael Klíma" short="Super chef 2" authorid="hostovka/michael_klima"}
+
+# Super chef 2
+
+{kw="gastronomie"}
+
+Dobrá chuť je bezesporu jednou podmínkou kuchaře a proto například na hotelové škole, na které jsem učil v Americe, jednou podmínkou přijetí byl také test chutí a vůní. Když některý uchazeč neuspěl při těchto zkouškách, tak mu bylo doporučeno, aby se více zaměřil na management, u kterého rozeznávání chutí a vůní je druhořadé a kde se klade důraz na manažerské schopnosti, které v té soutěži Na nože nemá ani náš nejvyšší kuchař Zdeněk Pohlreich.
+
+Předpokládat, že průměrný český kuchař, který v životě jehněčí svíčkovou nikdy neviděl, ji rozezná podle chuti je velice naivní představa, a to nemluvím o těch Amatérech, kteří se o titul super chef uchází. To samé platí o avocádu, u kterého je rozhodující nejenom o jaký druh avokáda se jedná, ale i o stupeň jeho zralosti. Zařazovat mezi ty testované potraviny něco co je nepoživatelné je při nejmenším neomalenost anebo snaha ty soutěžící zaskočit. To musel být nápad našeho nejvyššího kuchaře pana Pohlreicha který se s avocádem nejspíše prvně setkal v Austrálii.
+
+No, snaha odhadnout potraviny které byly použity k přípravě toho králíka, na černo byla velice trapná. Trapná byla i výhružka našeho největšího kuchaře že Míra bude do konce soutěže umývat nádobí. Co je špatného na zkušenosti kuchaře s mytím nádobí. Já jsem kariéru kuchaře v mých 17 letech začal ve Francii jako plongeur a do smrti na to budu pyšný. No, a sám náš velký Pohlreich po příchodu do Austrálie nemohl místo myče nádobí nalézt, protože na to zřejmě neměl.
+
+No, a ta zástěra imunity, pokud to řeknu mírně, je hovadina prvé třídy, jako nakonec všechny ty testy, které mají odhalit toho Super šéfa. Já se mohu pochlubit tím, že jsem v tom zatraceném pohostinství již více než 60 let s praxí téměř ve všech jeho odvětvích, včetně několika let zkušeností ve výuce a konsultinku, a to ne jenom v Česku, ale i v noze jiných zemí včetně Austrálie, Ameriky a země našich vzorů. Mohu se také pochlubit tím, že za ty roky jsem viděl nesmírné množství kuchařů a kuchařských soutěží, z nichž některých jsem se zúčastnil, ale tak dezorganizovanou a nesmyslnou soutěž jako je soutěž Na nože, která kuchařské umění degraduje na tu nenižší úroveň, jsem neviděl a doslova se stydí za to, že jsem také kuchař. Mě to připadá jako výplod nějakého chorého mozku. Jestli toto má pomoci zachránit úroveň toho upadajícího českého pohostinství, tak pěkně děkuji.
+
+Celá ta soutěž má za cíl vyzdvihnou ty chabé odborné znalosti našeho největšího samolibého šéfkuchař Zdeňka Pohlreicha, a všechny ty soutěžící představit jako úplné idioty, a to včetně těch kteří mají prokazatelně větší praktické zkušenosti než on sám.
+
+Co je to za blbost hodnotit kvalitu kuchaře (super šéfa) podle toho, jestli umí uvařit jídlo pro ty parchanty v pionýrském táboře. Co ti executive chefs ve světě, kteří sice umí zorganizovat jakoukoliv párty pro tisíce lidí, ale kteří vůbec nemají ahnung co to takový pionýrský tábor je.
+
+Takové zadání, ve kterém je stanoven finanční limit, aniž by bylo stanoveno pro kolik porcí a o jaké hmotnosti to má být, je rovněž výplod nějakého chorého mozku. To s ekonomikou přípravy jídel, což je první podmínka hromadného stravování, nemá vůbec co společného. No, a ta vybraná jídla, připravovaná pro ty parchanty bez jakýchkoliv receptů a kalkulací byla zřejmě ukázka toho, co teď všichni budoucí super šéfové budou v těch pionýrských táborech pro ty parchanty vařit.
+
+U toho by mě bývalo zajímalo, kolik byla hodnota odpadu a zbylých jídel. Viděl jsem v jednom pořadu Ano šéfe jak veliký Pohlreich vysvětluje výpočet food cost, a tak o jeho znalostech ekonomiky vím vše.
+
+No a ta porota, kritizovaná téměř všemi kritiky, je skutečně unikát. Je to výsměch všem soutěžím podobného typu. V tomto pořadu se nakonec ukázala být úplně zbytečná, protože se jim to úplně vymklo z rukou. Způsob jakým byl ten jeden tým vyhodnocen, byl trestuhodný, a už jenom proto, by celá ta show „Na nože“, měla být diskvalifikovaná pro degradací kuchařského umění na tu nejnižší úroveň.
+
+To víte, mezi kritiky se najdou i takoví, kteří se panem Pohlerichem, a hlavně jeho slovníkem a tak zvanými „hláškami“ ztotožňují. Zajímalo by mě ale, co tomu říkají všichni ti poctiví kuchaři (kteří nekradli jako on), kteří to kuchařské umění obhajuji při dobrovolné práci v týmech jako je například náš tým kuchařů olympioniků (z nichž ani jeden se do této soutěže nepřihlásil. Zajímalo by mě také, co tomu říkají odborné organizace jako je AHR ČR a AKC ČR. Těm takové pořady jako je „Na nože“ nevadí?
+
+A co všechny ty naše odborné školy. Neměly by ty pořady „Ano šéfe“ a „Na nože“ zařadit do svých programů. Neměli by ty školy svým studentům všechny ty slátaniny, které tomu našemu velkému šéfovi nejspíše napsala ta porotkyně a spisovatelka kuchařek paní Eva Filipová, uložit jako povinnou četbu?
+
+A co ten další porotce, náš největší gastronomický odborník pan Roman Vaněk. Neměl by na těch našich školách vyučovat a podílet se o své mnohaleté odborné zkušenosti.
+
+No takto bych mohl pokračovat do nekonečna, což mě ale již tak trochu unavuje a tak si ještě počkám na to, kdo vyhraje ten milion a titul Super šéf, protože ten se určitě bude o své odborné vědomosti podílet.
+

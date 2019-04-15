@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=134.html" data-og-image="/files/preview/clanky/rocky\_mountains\_oysters/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=134.html" data-image="/files/preview/clanky/rocky\_mountains\_oysters/general.jpg" data-type="article"}
 
 {id="rocky\_mountains\_oysters" ctime="2006-02-01" author="Michael Klíma" short="Rocky mountain oysters" authorid="hostovka/michael_klima"}
 
 # Rocky mountain oysters
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 

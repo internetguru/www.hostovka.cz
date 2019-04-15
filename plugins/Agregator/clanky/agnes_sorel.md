@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=30.html" data-og-image="/files/preview/clanky/agnes_sorel/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=30.html" data-image="/files/preview/clanky/agnes_sorel/general.jpg" data-type="article"}
 
 {id="agnes\_sorel" ctime="2005-07-03" author="Michael Klíma" short="Agnès Sorel" authorid="hostovka/michael\_klima"}
 
 # Agnès Sorel
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="restaurace a servis"}
 
@@ -17,7 +17,7 @@
 
 Od francouzského farce, je směs syrového nebo vařeného masa, ryb, drůbeže, plodů moře, zeleniny, případně jejich směsi smíchaná s pojivem, osolená a okořeněná. Používá se při výrobě paštik, náplní a pomazánek.
 
-Alemande (fr.) Francouzský výraz znamenající německý, ale také název jedné z velice populárních francouzských omáček. Když známý kuchař Antoine Carême vytvořil tuto lehkou krémovou omáčku, jejíž světlá barva mu připomínala bledé, blonďaté němce, tak tuto omáčku pojmenoval Alemande, neboli německá. 
+Alemande (fr.) Francouzský výraz znamenající německý, ale také název jedné z velice populárních francouzských omáček. Když známý kuchař Antoine Carême vytvořil tuto lehkou krémovou omáčku, jejíž světlá barva mu připomínala bledé, blonďaté němce, tak tuto omáčku pojmenoval Alemande, neboli německá.
 
 Toto ale bylo proti mysli mnoha tehdejších francouzských kuchařů kteří nemohli přežít, že nějaká omáčka má jiný původ než francouzský. Dokonce i král všech kuchařů a kuchař všech králů Escoffier se jednou pokusil změnit germánské jméno této již tak slavné omáčky na Sauce Blonde nebo Sauce Parisienne, ale její originální název přežil.
 

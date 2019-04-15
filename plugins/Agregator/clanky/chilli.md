@@ -1,45 +1,41 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=268.html" data-og-image="/files/preview/clanky/chilli/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=268.html" data-image="/files/preview/clanky/chilli/general.jpg" data-type="article"}
 
-{id="chilli" ctime="2008-01-08" author="Michael Klíma" short="Chilli" authorid="hostovka/michael_klima"}
+{id="chili" ctime="2008-01-08" author="Michael Klíma" short="Vítězné chili" mtime="2019-03-29"}
 
-# Chilli
+# Recept na vítězné chili
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
-{kw="jídla a jídelní lístky"}
+{kw="jídla a jídelní lístky, historka, recept, Amerika, Mexiko"}
 
-V roce 1988, jako každoročně, probíhala v Chicagu soutěž o nejlepší chili. Při podobných cookout v Americe nejde o nějaké medaile jako spíše o tu zábavu a zúčastnit se jich může kde kdo a ne jenom profesionální kuchaři. What a country!
+Jako každoročně, probíhala v roce 1988 v Chicagu soutěž o nejlepší chili. Při podobných akcích nejde v Americe o medaile, jako spíše o zábavu. Zúčastnit se jich může kdokoli, ne jenom profesionální kuchaři. What a country!
 
-Já jsem se té soutěže často zúčastňoval, ale ani ne tak proto abych demonstroval mé umění v přípravě chili jako spíše proto, že tam soutěžili i hezké holky.
+Osobně jsem se soutěže účastnil pravidelně. Ani ne tak proto, abych demonstroval svoje umění v přípravě chili, jako spíše proto, že tam soutěžili i hezké holky.
 
-Pracoval jsem v té době jako konzultant pro hotel Holiday Inn v Evanstonu, což je předměstí Chicaga.
+Pracoval jsem tehdy jako konzultant pro hotel Holiday Inn v Evanstonu, což je předměstí Chicaga. Neměl jsem v úmyslu se soutěže účastnit, protože je s tím také dosti práce a moc jsem tenkrát nestíhal. Chtěl se jí ale zúčastnit Gregory, což byl nový šéfkuchař hotelu.
 
-Neměl jsem v úmyslu se té soutěže zúčastnit, protože je s tím vždy také dosti práce, ale chtěl se ji zúčastnit Gregory, což byl šéfkuchař kterého jsme pro ten hotel zrovna přijali.
+Ukázal mi recept, se kterým chtěl do soutěže jít. Recept se mi nelíbil, ale zato se mi zalíbil on. Byl mladý, ani ne moc zkušený, zato měl odhodlání a chuť to někam dotáhnout (anglicky _drive_).
 
-Ukázal mi recept, se kterým chtěl do té soutěže jít kter‎ý se mi vůbec nelíbil, ale líbil se mi on.
+Poradil jsem mu tedy svůj tajný recept, který jsem získal v Mexiku. Po malé modifikaci jsem recept s úspěchem používal několik let. Aniž bych tomu sám věřil, řekl jsem mu, že vyhraje první cenu. Nebudete tomu asi věřit, ale co čert nechtěl, recept skutečně první cenu získal.
 
-Byl mladý, ani ne moc zkušený, ale měl něco čemu se v Americe říká "drive", to je chuť a odhodlání to někam dotáhnout a také něco čemuž se anglicky říká "guts" což se sice dá přeložit jako odvaha, ale ten jeho recept byl tak špatný, že to bylo něco čemu se v Americe říká "chucpa" neboli nepřestavitelná opovážlivost či drzost.
+Samozřejmě, že jsme chili hned přidali na jídelní lístek s názvem „vítězné chili“. Ukázalo se, že je skutečně vítězné, protože bylo okamžitě _bestseller_. Byl jsem pyšný jednak na kuchaře, ale i na moje chili. Nikdy jsem si nemyslel, že dosáhne na takové ocenění.
 
-V Mexiku mi říkají Miguel Klima, ale když jsem si pak nechal narůst plnovous,tak mi říkali Pancho Villa
+{class="important"}
 
-Gregory, jak jsem řekl, mi ale byl sympatický a tak jsem mu dal můj tajný recept, který jsem já získal v Mexiku od jednoho mého mexického kolegy a který jsem po malé modifikaci již po několik let s úspěchem používal.
+Příprava je trochu zdlouhavější než u běžných receptů, ale myslím si, že za tu námahu to stojí.
 
-Myslel jsem to spíše z legrace, aniž bych tomu sám věřil, když jsem Gregorymu řekl, že tento recept vyhraje první cenu a nebudete tomu ale asi věřit ani vy, ale co čert nechtěl, on ten recept skutečně tu první cenu získal.
+## Recept na vítězné chili
 
-Samozřejmě, že moje čili jsme hned přidali na hotelové menu s titulkem "Vítězné chili".
+Tajemství mého chili je v tučnosti masa, v technice přípravy, a hlavně ve správném poměru potravin a dávce koření. Nesmíte to brát na lehkou váhu, protože v Americe lidi chili rozumí a rozeznají, které je dobré a které ne.
 
-Toto čili se ukázalo být skutečně vítězné protože bylo okamžitě "bestseller" a já byl pyšný jednak na toho mladého kuchaře, ale i na moje čili o kterém jsem si nikdy nemyslel, že dojde takového ocenění.
+{class="important"}
 
-nikdy nemyslel, že dojde takového ocenění.
+Tučnost mletého hovězího masa je v Americe přísně sledovaná. Například maso do hamburgerů nesmí mít většinou větší tučnost než 20 %. To je důvod, proč některé chili nemá „pravou mexickou chuť“. Proto se k jeho přípravě používá i vepřové maso a sádlo.
 
-Příprava je trochu zdlouhavější než běžně uváděné recepty, ale myslím si, že to stojí za tu námahu.
+### Suroviny
 
-{id="vitezne_chili"}
-
-## Vítězné chili
-
-Tento recept je na 20 litrů, tudíž v česk‎ých podmínkách nemá velké využití, ale dá vám to alepoň představu o poměrech některých potravin, což je jedním tajemstvím.
+Recept je na 20 litrů chili. Doma tak velkou porci asi vařit nebudete, ale získáte alespoň dobrou představu o poměru surovin.
 
 Sádlo
 :   500 g
@@ -47,10 +43,10 @@ Sádlo
 Drobně krájená cibule
 :   2000 g
 
-Hrubě mletá libová vepřová plec b.k.
+Hrubě mletá libová vepřová plec
 :   5000 g
 
-Hrubě mleté libové hovězí přední b.k.
+Hrubě mleté libové hovězí přední
 :   10000 g
 
 Drcený česnek
@@ -61,6 +57,8 @@ Chili prášek
 
 Paprika
 :   30 g
+
+<!-- sep -->
 
 Mletý kmín
 :   5 g
@@ -83,61 +81,31 @@ Drobně krájené jalapeño papričky
 Sůl
 :   dle chuti
 
-Tajemství mého chili tudíž je v tučnosti masa, v technice přípravy, a hlavně ve správném poměru potravin a dávce koření což nesmíte brát na lehkou váhu, protože v Americe lidi těm chili rozumí a rozeznají které je dobré a které ne.
-
-{id="tucnost_masa"}
-
-### Tučnost masa
-
-Tučnost mletého hovězího masa je v Americe dosti přísně sledovaná. Pro většinu hamburgrů například maso nesmí mít větší tučnost než 20%, a to je proč některé chili nemá tu pravou "mexickou" chuť pokud se k jeno přípravě nepoužije i vepřové maso a to je také proč by se to chili mělo dělat na sádle.
-
-{id="technika_pripravy"}
-
 ### Technika přípravy
 
-V silnostěnném kastrolu osmahneme na horkém sádle cibuli do zlatova.
+V receptu je specifikováno libové maso, ale s tučností masa si moc hlavu nelamte. Tuk obsažený v mase a sádlo, na kterém maso restujeme, dá vašemu chili unikátní chuť.
 
-Dříve než ta cibule stačí příliš zhnědnout (ztmavne ještě s masem), přidáme vepřové maso a restujeme ho až zhnědne a pustí většinu tuku.
+ 1. V silnostěnném kastrolu osmahneme na horkém sádle dozlatova cibuli.
+ 2. Dříve než cibule stačí příliš zhnědnout, tak přidáme vepřové maso a restujeme ho, než zhnědne a pustí většinu tuku.
+ 3. V tom okamžiku přidáme hovězí maso a všechno koření.
+ 4. Vše dobře smícháme a restujeme, než všechno maso opět zhnědne.
+ 5. Jakmile maso zešedne, scedíme z masa všechen přebytečný tuk a mimo fazolí přidáme všechny ostatní suroviny.
 
-V tom okamžiku přidáme hovězí maso a všechno koření. Vše dobře smícháme s vepřovým masem a restujeme až všechno maso opět zhnědne.
+{class="important"}
 
-V receptu je specifikováno libové maso, ale s tučností masa si nelamte moc hlavu protože v mase obsažený tuk a sádlo na kterém maso restujeme dá vašemu chili právě tu unikátní chuť.
+V Mexiku takové chili vaří na mírném ohni hodiny a hodiny, někdy i celý den. To si sice nemůžeme dovolit, ale při občasném míchání vaříme chili na mírném ohni alespoň 2 hodiny.
 
-Jakmile maso zešedne scedíme z masa všechen přebytečný tuk a přidáme všechny ostatní suroviny mimo fazolí.
+V Mexiku se chili, které je s masem říká _chili con carne_ (chili s masem). Musíte to ale brát s rezervou. Maso bylo v Mexiku vždy relativně drahé, obzvláště hovězí. Masa tedy v pravém mexickém chili nikdy moc nebylo.
 
-{id="ted\_ale\_prijde\_prvni\_mexicke_tajemstvi"}
+## Chili v konceptu Steakgrill
 
-### Teď ale přijde první mexické tajemství
+Na jídelním lístku konceptu [Steakgrill][1] nazýváme chili jako _texaské_. Texaské proto, že v Texasu je maso v zásadě levné, a tak se tam s ním moc nešetří.
 
-V Mexiku takové chili mají na mírném ohni hodiny a hodiny, někdy i po cel‎ den, což si sice nemůžeme dovolit, ale při občasném zamíhání vaříme to chili na mírném ohni alespoň 2 hodiny.
+{class="example"}
 
-{id="druhe\_mexicke\_tajemstvi"}
+Držíme se standardních podnikových receptů a žádný kuchař nesmí množství masa v chili svévolně měnit.
 
-### Druhé mexické tajemství
+Naše chili je také natolik syté, že se může podávat jako malé hlavní jídlo. Jak jsem se ale již několikrát zmínil, tak jedno přikázání mého náboženství je „nikomu nevěř“. Takže až pojedete kolem Roudnice, tak se v restauraci zastavte, abyste viděli že nekecám.
 
-V Mexiku se chili které je s masem říká CHILI CON CARNE, neboli chili s masem, což ale musíte brát s reservou.
-
-Maso totiž bylo v Mexiku vždy relativně drahé, obzvláště maso hovězí, a tak toho masa v pravém mexickém chili nikdy moc nebylo, ale to vlastně dělá to chili mexickým chili.
-
-{id="treti\_mexicke\_tajemstvi"}
-
-### Třetí mexické tajemství
-
-Nevím proč, ale většina těch gringos si myslí, že všechna mexická jídla musí být ostrá.
-
-Je sice pravda, že chili je kořeněné více než většina jídel, a že musí být "hot", neboli ostré, což také znamená "horké" ale s tou ostrostí tak horké není.
-
-{id="chili\_v\_konceptu_steakgril"}
-
-## Chili v konceptu STEAKGRIL
-
-Na jídellním lístku konceptu STEAKGRILL nazýváme to chili TEXASKÉ CHILI a říkáme, že je to americká specialita a sice proto, že v Texasu je maso v zásadě laciné a tak se tam s ním moc nešetří a proto mu říkáme Texaské.
-
-Pokud se ale týká množství masa v našem receptu, tak jak víte se musíme držet standardních podnikových receptů a tudíž žádný kuchař nesmí množství masa v tom chili svévolně měnit.
-
-Také si povšimnete, že to chili na našem jídelním lístku uvádíme mezi polévkami a že ho podáváme v misce.
-
-Naše chili je totiž také natolik syté, že se může podávat jako malé hlavní jídlo.
-
-Jak jsem se ale již několikrát zmínil, tak jedno přikázání mého náboženství je NIKOMU NEVĚŘ, neboli že nesmíte věřit všemu co vám kdo nakuká a tak prostě až pojedete kolem Roudnice, tak se v té restauraci zastavte abyste viděli že já ale nekecám.
+ [1]: https://www.steakgrill.cz
 

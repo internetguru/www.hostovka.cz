@@ -1,9 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=254.html" data-og-image="/files/preview/clanky/vdolky/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=254.html" data-image="/files/preview/clanky/vdolky/general.jpg" data-type="article"}
 
 {id="vdolky" ctime="2007-09-30" author="Michael Klíma" short="Vdolky" mtime="2019-03-11"}
 
 # Vdolky u nás a v Americe
+
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="jídla a jídelní lístky, recept, historka"}
 
