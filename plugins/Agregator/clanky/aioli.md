@@ -1,5 +1,5 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=396.html" data-og-image="/files/preview/clanky/aioli/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=396.html" data-image="/files/preview/clanky/aioli/general.jpg" data-type="article"}
 
 {id="aioli" ctime="2009-04-13" author="Michael Klíma" short="Italská omáčka aioli" mtime="2019-03-28"}
 
