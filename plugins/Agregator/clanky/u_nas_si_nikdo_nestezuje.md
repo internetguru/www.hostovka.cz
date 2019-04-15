@@ -1,0 +1,43 @@
+
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=566.html" data-image="/files/preview/clanky/u\_nas\_si\_nikdo\_nestezuje/general.jpg" data-type="article"}
+
+{id="u\_nas\_si\_nikdo\_nestezuje" ctime="2011-07-23" author="Michael Klíma" short="U nás si nikdo nestěžuje" authorid="hostovka/michael_klima"}
+
+# U nás si nikdo nestěžuje
+
+{kw="o čem se mluví"}
+
+Já vím, že v Česku si nikdo nestěžuje, protože Češi byli socializmem vycvičeni již předem se vším souhlasit. Já jsem sice také Čech, ale protože jsem nesouhlasil, tak teď za trest žiji v Americe. Jsem tudíž Americkým občanem a zkažený Amerikou natolik, že si stěžuji, pokud k tomu mám důvod, a to na všechno, kdykoliv, a kdekoliv, ale zatím jsem si nikdy nestěžoval v Česku, kde v poslední době, opět jako český občan, přechodně žiji.
+
+Za prvé si nestěžuji proto, že ve většině případů, když jsem si v Česku stěžoval, tak mi bylo řečeno, že nikdo jiný si nestěžuje, tudíž za škůdce českého pohostinství jsem vlastně byl označen já.
+
+Za druhé si nestěžuji proto, že nechci rozšířit řady těch rádoby profesionálních kritiků, kteří po návštěvě několika restaurací v zahraničí si sice stěžují, ale nikdy nejsou schopni říci, jak by se to dalo dělat lépe.
+
+Za třetí si nestěžuji proto, že se považuji za odborníka v pohostinství, který sice ví kde je zakopaný ten pes, ale nemohu říci jak to dělat lépe, protože jsem certifikovaným profesionálním konzultantem v oboru pohostinství a cestovního ruchu, tudíž nemohu mé rady dávat zadarmo, protože bych velmi brzo přišel na mizinu.Nicméně podvědomě cítím povinnost si stěžovat, protože ta špatná úroveň českého pohostinství je právě díky tomu, že si téměř nikdo nestěžuje, a proto jsem se rozhodl, že budu mé kritiky publikovat a to adresně.
+
+V pátek 22.7.2011, jsem byl v CAFE SAVOY, Ambiente Restaurant Group, Zborovská 68-24 Praha 5 Malá Strana, Telefon 257 311 561, savoy@ambi.cz
+
+číslo účtu: 633899, stůl č. 19
+
+V této restauraci nepředpokládají, že by se někdo odvážil si stěžovat, ale u schodiště k toaletám mají na zdi dotazník, zda se vám u nich líbilo, na kterém vás žádají, abyste vyplnili úroveň jídla, obsluhy a atmosféry. Také své hosty žádají, aby připsali své nápady a připomínky. Za odměnu váš komentář zařadí do slosování, a že výsledky losování najdete na najdete na ww.ambi.cz, v sekci „Vaše názory“. Pokud se tam skutečně podíváte, tak se dovíte, že máte možnost vyhrát dvě poukázky na jídlo a pití v hodnotě 100,- Kč., a Vaše jméno, pokud jste výhercem, na těch stránkách uveřejní. (Jaká čest!)
+
+Byl jsem v CAFE SAVOY již několikrát a i když těch cizinců je dnes stále méně a méně, tak se dá říci, že tvoří stále tu větší skupinu jejich hostů. Jestli si vedení Ambiente myslí, že některý sofistikovaný host cizinec by se nějakým takovým hodnocením zabýval, tak podle mě jsou velice naivní. No, a pokud se té české klientely týká, tak někteří by se nejspíše angažovali, ale jenom pro těch 200,- Kč, ale jinak, who cares!
+
+Ve zmíněném dotazníku podle mě schází jedna velice důležitá otázka: „Myslíte si, že jste za své peníze dostali to, co Vám patří“?
+
+Pokud by tam taková otázka byla, tak já bych musel napsat, že ne. Cappuccino za 65,00 Kč a Espresso, kterému říkají velké Danesi za 55,00, jakž takž odpovídá pražskému standardu a té ambiánci, která nemá chybu, ale pečivo, 28,00 Kč, což byl poněkud okoralý černý chléb a stejně okoralé krajíčky bílé veky, které by jinde ve světě v podniku této cenové skupiny bylo podávané teplé v ubrousku, bylo v poněkud otlučené nerezové misce, té ambiánci neodpovídá.
+
+Bylo asi 9:45 a byli jsme již po snídani; na oběd bylo ještě brzo, a tak jsme si chtěli objednat jen polévku, ale bylo nám řečeno, že až do 11:00 podávají jen snídaně. Na tom by nebylo nic špatného, protože to dělá i Mekáč, ale měli by to mít na jejich jídelních lístcích napsané. Nicméně naše servírka se nabídla, že se zeptá v kuchyni, jestli by nám polévku neudělali.
+
+No, asi by bývalo lepší, kdyby nám to polévku nedávali, protože ta polévka byla spíše „Zum abgewöhnen“. V takových oversized humpuláckých studených, polévkových talířích, nám přinesli lžící tenkých studených, nejspíše komerčně vyráběných tenkých nudlí, na které takovým tím archaickým podáváním polévek, z polévkových hrnků nám na ty nudle nalili jakýsi ne příliš horký vývar s velikým množstvím na kostičky krájené mrkve a s pěti, nejspíše játrovými knedlíčky. Na lístku to inzerují jako slepičí polévku za 125,00 Kč, což je tedy nehorázná chucpa. Se slepicí to nemělo co společného a dokonce si myslím, že kdyby do horkého kohoutího vývaru z dvoucoulového kohoutku přidali trochu maggi, by asi udělali lépe. Food cost jedné té polévky, podle mého odhadu, by mohl být nevýše 5,00 Kč, a i když zřejmě díky nějakému mistru kuchaři labor cost byl dejme tomu 20,00 Kč tak ta marže 100,00 je tak trochu nad mezinárodní standard.
+
+To vše bych jim ale odpustil, ale rozhodně jim nemohu odpustit úroveň jejich služeb.
+
+Při placení účtu, tak jako se to dělá v lepších restauracích, nám „paní vrchní“ předložila na tácku v Ambiente obálce s jakousi nepovedenou fotografií a odvážným: „JINDE UŽ SI NEPCHUTNÁTE“, a pokladní blok, což dejme tomu je také v pořádku . Co ale nebylo už tak v pořádku, že ta paní vrchní s kasírtaškou v ruce, nahlas a tak aby to slyšela nejenom moje partnerka, ale i všichni hosté u vedlejších stolů, ohlásila tu sumu 398,00 Kč.
+
+No, kdysi na učňovských školách se způsob vyúčtování s hostem učil již v prvních hodinách, což se ale asi již neučí, nicméně to není omluva. Porušil jsem tudíž moji zásadu nikomu neradit a řekl jsem té paní vrchní, že je to hrubé faux pas, ale se zlou jsme se potázal, protože ona si nejspíše myslela, že faux pas spíše bylo, že jsem se ji opovážil něco takového říci.
+
+Já vím, že bych s tou Amerikou neměl již unavovat, a že mi to stejně nikdo nevěří, ale v Americe, v některých privátních klubech ceny na jídelních listcích vůbec nemají, protože říkají, že když se musíte ptát na cenu, že si to nejspíše stejně nemůžete dovolit. Ale i v některých „nóbl“ restauracích jídelní lístek s cenami dostane jen hostitel, a jeho hosté mají lístky bez cen, aby se nemuseli žinýrovat si vybrat jídlo podle své chuti. Nemějte ale obavy, v Česku něco takového hned tak nebude.
+
+Pan Karpíšek , zakladatel Ambiente teď otevřel českou restauraci v Novém Yorku, kde určitě bude propagivat ty Czsch specials, ale jen doufám, že nebude propagovat ty české služby a že tam bude mít místní americké nevyučené servírky a číšníky protože s těmi českými by si dobrou reputaci asi neudělal.
+
