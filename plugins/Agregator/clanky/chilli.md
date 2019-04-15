@@ -1,5 +1,5 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=268.html" data-og-image="/files/preview/clanky/chilli/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=268.html" data-image="/files/preview/clanky/chilli/general.jpg" data-type="article"}
 
 {id="chili" ctime="2008-01-08" author="Michael Klíma" short="Vítězné chili" mtime="2019-03-29"}
 
