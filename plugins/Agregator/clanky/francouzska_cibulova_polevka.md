@@ -5,6 +5,8 @@
 
 # Francouzská cibulová polévka
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="o čem se mluví"}
 
 Francouzská cibulová polévka (Soupe à l'oignon) je jedna z nejstarších, nejlepších a nejjednodušších francouzských polévek, ale nevěřili byste tomu, jak tuto vynikající polévku dokáží čeští kuchaři ještě více zjednodušit a vylepšit.

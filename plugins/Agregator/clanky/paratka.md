@@ -5,6 +5,8 @@
 
 # Párátka
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="etika"}
 
 Německy Zahnstocher, anglicky toothpick, napovídá že je to něco čím by se člověk měl šťourat v zubech a proto by se tomu mělo říkat šťourátko, také už proto, že se tím někteří lidé "nepářou" a v těch zubech se šťourají bez ostychu u stolu před zraky ostatních stolovníků.

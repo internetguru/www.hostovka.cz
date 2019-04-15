@@ -5,6 +5,8 @@
 
 # Business Lunchces
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="restaurace a servis"}
 
 Je to vlastně článek, který jsem někde v Česku napsal před několika lety, ale v Česku se věci tak rychle nemění a tak možná že je stále ještě aktuální.

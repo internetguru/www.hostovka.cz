@@ -5,6 +5,8 @@
 
 # Krádeže
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="o čem se mluví"}
 
 Nejvíce v EU kradou Češi, DNES Sobota 11. září 2010. What a BS! Téměř autentický článek pod názvem Češi kradou v obchodech nejvíc z Evropy vyšel již 11. 10. 2006, AUTOR: (čtk, eko)

@@ -5,6 +5,8 @@
 
 # Ty jsi pro mě vlastně nic neudělal
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="konzulting"}
 
 Měl jsem takový případ, kdy jedna paní se se mnou přišla poradit o koupi restaurace, která byla na prodej asi za  _{var="50"}_.000, což tehdy byly relativně velké peníze.

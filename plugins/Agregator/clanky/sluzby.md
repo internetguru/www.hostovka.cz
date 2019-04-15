@@ -5,6 +5,8 @@
 
 # Služby
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="pohostinství"}
 
 Museli byste mně přesvědčit o tom, že se mýlím, ale dovoluji si tvrdit, že v České republice služby, až na nějaké výjimky, téměř neexistují.

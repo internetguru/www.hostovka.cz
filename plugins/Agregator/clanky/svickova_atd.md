@@ -5,6 +5,8 @@
 
 # Svíčková atd.
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="pohostinství"}
 
 Toto je článek který jsem napsal již asi před 10-15 lety, a tak jsem ho jen trochu oprášil a upravil aby byl zase aktuální.

@@ -5,6 +5,8 @@
 
 # Pochoutky s ocasem
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="o čem se mluví"}
 
 HN. IHNED. CZ, 22.1.2019, Autor článku Petra Pospěchová, autor receptu šéfkuchař Titus Eliáš 

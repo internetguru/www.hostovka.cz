@@ -5,6 +5,8 @@
 
 # Současný stav českého pohostinství
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="pohostinství"}
 
 Přikládám kopii e-mailu od Jirky Feřtka, jednoho mého spolužáka na hotelové škole v Mariánských Lázních v roce 1949, kdy české pohostinství bylo ještě pohostinstvím. To si počtete.

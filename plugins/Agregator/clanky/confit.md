@@ -5,6 +5,8 @@
 
 # Confit
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="gastronomie"}
 
 Já osobně nic nemám proti cizím názvům jídel, nebo cizím názvům kuchařských technik, ba naopak, ale pokud v některém mém textu použiji výraz o kterém si myslím, že není obecně známý, tak ho zpravidla popíši.

@@ -5,6 +5,8 @@
 
 # Psychlogie chutí a co jí lidé v zahraničí
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="etnické kuchyně, chutě, historka, případová studie, psychologie"}
 
 Jídlo (strava) je z velké míry otázkou návyku a tradic založených na surovinových možnostech a na technické vyspělosti daného národa či etnické skupiny. Jídlo dříve nemělo vůbec nic společného s chutěmi a preferencemi. Ty přišly až později a začaly být omezovány a regulovány náboženskými přikázáními či zdravotními předpisy.

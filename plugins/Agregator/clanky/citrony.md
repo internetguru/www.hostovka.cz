@@ -5,6 +5,8 @@
 
 # Citróny
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="zbožíznalství"}
 
 Citrón, italsky _limone_, anglicky _lemon_, německy _zitrone_, je dnes používaný po celém světě. Jak k přípravě jídel a nápojů, tak i k jejich ozdobě.

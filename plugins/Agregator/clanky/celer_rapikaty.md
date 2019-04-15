@@ -5,6 +5,8 @@
 
 # Jak vybrat a podávat řapíkatý celer
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="zbožíznalství, recept, zelenina"}
 
 Řapíkatý celer _(Apium graveolens dulce)_ anglicky zvaný _celery_, byl v Evropě až do 16 století, znám pouze jako lékařská rostlina. V Česku byl řapíkatý celer znám až od Sametové revoluce.

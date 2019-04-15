@@ -5,6 +5,8 @@
 
 # Balsamický ocet
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="co-kdy-kde"}
 
 Balsamický ocet se dnes díky kreativitě kuchařů a díky tomu, že jeden kopíruje od druhého stal nezbytným nejenom v Itálii nebo v italských restauracích, ale i v jiných dražších restauracích po celém světě, ale Italové vychutnávají balsamický ocet již po staletí.

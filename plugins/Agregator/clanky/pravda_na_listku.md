@@ -5,6 +5,8 @@
 
 # Pravda na jídelním lístku
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="jídla a jídelní lístky"}
 
 Psychologie prodeje má hodně co společného s pravdou na jídelním lístku. ČS. Zákon č. 140/1995 Sb. přesně definuje povinnost podnikatelů při informování spotřebitele při značení jejich výrobků. V § 9 je zároveň stanovena povinnost řádně spotřebitele informovat o vlastnostech výrobků, tedy jejich složení.

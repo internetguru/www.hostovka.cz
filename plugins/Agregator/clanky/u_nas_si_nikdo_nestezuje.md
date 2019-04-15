@@ -5,6 +5,8 @@
 
 # U nás si nikdo nestěžuje
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="o čem se mluví"}
 
 Já vím, že v Česku si nikdo nestěžuje, protože Češi byli socializmem vycvičeni již předem se vším souhlasit. Já jsem sice také Čech, ale protože jsem nesouhlasil, tak teď za trest žiji v Americe. Jsem tudíž Americkým občanem a zkažený Amerikou natolik, že si stěžuji, pokud k tomu mám důvod, a to na všechno, kdykoliv, a kdekoliv, ale zatím jsem si nikdy nestěžoval v Česku, kde v poslední době, opět jako český občan, přechodně žiji.

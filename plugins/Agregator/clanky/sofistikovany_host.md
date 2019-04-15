@@ -5,6 +5,8 @@
 
 # Jak se stát sofistikovaným hostem
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="o čem se mluví"}
 
 Sofistikovanost má několik významů a my se zde budeme zabývat sofisitkovaností v pohostinství.

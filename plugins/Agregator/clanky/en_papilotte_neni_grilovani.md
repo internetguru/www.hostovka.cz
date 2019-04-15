@@ -5,6 +5,8 @@
 
 # En papilotte není grilování
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="kuchyňské techniky"}
 
 V příloze OnaDnes ze dne 15.6. 2009 je speciální článek o grilování pod názvem Masová zábava od Dany Obermajerové.

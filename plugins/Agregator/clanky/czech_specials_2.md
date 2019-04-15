@@ -5,6 +5,8 @@
 
 # Czech Specials 2
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="jídla a jídelní lístky"}
 
 Vážený pane Šťovíčku, děkuji za váš příspěvek. Nevím ale, jestli si uvědomujete, že jste tím Vašim příspěvkem píchl do vosího hnízda, nicméně tím, že se o tom hovoří na těchto stránkách se to dostane do podvědomí té větší skupiny která se na pohostinství podílí a to jsou hosté.

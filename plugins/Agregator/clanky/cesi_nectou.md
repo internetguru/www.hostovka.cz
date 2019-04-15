@@ -5,6 +5,8 @@
 
 # Češi nečtou
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="pohostinství"}
 
 To není z mé hlavy, ale musím s tím souhlasit, protože pokud se týká pohostinství jsem se o tom již několikrát přesvědčil.

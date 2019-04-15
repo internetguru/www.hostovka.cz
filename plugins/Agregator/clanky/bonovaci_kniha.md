@@ -5,6 +5,8 @@
 
 # Bonovací kniha
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="pohostinství"}
 
 Nejsem příliš zběhlý v historii účetnictví, ale vím, že je staré více než 5.000 let a také vím, že účetnictví, pokud se to řekne velice jednoduše, je evidence toho co komu patří.

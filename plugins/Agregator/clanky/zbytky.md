@@ -5,6 +5,8 @@
 
 # Zbytky
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="pohostinství"}
 
 Vytvořit v pohostinství 10% čistého zisku, je sakramentsky tvrdý oříšek. Skončit se ztrátou 10% a více, je velice jednoduché. Když uvaříte 10 porcí nějaké hotovky a prodáte jich jen 9, tak vám vznikne nenahraditelná ztráta 10%, která, když se opakuje několikrát, vás může přivézt k bankrotu, dříve než se nadějete.

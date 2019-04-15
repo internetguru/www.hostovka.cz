@@ -5,6 +5,8 @@
 
 # Eighty six
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="co-kdy-kde"}
 
 Pane Klímo, vy se vytahujete, že pokud se týká pohostinství, že máte odpověď na všechno a když ne, tak že si prostě něco vymyslíte. Proto bych rád věděl, jestli víte, co znamená to číslo „86“ o kterém se v jednom svém pořadu „Ano šéfe“ zmínil pan Pohlreich a řekl, že je to anglický výraz, který znamená, že když je něco, nebo někdo „na odstřel“ že se řekne „eighty six“.

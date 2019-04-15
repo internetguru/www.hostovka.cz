@@ -5,7 +5,7 @@
 
 # Omeleta s překvapením
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
 
 {kw="co-kdy-kde, omeleta"}
 
@@ -13,9 +13,9 @@ Omeleta s překvapením _(Alaska)_ je pojmenována podle jednoho ze států Amer
 
 Příprava omelety s překvapením:
 
- 1. Na výklenek z piškotového těsta navršíme relativně tuhou zmrzlinu.
- 2. Zmrzlinu pokryjeme konzervovaným ovocem a tuhým sněhem.
- 3. Posléze tuto „omeletu“ zprudka opečeme dozlatova v horké troubě nebo ošlehneme plamenem.
+  1. Na výklenek z piškotového těsta navršíme relativně tuhou zmrzlinu.
+  2. Zmrzlinu pokryjeme konzervovaným ovocem a tuhým sněhem.
+  3. Posléze tuto „omeletu“ zprudka opečeme dozlatova v horké troubě nebo ošlehneme plamenem.
 
 Tato omeleta se většinou podávala při mimořádných příležitostech. Před podáváním se přelila dobře hořící lihovinou. Za potlesku stolovníků se zapálila a přinesla do ztemnělé místnosti, což je to překvapení.
 

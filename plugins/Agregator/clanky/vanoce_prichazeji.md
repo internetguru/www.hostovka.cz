@@ -5,6 +5,8 @@
 
 # Vánoce přicházejí
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="gastronomie"}
 
 Vážení gastronomičtí přátelé a studenti Hostovky!

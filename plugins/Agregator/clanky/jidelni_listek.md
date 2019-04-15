@@ -5,6 +5,8 @@
 
 # Jídelní lístek
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="jídla a jídelní lístky"}
 
 Já osobně se tvorbou jídelních lístků zabývám od nepaměti, ale abych se vám přiznal, tak mně trvalo relativně dlouho, než jsem si uvědomil, že na jídelní lístek je nutno se dívat ze dvou základních pohledů a to je z pohledu provozovatele pohostinství a z pohledu hosta.

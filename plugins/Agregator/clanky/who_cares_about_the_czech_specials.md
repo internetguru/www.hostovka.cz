@@ -5,6 +5,8 @@
 
 # Who Cares About the Czech Specials
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="gastronomie"}
 
 Já jsem kdysi otevřel diskusi kolem autorství a názvů receptů, ale nikdo se té diskuze neúčastnil a tak jsem si řekl – WHO CARES – což česky to znamená „ co na tom záleží kdo ten recept napsal“, vždyť někteří ti autoři již po staletí nežijí, takže jim nemůžete ani poděkovat v případě že se vám jejich recept líbí, a ani jim moc na tom teď už nezáleží i když ten recept opíšete, předěláte a vydáte znovu pod vašim jménem. Who cares! Nicméně při tom dnešním humbuku s těmi CZECH SPECIALS jsem to znovu vyhrabal.

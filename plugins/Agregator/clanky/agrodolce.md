@@ -5,7 +5,7 @@
 
 # Sladkokyselá omáčka agrodolce
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
 
 {kw="gastronomie, recept, omáčka, Francie"}
 
@@ -13,20 +13,20 @@ Agrodolce je italský výraz pro sladkokyselé, se kterým se setkáte na mezin�
 
 Omáčka se skládá z
 
-* pistácií a piniových jader,
-* hořké čokolády,
-* cukru a octa,
-* kandované citrónové a pomerančové kůry,
-* rozinek,
-* rybízového rosolu a
-* hovězí šťávy, do které se někdy přidává různé koření, případně ovoce a víno.
+  * pistácií a piniových jader,
+  * hořké čokolády,
+  * cukru a octa,
+  * kandované citrónové a pomerančové kůry,
+  * rozinek,
+  * rybízového rosolu a
+  * hovězí šťávy, do které se někdy přidává různé koření, případně ovoce a víno.
 
 Podobná populární sladkokyselá omáčka _aigre-doux_ se připravuje ze směsi
 
-* sekané cibule,
-* bazalky a petrželky usmažené v olivovém oleji a másle,
-* špetky pepře a skořice a
-* sekaných rajčat s bílým vínem a cukrem.
+  * sekané cibule,
+  * bazalky a petrželky usmažené v olivovém oleji a másle,
+  * špetky pepře a skořice a
+  * sekaných rajčat s bílým vínem a cukrem.
 
 {class="example"}
 

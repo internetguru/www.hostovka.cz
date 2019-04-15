@@ -5,6 +5,8 @@
 
 # Jak číst jídelní lístky
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="jídla a jídelní lístky, minutky, chuťovky"}
 
 Není tajemstvím, že jídelní lístky opisuje jeden restauratér od druhého. Trvá to již od padesátých let, takže se na nich za celou dobu moc nezměnilo. Jsou sice výjimky, ale to se po padesáti letech gastronomického temna zdá být trochu pozdě. Nebylo by tedy na škodu, aby se studenti Hostovky naučili naše archaické jídelní lístky číst.

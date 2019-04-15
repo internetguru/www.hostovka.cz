@@ -5,6 +5,8 @@
 
 # Bain-marie
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="co-kdy-kde"}
 
 Bain-marie je francouzské označení pro zařízení používané ve vědě a technice, ale i v kuchyni pro udržování potravin nebo materiálu při požadované teplotě pod bodem varu po potřebnou dobu.

@@ -5,6 +5,8 @@
 
 # Management By the Menu
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="pohostinství"}
 
 Dá se říci, že největší změny v pohostinství v tomto století zaznamenal jídelní lístek, který je základem veškeré činnosti každého gastronomického provozu.

@@ -5,6 +5,8 @@
 
 # Buffety plánování
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="o čem se mluví"}
 
 Oproti mnohým jiným cateringovým akcím, které se do jisté míry řídí přáním osoby která danou akci objednává, a kdy jídelní lístek, jako například u banketu je dohodnut s objednavatelem, bufety a brUnche jsou plánovány provozovatelem.

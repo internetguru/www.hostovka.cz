@@ -5,6 +5,8 @@
 
 # Logistika
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="pohostinství"}
 
 Logistika v průmyslu pohostinství a cestovního ruchu je umění skloubit všechny články tohoto enormního odvětví národního hospodářství v jeden celek jehož hlavním cílem je uspokojit potřeby a přání hostů a vytvořit zasloužený předpokládaný zisk.

@@ -5,6 +5,8 @@
 
 # Czech Specials 1
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="jídla a jídelní lístky"}
 
 Začnu tuto sekci přispěvkem pan Michala Šťovíčka kteý ho přiložil do otázek, ale tam by to nejspíše hodně lidí nečetlo.

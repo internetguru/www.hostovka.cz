@@ -5,6 +5,8 @@
 
 # Technologie v průmyslu v pohostinství
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="pohostinství"}
 
 Technologie v globálním průmyslu pohostinství předstihla schopnosti člověka. Náše pohostinství není výjimkou.

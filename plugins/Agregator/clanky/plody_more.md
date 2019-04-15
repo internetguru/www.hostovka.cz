@@ -5,6 +5,8 @@
 
 # Plody moře
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="jídla a jídelní lístky"}
 
 Francouzsky Fruit de Mer, německy Meeresfrüchte, italský Frutti di Mare, a proto jim někdo říká mořské ovoce na čemž nakonec není nic špatného a každý ví čem mluvíte. Anglicky se jim říká seafood, psáno jedním slovem protože když napíšete "sea food" tak si lidé myslí že jste chtěli říci "see food", což by znamenalo vidět jído.

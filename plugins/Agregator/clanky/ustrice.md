@@ -5,6 +5,8 @@
 
 # Ústřice
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="jídla a jídelní lístky"}
 
 Na mezinárodních jídelních lístcích ústřice jsou bezesporu jedním z nejoblíbenějších předkrmů, a to jak živé, tak i tepelně upravené.

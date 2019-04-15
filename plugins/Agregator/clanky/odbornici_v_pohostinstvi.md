@@ -5,6 +5,8 @@
 
 # Odborníci v pohostinství
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="pohostinství"}
 
 Kdo jsou to osobnosti v českém pohostinství vím již relativně dlouho, a pokud to zajímá i vás, tak jejich seznam najdete na stránkách www.gastronews.cz na kterých ty tituly uděluje jejich šéfredaktor pan Jiří Řezáč.

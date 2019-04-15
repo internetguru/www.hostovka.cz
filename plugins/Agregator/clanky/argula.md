@@ -5,6 +5,8 @@
 
 # Argula
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="jídla a jídelní lístky"}
 
 Také ale rugula, rugola nebo rucola od latinského slova eruca znamenajícího "druh zelí", je listová zelenina z rodiny cruciférae, známá také pod francouzským názvem roquette nebo pod anglickým roket. Je to zelenina podobná špenátu nebo řeřiše. Používá se hojně v italské kuchyni; má o mnoho větší obsah Beta karotenu a vitamínu C než ostatní listové zeleniny.

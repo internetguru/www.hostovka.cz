@@ -5,6 +5,8 @@
 
 # Česká kuchyně
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="jídla a jídelní lístky"}
 
 To je článek na www.ahr.cz, který stojí za to si přečíst, ať jste členy AHR ČR nebo ne, protože v něm najdete mnoho poučení o Czech specials.

@@ -5,6 +5,8 @@
 
 # Chefs Table
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="restaurace a servis"}
 
 Chef‘s table (angl.) česky šéfkuchařův stůl. V některých restauracích a hotelích ve Francii bylo, a doufám že ještě je zvykem, že před zahájením provozu všichni kuchaři, společně s šéfkuchařem, zasednou ku stolu prostřenému bílým ubrusem, a společně obědvají a dá se říci, že dobře, a to včetně vína.

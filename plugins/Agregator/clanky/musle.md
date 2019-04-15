@@ -5,6 +5,8 @@
 
 # Mušle
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="jídla a jídelní lístky"}
 
 Mušle něm. Musheln; fr. Moules; angl. Mussels nebo Clams, patří v anglické gastronomické terminologii do skupiny Shellfish (lasturovci), německy Shelltiere.

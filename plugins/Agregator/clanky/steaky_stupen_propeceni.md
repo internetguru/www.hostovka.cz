@@ -5,6 +5,8 @@
 
 # Steaky stupeň propečení
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="kuchyňské techniky"}
 
 V diskuzi o tom, jak velké mají byt porce jídel a zda musíme váhu nebo hmotnost porci na jídelních lístcích uvádět, jsem se velice krátce zmínil o steacích.

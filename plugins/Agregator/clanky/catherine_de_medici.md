@@ -5,6 +5,8 @@
 
 # Catherine de Medici
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="kdo-kdy-kde"}
 
 Základy západní gastronomie byly položeny v době Renesance. Sňatek čtrnáctileté Kateřiny Medicejské s budoucím francouzským králem Jindřichem II (1519-1582) byl příležitostí vlivu sofistikované italské kuchyně na kuchyni francouzskou. Kateřina mimo dobrých mravů sebou přinesla mnohé lahůdky které byly v renesanční Itálii běžné jako: brzlík, lanýže, srdíčka artyčoků, drůbeží knedlíčky, zmrzlinu a perníčky Catherine de Medici (1519-1589)

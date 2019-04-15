@@ -5,7 +5,7 @@
 
 # Italská dochucovací omáčka aioli
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
 
 {kw="co-kdy-kde, omáčka, recept, Itálie"}
 
@@ -13,10 +13,10 @@ Aioli je italská dochucovací omáčka, se kterou se běžně setkáte na česk
 
 Tajemství omáčky spočívá v poměru jednotlivých surovin. Omáčka se skládá ze směsi
 
-* česneku,
-* vajec,
-* citrónové šťávy nebo octa a
-* olivového oleje.
+  * česneku,
+  * vajec,
+  * citrónové šťávy nebo octa a
+  * olivového oleje.
 
 {class="example"}
 

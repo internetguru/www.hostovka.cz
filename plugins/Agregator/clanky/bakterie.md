@@ -5,6 +5,8 @@
 
 # Bakterie
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="hygiena a sanitace"}
 
 Co to jsou bakterie to vám tady psát nebudu protože pokud chcete vědět co jsou to bakterie a které jsou užitečné a které ne, tak se podívejte na internet.

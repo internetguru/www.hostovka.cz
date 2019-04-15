@@ -5,6 +5,8 @@
 
 # BBQ
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="restaurace a servis"}
 
 Pokud hovoříme o barbecue, tak musíme rozlišovat suché brazilské barbecue, což je barbecuování masa okořeněného směsí koření a soli při brazilském churasco, a americké barbecue.

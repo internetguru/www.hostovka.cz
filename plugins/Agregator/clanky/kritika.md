@@ -5,6 +5,8 @@
 
 # Kritika
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="o čem se mluví"}
 
 KRITICI, FOOD CRITICS, RECENZENTI, FOOD COLUMNISTS, AUDITOŘI, MYSTERY SHOPPERS, FOOD WRITERS, RESTAURANT CRITIC a neposlední řadě STĚŽOVATELÉ jsou lidé které poutá jedno pouto, a to je jídlo.

@@ -5,6 +5,8 @@
 
 # François Pierre de La Varenne
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="kdo-kdy-kde"}
 
 V době panování krále Ludvíka XIV, byla ve Francii vydána nesmírně důležitá kuchařská kniha La Cuisinier françois, kterou napsal La Varenne. Svou kuchařskou kariéru začal v kuchyni baronky de Bar, sestry Jindřicha IV a později pracoval pro hraběte d?Uxelles, francouzského maršála který byl známý vybraným stolem.

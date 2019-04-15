@@ -5,6 +5,8 @@
 
 # Omáčka bešamel a její varianty
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="nejčtenější, jídla a jídelní lístky, omáčka, recept"}
 
 Omáčku bešamel oficiálně vynalezl správce královského dvora Ludvíka XIV., markýz Louis de Béchameil de Nointel (1630–1703). Je ale více než pravděpodobné, že si Francouzi tuto omáčku přivlastnili od Italů. V Itálii byla tato omáčka již několik století před tím.

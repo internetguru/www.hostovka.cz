@@ -5,6 +5,8 @@
 
 # Na zámku a v podzámčí
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="o čem se mluví"}
 
 Vážení studenti Hostovky, přeposílám zde moji stížnost na ubytování v hotelu Chateau Kotěra kterou jsem jim poslal již podruhé 12.8.2010 a na kterou mi dosud neodpověděli.

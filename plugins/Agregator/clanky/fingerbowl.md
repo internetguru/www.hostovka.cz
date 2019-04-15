@@ -5,6 +5,8 @@
 
 # Fingerbowl
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="co-kdy-kde"}
 
 V jedné české příručce pro číšníky jsem našel tuto definici: malá nádoba naplněná vodou (možno i kouskem citrónu), kladená na stůl, aby hosté mohli opláchnout prsty.

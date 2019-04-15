@@ -5,6 +5,8 @@
 
 # Super chef 2
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="gastronomie"}
 
 Dobrá chuť je bezesporu jednou podmínkou kuchaře a proto například na hotelové škole, na které jsem učil v Americe, jednou podmínkou přijetí byl také test chutí a vůní. Když některý uchazeč neuspěl při těchto zkouškách, tak mu bylo doporučeno, aby se více zaměřil na management, u kterého rozeznávání chutí a vůní je druhořadé a kde se klade důraz na manažerské schopnosti, které v té soutěži Na nože nemá ani náš nejvyšší kuchař Zdeněk Pohlreich.

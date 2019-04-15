@@ -5,6 +5,8 @@
 
 # Středomořsky za dobrou cenu
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="gastronomie"}
 
 Už jsem se několikrát zmínil o tom, že všechny restaurační kritiky musíte číst s reservou. Rozhodně bych se nerozběhl do vychvalované restaurace, stejně tak bych nezavrhl restauraci, která nezískala potřebný počet hvězdiček recenzenta, protože ať je ten recenzent sebezkušenější, tak je to stále jeho subjektivní názor. To víte, ti recenzenti popisují a kritizují kde co, ale nikdo se z nějakého důvodu neopováží kritizovat ty recenzenty.

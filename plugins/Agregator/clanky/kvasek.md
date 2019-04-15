@@ -5,6 +5,8 @@
 
 # Kvásek
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="co-kdy-kde"}
 
 Kvásek je zahušťovací prostředek z hladké mouky a malého množství vody nebo mléka který se dá velmi snadno a rychle připravit, a který má své výhody.

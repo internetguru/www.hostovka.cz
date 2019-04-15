@@ -5,6 +5,8 @@
 
 # Americké pohostinství
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="o čem se mluví"}
 
 Vážení studenti Hostovky, já se netajím tím, že jsem Čechoameričan, a také se netajím tím, že mám dilema s tím, na co mám být pyšný a za co bych se měl stydět.

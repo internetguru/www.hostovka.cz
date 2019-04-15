@@ -5,6 +5,8 @@
 
 # Recept na vítězné chili
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="jídla a jídelní lístky, historka, recept, Amerika, Mexiko"}
 
 Jako každoročně, probíhala v roce 1988 v Chicagu soutěž o nejlepší chili. Při podobných akcích nejde v Americe o medaile, jako spíše o zábavu. Zúčastnit se jich může kdokoli, ne jenom profesionální kuchaři. What a country!

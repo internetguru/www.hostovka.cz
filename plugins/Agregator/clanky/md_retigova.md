@@ -5,6 +5,8 @@
 
 # Co mi vadí na M. D. Rettigové
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="etika"}
 
 Na to se mně totiž již několik lidí zeptalo a já kolem té Dobromily Rettigové tncuji jako kolem horké kaše a stále mně cosi říká, abych se o tom už nezmiňoval, protože já mám už takhle dost nepřátel a teď si udělám nepřátele ze všech těch „gastronomů“ kteří Magdalenu uctívají.

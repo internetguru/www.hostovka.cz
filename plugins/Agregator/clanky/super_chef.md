@@ -5,6 +5,8 @@
 
 # Super chef
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="gastronomie"}
 
 V článku CHEF, jsem tak trochu popsal, co si lidé pod titulem chef představují, ale nezmínil jsem se o jedné funkci což je manažer kuchyně, který se podstatně liší od některých stávajících šéfkuchařů, kteří svoji popularitu staví jen na počtu získaných medailí a na znalosti několika kuchařských technik, a kteří svůj titul šéfkuchaře mnohdy získali jen díky senioritě, neboli díky letům praxe v kuchyni.

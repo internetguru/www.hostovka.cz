@@ -5,6 +5,8 @@
 
 # Šéf na grilu
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="o čem se mluví"}
 
 Úvodem bych chtěl říci, že ani já jídla netvořím, a ani nejsem nějakým recenzentem kuchařských knih, protože na to nemám čas, ale mohu vám říci, že za těch 70 let kdy kuchařské knížky, a to nejenom české čtu, toho o kuchařkách, a zejména o receptech a formách jejich psaní něco málo vím, a umím rozeznat koukol od plevele a proto nemohu mlčky přejít když někdo jako je Zdeněk Pohlreich, náš samozvaný nejvyšší kuchař, známý z pořadu ANO ŠÉFE a NA NOŽE, se teď na televizi producíruje jako odborník na grilování a o který ve své knize ŠÉF NA GRILU, píše úplné bludy.

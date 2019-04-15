@@ -5,6 +5,8 @@
 
 # Finger food
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="co-kdy-kde"}
 
 Výrazem finger foods se v Americe označují všechna jídla která se dají jíst rukou. Tudíž i jídla jako jsou smažená kuřata (Kentucky Fried Chicken), Fish and Chips, a nakonec téměř všechna jídla podávaná v provozovnách rychlého občerstvení typu fast food, jsou finger foods. Finger foods je například i náš párek, opečená klobása, párek v rohlíku, apod.

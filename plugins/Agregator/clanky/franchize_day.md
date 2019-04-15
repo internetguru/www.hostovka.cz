@@ -5,6 +5,8 @@
 
 # Franchize Day
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="pohostinství"}
 
 Já jsem jeden z mála, kdo ten velký boom franchisingu restaurací rychlého občerstvení v Česku předvídal již od Sametové revoluce, a na štěstí na to mám důkazy.

@@ -5,6 +5,8 @@
 
 # Názvy jídel 3
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="etika"}
 
 Mezinárodní gastronomie není taková džungle za jakou si ji představuje vedení restaurace STOLETÍ v Praze, údajně jedna z nejlepších pražských restaurací, což nemohu posoudit, protože jsem tam nebyl, a tak musím jen dát na co o ni píše Laura Baranik ve svém článku pro Lidové noviny.

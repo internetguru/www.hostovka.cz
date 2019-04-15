@@ -5,6 +5,8 @@
 
 # Po národ
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="o čem se mluví"}
 
 Já vím, že by si člověk neměl dělat do vlastního hnízda, ale já nejsem pokrytec a tak to řeknu tak jak to vidím, a sice že někdy se ve světě musím stydět za to, že jsme Čech. Na omluvu Čechů musím ale říci že za to vlastně nemohou. Češi, kdysi respektovaný národ v celé Evropě, se díky socialismu dostali na úroveň národů které se za národy ani nepočítají, což si sice uvědomují, ale nic pro to nedělají.

@@ -5,6 +5,8 @@
 
 # Vnitřní teplota steaků
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="gastronomie"}
 
 Výňatek ze semináře o steacích připravovaného divizí konceptu STEAKGRILL®.

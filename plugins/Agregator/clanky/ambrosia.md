@@ -5,6 +5,8 @@
 
 # Ambrosia
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="co-kdy-kde"}
 
 Česky ambrosie. V řecké mythologii ambrosia byla potravou bohů na Olympu, jejichž nápoj byl nectar. Podle Hesioda a podle básníků kteří následovali, obyvatele Olympu se živili jen čistým vykrveným masem ambrosie a pili jen nektar, to je destilovanou rosu.

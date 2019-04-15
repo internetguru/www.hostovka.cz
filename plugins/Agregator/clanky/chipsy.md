@@ -5,6 +5,8 @@
 
 # Chipsy
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="jídla a jídelní lístky"}
 
 Jako světová potravina se brambory ve spotřebě řadí jako druhé jen za rýží. Upravují se asi 900 různými způsoby a v různých formách ale zdá se, že jedna z nejpopulárnějších forem jsou smažené ve formě hranolků nebe lupínků.

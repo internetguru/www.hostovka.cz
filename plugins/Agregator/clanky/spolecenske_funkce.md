@@ -5,6 +5,8 @@
 
 # Společenské funkce
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="o čem se mluví"}
 
 Přehazuji to tu jako horkou bramboru. Jsou totiž věci, o kterých se nemluví, a o tom, že by se o nich psalo, se nedá někdy ani uvažovat. V Americe se v každé společnosti může mluvit například o jídle, o sexu a o sportu, ale politika a náboženství je tabu.

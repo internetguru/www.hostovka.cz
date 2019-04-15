@@ -5,6 +5,8 @@
 
 # Mexický flan
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="etnické kuchyně"}
 
 Flan, je španělský moučník, ale nesnažte se to namluvit Francouzům, kteří tvrdí že je jejich. Ale ať je to jak je to, tak to nic nezmění na tom, že v Mexiku je velice populární a že nesmí chybět na jídelním lístku žádné lepší restaurace.

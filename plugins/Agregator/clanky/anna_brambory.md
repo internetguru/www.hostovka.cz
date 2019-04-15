@@ -5,6 +5,8 @@
 
 # Anna brambory
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="jídla a jídelní lístky"}
 
 Anna brambory, francouzsky Pommes Anna, anglicky Anna potatoes, je podle mnohých údajně výtvor pana Dugléré, kuchaře ve známé restauraci Café Anglaise na ulici Lafitte v Paříži. Mnoho slavných žen jménem Anna, by bylo bývalo poctěno vědomím, že tyto brambory byly pojmenovány po nich. Málokterá ale věděla, že Dugléré tyto brambory pojmenoval po populární francouzské prostitutce Anna Deslions. Tyto brambory si získaly větší popularitu než měla Anna Deslions, jejíž popularita zanikla díky popularitě mnohých dalších kolegyň, ale její brambory se ještě dodnes objevují na jídelních lístcích mnoha mezinárodních restauracích ve kterých se většinou připravují v individuálních porcích, což je relativně zdlouhavý proces.

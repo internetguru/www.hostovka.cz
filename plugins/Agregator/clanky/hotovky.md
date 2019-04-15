@@ -5,6 +5,8 @@
 
 # Hotovky a minutky v českých restauracích
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="jídla a jídelní lístky, hotovky, minutky, obloha"}
 
 Hotovky jsou jídla připravovaná zpravidla ve větším množství a mnohdy relativně komplikovanými a zdlouhavými technikami. Ve většině případů je vaří někdo s alespoň základními znalostmi. Hotovky jsou také připravovány z potravin, které rychlými technikami nelze zpracovat.

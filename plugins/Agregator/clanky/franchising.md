@@ -5,6 +5,8 @@
 
 # Franchising
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="pohostinství"}
 
 Asi tak v roce 1991, neboli ne příliš dlouho po Sametové revoluci, v době kdy jsem byl v České Republice v zastoupení americké firmy Blodgett, za mnou přišel jeden mladý muž, s tím, že se dozvěděl, že v Americe jsem konzultantem v pohostinství, a jestli bych mu neporadil s jeho záměrem.

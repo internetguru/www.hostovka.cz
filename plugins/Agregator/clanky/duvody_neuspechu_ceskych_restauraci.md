@@ -5,6 +5,8 @@
 
 # Důvody neúspěchu českých restaurací
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="pohostinství"}
 
 Rychlá expanse, absolutní neodbornost většiny provozovatelů pohostinství, na život a na smrt vyhrocená konkurence, je v Česku hlavní příčinou neúspěchu mnoha restaurací. Velké procento neúspěchu je také díky a nedostatečnému počátečnímu kapitálu. Restaurace jsou pro banky velice rizikové a proto i procenta z půjček jsou vyšší.

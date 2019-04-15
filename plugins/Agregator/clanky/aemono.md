@@ -5,6 +5,8 @@
 
 # Aemono
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="co-kdy-kde"}
 
 japonské označení jídla které je podáváno s omáčkou. Takové jídlo obsahuje zeleninu, maso, plody moře a tofu. Plody moře a zelenina se napřed marinuje spolu s miso, sójovou omáčkou a sezamovými semínky. Některé zeleniny—brambory, dýně a fazole, například—se uvaří ve směsi cukru, zatímco jiné zeleniny se vaří v drůbežím vývaru ochuceném sójovou omáčkou.

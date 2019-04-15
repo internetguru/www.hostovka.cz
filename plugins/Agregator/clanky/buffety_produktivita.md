@@ -5,6 +5,8 @@
 
 # Buffety produktivita
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="o čem se mluví"}
 
 Produktivita je první podmínkou rentabilnosti každého bufetu. Práce kolem bufetu není komplikovaná, nevyžaduje žádnou velkou odbornost, a proto pro bufety a brunše se snažíme plánovat méně placené zaměstnance.

@@ -5,6 +5,8 @@
 
 # Buffety náklady na mzdy
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="o čem se mluví"}
 
 Náklady na mzdy jsou nezanedbatelnou položkou podnikového rozpočtu a jsou do značné míry rovněž ovlivněny jídelním lístkem a při bufetech sortimentem jídel a následně potřebou personálu a to jak ve výrobě tak i v obsluze. 

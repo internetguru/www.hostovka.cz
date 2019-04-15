@@ -5,6 +5,8 @@
 
 # Úprava jídel
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="kuchyňské techniky"}
 
 S úpravou jídel je to obdobné jako se surovinami které k jejich úpravě používáme. Úprava jídel může být složitá, profesionální, domácí a jednoduchá, případně tak zvaná rychlá (fast food), laciná a drahá.

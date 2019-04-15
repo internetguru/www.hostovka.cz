@@ -5,7 +5,7 @@
 
 # Barding neboli obalování masa tukem
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
 
 {kw="kuchyňské techniky, maso"}
 

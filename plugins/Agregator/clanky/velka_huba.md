@@ -5,6 +5,8 @@
 
 # Velká huba
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="o čem se mluví"}
 
 Důležitost krájení si uvědomoval již prehistorický člověk. Po objevení ohně mu došlo, že sice může toho mamuta opékat na rožni celého, ale že pokud ho nakrájí na steaky, že je může grilovat lépe a radostněji.

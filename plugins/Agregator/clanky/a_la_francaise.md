@@ -5,6 +5,8 @@
 
 # À la française
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="o čem se mluví"}
 
 V Česku se o úpadku pohostinství moc nemluví, ba naopak všichni, ti kteří to pohostinství řídí, lépe řečeno by měli řídit, si klepou na ramena a rozdávají si uznání za dobře vykonanou práci.

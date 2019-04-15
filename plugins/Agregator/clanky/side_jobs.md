@@ -5,6 +5,8 @@
 
 # Side Jobs
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="co-kdy-kde"}
 
 Side jobs, česky vedlejší práce, jsou v pohostinství práce spojené s výkonem hlavní činnosti některých zaměstnanců.

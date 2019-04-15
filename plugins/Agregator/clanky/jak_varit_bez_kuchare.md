@@ -5,6 +5,8 @@
 
 # Jak vařit bez kuchaře
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="pohostinství"}
 
 Tento článek jsem před několika lety někde napsal , ale jako mnoho mých příspěvků do medii, má stále ještě svoji platnost a proto vám ho v trochu pozměněné formě předkládám i zde.

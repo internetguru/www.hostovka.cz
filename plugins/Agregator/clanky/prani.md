@@ -5,6 +5,8 @@
 
 # Přání
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="koho se to týká"}
 
 Vážení přátelé, v této předvánoční a novoroční době dostávám přání od mnoha mých přátel a známých, kteří se z různých důvodů třeba celý rok neozvali. Dostávám přání od muslimů, katolíků, buddhistů, hinduistů, židů, islámců i ateistů a mnoha jiných včetně Kwanza.

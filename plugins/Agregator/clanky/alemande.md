@@ -5,6 +5,8 @@
 
 # Alemande
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
 {kw="jídla a jídelní lístky"}
 
 Alemande je francouzský výraz znamenající německý, ale také název jedné z velice populárních francouzských omáček. Když známý kuchař Antoine Carême vytvořili tuto lehkou krémovou omáčku, jejíž světlá barva mu připomínala bledé, blonďaté Němce, tak tuto omáčku pojmenoval Alemande, neboli německá. Toto ale bylo proti mysli mnoha francouzských kuchařů, kteří nemohli přežít, že nějaká omáčka má jiné jméno než francouzské. Dokonce i král všech kuchařů a kuchař všech králů Escoffier se jednou pokusil změnit germánské jméno této již tak slavné omáčky na Sauce Blonde nebo Sauce Parisienne, ale její původní „německý“ název přežil.
