@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=125.html" data-og-image="/files/preview/clanky/flambovani/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=125.html" data-image="/files/preview/clanky/flambovani/general.jpg" data-type="article"}
 
 {id="flambovani" ctime="2005-12-12" author="Michael Klíma" short="Flambování" authorid="hostovka/michael_klima"}
 
 # Flambování
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="gastronomie"}
 
@@ -86,7 +86,6 @@ Já jsem tyto banany v restauraci ochutnal asi tak v roce 1971, což bylo asi ta
 ## CHERRY JUBILÉ
 
 Cherry Jubilé jsou flambované černé třešně které se podávají horké, a pokud možno ještě hořící na vanilkové zmrzlině.
-
 
 Je to jeden z nejednodušších flambovaných moučníků takže jsem je měl na jídelním lístku téměř ve všech restauracích ve kterých jsem pracoval a docela mně udivuje, že ho v Česku, kde flambování je ještě ve velké oblibě, ještě nikdo neobjevil.
 

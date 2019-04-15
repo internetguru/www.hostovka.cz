@@ -1,11 +1,9 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=120.html" data-og-image="/files/preview/clanky/cteni_listku/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=120.html" data-image="/files/preview/clanky/cteni_listku/general.jpg" data-type="article"}
 
 {id="cteni_listku" ctime="2005-11-28" mtime="2018-12-17" author="Michael Klíma" short="Čtení lístku"}
 
 # Jak číst jídelní lístky
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
 
 {kw="jídla a jídelní lístky, minutky, chuťovky"}
 

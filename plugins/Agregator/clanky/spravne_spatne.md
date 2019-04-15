@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=158.html" data-og-image="/files/preview/clanky/spravne_spatne/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=158.html" data-image="/files/preview/clanky/spravne_spatne/general.jpg" data-type="article"}
 
 {id="spravne\_spatne" ctime="2006-07-08" author="Michael Klíma" short="Co je správné a co ne" authorid="hostovka/michael\_klima"}
 
 # Co je správné a co ne
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="etika"}
 

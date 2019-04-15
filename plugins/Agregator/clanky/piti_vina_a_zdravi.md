@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=201.html" data-og-image="/files/preview/clanky/piti\_vina\_a_zdravi/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=201.html" data-image="/files/preview/clanky/piti\_vina\_a_zdravi/general.jpg" data-type="article"}
 
 {id="piti\_vina\_a\_zdravi" ctime="2006-12-21" author="Michael Klíma" short="Pití vína a zdraví" authorid="hostovka/michael\_klima"}
 
 # Pití vína a jeho vliv na zdraví
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="nápoje"}
 

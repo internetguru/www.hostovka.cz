@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=161.html" data-og-image="/files/preview/clanky/cerstva_ryba/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=161.html" data-image="/files/preview/clanky/cerstva_ryba/general.jpg" data-type="article"}
 
 {id="cerstva_ryba" ctime="2006-07-09" author="Michael Klíma" short="Čerstvá ryba" mtime="2018-12-07"}
 
 # Opravdově čerstvá ryba v restauraci
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="gastronomie, ryby, historka"}
 

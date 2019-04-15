@@ -1,9 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=32.html" data-og-image="/files/preview/clanky/vareni/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=32.html" data-image="/files/preview/clanky/vareni/general.jpg" data-type="article"}
 
 {id="vareni" ctime="2005-07-03" author="Michael Klíma" short="Vaření" mtime="2019-03-11"}
 
 # Tepelné úpravy potravin
+
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="kuchyňské techniky"}
 

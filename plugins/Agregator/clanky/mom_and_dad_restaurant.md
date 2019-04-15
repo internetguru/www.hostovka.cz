@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=253.html" data-og-image="/files/preview/clanky/mom\_and\_dad_restaurant/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=253.html" data-image="/files/preview/clanky/mom\_and\_dad_restaurant/general.jpg" data-type="article"}
 
 {id="mom\_and\_dad\_restaurant" ctime="2007-09-28" author="Michael Klíma" short="Mom and Dad Restaurant" authorid="hostovka/michael\_klima"}
 
 # Mom and Dad Restaurant
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="koho se to týká"}
 

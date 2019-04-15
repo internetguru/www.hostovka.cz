@@ -1,0 +1,29 @@
+
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=539.html" data-image="/files/preview/clanky/spolecenske_funkce/general.jpg" data-type="article"}
+
+{id="spolecenske\_funkce" ctime="2010-10-17" author="Michael Klíma" short="Společenské funkce" authorid="hostovka/michael\_klima"}
+
+# Společenské funkce
+
+{kw="o čem se mluví"}
+
+Přehazuji to tu jako horkou bramboru. Jsou totiž věci, o kterých se nemluví, a o tom, že by se o nich psalo, se nedá někdy ani uvažovat. V Americe se v každé společnosti může mluvit například o jídle, o sexu a o sportu, ale politika a náboženství je tabu.
+
+V Česku se ale může mluvit úplně o všem, a v poslední době díky všem těm televisním pořadům, hlavně o jídle a o gastronomii, ale nesmíte mluvit, nebo dokonce napsat o tom, že někteří lidé do restaurací nechodí vůbec, protože si to nemohou dovolit, ale že ti kteří si to mohu dovolit MNOHDY nevědí, jak a co si v restauraci objednat, případně jak se v ní chovat mluvit nesmite.
+
+A bodeť by ne. Vždyť my jsme nejkultivovanější národ, a i když třeba ne na světě, tak alespoň v Evropě, a když ne v Evropě, tak určitě ve Východní Evropě, a to samo o sobě je již co říci.
+
+Nicméně pokud se ale týká gastronomie, bontonu, etikety, chování u stolu, ať již doma, nebo v restauraci, nesmíte ale Čechy s mnoha jinými národy moc srovnávat, lépe řečeno srovnávat můžete, ale nesmíte o tom mluvit a hlavně o tom nikde nic nepsat, a pokud někdo má tu odvahu napsat, že někteří Češi nevědí jak co jíst tak si udělá z lidí nepřítele na život a na smrt.
+
+A bodeť by ne. Jednak je u nás ještě hodně lidí, kteří se narodili se stříbrnou lžičkou v ústech, máme u nás dokonce ještě pozůstatky někdejší šlechty s modrou krví, a sofistikované hosty, kteří mají nějakou kinderstube, a pozůstatky těch vyvolených, kterým za doby socialismu byla dána možnost ty dekadentní manýry té buržoazní společnosti při svých cestách nebo při studiu v zahraničí okoukat, ale to je bohužel hrozně málo.
+
+O tom všem, jsem jako jeden z mála za posledních dvacet let napsal více než je zdrávo a tak to už rozmazávat nebudu. Chtěl bych se ale zmínit o společenských funkcích, které jak se zdá jsou dnes již relativně běžné, ale o kterých, podle mého názoru, velká většina lidí, včetně těch kteří si ty společenské akce objednávají a kteří se jich zúčastňují, nevědí téměř nic.
+
+Tipy těch společenských funkcí jako jsou bankety, brunche a ty typické české rauty, zde nebudu popisovat, protože jsem je jíž u různých příležitostí podrobně popsal, ale on to nikdo z těch rádoby odborníků stejně nečte.
+
+Na stránkách www.gastronews.cz je zhruba 500 otázek jak připravit slavnostní Menu případně nějakou akci, či společenskou funkci a z toho se dá usuzovat, že Češi, podobně jako staří Římane, vůbec nepracují a tráví dnes všechen svůj čas ve hrách, radovánkách a Lukulových hodech. No, zatím tam ani jednu tu otázku nikdo z našich velkých odborníků, nebo z těch osobností které tam pan Řezáč udělal, nezodpověděl, a můžete mi věřit, že ani nikdy nezodpoví protože na to nemají.
+
+Já ale jak víte, jsem snahy o vzdělání odborníků také více méně vzdal, ale mám jakousi morální povinnost dokončit co jsem začal, a to je výchovu hostů prostřednictvím www.hostovka.cz kde, pokud mimo to, že jste odborníci, jste také hosté, si o společenských funkcích můžete přečíst více a možná se i něco o té gastronomii naučit.
+
+Vám, kteří se potýkáte s tvorbou jídelních lístků, kalkulací, cateringových akcí, nebo samotným managementem, tvorbou podnikových manuálů, či tréninkem Vašich zaměstnanců mohu doporučit služby konzultační firmy STEAKGRILLCONSULT™.
+

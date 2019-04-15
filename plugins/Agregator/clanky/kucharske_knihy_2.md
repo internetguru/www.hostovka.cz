@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=243.html" data-og-image="/files/preview/clanky/kucharske\_knihy\_2/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=243.html" data-image="/files/preview/clanky/kucharske\_knihy\_2/general.jpg" data-type="article"}
 
 {id="kucharske\_knihy\_2" ctime="2007-08-05" author="Michael Klíma" short="Kuchařské knihy 2" authorid="hostovka/michael_klima"}
 
 # Kuchařské knihy 2
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="co-kdy-kde"}
 

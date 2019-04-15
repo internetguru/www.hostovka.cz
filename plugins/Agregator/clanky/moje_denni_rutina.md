@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-og-image="/files/preview/clanky/denni_rutina/preview.jpg" data-og-type="article" data-source="http://2017.hostovka.cz/nekolik-slov-o-mikovi-a-jeho-aktivitach.php"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-image="/files/preview/clanky/denni_rutina/preview.jpg" data-type="article" data-source="http://2017.hostovka.cz/nekolik-slov-o-mikovi-a-jeho-aktivitach.php"}
 
 {id="denni_rutina" author="Michael Klíma" ctime="2006-05"}
 
 # Moje denní rutina
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="Životopis"}
 

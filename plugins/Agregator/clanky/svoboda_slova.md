@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=337.html" data-og-image="/files/preview/clanky/svoboda_slova/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=337.html" data-image="/files/preview/clanky/svoboda_slova/general.jpg" data-type="article"}
 
 {id="svoboda\_slova" ctime="2008-06-26" author="Michael Klíma" short="Svobody slova" authorid="hostovka/michael\_klima"}
 
 # Svoboda slova a obchodní strategie
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="koho se to týká"}
 

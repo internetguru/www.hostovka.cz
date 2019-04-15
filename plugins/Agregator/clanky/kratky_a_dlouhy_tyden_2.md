@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=250.html" data-og-image="/files/preview/clanky/kratky\_a\_dlouhy\_tyden\_2/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=250.html" data-image="/files/preview/clanky/kratky\_a\_dlouhy\_tyden\_2/general.jpg" data-type="article"}
 
 {id="kratky\_a\_dlouhy\_tyden\_2" ctime="2007-09-09" author="Michael Klíma" short="Krátký a dlouhý týden 2" authorid="hostovka/michael_klima"}
 
 # Krátký a dlouhý týden 2
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="případová studie"}
 

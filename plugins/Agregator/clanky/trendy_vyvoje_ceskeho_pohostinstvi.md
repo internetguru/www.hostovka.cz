@@ -1,9 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=182.html" data-og-image="/files/preview/clanky/trendy\_vyvoje\_ceskeho_pohostinstvi/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=182.html" data-image="/files/preview/clanky/trendy\_vyvoje\_ceskeho_pohostinstvi/general.jpg" data-type="article"}
 
 {id="trendy\_vyvoje\_ceskeho\_pohostinstvi" ctime="2006-10-09" author="Michael Klíma" short="Trendy vývoje českého pohostinství" authorid="hostovka/michael\_klima"}
 
 # Trendy vývoje českého pohostinství
+
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="gastronomie"}
 

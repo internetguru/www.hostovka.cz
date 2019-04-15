@@ -1,44 +1,51 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=117.html" data-og-image="files/preview/clanky/zbytky/preview.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=522.html" data-image="/files/preview/clanky/zbytky/general.jpg" data-type="article"}
 
-{id="zbytky" ctime="2005-11-26" author="Michael Klíma" short="Zbytky" mtime="2019-03-07"}
+{id="zbytky" ctime="2010-05-23" author="Michael Klíma" short="Zbytky" authorid="hostovka/michael_klima"}
 
-# Zbytky jako specialita
+# Zbytky
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+{kw="pohostinství"}
 
-{kw="jídla a jídelní lístky, recept"}
+Vytvořit v pohostinství 10% čistého zisku, je sakramentsky tvrdý oříšek. Skončit se ztrátou 10% a více, je velice jednoduché. Když uvaříte 10 porcí nějaké hotovky a prodáte jich jen 9, tak vám vznikne nenahraditelná ztráta 10%, která, když se opakuje několikrát, vás může přivézt k bankrotu, dříve než se nadějete.
 
-Zbytky jsou nenahraditelné ztráty a jsou největším bolehlavem každého manažera kuchyně. Mohou to být například neprodané porce prvotřídních a drahých jídel, které se z nějakého důvodu neprodaly. Taková jídla ztrácí až 50 % své hodnoty. V praxi to však neznamená, že by na zbytcích bylo něco špatného, nebo že jsou zdravotně závadné.
+Tudíž menší riziko je, když připravujete jídla na objednávku, protože v nejhorším případě vám zbude nějaká potravina, kterou eventuelně druhý den nějak zpracujete ale i tak pracujete s jakýmsi rizikem.
 
-To, jestli jsou zbytky závadné, závisí na tom, jak se s nimi zachází. Jako studenti Hostovky bychom nad některými zbytky neměli ohrnovat nos, ba naopak. Někdy je zbytek vlastně velkou lahůdkou.
+Minimální riziko je, pokud připravujete předem naplánovaný počet jídel jako při banketech a podobných akcích, kdy klient musí objednaný počet jídel zaplatit, i když jich přijde třeba jen polovina.
 
-{class="important"}
+U bufetů je situace poněkud jiná. Bufet si klienti také objednávají pro určitý počet hostů, ale nepředpokládá se, že když poslední host projde bufetem, že všechny mísy jsou prázdné.
 
-Zbytky totiž nejsou jen neprodané porce vařených jídel. Jsou to i suroviny, které nebyly zpracovány a prodány v plánované době.
+Zásadou bufetů je, že až do dohodnuté doby trvání bufetu vypadají ta jídla tak jako kdyby se ten bufet zrovna tak jako kdyby se právě otevřel.
 
-{id="lilek\_po\_milansku"}
+Techniku toho, jak se to dělá vám tady popisovat nebudu, protože to by to pohostinství skutečně pak dělal UŽ kde kdo.
 
-## Lilek po milánsku
+Já vím, že si zase udělám spoustu nepřátel, ale podle mých zkušeností vím, že v Česku při otevření jakéhokoliv bufetu se těm mísám hosté nahrnou jako kobylky a přesto že jsou všichni velice inteligentní, a vydávají za velké gurmány či sofistikované hosty, tak si na své talíře toho nandají hala bala, co se toho na ně vejde, z obavy, že by se na ně nedostalo.
 
-Existují zbytky, které se tvoří úmyslně. Například když jsem měl na lístku smažený lilek, tak jsem ho vždy záměrně usmažil více než se prodá. Druhý den jsem zbytek lilku prodal jako specialitu zvanou _lilek po milánsku_.
+Na jejich omluvu musím ale říci, že tomu někdy tak je, protože není žádným tajemstvím, že v česku se pohostinstvím zabývají úplní diletanti a kteří o zásadách podávání banketů či bufetů nemají ani ponětí.
 
-Budeme potřebovat:
+Nejčastěji kladenou otázkou jak ze strany hostů, tak ze strany provozovatelů pohostinství je, zda musí klient zaplatit i za objednaná jídla, která nebyla zkonzumována proto, že se všichni jeho hosté nedostavili. Odpověď na tuto otázku je jednoznačná, a sice že klient je povinen zaplatit to co si objednal.
 
-  * plátky obalovaného, smaženého lilku (zbytek z minulého dne),
-  * rajskou omáčku,
-  * na tenké plátky krájený nebo strouhaný sýr,
-  * [bešamelovou omáčku][1] a
-  * přepuštěné máslo.
+Další otázkou je, komu patří zbytky, které díky tomu vznikly.
 
-Příprava lilku není nijak moc časově náročná.
+Při banketech, při kterých byla jídla připravena jen v objednaném množství, všechny zbytky patří logicky tomu, kdo si je objednal, a kdo za ně zaplatil. V tom případě je ale klient povinen zaplatit za obaly, případně za manipulaci s tím spojenou. 
 
-  1. Dno máslem vymaštěného pekáčku pokryjeme plátky smaženého lilku a tenkou vrstvou sýra.
-  2. Následně vše přelijeme bešamelovou omáčkou.
-  3. Tímto způsobem přidáme ještě dvě nebo tři vrstvy tak, abychom skončili bešamelovou omáčkou.
-  4. Povrch posypeme strouhaným sýrem a pokapeme rozpuštěným máslem.
-  5. Lilek pečeme v troubě dozlatova.
+Nicméně když klient na vzniklé zbytky nereflektuje, tak se musí vyhodit, a v tom nejlepším případě jsou nabídnuty personálu ke konzumaci na provozovně. V žádném případě si tyto zbytky zaměstnanci nesmí vzít domů, i kdyby to bylo k nakrmení domácího zvířectva. (Více na toto téma v semináři BEZPEČNOST).
 
-Pečený lilek nakrájíme na porce požadované velikosti a podáváme ho jako hlavní chod s opečenými bramborami nebo s bramborovou kaší.
+Poněkud jiná situace je při bufetech, které jsou podávány zpravidla způsobem „All you can eat“, což ale neznamená „All you can také home“ jak by se někteří hosté mohli domnívat.
 
- [1]: /besamel
+Zásadou každého bufetu je, že až do příchodu posledního hosta, nebo do doby, do které otevření bufetu bylo plánováno, by takový bufete měl, obrazně řečeno vypadat, jako při jeho zahájení. Proto se na takový bufet zakládají jídla v přiměřeném množství a pak se průběžně doplňují. V každém případě bufetový servis je pro restauratéra určitý rizikem a proto plánování potřebné množství jídel je věnována jistá pozornost.
+
+Vzniklé zbyty, i když vzniky proto, že zaplacený počet hostů se nedostavil, v žádném případě nepaří klientu, protože ten zaplatil jen za předpokládané množství jídel zkonzumovaných v dohodnuté době.
+
+Podobně jako při banketech tyto zbytky mohou být nabídnuty zaměstnancům ke konzumaci na závodě, ale i zde si je nesmí odnášet domů.
+
+Tyto zásady se na našich školách nejspíše nevyučují, natožpak aby je znali součastní hosté a proto dochází mnohdy k závažným nedorozuměním.
+
+V současné době v odborných kruzích je zvýšený zájem o catering a tvorbu jídelních lístků, se kterými tyto zásady souvisí a proto přikládám tento výňatek ze semináře
+
+CATERING PRO KAŽDÉHO od:
+
+MICHAEL KLIMA CEC, CCE,
+
+Certified Executive Chef, Certified Culinary Educator, Certified Hospitality Industry Consultant, Professor Emeritus Triton College, Illinois, USA, člen Syndikátu novinářů ČR, Freelance Writer, čestný člen AKC ČR od 1989
+

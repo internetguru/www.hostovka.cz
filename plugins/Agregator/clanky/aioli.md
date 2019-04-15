@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=396.html" data-og-image="/files/preview/clanky/aioli/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=396.html" data-image="/files/preview/clanky/aioli/general.jpg" data-type="article"}
 
 {id="aioli" ctime="2009-04-13" author="Michael Klíma" short="Aioli" authorid="hostovka/michael_klima"}
 
 # Aioli
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="co-kdy-kde"}
 

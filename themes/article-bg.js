@@ -1,7 +1,7 @@
 (function () {
   
   require("IGCMS", function () {
-    var general = document.body.getAttribute("data-og-image").replace("/preview/", "/")
+    var general = document.body.getAttribute("data-image").replace("/preview/", "/")
     if (!general) {
       return;
     }

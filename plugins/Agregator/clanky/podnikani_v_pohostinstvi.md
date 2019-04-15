@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=357.html" data-og-image="/files/preview/clanky/podnikani\_v\_pohostinstvi/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=357.html" data-image="/files/preview/clanky/podnikani\_v\_pohostinstvi/general.jpg" data-type="article"}
 
 {id="podnikani\_v\_pohostinstvi" ctime="2008-07-25" author="Michael Klíma" short="Podnikání v pohostinství" authorid="hostovka/michael_klima"}
 
 # Podnikání v pohostinství
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="gastronomie"}
 
@@ -29,9 +29,9 @@ Přikládám vám članek který by vaše rozhodnutí zvolit si pohostinství ja
 
 Osoba která se rozhoduje pro kariéru nebo investici v pohostisntví a která má již potřebné odborné znalosti má několik možností:
 
-  * Manažovat restauraci pro někoho jiného, a to buď individuální restauraci nebo restauraci nějakého řetězce. 
-  * Koupit vlastní restauraci nebo investovat do frenchizy a sám to manažovat. 
-  * Koupit stávající restaurant a ten provozovat tak jak byl dosud provozován nebo změnit jeho koncept. 
+  * Manažovat restauraci pro někoho jiného, a to buď individuální restauraci nebo restauraci nějakého řetězce.
+  * Koupit vlastní restauraci nebo investovat do frenchizy a sám to manažovat.
+  * Koupit stávající restaurant a ten provozovat tak jak byl dosud provozován nebo změnit jeho koncept.
   * Postavit novou vlastních restauraci podle svých představ a tu sám manažovat.
 
 Při rozhodnutí zda manažovat pro někoho jiného, manažovat vlastní franchíz, koupit stávající nebo postavit novou restauraci, musí každý zvážit nejenom své finanční možnosti,míru odborných znalostí a schopnost zvládat stresové situace, ale i schopnost zvládat výsledky případného úspěchu či neúspěchu.
@@ -50,9 +50,9 @@ Jestliže koupená restaurace je prokazatelně úspěšná tak odměna může b�
 
 ## Koupě zkrachované restaurace
 
-Zkrachované restaurace jsou naprodej častěji než restaurace které jsou úspěšné. 
+Zkrachované restaurace jsou naprodej častěji než restaurace které jsou úspěšné.
 
-Při koupi zkrachované restaurace, nebo restaurace která je na prodej z jiných důvodů má kupující zpravidla více informací než měl její původní majitel. Restaurace neuspějí z různých důvodů, někdy i přes noc. V žádném případě ale neexistuje nějaký recept jak překonat ztracenou reputaci. 
+Při koupi zkrachované restaurace, nebo restaurace která je na prodej z jiných důvodů má kupující zpravidla více informací než měl její původní majitel. Restaurace neuspějí z různých důvodů, někdy i přes noc. V žádném případě ale neexistuje nějaký recept jak překonat ztracenou reputaci.
 
 Ztrátit reputaci je možno třeba i přes noc, ale získat ji zpět trvá někdy i několik let.
 
@@ -60,7 +60,7 @@ Ztrátit reputaci je možno třeba i přes noc, ale získat ji zpět trvá někd
 
 ## Postavit novou restauraci
 
-Bez potřebných odborných znalostí restauratér který v Americe staví svoji restauraci "od píky" podstupuje nepředstavitelné riziko. 
+Bez potřebných odborných znalostí restauratér který v Americe staví svoji restauraci "od píky" podstupuje nepředstavitelné riziko.
 
 Investice nejméně jednoho milionu dolarů do relativně jednoduché restaurace je zcela běžná. Nalezení investora který se na riziku neúspěchu chce podílet, procento případného neúspěchu nikterak nesnižuje.
 
@@ -136,7 +136,7 @@ Původně byl frenchíz v Americe používán jenom k distribuci výrobků a pop
 
 Druhý způsob použití frenchízinku je PROVOZNÍ FORMÁT FRENCHIZINKU (Business Format Frenchízing), neboli používání držitelova systému k celkovému obchodnímu řízení a provozu nezávislé provozovny.
 
-Tento systém, který je pro podniky veřejného stravování nejvhodnější se rozrůstá v pohostinství na celém světě mílovými kroky. Tento způsob totiž, dovoluje uživateli nejenom používat držitelovo jméno, a provozní systém, ale také všechny ochranné známky, odchodní formát, manuály, chráněné receptury, strategii marketingu, apod. 
+Tento systém, který je pro podniky veřejného stravování nejvhodnější se rozrůstá v pohostinství na celém světě mílovými kroky. Tento způsob totiž, dovoluje uživateli nejenom používat držitelovo jméno, a provozní systém, ale také všechny ochranné známky, odchodní formát, manuály, chráněné receptury, strategii marketingu, apod.
 
 Jeden z hlavních důvodů prudkého růstu tohoto formátu, podle několika studií budoucnosti frenčízingu, prováděných "futurology" je, že více a více lidí se přesvědčilo o tom, že frenčízing jim poskytuje možnost stát se podnikateli bez jakýchkoliv znalostí daného oboru, bez zdlouhavého získávání praxe a zkušeností a hlavně bez rizika, které je nejčastějším důvodem který je od rozhodnutí státe se soukromými podnikateli odrazuje.
 
@@ -262,22 +262,22 @@ Předpokládané znalosti a dovednosti manažera se velikostí provozu nikterak 
 
 Profil budoucího manažera kuchyně, i když ne zrovna v pořadí důležitosti je:
 
-  * vrozená inteligence 
-  * základní všeobecné vzdělání 
-  * vyšší odborné vzdělání 
-  * odborná zkušenost a praxe 
-  * odvaha, fantazie, poctivost, pravdomluvnost, pracovitost 
-  * široký obzor a ctižádostivost 
-  * umělecké vlohy a kreativita 
-  * organizační schopnosti 
-  * manažerské vlohy 
-  * schopnost samostatně rozhodovat 
-  * znalost logistiky a marketingu v pohostinství 
-  * znalost angličtiny a případně ještě jednoho cizího jazyka 
-  * znalost psychologie a umění jednat s lidmi 
-  * smysl pro zodpovědnost a pracovní disciplínu 
-  * touha po neustálém sebevzdělání 
-  * členství v profesionálních organizacích 
+  * vrozená inteligence
+  * základní všeobecné vzdělání
+  * vyšší odborné vzdělání
+  * odborná zkušenost a praxe
+  * odvaha, fantazie, poctivost, pravdomluvnost, pracovitost
+  * široký obzor a ctižádostivost
+  * umělecké vlohy a kreativita
+  * organizační schopnosti
+  * manažerské vlohy
+  * schopnost samostatně rozhodovat
+  * znalost logistiky a marketingu v pohostinství
+  * znalost angličtiny a případně ještě jednoho cizího jazyka
+  * znalost psychologie a umění jednat s lidmi
+  * smysl pro zodpovědnost a pracovní disciplínu
+  * touha po neustálém sebevzdělání
+  * členství v profesionálních organizacích
   * a v neposlední řadě schopnost publikovat a hlavně předávat své vědomosti a zkušenosti druhým.
 
 Závěrem bych chtěl jen dodat, že já se konzultacemi v Česku nezabývám, ale pomohl jsem v Česku oteřít restauaci úplnému laikovi a to více méně proto, že jem se chtěl utvrdit v mé teorii, že k úspěšnému provozování restarace nemusíte trávit své mládí ve školní škamně.

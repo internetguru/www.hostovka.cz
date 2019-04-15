@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=233.html" data-og-image="/files/preview/clanky/sele/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=233.html" data-image="/files/preview/clanky/sele/general.jpg" data-type="article"}
 
 {id="sele" ctime="2007-05-14" author="Michael Klíma" short="Sele" authorid="hostovka/michael_klima"}
 
 # Sele
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -137,7 +137,6 @@ Všude jinde kde není prohibice, by toho piva na jedno sele měl stačit asi ta
 Z pečeného selete odřízneme napřed opečenou kůžičku (kterou gurmáni považují za to nejlepší) a maso a nádivku dokud jsou horké krájíme na porce.
 
 Vypečenou šťávu odtučníme, přecedíme a nezahuštěnou podáváme zvlášť v omáčníku.
-
 
 Pro 15 ? 20 lidí by 15 kg sele mělo bohatě stačit, ale záleží co k tomu budete podávat jako filler neboli plnič.
 

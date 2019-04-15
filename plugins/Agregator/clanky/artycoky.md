@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=326.html" data-og-image="/files/preview/clanky/artycoky/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=326.html" data-image="/files/preview/clanky/artycoky/general.jpg" data-type="article"}
 
 {id="artycoky" ctime="2008-06-01" author="Michael Klíma" short="Artyčoky" mtime="2019-03-12"}
 
 # Neobyčejný bodlák artyčok
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="gastronomie"}
 
@@ -46,3 +46,4 @@ Artyčoky se jedí tak, že dvěma prsty vytrhnete lístek z hlavy, namočíte h
 Následně nožem nebo ostrou lžičkou vyškrábete z artyčoku vousy. Ty pokrývají jeho nejcennější část, kterou je jeho srdíčko. To si nakrájíte na malé kousky a podobně jako lístky ho namáčíte do másla nebo do oblíbené omáčky.
 
  [1]: /duseni#marinada
+

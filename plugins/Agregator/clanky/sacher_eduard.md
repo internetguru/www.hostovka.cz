@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=121.html" data-og-image="files/preview/clanky/sacher_eduard/preview.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=121.html" data-image="files/preview/clanky/sacher_eduard/preview.jpg" data-type="article"}
 
 {id="sacher\_eduard" ctime="2005-11-29" author="Michael Klíma" authorid="hostovka/michael\_klima"}
 
 # Sacher Eduard
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="ubytování"}
 

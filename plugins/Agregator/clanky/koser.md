@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=293.html" data-og-image="/files/preview/clanky/koser/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=293.html" data-image="/files/preview/clanky/koser/general.jpg" data-type="article"}
 
 {id="koser" ctime="2008-03-03" author="Michael Klíma" short="Košer" authorid="hostovka/michael_klima"}
 
 # Košer
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="gastronomie"}
 

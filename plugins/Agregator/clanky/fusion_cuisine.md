@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-og-image="/files/preview/clanky/fusion_cuisine/preview.jpg" data-og-type="article" data-source="http://2017.hostovka.cz/clanek.php?clanek=465"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-image="/files/preview/clanky/fusion_cuisine/preview.jpg" data-type="article" data-source="http://2017.hostovka.cz/clanek.php?clanek=465"}
 
 {id="spojena_kuchyne" author="Michael Klíma" ctime="2009-11-07" mtime="2018-12-19" short="Spojená kuchyně"}
 
 # Spojení více druhů kuchyní
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="kuchyňské techniky"}
 

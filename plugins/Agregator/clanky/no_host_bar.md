@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=352.html" data-og-image="/files/preview/clanky/no\_host\_bar/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=352.html" data-image="/files/preview/clanky/no\_host\_bar/general.jpg" data-type="article"}
 
 {id="no\_host\_bar" ctime="2008-07-17" author="Michael Klíma" short="No Host Bar" authorid="hostovka/michael_klima"}
 
 # No Host Bar
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="co-kdy-kde"}
 

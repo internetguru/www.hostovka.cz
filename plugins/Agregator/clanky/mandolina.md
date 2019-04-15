@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=277.html" data-og-image="/files/preview/clanky/mandolina/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=277.html" data-image="/files/preview/clanky/mandolina/general.jpg" data-type="article"}
 
 {id="mandolina" ctime="2008-02-04" author="Michael Klíma" short="Mandolína" authorid="hostovka/michael_klima"}
 
 # Mandolína
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="stroje a náčiní"}
 

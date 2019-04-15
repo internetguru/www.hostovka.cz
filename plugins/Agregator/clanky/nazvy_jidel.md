@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=131.html" data-og-image="/files/preview/clanky/nazvy_jidel/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=131.html" data-image="/files/preview/clanky/nazvy_jidel/general.jpg" data-type="article"}
 
 {id="nazvy\_jidel" ctime="2006-01-16" author="Michael Klíma" short="Názvy jídel" authorid="hostovka/michael\_klima"}
 
 # Názvy jídel
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-02-23, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 

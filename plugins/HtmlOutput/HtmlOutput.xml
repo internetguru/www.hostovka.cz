@@ -7,4 +7,5 @@
   <jsFile append="body">themes/expand.js</jsFile>
   <jsFile append="body">themes/completable-init.js</jsFile>
   <stylesheet>lib/font-awesome/css/font-awesome.css</stylesheet>
+  <var id="schemaorg">enabled</var>
 </HtmlOutput>

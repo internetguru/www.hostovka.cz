@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=126.html" data-og-image="files/preview/clanky/stroganov/preview.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=126.html" data-image="files/preview/clanky/stroganov/preview.jpg" data-type="article"}
 
 {id="stroganov" short="Stroganov" ctime="2005-12-21" author="Michael Klíma" mtime="2019-02-27"}
 
 # Hovězí Stroganov s hranolky
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-06, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="jídla a jídelní lístky, nejčtenější"}
 
@@ -69,7 +69,7 @@ Také velikost porcí masa je v Americe jiná. U dušených mas se pohybuje od 1
 
 Použité technice se říká [vaření z polotovarů][1] (anglicky _assembly cooking_).
 
-  1. Napřed si uděláme takzvaný kvásek (anglicky _whitewash_), kterým později zahustíme omáčku.
+  1. Napřed si uděláme takzvaný kvásek (anglicky _whitewash_), kterým později zahustíme omáčku. 
       1. V kotlíku smícháme tři čtvrtiny dávky kyselé smetany s moukou. To zabrání tomu, aby se omáčka srazila.
       2. Přimícháme hořčici, mletý kmín a popřípadě trošku worcestrové omáčky.
       3. Kvásek rozředíme trochou mléka a dáme stranou.

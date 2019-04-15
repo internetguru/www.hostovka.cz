@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=172.html" data-og-image="/files/preview/clanky/finger_food/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=172.html" data-image="/files/preview/clanky/finger_food/general.jpg" data-type="article"}
 
 {id="finger\_food" ctime="2006-09-07" author="Michael Klíma" short="Finger Food" authorid="hostovka/michael\_klima"}
 
 # Finger Food
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -81,7 +81,6 @@ Nejsou to ale jen někteří "odborníci" ale podobný přístup k hamburgrům a
 
 Oproti tomu například v Číně, asi tak před šesti měsíci, firma McDonnald's oznámila, že hodlá otevřít během 3 let asi 400 jejich restaurací. Nedávno jsem se na internetu dozvěděl, že dnes jich tam je už téměř tisíc a vypadá to tak, že za nějaký čas bude v Číně Macdonald's, nebo nějaký jiný fast food, na každé vesnici a na každé křižovatce jako je tomu v Americe a Číňané se místo hůlkami naučí jíst rukama.
 
-
 Další velice oblíbený sendvič v Americe je Monte Christo sandwich, o kterém jsem se již zmínil a který je tak jednoduchý, že mně to až udivuje, že jsem ho nevynašel já.
 
 Recept na něj nepotřebujete. Potřebujete jen dva máslem pomáznuté toastové chleby. Na každý položíte plátek šunky a navrch plátek sýra. Cheby složíte, pomáznete máslem a na gridlu nebo na ploché pánvičce, či pod grilem je pečete dozlatova až se sýr roztaví.
@@ -89,7 +88,6 @@ Recept na něj nepotřebujete. Potřebujete jen dva máslem pomáznuté toastov�
 Já vím, že mně hned někdo vytkne, že jim dělám reklamu, ale pokud ho chcete ochutnat tak musíte jít do restaurace Motorest Grill u Roudnice nad Labem kde ho navíc dostanete s vynikajícími domácími hranolkami.
 
 Opravte mně pokud se mýlím, ale v současné době nikde jinde takové domácí hranolky nedostanete a já vím o čem mluvím protože koncept toho motorestu je moje dítě a ty hranolky tam dělají podle mého receptu.
-
 
 V té samé restauraci dostanete ale i klasický americký CLUB SANDIVCH který je populární po celém světě.
 

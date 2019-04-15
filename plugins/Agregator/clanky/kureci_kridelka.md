@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=152.html" data-og-image="/files/preview/clanky/kureci_kridelka/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=152.html" data-image="/files/preview/clanky/kureci_kridelka/general.jpg" data-type="article"}
 
 {id="kureci_kridelka" ctime="2006-05-29" mtime="2019-02-19" author="Michael Klíma" short="Kuřecí křidélka"}
 
 # Kuřecí křidélka a jejich příprava
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-06, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="jídla a jídelní lístky, kuře"}
 

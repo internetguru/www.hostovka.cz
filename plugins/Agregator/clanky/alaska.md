@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=25.html" data-og-image="/files/preview/clanky/alaska/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=25.html" data-image="/files/preview/clanky/alaska/general.jpg" data-type="article"}
 
 {id="alaska" ctime="2005-06-26" author="Michael Klíma" short="Alaska" authorid="hostovka/michael_klima"}
 
 # Alaska
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-11, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="co-kdy-kde"}
 
