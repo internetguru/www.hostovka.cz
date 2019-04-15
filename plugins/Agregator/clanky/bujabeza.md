@@ -5,8 +5,6 @@
 
 # Polévka bujabéza a její příprava
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
-
 {kw="jídla a jídelní lístky, polévka, recept, ryby, mořské plody, Francie"}
 
 Správný název polévky by měl být _buillabaise_ (francouzsky). V Česku je ale tato polévka více známá pod názvem bujabéza.
@@ -16,6 +14,8 @@ O bujabéze jsem se dozvěděl ve škole v Praze, za doby druhé světové válk
 Věděl jsem, že nejlepší bujabéza je marsejská. To se vám ale bude snažit každý Pařížan vyvrátit, protože věří, že nejlepší bujabéza je v Paříži. Něčemu takovému ale nevěřte, například Australané zase tvrdí, že nejlepší bujabéza je australská. Také nevěřte na takové nesmysly, jako je například zeleninová bujabéza (bez ryb a plodů moře).
 
 Po celou dobu učení jsem si jako každý mladý kuchař sliboval, že jakmile bude po válce, tak se okamžitě seberu a odjedu do Francie, Mekky gastronomie. Věřil jsem také, že tam konečně poznám, co je to pravá bujabéza.
+
+{id="marseillska_bujabeza"}
 
 ## Marseillská bujabéza
 
@@ -43,6 +43,8 @@ Byl jsem bujabézou tak nadšený, že jsem po několika dnech chtěl stejný z�
 
 Od té doby jsem ochutnal bujabézy v různých zemích a přišel jsem na to, že krása bujabézy je právě v tom, že je pokaždé jiná.
 
+{id="priprava_bujabezy"}
+
 ## Příprava bujabézy
 
 Všechny bujabézy se připravují z čerstvě vylovených ryb a plodů moře. Používají se takové, které byly při výlovu nějak poškozeny, nebo které mají špatnou velikost nebo tvar.
@@ -51,16 +53,16 @@ Všechny bujabézy se připravují z čerstvě vylovených ryb a plodů moře. P
 
 Příprava bujabézy je jednoduchá a ve skutečnosti nepotřebujete ani recept. Ten vám, jak víte, stejně nedám. Jsem ale natolik hodný kluk, že vám alespoň prozradím, jak na to.
 
- 1. Do vroucího rybího nebo rychlého _(court bouillon)_ vývaru dáme očištěné ryby a vaříme asi 5 minut.
- 3. Přidáme mušle, krevetky nebo krabí klepítka a vaříme dalších 4 až 5 minut.
- 4. Ryby vyndáme na teplou mísu, vývar přecedíme přes husté síto, případně vyčistíme bílkem, ochutíme a nalijeme do vyhřáté teriny.
+  1. Do vroucího rybího nebo rychlého _(court bouillon)_ vývaru dáme očištěné ryby a vaříme asi 5 minut.
+  2. Přidáme mušle, krevetky nebo krabí klepítka a vaříme dalších 4 až 5 minut.
+  3. Ryby vyndáme na teplou mísu, vývar přecedíme přes husté síto, případně vyčistíme bílkem, ochutíme a nalijeme do vyhřáté teriny.
 
 Rouille, nazývaný v češtině jako „růj“, je přídavek, chcete-li dochucovací prostředek několika rybích polévek, který u bujabézy nesmí chybět. Růj obsahuje
 
-* vývar,
-* strouhánku, která bujabézu trochu zahustí,
-* bazalku a pálivou papričku pimento, které ji ochutí a
-* žloutky a olej, které přidají polévce na výživnosti.
+  * vývar,
+  * strouhánku, která bujabézu trochu zahustí,
+  * bazalku a pálivou papričku pimento, které ji ochutí a
+  * žloutky a olej, které přidají polévce na výživnosti.
 
 Růj připravíme tak, že všechny suroviny, mimo vývaru a oleje posekáme v mixéru. Potom pomalu přidáváme vývar, než získáme hladkou pastu. Pastu pak rozředíme olejem, který při pomalé rychlosti přidáváme v tenkém proudu, jako při přípravě majonézy.
 

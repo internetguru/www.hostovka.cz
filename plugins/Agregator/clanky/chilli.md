@@ -5,8 +5,6 @@
 
 # Recept na vítězné chili
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
-
 {kw="jídla a jídelní lístky, historka, recept, Amerika, Mexiko"}
 
 Jako každoročně, probíhala v roce 1988 v Chicagu soutěž o nejlepší chili. Při podobných akcích nejde v Americe o medaile, jako spíše o zábavu. Zúčastnit se jich může kdokoli, ne jenom profesionální kuchaři. What a country!
@@ -25,6 +23,8 @@ Samozřejmě, že jsme chili hned přidali na jídelní lístek s názvem „ví
 
 Příprava je trochu zdlouhavější než u běžných receptů, ale myslím si, že za tu námahu to stojí.
 
+{id="recept\_na\_vitezne_chili"}
+
 ## Recept na vítězné chili
 
 Tajemství mého chili je v tučnosti masa, v technice přípravy, a hlavně ve správném poměru potravin a dávce koření. Nesmíte to brát na lehkou váhu, protože v Americe lidi chili rozumí a rozeznají, které je dobré a které ne.
@@ -32,6 +32,8 @@ Tajemství mého chili je v tučnosti masa, v technice přípravy, a hlavně ve 
 {class="important"}
 
 Tučnost mletého hovězího masa je v Americe přísně sledovaná. Například maso do hamburgerů nesmí mít většinou větší tučnost než 20 %. To je důvod, proč některé chili nemá „pravou mexickou chuť“. Proto se k jeho přípravě používá i vepřové maso a sádlo.
+
+{id="suroviny"}
 
 ### Suroviny
 
@@ -58,8 +60,6 @@ Chili prášek
 Paprika
 :   30 g
 
-<!-- sep -->
-
 Mletý kmín
 :   5 g
 
@@ -81,21 +81,25 @@ Drobně krájené jalapeño papričky
 Sůl
 :   dle chuti
 
+{id="technika_pripravy"}
+
 ### Technika přípravy
 
 V receptu je specifikováno libové maso, ale s tučností masa si moc hlavu nelamte. Tuk obsažený v mase a sádlo, na kterém maso restujeme, dá vašemu chili unikátní chuť.
 
- 1. V silnostěnném kastrolu osmahneme na horkém sádle dozlatova cibuli.
- 2. Dříve než cibule stačí příliš zhnědnout, tak přidáme vepřové maso a restujeme ho, než zhnědne a pustí většinu tuku.
- 3. V tom okamžiku přidáme hovězí maso a všechno koření.
- 4. Vše dobře smícháme a restujeme, než všechno maso opět zhnědne.
- 5. Jakmile maso zešedne, scedíme z masa všechen přebytečný tuk a mimo fazolí přidáme všechny ostatní suroviny.
+  1. V silnostěnném kastrolu osmahneme na horkém sádle dozlatova cibuli.
+  2. Dříve než cibule stačí příliš zhnědnout, tak přidáme vepřové maso a restujeme ho, než zhnědne a pustí většinu tuku.
+  3. V tom okamžiku přidáme hovězí maso a všechno koření.
+  4. Vše dobře smícháme a restujeme, než všechno maso opět zhnědne.
+  5. Jakmile maso zešedne, scedíme z masa všechen přebytečný tuk a mimo fazolí přidáme všechny ostatní suroviny.
 
 {class="important"}
 
 V Mexiku takové chili vaří na mírném ohni hodiny a hodiny, někdy i celý den. To si sice nemůžeme dovolit, ale při občasném míchání vaříme chili na mírném ohni alespoň 2 hodiny.
 
 V Mexiku se chili, které je s masem říká _chili con carne_ (chili s masem). Musíte to ale brát s rezervou. Maso bylo v Mexiku vždy relativně drahé, obzvláště hovězí. Masa tedy v pravém mexickém chili nikdy moc nebylo.
+
+{id="chili\_v\_konceptu_steakgrill"}
 
 ## Chili v konceptu Steakgrill
 

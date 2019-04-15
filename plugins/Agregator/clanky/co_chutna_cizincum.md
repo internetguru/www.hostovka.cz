@@ -5,8 +5,6 @@
 
 # Psychlogie chutí a co jí lidé v zahraničí
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
-
 {kw="etnické kuchyně, chutě, historka, případová studie, psychologie"}
 
 Jídlo (strava) je z velké míry otázkou návyku a tradic založených na surovinových možnostech a na technické vyspělosti daného národa či etnické skupiny. Jídlo dříve nemělo vůbec nic společného s chutěmi a preferencemi. Ty přišly až později a začaly být omezovány a regulovány náboženskými přikázáními či zdravotními předpisy.
@@ -51,6 +49,8 @@ Brillat-Savarin, Grimond de La Reinière a jejich další vrstevníci také dali
 
 Můj názor na ta pravidla jsem napsal již několikrát a udělal jsem si tím mnoho nepřátel hlavně mezi skalními gastronomy. Znovu se o tom již zmiňovat nebudu a budu se držet daného tématu.
 
+{id="preference\_v\_dnesni_dobe"}
+
 ## Preference v dnešní době
 
 Jídlo či preference podle chutí, o čemž se Savarin a jeho současníci vůbec nezmiňovali, je také otázkou toho, co si člověk může dovolit. Je mnoho dobrých jídel, která by chutnala všem lidem bez rozdílu. Jsou ale tak drahá, že se mnohdy musí spokojit s tím, na co mají.
@@ -71,6 +71,8 @@ Václav nerozuměl jemným nuancím americké angličtiny, takže pro něj _hot_
 
 Dršťkám se v Americe říká _tripe_. Václav se správně obával, že na _tripe soup_ by se vojáci moc netvářili, a to i přesto, že byli hladoví jako vlci. Řekl jim, že je to _Philadelphia pepperpot_. Vojáci se po polévce mohli doslova utlouct. Od té doby je, původem česká polévka, jednou z amerických specialit.
 
+{id="co\_jak\_a\_proc\_jist\_v\_zahranici"}
+
 ## Co, jak a proč jíst v zahraničí
 
 Již léta se zabývám studiem etnických kuchyní, a to nejenom jejich recepty. Zabývám se spíše tím co, kdy, kde, jak a proč některé národy jedí doma a co se považuje za jejich národní jídla.
@@ -86,6 +88,8 @@ Já vím, že někteří mluví pravdu, ale je v tom skryta spousta pokrytectví
 Jedno naše pořekadlo říká: „Doma jez, co máš, a jinde, co ti dají“. Dnes vám v cizině zadarmo nic nedají a valut zřejmě moc nemáte. Protože doufám že nejste snobové, tak si prostě zajděte do některé laciné místní restaurace, ve které podávají klasická místní jídla.
 
 Určitě bych si tam neobjednal ani svíčkovou, ani halušky i kdyby je tam měli. Objednal bych si jídlo, které neznám a jedl bych ho vlastním způsobem. Nebo bych se ideálně díval, jak ho jedí místní domorodci a opičil bych se po nich (anglicky _monkey see, monkey do_).
+
+{id="kam\_v\_zahranici\_zajit\_na_jidlo"}
 
 ## Kam v zahraničí zajít na jídlo
 

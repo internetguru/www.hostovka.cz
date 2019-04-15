@@ -5,8 +5,6 @@
 
 # Citróny
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
-
 {kw="zbožíznalství"}
 
 Citrón, italsky _limone_, anglicky _lemon_, německy _zitrone_, je dnes používaný po celém světě. Jak k přípravě jídel a nápojů, tak i k jejich ozdobě.
@@ -19,11 +17,13 @@ Citróny v Česku nikdy nerostly, a proto byly vždy relativně drahé. Za socia
 
 Ve většině západních zemí je téměř nemyslitelné podávat rybu a některá smažená jídla bez citrónu. V zemích, jako je Mexiko, se citróny nebo limetky podávají ke všemu, dokonce i k pivu.
 
- * 1 kg citrónů = cca 8 ks = 450 g citrónové šťávy
- * 1 velký citrón = cca 125 g = 54,3 g citrónové šťávy = 1,5 lžičky citrónové kůry
- * 1/8 velkého citrónu = 15,6 g
- * 1 malý citrón = cca 100 g
- * 1/6 malého citrónu = 16,6 g
+  * 1 kg citrónů = cca 8 ks = 450 g citrónové šťávy
+  * 1 velký citrón = cca 125 g = 54,3 g citrónové šťávy = 1,5 lžičky citrónové kůry
+  * 1/8 velkého citrónu = 15,6 g
+  * 1 malý citrón = cca 100 g
+  * 1/6 malého citrónu = 16,6 g
+
+{id="puvod\_a\_historie_citronu"}
 
 ## Původ a historie citrónu
 
@@ -34,6 +34,8 @@ Citróny, kterým se daří nejlépe v subtropických podmínkách, jsou ováln�
 Jsou domněnky, že citrón pochází ze severní Indie. Z Indie se pěstování citrónů rozšířilo do Persie, Palestiny a eventuelně do Řecka a Itálie.
 
 Pádem římského císařství citróny z Evropy téměř vymizely. V osmém a v devátém století Mauři znovu obnovili jejich pěstování ve Španělsku a na Sicílii.
+
+{id="nakup_citronu"}
 
 ## Nákup citrónů
 
@@ -51,7 +53,7 @@ Pokud bych průměrné citróny číslo 360 nebo 432, krájel na osminky, tak by
 
 Já vím, že by mi někteří naši kuchaři jako obyčejně řekli, že jsou pro ně tyto informace bezcenné, protože 10 000 jídel nikdy připravovat nebudou. Věřte mi ale, že tyto techniky fungují i na menším počtu porcí.
 
-{short="Citrón a ryby"}
+{short="Citrón a ryby" id="citron\_a\_ryby"}
 
 ## Podávání citrónu k rybím jídlům
 
@@ -65,23 +67,27 @@ V některých restauracích vám dají k rybě půlku citrónu. V těch lepšíc
 
 Běžnější je, že vám citrón podají nakrájený na dílky (anglicky _wedges_) nebo na plátky (anglicky _slices_). Pokud se citrón krájí na plátky, tak se z průměrně velkého citrónu, po odkrojení obou špiček, nakrájí 10 plátků. Pokud není stanoveno jinak, tak se ze stejného citrónu krájí osminky a výjimečně šestinky.
 
+{id="lecebne\_ucinky\_citronu"}
+
 ## Léčebné účinky citrónu
 
 Citrón je ovoce bohaté na vitamín C. Jistě nám prospěje v pochmurných zimních dnech k povzbuzení imunity proti infekčním onemocněním. Většina z nás používá citróny nejspíše k ochucení čaje. Citróny se však dají využít i jinými způsoby a jejich účinky bývají někdy skoro zázračné.
 
- * Potírání dásní šťávou z citrónu pomáhá zastavit krvácení a zpevnit dásně.
- * Potírání nehtů kouskem citrónu pomáhá při záděrách, lámání nehtů a bílých skvrnách na nehtech. To většinou svědčí o nedostatku zinku a vápníku v organismu.
- * Citrónovou šťávou můžete potřít kůži po hmyzím štípnutí nebo včelím bodnutí, při svědění, výskytu akné či některých typů ekzémů.
- * Vtírání citrónové šťávy do pokožky hlavy pomáhá při infekcích skalpu a padání vlasů.
- * Citrónová šťáva odstraňuje z organizmu usazené soli.
- * Při dně a jiných kloubních potížích se doporučuje každodenní pití zředěné šťávy z citrónů a potírání kostních výrůstků.
- * Citróny obsahují éterické oleje, které pomáhají rozpouštět žlučové kameny, mají antibakteriální účinky a snižují horečku.
- * Pití citrónové šťávy a její přidávání do rozličných salátů pročisťuje játra i ledviny.
- * Pravidelné pití naředěné citrónové šťávy zlepšuje trávení, stimuluje produkci žluči, reguluje tělesnou váhu, snižuje vysoký krevní tlak, zlepšuje krevní oběh a působí proti trombóze.
+  * Potírání dásní šťávou z citrónu pomáhá zastavit krvácení a zpevnit dásně.
+  * Potírání nehtů kouskem citrónu pomáhá při záděrách, lámání nehtů a bílých skvrnách na nehtech. To většinou svědčí o nedostatku zinku a vápníku v organismu.
+  * Citrónovou šťávou můžete potřít kůži po hmyzím štípnutí nebo včelím bodnutí, při svědění, výskytu akné či některých typů ekzémů.
+  * Vtírání citrónové šťávy do pokožky hlavy pomáhá při infekcích skalpu a padání vlasů.
+  * Citrónová šťáva odstraňuje z organizmu usazené soli.
+  * Při dně a jiných kloubních potížích se doporučuje každodenní pití zředěné šťávy z citrónů a potírání kostních výrůstků.
+  * Citróny obsahují éterické oleje, které pomáhají rozpouštět žlučové kameny, mají antibakteriální účinky a snižují horečku.
+  * Pití citrónové šťávy a její přidávání do rozličných salátů pročisťuje játra i ledviny.
+  * Pravidelné pití naředěné citrónové šťávy zlepšuje trávení, stimuluje produkci žluči, reguluje tělesnou váhu, snižuje vysoký krevní tlak, zlepšuje krevní oběh a působí proti trombóze.
 
 {class="example"}
 
 Poněkud zvláštní se může zdát skutečnost, že citrónová šťáva v organismu působí zásaditě a neutralizuje nadměrnou produkci kyseliny solné v žaludku. Tím pádem může být i účinný pomocník při pálení žáhy.
+
+{id="ziskani\_stavy\_a\_kury\_z_citronu"}
 
 ## Získání šťávy a kůry z citrónu
 

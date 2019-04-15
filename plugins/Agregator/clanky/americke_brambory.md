@@ -1,11 +1,9 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=173.html" data-image="/files/preview/clanky/americke_brambory/general.jpg" data-type="article"}
 
-{id="americke\_brambory" ctime="2006-09-07" author="Michael Klíma" short="Americké brambory" mtime="2019-03-28"}
+{id="americke_brambory" ctime="2006-09-07" author="Michael Klíma" short="Americké brambory" mtime="2019-03-28"}
 
 # Americké pečené brambory a hranolky
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="jídla a jídelní lístky, brambory, recept, Amerika"}
 
@@ -19,6 +17,8 @@ Průměrný Američan sní asi 70 kg brambor ročně. Ty se dají klasifikovat d
   * 6,07 kg dehydrovaných brambor, jako prášek, vločky apod.,
   * 0,77 kg konzervovaných brambor.
 
+{id="brambory\_pecene\_v_celku"}
+
 ## Brambory pečené v celku
 
 V Americe není neobvyklé, že některé restaurace vydají za jeden den několik tisíc jídel s bramborami. Přišlo se tedy na to, že je nejjednodušší brambory podávat pečené v celku.
@@ -31,6 +31,8 @@ Při podávání pečených brambor nejde o to, jak velké brambory (tzv. pečen
 
 Také je důležité, aby při společném stravování dostali všichni hosté stejně velké brambory. Restauratéři později uvítali, když za ně třídění brambor začali dělat distributoři.
 
+{id="distribuce\_brambor\_v_americe"}
+
 ## Distribuce brambor v Americe
 
 Pečenáče (anglicky _baking potatoes_), se do restaurací dodávají buď v 50kg pytlích (anglicky _sack_) nebo v krabicích (anglicky _box_). U každého balení je pak uvedeno, kolik brambor v něm je.
@@ -39,17 +41,21 @@ Dejme tomu, že v Americe plánuji udělat banket pro 484 lidí. Všem bych cht�
 
 Teď se ale zeptáte, co uděláte, když v některé krabici nebude brambor 90, nebo co když některá brambora bude zkažená? To jste ale přehlédli, že mluvím o Americe. Tady má každý eminentní zájem na tom, aby host dostal to, co chce a co mu za jeho peníze patří.
 
+{id="efektivita\_prace\_a_vyteznost"}
+
 ## Efektivita práce a výtěžnost
 
 Američtí restauratéři jsou kujóni, a tak mají všechno spočítané na minutu. Přišli na to, že 50 kg brambor trvá ručně oškrabat v průměru 4 hodiny. Ve škrabce můžeme tyto brambory oškrábat na čtyřikrát po 6,5 minutách.
 
 Také přišli na to, že při ručním škrábání je ztráta asi 25 % a při elektrickém škrábání jen 15 %. Výtěžnost (anglicky _yield_) z 50 kg syrových brambor je
 
- * 35 kg loupaných brambor, což je
- * 25 kg smažených bramborových hranolků, to se rovná
- * 50 % výtěžnost. 10 % váhy z hotových hranolků je absorbovaný tuk.
+  * 35 kg loupaných brambor, což je
+  * 25 kg smažených bramborových hranolků, to se rovná
+  * 50 % výtěžnost. 10 % váhy z hotových hranolků je absorbovaný tuk.
 
 Američtí restauratéři také přišli na to, že roztřídit 50kg pytel trvá asi 15 minut. Neměli ale potřebný počet stejnoměrně velkých brambor, což je v amerických restauracích velice důležité.
+
+{id="pecene\_brambory\_v\_cesku-pripadova\_studie"}
 
 ### Pečené brambory v Česku – případová studie
 
@@ -65,17 +71,21 @@ Předpokládejme, že po odečtení ostatních nákladů mají na každé brambo
 
 Pokud takovouto speciální pec restaurace nemá, tak je nejjednodušší brambory péct v jakékoliv troubě na teplotu nejméně 204 °C. Při této teplotě se průměrně velké brambory upečou během 50 minut.
 
+{id="recept\_na\_americke\_pecene\_brambory"}
+
 ## Recept na americké pečené brambory
 
 Sice jsem se zařekl, že už nikdy nikomu nebudu dávat recepty, ale jak se říká, nikdy neříkej nikdy.
 
- 1. Brambory se v Americe prodávají bez hlíny, ale i tak je napřed musíte umýt.
- 2. Po umytí můžete brambory zabalit do aluminiové fólie. Já to ale nedělám, protože je pak jejich slupka vlhká a měkká.
- 3. Při 260 °C se velké brambory pečou 50 až 60 minut. Takže si to musíte spočítat a dát je do trouby asi hodinu před podáváním.
+  1. Brambory se v Americe prodávají bez hlíny, ale i tak je napřed musíte umýt.
+  2. Po umytí můžete brambory zabalit do aluminiové fólie. Já to ale nedělám, protože je pak jejich slupka vlhká a měkká.
+  3. Při 260 °C se velké brambory pečou 50 až 60 minut. Takže si to musíte spočítat a dát je do trouby asi hodinu před podáváním.
 
 Pečené brambory by se měly ideálně podávat hned po upečení. Těsně před podáváním se musí brambora „otevřít“. To je jakýsi rituál, který neznají ani někteří Američani. Brambora se nekrájí nožem, ale udělá se do ní kříž vidličkou. Po jemném zatlačením na její dva konce se brambora otevře. V tom okamžiku poznáme, jestli je správně upečená, protože z ní musí unikat pára.
 
 Host si potom vidličkou bramboru „rozkňafá“ a přidá si do ní buď máslo nebo zakysanou smetanu. Ta je v Americe zpravidla smíchána s pažitkou (anglicky _chives_).
+
+{id="bramborove_hranolky"}
 
 ## Bramborové hranolky
 

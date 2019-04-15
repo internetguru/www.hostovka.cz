@@ -5,8 +5,6 @@
 
 # Vše o avokádu
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
-
 {kw="zbožíznalství, ovoce, zelenina"}
 
 Avokádo (anglicky _avocado_), je někdy označováno za tropické ovoce a jindy za zeleninu. Plody jsou kulaté, oválné nebo hruškovitého tvaru. Barva avokáda může být od jasně zelené, přes červenou, po tmavě rudou, až černou barvu.
@@ -24,6 +22,8 @@ Pokud hodláte avokádo použít až za pár dní, tak vybírejte pevné kusy. K
 {class="important"}
 
 K uspíšení zrání stačí avokádo uložit do papírového sáčku za okno, po dobu 1 až 2 dnů. Zrání můžeme urychlit přidáním jablka.
+
+{id="zpracovani\_a\_skladovani"}
 
 ## Zpracování a skladování
 
