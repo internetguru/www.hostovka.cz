@@ -1,23 +1,25 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=25.html" data-image="/files/preview/clanky/alaska/general.jpg" data-type="article"}
 
-{id="alaska" ctime="2005-06-26" author="Michael Klíma" short="Alaska" authorid="hostovka/michael_klima"}
+{id="alaska" ctime="2005-06-26" author="Michael Klíma" mtime="2019-03-28"}
 
-# Alaska
+# Omeleta s překvapením
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
-{kw="co-kdy-kde"}
+{kw="co-kdy-kde, omeleta"}
 
-Jeden ze států amerických, ale v americké gastronomii Alaska v plném znění Baked Alaska; francouzsky Omelette Surprise; je něco čemu se kdysi česky říkalo omeleta s překvapením, v těch rádoby francouzských restauracích omelette surrprise.
+Omeleta s překvapením _(Alaska)_ je pojmenována podle jednoho ze států Ameriky. Francouzsky se nazývá _omelette surrprise_.
 
-Původně se omeleta s překvapením připravovala tak, že se na sokl z piškotového těsta navršila relativně tuhá zmrzlina která se případně pokryla konzervovaným ovocem a tuhým sněhem. Posléze se tato "omeleta" zprudka opekla v horké troubě do zlatova.
+Příprava omelety s překvapením:
 
-Později zavedením plynu do kuchyní se bílky ošlehly hadicí s hořícím plynem. Tato omeleta se většinou podávala pro větší společnost při mimořádných příležitostech. Před podáváním se omeleta přelila nějakou dobře hořící lihovinou a za potlesku stolovníků se přinesla do ztemnělé místnosti, což bylo to překvapení "surprise".
+ 1. Na výklenek z piškotového těsta navršíme relativně tuhou zmrzlinu.
+ 2. Zmrzlinu pokryjeme konzervovaným ovocem a tuhým sněhem.
+ 3. Posléze tuto „omeletu“ zprudka opečeme dozlatova v horké troubě nebo ošlehneme plamenem.
 
-Omeleta se urychleně naporcovala a hned podávala. Příprava tohoto moučníku byla relativně pracná, což se odrazilo v její ceně která byla překvapením i pro hostitele.
+Tato omeleta se většinou podávala při mimořádných příležitostech. Před podáváním se přelila dobře hořící lihovinou. Za potlesku stolovníků se zapálila a přinesla do ztemnělé místnosti, což je to překvapení.
 
-Nicméně je ale třeba zdůraznit, že v žádném případě se nepoužívá šlehačka, a to nejenom proto, že by se ta omeleta nedala přelévat lihovinou a zapalovat.
+Omeleta se urychleně naporcovala a podávala. Příprava tohoto moučníku byla relativně pracná, což se odrazilo v její ceně. Ta byla pro hostitele jistě také překvapením.
 
-Překvapením pro vás asi bude, že dnes se omeleta s překvapením může připravovat v individuálních porcích dopředu a zmrazovat, což by se šlehačkou také dělat nemohlo.
+Je třeba zdůraznit, že se v žádném případě k přípravě omelety nepoužívá šlehačka. To nejenom z důvodu, že by se nedala přelít lihovinou a zapálit, ale také kvůli uchování omelety. Dnes se totiž omeleta může připravovat dopředu v zamražených individuálních porcích.
 
