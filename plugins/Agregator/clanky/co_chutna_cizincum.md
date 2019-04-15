@@ -1,5 +1,5 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=163.html" data-og-image="/files/preview/clanky/co\_chutna\_cizincum/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=163.html" data-image="/files/preview/clanky/co\_chutna\_cizincum/general.jpg" data-type="article"}
 
 {id="co\_chutna\_cizincum" ctime="2006-07-14" author="Michael Klíma" short="Co chutná cizincům" mtime="2019-03-30"}
 
