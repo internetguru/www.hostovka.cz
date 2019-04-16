@@ -342,13 +342,7 @@ a.tag:before,
   background: #ffecb3;
 }
 /***************************/
-a.tag {
-  border: none;
-  margin: 0.2em 0.5em 0.2em 0;
-  display: inline-block;
-  border-radius: 0.2em;
-}
-a.tag:hover:before {
+a.tag[href]:hover:before {
   color: #9e9e9e;
 }
 a.tag:before {
@@ -360,6 +354,7 @@ a.tag:before {
   font-size: 1.25em;
   line-height: 0;
 }
+h2 a.tag:before,
 a.tag[href^="#"]:before {
   color: #9e9e9e;
 }
@@ -367,21 +362,18 @@ a.tag:not([href]) {
   border: none;
   color: inherit;
 }
-a.tag:not([href]):hover:before {
-  color: #e4e4e4;
-}
 .kw {
   display: flex;
   flex-wrap: wrap;
-  height: 3.5em;
+  height: 1.5em;
   overflow: hidden;
   justify-content: center;
 }
-.kw a.tag[href^="#"] {
-  order: -1;
+h2 a.tag {
+  margin-left: 0.5em;
 }
-.kw a.tag:not([href]) {
-  order: 1000;
+h2 a.tag:before {
+  /* color: #9e9e9e; */
 }
 /***************************/
 .taglist {
