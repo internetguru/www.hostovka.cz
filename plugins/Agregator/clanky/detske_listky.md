@@ -65,7 +65,7 @@ V Americe jsou to většinou postavičky z grotesek Walt Dysnyho apod., ale podo
 
 To že některé zahraniční restaurace, a nebo hotely dětské lístky používají neznamená, že bychom je museli mít i my.
 
-Nesmíme zapomínat na to, že konkrétně v Americe průměrná rodina se dvěmi nebo třemi malými dětmi ve věku 2-5 let, si může dovolit náštěvu restaurace dvakrát i vícekrát týdně a nejsou to nějací milionáři nebo horních deset tisíc, ale prostí "děláci" a proto jsou zde jídelní lísky běžné. What a country!
+Nesmíme zapomínat na to, že konkrétně v Americe průměrná rodina se dvěmi nebo třemi malými dětmi ve věku 2-5 let, si může dovolit náštěvu restaurace dvakrát i vícekrát týdně a nejsou to nějací milionáři nebo horních deset tisíc, ale prostí "děláci" a proto jsou zde jídelní lísky běžné. _What a country! {xml:lang="en"}_
 
 Nejsou to také vždy restaurace s plným jídelním lístkem a plným servisem, ale i v restauraci typu fast food musíme s dětmi počítat.
 

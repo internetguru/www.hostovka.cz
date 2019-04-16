@@ -9,7 +9,7 @@
 
 {kw="gastronomie, ryby, historka"}
 
-Pokud si někdy v restauraci hodláte objednat rybu, tak si dejte velký pozor, zda je opravdu čerstvá. V Americe je zákon zvaný „pravda na jídelním lístku“ _(anglicky truth on the menu)_. Podle tohoto zákona je trestné, aby restaurace uváděla na jídelním lístku, že používá čerstvé ryby, a přitom používala ryby rozmražené. What a country!
+Pokud si někdy v restauraci hodláte objednat rybu, tak si dejte velký pozor, zda je opravdu čerstvá. V Americe je zákon zvaný „pravda na jídelním lístku“ _(anglicky truth on the menu)_. Podle tohoto zákona je trestné, aby restaurace uváděla na jídelním lístku, že používá čerstvé ryby, a přitom používala ryby rozmražené. _What a country! {xml:lang="en"}_
 
 Česká obchodní inspekce by si s tím také eventuálně věděla rady. Může totiž požadovat dodací list. Normální host takovou možnost ale nemá, tudíž záleží jedině na důvěře. Jak ale říkám, v pohostinství nikomu nevěř, ani sobě.
 

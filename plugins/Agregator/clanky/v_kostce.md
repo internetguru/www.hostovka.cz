@@ -13,7 +13,7 @@ Opravte mně pokud se m‎ýlím, ale já si myslím, že "v kostce" je jen čes
 
 Američané sice mají Readers Digest, což je třeba i celá kniha kondensovaná do jedné stránky, nebo něco takového jako Short stories, a mají výraz "in a nutshell", ale jinak si myslím, že slovy a papírem nešetří a důležité věci, jak se v Česku říká, popisují "po lopatě", neboli že je to "idiot proof", aby tomu rozumměl i každ‎ý idiot, tudíž i já.‎
 
-Já musím říci, že některými těmi americk‎ý‎mi návody a manuály jsem úplně fascinován když zjistím, že jim rozumím i já. What a country!
+Já musím říci, že některými těmi americk‎ý‎mi návody a manuály jsem úplně fascinován když zjistím, že jim rozumím i já. _What a country! {xml:lang="en"}_
 
 No, a když si tady v Americe na internet nahodím "v kostce", což je vyloženě česky, tak to sice několik okamžiků trvá, ale pak se mi ukáže několik příkladů toho co všecho se v Česku v kostce dá udělat.
 

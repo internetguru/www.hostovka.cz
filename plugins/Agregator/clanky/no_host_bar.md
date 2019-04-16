@@ -13,5 +13,5 @@ Pokud neznáte jemné nuance angičtiny, tak byste si mohli myslet, že se jedn�
 
 Výraz "host" zde ale znamená "hostitel", tudíž že se jedná o bar, lépe řečeno o barový pult při společenkých funkcích, ze kterého se vydávají hostům nápoje a koktejly, které ale hostitelem nejsou placeny, takže si je každý host musí zaplatit sám.
 
-Jako studenti Hostovky byste také měli vědět, že kdybyste si na takovém baru něco objednali, že to musíte zaplatit a že do skleničky, kterou tam ten barman za tím účelem má připravenou, musíte dát i tip, neboli spropitné. What a country!
+Jako studenti Hostovky byste také měli vědět, že kdybyste si na takovém baru něco objednali, že to musíte zaplatit a že do skleničky, kterou tam ten barman za tím účelem má připravenou, musíte dát i tip, neboli spropitné. _What a country! {xml:lang="en"}_
 

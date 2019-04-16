@@ -19,5 +19,5 @@ Výhody: Host nemusí čekat až mu jeho nápoj "dolije" a může si dojit k bar
 
 Nevýhody: Někteří hosté, a to ne jenom v Česku, pokud je něco zadarmo prostě neznají míru a tak v takovém případě se opijí, a mnhdy jinak slušnou party svatbu či oslavu zcela zničí.
 
-V Americe, pokud takový host v podnapilosti způsobí nějakou škodu, případně zaviní nějaké neštěstí, může odpovědnost nést ten kdo ho do takového stavu přivedl, což by byl hostitel a proto někteří hostitelé, přesto, že by si výdaje s cash bar mohli dovoloit, dávají přednost podávání lihovin formou cash bar při kterémžto způsobu ta konzumace lihovin je kontrolována alespoň jejich cenou. What a country!
+V Americe, pokud takový host v podnapilosti způsobí nějakou škodu, případně zaviní nějaké neštěstí, může odpovědnost nést ten kdo ho do takového stavu přivedl, což by byl hostitel a proto někteří hostitelé, přesto, že by si výdaje s cash bar mohli dovoloit, dávají přednost podávání lihovin formou cash bar při kterémžto způsobu ta konzumace lihovin je kontrolována alespoň jejich cenou. _What a country! {xml:lang="en"}_
 

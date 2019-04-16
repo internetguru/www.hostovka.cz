@@ -53,7 +53,7 @@ No, v pátek se ještě přidáním několika ostrých papriček dal udělat Mex
 
 Musím se ale také přiznat, že v Americe jsem všechny ty "české" guláše také s úspěchem dělal, ale musel jsem každý z nich vařit denně čerstvý protože americké maso je tak kvalitní, že by se po druhém ohřátí ten guláš úplně rozpadl."
 
-Také na nějaký "glanz" což je ten tuk který se do guláše v Česku přidává, můžete zapomenot protože naopak každou kapku tuku které to maso pustí musíte z toho guláše sebrat. What a country!
+Také na nějaký "glanz" což je ten tuk který se do guláše v Česku přidává, můžete zapomenot protože naopak každou kapku tuku které to maso pustí musíte z toho guláše sebrat. _What a country! {xml:lang="en"}_
 
 Tudíž jestli máte nějaké vaše triky kterými by se ta EU dala oblafnout, tak mi je neváhejte napsat.
 

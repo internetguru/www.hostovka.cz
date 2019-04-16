@@ -9,7 +9,7 @@
 
 {kw="jídla a jídelní lístky, historka, recept, Amerika, Mexiko"}
 
-Jako každoročně, probíhala v roce 1988 v Chicagu soutěž o nejlepší chili. Při podobných akcích nejde v Americe o medaile, jako spíše o zábavu. Zúčastnit se jich může kdokoli, ne jenom profesionální kuchaři. What a country!
+Jako každoročně, probíhala v roce 1988 v Chicagu soutěž o nejlepší chili. Při podobných akcích nejde v Americe o medaile, jako spíše o zábavu. Zúčastnit se jich může kdokoli, ne jenom profesionální kuchaři. _What a country! {xml:lang="en"}_
 
 Osobně jsem se soutěže účastnil pravidelně. Ani ne tak proto, abych demonstroval svoje umění v přípravě chili, jako spíše proto, že tam soutěžili i hezké holky.
 

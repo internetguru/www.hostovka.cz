@@ -169,7 +169,7 @@ Mají tam ale i benzinovou pumpu kde ten benzín je také lacinější a tak tam
 
 Teď ale u všech těch českých gurmánů kteří se stravuji jen v těch restauracích typu Ambiente na 12 chodových menu klesnu úplně pod úroveň gurmána, ale já se přiznám, že tam pokaždé jdu do jejich stánku s občerstvením a dáme si buď pizzu nebo hot dog.
 
-Dostanete k tomu soft drink který si načepujete podle přání a kolik chcete a pro dva nás to stojí myslím něco kolem 4 dolarů. What a country!
+Dostanete k tomu soft drink který si načepujete podle přání a kolik chcete a pro dva nás to stojí myslím něco kolem 4 dolarů. _What a country! {xml:lang="en"}_
 
 Mají tam také takový samoobslužný pult se všemi těmi "trimmings" kterých si na ten váš hot dog můžete dát kolik chcete a jak vidíte z přiloženého obrázku tak já se je vždy snažím zruinovat a nakydám si toho co se tam vejde.
 
@@ -231,7 +231,7 @@ Jeho spotřeba surovin a materiálu, tak zvaný food cost, je prý o mnoho lepš
 
 Každý párek s hořčicí a chlebem a s veškerým "trimmings" ho tehdy stál 22 centů a on ho prodával za 90 centů, což je teoretická spotřeba surovin kolem 24% (22:90= 24.4), neboli podle teorie, že ideální bezpečná spotřeba surovin by měla být 33%, to bylo na prvý pohled více než dobré.
 
-Jeho hrubý zisk na jednom párku byl tudíž 68 centů (90-22= 68), což representuje teoreticky asi 76% hrubého zisku (68:90= 75.5). What a country!
+Jeho hrubý zisk na jednom párku byl tudíž 68 centů (90-22= 68), což representuje teoreticky asi 76% hrubého zisku (68:90= 75.5). _What a country! {xml:lang="en"}_
 
 Zeptal jsem se ale, jakou má průměrnou denní tržbu. Načež mi řekl, že asi tak  _{var="500"}_,- což představovalo asi 550 párků.
 

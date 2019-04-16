@@ -47,7 +47,7 @@ Jídlo podávané na studeném talíři je zcela bezcenné. Kuchař, který při
 
 {class="example"}
 
-V Americe, kde se věci někdy přehání, mají saláty až do posledního okamžiku v chladničce. Podávají je na vychlazených talířích a mnohdy vám k nim přinesou i vychlazenou vidličku. What a country!
+V Americe, kde se věci někdy přehání, mají saláty až do posledního okamžiku v chladničce. Podávají je na vychlazených talířích a mnohdy vám k nim přinesou i vychlazenou vidličku. _What a country! {xml:lang="en"}_
 
 Se spokojeností hostů si v České republice některé restaurace moc starostí nedělají. V jedné pražské restauraci jsem si stěžoval na to, že mám jídlo na studeném talíři. Číšník, zřejmě spolumajitel, mi na to řekl: „Kde máme vzít peníze na režon, tadle restaurace stála už dost peněz tak jako tak.“
 

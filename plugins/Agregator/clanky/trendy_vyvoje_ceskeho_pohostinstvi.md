@@ -37,7 +37,7 @@ Myslel jsem si, že čeští kuchaři, kteří se v minulosti dokázali vypořá
 
 Já vím, že vám s tou Amerikou jdu již na nervy, ale zemi našich vzorů vám za příklad už dávat nemohu, a tak bych rád věděl, jestli si umíte představit, že by v nějaké průměrné americké restauraci, ve které podávají 600 až 800 jídel na jedno posazení, měly na lístku napsáno, že si některé jídlo musí hosté objednat nejméně 2 hodiny dopředu!
 
-V některých lepších či populárních restauracích hosté sice předpokládají, že musí mít reservaci někdy i den předem, ale kdyby potom měli čekat více než 20 minut na stůl, a potom dalších 20-30 minut na hlavní jídlo, tak by do takové restaurace již nikdy nevkročili.What a country!
+V některých lepších či populárních restauracích hosté sice předpokládají, že musí mít reservaci někdy i den předem, ale kdyby potom měli čekat více než 20 minut na stůl, a potom dalších 20-30 minut na hlavní jídlo, tak by do takové restaurace již nikdy nevkročili. _What a country! {xml:lang="en"}_
 
 Na to mi ale řeknete, že to vás nezajímá, protože takové restaurace v Česku nemáme. Že nemáme? No tak si počkejte pár let. Vy si myslíte, že je to jen v Americe? A co takhle v Německu, ve Francii, v Itálii, ve Švýcarech nebo v jiných zemích. Myslíte si, že v Japonsku nebo v Číně problémy s nakrmením milionů lidí zdravě, rychle a lacino dnes nemají.
 
@@ -65,7 +65,7 @@ Zasloužený zisk se v pohostinství totiž dá získat jedině tvrdou a poctivo
 
 Již jsem se o tom někde zmínil, a opravte mně pokud se mýlím, ale podle mě americký restauratér nespí a přemýšlí jak by to udělal, aby svým hostům za jejich peníze toho dal co možná nejvíce, a aby mu při tom zbyl zasloužený zisk.
 
-Oproti tomu, jak se obávám, mnohý český restauratér nespí a přemýšlí, jak by jeho hostům toho za jejich peníze dal co nejméně, aby mu tím pádem zbylo více pro něj.What a country!
+Oproti tomu, jak se obávám, mnohý český restauratér nespí a přemýšlí, jak by jeho hostům toho za jejich peníze dal co nejméně, aby mu tím pádem zbylo více pro něj. _What a country! {xml:lang="en"}_
 
 {id="kalkulace"}
 

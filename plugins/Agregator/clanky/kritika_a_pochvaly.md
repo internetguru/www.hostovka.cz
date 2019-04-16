@@ -31,7 +31,7 @@ Američané si v České republice možná nestěžují z obavy, aby je za to n�
 
 Doma (v Americe) si totiž postěžují jednou nebo dvakrát a potřetí jdou někam jinam. Když se to tak vezme, tak jsou to právě stížnosti, které přispěly té vysoké úrovni služeb v americkém pohostinství.
 
-Američtí restauratéři se totiž naučili stížnostem předcházet tím, že se snaží hostům dát nejenom to co chtějí, ale také co jim patří. What a country!
+Američtí restauratéři se totiž naučili stížnostem předcházet tím, že se snaží hostům dát nejenom to co chtějí, ale také co jim patří. _What a country! {xml:lang="en"}_
 
 Problém v Česku byl zatím v tom, že málokterý host věděl co mu patří, ale nyní díky Hostovce se situace doufám změní a hosté si na ty nedostatky budou bez ostychu stěžovat.
 

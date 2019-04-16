@@ -75,7 +75,7 @@ Nevím jestli je to snaha se lišit, nebo jestli je to projev demokracie, ale na
 
 Když to někdy vidím, tak si říkám že všechny ty předpisy o tom, že při přípravě jídla musí mít každý něčím pokrytou hlavu a pokud má dlouhé vlasy, nebo vousy že dokonce musí mít síťku, jsou předpisy nanic když representanti kuchařského umění je nerespektují.
 
-V tom ohledu tu americkou demokracii čeští kuchaři přetrumfli, protože v Americe se nepřikrytá hlava při přípravě potravin pokutuje. What a country!
+V tom ohledu tu americkou demokracii čeští kuchaři přetrumfli, protože v Americe se nepřikrytá hlava při přípravě potravin pokutuje. _What a country! {xml:lang="en"}_
 
 Něco takového je ale pokutováno i například v Kazachstánu kde jsem se setkal s tím že místní kuchařky nosili velice pracně vykrajované (kroužkované) plátěné a naškrobené čepice.
 

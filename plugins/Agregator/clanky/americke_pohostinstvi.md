@@ -53,9 +53,9 @@ Přeci by na to měl být nějaký zákon, že když si někdo napíše na dvé�
 
 Do vaší restaurace člověk vejde a přesto že neděle večer, a restaurace je prázdní, tak se vás nikdo z těch třech obsluhujících za tím barovým pultem ani nevšimne. No o nějakém uvádění ke stolu ani nemluvě, ale to bych ještě tak omluvil, protože to je český standard.
 
-To víte, v té Americe, zvláště v Los Angeles, kde každá druhá servírka je budoucí slavná zpěvačka, filmová hvězda, případně právnička nebo lékařka vás s úsměvem pozdraví a dokonce se představí svým jménem. What a country!
+To víte, v té Americe, zvláště v Los Angeles, kde každá druhá servírka je budoucí slavná zpěvačka, filmová hvězda, případně právnička nebo lékařka vás s úsměvem pozdraví a dokonce se představí svým jménem. _What a country! {xml:lang="en"}_
 
-V té vaši restauraci jeden číšník vezme objednávku a druhý, který vám ta jídla v té prázdné restauraci donese se vás zeptá, kdo měl co. Být to v Americe, tak bych řekl, že si to nepamatuji, ale tam se mi ani ve společnosti 10 nebo 20 lidí nemůže stát. V některých českých restauracích se už naučili, že po malé chvíli se obsluhující přijde zeptat, jestli je vše v pořádku, ale ve vaši restauraci byli zaměstnání sledováním televize a tak nereagovali ani na mé horečné mávaní. What a country!
+V té vaši restauraci jeden číšník vezme objednávku a druhý, který vám ta jídla v té prázdné restauraci donese se vás zeptá, kdo měl co. Být to v Americe, tak bych řekl, že si to nepamatuji, ale tam se mi ani ve společnosti 10 nebo 20 lidí nemůže stát. V některých českých restauracích se už naučili, že po malé chvíli se obsluhující přijde zeptat, jestli je vše v pořádku, ale ve vaši restauraci byli zaměstnání sledováním televize a tak nereagovali ani na mé horečné mávaní. _What a country! {xml:lang="en"}_
 
 No a to jídlo zvané Diner Sampler (ještě že umím anglicky), mohu popsat jen jedním slovem, kterému jako Američané určitě rozumíte a to je „GARBAGE“.
 

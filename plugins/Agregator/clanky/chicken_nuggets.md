@@ -18,7 +18,7 @@ Podle verze mého dobrého přítele René Arenda, to nicméně s jejich vynále
 ![René Arend a M. Klima na McDonald universite v Dearfield, Illinois][2] 
 :   René Arend (šéfkuchař největšího řetězce restaurací rychlého občerstvení) a M. Klíma na McDonald univerzitě v Dearfield, Illinois
 
-Mohlo by vás zajímat, že uvedení nuget na jídelní lístky McDonaldu trvalo téměř dva roky, až do roku 1983. Cena tohoto procesu šla do milionů dolarů. What a country! V těch milionech je započteno i 100 dolarů, které jsem dostal za to, že jsem se jeden den zúčastnil jejich laboratorní ochutnávky. Takže Renému věřím, že to tak bylo.
+Mohlo by vás zajímat, že uvedení nuget na jídelní lístky McDonaldu trvalo téměř dva roky, až do roku 1983. Cena tohoto procesu šla do milionů dolarů. _What a country! {xml:lang="en"}_ V těch milionech je započteno i 100 dolarů, které jsem dostal za to, že jsem se jeden den zúčastnil jejich laboratorní ochutnávky. Takže Renému věřím, že to tak bylo.
 
 {id="ochutnavky\_a\_testovani"}
 

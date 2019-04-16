@@ -33,7 +33,7 @@ Přišel za mnou jeden student s tím, že neví proč by měl používat komer�
 
 Nakonec i slavný Escoffier, který některé omáčky vařil 6 až 12 hodin jenom proto, že tehdy ještě nevěděl co je to FC (food cost) a který si to mohl dovolit jen proto, že měl kuchyni plnou ?otroků? které vypláceli jak se říká klackem, a kterého energie téměř také nic nestála, by dnes sáhl po nějaké konvenientí potravině.
 
-Když se to tak vezme tak dnes se v Americe prodává konvenientní stolní omáčka pod jeho jménem, kterou ale někteří lidé kupuji jenom díky tomu jménu. What a country!
+Když se to tak vezme tak dnes se v Americe prodává konvenientní stolní omáčka pod jeho jménem, kterou ale někteří lidé kupuji jenom díky tomu jménu. _What a country! {xml:lang="en"}_
 
 Pro něco takového nemusíte ale až do Ameriky. V Česku by se ale omáčka pod jménem naší jediné slavné "kuchařky" Magdaleny Rettigové asi moc neprodávala, přestože se jmenuje Dobromila jako já.
 

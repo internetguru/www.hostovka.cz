@@ -53,7 +53,7 @@ Margret vzala objednávku na nápoje a odešla. Mezitím se moji partneři pusti
 
 Margret, když se vrátila, tak aniž by se někoho na něco ptala, tak před každého s úsměvem na rtech postavila nápoj který si objednal se slovy: "Here you are Franta, Karel, či Ríša", a při tom se opět na každého mile usmála.
 
-Moji partneři byli šokovaní nejenom tím, že o půlnoci stále směje, ale i proto, že v Česku si někteří číšníci s maturitou ani u dvou lidí nepamatují co si kdo objenal, ale Margret si to všechno pamatovala včetně jejich jmen. What a country!
+Moji partneři byli šokovaní nejenom tím, že o půlnoci stále směje, ale i proto, že v Česku si někteří číšníci s maturitou ani u dvou lidí nepamatují co si kdo objenal, ale Margret si to všechno pamatovala včetně jejich jmen. _What a country! {xml:lang="en"}_
 
 No, to ale byl jen začátek. Margret potom od každého vzala objednávku jídla které šla předat do kuchyně.
 
@@ -79,7 +79,7 @@ Jak to bude se vzdělaností v České republice až vzdělání zadarmo nebude,
 
 Američanům se také často předhazuje jejich hrubé a někdy neomalené chování. Ta hrubost má zřejmě co společného s hrubými podmínkami prvních amerických osadníků, což se někdy zveličuje v těch kovbojkách, a ta neomalenost je podle mně vlastní každému velkému národu. O Američanech se také říká, že jsou nevychovaní, s čímž do jisté míry souhlasím. Američané, i ti potomci bohatých plantážníků, nemají totiž žádnou Kidnerstube, protože nebyli vychování francouzskými guvernantkami, ale bývalými černými otrokyněmi, takže co od nich chcete. Na druhé straně se ale nedá říci že dnešní vzdělaní Američané chování nemají. Američan totiž je v zásadě ohleduplný, stále se na každého usmívá, za vše tisíckrát děkuje, a umí ocenit každou službu nebo laskavost kterou mu prokážete. Američan se Vás několikrát za den zeptá How are you, což je společenská fráze, ale mně se to líbí, protože když stokrát denně někomu odpovím, že se mám dobře, tak tomu nakonec i věřím. S něčím takovým, aby Vám Američan neposlal thank you note, neboli písemné poděkování když ho pozvete na večeři, nebo aby Vám neřekl jak to vše bylo dobré, se nesetkáte; a aby Vám neodpověděl na dopis či e-mail, nebo nepoděkoval za radu kterou jste mu na jeho dotaz poskytli, to už vůbec ne.
 
-Odborné vzdělání je v Americe ale úplně jiné zvíře. Američané se v zásadě učí, když to řeknu zjednodušeně, jen to co mohou nějak zpeněžit. Americký kreditní systém ve výuce, který mimo jiné budou konečně používat i na některých vysokých školách v ČR, například umožňuje, aby někdo, kdo třeba nemá dostatek bystrosti, inteligence, času a nebo i finančních prostředků, vystudoval například medicínu i když mu to trvá třeba i 30 let.What a country!
+Odborné vzdělání je v Americe ale úplně jiné zvíře. Američané se v zásadě učí, když to řeknu zjednodušeně, jen to co mohou nějak zpeněžit. Americký kreditní systém ve výuce, který mimo jiné budou konečně používat i na některých vysokých školách v ČR, například umožňuje, aby někdo, kdo třeba nemá dostatek bystrosti, inteligence, času a nebo i finančních prostředků, vystudoval například medicínu i když mu to trvá třeba i 30 let. _What a country! {xml:lang="en"}_
 
 Američané se také stále něco učí. Američan když ví, že k výkonu jeho zaměstnání bude potřebovat znalost výpočetní techniky, tak jde do nějakého kurzu ve kterém se to, třeba i po několikerých pokusech, nakonec naučí. Na druhé straně by Američan však neztrácel čas studiem Marxismu-Leninismu, leda že by byl přesvědčen, že investice do toho studia se mu vrátí. Proto například dnes spousta Američanů studuje japonštinu, čínštinu, ruštinu a v poslední době i arabštinu, a těm kteří pracují v Česku také nedělá potíže se tu češtinu naučit. Ze stejného důvodu i já, když jsem po příchodu do Ameriky zjistil že počítače jsou "in", a že bez toho nebudu jednoho dne moci existovat, jsem si na univerzitě v Indianě udělal vysokou se vznešeným názvem Computer Applied Science in Hospitality Industry, což mi vždy pomohlo dostat lepší zaměstnání.
 
@@ -139,7 +139,7 @@ Toto je ale jen bleskové popsání široké škály služeb a cen v amerických
 
 Jinak se ale dá říci, že Američané se chovají ku svému tělu jako ku svému autu.
 
-Američan když má Jaguára, Cadilac, Mercedes, BMW, nebo jiné drahé auto, tak u pumpy ukáže palcem tam kde má benzinovou nádrž a řekne: "Fill it up with premium", což znamená, že mu ho mají naplnit tím nejlepším benzínem který mají. No a své tělo "plní" také tak - když na to má, tak si dá ten největší steak třeba i za 20-25 dolarů a když na to nemá, tak si dá se stejnou chutí hamburgra za 90 centů.What a country!
+Američan když má Jaguára, Cadilac, Mercedes, BMW, nebo jiné drahé auto, tak u pumpy ukáže palcem tam kde má benzinovou nádrž a řekne: "Fill it up with premium", což znamená, že mu ho mají naplnit tím nejlepším benzínem který mají. No a své tělo "plní" také tak - když na to má, tak si dá ten největší steak třeba i za 20-25 dolarů a když na to nemá, tak si dá se stejnou chutí hamburgra za 90 centů. _What a country! {xml:lang="en"}_
 
 Většina Američanů, včetně těch milionářů, vyrostla totiž na jídlech jako je hamburger, peanut butter sandwich, hot dog, fish fingers a případně smažená kuřata a nedá se říci, že by byli vybíraví, i když jsou jídla která nejedí, ale to je spíše proto, že se s nimi ještě nikdy nesetkali.
 

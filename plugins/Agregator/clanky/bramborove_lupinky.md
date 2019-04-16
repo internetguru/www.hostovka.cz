@@ -41,7 +41,7 @@ Bylo to přímo fascinující v porovnání s tím jak jsem se je učil dělat j
 
 V té výrobně pracuje asi 10 lidí kteří zpracovávají asi 4.000 tun brambor denně a přitom nemají žádné sklady ani na ty sirové brambory a ani na usmažené lupínky.
 
-Brambory, tak jak je od rána obrovské náklaďáky přiváží na jednu stranu té výrobny, se automaticky čistí, perou, loupou, krájí, smaží, balí do balíčků, a pak se na druhém konci té výrobny nakládají do prázdných kamionů, takže večer poslední zaměstnanec zhasne a je hotovo. What a country!
+Brambory, tak jak je od rána obrovské náklaďáky přiváží na jednu stranu té výrobny, se automaticky čistí, perou, loupou, krájí, smaží, balí do balíčků, a pak se na druhém konci té výrobny nakládají do prázdných kamionů, takže večer poslední zaměstnanec zhasne a je hotovo. _What a country! {xml:lang="en"}_
 
 Mrzí mně, že jsem celý ten proces nenahrál, ale takových programů je tady nekonečná řada a to bych asi nedělal nic jiného a nakonec by se třeba ukázalo, že to v Česku stejně nikoho nezajímá, nehledě k tomu, že během toho procesu neprozradili, jak to dělají, že ty lupínky nejsou mastné.
 

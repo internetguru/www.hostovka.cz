@@ -15,7 +15,7 @@ Na to by ale dnes někdo mohl říci: "Too little, too late", neboli -trochu má
 
 Jedním takovým výrazem je například americký hot dog který je překládán do češtiny jako americký párek, avšak doslovný překlad "horký pes" je mnohem více na místě.
 
-Za prvé rčení: "Je to horké jako pes", je u nás dosti běžné a za druhé - v Americe hot dogy nejsou prodávány v párech, tudíž to není párek. Pro lepší kontrolu porcí jsou hot dogy v Americe ve většině případů prodávány na kusy, označené 5:1, 6:1 nebo 8:1, což vyjadřuje kolik jich je do libry (1 libra = 453,6 g), neboli 8:1 znamená, že je to 8 hot dogů, každý o váze 2 unce, protože libra má 16 uncí. What a country!
+Za prvé rčení: "Je to horké jako pes", je u nás dosti běžné a za druhé - v Americe hot dogy nejsou prodávány v párech, tudíž to není párek. Pro lepší kontrolu porcí jsou hot dogy v Americe ve většině případů prodávány na kusy, označené 5:1, 6:1 nebo 8:1, což vyjadřuje kolik jich je do libry (1 libra = 453,6 g), neboli 8:1 znamená, že je to 8 hot dogů, každý o váze 2 unce, protože libra má 16 uncí. _What a country! {xml:lang="en"}_
 
 Ani já jsem si na to dlouho nemohl zvyknout, a tudíž jsem se velmi často setkal s divným pohledem, když jsem si u amerického řezníka objednal například čtyři páry hot dogů.
 

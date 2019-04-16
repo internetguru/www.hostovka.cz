@@ -53,7 +53,7 @@ Nicméně zodpovědný foodwriter podnik který popisuje, navštíví zpravidla 
 
 Recenzenti je něco co se v současné době nosí v Česku. Poslední dobu sleduji ty recenze v Lidovkách a v Hospodářských novinách a o těch vám nemusím nic podívat, protože je najdete na internetu.
 
-Tak jako i jinde na světě útratu těch recenzentů platí ty noviny v čemž se tedy vylepšili. Kdysi, hned po té Sametové revoluci, když jsem se třikrát denně stravoval v nějaké restauraci, jsem totiž já také nabízel své služby jedněm novinám, ale tehdy si to představovali tak, že jim mé zkušenosti z nějaké restaurace popíši, útratu že si zaplatím a oni že mi za ten článek zaplatí podle tarifu. What a country!
+Tak jako i jinde na světě útratu těch recenzentů platí ty noviny v čemž se tedy vylepšili. Kdysi, hned po té Sametové revoluci, když jsem se třikrát denně stravoval v nějaké restauraci, jsem totiž já také nabízel své služby jedněm novinám, ale tehdy si to představovali tak, že jim mé zkušenosti z nějaké restaurace popíši, útratu že si zaplatím a oni že mi za ten článek zaplatí podle tarifu. _What a country! {xml:lang="en"}_
 
 {id="food\_columnists\_"}
 

@@ -61,7 +61,7 @@ V Americe, jak asi víte, tituly jako doktor nebo inženýr se moc nenosí, ale 
 
 "Wellcome to the Haymarket Senator"
 
-Prostě pro ně každý host je senátorem, ať je to kdokoliv a podle toho s ním také jednají. What a country!
+Prostě pro ně každý host je senátorem, ať je to kdokoliv a podle toho s ním také jednají. _What a country! {xml:lang="en"}_
 
 {id="uvadeni\_ku\_stolu"}
 
