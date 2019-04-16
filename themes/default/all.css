@@ -17,6 +17,9 @@ div.paragraph, div.list, pre {
   margin-right: auto;
   box-sizing: border-box;
 }
+#header > div {
+  max-width: 80em;
+}
 /***************************/
 #content strong  {
   font-weight: 500;
