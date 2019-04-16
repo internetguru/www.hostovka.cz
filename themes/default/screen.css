@@ -342,20 +342,6 @@ a.tag:before,
   background: #ffecb3;
 }
 /***************************/
-.taglist:before {
-  content: "Kategorie:";
-  font-size: 1.2em;
-  margin-right: 0.5em;
-}
-.taglist {
-  list-style: none;
-  display: table;
-}
-.taglist li {
-  display: inline-block;
-  margin: 0.3em;
-}
-/***************************/
 a.tag {
   border: none;
   margin: 0.2em 0.5em 0.2em 0;
