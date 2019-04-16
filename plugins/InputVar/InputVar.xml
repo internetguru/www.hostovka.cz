@@ -75,8 +75,6 @@
     <data name="href=obloha"></data>
     <data name="title=nudle"></data>
     <data name="href=nudle"></data>
-    <data name="title=nejčtenější">Filtrovat články</data>
-    <data name="href=nejčtenější">/?stitek=nejctenejsi#clanky</data>
     <data name="title=nápoje">Filtrovat články</data>
     <data name="href=nápoje">/?stitek=napoje#clanky</data>
     <data name="title=mořské plody"></data>
@@ -169,7 +167,6 @@
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=případová studie" href="href=případová studie">případová studie</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=pohostinství" href="href=pohostinství">pohostinství</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=o čem se mluví" href="href=o čem se mluví">o čem se mluví</a>
-    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=nejčtenější" href="href=nejčtenější">nejčtenější</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=nápoje" href="href=nápoje">nápoje</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=kuchyňské techniky" href="href=kuchyňské techniky">kuchyňské techniky</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=koho se to týká" href="href=koho se to týká">koho se to týká</a>
@@ -199,7 +196,6 @@
 <option class="tag" value="stitky/pripadova_studie">případová studie (9 výskytů) #stitky/pripadova_studie</option>
 <option class="tag" value="stitky/pohostinstvi">pohostinství (14 výskytů) #stitky/pohostinstvi</option>
 <option class="tag" value="stitky/o_cem_se_mluvi">o čem se mluví (17 výskytů) #stitky/o_cem_se_mluvi</option>
-<option class="tag" value="stitky/nejctenejsi">nejčtenější (9 výskytů) #stitky/nejctenejsi</option>
 <option class="tag" value="stitky/napoje">nápoje (4 výskytů) #stitky/napoje</option>
 <option class="tag" value="stitky/kuchynske_techniky">kuchyňské techniky (17 výskytů) #stitky/kuchynske_techniky</option>
 <option class="tag" value="stitky/koho_se_to_tyka">koho se to týká (9 výskytů) #stitky/koho_se_to_tyka</option>
