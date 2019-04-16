@@ -160,7 +160,9 @@ h1 + p {
   background-position: 50% 30%;
 }
 .hdesc:before {
-  background: url("/files/header.jpg");
+  background-image: url("/files/header.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 /***************************/
 .hdesc:before {
