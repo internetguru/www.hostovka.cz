@@ -1,11 +1,9 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=137.html" data-image="files/preview/clanky/all\_you\_can_eat/preview.jpg" data-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=137.html" data-image="files/preview/clanky/all\_you\_can_eat/preview.jpg" data-type="article" data-top="3"}
 
 {id="samoobsluzna_restaurace" ctime="2006-02-08" mtime="2018-12-05" author="Michael Klíma" short="Samoobslužná restaurace"}
 
 # Vše, co sníš a nikoli co odneseš
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="nejčtenější, gastronomie, bufet, pozdní snídaně"}
 

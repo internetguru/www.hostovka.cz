@@ -1,11 +1,9 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=124.html" data-image="files/preview/clanky/obloha/preview.jpg" data-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=124.html" data-image="files/preview/clanky/obloha/preview.jpg" data-type="article" data-top="9"}
 
 {id="obloha" ctime="2005-12-09" author="Michael Klíma" authorid="hostovka/michael_klima"}
 
 # Obloha
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="jídla a jídelní lístky, nejčtenější"}
 
