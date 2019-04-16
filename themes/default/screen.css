@@ -672,3 +672,26 @@ ul.docinfo.nomultiple.partial li {
   }
 }
 /***************************/
+.moreable-linkwrapper {
+  width: 100%;
+  max-width: 100% !important;
+  flex: 0 0 100% !important;
+  text-align: center;
+  padding-top: 3em !important;
+}
+.moreable-linkwrapper a {
+  display: inline-block;
+  margin: 0 auto !important;
+  width: auto;
+  border: 0.1em solid;
+  cursor: pointer;
+  max-width: none !important;
+}
+.moreable-linkwrapper a:hover {
+  background: #FFE0B2;
+}
+.moreable-linkwrapper a:focus,
+.moreable-linkwrapper a:active {
+  background: #FFF3E0;
+}
+/***************************/
