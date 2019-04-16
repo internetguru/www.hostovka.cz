@@ -3,9 +3,9 @@
   
   <var modifyonly="modifyonly" id="docinfo">
     <ul class="docinfo nomultiple global">
-      <li class="fa fa-user">Autor: <span var="author">n/a</span></li>
-      <li class="fa fa-file">Datum vytvoření: <span var="ctime" fn="inputvar-dateformat">n/a</span></li>
-      <li class="fa fa-wrench"><span var="modified">n/a</span></li>
+      <li><span class="material-icons">person</span>Autor: <span var="author">n/a</span></li>
+      <li><span class="material-icons">description</span>Datum vytvoření: <span var="ctime" fn="inputvar-dateformat">n/a</span></li>
+      <li var="modified">n/a</li>
       <li class="fa fa-external-link-square"><a var="source@href">Zobrazit článek na původním webu Hostovky</a></li>
       <li class="fa fa-github"><a href="#" var="inputvar-ghedit">n/a</a></li>
     </ul>
