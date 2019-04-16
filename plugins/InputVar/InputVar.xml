@@ -13,7 +13,7 @@
   <fn id="makeelements" fn="pregreplace" pattern="([a-zA-Z0-9áčďéěíňóřšťůúýžÁČĎÉĚÍŇÓŘŠŤŮÚÝŽ _-]+)(:?, )?" replacement="&#x3C;a href=&#x22;/?stitek=\1#clanky&#x22; class=&#x22;tag nowarning&#x22;&#x3E;\1&#x3C;/a&#x3E;" /> 
   <fn id="html2md" fn="pregreplace" pattern="(.+).html" replacement="$1.md"/>
   <var id="mdfile" var="file" fn="html2md"/>
-  <var id="ghedit"><a var="inputvar-mdfile@href" href="https://github.com/InternetGuru/www.hostovka.cz/edit/master/%s">.</a></var>
+  <var id="ghedit"><a var="inputvar-mdfile@href" href="https://github.com/InternetGuru/www.hostovka.cz/edit/master/%s">Navrhnout úpravy článku</a></var>
   
   <fn id="replacenames" fn="replace">
 <!-- [replacenames] generated content, do not edit -->
