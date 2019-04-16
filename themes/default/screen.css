@@ -190,7 +190,7 @@ dl.clanek > *:not(:first-child):not(.date) {
   width: 100%;
   height: 15em;
   max-height: 100%;
-  border-radius: 0.25em 0.25em 0 0;
+  border-radius: 0.5em 0.5em 0 0;
 }
 .clanek dt:first-child {
   position: relative;
@@ -220,7 +220,7 @@ a.tag:before,
   width: 100%;
   height: 100%;
   background: linear-gradient(to bottom, rgba(0, 0, 0,0.8) 0%,rgba(0, 0, 0, 0) 25%);
-  border-radius: 0.25em 0.25em 0 0;
+  border-radius: 0.5em 0.5em 0 0;
 }
 .clanek dt:first-child a:before {
   background: none;
@@ -274,64 +274,35 @@ a.tag:before,
   line-height: 0;
   vertical-align: -0.1em;
 }
-#content .clanek .extra {
-  padding: 0.5em;
-  padding-top: 0;
-  width: calc(100% - 1rem);
-}
-.clanek .extra ul {
+.extra ul {
   list-style: none;
   margin: 0;
   padding: 0;
+  display: -webkit-flex;
+  display: -ms-flexbox;
   display: flex;
   max-width: 100%;
+  position: relative;
+  align-items: center;
 }
-.clanek .extra ul li {
-  margin: 0;
-  padding: 0;
+.extra ul li {
   height: 2.25em;
 }
-.clanek .extra ul li:nth-child(2) {
+.extra ul li:nth-child(2) {
   margin-left: auto;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: flex-end;
+      -ms-flex-align: end;
+          align-items: flex-end;
+  width: 100%;
 }
-#content .clanek .extra ul li > span {
-  max-width: none;
-  cursor: pointer;
-  color: #9e9e9e;
-  width: .075em;
-  height: 1em;
-  overflow: hidden;
-  /*! background: red; */
-  font-size: 1.2em;
-  border-radius: 100%;
-}
-#content .clanek .extra ul li > span:before {
-  position: relative;
-  top: -0.15em;
-  left: -0.4em;
-}
-.clanek .extra ul li > span span:first-child {
-  flex: 0 0 1em;
-  width: 1em;
-  height: 1.2em;
-  overflow: hidden;
-}
-#content .clanek .extra ul li > span.facebook {
-  /*! background: red; */
-  border-radius: 100%;
-  width: 0.5em;
-  height: 0.5em;
-  padding: 1em;
-}
-#content .clanek .extra ul li > span.facebook span {
-  
-  position: relative;
-  top: -0.4em;
-  left: -0.05em;
-}
-.clanek .extra .button {
+.extra .button {
   border: none;
   display: inline-block;
+  padding-left: 0.6em;
+  padding-right: 0.6em;
 }
 .filter .button:hover,
 .contentbalancer-simple a:hover,
@@ -676,5 +647,159 @@ ul.docinfo.nomultiple.partial li {
 .moreable-linkwrapper a:focus,
 .moreable-linkwrapper a:active {
   background: #FFF3E0;
+}
+/***************************/
+/***************************/
+.copyable-wrapper {
+  max-width: 100%;
+  overflow: hidden;
+  background: #f1f3ff;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  justify-content: space-between;
+  border-radius: 0.3rem;
+  align-items: center;
+}
+.extra .copyable-wrapper {
+  position: absolute;
+  right: 0;
+  top: -2.7rem;
+  line-height: 110%;
+  text-align: left;
+}
+.clanek .copyable-wrapper {
+  width: 100%; 
+  box-shadow: 0 0.15em 0.05em -0.1em rgba(0,0,0,.2), 0 0.1em 0.1em 0 rgba(0,0,0,.14), 0 0.05em 0.25em 0 rgba(0,0,0,.12), 0 -0.6em 0.5em 0em #ffffff9e;
+}
+.hdesc .copyable-wrapper {
+  top: -2.4rem;
+}
+.copyable-wrapper > span:first-child {
+  order: 2;
+  font-size: 1.2em;
+  background: #e0e0e0;
+  padding: 0.1em 0.2em 0.1em 0.4em;
+  border-radius: 0 0.3rem 0.3rem 0;
+  flex-shrink: 0;
+  height: 1.6em;
+  line-height: 1.6;
+}
+.copyable-wrapper > span:first-child button {
+  padding: 0.2em;
+  height: 1.7em;
+  width: 2em;
+  border-radius: 0;
+  overflow: hidden;
+  background: none;
+  color: transparent;
+}
+.hdesc .copyable-wrapper > span:first-child button {
+  padding: 0.3em;
+}
+.copyable-wrapper > span:first-child button:before {
+  content: "\f0ea";
+  font-family: "FontAwesome";
+  color: #333;
+}
+.copyable-wrapper > span:first-child + span {
+  padding: 0 0.5em;
+  overflow: hidden;
+  height: 1.2em;
+  flex-shrink: 1;
+  word-break: break-all;
+  outline: none;
+}
+.extra .hideable {
+  display: flex;
+  justify-content: flex-end;
+  margin-left: auto;
+}
+.fb a,
+.twitter a {
+  border: 0;
+}
+.extra .hideable-switch,
+.fb a,
+.twitter a {
+  transition: 0.25s ease-out;
+  font-size: 1.3rem;
+  display: block;
+  overflow: hidden;
+  line-height: 1;
+  height: 2em;
+  width: 2em;
+  border-radius: 1em;
+  padding-top: 0.5em;
+  padding-left: 0.5em;
+  box-sizing: border-box;
+  color: transparent;
+}
+.extra .hideable > span:first-child {
+  order: 10;
+}
+.extra span a {
+  margin: 0 0.2em;
+  border: none;
+  text-align: left;
+}
+html:not(.js) .extra .hideable > span:first-child,
+html:not(.js) .extra .hideable > .copyable {
+  display: none;
+}
+.hdesc .extra *:before {
+  color: white;
+}
+.hdesc .extra .hideable-switch {
+  padding-top: 0.4em;
+}
+.extra .hideable-nohide .hideable-switch,
+.extra .hideable-switch:hover,
+.fb a:hover,
+.twitter a:hover {
+  background: #eeeeee;
+}
+.hdesc .extra .hideable-nohide .hideable-switch,
+.hdesc .extra .hideable-switch:hover,
+.hdesc .fb a:hover,
+.hdesc .twitter a:hover {
+  background: #757575;
+}
+#content .extra .hideable-switch:before,
+.fb a:before,
+.twitter a:before {
+  content: "\f1e0";
+  font-family: "FontAwesome";
+}
+.section .extra .hideable-switch:before,
+.fb a:before,
+.twitter a:before {
+  transition: 0.25s ease-out;
+  color: transparent;
+}
+.section .extra .hideable-switch:before, .fb a:before, .twitter a:before {
+  color: #999;
+  margin: 0;
+}
+.section .extra .hideable-switch {
+  padding-left: 0.5em;
+}
+.fb a {
+  padding-left: 0.7em;
+}
+.fb a:before {
+  content: "\f09a";
+}
+.twitter a:before {
+  content: "\f099";
+}
+#content .hdesc .extra {
+  width: 100%;
+  position: relative;
+}
+span.copyable-wrapper {
+  color: #333;
+  width: max-content;
+  max-width: 100%;
 }
 /***************************/
