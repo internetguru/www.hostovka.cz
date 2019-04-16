@@ -6,8 +6,13 @@ div.paragraph, div.list, pre {
   padding-left: 1rem;
   padding-right: 1rem;
 }
-#content > *:not(.hdesc):not(.section), #content > .hdesc > *, #content > .section > *, #header > *, #footer > * {
-  max-width: 62rem;
+#content > :not(.hdesc):not(.section) > *,
+#content > .hdesc > *,
+#clanky,
+#content > .section > .part > *,
+#header > *,
+#footer > * {
+  max-width: 55rem;
   margin-left: auto;
   margin-right: auto;
   box-sizing: border-box;
@@ -57,12 +62,6 @@ dl.figure dd {
   display: none;
 }
 /***************************/
-h2#clanky {
-  /* visibility: hidden; */
-  /* height: 0; */
-  /* margin: 0; */
-  /* padding: 0; */
-}
 h2#clanky + p {
   display: none;
 }
@@ -144,6 +143,7 @@ dl.taglist dd {
   border: 0.1em solid;
   margin-left: 0.5em;
   white-space: nowrap;
+  font-size: 1rem;
 }
 /***************************/
 a.tag {
