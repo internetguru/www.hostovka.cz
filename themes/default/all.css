@@ -58,10 +58,10 @@ dl.figure dd {
 }
 /***************************/
 h2#clanky {
-  visibility: hidden;
-  height: 0;
-  margin: 0;
-  padding: 0;
+  /* visibility: hidden; */
+  /* height: 0; */
+  /* margin: 0; */
+  /* padding: 0; */
 }
 h2#clanky + p {
   display: none;
