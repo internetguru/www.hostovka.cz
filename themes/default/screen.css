@@ -176,8 +176,10 @@ dl.figure.mike dd q {
     0 0.1em 0.1em 0 rgba(0,0,0,.14),
     0 0.05em 0.25em 0 rgba(0,0,0,.12);
   padding: 0;
-  border-radius: 0.25em;
+  border-radius: 0.5em;
   background: white;
+  width: 100%;
+  max-width: 25em;
 }
 dl.clanek > *:not(:first-child):not(.date) {
   padding: 0 1rem;
@@ -331,14 +333,17 @@ a.tag:before,
   border: none;
   display: inline-block;
 }
+.filter .button:hover,
 .contentbalancer-simple a:hover,
-.clanek .extra .button:hover {
+.extra .button:hover {
   background: #fff8e1;
 }
+.filter .button:active,
+.filter .button:focus,
 .contentbalancer-simple a:focus,
 .contentbalancer-simple a:active,
-.clanek .extra .button:focus,
-.clanek .extra .button:active {
+.extra .button:focus,
+.extra .button:active {
   background: #ffecb3;
 }
 /***************************/
@@ -671,5 +676,9 @@ ul.docinfo.nomultiple.partial li {
 .moreable-linkwrapper a:focus,
 .moreable-linkwrapper a:active {
   background: #FFF3E0;
+}
+/***************************/
+h2#clanky {
+  font-size: 1.5em;
 }
 /***************************/
