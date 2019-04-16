@@ -6,10 +6,11 @@ div.paragraph, div.list, pre {
   padding-left: 1rem;
   padding-right: 1rem;
 }
-#content > :not(.hdesc):not(.section) > *,
+#content > :not(.hdesc):not(.section):not(.docinfo) > *,
 #content > .hdesc > *,
 #clanky,
-#content > .section > .part > *,
+#content > .section > *,
+#content > .docinfo,
 #header > *,
 #footer > * {
   max-width: 55rem;
