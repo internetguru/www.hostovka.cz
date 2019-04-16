@@ -5,7 +5,9 @@
 
 # Životopis
 
-{kw="Životopis, nejčtenější"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
+{kw="Životopis"}
 
 Michael Dobromil Klíma (dále jen „MDK“) narozený v roce 1928 v Československu, je nyní občanem Spojených států amerických, ale srdcem a duší je stále Čech
 
