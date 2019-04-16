@@ -37,7 +37,7 @@ n/a
 
 KOHO SE TO TÝKÁ:
 
-Vážení, přes varování Jednoho zkušeného kuchaře, který ve vaši restauraci jedl a označil ji jako “POD ÚROVEŇ” jsem se do vaší restaurace dnes vypravil, abych si udělal vlastní úsudek. 
+Vážení, přes varování Jednoho zkušeného kuchaře, který ve vaši restauraci jedl a označil ji jako “POD ÚROVEŇ” jsem se do vaší restaurace dnes vypravil, abych si udělal vlastní úsudek.
 
 Já již více než 20 let denně sleduji trend úpadku českého pohostinství, zejména služeb, žasnu nad tím, že se již celé nezhroutilo. Je sice pravda, že jsou vzácné výjimky a že jsou u nás restaurace, které se nemusí za svou práci stydět, ale, které tou špatnou pověstí českého pohostinství trpí stejně nejvíce.
 
