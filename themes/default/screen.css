@@ -72,15 +72,9 @@ h1 + p {
   overflow: hidden;
 }
 .hdesc > div {
-  display: -webkit-flex;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-flex-wrap: wrap;
-      -ms-flex-wrap: wrap;
-          flex-wrap: wrap;
-  -webkit-flex-direction: column;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  flex-wrap: wrap;
+  flex-direction: column;
   padding: 0 1em;
 }
 .hdesc > div > h1 {
@@ -124,12 +118,8 @@ h1 + p {
     display: block;
   }
   #header > div {
-    display: -webkit-flex;
-    display: -ms-flexbox;
     display: flex;
     z-index: 11;
-    -webkit-justify-content: space-between;
-    -ms-flex-pack: justify;
     justify-content: space-between;
     padding: 0;
   }
@@ -168,6 +158,9 @@ h1 + p {
 .hdesc:before {
   background-size: cover;
   background-position: 50% 30%;
+}
+.hdesc:before {
+  background: url("/files/header.jpg");
 }
 /***************************/
 .hdesc:before {
