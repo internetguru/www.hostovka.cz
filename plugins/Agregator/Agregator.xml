@@ -5,7 +5,7 @@
     <li><a title="Autor: %s" var="link@href author@title heading">n/a</a></li>
   </doclist>
 -->
-  <doclist id="stitek" path="clanky" kw="nejčtenější">
+  <doclist id="stitek" path="clanky" filter-name="top">
     <dl class="clanek">
       <dt><a title="Autor: %s" var="link@href author@title"><img var="image@src heading@alt"/></a></dt>
       <dd class="date" fn="inputvar-dateformat" var="ctime">n/a</dd>
