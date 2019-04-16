@@ -25,11 +25,11 @@ Když se nad tím ale zamyslíte, tak každý z nás měl životě důvod si v r
 
 ## MYSTERY SHOPPERS
 
-Mystery shoppers je zvláštní odrůda kritiků, kteří to částečně dělají k vlastnímu uspokojení, ale v zásadě pro peníze protože je to placená služba. 
+Mystery shoppers je zvláštní odrůda kritiků, kteří to částečně dělají k vlastnímu uspokojení, ale v zásadě pro peníze protože je to placená služba.
 
 {id="food\_critic\_"}
 
-## FOOD CRITIC 
+## FOOD CRITIC
 
 V Americe food critic, food writer a restaurant critic, je ve většině případů někdo, kdo dělá recenzi jídla nebo restaurace, a své poznatky popisuje, neboli food writer, případně někdo kdo je publikuje v nějakém magazinu nebo novinách a v takovém případě se mu říká food columnist.
 
@@ -41,11 +41,11 @@ Foodwriters se rekrutují z řad dospělých, zkušených sofistikovaných náv�
 
 Ve většině případů se food writers specializují jen na některé typy restauračních podniků což nejčastěji jsou restaurace vyšších cenových skupin. Food writer musí být rovněž znalcem nápojů, zejména cocktailů a vín, ale i znalcem populárních cuisines.
 
-Jsou ale food writers, kteří se specializují na etnické kuchyně, což je obzvláště náročné, protože každá etnická restaurace se snaží dodržovat zvyky daného národa či cusine a foodwriter musí být s těmito zásadami obeznámen. 
+Jsou ale food writers, kteří se specializují na etnické kuchyně, což je obzvláště náročné, protože každá etnická restaurace se snaží dodržovat zvyky daného národa či cusine a foodwriter musí být s těmito zásadami obeznámen.
 
-Proto například v Česku v etnických kuchyních mohou food writers popisovat nejvýše tak hygienu, ale autenticitu jídel a pití případně dekor nebo celkovou ambiánce popisovat nemohou, protože nemají potřebné znalosti. 
+Proto například v Česku v etnických kuchyních mohou food writers popisovat nejvýše tak hygienu, ale autenticitu jídel a pití případně dekor nebo celkovou ambiánce popisovat nemohou, protože nemají potřebné znalosti.
 
-Nicméně zodpovědný foodwriter podnik který popisuje, navštíví zpravidla několikrát, aby byla vyloučena možnost náhodných chyb, ale i tak, se jedná o velice subjektivní popis. 
+Nicméně zodpovědný foodwriter podnik který popisuje, navštíví zpravidla několikrát, aby byla vyloučena možnost náhodných chyb, ale i tak, se jedná o velice subjektivní popis.
 
 {id="recenzenti"}
 
@@ -57,11 +57,11 @@ Tak jako i jinde na světě útratu těch recenzentů platí ty noviny v čemž 
 
 {id="food\_columnists\_"}
 
-## FOOD COLUMNISTS 
+## FOOD COLUMNISTS
 
 Ve většině případů kvalitu jídla a nápojů, úroveň služeb a celkovou ambince, každý columnist hodnotí svým osobitým způsobem ve stupnici 1-5. Jedni používají prostá čísla, jiní používají jazýčky, lžičky, případně vařečky, či kuchařské čepice.
 
-Toto hodnocení je v každém případě subjektivní, protože názory na to co je dobré a co je špatné, čeho je málo a čeho je hodně a hlavně na to co je laciné a co je drahé, se velice různí. Tudíž takové hodnocení je také velice zodpovědný úkol. 
+Toto hodnocení je v každém případě subjektivní, protože názory na to co je dobré a co je špatné, čeho je málo a čeho je hodně a hlavně na to co je laciné a co je drahé, se velice různí. Tudíž takové hodnocení je také velice zodpovědný úkol.
 
 V Americe, kde každý soudí každého i pro sebemenší důvod, nesprávné hodnocení, ať již kladné či záporné může totiž mít dalekosáhlé následky, a v noha případech končí soudním přelíčením.
 
@@ -77,11 +77,11 @@ Restaurační či hoteloví auditoři jsou podstatně menší skupinou, protože
 
 ## LABUŽNÍCI
 
-Labužníci jsou jak mezi gurmety tak i mezi gourmány, a když se to tak vezme tak je jich je tolik, že by si zasloužili svoji vlastní skupinu. Bylo by ale mylné se domnívat, že labužník je někdo kdo vychutnává jen kaviár, lanýže nebo jiná drahá jídla. 
+Labužníci jsou jak mezi gurmety tak i mezi gourmány, a když se to tak vezme tak je jich je tolik, že by si zasloužili svoji vlastní skupinu. Bylo by ale mylné se domnívat, že labužník je někdo kdo vychutnává jen kaviár, lanýže nebo jiná drahá jídla.
 
-Labužník je někdo, kdo umí vychutnat všechno co mu chutná, bez ohledu na to zda je to drahé nebo laciné, zda je to v souladu se současnými gastronomickými předpisy nebo módním trendem. 
+Labužník je někdo, kdo umí vychutnat všechno co mu chutná, bez ohledu na to zda je to drahé nebo laciné, zda je to v souladu se současnými gastronomickými předpisy nebo módním trendem.
 
-Labužník prostě vyhledává restaurace, ve kterých podávaná jídla uspokojí jeho představu o lahůdkách bez ohledu na to, zda tato jídla jsou kladně hodnocená jak gurmány, gurmety nebo snoby. 
+Labužník prostě vyhledává restaurace, ve kterých podávaná jídla uspokojí jeho představu o lahůdkách bez ohledu na to, zda tato jídla jsou kladně hodnocená jak gurmány, gurmety nebo snoby.
 
 Labužník není někdo, kdo navštěvuje populární, drahé a exklusivní restaurace jenom proto, aby tam „dýchal stejný vzduch“ s nějakými intelektuály nebo osobnostmi což je charakteristické pro snoby.
 
@@ -91,27 +91,27 @@ Jsou ale i „labužníci“ kteří se spíše rozcapují a sáhodlouze popisuj
 
 Příkladem je pan Vladimír Poštůlka, samozvaný gourmet-kritik, který se také považuje za labužníka, ale který podle mě není ani jedno, ani druhé a ani třetí. Kdo je to kritik, jsme si již řekli, a tak si řekněme kdo je gourmet.
 
-Gourmet je nejvíce zneužívaný výraz v gastronomickém slovníku. V poslední době si toto označení přisvojili snobové natolik, že tento výraz dostal špatný zvuk. gourmet je znalec dobrého jídla a dobrých vín který se více zajímá kvalitou než kvantitou. 
+Gourmet je nejvíce zneužívaný výraz v gastronomickém slovníku. V poslední době si toto označení přisvojili snobové natolik, že tento výraz dostal špatný zvuk. gourmet je znalec dobrého jídla a dobrých vín který se více zajímá kvalitou než kvantitou.
 
-Gourmet je civilizovaný člověk s kultivovanou a vystříbřenou chutí který umí ocenit jídlo a pití které konzumuje. 
+Gourmet je civilizovaný člověk s kultivovanou a vystříbřenou chutí který umí ocenit jídlo a pití které konzumuje.
 
-Tak jako milovník a znalec hudby dokáže rozeznat jednotlivé hudební nástroje hrající v orchestru, tak i gourmet dokáže rozeznat jednotlivé chutě které svou kombinací tvoří lahodné jídlo. Podobně má i schopnost plně vychutnat kvality dobrého vína. Kompozice jídel je pro gourmeta rovněž důležitá. 
+Tak jako milovník a znalec hudby dokáže rozeznat jednotlivé hudební nástroje hrající v orchestru, tak i gourmet dokáže rozeznat jednotlivé chutě které svou kombinací tvoří lahodné jídlo. Podobně má i schopnost plně vychutnat kvality dobrého vína. Kompozice jídel je pro gourmeta rovněž důležitá.
 
-Podněty gourmetů a gurmánů 18. století vedly často k tvorbě jídel která si zachovala svoji popularitu do dnešních dnů. 
+Podněty gourmetů a gurmánů 18. století vedly často k tvorbě jídel která si zachovala svoji popularitu do dnešních dnů.
 
-Dobrý gourmet se pozná na tom, jak umí vybrat a zkombinovat různá jídla a vína která se k nim hodí. gourmet také trvá na vkusně a atraktivně upravené tabuli. 
+Dobrý gourmet se pozná na tom, jak umí vybrat a zkombinovat různá jídla a vína která se k nim hodí. gourmet také trvá na vkusně a atraktivně upravené tabuli.
 
 Tyto schopnosti vnímání zahrnuji delikátní chuť a střídmost. Neznamená to, že gourmet jí komplikovaná jídla neustále (právě naopak) ale znamená to, že gourmet, pokud se jídla a pití týká, je člověk velice soudný, ale velice zřídka své názory dává hlasitě najevo.
 
-Nicméně pan Poštůlka ve své namyšlenosti a v honbě za publicitou měl takovou chucpu, že si před několika lety, jako „labužník” otevřel web stránky www.labuzdopo.cz, na kterých se ale již několik let větérek nepohnul. 
+Nicméně pan Poštůlka ve své namyšlenosti a v honbě za publicitou měl takovou chucpu, že si před několika lety, jako „labužník” otevřel web stránky www.labuzdopo.cz, na kterých se ale již několik let větérek nepohnul.
 
 Pan Poštůlka tam mimo jiné uvádí restaurace, které za posledních 6 let navštívil a které doporučuje, NOVINKY ve kterých dělá reklamu jak sobě tak Michelinu, a uvádí tam dokonce i jeden recept měsíce a Lexikon, který je snůška úplných nesmyslů.
 
-Labužníci jsou jak mezi gurmety tak i mezi gourmány, a když se to tak vezme tak je jich tolik, že by si zasloužili svoji vlastní skupinu. Bylo by ale mylné se domnívat, že labužník je někdo kdo vychutnává jen kaviár, lanýže nebo jiná drahá jídla. 
+Labužníci jsou jak mezi gurmety tak i mezi gourmány, a když se to tak vezme tak je jich tolik, že by si zasloužili svoji vlastní skupinu. Bylo by ale mylné se domnívat, že labužník je někdo kdo vychutnává jen kaviár, lanýže nebo jiná drahá jídla.
 
-Labužník je někdo, kdo umí vychutnat všechno co mu chutná, bez ohledu na to zda je to drahé nebo laciné, zda je to v souladu se současnými gastronomickými předpisy nebo módním trendem. 
+Labužník je někdo, kdo umí vychutnat všechno co mu chutná, bez ohledu na to zda je to drahé nebo laciné, zda je to v souladu se současnými gastronomickými předpisy nebo módním trendem.
 
-Labužník prostě vyhledává restaurace, ve kterých podávaná jídla uspokojí jeho představu o lahůdkách bez ohledu na to, zda tato jídla jsou kladně hodnocená jak gurmány, gamety, snoby a případně i Michelinem. 
+Labužník prostě vyhledává restaurace, ve kterých podávaná jídla uspokojí jeho představu o lahůdkách bez ohledu na to, zda tato jídla jsou kladně hodnocená jak gurmány, gamety, snoby a případně i Michelinem.
 
 Labužník není někdo, kdo navštěvuje populární, drahé a exklusivní restaurace jenom proto, aby tam „dýchal stejný vzduch“ s nějakými intelektuály nebo osobnostmi což je charakteristické pro snoby.
 

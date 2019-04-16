@@ -5,7 +5,9 @@
 
 # Hovězí Stroganov s hranolky
 
-{kw="jídla a jídelní lístky, nejčtenější"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+
+{kw="jídla a jídelní lístky"}
 
 Se Stroganovem jsem se poprvé setkal v Moskvě kolem roku 1954. Od té doby jsem ho jedl jak v Sovětském svazu, tak i jinde ve světě. Stroganov byl vynalezen dvorním kuchařem carského dvora Sergejem Stroganovem za vlády ruské carevny Kateřiny Veliké.
 
