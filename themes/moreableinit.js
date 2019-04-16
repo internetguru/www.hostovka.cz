@@ -4,4 +4,4 @@ require("IGCMS.Moreable", function () {
     moreText: "Další články kategorie",
     leftText: "zbývá %s"
   })
-}
+})
