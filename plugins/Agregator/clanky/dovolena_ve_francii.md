@@ -59,7 +59,7 @@ Francouzi jsou patrioti, ale podle mě jsou někteří tak fanatičtí, že nema
 
 ## Kam se (ne)zajít najíst
 
-Paříž, která se vždy mohla chlubit dobrými jídly a gastronomií, se kvůli předraženým restauracím stala tzv. „pastí pro turisty“. Francouzská gastronomie ale není jen Paříž. Mohu vás ubezpečit, že v moha jiných regionech se setkáte nejenom s dobrým pohostinstvím, ale i s dobrou kuchyní.
+Paříž, která se vždy mohla chlubit dobrými jídly a gastronomií, se kvůli předraženým restauracím stala tzv. „pastí pro turisty“. Francouzská gastronomie ale není jen Paříž. Mohu vás ubezpečit, že v mnoha jiných regionech se setkáte nejenom s dobrým pohostinstvím, ale i s dobrou kuchyní.
 
 Musíte ale hledat domácí kuchyni _(francouzsky cuisine bourgeoise)_. S tou se dnes ve Francii setkáte už jen v malých městech nebo na vesnicích, kde jsou ceny relativně přijatelné. V těchto místech se také ještě setkáte s pověstnou francouzskou úslužností a pohostinností. Obzvláště když pozdravíte „Bonjour“ – byť s českým přízvukem.
 
