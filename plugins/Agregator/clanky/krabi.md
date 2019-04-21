@@ -21,7 +21,7 @@ Kanibalství u krabů není nic neobvyklého a v době, kdy krab nemá svůj kru
 
 Krabi jsou vynikající pochoutkou a jejich úprava je v zásadě velmi jednoduchá. Jeden z nejjednodušších způsobů úpravy krabů, který vlastně musí předcházet všem jiným úpravám, je prosté uvaření ve vodě nebo v páře.
 
-Pečení malí krabi s měkkou skořápkou (anglicky _soft shell crabs_) jsou vynikající smažení na másle nebo v pánvi na oleji. Někteří labužníci tvrdí, že krabi chutnají lépe, když se vaří ještě před očistěním, protože údajně dostanou lepší chuť od tuku. Ten já ale vždy pečlivě odstraním, protože podle mě zae lépe chutnají očistění krabi. Někteří takzvaní gurmáni dokonce vaří samičky krabů i s jejich vajíčky, což já osobně považuji za barbarství.
+Pečení malí krabi s měkkou skořápkou (anglicky _soft shell crabs_) jsou vynikající smažení na másle nebo v pánvi na oleji. Někteří labužníci tvrdí, že krabi chutnají lépe, když se vaří ještě před očistěním, protože údajně dostanou lepší chuť od tuku. Ten já ale vždy pečlivě odstraním, protože podle mě zase lépe chutnají očistění krabi. Někteří takzvaní gurmáni dokonce vaří samičky krabů i s jejich vajíčky, což já osobně považuji za barbarství.
 
 Ve skutečnosti jsou ale chutnější samečkové, protože mají více jedlého masa, které je tučnější než maso samiček. Samečka můžete poznat podle stavby krunýře. To ale vyžaduje určitou praxi. Sameček od samičky se rozezná podle „zástěrky“ na břiše. Samička má zástěrku oválnou a sameček špičatou.
 
@@ -31,7 +31,7 @@ Ve skutečnosti jsou ale chutnější samečkové, protože mají více jedlého
 
 V chicagské restauraci Berghoff, kde jsem byl zaměstnán jako výkonný šéfkuchař, mě jednoho dne volali do kuchyně. Pan šéf totiž objednal několik beden krabů s měkkou skořápkou. Musím se přiznat, že jsem se v prvním okamžiku trochu lekl, protože jsem do té doby živého kraba s měkkým krunýřem nikdy neviděl.
 
-Naštěstí díky tomu, že jsem v Česku od malička „ležel“ v odborných knihách, jsem přibližně věděl, co s tím. Proto jsem šel do kuchyně docela hrdinně. Nepohnul jsem ani brvou a s bravurní suverenitou jsem vzal jednoho kraba do ruky hřbetem dolů, přičemž jsem ledabyle prohodil, že je to sameček a odtrhl jsem z břicha trojúhelníkovou slupku které se říká zástěrka.
+Naštěstí díky tomu, že jsem v Česku od malička „ležel“ v odborných knihách, jsem přibližně věděl, co s tím. Proto jsem šel do kuchyně docela hrdinně. Nepohnul jsem ani brvou a s bravurní suverenitou jsem vzal jednoho kraba do ruky hřbetem dolů, přičemž jsem ledabyle prohodil, že je to sameček a odtrhl jsem z břicha trojúhelníkovou slupku, které se říká zástěrka.
 
 Pak jsem nazdvihl obě postranní chlopně a odstranil jsem houbovité žebroví. Potom jsem nůžkami odstřihl oči a při zatlačení nohou do stran jsem ze středu vyndal a odstranil jeho žlučový váček. Kraba jsem opláchnul, osušil, poprášil moukou a dal bříškem dolů na rozpálené máslo v pánvi. Asi po pěti minutách jsem kraba otočil a smažil dalších 5 minut na druhé straně.
 

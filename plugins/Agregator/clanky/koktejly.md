@@ -15,17 +15,17 @@ Občas jsem se díval na barmana Karla Kroupu zvaného Charlie, o kterém jsem s
 
 ## Zkušenosti z pohledu hosta
 
-Pohostinství se ale stalo mým koníčkem. Když jsem trochu povyrostl, tak jsem za účelem lepšího porozumění barmanství začal vymetat všechny pražské noční lokály – od pajzlů až po ty luxusní. Moje odbornost díky tomu nepředstavitelně vzrostla, a to hlavě z toho důvodu, že jsem se na barmanství naučil dívat spíše z pohledu hosta než z pohledu barmana.
+Pohostinství se časem stalo mým koníčkem. Když jsem trochu povyrostl, tak jsem za účelem lepšího porozumění barmanství začal vymetat všechny pražské noční lokály – od pajzlů až po ty luxusní. Moje odbornost díky tomu nepředstavitelně vzrostla, a to hlavě z toho důvodu, že jsem se na barmanství naučil dívat spíše z pohledu hosta než z pohledu barmana.
 
 Poznal jsem celou řadu barmanů v Est baru, Barberině, Boccaciu, u 5-P, Sekt pavilonu, v Baroku, Rokoku a nevím, jak se všechny ty noční zapadáky jmenovaly a mohu vám říci, že jsem přišel na to, že všichni barmani byli většinou stejně dobří jako byl Charlie.
 
-Když jsem ale pak po válce přišel do Paříže a později do Alžíru, Tunisu, Bizerty a dokonce do Saigonu, kterému se tehdy říkalo Paříž Blízkého Východu a viděl jsem i jiné bary a barmany, tak mě touha stát se barmanem opět popadla.
+Když jsem po válce přišel do Paříže a později do Alžíru, Tunisu, Bizerty a dokonce do Saigonu (kterému se tehdy říkalo Paříž Blízkého Východu), a viděl jsem i jiné bary a barmany, tak mě touha stát se barmanem opět popadla.
 
 {id="teoreticke\_znalosti\_a_vzdelani"}
 
 ## Teoretické znalosti a vzdělání
 
-V Paříži jsem si koupil první knihu o koktejlech _Cocktails de Paris présentés par Rip. Illustrés par Paul Colin_. Moje francouzština ale tehdy nebyla ještě tak dobrá, abych uměl rozeznat, že všechno bylo zřejmě opsané z nějakého amerického originálu.
+V Paříži jsem si koupil první knihu o koktejlech _Cocktails de Paris présentés par Rip. Illustrés par Paul Colin_. Moje francouzština tehdy nebyla ještě tak dobrá, abych uměl rozeznat, že všechno bylo zřejmě opsané z nějakého amerického originálu.
 
 Po návratu do Česka jsem si pak později koupil moji druhou barmanskou knížku od Harryho Schraemli _Das grosse Lehrbuch der Bar_ a musím říci, že jsem se studiem barmanství začal opět vážně zabývat. Dokonce jsem si udělal barmanský kurz u Harryho Reimanna, který byl v té době považován za mistra světa.
 

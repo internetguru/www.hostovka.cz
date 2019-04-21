@@ -25,7 +25,7 @@ V těchto dnech běžné ingredience pro Martinez byl Old Tom Gin, Sladký Vermo
 
 Možná si v moderních historických popisech Martini povšimnete, že Martinez používal francouzský (nebo suchý) vermut a angosturu bitters. To proto, že starší recepty uváděly jen „vermut“ a „bitters“ jako ingredience, které v těch dnech byly chápány jako „suchý vermut“ a „Angostura Bitters“, což nebylo vždy pravidlem.
 
-V 1880 byl sladký vermut do koktejlů používán daleko častěji a Angostura byla jen jedna z dalšího tuctu jiných ingrediencí které byly používány. Ve starších barmanských knihách, které specifikovaly druh vermutu používaného do Martinez, to byl vždy sladký vermut a Bitters byl velmi často (ale ne vždy) pomerančový.
+V 1880 byl sladký vermut do koktejlů používán daleko častěji a Angostura byla jen jedna z dalšího tuctu jiných ingrediencí, které byly používány. Ve starších barmanských knihách, které specifikovaly druh vermutu používaného do Martinez, to byl vždy sladký vermut a Bitters byl velmi často (ale ne vždy) pomerančový.
 
 {class="example"}
 
@@ -47,7 +47,7 @@ Důležité je si uvědomit, že původní Suché Martini dostalo své jméno po
 
 ## Vliv prohibice
 
-Prohibice, tato zvláštní a zajímavá léta americké koktejlové historie, byla nejspíše katalyzátorem pro mnohé zvyklosti pití Američanů a ve skutečnosti celého světa. Během této doby se lihoviny a jejich konzumace dostaly do podsvětí. Američané, kteří při svých cestách do zahraničí navštěvovaly cizí bary rozšířili své návyky pití po celém světě čímž se vlastně koktejly staly tak populární.
+Prohibice, tato zvláštní a zajímavá léta americké koktejlové historie, byla nejspíše katalyzátorem pro mnohé zvyklosti pití Američanů a ve skutečnosti celého světa. Během této doby se lihoviny a jejich konzumace dostaly do podsvětí. Američané, kteří při svých cestách do zahraničí navštěvovaly cizí bary, rozšířili své návyky pití po celém světě, čímž se vlastně koktejly staly tak populární.
 
 Po skončení prohibice se ukázalo, že Martini bylo jen v jakémsi spánku. Během té doby došlo jen k velmi malé změně v poměru ginu k vermutu, ale i to se rychle změnilo. Během 40. a 50. let došlo k několika důležitým změnám. Používání Bitters úplně vymizelo, důležitost vermutu byla čím dále tím menší a marketingovému oddělení Smirnoff se podařilo přijít s konceptem který nahradil vodku za gin.
 
@@ -55,5 +55,4 @@ Po skončení prohibice se ukázalo, že Martini bylo jen v jakémsi spánku. B�
 
 Od této doby Martini obsahovalo jen suchý vermut (nikdy již sladký) a hosté požadovali suchá Martini čím dále tím více a vermutu čím dál tím méně.
 
-Koncem 60. let koktejly Martini prožívaly tvrdá léta. Byly sice stále ještě objednávány, ale dostaly se na zadní sedadlo. Na prvé místo se dostávaly _soda pops_ a víno. Na toto téma by mohly být napsány celé spisy, ale dá se však říci, že v polovině 80. let přišlo Martini znovu do obliby.
-
+Koncem 60. let koktejly Martini prožívaly tvrdá léta. Byly sice stále ještě objednávány, ale dostaly se na zadní sedadlo. Na první místo se dostávaly _soda pops_ a víno. Na toto téma by mohly být napsány celé spisy, ale dá se však říci, že v polovině 80. let přišlo Martini znovu do obliby.

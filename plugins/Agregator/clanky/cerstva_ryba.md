@@ -9,7 +9,7 @@
 
 {kw="gastronomie, ryby, historka"}
 
-Pokud si někdy v restauraci hodláte objednat rybu, tak si dejte velký pozor, zda je opravdu čerstvá. V Americe je zákon zvaný „pravda na jídelním lístku“ _(anglicky truth on the menu)_. Podle tohoto zákona je trestné, aby restaurace uváděla na jídelním lístku, že používá čerstvé ryby, a přitom používala ryby rozmražené. _What a country! {xml:lang="en"}_
+Pokud si někdy v restauraci hodláte objednat rybu, tak si dejte velký pozor, zda je opravdu čerstvá. V Americe je zákon zvaný „pravda na jídelním lístku“ _(anglicky truth on the menu)_. Podle tohoto zákona je trestné, aby restaurace uváděla na jídelním lístku, že používá čerstvé ryby a přitom používala ryby rozmražené. _What a country! {xml:lang="en"}_
 
 Česká obchodní inspekce by si s tím také eventuálně věděla rady. Může totiž požadovat dodací list. Normální host takovou možnost ale nemá, tudíž záleží jedině na důvěře. Jak ale říkám, v pohostinství nikomu nevěř, ani sobě.
 
@@ -21,11 +21,11 @@ Jak víme, tak Hostovka není škola vaření. Je to pomyslná vysoká škola, n
 
 ## Jak stará ryba je ještě čerstvá
 
-Podle mě je čerstvá ryba taková, která je do kuchyně dodána ještě živá. Eventuálně je to taková ryba, kterou jsme si dnes sami chytili, nebo o které bezpečně víme, že byla vylovena a zabita nanejvýš předchozí den.
+Podle mě je čerstvá ryba taková, která je do kuchyně dodána ještě živá. Eventuálně je to taková ryba, kterou jsme si dnes sami chytili nebo o které bezpečně víme, že byla vylovena a zabita nanejvýš předchozí den.
 
 {class="figure"}
 
-![čerstvá ryba, ale tak trochu velké sousto][1] 
+![čerstvá ryba, ale tak trochu velké sousto][1]
 :   čerstvá ryba, ale tak trochu velké sousto
 
 Některé restaurace mají nádrže s živými rybami a plody moře umístěné v kuchyni nebo dokonce přímo v restauraci. Hosté si pak mají možnost vybrat živou rybu, kterou jim v kuchyni následně připraví. Další možnost je koupit čerstvou rybu v nejbližší rybárně. Ta ale musí být hned uvařená, protože druhý den se o čerstvé rybě již hovořit nedá.
@@ -34,7 +34,7 @@ Pokud jsou ryby atraktivně vystavené na ledu, tak to ještě mnohdy není zár
 
 {class="figure"}
 
-![rybí oko][2] 
+![rybí oko][2]
 :   rybí oko
 
 {id="cerstve\_ryby\_na_panorame"}
@@ -47,7 +47,7 @@ Na zahradě u hotelu bylo mělké, ale relativně velké umělé jezírko s font
 
 Nápad se ihned uchytil. Po Mariánkách se to ihned rozkřiklo, hosté měli při té lázeňské nudě o zábavu postaráno a my jsme měli v kuchyni stále co dělat. Nehledě na to, jaká to byla sranda.
 
-Zabít, oškrábat a vykuchat kapra ale už taková sranda není, a navíc to zabere nějaký čas. Netrvalo tedy dlouho než náš kuchař Pepa, který byl mimo jiné velký rošťák, přišel s takzvaným zlepšovákem. Každý den ráno vylovil z jezírka několik kaprů, které očistil, vykuchal a uložil je do ledničky. Tam zůstali do té doby, než některý z hostů přinesl do kuchyně živého kapra, kterého si chtěl nechat uvařit podle svého přání.
+Zabít, oškrábat a vykuchat kapra ale už taková sranda není a navíc to zabere nějaký čas. Netrvalo tedy dlouho než náš kuchař Pepa, který byl mimo jiné velký rošťák, přišel s takzvaným zlepšovákem. Každý den ráno vylovil z jezírka několik kaprů, které očistil, vykuchal a uložil je do ledničky. Tam zůstali do té doby, než některý z hostů přinesl do kuchyně živého kapra, kterého si chtěl nechat uvařit podle svého přání.
 
 Více vám asi ani nemusím vyzrazovat. Živý kapr šel do škopku s vodou a později pak zpátky do jezírka. Do pánve šel kapr, kterého měl kuchař už připraveného neboli „host se najedl a ryba zůstala celá“. Já vím, že tato metoda by dnes nebyla příliš košer, ale tehdy jsme si mysleli, že to byl geniální nápad.
 

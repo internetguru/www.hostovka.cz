@@ -29,7 +29,7 @@ Kuchyňské techniky, kdysi založené na manuální zručnosti, se díky modern
 
 Cílem dnešního kuchařského umění je odborně, hygienicky a ekonomicky správně připravit jídlo, které je zdravé, chutné a atraktivní, a které si získá obdiv a uznání jeho konzumentů. Cesta k tomuto cíli je jen ve znalostech a schopnostech kuchaře.
 
-V mé definici dnešního kuchařského umění se sice vyloženě nezmiňuji o rychlosti nebo o čase, ale jasně je tam uvedena ekonomika. Ekonomika a čas při vaření si vyžádaly, že vaření je dnes rozděleno na přípravu a na dohotovení případně na prezentaci jídel, což je v zásadě systém vaření z polotovarů.
+V mé definici dnešního kuchařského umění se sice vyloženě nezmiňuji o rychlosti nebo o čase, ale jasně je tam uvedena ekonomika. Ekonomika a čas při vaření si vyžádaly, že vaření je dnes rozděleno na přípravu a na dohotovení, případně na prezentaci jídel, což je v zásadě systém vaření z polotovarů.
 
 {id="priprava_polotovaru"}
 
@@ -47,5 +47,5 @@ Dohotovení jídel sestavením jejich polotovarů není nic nového. Čínská, 
 
 Pracoval jsem v Americe v mnoha velkých luxusních restauracích podávajících stovky jídel, ve kterých jsem kolikrát neměl ani jednoho vyučeného kuchaře. Přežil jsem jedině proto, že jsem měl dobré přesné a jednoduché recepty, a že jsem jako jeden z prvních techniku vaření z polotovarů používal.
 
-Dnes mi to zatím moc lidí nevěří, ale na mé předpovědi již mnohokrát došlo. Chtěl bych tedy, aby byl dokumentován můj výrok, že typická česká kuchyně založená na pracných a neefektivních metodách přípravy jídel má odzvoněno, a že moderní česká kuchyně se bez nějaké formy sestavování polotovarů již neobejde. Neboli že vznikne jakési české rychlé občerstvení _(fast food)_.
+Dnes mi to zatím moc lidí nevěří, ale na mé předpovědi již mnohokrát došlo. Chtěl bych tedy, aby byl dokumentován můj výrok, že typická česká kuchyně založená na pracných a neefektivních metodách přípravy jídel má odzvoněno, a že moderní česká kuchyně se bez nějaké formy sestavování polotovarů již neobejde. Neboli, že vznikne jakési české rychlé občerstvení _(fast food)_.
 
