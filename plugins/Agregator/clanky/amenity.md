@@ -49,7 +49,7 @@ Luxusní hotely pod hlavičkou doplňků nabízejí a patřičně inzerují celo
   * doplnění ledu,
   * zatažení žaluzií,
   * rozestlání postelí,
-  * nastavení radia na stanici s příjemnou hudbou,
+  * nastavení rádia na stanici s příjemnou hudbou,
   * přeložení koupacích plášťů přes postele,
   * přiložení (hotelových) pantoflů k posteli.
 
@@ -63,7 +63,7 @@ Některé hotely pod jejich doplňky uvádí i jiné služby, což je vícemén�
   * túry s průvodcem,
   * praní prádla a čištění oděvů,
   * půjčování lehátek a osušek u bazénu nebo na pláži,
-  * denní tisk do pokoje případně k disposici v hotelové hale,
+  * denní tisk do pokoje, případně k disposici v hotelové hale,
   * připojení k internetu,
   * žehlička na kalhoty,
   * kávovar,
