@@ -30,7 +30,7 @@ V banketním servisu se projevil hlavně moderní požadavek na rychlost a jedno
 
 Se servisem z mís se dnes ještě setkáte při servisu v takzvaném „rodinném stylu“ _(anglicky family style)_ používaném kdysi v penzionech _(anglicky bording houses)_ a v levnějších restauracích při mimořádných příležitostech. V ostatních případech se jídlo podává na talířích.
 
-Jídla podávaná přímo na talířích mají tu východu, že se jich se nedotýká nikdo jiný, než kuchař. Nebudu zde popisovat, jak takový servis probíhá při banketech pro jeden, dva anebo i více tisíců osob, ale mohu konstatovat, že je to jediné řešení.
+Jídla podávaná přímo na talířích mají tu výhodu, že se jich se nedotýká nikdo jiný než kuchař. Nebudu zde popisovat, jak takový servis probíhá při banketech pro jeden, dva anebo i více tisíců osob, ale mohu konstatovat, že je to jediné řešení.
 
 {id="banket\_pohledem\_hosta"}
 
