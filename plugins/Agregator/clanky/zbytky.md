@@ -13,7 +13,7 @@ Pokud se nezávadnosti zbytků týká tak záleží jak se s těmi zbytky zachá
 
 Zbytky totiž nejsou jen neprodané porce vařených jídel. Surové potraviny které nebyly zpracovány a prodány v plánované době jsou ve skutečnosti také "zbytky".
 
-Jsou ale i "zbytky" které se tvoří úmyslně. Já například když jsem měl na lístku smažený lilek, jsem ho vždy usmažil více než jsem předpokládal že se ho prodá a druhý den jsem ten zbytek lilku prodal jako specialitu zvanou Lilek po Milánsku.
+Jsou ale i "zbytky" které se tvoří úmyslně. Já například když jsem měl na lístku smažený lilek, jsem ho vždy usmažil více než jsem předpokládal že se ho prodá a druhý den jsem ten zbytek lilku prodal jako specialitu zvanou Lilek po milánsku.
 
 {id="lilek\_po\_milansku"}
 
