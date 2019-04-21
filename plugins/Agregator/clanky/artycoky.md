@@ -15,7 +15,7 @@ Artyčoky mají překrásné květy, které jsem tady v Kalifornii ale nikdy nev
 
 Když jsou artyčoky zlevněné, tak si jich koupím více, protože v lednici v plastikovém sáčku vydrží 3 až 4 dny beze změny.
 
-Artyčoky jsou původem ze severní Afriky, ale daří se jim dobře téměř po celém světě. Například v italské kuchyni jsou populární odnepaměti. Římský spisovatel Plinius je ale moc rád neměl. Nemohl pochopit, proč lidé platí tak velké peníze za „obyčejný bodlák“.
+Artyčoky jsou původem ze severní Afriky, ale daří se jim dobře téměř po celém světě. Například v italské kuchyni jsou populární od nepaměti. Římský spisovatel Plinius je ale moc rád neměl. Nemohl pochopit, proč lidé platí tak velké peníze za „obyčejný bodlák“.
 
 Artyčok je totiž ve skutečnosti jedlý bodlák s ostny, lépe řečeno s ostnatými listy. Ty vyráží zespodu artyčoku a rostou šindelovitě kolem středu s vousy. Nedozrálé artyčoky, které nejsou větší než 5 cm, se mohou jíst syrové. Osobně ale neznám nikoho, kdo by je takto jedl.
 
