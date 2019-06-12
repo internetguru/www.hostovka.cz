@@ -1,5 +1,5 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=130.html" data-image="files/preview/clanky/bechamel/preview.jpg" data-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=130.html" data-image="files/preview/clanky/bechamel/preview.jpg" data-type="article" data-top="4"}
 
 {id="besamel" ctime="2006-01-13" mtime="2018-12-07" short="Omáčka bešamel" author="Michael Klíma"}
 
@@ -7,7 +7,7 @@
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
 
-{kw="nejčtenější, jídla a jídelní lístky, omáčka, recept"}
+{kw="jídla a jídelní lístky, omáčka, recept"}
 
 Omáčku bešamel oficiálně vynalezl správce královského dvora Ludvíka XIV., markýz Louis de Béchameil de Nointel (1630–1703). Je ale více než pravděpodobné, že si Francouzi tuto omáčku přivlastnili od Italů. V Itálii byla tato omáčka již několik století před tím.
 

@@ -5,7 +5,7 @@
 
 # Garbage
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
 
 {kw="gastronomie"}
 
@@ -27,7 +27,7 @@ Mé prvé setkání s garbage cans, neboli s nádobami na odpadky bylo při mém
 
 Koukal jsem na to jako tele na nová vrata obzvláště když mi řekli, že je to na odpad, neboli na ořezan‎ý‎ tuk a vykostěné kosti.
 
-Nechtěli mi věřit, že v pohostinství v Československu, odkud jsem zrovna přišel, tak velké nádoby na odpad nemáme, protože vlasteně nemáme žádn‎‎ý odpad a sice proto, že všechno dokážeme zpracovat. What a country!
+Nechtěli mi věřit, že v pohostinství v Československu, odkud jsem zrovna přišel, tak velké nádoby na odpad nemáme, protože vlasteně nemáme žádn‎‎ý odpad a sice proto, že všechno dokážeme zpracovat. _What a country! {xml:lang="en"}_
 
 Později jsem se ale dozvěděl že i v Americe je rozdíl mezi upotřebiteln‎ým a neupotřebitelným odpadem a ještě několik dalších jemn‎ých nuancí jak ve výrazu garbage tak i ve v‎ýrazu tresh.
 

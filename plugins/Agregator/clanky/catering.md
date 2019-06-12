@@ -5,7 +5,7 @@
 
 # Catering
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
 
 {kw="gastronomie"}
 
@@ -65,7 +65,7 @@ Nemohl jsem mu říci, že v Česku, v hotelu Alcron, kde jsem se vyučil, když
 
 No, dnes vím, že na Ameriku je to více méně směšné, ale já nemám ve zvyku lhát.
 
-Na to mi pan ředitel řekl, že takové parties mají oni také, ale že jich mají třeba 10 až 12 a všechny najednou "between the races", neboli o přestávce mezi závody a že tedy je zvědav jestli to zvládnu, protože kdyby ne, že si mohu hned hledat jiné místo.What a country!
+Na to mi pan ředitel řekl, že takové parties mají oni také, ale že jich mají třeba 10 až 12 a všechny najednou "between the races", neboli o přestávce mezi závody a že tedy je zvědav jestli to zvládnu, protože kdyby ne, že si mohu hned hledat jiné místo. _What a country! {xml:lang="en"}_
 
 Já jsem toto ale věděl od mého německého přítele Maxe Egglofa, který tam byl šéfem přede mnou a který mi to vše dopodrobna popsal a tak jsem nu řekl, že vím kdo to dělal přede mnou a když to dokázal on, že to já dokáži také a tím pádem jsem ten job dostal.
 
@@ -155,7 +155,7 @@ Já když sleduji na některých web stránkách některé ty dotazy studentů n
 
 Doslova žasnu kolik chodů na takové akce plánují. Lukulovy hody jsou proti tomu něco jako stravování v závodce.
 
-Také žasnu, že peníze při plánování těch banketů o několika chodech nehrají žádnou roli, jakoby ta ekonomie u nás byla k neutahání. What a country!
+Také žasnu, že peníze při plánování těch banketů o několika chodech nehrají žádnou roli, jakoby ta ekonomie u nás byla k neutahání. _What a country! {xml:lang="en"}_
 
 V Americe ale, pokud to nevíte, takové akce nejsou dány na libovůli jednoho člověka i kdyby to měl být pan ředitel nebo jeho manželka. V takových případech mají na všechno stanovy a manuály, protože vše se násobí někdy až několika tisíci, a každý dolar hraje velkou roli, ale přesto záleží hodně na schopnostech těch plánovačů jak z každé takové společenské akce udělat nezapomenutelný zážitek při minimálních nákladech.
 

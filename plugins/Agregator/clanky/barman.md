@@ -5,7 +5,7 @@
 
 # Barman
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
 
 {kw="co-kdy-kde"}
 
@@ -37,7 +37,7 @@ Abych se ale vrátil k meritu věci?
 
 Z toho co jsem zatím napsal jste museli poznat, že proti některým muklům či potrestaným nic nemám a plně souhlasím s tím, že všichni máme jakousi morální povinnost jim usnadnit návrat do společnosti. Co mi ale vadí je, že lidé pohostinství, které už tak jako tak je útočištěm všelijaké verbeže, považují za jediné místo kde by ti potrestaní našli uplatnění. Proč pro ně neudělat nějaké kurzy politické ekonomie, protože ti by se pak po propuštění z "ťurmy" uchytili třeba i v politice.
 
-v Americe, kterou nechci nikomu dávat za vzor, hodně lidí v kriminále vystuduje i práva, aby mohli dokázat svoji nevinu, ale studiem pohostinství by nikdo neztrácel v kriminále čas, protože k tomu v Americe nemusí nikdo být vyučený. What a country!
+v Americe, kterou nechci nikomu dávat za vzor, hodně lidí v kriminále vystuduje i práva, aby mohli dokázat svoji nevinu, ale studiem pohostinství by nikdo neztrácel v kriminále čas, protože k tomu v Americe nemusí nikdo být vyučený. _What a country! {xml:lang="en"}_
 
 Podle neoficiálních údajů máme v Česku kolem 300 odborných škol a učilišť ze kterých zhruba jen 10% absolventů zůstane v oboru a mně by ještě někdo musel říci kolik z nich je dobrých.
 

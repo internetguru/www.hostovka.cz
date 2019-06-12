@@ -5,7 +5,7 @@
 
 # Prezentace jídel
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
 
 {kw="gastronomie"}
 
@@ -79,7 +79,7 @@ Kuchař který připustí, aby jeho teplé jídlo bylo podáváno studených tal
 
 Nepsaný zákon podávání jídel je, studené jídlo na studených a teplé jídlo na teplých talířích a jak toho kuchař docílí je jeho věc. Od toho je kuchař.
 
-V Americe, kde jak známo se věci někdy přehání, nejenom, že saláty mají až do posledního okamžiku v chladničce, aby byly studené a křehké, se ale také podávají na vychlazených talířích a v některých restauracích vám k tomu salátu dají dokonce i vychlazenou vidličku. What a country!
+V Americe, kde jak známo se věci někdy přehání, nejenom, že saláty mají až do posledního okamžiku v chladničce, aby byly studené a křehké, se ale také podávají na vychlazených talířích a v některých restauracích vám k tomu salátu dají dokonce i vychlazenou vidličku. _What a country! {xml:lang="en"}_
 
 Porouchá-li se režón nebo ohřívače talířů kuchař musí talíře předehřát v troubě nebo pod horkou vodou.
 

@@ -2,10 +2,14 @@
 <HtmlOutput>
   <xslt>themes/default/h1desc.xsl</xslt>
   <xslt>themes/delna.xsl</xslt>
-<!--   <xslt>themes/hostovka.xsl</xslt> -->
+  <xslt>themes/hostovka.xsl</xslt>
   <jsFile append="body" if-xpath="/body[contains(@class, 'agregator')]">themes/article-bg.js</jsFile>
   <jsFile append="body">themes/expand.js</jsFile>
+  <jsFile append="body">themes/moreable.js</jsFile>
+  <jsFile append="body">themes/moreableinit.js</jsFile>
   <jsFile append="body">themes/completable-init.js</jsFile>
   <stylesheet>lib/font-awesome/css/font-awesome.css</stylesheet>
+  
+  <var id="usp">enabled</var>
   <var id="schemaorg">enabled</var>
 </HtmlOutput>

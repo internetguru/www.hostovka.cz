@@ -5,7 +5,7 @@
 
 # Dress Code
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
 
 {kw="restaurace a servis"}
 
@@ -103,7 +103,7 @@ Nemusí vám asi říkat, že si to museli hned sundat, ale mezi těmi "nováčk
 
 Je sice pravda, že v Americe můžete jít po ulici třeba i s nočníkem na hlavě a nikdo se vás ani nevšimne, ale my jsme byli škola kde jsme mimo jiné učili studenty disciplíně. Proto jsem takovému studentu musel tu svobodu hned vysvětlit a řekl jsem mu že on sice má právo nosit co chce, ale že to právo je pro všechny stejné takže já mám právo ho do mé třídy nepustit pokud je to v rozporu s naším dress code.
 
-No, nemusím vám asi ani říkat, že druh‎ý‎ den všichni přišli oblečeni podle forschriftu a dokonce i ten vlasatý přišel ostříhaný. What a country!
+No, nemusím vám asi ani říkat, že druh‎ý‎ den všichni přišli oblečeni podle forschriftu a dokonce i ten vlasatý přišel ostříhaný. _What a country! {xml:lang="en"}_
 
 Já v současné době pracuji na Dress Code pro můj koncept STEAKGRILL a mohu vám říci, že je tam vše co si myslím že je v zájmu ochrany zdraví, bezpečnosti a pohodlí jak zaměsnanců tak i hostů, což je zakotveno v příslušn‎ých manuálech.
 

@@ -5,7 +5,7 @@
 
 # Zlepšení úrovně pohostinství
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
 
 {kw="případová studie"}
 
@@ -85,7 +85,7 @@ No, mně by zajímalo kde konkrétně. Já totiž jsem se něčeho podobného z�
 
 Bylo to v zásadě něco podobného, ale v tomto případě to měla být pomoc propuštěným potrestaným neboli bývalým muklům, zapojit se do normálního života.
 
-Ten program se jmenoval CITA. Věřte nebo nevěřte ti potrestaní pokud se do toho programu zapojili, pokud neměli neomluvenou absenci to měli dokonce placené jako zaměstnání, neboli brali mzdu. What a country!
+Ten program se jmenoval CITA. Věřte nebo nevěřte ti potrestaní pokud se do toho programu zapojili, pokud neměli neomluvenou absenci to měli dokonce placené jako zaměstnání, neboli brali mzdu. _What a country! {xml:lang="en"}_
 
 Na té naší College (asi 30 tisíc studentů) byla celá řada oborů které se zde v různých odděleních vyučovaly, ale přesto, že to bylo velmi dobře placené jako mimořádný úvazek, jako "vedlejšák", tak ani v jednom tom oddělení se nenašli kantoři kteří by ty mukly chtěli učit, protože se jich báli. Něktří z nich měli odsezeno i 20 let.
 

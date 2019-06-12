@@ -5,15 +5,37 @@
   <var id="odkazy_h">Související články</var>
   <var id="odkazy_desc">Článek ve svém textu odkazuje následující zdroje (v uvedeném pořadí). Zdroje danou problematiku rozvádějí či zmiňují v dalších souvislostech.</var>
   
+  <fn id="createlink" fn="pregreplace" pattern=".+" replacement="https://www.hostovka.cz/$0?usp=sharing" />
+  <fn id="createfblink" fn="pregreplace" pattern=".+" replacement="https://www.facebook.com/sharer/sharer.php?u=https://www.hostovka.cz/$0" />
+  <fn id="createtwitterlink" fn="pregreplace" pattern=".+" replacement="https://twitter.com/intent/tweet?text=www.hostovka.cz/$0" />
+
+  <fn id="html2md" fn="pregreplace" pattern="(.+).html" replacement="$1.md"/>
+  <var id="mdfile" var="file" fn="html2md"/>
+  <var id="ghedit"><a var="inputvar-mdfile@href" href="https://github.com/InternetGuru/www.hostovka.cz/edit/dev/%s">Navrhnout úpravy článku</a></var>
+  
+  <fn id="headertags" fn="sequence">
+    <call>stripkws</call>
+    <call>makeelements</call>
+    <call>replacenames</call>
+    <call>adduspheader</call>
+  </fn>
+  <fn id="stripkws" fn="pregreplace" pattern="^((:?[^,]+,){0,2}[^,]+).*" replacement="\1" />
+  <fn id="adduspheader" fn="replace">
+    <data name="#clanky">&amp;amp;amp;usp=headertag#clanky</data>
+  </fn>
+  <fn id="addusptaglist" fn="replace">
+    <data name="#clanky">&amp;amp;amp;usp=taglist#clanky</data>
+  </fn>
+  <var id="strippedkws" fn="stripkws" var="kw" />
+  <var id="articlemeta"><div class="meta"><span var="author">n/a</span> na téma <span var="inputvar-strippedkws" fn="inputvar-headertags">n/a</span> z <span fn="inputvar-dateformat" var="ctime">n/a</span></div></var>
+
   <fn id="maketags" fn="sequence">
     <call>makeelements</call>
     <call>replacenames</call>
+    <call>addusptaglist</call>
   </fn>
-
-  <fn id="makeelements" fn="pregreplace" pattern="([a-zA-Z0-9áčďéěíňóřšťůúýžÁČĎÉĚÍŇÓŘŠŤŮÚÝŽ _-]+)(:?, )?" replacement="&#x3C;a href=&#x22;/?stitek=\1#clanky&#x22; class=&#x22;tag nowarning&#x22;&#x3E;\1&#x3C;/a&#x3E;" /> 
-  <fn id="html2md" fn="pregreplace" pattern="(.+).html" replacement="$1.md"/>
-  <var id="mdfile" var="file" fn="html2md"/>
-  <var id="ghedit"><a var="inputvar-mdfile@href" href="https://github.com/InternetGuru/www.hostovka.cz/edit/master/%s">.</a></var>
+  
+  <fn id="makeelements" fn="pregreplace" pattern="([a-zA-Z0-9áčďéěíňóřšťůúýžÁČĎÉĚÍŇÓŘŠŤŮÚÝŽ _-]+)(:?, )?" replacement="&#x3C;a href=&#x22;href=\1&#x22; title=&#x22;title=\1&#x22; class=&#x22;tag nowarning&#x22; data-local-title=&#x22;Na začátek seznamu&#x22; &#x3E;\1&#x3C;/a&#x3E;" />
   
   <fn id="replacenames" fn="replace">
 <!-- [replacenames] generated content, do not edit -->
@@ -75,8 +97,6 @@
     <data name="href=obloha"></data>
     <data name="title=nudle"></data>
     <data name="href=nudle"></data>
-    <data name="title=nejčtenější">Filtrovat články</data>
-    <data name="href=nejčtenější">/?stitek=nejctenejsi#clanky</data>
     <data name="title=nápoje">Filtrovat články</data>
     <data name="href=nápoje">/?stitek=napoje#clanky</data>
     <data name="title=mořské plody"></data>
@@ -157,6 +177,9 @@
   </fn>
   
   <var id="taglist">
+    <dl>
+      <dt class="filter">Nejčetnější kategorie článků</dt>
+      <dd>
 <!-- [taglist] generated content, do not edit -->
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=Životopis" href="href=Životopis">Životopis</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=zbožíznalství" href="href=zbožíznalství">zbožíznalství</a>
@@ -166,7 +189,6 @@
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=případová studie" href="href=případová studie">případová studie</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=pohostinství" href="href=pohostinství">pohostinství</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=o čem se mluví" href="href=o čem se mluví">o čem se mluví</a>
-    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=nejčtenější" href="href=nejčtenější">nejčtenější</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=nápoje" href="href=nápoje">nápoje</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=kuchyňské techniky" href="href=kuchyňské techniky">kuchyňské techniky</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=koho se to týká" href="href=koho se to týká">koho se to týká</a>
@@ -179,6 +201,8 @@
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=etika" href="href=etika">etika</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=co-kdy-kde" href="href=co-kdy-kde">co-kdy-kde</a>
 <!-- generated by user_update.sh on 2019-04-16 -->
+      </dd>
+    </dl>
   </var>
 
   <var id="tags-files-list">
@@ -194,7 +218,6 @@
 <option class="tag" value="stitky/pripadova_studie">případová studie (9 výskytů) #stitky/pripadova_studie</option>
 <option class="tag" value="stitky/pohostinstvi">pohostinství (14 výskytů) #stitky/pohostinstvi</option>
 <option class="tag" value="stitky/o_cem_se_mluvi">o čem se mluví (17 výskytů) #stitky/o_cem_se_mluvi</option>
-<option class="tag" value="stitky/nejctenejsi">nejčtenější (9 výskytů) #stitky/nejctenejsi</option>
 <option class="tag" value="stitky/napoje">nápoje (4 výskytů) #stitky/napoje</option>
 <option class="tag" value="stitky/kuchynske_techniky">kuchyňské techniky (17 výskytů) #stitky/kuchynske_techniky</option>
 <option class="tag" value="stitky/koho_se_to_tyka">koho se to týká (9 výskytů) #stitky/koho_se_to_tyka</option>
@@ -502,6 +525,7 @@
 <option class="article" value="clanky/vyhlaska_107">Hygienická vyhláška č. 107 #clanky/vyhlaska_107</option>
 <option class="article" value="clanky/who_cares_about_the_czech_specials">Who Cares About the Czech Specials #clanky/who_cares_about_the_czech_specials</option>
 <option class="article" value="clanky/zbytky">Zbytky #clanky/zbytky</option>
+<option class="article" value="clanky/zbytky2">Zbytky2 #clanky/zbytky2</option>
 <option class="article" value="clanky/zdobeni">Zdobení jídla #clanky/zdobeni</option>
 <option class="article" value="clanky/zivotopis">Životopis #clanky/zivotopis</option>
 <option class="article" value="clanky/zkratky_na_listcich">Zkratky na jídelních lístcích #clanky/zkratky_na_listcich</option>

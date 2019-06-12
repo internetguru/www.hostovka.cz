@@ -5,7 +5,7 @@
 
 # Zrození a vývoj kuřecích nuget
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -18,7 +18,7 @@ Podle verze mého dobrého přítele René Arenda, to nicméně s jejich vynále
 ![René Arend a M. Klima na McDonald universite v Dearfield, Illinois][2] 
 :   René Arend (šéfkuchař největšího řetězce restaurací rychlého občerstvení) a M. Klíma na McDonald univerzitě v Dearfield, Illinois
 
-Mohlo by vás zajímat, že uvedení nuget na jídelní lístky McDonaldu trvalo téměř dva roky, až do roku 1983. Cena tohoto procesu šla do milionů dolarů. What a country! V těch milionech je započteno i 100 dolarů, které jsem dostal za to, že jsem se jeden den zúčastnil jejich laboratorní ochutnávky. Takže Renému věřím, že to tak bylo.
+Mohlo by vás zajímat, že uvedení nuget na jídelní lístky McDonaldu trvalo téměř dva roky, až do roku 1983. Cena tohoto procesu šla do milionů dolarů. _What a country! {xml:lang="en"}_ V těch milionech je započteno i 100 dolarů, které jsem dostal za to, že jsem se jeden den zúčastnil jejich laboratorní ochutnávky. Takže Renému věřím, že to tak bylo.
 
 {id="ochutnavky\_a\_testovani"}
 
@@ -29,8 +29,8 @@ Ochutnávek probíhalo více. Většinou deset pozvaných „hodnotitelů“ sed
   * první dojem,
   * velikost kousků,
   * konsistence a chuť masa,
-  * chuť a konsistence obalu,
-  * chuť, barva, konsistence a vhodnost dipů (omáček do kterých se nugety namáčí),
+  * chuť a konzistence obalu,
+  * chuť, barva, konzistence a vhodnost dipů (omáček do kterých se nugety namáčí),
   * hmotnost porce a další.
 
 Jejich posudky následně vyhodnotí další tým hodnotitelů a podle výsledků se dělají další a další testy. Tyto testy se pak také provádí v různých státech Ameriky, přičemž se navíc hodnotí navrhovaná cena, která může být v každém státě jiná.
@@ -49,7 +49,7 @@ Potom následoval zdlouhavý výběr správného druhu fritovacího oleje, frit�
 
 Nugety byly původně malé kousky jemně sekaného kuřecího masa, které bylo drženo pohromadě fosfátovými solemi. Kousky obalené speciálním těstíčkem byly lehce usmaženy, jen aby se těstíčko přichytilo, a byly hned individuálně zmrazeny ([IQF][3]). Dále byly zabaleny do krabic a rozeslány na jednotlivé prodejny. Na prodejnách se pak nugety před prodejem usmažily na požadovanou vnitřní teplotu.
 
-V listopadu 2003, McDonald změnil recepturu z tradičních stehen a prsou na pouze prsa. To bylo silně podporováno reklamou, podle které se podstatně zlepšila chuť a kvalita nuget. McDonald udává, že používají jen mechanicky získané maso z kuřecích prsou s malým množstvím kůže pro zachování šťavnatosti a zlepšení chuti.
+V listopadu 2003 McDonald změnil recepturu z tradičních stehen a prsou na pouze prsa. To bylo silně podporováno reklamou, podle které se podstatně zlepšila chuť a kvalita nuget. McDonald udává, že používají jen mechanicky získané maso z kuřecích prsou s malým množstvím kůže pro zachování šťavnatosti a zlepšení chuti.
 
 {id="kureci\_nugety\_halal"}
 
@@ -57,7 +57,7 @@ V listopadu 2003, McDonald změnil recepturu z tradičních stehen a prsou na po
 
 V Česku jsou údajně lidé, kterým výrobky McDonald nechutnají nebo jim nedůvěřuji. Oproti tomu v Detroitu, v oblasti se silnou muslimskou populací, začal McDonald prodávat nugety v krabicích označených jako „halal“. Označení halal je něco podobného jako jídla označená „košer“. To do Detroitu přilákalo mnoho muslimů z tak dalekého okolí jako je Severní Karolína a Nový York.
 
-Islámské náboženství, podobně jako židovské, nedovoluje mimo plodů moře konzumaci masa zvířat, která nebyla zabita způsobem „zabiha“. S narůstající populaci muslimů není dnes v Americe již žádný problém nalézt řezníka který prodává halal maso. Restaurací, které by z takového masa vařily, je ale stále ještě málo, a proto muslimové dávají přednost domácí kuchyni a do restaurací chodí jen velmi málo.
+Islámské náboženství, podobně jako židovské, nedovoluje mimo plodů moře konzumaci masa zvířat, která nebyla zabita způsobem „zabiha“. S narůstající populaci muslimů není dnes v Americe již žádný problém nalézt řezníka, který prodává halal maso. Restaurací, které by z takového masa vařily, je ale stále ještě málo, a proto muslimové dávají přednost domácí kuchyni a do restaurací chodí jen velmi málo.
 
 Tyto nové halal McNugety dávají tudíž muslimům příležitost ochutnat něco, co není jen dalším rychlým občerstvením. Dostanou se tak k jídlu, které mohou jíst společně se svými nemuslimskými sousedy.
 

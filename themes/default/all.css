@@ -6,11 +6,20 @@ div.paragraph, div.list, pre {
   padding-left: 1rem;
   padding-right: 1rem;
 }
-#content > *:not(.hdesc):not(.section), #content > .hdesc > *, #content > .section > *, #header > *, #footer > * {
-  max-width: 62rem;
+#content > :not(.hdesc):not(.section):not(.docinfo) > *,
+#content > .hdesc > *,
+#clanky,
+#content > .section > *,
+#content > .docinfo,
+#header > *,
+#footer > * {
+  max-width: 55rem;
   margin-left: auto;
   margin-right: auto;
   box-sizing: border-box;
+}
+#header > div {
+  max-width: 80em;
 }
 /***************************/
 #content strong  {
@@ -57,12 +66,6 @@ dl.figure dd {
   display: none;
 }
 /***************************/
-h2#clanky {
-  visibility: hidden;
-  height: 0;
-  margin: 0;
-  padding: 0;
-}
 h2#clanky + p {
   display: none;
 }
@@ -102,5 +105,111 @@ ol.contentlink-bc {
 }
 #header .contentlink-bc a {
   border: none;
+}
+/***************************/
+.current-label {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  align-items: center;
+  padding: 0;
+}
+.current-label li {
+  margin: 0;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  align-items: center;
+}
+.current-label li + li a {
+  cursor: pointer;
+  max-width: none;
+}
+.current-label li span {
+  margin-left: 0.5em;
+}
+dl.taglist {
+  flex: 0 1 96% !important;
+  max-width: 36em !important;
+}
+dl.taglist dt {
+  margin-top: 2em;
+  margin-bottom: 1em;
+  font-size: 1.5em;
+}
+dl.taglist dd {
+  max-height: 5em;
+  overflow: hidden;
+  margin-left: 0;
+}
+.filter .button {
+  vertical-align: middle;
+  border: 0.1em solid;
+  margin-left: 0.5em;
+  white-space: nowrap;
+  font-size: 1rem;
+}
+/***************************/
+a.tag {
+  border: none;
+  margin: 0.2em 0.5em 0.2em 0;
+  display: inline-block;
+  border-radius: 0.2em;
+}
+a.tag:before {
+  font-family: "FontAwesome";
+  margin-right: 0.25em;
+  vertical-align: middle;
+  content: "\f02b";
+  font-size: 1.25em;
+  line-height: 0;
+}
+/***************************/
+dl.clanek > *:not(:first-child):not(.date) {
+  padding: 0 1rem;
+  width: calc(100% - 2rem);
+}
+.clanek img {
+  object-fit: cover;
+  width: 100%;
+  height: 15em;
+  max-height: 100%;
+  border-radius: 0.5em 0.5em 0 0;
+}
+.clanek dt:first-child {
+  position: relative;
+}
+.clanek dt:first-child a {
+  display: block;
+  position: relative;
+  z-index: 1;
+  border: none;
+}
+.clanek dd.kw {
+  margin: 0.75em 0;
+  order: 0;
+  justify-content: flex-start;
+}
+.clanek .heading {
+  font-size: 1.5em;
+  margin: 0 0 0.25em 0;
+}
+.clanek .desc {
+  flex-grow: 1;
+  margin: 0.5em 0;
+  color: #555;
+}
+#content .clanek .extra {
+  padding: 1em 0.4em 0.6em 0.4em;
+  padding-top: 1em;
+  width: calc(100% - 0.8rem);
+}
+.clanek .extra ul li {
+  margin: 0;
+  padding: 0;
+}
+.clanek .date {
+  text-align: right;
+  width: calc(100% - 2rem);
 }
 /***************************/

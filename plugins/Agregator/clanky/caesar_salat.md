@@ -1,13 +1,13 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-image="/files/preview/clanky/caesar_salat/preview.jpg" data-type="article" data-source="http://2017.hostovka.cz/clanek.php?clanek=237"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-image="/files/preview/clanky/caesar_salat/preview.jpg" data-type="article" data-source="http://2017.hostovka.cz/clanek.php?clanek=237" data-top="1"}
 
 {id="caesar_salat" author="Michael Klíma" ctime="2007-06-04" mtime="2018-12-07" short="Caesar salát"}
 
 # Suroviny a příprava Caesar salátu
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
 
-{kw="nejčtenější, gastronomie"}
+{kw="gastronomie"}
 
 První zajímavá věc na Caesar salátu je, že není americký, a že nemá nic společného s Juliem Caesarem. Americký název salátu _Caesar_ je chybný. Vynález tohoto salátu, kdysi populárního jen ve Spojených státech amerických, je přičítán italskému imigrantovi Livio Santinimu. Ten byl v roce 1925 kuchařem původní restaurace Caesara Cardinino v Tijuaně v Mexiku.
 

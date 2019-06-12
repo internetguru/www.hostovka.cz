@@ -55,11 +55,11 @@ V Americe, a dnes již i v mnoha jiných zemích, vyjma některých skutečně l
 
 Některé fast food (restaurace rychlého občerstvení) jako je například Kentucky Fried Chicken dávaly ku každému jídlu tak zvané WETNAPS, neboli malé navlhčené papírové ubrousky v malém pp9rov0m sáčku, kterými si hosté mohli ruce otřít, ale od toho se také již upouští protože to málo kdo používal.
 
-Dnes totiž, alespoň v Americe, každý takový fast food restaurant má záchody s teplou a studenou vodou a sušičem rukou nebo ručníky k použití zdarma. What a country!
+Dnes totiž, alespoň v Americe, každý takový fast food restaurant má záchody s teplou a studenou vodou a sušičem rukou nebo ručníky k použití zdarma. _What a country! {xml:lang="en"}_
 
 V Americe, v té gastronomicky zaostalé zemi, ze které jak někteří Češi říkají, nic dobrého nepřijde, se setkáte i s jinými užitečnými a praktickými formami mytí ruko, ale to vše je zatím přísně střežené tajemství které žákům Hostovky eventuálně někdy odhalím.
 
-Některé rybí restaurace mají například přímo v jídelně dřez s tekoucí teplou a studenou vodou a papírovými ubrousky, kde si hosté mohou kdykoliv během stolování umýt ruce aniž by museli jít na záchod. What a country!
+Některé rybí restaurace mají například přímo v jídelně dřez s tekoucí teplou a studenou vodou a papírovými ubrousky, kde si hosté mohou kdykoliv během stolování umýt ruce aniž by museli jít na záchod. _What a country! {xml:lang="en"}_
 
 Nicméně i v takových restauracích vám na požádání přinesou fingerbowl ku stolu, ale jako absolventi HOSTOVKY byste měli vědět, kdy se hodí o fingerbowl požádat a kdy ne, abyste nevypadali jako z Huculova, nehledě k tomu,že toto všechno budete muset vědět při závěrečných zkouškách Hostovky.
 

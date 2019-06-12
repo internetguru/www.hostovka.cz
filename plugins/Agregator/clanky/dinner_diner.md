@@ -5,7 +5,7 @@
 
 # Dinner Diner
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
 
 {kw="koho se to týká"}
 
@@ -29,7 +29,7 @@ Byl jsem svého času ředitelem hotelové školy Hospitality Institute Internat
 
 Na Triton College studovalo kolem 33 tisíc studentů a jenom v našem programu jsme jich měli kolem 500.
 
-Všichni tito studenti museli někde jíst a proto mimo školní jídelny, která v té době byla vedena soukromou firmou, byla na tom kampusu celá řada koncesionářů kteří nabízeli všechno možné od hambugrů, smažených kuřat, stánků s párkami, koblihami a pizzou, až po zmrzlinu z pojízdných vozíků. What a country!
+Všichni tito studenti museli někde jíst a proto mimo školní jídelny, která v té době byla vedena soukromou firmou, byla na tom kampusu celá řada koncesionářů kteří nabízeli všechno možné od hambugrů, smažených kuřat, stánků s párkami, koblihami a pizzou, až po zmrzlinu z pojízdných vozíků. _What a country! {xml:lang="en"}_
 
 My jsme byli program pohostinství a cestovního ruchu, provozovali jsme školní restauraci pro profesorský sbor a pro případné pasanty, ale dělali jsme i různé cateringové akce, což byla úžasná příležitost pro naše studenty, ale to bylo vše.
 
@@ -97,7 +97,7 @@ Interiér, jídelní lístek, příprava a servis jídel už se zdaleka nepodoba
 
 Jídla nebyla nějaká "family cooking" nebo nějaké "hotovky", ale velice jednouchá jídla připravovaná tak zvanými short order cooks kteří nebyli vyučení, natožpak aby měli maturitu nebo doktorát, ale byli velice zruční a rychlí.
 
-Jídla se podávala způsobem zvaným counter service což také nevyžadovalo žádnou odbornost a tak v mnoha případech ten short order cook ta jídla i podával. What a country!
+Jídla se podávala způsobem zvaným counter service což také nevyžadovalo žádnou odbornost a tak v mnoha případech ten short order cook ta jídla i podával. _What a country! {xml:lang="en"}_
 
 Hard liquor, neboli "tvrdé lihoviny" se v Diners nepodávaly nicméně pivo bylo v mnohých Diners běžné.
 

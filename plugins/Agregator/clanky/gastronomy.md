@@ -5,7 +5,7 @@
 
 # Gastronomy
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -63,17 +63,17 @@ To ale už znáte z těch několika amerických podniků rychlého občerstvení
 
 Američan ale také ví, že když si připlatí takových 5 až 6 dolarů, že v restauraci se stolovým zařízením a obsluhou mu nabídnou větší výběr jídel a nápojů, že ale obsluha, i když velice příjemná, bude o něco pomalejší.
 
-Servírky se zde na něj také budou smát, jak zasedne tak mu přinesou kopec housek a másla (v ceně hlavního jídla), nalijí mu velkou sklenici vody s ledem (zadarmo), a jakmile mu donesou jídlo, tak se ho do nekonečna budou ptát jak mu to chutná, a jestli náhodou pro něj nemohou ještě něco udělat, jako například jestli nechce více pečiva nebo másla atd. Jídlo bude dobré, bude ho více než dost, a tak vlastně nemá na co by si mohl stěžovat - i kdyby chtěl. Nicméně když odchází tak se ho při placení manažer pro jistotu ještě jednou zeptá, jestli bylo vše v pořádku a požádá ho, aby přišel zas. What a country!
+Servírky se zde na něj také budou smát, jak zasedne tak mu přinesou kopec housek a másla (v ceně hlavního jídla), nalijí mu velkou sklenici vody s ledem (zadarmo), a jakmile mu donesou jídlo, tak se ho do nekonečna budou ptát jak mu to chutná, a jestli náhodou pro něj nemohou ještě něco udělat, jako například jestli nechce více pečiva nebo másla atd. Jídlo bude dobré, bude ho více než dost, a tak vlastně nemá na co by si mohl stěžovat - i kdyby chtěl. Nicméně když odchází tak se ho při placení manažer pro jistotu ještě jednou zeptá, jestli bylo vše v pořádku a požádá ho, aby přišel zas. _What a country! {xml:lang="en"}_
 
 No, a to samé ve své naivitě ten Američan očekává i u nás. Jedno ale vím, a sice, že není zase tak naivní, že by v některé naší restauraci očekával ty samé služby a ta samá jídla jaká dostane v Americe v těch typických dražších restauracích nebo steakhouses, kde ovšem dá za večeři 20 až 30 dolarů (bez vína).
 
-To ale nemluvím o tak zvaných luxusních restauracích, nebo privátních klubech (o kterých se nikde nemluví), ve kterých jsou jídla tak drahá, že se někde stydí dát ty ceny na svůj jídelní lístek a mají jídelní lístky bez cen. What a country!
+To ale nemluvím o tak zvaných luxusních restauracích, nebo privátních klubech (o kterých se nikde nemluví), ve kterých jsou jídla tak drahá, že se někde stydí dát ty ceny na svůj jídelní lístek a mají jídelní lístky bez cen. _What a country! {xml:lang="en"}_
 
 Toto je ale jen bleskové popsání široké škály služeb a cen v amerických restauracích a to jen proto abyste pochopili Američanovu naivitu, při návštěvě našich restaurací.
 
 Jinak se ale dá říci, že Američané se chovají ku svému tělu jako ku svému autu.
 
-Američan když má Jaguára, Cadilac, Mercedes nebo jiné drahé auto, tak u pumpy ukáže palcem dozadu, kde má benzinovou nádrž, a řekne: "Fill it up with premium", což znamená, že mu ho mají naplnit tím nejlepším benzínem který mají. No, a své tělo "plní" také tak - když na to má, tak si dá ten největší steak třeba i za 20-25 dolarů a když na to nemá, tak si dá se stejnou chutí hamburgra za 90 centů. What a country!
+Američan když má Jaguára, Cadilac, Mercedes nebo jiné drahé auto, tak u pumpy ukáže palcem dozadu, kde má benzinovou nádrž, a řekne: "Fill it up with premium", což znamená, že mu ho mají naplnit tím nejlepším benzínem který mají. No, a své tělo "plní" také tak - když na to má, tak si dá ten největší steak třeba i za 20-25 dolarů a když na to nemá, tak si dá se stejnou chutí hamburgra za 90 centů. _What a country! {xml:lang="en"}_
 
 Většina Američanů, včetně těch milionářů, vyrostla totiž na jídlech jako je hamburger, peanut butter sandwich, hot dog, fish fingers a případně smažená kuřata. O Američanech se také nedá říci, že by byli vybíraví, i když jsou jídla která nejedí, ale to je spíše proto, že se s nimi ještě nikdy nesetkali. Naštěstí takových jídel je málo.
 

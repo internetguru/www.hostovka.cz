@@ -1,13 +1,13 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-image="/files/preview/clanky/michael\_klima\_zivotopis/preview.jpg" data-type="article" data-source="http://2017.hostovka.cz/nekolik-slov-o-mikovi-a-jeho-aktivitach.php"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-image="/files/preview/clanky/michael\_klima\_zivotopis/preview.jpg" data-type="article" data-source="http://2017.hostovka.cz/nekolik-slov-o-mikovi-a-jeho-aktivitach.php" data-top="7"}
 
 {id="michael\_klima\_zivotopis" author="Michael Klíma" ctime="2006-05"}
 
 # Životopis
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
 
-{kw="Životopis, nejčtenější"}
+{kw="Životopis"}
 
 Michael Dobromil Klíma (dále jen „MDK“) narozený v roce 1928 v Československu, je nyní občanem Spojených států amerických, ale srdcem a duší je stále Čech
 

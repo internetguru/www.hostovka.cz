@@ -5,7 +5,7 @@
 
 # Kontrolní pokladny
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
 
 {kw="koho se to týká"}
 
@@ -135,7 +135,7 @@ K tomu bych ale ještě dodal: "Pokud vám obsluhující pokladní blok nedá, t
 
 Na to mi ale jeden restauratér z Česka napsal, že v tu ránu by se mohl jít klouzat on, protože by mu všichni ti obsluhující utekli.
 
-To, že vydávání pokladních bloků je zdržování provozu, jsou česky řečeno jen kecy. V Americe vám bez požádání dají pokladní blok třeba i na 20 centů, a ještě se na vás při tom usmějí. What a country!
+To, že vydávání pokladních bloků je zdržování provozu, jsou česky řečeno jen kecy. V Americe vám bez požádání dají pokladní blok třeba i na 20 centů, a ještě se na vás při tom usmějí. _What a country! {xml:lang="en"}_
 
 Je ale pravda že zavedením kontrolních pokladen do všech restaurací přijde v Česku o tu "tašku na zadku" a o titul pana vrchního mnoho zaměstnanců a že tím pádem, jak se říká "všechny krysy budou opouštět loď ", ale k tomu dříve nebo později bude muset dojít tak jako tak.
 
@@ -163,7 +163,7 @@ V Americkém pohostinství dnes je již asi 90% finančních transakcí přes kr
 
 Kreditní kartou můžete dnes platit dokonce i v restauracích rychlého občerstvení (Fast food), které se tomuto způsobu platby hodně dlouho bránilo údajně proto, že to zpomalovalo prodej.
 
-Dnes ale sám zákazník projede svoji kartu čtečkou spojenou s kontrolní pokladnou a v mnoha podnicích, pokud ta útrata nepřesahuje  _{var="25"}_, nemusí ani nic podepisovat, nicméně pokaždé, pokud ho požaduje, dostane pokladní blok. What a country!
+Dnes ale sám zákazník projede svoji kartu čtečkou spojenou s kontrolní pokladnou a v mnoha podnicích, pokud ta útrata nepřesahuje  _{var="25"}_, nemusí ani nic podepisovat, nicméně pokaždé, pokud ho požaduje, dostane pokladní blok. _What a country! {xml:lang="en"}_
 
 To ale mluvím jen o fast food. V restauracích s plným servisem používání kreditních karet není nic nového a nemusím vám asi říkat, že mnozí zaměstnanci z toho velkou radost nemají, protože úmyslné šizení hostů není již tak jednoduché a pokud host byl z nějakého důvodu ošizen, tak z toho neprofituje ten zaměstnanec, ale podnik.
 

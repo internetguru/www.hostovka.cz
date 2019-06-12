@@ -1,13 +1,13 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=171.html" data-image="/files/preview/clanky/tvorba_cen/general.jpg" data-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=171.html" data-image="/files/preview/clanky/tvorba_cen/general.jpg" data-type="article" data-top="5"}
 
 {id="velikost_porce" ctime="2006-09-02" author="Michael Klíma" short="Velikost porce" mtime="2019-03-11"}
 
 # Správná velikost porce
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
 
-{kw="jídla a jídelní lístky, nejčtenější"}
+{kw="jídla a jídelní lístky"}
 
 Žádný úřad, instituce, strana a vláda nám dnes již nemůže diktovat, jak velké by porce měly být. Jediný, kdo určuje velikost porcí, je spotřebitel.
 
@@ -29,7 +29,7 @@ Jsou lidé, které cena vůbec nezajímá, a kteří jen zvažují, zda váha č
 
 Pro jednoho se tedy může jídlo zdát drahé, pro druhého zase laciné. Obdobně i porce se jednomu může zdát malá, či velká, ale odpovídající. A druhý se cítí ošizen v každém případě.
 
-Jak cena, tak i hmotnost musí také odpovídat místním zvyklostem. Proto například za totéž jídlo dáte ve velkém městě nebo populárním místě o mnoho více než na odlehlém místě. Proto také za obyčejný párek na Sněžce dáte více než na Václaváku, nehledě na to, že vám připočítají vysokohorskou přirážku. Nicméně i zde jsou výjimky potvrzují pravidlo.
+Jak cena, tak i hmotnost musí také odpovídat místním zvyklostem. Proto například za totéž jídlo dáte ve velkém městě nebo populárním místě o mnoho více než na odlehlém místě. Proto také za obyčejný párek na Sněžce dáte více než na Václaváku, nehledě na to, že vám připočítají vysokohorskou přirážku. Nicméně i zde jsou výjimky potvrzující pravidlo.
 
 {class="example"}
 
@@ -57,7 +57,7 @@ Mělo by být v zájmu restauratéra, aby každá porce jídla odpovídala před
 
 {class="important"}
 
-Tajemství _úspěchu_ amerického restauratéra je v tom, že mnohdy ani nespí, a stále přemýšlí, co by svému hostu dal navíc, aby ho uspokojil a aby mu přitom zbyl zasloužený zisk. Naproti tomu tajemství _neúspěchu_ některých českých restauratérů je (až na výjimky) v tom, že mnohdy ani nespí a stále jen přemýšlí, jak to udělat, aby hostu za jeho peníze dali co nejméně a aby tím pádem zbylo pro ně co nejvíce.
+Tajemství _úspěchu_ amerického restauratéra je v tom, že mnohdy ani nespí a stále přemýšlí, co by svému hostu dal navíc, aby ho uspokojil a aby mu přitom zbyl zasloužený zisk. Naproti tomu tajemství _neúspěchu_ některých českých restauratérů je (až na výjimky) v tom, že mnohdy ani nespí a stále jen přemýšlí jak to udělat, aby hostu za jeho peníze dali co nejméně a aby tím pádem zbylo pro ně co nejvíce.
 
 {id="jak\_urcit\_velikost_porce"}
 

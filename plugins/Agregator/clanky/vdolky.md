@@ -69,7 +69,7 @@ Pokud to nebyli takoví, kteří byli posláni zpět do Mexika již poněkoliká
 
 Já jsem tam vaření moc nedal, ale téměř denně jsem dělal holandskou omáčku, které jsme tam spotřebovali asi tak 3 litry. Ráno jsem si zpravidla vše připravil (_mise-en-place_). Rozpustil jsem asi 3 kg másla, připravil nějaké žloutky a citrónovou šťávu a pak jsem ve volné chvíli holandskou omáčku zmáknul.
 
-Žloutky jsem dal do kotlíku, předal jsem několik lžiček vody a trochu citronové šťávy. Pak jsem je nad otevřeným ohněm šlehal, dokud nezhoustly. Mimo oheň jsem k nim začal pomalu přilévat jednou rukou přepuštěné máslo a druhou rukou jsem šlehal.
+Žloutky jsem dal do kotlíku, přidal jsem několik lžiček vody a trochu citronové šťávy. Pak jsem je nad otevřeným ohněm šlehal, dokud nezhoustly. Mimo oheň jsem k nim začal pomalu přilévat jednou rukou přepuštěné máslo a druhou rukou jsem šlehal.
 
 No, a ten mladík, který měl ještě mokrá záda od toho, jak plaval přes to Rio Grande, se přišel zeptat, jestli mi může ten kotlík držet. Samozřejmě, že jsem souhlasil, protože kotlík se někdy moc mele.
 

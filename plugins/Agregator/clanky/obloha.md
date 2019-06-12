@@ -1,13 +1,13 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=124.html" data-image="files/preview/clanky/obloha/preview.jpg" data-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=124.html" data-image="files/preview/clanky/obloha/preview.jpg" data-type="article" data-top="9"}
 
 {id="obloha" ctime="2005-12-09" author="Michael Klíma" authorid="hostovka/michael_klima"}
 
 # Obloha
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
 
-{kw="jídla a jídelní lístky, nejčtenější"}
+{kw="jídla a jídelní lístky"}
 
 Na téma "obloha" v české kuchyni jsem napsal v odborném tisku více než je zdrávo a přesto že to všechno bylo v dobrém úmyslu tak jsem si vlastně udělal ještě více nepřátel a to hlavně mezi kuchaři a tak jsem to více méně vzdal protože jako více takových snah to nikam nevedlo.
 
@@ -75,7 +75,7 @@ Jak se to dá řešit? Já vím, že s tou Amerikou už jdu lidem na nervy a moh
 
 Jim, a nakonec ani já bych býval nebyl schopen udělat na grilu všechny ty steaky (minutky), a přitom je ještě ozdobit a přidat případně i přílohu. Ale oni ti Američané jsou také kujóni. Američtí kuchaři, i když se jim neplatí nic moc, mají přeci jenom větší platy než číšníci a servírky, u kterých se počítá, že si vydělají dost na obslužném (slovo spropitné nemám rád, protože to navádí k alkoholismu), a proto jsou považování za "odborné" síly.
 
-Americký vedoucí restaurace, jako správný hospodář na svém pracovišti, se snaží udělat různé, třeba i odborné práce lidmi, kteří mají co možná nejmenší mzdu. No, a kdo už má v americké restauraci menší mzduu než číšník nebo servírka. Tudíž veškeré práce, jako nalévání polévky, krájení chleba, nandání salátů, a zdobení jídel, abych uvedl jen několik prací, které u nás dělá vysoce placený minutkář, nebo dokoncei chf, jsou naloženy na servírky a číšníky. What a country!
+Americký vedoucí restaurace, jako správný hospodář na svém pracovišti, se snaží udělat různé, třeba i odborné práce lidmi, kteří mají co možná nejmenší mzdu. No, a kdo už má v americké restauraci menší mzduu než číšník nebo servírka. Tudíž veškeré práce, jako nalévání polévky, krájení chleba, nandání salátů, a zdobení jídel, abych uvedl jen několik prací, které u nás dělá vysoce placený minutkář, nebo dokoncei chf, jsou naloženy na servírky a číšníky. _What a country! {xml:lang="en"}_
 
 Tudíž, i když jsou nějaké výjimky, tak výdej z kuchyně je ve většině případů organizován takto:
 
@@ -92,7 +92,7 @@ Obsluhující
 :   obsluhující přidá přílohu jako jsou brambory, rýže, zelenina nebo bod.
 :   ozdobí to jídlo vhodnou ozdobu jako je petrželka, citrón, nebo jiná ozdoba kterou má eventuelně připravenou v chladničce dok které má z jeho strany přístup
 :   přiklopí jídlo glošem a odnese do jídelny
-:   v jídelně to jídlo odkryje a horké ho předloží hostovi. What a counry!
+:   v jídelně to jídlo odkryje a horké ho předloží hostovi. _What a counry! {xml:lang="en"}_
 
 Toto je jen velice stručný popis manipulace při výdeji jídel, ale dá vám jakousi představu o rychlé a ekonomickém výdeji podle kterého si můžete udělat obrázek o tom jak lze výdej organizovat aby host dostal jídlo horké, na horkém talíři a vhodně ozdobené a při úspoře na nákladech na mzdy.
 
@@ -118,7 +118,7 @@ Druhou přílohou jsou zeleniny (vegetables) a v Kalifornii případně i ovoce.
 
 Zde je ale nutné zdůraznit, že při podávání dvou příloh, se jejich váha a hmotnost musí přizpůsobit nejenom chuti ale i konsistenci a váze hlavní potraviny.
 
-V Českých restauracích, pokud si objednáte dvě přílohy à la carte, vám je podají v plné váze takže v některých případech se vám může stát že skončíte s přílohami ve váze 400 gramů i více. What a country!
+V Českých restauracích, pokud si objednáte dvě přílohy à la carte, vám je podají v plné váze takže v některých případech se vám může stát že skončíte s přílohami ve váze 400 gramů i více. _What a country! {xml:lang="en"}_
 
 K jídlům podávaným se šťávou nebo omáčkou se hodí přílohy které je buď absorbují nebo se jimi dají obalit jako například knedlíky, rýže, některé těstoviny, kus-kus, případně brambory, chléb, pečivo, apod.
 
@@ -182,7 +182,7 @@ Zlé jazyky tvrdí, že nejvíce na tom vydělali ti právníci kteří to vlast
 
 Já sice nejsem právník, ale pokud bych byl, tak bych všem výrobcům poradil, aby prostě na každé jídlo dali výstrahu že to jídlo může být škodlivé jejich zdraví a že ho tudíž jí na vlastní nebezpečí.
 
-To jsem ale nevymyslel nic nového, protože v Česku například podávání tatarského bifteku, což údajně není zdravé, se vyřešilo tak, že na jídelním lístku musí být uvedeno že jeho konzumace je na vlastní nebezpečí hosta. What a country!
+To jsem ale nevymyslel nic nového, protože v Česku například podávání tatarského bifteku, což údajně není zdravé, se vyřešilo tak, že na jídelním lístku musí být uvedeno že jeho konzumace je na vlastní nebezpečí hosta. _What a country! {xml:lang="en"}_
 
 Podle mě ale nebude českým právníkům trvat moc dlouho než na základě vyhlášky Ministerstva zdravotnictví 107/2001 Sb., ze dne 9. března 2001, začnou české restauratéry soudit při každém sebemenším nedodržením této vyhlášky.
 

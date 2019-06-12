@@ -5,15 +5,24 @@
     <li><a title="Autor: %s" var="link@href author@title heading">n/a</a></li>
   </doclist>
 -->
-  <doclist id="stitek" path="clanky" kw="nejčtenější">
+  <doclist id="stitek" path="clanky" filter-name="top">
     <dl class="clanek">
-      <dt><a title="Autor: %s" var="link@href author@title"><img var="image@src heading@alt"/></a></dt>
+      <dt><a title="Zobrazit článek %s" var="link@href short@title" href="%s?usp=image"><img var="image@src heading@alt"/></a></dt>
       <dd class="date" fn="inputvar-dateformat" var="ctime">n/a</dd>
       <dd class="kw" var="kw" fn="inputvar-maketags">n/a</dd>
-      <dt class="heading"><a title="Autor: %s" var="link@href author@title heading">n/a</a></dt>
+      <dt class="heading"><a title="Zobrazit článek %s" var="link@href short@title heading" href="%s?usp=heading">n/a</a></dt>
       <dd class="desc" var="desc">n/a</dd>
       <dd class="extra"><ul>
-        <li><a var="link@href" class="button">Přečíst</a></li>
+        <li><a title="Zobrazit článek %s" var="link@href short@title" class="button" href="%s?usp=button">Přečíst</a></li>
+<!--         <li><span class="button facebook" title="Sdílet na facebooku"><span class="fa fa-facebook-official">share</span></span></li> -->
+        <li>
+          <span class="hideable">
+            <span var="link@data-eventable-label" class="eventable" data-eventable-action="share">share</span>
+            <span class="copyable" fn="inputvar-createlink" var="link">n/a</span>
+            <span class="fb hideable-nohide"><a var="link@href" href="https://www.facebook.com/sharer/sharer.php?u=https://www.hostovka.cz/%s">Sdílet na facebooku</a></span>
+            <span class="twitter hideable-nohide"><a var="link@href" href="https://twitter.com/intent/tweet?text=www.hostovka.cz/%s">Sdílet na twitteru</a></span>
+          </span>
+        </li>
       </ul></dd>
     </dl>
   </doclist>
@@ -27,7 +36,6 @@
   <doclist id="pripadova_studie" kw="případová studie" for="stitek" />
   <doclist id="pohostinstvi" kw="pohostinství" for="stitek" />
   <doclist id="o_cem_se_mluvi" kw="o čem se mluví" for="stitek" />
-  <doclist id="nejctenejsi" kw="nejčtenější" for="stitek" />
   <doclist id="napoje" kw="nápoje" for="stitek" />
   <doclist id="kuchynske_techniky" kw="kuchyňské techniky" for="stitek" />
   <doclist id="koho_se_to_tyka" kw="koho se to týká" for="stitek" />

@@ -55,7 +55,7 @@ S těmito argumenty plně souhlasím. Přesto si ale myslím, že by restaurace 
 
 ## Výrobní cena jídel
 
-V každé restauraci, ať malé nebo velké, bychom měli mít seznam jídel, která na našem jídelním lístku máme, nebo hodláme někdy mít. Důvody jsme si řekli a sice, že to usnadňuje naší práci při tvorbě nebo změně jídelního lístku. Tento seznam je ale daleko hodnotnější, jestliže jídla v něm uvedená jsou doplněna o výrobní cenu.
+V každé restauraci, ať malé nebo velké, bychom měli mít seznam jídel, která na našem jídelním lístku máme nebo hodláme někdy mít. Důvody jsme si řekli a sice, že to usnadňuje naší práci při tvorbě nebo změně jídelního lístku. Tento seznam je ale daleko hodnotnější, jestliže jídla v něm uvedená jsou doplněna o výrobní cenu.
 
 Výrobní cena jídel je ale něco, co se velmi často mění. Výrobní cenu, jak víme, ovlivňuje nákupní cena surovin, jejich výtěžnost při opracování a přípravě před kuchyňskou úpravou. Výrobní cena je ovlivněna i zručností kuchaře. Uvědomme si jen, kolik jídel pokazí učedník do doby, než se to všechno naučí.
 
@@ -67,7 +67,7 @@ Proto výrobní cenu doplňujeme do seznamu surovin až po vypracování kalkula
 
 ## Úvaha o tvorbě cen
 
-Jedno staré pořekadlo říká: „nejsem tak bohatý, abych si mohl dovolit kupovat laciné věci“. K tomu je možno dodat, že zpravidla dostanete to, za co si zaplatíte.
+Jedno staré pořekadlo říká: „Nejsem tak bohatý, abych si mohl dovolit kupovat laciné věci.“ K tomu je možno dodat, že zpravidla dostanete to, za co si zaplatíte.
 
 {id="podle\_ceho\_tvorit_cenu"}
 
@@ -91,9 +91,9 @@ Ceny by každopádně měly odpovídat charakteru podniku, kvalitě jídel a slu
 
 ### Nepoměr v cenách
 
-Neměli bychom podceňovat inteligenci hostů. Nevím jak dlouho si hosté (obzvláště absolventi Hostovky) nechají líbit to, aby ve většině pražských restauracích cena polévky činila téměř třetinu ceny hlavního jídla. Nebo aby všechny přílohy byly na lísku vždy zvlášť, a to za třetinu až polovinu ceny hlavního jídla. Pokud je chřest jako zeleninová příloha pro daný podnik příliš drahý, tak proč ho vůbec dávají na lístek?
+Neměli bychom podceňovat inteligenci hostů. Nevím, jak dlouho si hosté (obzvláště absolventi Hostovky) nechají líbit to, aby ve většině pražských restauracích cena polévky činila téměř třetinu ceny hlavního jídla. Nebo aby všechny přílohy byly na lísku vždy zvlášť, a to za třetinu až polovinu ceny hlavního jídla. Pokud je chřest jako zeleninová příloha pro daný podnik příliš drahý, tak proč ho vůbec dávají na lístek?
 
-Některé restaurace jsou tak nestydaté, že uvádí na lístku i ceny omáček. Na některých lístcích je rozdíl mezi nejlevnějším a nejdražším hlavním jídlem bez přílohy až 300 Kč. To pan vedoucí nevidí, že něco není v pořádku? Buď musí snížit velikost porce u drahého jídla, nebo musí zvýšit velikost porce u laciného, aby se poměr cen vyrovnal. Jestliže to nejde, tak se dané jídlo na lístek prostě nehodí.
+Některé restaurace jsou tak nestydaté, že uvádí na lístku i ceny omáček. Na některých lístcích je rozdíl mezi nejlevnějším a nejdražším hlavním jídlem bez přílohy až 300 Kč. To pan vedoucí nevidí, že něco není v pořádku? Buď musí snížit velikost porce u drahého jídla nebo musí zvýšit velikost porce u laciného, aby se poměr cen vyrovnal. Jestliže to nejde, tak se dané jídlo na lístek prostě nehodí.
 
 {id="tradicni_ceny"}
 

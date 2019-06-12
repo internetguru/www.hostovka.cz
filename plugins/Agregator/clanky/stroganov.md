@@ -1,13 +1,13 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=126.html" data-image="files/preview/clanky/stroganov/preview.jpg" data-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=126.html" data-image="files/preview/clanky/stroganov/preview.jpg" data-type="article" data-top="8"}
 
 {id="stroganov" short="Stroganov" ctime="2005-12-21" author="Michael Klíma" mtime="2019-02-27"}
 
 # Hovězí Stroganov s hranolky
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
 
-{kw="jídla a jídelní lístky, nejčtenější"}
+{kw="jídla a jídelní lístky"}
 
 Se Stroganovem jsem se poprvé setkal v Moskvě kolem roku 1954. Od té doby jsem ho jedl jak v Sovětském svazu, tak i jinde ve světě. Stroganov byl vynalezen dvorním kuchařem carského dvora Sergejem Stroganovem za vlády ruské carevny Kateřiny Veliké.
 
@@ -73,7 +73,8 @@ Použité technice se říká [vaření z polotovarů][1] (anglicky _assembly co
       1. V kotlíku smícháme tři čtvrtiny dávky kyselé smetany s moukou. To zabrání tomu, aby se omáčka srazila.
       2. Přimícháme hořčici, mletý kmín a popřípadě trošku worcestrové omáčky.
       3. Kvásek rozředíme trochou mléka a dáme stranou.
-  2. Nakrájené maso, osolíme, opepříme a orestujeme na pomaštěném gridlu nebo ve velké sklopné pánvi a dáme na teplo.m>) a opéct ho dozlatova v konvektomatu nebo v horké troubě.
+  2. Nakrájené maso, osolíme, opepříme a orestujeme na pomaštěném gridlu nebo ve velké sklopné pánvi a dáme na teplo.
+      * Ve velké kuchyni můžeme maso dát v tenkých vrstvách na plechy (anglicky _sheet pan_) a opéct ho dozlatova v konvektomatu nebo v horké troubě. {class="example"}
   3. Mezitím ve sklopné pánvi zpěníme cibuli. Dříve než začne cibule pouštět šťávu, tak přidáme orestované maso a vše na prudkém ohni dobře promícháme.
   4. Dříve než maso začne pouštět šťávu a ztrácet na váze, přimícháme kvásek a vše přivedeme do varu.
   5. Přidáme tři čtvrtiny dávky okurek i s jejich šťávou, nakrájené žampiony a při občasném míchání dusíme na mírném ohni asi 20 minut (podle kvality masa).
@@ -98,7 +99,7 @@ Boršč, jak mistr Rosropovič údajně prohlásil, byl z jiného světa (anglic
 
 Jakmile mistr Rostropovič Stroganov dojedl, nechal si mě zavolat, a začal mě objímat jako žádný jiný host nikdy před tím. Řekl mi, že procestoval téměř celý svět, ale že nikde, včetně Sovětského svazu, neochutnal tak dobrý Stroganov. Také mi řekl, že nikde mimo Sovětského svazu, mu ho nepodali tak jak má být – a sice s hranolky.
 
-Mistr Rostropovič byl tak nadšený že mě pozval ke stolu na panáka jeho osobní vodky. Po několika kolech, mě požádal, abych mu říkal Slavo. Tak ho nazývala jen jeho manželka a jen jeho nejbližší přátelé. On mi začal říkat Míšo, takže z toho vznikla pravá ruská družba.
+Mistr Rostropovič byl tak nadšený, že mě pozval ke stolu na panáka jeho osobní vodky. Po několika kolech, mě požádal, abych mu říkal Slavo. Tak ho nazývala jen jeho manželka a jen jeho nejbližší přátelé. On mi začal říkat Míšo, takže z toho vznikla pravá ruská družba.
 
  [1]: /vareni_z_polotovaru
  [2]: /kucharske_tituly#vykonny_sefkuchar

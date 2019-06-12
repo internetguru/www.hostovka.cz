@@ -1,13 +1,13 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-image="/files/preview/clanky/kratky\_a\_dlouhy_tyden/preview.jpg" data-type="article" data-source="http://2017.hostovka.cz/clanek.php?clanek=155"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-image="/files/preview/clanky/kratky\_a\_dlouhy_tyden/preview.jpg" data-type="article" data-source="http://2017.hostovka.cz/clanek.php?clanek=155" data-top="6"}
 
 {id="kratky\_a\_dlouhy\_tyden" author="Michael Klíma" authorid="hostovka/michael\_klima" ctime="2006-06-18"}
 
 # Krátký a dlouhý týden
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
 
-{kw="případová studie, nejčtenější"}
+{kw="případová studie"}
 
 Hostovka jak název napovídá je v zásadě určena hostům nebo těm kteří se sofistikovanými hosty chtějí stát. Při této snaze se ale nevyhneme nutnosti porozumět tomu jak některé věci v tom našem pohostinství fungují.
 

@@ -17,13 +17,9 @@ Snahou Hostovky je zvýšit uvědomění našich hostů v tom, co jim patří a 
 <q>Brzy do postele, brzy vstát, propagovat se a tvrdě pracovat!</q>
 :   Životní krédo Mikea z originálního <q xml:lang="en">Early to bed, early to rise, work like hell and advertise!</q>.
 
-{id="clanky"}
+{id="clanky" short="Články" class="filter"}
 
-## Články
-
-Články
-
-{class="taglist" var="inputvar-taglist"}
+## Kategorie článků
 
 n/a
 
@@ -31,18 +27,9 @@ n/a
 
   * n/a
 
-<!--
-    <h id="otazky_a_odpovedi" short="Otázky a odpovědi">Často kladené dotazy</h>
-    <desc>#desc</desc>
-    <h id="kontakty">Kontakty</h>
-    <desc>#desc</desc>
-    <ul>
-      <li>Restaurace Steakgrill</li>
-      <li><a href="http://www.steakgrill.cz/kontakty">www.steakgrill.cz/kontakty</a></li>
-    </ul>
--->
+{class="taglist" var="inputvar-taglist"}
 
-<!--     <p var="contactform-basic"></p> -->
+n/a
 
  [1]: /files/preview/klima.jpg
  [2]: ?clanky=zivotopis#clanky-seznam

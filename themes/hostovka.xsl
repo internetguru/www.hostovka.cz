@@ -8,7 +8,6 @@
   <xsl:param name="linklist" select="'&lt;p&gt;&lt;em&gt;Nebyly nalezeny žádné odkazy.&lt;/em&gt;&lt;/p&gt;'"/>
   <xsl:param name="agregator-current-stitek" select="'nejčtenější'"/>
 
-  <!-- 
   <xsl:template match="h2[@id='clanky']">
     <xsl:copy>
       <xsl:apply-templates select="@* | node()"/>
@@ -17,6 +16,7 @@
       </span>
     </xsl:copy>
   </xsl:template>
+  <!-- 
 
   
   <xsl:template match="div[ol[contains(@class, 'otazky')]]">
