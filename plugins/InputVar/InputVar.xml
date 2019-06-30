@@ -41,8 +41,8 @@
 <!-- [replacenames] generated content, do not edit -->
     <data name="title=zkušensti"></data>
     <data name="href=zkušensti"></data>
-    <data name="title=Životopis">Filtrovat články</data>
-    <data name="href=Životopis">/?stitek=Zivotopis#clanky</data>
+    <data name="title=životopis">Filtrovat články</data>
+    <data name="href=životopis">/?stitek=zivotopis#clanky</data>
     <data name="title=zelenina"></data>
     <data name="href=zelenina"></data>
     <data name="title=želatina"></data>
@@ -181,7 +181,7 @@
       <dt class="filter">Nejčetnější kategorie článků</dt>
       <dd>
 <!-- [taglist] generated content, do not edit -->
-    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=Životopis" href="href=Životopis">Životopis</a>
+    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=životopis" href="href=životopis">životopis</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=zbožíznalství" href="href=zbožíznalství">zbožíznalství</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=ubytování" href="href=ubytování">ubytování</a>
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=restaurace a servis" href="href=restaurace a servis">restaurace a servis</a>
@@ -212,7 +212,7 @@
     <ul>
       <li><select id="completable-search" name="s" class="completable">
 <!-- [completable] generated content, do not edit -->
-<option class="tag" value="stitky/Zivotopis">Životopis (4 výskytů) #stitky/Zivotopis</option>
+<option class="tag" value="stitky/zivotopis">životopis (4 výskytů) #stitky/zivotopis</option>
 <option class="tag" value="stitky/zboziznalstvi">zbožíznalství (6 výskytů) #stitky/zboziznalstvi</option>
 <option class="tag" value="stitky/ubytovani">ubytování (6 výskytů) #stitky/ubytovani</option>
 <option class="tag" value="stitky/restaurace_a_servis">restaurace a servis (20 výskytů) #stitky/restaurace_a_servis</option>
