@@ -5,6 +5,8 @@
 
 # Vykosťování
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+
 {kw="kuchyňské techniky"}
 
 Pokud na stránkách Hostovky hovoříme o vykosťování tak máme na mysli vykosťování vařených ryb, masa či drůbeže.

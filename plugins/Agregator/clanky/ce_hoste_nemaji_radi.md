@@ -5,6 +5,8 @@
 
 # Co hosté nemají rádi
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+
 {kw="restaurace a servis"}
 
 Toho co hosté nemají rádi je nekonečná řada. Je to do jisté míry dáno sofistikovaností hosta, neboli tím zda ví co mu vlastně patří, což bohužel dnes málo našich hostů ví.

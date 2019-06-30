@@ -5,6 +5,8 @@
 
 # Stížnosti
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+
 {kw="gastronomie"}
 
 Pracuji v pohostinství již 70 let a rád, protože v tomto oboru nic není stále, jsou to neustálé změny, a co je stálé jsou právě ty změny a stížnosti. Přikládám článek, který jsem napsal 11. 8. 2003, který je toho důkazem…

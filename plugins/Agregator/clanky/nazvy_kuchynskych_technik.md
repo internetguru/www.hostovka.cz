@@ -5,6 +5,8 @@
 
 # Názvy kuchyňských technik
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+
 {kw="kuchyňské techniky"}
 
 Hostovka není škola vaření ani škola řízení restauračních provozů.

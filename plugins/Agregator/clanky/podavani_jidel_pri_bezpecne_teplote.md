@@ -5,6 +5,8 @@
 
 # Podávání jídel při bezpečné teplotě
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+
 {kw="hygiena a sanitace"}
 
 Neodborné zacházení se surovinami při přípravě a hlavně s hotovými jídly je příčinou mnoha vážných onemocnění a toto si pravděpodobně uvědomují více hosté než ti kteří jídla připravují.

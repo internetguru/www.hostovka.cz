@@ -5,6 +5,8 @@
 
 # Rent a chef
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+
 {kw="gastronomie"}
 
 Rent a Chef nebo také In House Chef, o kterém se zmiňuje náš nový, všemi médiemi, zejména iDNES popularizovaný , zachránce českého pohostinství, Američan Scott Van Wagenen (viz BLACK DOG CANTINA) je kuchař, kterého si můžete najmout k přípravě jídel případně i nápojů, ve vaši domácí či privátní kuchyni, ve vašem nádobí, na vašem zařízení, z vámi vybraných potravin, eventuálně podle vašich receptur, a servírované na vašem božíhodovém porcelánu.

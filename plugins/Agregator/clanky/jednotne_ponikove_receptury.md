@@ -5,6 +5,8 @@
 
 # Tvorba jednotných podnikových receptur
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+
 {kw="konzulting"}
 
 Jak číst receptury je jedna věc, a jak je psát je věc druhá. Jsou profesionální receptury, které uvádí jen druh použitých potravin a koření bez uvedení množství nebo způsobu jejich úpravy. Oproti tomu jiné receptury uvádí nejenom přesnou váhu potravin, přesný způsob zpracovávání a úpravy, také přesně opisují i velkost požitého nádobí a specifikuji na jakém zařízení se daný pokrm musí upravovat a trvají například na tom, že koření se musí tlouct jen v hmoždíři, což v případě, že máte elektrický mlýnek na koření, na kterém se dá nastavit zrnitost, je úplný nesmysl.

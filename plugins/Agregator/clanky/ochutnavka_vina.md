@@ -5,6 +5,8 @@
 
 # Ochutnávka vína
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+
 {kw="nápoje"}
 
 U příležitosti semináře PŘÍPRAVA STEAKŮ budou účastníci mít příležitost ochutnat několik chilských vín presentovaných paní Ing. Evou Staňkovou v zastoupení firmy TRUMF International s.r.o.

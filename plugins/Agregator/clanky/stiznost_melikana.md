@@ -5,6 +5,8 @@
 
 # Stížnost Melikana
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+
 {kw="o čem se nemluví"}
 
 Moje zkušenost z návštěvy Motorestu Melikana z neděle 4. 9. 2011.

@@ -5,6 +5,8 @@
 
 # O mase
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+
 {kw="jídla a jídelní lístky"}
 
 Hostovka, jak jsme si řekli, není nějaká škola vaření, ale jako studenti Hostovky pokud chceme vědět, jestli v restauraci za naše peníze dostáváme to co nám patří musíme o vaření něco vědět, ale hlavně o surovinách.

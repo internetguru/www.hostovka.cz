@@ -5,6 +5,8 @@
 
 # Tisková zpráva APK ČR
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+
 {kw="konzulting"}
 
 Dne 25. srpna 2011 byla Ministerstvem Vnitra České Republiky registrována ASOCIACE KONZULTANTŮ ČESKÉ REPUBLIKY, o. s.

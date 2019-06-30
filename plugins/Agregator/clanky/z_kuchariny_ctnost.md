@@ -5,6 +5,8 @@
 
 # Z kuchařiny ctnost
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+
 {kw="gastronomie"}
 
 Já se grilováním vážně zabývám již více než 40 let, a napsal jsem na toto téma nesčíslně odborných článků a téměř po celém světě uspořádal celou řadu odborných seminářů, a proto není divu, že se mě tolik lidí ptá na názor na pořad pana Pohlreicha o grilování. Pan Pohlreich mi osobně může být ukrdený, ale to že ze všech kuchařů kteří nejsou sprostí jako on a kteří nemají komediantské vlohy, dělá úplné debily nemohu mlčky přihlížet.

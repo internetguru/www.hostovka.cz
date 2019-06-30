@@ -5,6 +5,8 @@
 
 # Roasting
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+
 {kw="kuchyňské techniky"}
 
 Roasting, spíše ale jenom roast, což znamená pečení, je výraz se kterým se velmi často setkáte na anglicky psaných jídelních lístcích, ale jako studenti hostovky byste měli vědět že se tento výraz vztahuje jen na maso, drůbež a případně ryby.

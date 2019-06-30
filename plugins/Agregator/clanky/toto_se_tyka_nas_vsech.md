@@ -5,6 +5,8 @@
 
 # Toto se týká nás všech
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+
 {kw="koho se to týká"}
 
 Musím ale začít omluvou všem odborným učitelům, mistrům odborného výcviku a pedagogům za to, že mnohdy generalizuji a házím je všechny do jednoho pytle.

@@ -5,6 +5,8 @@
 
 # Vázání
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+
 {kw="kuchyňské techniky"}
 
 S výrazem vázání se kuchyni setkáte jednak při popisu specifických technik vázání zeleniny do svazků jako například chřest, nebo bouquet garni, případně velkých kusů masa před pečením.

@@ -5,6 +5,8 @@
 
 # Supervision
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+
 {kw="pohostinství"}
 
 Před nějakým časem jsem se ptal bývalého rektora jedné hotelové školy, proč se na českých hotelových školách učí všechny ty archaické nebo prakticky nepoužitelné předměty a přitom jedna ze základních znalostí managementu jako je supervision, se neučí.

@@ -5,6 +5,8 @@
 
 # Gravlax
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+
 {kw="kuchyňské techniky"}
 
 Již několikrát jsem napsal, a stále se v tom utvrzuji, že čeští kuchaři jsou schopni 200 neo 300 let starý klasický recept vylepšit či předělat k nepoznání. Ještě před několika málo měsíci čeští kuchaři o grilováni nic nevěděli a dnes najednou, jak uvádí Autorka Radka Hrdinková ve svém článku Tipy od mistra – Grilujeme (Gastrpnews.cz, Pod pokličkou, jsou čeští kuchaři mistři světa v grilování a dokáží grilovat i jídla která nemají s grilováním vůbec co společného.

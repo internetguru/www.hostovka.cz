@@ -5,6 +5,8 @@
 
 # Předkrmy
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+
 {kw="jídla a jídelní lístky"}
 
 Kdysi kuřecí křidélka, pokud pro ně nebylo využití při přípravě drůbežího vývaru, byly více méně neupotřebitelným odpadem. Pracoval jsem kdysi jako konzultant v jednom relativně velkém hotelu v Egyptě, kde jak asi víte, se zpracovává velké množství kuřat a to většinou pečených. Před pečením z těch kuřat křidélka odřízli a uložili je do mrazáku. Po nějakém čase je požili buď do vývaru, nebo je upekli a podávali je na bufetu pod názvem Bufalo wings.

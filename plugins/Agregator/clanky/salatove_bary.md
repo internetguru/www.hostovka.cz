@@ -5,6 +5,8 @@
 
 # Salátové bary
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+
 {kw="jídla a jídelní lístky"}
 
 Lidé mají rádi jídlo které je úhledně a hygienicky zabalené a stejně tak mají rádi jídlo kterého se nikdo moc nedotýkal.

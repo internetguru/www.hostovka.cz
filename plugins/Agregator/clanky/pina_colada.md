@@ -5,6 +5,8 @@
 
 # Piña Colada
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+
 {kw="nápoje"}
 
 některé koktejly se v Česku a na Slovensku nemohly kdysi připravovat protože nebyly potřebné suroviny. Dnes ale tento problém není a tak možná si budete moci dopřát jeden z mála koktejlů který chutná i mně a to je Piña Colada.

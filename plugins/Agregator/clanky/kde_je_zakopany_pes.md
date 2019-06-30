@@ -5,6 +5,8 @@
 
 # Kde je zakopaný pes
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+
 {kw="o čem se nemluví"}
 
 Již jsem několikrát napsal, že v českých restauracích si nestěžuji, protože odpověď je vždy stejná, a sice že si u nich nikdo nestěžuje, a tak nakonec jsem to já, kdo by se měl omluvit za to, že jsem takový ignorant a nesofistikovaný host. Jsou ale případy, kdy by chtěli slyšet, co tedy bylo špatné a abych jim tedy řekl jak to dělat lépe.

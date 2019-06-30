@@ -5,6 +5,8 @@
 
 # Hotchpotch
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+
 {kw="jídla a jídelní lístky"}
 
 V angličtině hotch-potch znamená „míchanice“, něco jako čínské "chop suey", a to je to co toto holandské jídlo je.

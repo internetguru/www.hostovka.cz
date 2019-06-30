@@ -5,6 +5,8 @@
 
 # Zatracený krabí život
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+
 {kw="jídla a jídelní lístky"}
 
 Lidé někdy naříkají nad svým životem a říkají jaký psí život to mají.

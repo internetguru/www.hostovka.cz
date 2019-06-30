@@ -5,6 +5,8 @@
 
 # Tvorba cen
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+
 {kw="konzulting"}
 
 Vaření nezačíná nákupem, jak tvrdí náš samozvaný chef Pohlreich. vaření začíná plánem neboli jídelním lístkem. Tvorba jídelního lístku začíná zbožíznalstvím, psychologií nákupu potravin, tvorbou receptur a tvorbou cen, i když ne vždy v tomto pořadí. ale v žádném případě nějaké komediantství nestačí a je k tomu v každém případě potřeba nějaký know how.

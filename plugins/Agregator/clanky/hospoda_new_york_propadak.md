@@ -5,6 +5,8 @@
 
 # Hospoda v New Yorku propadák
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+
 {kw="gastronomie"}
 
 Nejsem žádný Nostrodámus, ale když jsem prvně slyše a viděl, s čím chtějí Češi ty Američany ohromit, jsem předpovídal, že to špatně dopadne.

@@ -5,6 +5,8 @@
 
 # La table d'hote
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+
 {kw="gastronomie"}
 
 Ve volném překladu to znamená stůl hostitele, ale přesná definice není dnes již ani ve Francii.

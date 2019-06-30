@@ -5,6 +5,8 @@
 
 # Brunch
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+
 {kw="gastronomie"}
 
 Já jsem toho o brunších v českém odborném tisku a na webových stránkách napsal jako nikdo před tím, ale obávám se, že to nepadlo na úrodnou půdu nebo, jak někteří čeští "odborníci" říkali - české pohostinství něčemu takovému ještě nedorostlo.

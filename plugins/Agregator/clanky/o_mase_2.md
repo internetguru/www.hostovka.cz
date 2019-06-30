@@ -5,6 +5,8 @@
 
 # O mase 2
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+
 {kw="jídla a jídelní lístky"}
 
 KRÁVA NEJSOU JEN SAMÉ STEAKY

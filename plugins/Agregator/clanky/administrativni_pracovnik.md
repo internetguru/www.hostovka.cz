@@ -5,6 +5,8 @@
 
 # Administrativní pracovník
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+
 {kw="pohostinství"}
 
 U většiny funkci pracovníků v pohostinství se nepřepokládají administrativní schopnosti, nicméně dnes je jen velmi málo funkcí, kde by administrativa neměla svoji důležitost. Historicky je známo, že jen velmi málo, třeba i slavných kuchařů, je schopno své recepty a techniky vaření popsat, tudíž většině těchto kuchařů to ještě dnes někdo píše.

@@ -5,6 +5,8 @@
 
 # Ellsworth M. Statler
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+
 {kw="kdo-kdy-kde"}
 
 Jako studenti Hostovky byste měli znát jeden z mých názorů který říká, že když něco jde jiné, tak proč by to nemohlo jít i u nás.

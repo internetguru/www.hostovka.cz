@@ -5,6 +5,8 @@
 
 # Sanitace
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+
 {kw="hygiena a sanitace"}
 
 zatím nikdo do této sekce SANITACE nepřidal žádný příspěvek a přitom si myslím, že sanitace je největší problém při přípravě jídel nejenom doma, ale ještě více ve veřejném stravování.

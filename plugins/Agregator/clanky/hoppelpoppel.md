@@ -5,6 +5,8 @@
 
 # Hoppelpoppel
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+
 {kw="jídla a jídelní lístky"}
 
 Někdy také hoppel-poppel je údajně jídlo německého původu, ale ještě donedávna bych býval dal ruku do ohně za to, že je to české jídlo.

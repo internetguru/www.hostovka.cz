@@ -5,6 +5,8 @@
 
 # Zbytky
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+
 {kw="jídla a jídelní lístky"}
 
 Zbytky, někdy zvané resty, jsou největším bolehlavem každého manažera kuchyně. Zbytky jsou nenahraditelné ztráty. Zbytky mohou být neprodané porce prvotřídních a drahých jídel, které se z nějakého důvodu neprodaly a které tím pádem ztrácí až 50% své hodnoty ovšem v praxi to neznamená, že by na těch zbytcích bylo něco špatného nebo že jsou zdravotně nebezpečné.
@@ -24,5 +26,4 @@ Plátky obalovaného, smaženého lilku (zbytek z minulého dne), rajská omáč
 Dno máslem vymaštěného pekáčku pokryjeme plátky smaženého lilku, pokryjeme tenkou vrstvou sýra a přelijeme bešamelovou omáčkou. Tímto způsobem přidáme ještě 2 nebo tři vrstvy smaženého lilku a ostatních surovin tak abychom zakončili bešamelovou omáčkou. Povrch posypeme strouhaným sýrem, pokapeme rozpuštěným máslem a pečeme v troubě dozlatova.
 
 Pečený lilek nakrájíme na porce požadované velikosti a podáváme jako hlavní chod s opečenými bramborami nebo s bramborovou kaší.
-
 

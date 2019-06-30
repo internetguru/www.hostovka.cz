@@ -5,6 +5,8 @@
 
 # Steamship round
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+
 {kw="jídla a jídelní lístky"}
 
 Steamship round je celá hovězí kýta která může vážit od 22 do 27 kg, a která se peče v celku.

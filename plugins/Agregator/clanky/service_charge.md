@@ -5,6 +5,8 @@
 
 # Service charge
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+
 {kw="restaurace a servis"}
 
 V oddělení otázek mi jeden čtenář položil velice zajímavou otázku co je servis charge, kterou se zabývají odborníci v pohostinství téměř na celém světě, a kterou se ještě nikomu nepodařilo vyřešit.

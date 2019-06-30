@@ -5,6 +5,8 @@
 
 # Gastronomie
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+
 {kw="gastronomie"}
 
 Pokud hovoříme o gastronomii jako o umění tak nemůžeme opomenout gasteru. Gastera někdy nazývaná Nectambrosia, je považována za desátou múzu. Múzy, kterých bylo devět, byly bohyně umění a vědy v řecké mytologii. Byly to dcery Zeuse a Mnemosyny, bohyně paměti. žily na hoře Helicon. Múzy byly pomocnice Apola, Boha básnictví. zpívaly ve sborech při všech slavnostech Bohů na Olympu. Staří spisovatelé a básníci, dříve než začali psát, volali múzy na pomoc.

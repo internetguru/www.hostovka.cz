@@ -5,6 +5,8 @@
 
 # Zařízení ke grilování či broilování
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+
 {kw="stroje a náčiní"}
 
 Jak jste se asi povšimli, tak pokud se jedná o zařízení, tak já nerad píši o něčem s čím se nejspíše nesetkáte ani doma a ni při vašich cestách do zahraničí.

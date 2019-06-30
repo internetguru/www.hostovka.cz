@@ -5,6 +5,8 @@
 
 # Prime Rib
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+
 {kw="jídla a jídelní lístky"}
 
 Prime rib je něco co se ještě před několika lety na českých jídelních lístcích vůbec neobjevovalo.

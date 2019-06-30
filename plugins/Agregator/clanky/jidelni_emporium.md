@@ -5,6 +5,8 @@
 
 # Jídelní emporium
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+
 {kw="co-kdy-kde"}
 
 Jako studenti Hostovky se budete muset dříve nebo později umět orientovat ve všech těch možných typech restauračních provozů abyste věděli co vám v každé restauraci nebo v každém novém konceptu za vaše peníze patří.

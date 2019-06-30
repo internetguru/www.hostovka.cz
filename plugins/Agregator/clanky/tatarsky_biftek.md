@@ -5,6 +5,8 @@
 
 # Tatarský biftek
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+
 {kw="jídla a jídelní lístky"}
 
 Přikládám článek který jsem napsal do Food Service někdy kolem r. 2000, ale při mé poslední návštěvě ČR jsem někde zahlédl Tatar z tuňáka se salátem z jarní cibule, shitake hub sojových klíčků a to mně přimělo ten článek uveřejnit znovu.

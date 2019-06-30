@@ -5,6 +5,8 @@
 
 # Funkce pracovníků v pohostinství
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+
 {kw="o čem se nemluví"}
 
 Rozvoj pohostinství vyžaduje, aby každou práci vykonávali vysoce kvalifikovaní pracovníci s odpovídajícími znalostmi a případně s odpovídajícím vzděláním. Rozmanitost provozu pohostinství klade nemalé nároky na znalost problematiky výrobní — znalost zbožíznalství, technologie, problematiky ekonomie a organizace, z oboru fyziologie, hygieny výživy, léčebné výživy i na základní vědomosti o cestovním ruchu, nemluvě o znalosti jazyků a psychologie.

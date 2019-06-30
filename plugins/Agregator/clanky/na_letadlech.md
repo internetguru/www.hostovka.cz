@@ -5,6 +5,8 @@
 
 # Na letadlech
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+
 {kw="jídla a jídelní lístky"}
 
 Zkracováním pracovní doby se zvyšují nároky na účelné využití volného času jak zábavou, odpočinkem tak i cestováním.

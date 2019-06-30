@@ -5,7 +5,7 @@
 
 # Opravdově čerstvá ryba v restauraci
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
 
 {kw="gastronomie, ryby, historka"}
 
@@ -25,7 +25,7 @@ Podle mě je čerstvá ryba taková, která je do kuchyně dodána ještě živ�
 
 {class="figure"}
 
-![čerstvá ryba, ale tak trochu velké sousto][1]
+![čerstvá ryba, ale tak trochu velké sousto][1] 
 :   čerstvá ryba, ale tak trochu velké sousto
 
 Některé restaurace mají nádrže s živými rybami a plody moře umístěné v kuchyni nebo dokonce přímo v restauraci. Hosté si pak mají možnost vybrat živou rybu, kterou jim v kuchyni následně připraví. Další možnost je koupit čerstvou rybu v nejbližší rybárně. Ta ale musí být hned uvařená, protože druhý den se o čerstvé rybě již hovořit nedá.
@@ -34,7 +34,7 @@ Pokud jsou ryby atraktivně vystavené na ledu, tak to ještě mnohdy není zár
 
 {class="figure"}
 
-![rybí oko][2]
+![rybí oko][2] 
 :   rybí oko
 
 {id="cerstve\_ryby\_na_panorame"}

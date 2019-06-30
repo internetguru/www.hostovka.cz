@@ -5,6 +5,8 @@
 
 # Valet parking
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+
 {kw="restaurace a servis"}
 
 Valet v angličtině znamená sluha nebo komorník. Valet parking v pohostinství je parkování vašeho vozu zaměstnancem hotelu nebo restaurace.

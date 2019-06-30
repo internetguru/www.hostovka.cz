@@ -5,6 +5,8 @@
 
 # Ekonomie kuchyňských technik
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+
 {kw="kuchyňské techniky"}
 
 Většina receptů jak v kuchařských knihách, tak i na internetu nepopisuje plně nebo správně potřebné techniky. Jednak je to proto, že jejich autoři si naivně myslí, že lidé tyto techniky znají a nebo je nepopisují protože je valstně ani sami neznají.

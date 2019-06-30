@@ -5,6 +5,8 @@
 
 # Absinth
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+
 {kw="nápoje"}
 
 absinth (fr.), česky absint, je zelený likér k jehož přípravě se mimo jiné používá nahořklá dřevnatá rostlina (Artemisia absinthum) anglicky zvaná wormwood. Wormwood má intenzivní anýzovou příchuť a odtud francouzský název Anisette. Tomuto nápoji byly přičítány afrodisiacké účinky a proto se stal se velice populárním hlavně ve Francii a v Novém Orleansu v Carolině a ve Spojených Státech Amerických.

@@ -5,6 +5,8 @@
 
 # Číslování jídel na jídelních lístcích
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+
 {kw="gastronomie"}
 
 Až do doby zavedení počítačů si málokdo uvědomoval, že kombinací jednoduchých čísel jako je 0 a 1, lze vyjádřit téměř všechno. Číslovat jídla nebo nápoje na jídelních lístcích v restauracích vyšších cenových skupin ještě donedávna někteří restauratéři považovali za narušování estetického vzhledu lístku. Dnes ale žijeme v době čísel a v době kdy účel světí prostředky a tak se číslováním jídel setkáme, téměř ve všech restauracích ve kterých ve kterých používají nějaký systém kontrolních pokladen. Restauratérovi tato čísla usnadňuji kontrolu a evidenci, ale jsou výhodou jak pro hosty tak obsluhjící obzvláště v restauracích s mezinárodní klientelou, kdy se zabrání mnoha nedorozuměním, protože si host objedná jídlo podle čísla.
