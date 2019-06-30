@@ -33,7 +33,7 @@ Poslední trojčíslí je reservováno pro čísla jednotlivých receptů. Tři 
 
 Toto vše ale píši jen pro zajímavost než pro nějaké okamžité praktické použití. V každém případě bych doporučil abyste se drželi nějakého systému který je jednoduchý.
 
-{id="slovn_jdel"}
+{id="cislovani\_jidel\_1"}
 
 ## Číslování jídel
 
