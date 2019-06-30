@@ -1,5 +1,5 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=62.html" data-og-image="/files/preview/clanky/salatove_bary/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=62.html" data-image="/files/preview/clanky/salatove_bary/general.jpg" data-type="article"}
 
 {id="salatove\_bary" ctime="2005-08-14" author="Michael Klíma" short="Salátové bary" authorid="hostovka/michael\_klima"}
 

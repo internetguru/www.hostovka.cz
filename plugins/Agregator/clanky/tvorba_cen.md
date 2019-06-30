@@ -1,5 +1,5 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=587.html" data-og-image="/files/preview/clanky/tvorba_cen/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=587.html" data-image="/files/preview/clanky/tvorba_cen/general.jpg" data-type="article"}
 
 {id="tvorba\_cen" ctime="2011-09-19" author="Michael Klíma" short="Tvorba cen" authorid="hostovka/michael\_klima"}
 

@@ -1,5 +1,5 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=575.html" data-og-image="/files/preview/clanky/kde\_je\_zakopany_pes/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=575.html" data-image="/files/preview/clanky/kde\_je\_zakopany_pes/general.jpg" data-type="article"}
 
 {id="kde\_je\_zakopany\_pes" ctime="2011-08-23" author="Michael Klíma" short="Kde je zakopaný pes" authorid="hostovka/michael\_klima"}
 

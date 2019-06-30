@@ -1,5 +1,5 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=88.html" data-og-image="/files/preview/clanky/podavani\_jidel\_pri\_bezpecne\_teplote/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=88.html" data-image="/files/preview/clanky/podavani\_jidel\_pri\_bezpecne\_teplote/general.jpg" data-type="article"}
 
 {id="podavani\_jidel\_pri\_bezpecne\_teplote" ctime="2005-10-30" author="Michael Klíma" short="Podávání jídel při bezpečné teplotě" authorid="hostovka/michael_klima"}
 

@@ -1,5 +1,5 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=91.html" data-og-image="/files/preview/clanky/jidelni_emporium/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=91.html" data-image="/files/preview/clanky/jidelni_emporium/general.jpg" data-type="article"}
 
 {id="jidelni\_emporium" ctime="2005-11-02" author="Michael Klíma" short="Jídelní emporium" authorid="hostovka/michael\_klima"}
 

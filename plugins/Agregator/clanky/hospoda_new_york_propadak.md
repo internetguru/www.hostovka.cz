@@ -1,5 +1,5 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=584.html" data-og-image="/files/preview/clanky/hospoda\_new\_york_propadak/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=584.html" data-image="/files/preview/clanky/hospoda\_new\_york_propadak/general.jpg" data-type="article"}
 
 {id="hospoda\_new\_york\_propadak" ctime="2011-09-15" author="Michael Klíma" short="Hospoda v New Yorku propadák" authorid="hostovka/michael\_klima"}
 

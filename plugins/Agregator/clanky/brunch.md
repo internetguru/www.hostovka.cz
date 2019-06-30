@@ -1,5 +1,5 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=168.html" data-og-image="/files/preview/clanky/brunch/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=168.html" data-image="/files/preview/clanky/brunch/general.jpg" data-type="article"}
 
 {id="brunch" ctime="2006-08-08" author="Michael Klíma" short="Brunch" authorid="hostovka/michael_klima"}
 

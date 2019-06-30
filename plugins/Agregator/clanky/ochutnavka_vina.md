@@ -1,5 +1,5 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=76.html" data-og-image="/files/preview/clanky/ochutnavka_vina/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=76.html" data-image="/files/preview/clanky/ochutnavka_vina/general.jpg" data-type="article"}
 
 {id="ochutnavka\_vina" ctime="2005-09-19" author="Michael Klíma" short="Ochutnávka vína" authorid="hostovka/michael\_klima"}
 

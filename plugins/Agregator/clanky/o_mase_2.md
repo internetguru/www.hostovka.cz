@@ -1,5 +1,5 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=66.html" data-og-image="/files/preview/clanky/o\_mase\_2/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=66.html" data-image="/files/preview/clanky/o\_mase\_2/general.jpg" data-type="article"}
 
 {id="o\_mase\_2" ctime="2005-08-20" author="Michael Klíma" short="O mase 2" authorid="hostovka/michael_klima"}
 

@@ -1,5 +1,5 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=590.html" data-og-image="/files/preview/clanky/supervision/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=590.html" data-image="/files/preview/clanky/supervision/general.jpg" data-type="article"}
 
 {id="supervision" ctime="2011-10-03" author="Michael Klíma" short="Supervision" authorid="hostovka/michael_klima"}
 

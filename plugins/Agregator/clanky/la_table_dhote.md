@@ -1,5 +1,5 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=128.html" data-og-image="/files/preview/clanky/la\_table\_dhote/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=128.html" data-image="/files/preview/clanky/la\_table\_dhote/general.jpg" data-type="article"}
 
 {id="la\_table\_dhote" ctime="2005-12-22" author="Michael Klíma" short="La table d'hote" authorid="hostovka/michael_klima"}
 

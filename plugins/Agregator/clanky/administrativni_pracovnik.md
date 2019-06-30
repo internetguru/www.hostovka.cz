@@ -1,5 +1,5 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=574.html" data-og-image="/files/preview/clanky/administrativni_pracovnik/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=574.html" data-image="/files/preview/clanky/administrativni_pracovnik/general.jpg" data-type="article"}
 
 {id="administrativni\_pracovnik" ctime="2011-08-15" author="Michael Klíma" short="Administrativní pracovník" authorid="hostovka/michael\_klima"}
 

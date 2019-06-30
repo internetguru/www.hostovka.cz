@@ -1,5 +1,5 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=5.html" data-og-image="/files/preview/clanky/ekonomie\_kuchynskych\_technik/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=5.html" data-image="/files/preview/clanky/ekonomie\_kuchynskych\_technik/general.jpg" data-type="article"}
 
 {id="ekonomie\_kuchynskych\_technik" ctime="2005-06-05" author="Michael Klíma" short="Ekonomie kuchyňských technik" authorid="hostovka/michael_klima"}
 

@@ -1,5 +1,5 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=80.html" data-og-image="/files/preview/clanky/host/general.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=80.html" data-image="/files/preview/clanky/host/general.jpg" data-type="article"}
 
 {id="host" ctime="2005-10-23" author="Michael Klíma" short="Host" authorid="hostovka/michael_klima"}
 
