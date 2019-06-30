@@ -1,0 +1,113 @@
+
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=57.html" data-og-image="/files/preview/clanky/na_letadlech/general.jpg" data-og-type="article"}
+
+{id="na\_letadlech" ctime="2005-08-05" author="Michael Klíma" short="Na letadlech" authorid="hostovka/michael\_klima"}
+
+# Na letadlech
+
+{kw="jídla a jídelní lístky"}
+
+Zkracováním pracovní doby se zvyšují nároky na účelné využití volného času jak zábavou, odpočinkem tak i cestováním.
+
+Jedním ze základních poslání Hostovky je usnadnit lidem výběr jídel a čtení jídelních lístků, ale ne jenom těch českých a slovenských které se hemží cizími názvy, ale i těch zahraničních které samozřejmě nejsou psané česky takže téměř každé slovo je v nějaké cizí řeči.
+
+Lidé dnes již cestují do všech možných koutů světa a o zemi své destinace, a o jídlech se kterými se setkají si pravděpodobně něco přečtou ale zatím bylo jen velmi málo napsáno o jídlech a jejich podávání na všech těch dopravních prostředcích. <
+
+Není to jen vlaková doprava se svými jídelními vozy, ale i letecká, námořní a automobilová doprava které jsou svým způsobem spojeny s pohostinstvím.
+
+Cestování je dnes o mnoho rychlejší než za našich mladších let nebo v letech našich rodičů či prarodičů.
+
+Například cesta do Ameriky, která kdysi trvala několik měsíců, je dnes cesta z Česka do Carlsbadu v Kalifornii kde v současné době bydlím, je otázkou jen několika hodin.
+
+Ráno v 9 hodin nastoupíte do Karlovarského autobusu jedoucího do Prahy. V poledne nastoupíte do letadla letícího do Chicága, kde přistanete ve stejný den ve 14:00 místního času. V 19:05 nastoupíte v Chicagu do letadla letícího do San Diega v Jižní Kalifornii, kde přistanete ve 9.00 PM místního času, a během dalších 30 minut jízdy vozem jste ještě ve stejný den opět v Karlových varech, ale v těch amerických zvaných Carlsbad, který je na krásném slunném pobřeží Pacifiku.
+
+V průměru taková cesta i s přestupováním trvá 11 hodin a během té doby dostanete něco k jídlu takže buchty nebo smažený řízek s bramborovým salátem si sebou brát nemusíte.
+
+Zkušení "cestovatelé" toto všechno vědí, ale jsou lidé kteří většinou nemají ani potuchy co mohou na všech těch možných dopravních prostředcích očekávat.
+
+Naštěstí je tu ale HOSTOVKA, kde pokud se týká jídla se můžete zeptat na cokoliv, protože já mám odpověď na všechno a když ne, tak si prostě něco vymyslím.
+
+Pokud se týká jídel na letadlech si naštěstí moc vymýšlet nemusím protože jsem kdysi pracovali pro ČSA jako steward a také jako Executive Chef v tak zvané "in-flight" kuchyni což bylo velice dobře placené místo, ale byla to mzda strachu.
+
+Steward, jak asi víte, je anglické slovo, a proto se za socializmu stevardkám říkalo letušky a stewardům nejspíše letušák.
+
+Byla to pro mě velká příležitost vidět celou řadu letišť po celé Evropě a možnost srovnávat. Mohu vám ale zcela zodpovědně říci, že pokud se jídla a servisu na letadlech týká, tak ČSA měly velice dobré jméno a podle mé teorie to bylo díky servisu na palubě. Letaldla mají totiž všechny letecké společnosti témě stejné, rychleni než pdle letového řádu létat žádná ta společnost nemůže a tak jediné čím se liší je ten servis.
+
+Já vím, že se hned někdo ozve a napíše mi, že bych měl méně mluvit o sobě a spíše psát, že tam a tam to dělají tak a tak, ale já už jiný nebudu.
+
+Ale nemusíte mi nic závidět, protože když přišli na to, že jsem byl ve francouzské armádě, tak mně jako nespolehlivého stejně vyhodili.
+
+Já, pokud se pohostinství týká jsem dělal všechno možné,ale musím říci, že jsem se nikdy nehonil za tituly, ale za penězi. Výjimkou možná byla Francie, kde jsem sice při mytí nádobí v hotelu nebral velké peníze ale měl jsem vznešený titul plongeur.
+
+U toho nádobí jsem ale neskončil. Totiž když myjete nádobí tak to nesmíte dělat moc dobře, protože by vás nikdy nepovýšili protože by tím pádem ztratili dobrého myče nádobí.
+
+{id="n\_nejvy\_kucha"}
+
+## NÁŠ NEJVYŠŠÍ KUCHAŘ
+
+Musím se pochlubit, že jsem po tom mytí nádobí dělal všechno možné a že jsem v životě dosáhl těch nejvyšších met.
+
+Konkrétně u toho ČSA jsem dosáhl toho "nejvyššího" místa když jsem smažil řízky ve výšce 10 kilometrů.
+
+To ale bylo v době kdy cestování bylo výsadou cizinců a v Česku jen těch vyvolených.
+
+Dnes ale letadly cestuje už kde kdo a nějaký zážitek to není a gastronomický zážitek už vůbec ne a mně to můžete věřit, protože jsem procesoval téměř celý svět a to všemožnými leteckými společnostmi, takže mohu i srovnávat.
+
+Já jsem ale také pracoval jako executive chef pro Marriott Inflight v Chicagu na letišti, což byla společnost které dodávala denně 15-20 tisíc jídel do letadel všech možných leteckých společností.
+
+Jak se tato jídla dělají, to vám tady ale popisovat nebudu protože HOSTOVKA, není školou vaření, ale školou kdy, kde a jak si jídla vybrat, objednávat a jíst.
+
+{id="first_class"}
+
+## First class
+
+Pokud se letadel týká, tak tam s tím výběrem to dnes již také není tak horké. Je sice pravdou, že v první třídě máte výběr všeho možného a v neomezeném množství, ale kolik toho už můžete sníst.
+
+Ale ani ta první třída na letadle není nějaký gourmet restaurant tudíž pokud letím první třídou tak to není kvůli tomu jídlu jako kvůli místu které na to jídlo máte.
+
+{id="byznys_class"}
+
+## Byznys class
+
+Byznys třída, která dnes již existuje jen na zahraničních linkách, sice takový výběr jídla nemá, ale dá se říci, že to jde.
+
+Jídlo je trošku jiné než v ekonomy class a v zásadě se liší tím, že vám ho podají na platě prostřeném plátěným ubrouskem a že máte k tomu jídlu jídlu dost místa takže nemusíte strkat vaše lokte pod nos cetujicímu ketrý je vedle vás.
+
+{id="ekonomy\_turist\_class"}
+
+## Ekonomy (turist) class
+
+Ekonomy nebo turistická třída, to je tedy "třída". Já sice teď již jinak nelítám, protože si to platím z vlastní kapsy, ale mohu vám říci, že je to spíše za trest, takže vám to musím popsat pro případ, že byste se někdy to té zatracené Ameriky tou turistickou třídou vydali.
+
+Na většině vnitrozemských linek v Americe vám dnes již ani ruku nepodají a nejvýše vám podají nějaké informace a to je také jen na té obrazovce, tudíž na nějaký osobní rozhovor s nějakou pěknou stewardkou můžete zapomenout.
+
+Soft drinks a kávu sice podávají ještě zdarma, ale jídlo a alkoholické nápoje si musíte koupit.
+
+Ty alkoholické nápoje jsou na celém světě stejné, takže jsou O.K., ale na to že by to jídlo bylo nějaký gastronomický zážitek také můžete zapomenout, protože já bych to nejedl ani kdyby platili mně, a jediné co vám mohu poradit je, abyste se někde najedli dříve než do toho letadla nastoupíte, což dělám já.
+
+Na zahraničních linkách zatím dostanete nejenom soft drinks, ale i alkoholické nápoje zdarma a dá se říci že v neomezeném množství.
+
+Já neberu žádné prášky na spaní a tak si jako aperitiv dám zpravidla dva drinky (Double Bloody Marry), k jídlu si dám nějaké víno, podle jídla buď červené nebo bílé, a po jídle si dám after dinner drink, německy Schlafdrink, což je zpravidla nějaký cognac, a spím pak jako baby.
+
+S tím jídlem to na turist class dnes není již tak horké. Jídlo je sice horké, a někdy až moc, ale to co to kdysi bývalo to už dávno není.
+
+Sice se to liší podle letecké společnosti se kterou letíte, ale velké rozdíly v tom nejsou.
+
+Jak vidíte tak je to na jedno brdo. Nějaký předkrm nebo salát s drezinkem, houska která se dá přirovnat žvýkačce, máslo a sýr, a samozřejmě nějaký záhadný moučník. Prostě "International standard".
+
+Hlavní chody u všech těch leteckých společností také již znám nazpaměť což není těžké si je zapamatovat.
+
+{id="co\_oi\_nevid\_srdce\_nebol"}
+
+## CO OČI NEVIDÍ, SRDCE NEBOLÍ
+
+Když k vám ta stewardka dojede s vozíkem s tím teplým jídlem tak se vás zeptá: "Chicken or beef?", neboli kuře nebo hovězí. Někdy ale také mají pastu, ale tu moc lidí nejí leda že jsou to vegetariáni.
+
+Zkusil jsem se kdysi jedné stewardky zeptat jaké to kuře nebo to hovězí je, myšleno jak je to upravené, ale se zlou jsem se potázal.
+
+No přeci kuřecí kuře nebo hovězí hovězí. Tudíž nějakou gastronomickou odbornost od těch dnešních leteckých průvodčích očekávat nemůžete.
+
+Prostě dnes tu stewardku může dělat kde kdo a ani na to nemusí vidět.
+
+Na letadle nemůžete dostat žádnou dietu. Letadlo není nějaká létající nemocnice, ale při bookování vašeho letu si ale můžete objednat zvláštní jídlo jako je například vegetářské, košer, hindu, buddhistické, muslimské apod.
+
