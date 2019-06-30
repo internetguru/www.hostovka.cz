@@ -7,7 +7,9 @@
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
-{kw="Životopis"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+
+{kw="životopis"}
 
 Během své 60leté praxe v pohostinství MDK procestoval téměř celý svět a nashromáždil nesmírné množství cenných zkušeností z pohostinského oboru, ale i mnoho cenných receptů na jídla a nápoje téměř všech etnických kuchyní které vyzkoušel a ochutnal v hotelích ve kterých pracoval jako šéfkuchař.
 
