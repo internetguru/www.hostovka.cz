@@ -842,3 +842,14 @@ span.copyable-wrapper {
   max-width: 100%;
 }
 /***************************/
+dl:not(.mike):not(.clanek) dt {
+  font-weight: 500;
+  font-size: 1.2em;
+}
+dl:not(.mike):not(.clanek) dt:not(:first-child) {
+  margin-top: 0.5em;
+}
+dl:not(.mike):not(.clanek) dd {
+  margin: 0;
+}
+/***************************/
