@@ -9,39 +9,43 @@
 
 {kw="jídla a jídelní lístky, krevetky"}
 
-Francouzsky _Fruit de Mer {xml:lang="fr"}_, německy _Meeresfrüchte {xml:lang="de"}_, italsky _Frutti di Mare {xml:lang="it"}_. Plodům moře se někdy říká mořské ovoce, na čemž nakonec není nic špatného a každý ví čem mluvíte. Anglicky se jim říká _seafood {xml:lang="en"}_, protože když napíšete _sea food {xml:lang="en"}_, tak si lidé myslí, že jste chtěli říci _see food {xml:lang="en"}_, což by znamenalo vidět jído.
+Francouzsky _Fruit de Mer {xml:lang="fr"}_, německy _Meeresfrüchte {xml:lang="de"}_, italsky _Frutti di Mare {xml:lang="it"}_. Plodům moře se někdy říká mořské ovoce, na čemž nakonec není nic špatného a každý ví čem mluvíte. Anglicky se jim říká _seafood {xml:lang="en"}_, protože když napíšete _sea food {xml:lang="en"}_, tak si lidé myslí, že jste chtěli říci _see food {xml:lang="en"}_, což by znamenalo vidět jídlo.
 
 {class="important"}
 
-Názvy v cizích řečích zmiňuji hlavně proto, že na zájezdech do zahraničí se s českými názvy nesetkáte.
+Názvy v cizích řečech zmiňuji hlavně proto, že na zájezdech do zahraničí se s českými názvy nesetkáte.
 
 ## Mořské plody v České republice
 
 Kdo se neptá, nic se nedozví! „Maminko, co je to?“ ptala se v jednom pražském supermarketu asi desetiletá holčička maminky, přičemž ukazovala na plody moře vystavené na rybím pultě. „To jsou takové mořské potvory,“ odpověděla maminka a dodala: „A neotravuj a pojď.“
 
-Bylo to krátce po sametové revoluci. Tehdy se toho u nás o plodech moře moc nevědělo. Takže jsem se paní nedivil a nakonec jsem jí dal tak trochu kredit za to, že své dceři dala alespoň nějakou odpověď.
+Bylo to krátce po sametové revoluci. Tehdy se toho u nás o plodech moře moc nevědělo. Takže jsem se paní nedivil, a nakonec jsem jí dal tak trochu kredit za to, že své dceři dala alespoň nějakou odpověď.
 
-Paní ale nebyla daleko pravdy. Plody moře totiž mají jednu základní charakteristiku a sice, že jsou drahé jako potvory. To je ale jediné co mají s potvorami společného.
+Paní ale nebyla daleko pravdy. Plody moře totiž mají jednu základní charakteristiku a sice, že jsou drahé jako potvory. To je ale jediné, co mají s potvorami společného.
 
-Vysoká cena plodů moře je víceméně hlavní důvod, proč o nich dnes málo kdo něco ví. Bohužel narozdíl od holčičky se dnes ještě mnozí kuchaři stydí zeptat a přiznat, že toho o mořských plodech moc nevědí.
+Vysoká cena plodů moře je víceméně hlavní důvod, proč o nich dnes málokdo něco ví. Bohužel narozdíl od holčičky se dnes ještě mnozí kuchaři stydí zeptat a přiznat, že toho o mořských plodech moc nevědí.
 
-Jedno co o mořských plodech bezpečně vím je, že jsou po celém světě velice oblíbené. Díky ceně se (až na výjimky) s nimi setkáte jen v restauracích pomyslné první a druhé cenové skupiny.
+Jedno, co o mořských plodech bezpečně vím je, že jsou po celém světě velice oblíbené. Díky ceně se (až na výjimky) s nimi setkáte jen v restauracích pomyslné první a druhé cenové skupiny.
 
 Oblibu plodů moře si uvědomují i autoři a opisovači kuchařských knížek. Proto recepty na všemožné plody moře (i na takové, které na našem trhu nejsou), najdete v každé druhé kuchařce. S bližším popisem jejich přípravy se ale setkáte jen v málokteré z nich.
 
+{class="example"}
+
 Relativně dobře jsou plody moře popsány ve Vaňhově Rybí kuchyni. Ale i tato knížka je již dosti zastaralá. Nehledě na to, že Vaňha plody moře nepopsal všechny.
 
-K tomu ale, obzvláště když cestujete po světě, musíte o jídlech vědět více než kterýkoliv kuchař, který jiná jídla, než ta která několik let připravuje, nezná. Bohužel plodů moře je tolik, že je téměř nemožné je popsat najednou.
+K tomu ale musíte o jídlech vědět více než kterýkoliv kuchař, který několik let připravuje stejná jídla a jiná jídla nezná. Obzvláště, když cestujete po světě. Bohužel plodů moře je tolik, že je téměř nemožné je popsat najednou.
 
-Mezi nejznámější plody moře patří krevetky, [krabi][1] a [mušle][2]. Neznám preference čtenářů Hostovky a také nevím co bylo o plodech moře již někde napsáno, proto je popisuji pouze namátkou.
+Mezi nejznámější plody moře patří krevetky, [krabi][1] a [mušle][2]. Neznám preference čtenářů Hostovky a také nevím, co bylo o plodech moře již někde napsáno, proto je popisuji pouze namátkou.
 
 ## Krevetky
 
-Krevety anglicky _shrimp {xml:lang="en_US"}_, v Británii _prawn {xml:lang="en_GB"}_, v Italii _gambero {xml:lang="it"}_. Větší mořské krevety jsou také známé jako _scampi_.
+Krevetky jsou malí mořští ráčci z rodiny desetinožců _(decapoda) {xml:lang="la"}_, protože mají deset noh, žádná klepeta a dvě dlouhá tykadla. Krevety dorůstají do délky až 20 cm. Před uvařením jsou hnědé, šedivé až nazelenalé barvy, která se vařením změní na růžovou až červenou barvu.
 
-Jsou to malí mořští ráčci z rodiny desetinožců _(decapoda) {xml:lang="la"}_, protože mají deset noh, žádná klepeta a dvě dlouhá tykadla. Krevety dorůstají do délky až 20 cm. Před uvařením jsou hnědé, šedivé až nazelenalé barvy, která se vařením změní na růžovou až červenou barvu.
+{class="example"}
 
-Krevetky jsou něco, s čím pro jejich cenu, zacházíme jako se zlatem. V domácnosti je používáme většinou jen při mimořádných příležitostech a v některých restauracích spíše jako [ozdobu][8] nebo jen doplněk některých jídel.
+Krevety anglicky _shrimp {xml:lang="en_US"}_, v Británii _prawns {xml:lang="en_GB"}_, v Italii _gamberetti {xml:lang="it"}_. Větší mořské krevety jsou v mnoha řečech také známé jako _scampi {xml:lang="en_US"}_.
+
+Krevetky jsou něco, s čím pro jejich cenu zacházíme jako se zlatem. V domácnosti je používáme většinou jen při mimořádných příležitostech a v některých restauracích spíše jako [ozdobu][8] nebo jen doplněk některých jídel.
 
 Celé krevety přicházejí na trh buď čerstvé nebo zmrazené. Jejich velikost se udává podle počtu kusů na kilogram – velké, střední nebo malé.
 
@@ -53,7 +57,7 @@ Krevetky dělíme do třech základních kategorií. Jsou to chladno-vodní (sev
 
 **Teplovodní krevetky** ze států Mexického Zálivu, Floridy, Alabamy, Missipi, Luisiany a Texasu jsou nejčastěji označovány jako _hnědé_, _bílé_ a _růžové_.
 
-Nevařené _hnědé krevety_ _(Penaeus aztecus) {xml:lang="la"}_ mají hnědo-čevené skořápky a jejich maso má o něco silnější chuť než krevetky bílé díky vyššímu obsahu jódu. V důsledku toho jsou hnědé krevetky zpravidla levnější než druhé dva druhy.
+Nevařené _hnědé krevety_ _(Penaeus aztecus) {xml:lang="la"}_ mají hnědo-červené skořápky a jejich maso má o něco silnější chuť než krevetky bílé díky vyššímu obsahu jódu. V důsledku toho jsou hnědé krevetky zpravidla levnější než druhé dva druhy.
 
 Nejdražší krevetky jsou zpravidla _krevetky bílé_ _(Penaeus setiferus) {xml:lang="la"}_. Přestože jsou specifikovány jako bílé, tak jsou ve skutečnosti některé spíše šedivé.
 
@@ -75,9 +79,9 @@ Cenové srovnání musíte ale dělat na základě počtu kusů v jedné libře 
 
 Krevetky můžete připravovat všemi možnými způsoby od pošírování, broilování, [sotýrování][5] až po [grilování][6]¨. Do jídel jako je například Ceviche je můžeme použít i syrové. Podávají se jak teplé, tak i studené.
 
-Nejpopulárnější způsob podávání studených vařených loupaných krevetek je [krevetkový koktejl][7] (anglicky _Shrimp Cocktail {xml:lang="en"}_) s koktejlovou omáčkou. Moje nejoblíbenější jídlo z vařených louaných krevetek je [Shrimp de Jonghe][3]. To v nejbližší době naleznete na jídelním lístku restaruace [Steakgrill][4].
+Nejpopulárnější způsob podávání studených vařených loupaných krevetek je [krevetkový koktejl][7] (anglicky _Shrimp Cocktail {xml:lang="en"}_) s koktejlovou omáčkou. Moje nejoblíbenější jídlo z vařených loupaných krevetek je [Shrimp de Jonghe][3]. To v nejbližší době naleznete na jídelním lístku restaruace [Steakgrill][4].
 
-Jak již řečeno, tak HOSTOVKA není škola vaření a proto recepty na úpravu krevetek zde nenajdete, ale jako studenti Hostovky byste měli vědět, že po jakékoliv úpravě musí krevetky být křehké a do jisté míry šťavnaté. Pokud jsou tuhé tak je to známka toho, že byly převařené.
+Jak již řečeno, tak Hostovka není škola vaření, a proto recepty na úpravu krevetek zde nenajdete, ale jako studenti Hostovky byste měli vědět, že po jakékoliv úpravě musí krevetky být křehké a do jisté míry šťavnaté. Pokud jsou tuhé, tak je to známka toho, že byly převařené.
 
 Celé krevety s hlavou:
 
@@ -90,7 +94,9 @@ Malé
 
 Odstranění ocásků není nic komplikovaného a ani nevyžaduje moc času. Restaurace kupují celé neloupané krevetky většinou jen pro ozdobu studeného stolu nebo salátového baru z psychologického důvodu.
 
-Krevetky jsou, nejenom ve Spojených státech amerických, ale i jinde na světě, úplné zaklínadlo. A nemusí to být jen samotné krevetky. Kterékoliv jídlo, kde je jen zmínka o krevetkách, je již předem považováno za lahůdku.
+{class="important"}
+
+Nejenom ve Spojených státech amerických, ale i jinde na světě jsou krevetky úplné zaklínadlo. A nemusí to být jen samotné krevetky. Kterékoliv jídlo, kde je jen zmínka o krevetkách, je již předem považováno za lahůdku.
 
 ### Neloupané syrové ocásky
 
@@ -111,11 +117,13 @@ Neloupané vařené ocásky vypadají větší než ocásky loupané. Jsou také
 
 Ať již čerstvé nebo zmrazené, loupané a odžilněné ocásky jsou označované jako _P&D {xml:lang="en"}_ (zkratka pro _peeled and deveined {xml:lang="en"}_). Jejich cena je podstatně vyšší než u ocásků neloupaných. Pro domácí potřebu je kupujeme jen zřídka. Pro restaurace jen pokud je jejich loupání pro nás neekonomické.
 
+{class="example"}
+
 Vařené, loupané a odžilněné ocásky jsou z uvedených druhů nejdražší, protože je v ceně zakalkulováno nejenom jejich loupání ale i vaření.
 
-Pro domácnost jsou tyto ocásky zcela neekonomické protože cenový rozdíl mezi ocásky a neloupanými syrovými ocásky je markantní.
+Pro domácnost jsou tyto ocásky zcela neekonomické, protože cenový rozdíl mezi ocásky a neloupanými syrovými ocásky je markantní.
 
-Ve velkých restauračních provozech, kde náklady na mzdy jsou rozhodujícím faktorem, a ve kterých používají vařených ocásků velké množství, se ale vyplatí tyto ocásky kupovat protože představují úsporu času jak loupáním tak i vařením a nezanedbatelnou úsporou je i úspora místa pro skladování. Tyto ocásky přichází na trh většinou mrazené a po rozmrazení je manipulace s nimi velice rychlá.
+Ve velkých restauračních provozech, kde náklady na mzdy jsou rozhodujícím faktorem, a ve kterých používají vařených ocásků velké množství, se ale vyplatí tyto ocásky kupovat, protože představují úsporu času jak loupáním tak i vařením a nezanedbatelnou úsporou je i úspora místa pro skladování. Tyto ocásky přichází na trh většinou mrazené a po rozmrazení je manipulace s nimi velice rychlá.
 
  [1]: /krabi
  [2]: /musle
