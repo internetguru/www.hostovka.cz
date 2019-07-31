@@ -39,11 +39,11 @@ Mezi nejznámější plody moře patří krevetky, [krabi][1] a [mušle][2]. Nez
 
 ## Krevetky
 
-Krevetky jsou malí mořští ráčci z rodiny desetinožců _(decapoda) {xml:lang="la"}_, protože mají deset noh, žádná klepeta a dvě dlouhá tykadla. Krevety dorůstají do délky až 20 cm. Před uvařením jsou hnědé, šedivé až nazelenalé barvy, která se vařením změní na růžovou až červenou barvu.
+Krevetky jsou malí mořští ráčci z rodiny desetinožců _(decapoda) {xml:lang="la"}_, protože mají deset nohou, dvě dlouhá tykadla a nemají klepeta. Krevety dorůstají do délky až 20 cm. Před uvařením jsou hnědé, šedivé až nazelenalé barvy, která se vařením změní na růžovou až červenou barvu.
 
 {class="example"}
 
-Krevety anglicky _shrimp {xml:lang="en_US"}_, v Británii _prawns {xml:lang="en_GB"}_, v Italii _gamberetti {xml:lang="it"}_. Větší mořské krevety jsou v mnoha řečech také známé jako _scampi {xml:lang="en_US"}_.
+Krevety anglicky _shrimp {xml:lang="en_US"}_, v Británii _prawns {xml:lang="en_GB"}_, v Italii _gamberi {xml:lang="it"}_. Větší mořské krevety jsou v mnoha řečech také známé jako _scampi {xml:lang="en_US"}_.
 
 Krevetky jsou něco, s čím pro jejich cenu zacházíme jako se zlatem. V domácnosti je používáme většinou jen při mimořádných příležitostech a v některých restauracích spíše jako [ozdobu][8] nebo jen doplněk některých jídel.
 
@@ -51,23 +51,26 @@ Celé krevety přicházejí na trh buď čerstvé nebo zmrazené. Jejich velikos
 
 ## Druhy krevetek
 
-Krevetky dělíme do třech základních kategorií. Jsou to chladno-vodní (severní), tropické (jižní) a sladkovodní.
+Krevetky dělíme do tří základních kategorií. Jsou to chladnovodní (severní), tropické (jižní) a sladkovodní.
 
-**Chladno-vodním** krevetám _(Pandalus borealis) {xml:lang="la"}_ se daří v Severním Atlantiku, a v Severním Pacifiku _(Pandalus jordoni) {xml:lang="la"}_. Jsou velmi malé a před jídlem se z nich nemusí odstraňovat střívka.
+Chladnovodní krevetky
+:  _(Pandalus borealis) {xml:lang="la"}_ žijí v Severním Atlantiku, a v Severním Pacifiku _(Pandalus jordoni) {xml:lang="la"}_. Jsou velmi malé a před jídlem se z nich nemusí odstraňovat střívka.
 
-**Teplovodní krevetky** ze států Mexického Zálivu, Floridy, Alabamy, Missipi, Luisiany a Texasu jsou nejčastěji označovány jako _hnědé_, _bílé_ a _růžové_.
+Teplovodní krevetky
+:  ze států Mexického Zálivu, Floridy, Alabamy, Missipi, Luisiany a Texasu jsou nejčastěji označovány jako _hnědé_, _bílé_ a _růžové_.
 
-Nevařené _hnědé krevety_ _(Penaeus aztecus) {xml:lang="la"}_ mají hnědo-červené skořápky a jejich maso má o něco silnější chuť než krevetky bílé díky vyššímu obsahu jódu. V důsledku toho jsou hnědé krevetky zpravidla levnější než druhé dva druhy.
+  - Nevařené _hnědé krevety_ _(Penaeus aztecus) {xml:lang="la"}_ mají hnědo-červené skořápky a jejich maso má o něco silnější chuť než krevetky bílé díky vyššímu obsahu jódu. V důsledku toho jsou hnědé krevetky zpravidla levnější než druhé dva druhy.
 
-Nejdražší krevetky jsou zpravidla _krevetky bílé_ _(Penaeus setiferus) {xml:lang="la"}_. Přestože jsou specifikovány jako bílé, tak jsou ve skutečnosti některé spíše šedivé.
+  - Nejdražší krevetky jsou zpravidla _krevetky bílé_ _(Penaeus setiferus) {xml:lang="la"}_. Přestože jsou specifikovány jako bílé, tak jsou ve skutečnosti některé spíše šedivé.
 
-_Růžové krevetky_ _(Penaeus duorarum) {xml:lang="la"}_ mají různé barvy včetně nahnědlé, růžové a citrónově žluté.
+  - _Růžové krevetky_ _(Penaeus duorarum) {xml:lang="la"}_ mají různé barvy včetně nahnědlé, růžové a citrónově žluté.
 
-Dvě kategorie malých amerických teplovodních krevetek, _red shrimp {xml:lang="en"}_ a _rock shrimp {xml:lang="en"}_, pochází z Virginie a z Mexického Zálivu. Krevetky z Mexického Zálivu _(Sicyonia brevirostris) {xml:lang="la"}_ se na americkém trhu objevují nečastěji.
+  - Dvě kategorie malých amerických teplovodních krevetek, _red shrimp {xml:lang="en"}_ a _rock shrimp {xml:lang="en"}_, pochází z Virginie a z Mexického Zálivu. Krevetky z Mexického Zálivu _(Sicyonia brevirostris) {xml:lang="la"}_ se na americkém trhu objevují nečastěji.
 
-_Rock shrimp {xml:lang="en"}_ mají jméno podle tvrdých skořápek. Maso těchto krevetek je pevné, podobné masu humřímu a jsou zpravidla lacinější než ostatní druhy.
+  - _Rock shrimp {xml:lang="en"}_ mají jméno podle tvrdých skořápek. Maso těchto krevetek je pevné, podobné masu humřímu a jsou zpravidla lacinější než ostatní druhy.
 
-**Sladkovodní krevetky**, známé jako _Malaysian prawn {xml:lang="en"}_ _(Macrobrachium rosenbergii) {xml:lang="la"}_ se pěstují na farmách na Hawaji, v Kalifornii a v několika dalších státech. Tyto krevetky jsou velké a některé mohou vážit 110 až 170 gramů.
+Sladkovodní krevetky
+:  známé jako _Malaysian prawn {xml:lang="en"}_ _(Macrobrachium rosenbergii) {xml:lang="la"}_ se pěstují na farmách na Hawaji, v Kalifornii a v několika dalších státech. Tyto krevetky jsou velké a některé mohou vážit 110 až 170 gramů.
 
 ## Nakupování a velikosti krevetek
 
@@ -75,7 +78,7 @@ Krevetky jsou v Americe prodávány podle počtu kusů v jedné libře (453,6 g)
 
 Na některých trzích nebo na mezinárodních jídelních lístcích se ale setkáte s označením jako _small {xml:lang="en"}_ (malé), _medium {xml:lang="en"}_ (střední), a _jumbo {xml:lang="en"}_ nebo _large {xml:lang="en"}_ (velké). To proto, aby si lidé mohli udělat představu o jaký druh krevetek se jedná.
 
-Cenové srovnání musíte ale dělat na základě počtu kusů v jedné libře nebo kilogramu. Cena se může měnit od restaurace k restauraci. Nařízení o uvádění váhy porce, jako je v Česku, je úplně nesmyslné, protože krevetky se hodnotí hlavně podle velikosti.
+Cenové srovnání musíte ale dělat na základě počtu kusů v jedné libře nebo kilogramu. Cena se může měnit od restaurace k restauraci. Nařízení o uvádění váhy porce (jako např. v Česku) je úplně nesmyslné, protože krevetky se hodnotí hlavně podle velikosti.
 
 Krevetky můžete připravovat všemi možnými způsoby od pošírování, broilování, [sotýrování][5] až po [grilování][6]¨. Do jídel jako je například Ceviche je můžeme použít i syrové. Podávají se jak teplé, tak i studené.
 
@@ -119,9 +122,7 @@ Ať již čerstvé nebo zmrazené, loupané a odžilněné ocásky jsou označov
 
 {class="example"}
 
-Vařené, loupané a odžilněné ocásky jsou z uvedených druhů nejdražší, protože je v ceně zakalkulováno nejenom jejich loupání ale i vaření.
-
-Pro domácnost jsou tyto ocásky zcela neekonomické, protože cenový rozdíl mezi ocásky a neloupanými syrovými ocásky je markantní.
+Vařené, loupané a odžilněné ocásky jsou z uvedených druhů nejdražší, protože je v ceně zakalkulováno nejenom jejich loupání ale i vaření. Pro domácnost jsou tyto ocásky zcela neekonomické, protože cenový rozdíl mezi ocásky a neloupanými syrovými ocásky je markantní.
 
 Ve velkých restauračních provozech, kde náklady na mzdy jsou rozhodujícím faktorem, a ve kterých používají vařených ocásků velké množství, se ale vyplatí tyto ocásky kupovat, protože představují úsporu času jak loupáním tak i vařením a nezanedbatelnou úsporou je i úspora místa pro skladování. Tyto ocásky přichází na trh většinou mrazené a po rozmrazení je manipulace s nimi velice rychlá.
 
