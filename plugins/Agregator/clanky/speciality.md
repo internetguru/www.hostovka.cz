@@ -50,7 +50,7 @@ Naší specialitou může být v zásadě jakékoliv populární jídlo (s tím,
 
 Naší specialitou mohou být například grilovaná vepřová žebírka nebo vepřové koleno. Koleno musí být ale skutečně dobře okořeněné, dobře upečené, podávané horké na dostatečně velkém a horkém talíři.
 
-Na tom ale není ale nic speciálního. Je to jakousi samozřejmostí, a tak to dělá kde kdo. Proto by naší specialitou mělo například být to, že hořčici a křen budeme ke kolenu podávat zvlášť – tak aby si host mohl dát na talíř kolik chce.
+Na tom ale není ale nic speciálního. Je to jakousi samozřejmostí, a tak to dělá kdekdo. Proto by naší specialitou mělo například být to, že hořčici a křen budeme ke kolenu podávat zvlášť – tak aby si host mohl dát na talíř kolik chce.
 
 Naší specialitou by také mělo být, že ke kolenu dáme skutečně ostrý nůž. Samozřejmě také podle přání buď čerstvý chléb, případně čerstvé rohlíky.
 
@@ -109,21 +109,22 @@ Hosté mají důvěru v jídla, která jim šéfkuchař doporučí. To platí hl
 
 Ve Francii jsou například některé restaurace známé jen pod křestním jménem šéfa kuchyně, jako například: Chez Paul, Chez René, Chez August a Chez Louis. To ale předpokládá velmi malou fluktuaci takových kuchařů, tedy že se nebudou často měnit.
 
+{class="important"}
+
 Jedna z mých zásad tvorby jídelních lístků ale je nestavět ho na odborných znalostech šéfkuchaře. Jakmile kuchař odejde, tak vám ten nový hned udělá jídelní lístek podle svých „bohatých“ zkušeností. V mnoha případech vám i řekne, že musíte přestavět kuchyň.
 
 Proto některé restaurace dávají přednost uvádět tyto speciality bez uvedení šéfova jména pod hlavičkou _šéf doporučuje_, _šéfova specialita_, _[À la][1] Chef_ apod.
 
 ## Národní, krajové a regionální speciality
 
-Národních kuchyně, které si získaly mezinárodní pozornost či popularitu se nazývají francouzským označením _cuisine_. Ne každá národní kuchyně se ale dá považovat za cuisine.
+Národních kuchyně, které si získaly mezinárodní pozornost či popularitu se nazývají francouzským označením _cuisine {xml:lang="fr"}_. Ne každá národní kuchyně se ale dá považovat za _cuisine {xml:lang="fr"}_.
 
 [Gurmáni][3] a někteří cizinci, se za takovými specialitami přímo honí. Některé cizí cestovní kanceláře dokonce organizují zájezdy gurmánů do všech možných zemí světa. Takové zájezdy jsou mnohdy spojeny s praktickými ukázkami přípravy specialit a některé jsou dokonce zpestřené jakýmsi kuchařským kurzem.
 
-Obliba a popularita některých etnických a krajových jídel nejenom překročila hranice místa svého původu, ale dokonce se dostala na jídelní lístky světových restaurací.
-
 {class="example"}
 
-Krajová a regionální jídla etnických kuchyní jsou jídla, která vznikla v daných lokalitách zpracováním místních surovin místními tradičními metodami jejich přípravy.
+Krajová a regionální jídla etnických kuchyní jsou jídla, která vznikla v daných lokalitách zpracováním místních surovin místními tradičními metodami jejich přípravy. Obliba a popularita některých etnických a krajových jídel nejenom překročila hranice místa svého původu, ale dokonce se dostala na jídelní lístky světových restaurací.
+
 
 ## České regionální speciality
 
@@ -154,16 +155,17 @@ Když se na tyto „krajové speciality“ dívám, tak mi připadají všechny 
 
 Podle mě jsou to násilné výtvory kuchařů. Ti je za každou cenu sestavili, bez hlubších znalostí vývoje stravovacích zvyklostí v českých zemích a dané lokality. To proto, aby zaplnily stránky kuchařských knížek nebo aby splnily požadavek podnikového ředitelství RaJ, případně Čedoku přijít s nějakou krajovou specialitou.
 
-Jsou ale česká jídla, která možná ani nemají původ v místě, které mají v názvu, ale která si získala takovou popularitu, že jsou oblíbená ve všech českých krajích a regionech. Mezi tato jídla bych řadil například
+Jsou ale česká jídla, která možná ani nemají původ v místě, které mají v názvu, ale která si získala takovou popularitu, že jsou oblíbená ve všech českých krajích a regionech. Mezi tato jídla bych řadil například:
 
  * Jihočeskou kulajdu,
- * Karlovarsky guláš,
+ * Karlovarský guláš,
  * Plzeňský karbonát,
  * Podkrkonošské kyselo,
  * Moravského vrabce,
  * Brněnský a Pražský řízek,
  * Hanácké obložené zelí nebo
- * jídla jako je Houbový kuba, polévky Kaldoun nebo Couračka.
+ * jídla jako je Houbový kuba,
+ * polévky Kaldoun nebo Couračka.
 
 {class="example"}
 
@@ -175,25 +177,25 @@ Jenom doufám, že zavedením [vyhlášky 107][4] se Maďaři ozvou a nenechají
 
 Místo, které máme na jídelním lístku vyhrazeno pro speciality, by nikdy nemělo být prázdné. Někdy ale speciality vyprodáme ještě před skončením provozu. Pro tento případ máme několik dalších jídel, kterými můžeme tuto specialitu nahradit, nebo máme takzvanou _záchranou specialitu_.
 
-Záchranná specialita je zpravidla zmrazené jídlo, jako obalované rybí filé, obalené kuřecí nugety apod. Takové jídlo může být upraveno během několika minut a můžeme zaplnit prázdné místo mezi specialitami.
+Záchranná specialita je zpravidla zmrazené jídlo, jako obalované rybí filé, obalené [kuřecí nugety][5] apod. Takové jídlo může být upraveno během několika minut a můžeme zaplnit prázdné místo mezi specialitami.
 
 ## Speciality etnických kuchyní
 
-Nevím proč se naši restauratéři a kuchaři stále zaměřují jen na francouzskou případně na italskou kuchyni, když oblíbených jídel ostatních etnických kuchyní je celá řada.
+Nevím, proč se naši restauratéři a kuchaři stále zaměřují jen na francouzskou případně na italskou kuchyni, když oblíbených jídel ostatních etnických kuchyní je celá řada.
 
 {class="important"}
 
-Etnické kuchyně (anglicky _cuisines_) jsou založeny na místních surovinách a na technické vyspělosti národa nebo etnické skupiny při jejich vzniku.
+Etnické kuchyně (anglicky _cuisines {xml:lang="en"}_) jsou založeny na místních surovinách a na technické vyspělosti národa nebo etnické skupiny při jejich vzniku.
 
 V jídlech etnických kuchyní se odráží stupeň kulturní vyspělosti, národnostní tradice, náboženská přikázání a zásady, jakožto i stupeň znalosti zásad přípravy jídel, hygieny a správné výživy daného národa.
 
 Tak jako kraje a gastronomické oblasti v jednotlivých zemích, tak už i některé etnické kuchyně nejsou tak přísně vyhraněny. Výjimku tvoří jídla omezená náboženskými předpisy a zásadami.
 
-Některá etnická jídla, kdysi velmi snadno rozeznatelná jako například čínská, vietnamská, japonská, Indonéská, dnes lze spíše označit jako orientální.
+{class="important"}
 
-Podobně u českých, maďarských a rakousko-uherských jídel, která vznikla za Rakousko-Uherska, lze mnohdy jen velmi těžko zjistit zem jejich původu. O amerických jídlech, která byla do Ameriky přinesena ze všech koutů světa ani nemluvě.
+Některá etnická jídla, kdysi velmi snadno rozeznatelná jako například čínská, vietnamská, japonská, Indonéská, dnes lze spíše označit jako orientální. Podobně u českých, maďarských a rakousko-uherských jídel, která vznikla za Rakousko-Uherska, lze mnohdy jen velmi těžko zjistit zemi jejich původu. O amerických jídlech, která byla do Ameriky přinesena ze všech koutů světa ani nemluvě.
 
-Díky stále se rozvíjejícímu cestovnímu ruchu jsou etnické kuchyně čím dále tím více populární. Etnické restaurace všech možných národů rostou po celém světě jako houby po dešti. Jejich popularita dostoupila takového stupně, že se jimi bohužel zabývá již kde kdo. Dnes si hodně lidí myslí, že k otevření indické restaurace člověku stačí, aby byl Ind apod. Pokud ale nemáme potřebné zařízení a potřebné znalosti o přípravě jídel dané kuchyně, tak bychom se do něčeho takového vůbec neměli pouštět.
+Díky stále se rozvíjejícímu cestovnímu ruchu jsou etnické kuchyně čím dále tím více populární. Etnické restaurace všech možných národů rostou po celém světě jako houby po dešti. Jejich popularita dostoupila takového stupně, že se jimi bohužel zabývá již kdekdo. Dnes si hodně lidí myslí, že k otevření indické restaurace člověku stačí, aby byl Ind apod. Pokud ale nemáme potřebné zařízení a potřebné znalosti o přípravě jídel dané kuchyně, tak bychom se do něčeho takového vůbec neměli pouštět.
 
 Je však několik etnických jídel, k jejichž přípravě nepotřebujeme žádné speciální zařízení a pro jejichž přípravu stačí dobrý autentický recept a kalkulace. Taková etnická jídla (po jejich vyzkoušení) nebudeme váhat přidat na náš jídelní lístek jako specialitu, protože lidé si rádi oživují vzpomínky ze zahraničí.
 
@@ -231,4 +233,5 @@ V zásadě každý z těchto způsobů umožňuje dělat rychlé změny ve výb�
  [2]: /jidelni_listek
  [3]: /gastronomove#gurman
  [4]: /vyhlaska_107
+ [5]: /kureci_nugety
 
