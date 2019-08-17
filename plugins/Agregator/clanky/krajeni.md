@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=355.html" data-image="/files/preview/clanky/krajeni/general.jpg" data-type="article"}
 
-{id="krajeni" ctime="2008-07-22" author="Michael Klíma" short="Způsoby krájení" mtime="2019-06-24"}
+{id="krajeni_potravin" ctime="2008-07-22" author="Michael Klíma" short="Krájení potravin" mtime="2019-06-24"}
 
 # Způsoby krájení potravin
 
@@ -9,7 +9,7 @@
 
 {kw="gastronomie, krájení, Čína"}
 
-Důležitost krájení potravin si již uvědomoval člověk v pravěku, a to ještě před objevením ohně. Tehdy zjistil, že se mu kusy mamuta lépe jí nakrájené na _steaky_.
+Důležitost krájení potravin si již uvědomoval člověk v pravěku, a to ještě před objevením ohně. Tehdy zjistil, že se mu kusy mamuta lépe jedí nakrájené na _steaky_.
 
 ## Krájení potravin na malé kousky
 
@@ -17,7 +17,7 @@ Výhodu krájení potravin na malé kousky objevili před tisíci lety Číňan�
 
 Nakonec, i já jsem objevil tajemství důležitosti krájení potravin až teprve při studiu čínské a japonské kuchyně. Do té doby jsem se řídil příměry udávaným v kuchařkách, které popisovaly velikost kousků masa. Jednalo se o kousky na guláš, na roštěnky, na řízky apod. To je ale plat prtné někomu, kdo neví, co je to guláš, roštěnky nebo řízek.
 
-Některé kuchařky udávají rozměry kousků v centimetrech. To by ale kuchaři u sebe museli nosit centimetr, a to by bylo také dosti nepraktické.
+Některé kuchařky udávají rozměry kousků v centimetrech. To by ale kuchaři u sebe museli nosit metr, což by bylo dosti nepraktické.
 
 Například Francouzi přišli se zlepšovákem a jednotlivé řezy zeleniny označovali specifickými názvy jako například:
 
@@ -94,4 +94,4 @@ Jemně sekané _mo_
 :   Pro přípravu mletého masa ale neváhejte použít mlýnek na maso nebo mixér.
 
  [1]: jidelni_hulky
-
+ 
