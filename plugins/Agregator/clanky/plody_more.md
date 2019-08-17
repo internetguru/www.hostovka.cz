@@ -82,7 +82,7 @@ Cenové srovnání musíte ale dělat na základě počtu kusů v jedné libře 
 
 Krevetky můžete připravovat všemi možnými způsoby od pošírování, broilování, [sotýrování][5] až po [grilování][6]¨. Do jídel jako je například Ceviche je můžeme použít i syrové. Podávají se jak teplé, tak i studené.
 
-Nejpopulárnější způsob podávání studených vařených loupaných krevetek je [krevetkový koktejl][7] (anglicky _Shrimp Cocktail {xml:lang="en"}_) s koktejlovou omáčkou. Moje nejoblíbenější jídlo z vařených loupaných krevetek je [Shrimp de Jonghe][3]. To v nejbližší době naleznete na jídelním lístku restaruace [Steakgrill][4].
+Nejpopulárnější způsob podávání studených vařených loupaných krevetek je [krevetkový koktejl][7] (anglicky _Shrimp Cocktail {xml:lang="en"}_) s koktejlovou omáčkou. Moje nejoblíbenější jídlo z vařených loupaných krevetek je [Shrimp de Jonghe][3]. To v nejbližší době naleznete na jídelním lístku restaurace [Steakgrill][4].
 
 Jak již řečeno, tak Hostovka není škola vaření, a proto recepty na úpravu krevetek zde nenajdete, ale jako studenti Hostovky byste měli vědět, že po jakékoliv úpravě musí krevetky být křehké a do jisté míry šťavnaté. Pokud jsou tuhé, tak je to známka toho, že byly převařené.
 
