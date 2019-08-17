@@ -3,7 +3,7 @@
 
 {id="speciality" ctime="2006-06-26" author="Michael Klíma" short="Speciality" mtime="2019-05-27"}
 
-# Speciality
+# Jak na speciality
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
@@ -211,9 +211,9 @@ I když si některá restaurace myslí, že všechna jejich jídla jsou svým zp
 
 ### Vložky do jídelních lístků
 
-Vložky do jídelních lístků jsou ve většině případů volné listy, na kterých jsou jídla uvedena. Tyto vložky, které se vkládají do atraktivních desek, znamenají velkou úsporu. Vložení se dá řešit několika technikami, z nichž jedna jsou speciální úhledné příchytky.
+Vložky do jídelních lístků jsou ve většině případů volné listy, na kterých jsou jídla uvedena. Tyto vložky, které se vkládají do atraktivních desek. Případně jsou speciality napsané na samostatných kartách a zasunují se do zářezů na jídelním lístku. Každá taková karta má na druhé straně číslo příslušné receptury a kalkulace. V obou případech jde o velkou úsporu.
 
-Do některých jídelních lístků je mnohdy třeba vkládat další vložky, jako jsou
+Vložení se dá řešit několika technikami, z nichž jedna jsou speciální úhledné příchytky. Do některých jídelních lístků je mnohdy třeba vkládat další vložky, jako jsou:
 
 * každodenní nabídka specialit,
 * specialita šéfa kuchyně,
@@ -221,13 +221,7 @@ Do některých jídelních lístků je mnohdy třeba vkládat další vložky, j
 
 {class="important"}
 
-Tyto vložky by měly být stejně úhledné jako je samotný lístek, a neměly by jídla na lístku zakrývat (leda že je to úmyslem). Vložka by měla být do lístku vkládána tak, aby při každém jeho otevření nevypadla.
-
-### Speciality na individuálních kartách
-
-Speciality napsané na individuálních kartách se zasunují do zářezů na jídelním lístku. Každá taková karta má na druhé straně číslo příslušné receptury a kalkulace.
-
-V zásadě každý z těchto způsobů umožňuje dělat rychlé změny ve výběru specialit, rychlé změny v cenách nebo jejich popisů.
+Tyto vložky by měly být stejně úhledné jako je samotný lístek, a neměly by jídla na lístku zakrývat (leda že je to úmyslem). Vložka by měla být do lístku vkládána tak, aby při každém jeho otevření nevypadla. V zásadě každý z těchto způsobů umožňuje dělat rychlé změny ve výběru specialit, rychlé změny v cenách nebo jejich popisů.
 
  [1]: /a_la
  [2]: /jidelni_listek
