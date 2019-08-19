@@ -19,7 +19,7 @@ Popularitě Cordon Bleu přispívá i jeho francouzský název. Málokdo ve skut
 
 Cordon Bleu, dnes jedna z nejpopulárnějších francouzských kuchařských škol, má již více než stoletou tradici. Je zastrčená v domě č. 8 v tiché ulici _Rue Léon Delhomme {xml:lang="fr"}_ na levém břehu Sény v Paříži, hned kousek od Eifelovy věže.
 
-Škola má velice zajímavou historii která sahá až do roku 1895. Tehdy začala Marthe Distel vydávat týdenní publikaci zvanou _La Cuisinière Cordon-bleu {xml:lang="fr"}_. V ní tehdejší populární kuchaři prostřednictvím článků pořádali kurzy vaření.
+Škola má velice zajímavou historii, která sahá až do roku 1895. Tehdy začala Marthe Distel vydávat týdenní publikaci zvanou _La Cuisinière Cordon-bleu {xml:lang="fr"}_. V ní tehdejší populární kuchaři prostřednictvím článků pořádali kurzy vaření.
 
 Název tohoto časopisu nebyl vybrán náhodně. Byl odvozen od francouzského řádu rytířů ze šestnáctého století _Ordre du Saint Esprit {xml:lang="fr"}_, který byl nejvybranějším řádem té doby. Jeho členové byli nazýváni _Cordons-bleu {xml:lang="fr"}_, podle široké modré stuhy. Jejich zasedání a večeře, které následovaly se staly legendárními.
 
@@ -29,7 +29,7 @@ Titul Cordon-bleu byl během 18. století udělován tomu, kdo mimořádně vyni
 
 Distel si uvědomila že ještě lepší způsob učit vaření by byl v dobře organizovaných hodinách. V těch by studenti viděli svého učitele při práci a sami by připravovali jídla pod jeho přísným dohledem.
 
-K vyučování v těchto kurzech byli přizvání profesionální kuchaři. Mezi prvními to byl Chef Barthélémy, ředitel profesionálního cukrářského magazinu, Chef Charles Poulain, bývalý ředitel známé pařížské cateringové společnosti a Chef August Colombié, jehož kuchařské knihy byly na přelomu století velice populární.
+K vyučování v těchto kurzech byli přizvání profesionální kuchaři. Mezi prvními to byl Chef Barthélémy, ředitel profesionálního cukrářského magazínu, Chef Charles Poulain, bývalý ředitel známé pařížské cateringové společnosti a Chef August Colombié, jehož kuchařské knihy byly na přelomu století velice populární.
 
 První Cordon-bleu kurz začal 14. ledna 1896, v Paříži v Palais Royal. Jeho pořadatelé se a pýchou pochlubili nejnovější kuchařskou technologií – v jedné kuchyni byla instalována elektřina!
 
@@ -43,9 +43,9 @@ Po druhé Světové válce začala škola Cordon Bleu pod vedením Madame Elisab
 
 V padesátých letech Le Cordon Bleu reprezentovala nejenom nejvyšší stupeň kulinářské výuky, ale stala se jedním ze symbolů Paříže. Dokonce i Audrey Hepburnová, představitelka Sabriny ve filmu stejného jména, považovala za nutné tuto školu absolvovat. Scéna, ve které se Sabrina učí dělat vaječnou omeletu byla dalším důkazem zájmu o francouzskou kuchyni a o školu Cordon Bleu.
 
-Co se týká výuky francouzských jídel a moučníků, Cordon Bleu nemá konkurenci. Reputace školy je založena na profesionální kvalitě přednášených předmětů. Začátečníci se učí základům kuchařské profese a pokročilým kuchařům je dána možnost seznámit se s vyznamenanými francouzskými kuchaři pracujicími v několika hvězdičkových restauracích uvedených v Michelinu.
+Co se týká výuky francouzských jídel a moučníků, Cordon Bleu nemá konkurenci. Reputace školy je založena na profesionální kvalitě přednášených předmětů. Začátečníci se učí základům kuchařské profese a pokročilým kuchařům je dána možnost seznámit se s vyznamenanými francouzskými kuchaři pracujícími v několika hvězdičkových restauracích uvedených v Michelinu.
 
-O této škole by se dalo psát ještě více, ale doufám že tímto krátkým popisem jsem z odpověděl na otázku co je Cordon Bleu. Jako zvláštní bonus přikládám recept na řízky Cordon Bleu.
+O této škole by se dalo psát ještě více, ale doufám že tímto krátkým popisem jsem z odpověděl na otázku, co je Cordon Bleu. Jako zvláštní bonus přikládám recept na řízky Cordon Bleu.
 
 ## Telecí řízky Cordon Bleu plněné šunkou a sýrem
 
@@ -67,7 +67,7 @@ Suroviny:
 Postup přípravy:
 
   1. Tenké telecí řízky, nejlépe obdélníkové, rozklepeme na velikost nejméně 16 × 12 cm.
-  2. Řízky slabě naklepeme nebo propícháme tenderizerem, rozložíme na stůl, a na polovinu každého řízku položíme jeden plátek šunky a jeden plátek sýra.
+  2. Řízky slabě naklepeme nebo propícháme [tenderizerem][1], rozložíme na stůl, a na polovinu každého řízku položíme jeden plátek šunky a jeden plátek sýra.
   3. Poté je Přiklopíme druhou polovinu řízku a okraje stiskneme.
   4. Řízky nesolíme ani nepepříme, chuť řízkům dodá šunka a sýr.
   5. Takto upravené řízky můžeme do doby podávání zabalit do průhledné fólie a uložit v ledničce.
@@ -76,7 +76,7 @@ Postup přípravy:
   8. Řízky nikdy nesmažíme ve fritéze. Obalené řízky opatrně vkládáme do pánve s horkým olejem smíchaným s přepuštěným máslem, a velice zvolna je smažíme po obou stranách dozlatova. Řízky obracíme kleštěmi nebo špachtlí, zásadně do nich nikdy nepícháme vidličkou.
   9. Osmažené řízky osušíme na savém papíře a dáme na teplé talíře. Přílohu podáváme na stejných talířích na pravou stranu od řízku.
 
-Nejvhodnější příloha jsou vařené nebo opečené brambory, bramborová kaše. V Americe se mimo brambory k řízkům podává zelený hrášek, karotka, nebo špenát. Přílohy svojí hmotností nesmí převyšovat hmotnost řízku. Jako ozdobu můžeme na talíř přidat malý lupen salátu s plátkem rajčete.
+Nejvhodnější příloha jsou vařené nebo opečené brambory, bramborová kaše. V Americe se mimo brambory k řízkům podává zelený hrášek, karotka, nebo špenát. Přílohy svojí hmotností nesmí převyšovat hmotnost řízku. Jako [ozdobu][2] můžeme na talíř přidat malý lupen salátu s plátkem rajčete.
 
 {class="example"}
 
@@ -85,4 +85,7 @@ Pokud nemáme dostatečně velké řízky, použijeme dvojnásobný počet menš
 Závěrem se musím zmínit o tom, že v Česku se tento steak někdy objevuje pod názvem Gordon Bleu, což není správné. Zase takovou vědu bych z toho ale také nedělal, pokud je pod názvem krátce popsátno oč se jedná.
 
 Pokud ale chcete ochutnat relativně dobrý řízek Cordon Bleu a jiná mezinárodně populární jídla připravovaná na objednávku z čerstvých prvotřídních místně dosažitelných potravin podle mých vyzkoušených receptů, tak mohu doporučit moje dítě restauraci Steakgrill v Račiněvsi u Roudnice.
+
+ [1]: /tenderizovani
+ [2]: /zdobeni
 
