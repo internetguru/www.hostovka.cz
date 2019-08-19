@@ -1,32 +1,32 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=45.html" data-image="/files/preview/clanky/argula/general.jpg" data-type="article"}
 
-{id="argula" ctime="2005-07-21" author="Michael Klíma" short="Argula" authorid="hostovka/michael_klima"}
+{id="rukola" ctime="2005-07-21" author="Michael Klíma" short="Rukola" mtime="2018-08-19"}
 
-# Argula
+# Salát rukola
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
 
-{kw="jídla a jídelní lístky"}
+{kw="jídla a jídelní lístky, salát, recept"}
 
-Také ale rugula, rugola nebo rucola od latinského slova eruca znamenajícího "druh zelí", je listová zelenina z rodiny cruciférae, známá také pod francouzským názvem roquette nebo pod anglickým roket. Je to zelenina podobná špenátu nebo řeřiše. Používá se hojně v italské kuchyni; má o mnoho větší obsah Beta karotenu a vitamínu C než ostatní listové zeleniny.
+Roketa setá nebo také _rukola_, je salát známý také pod výrazy _rugula_ a _rugola_ nebo pod francouzským _roquette {xml:lang="fr"}_ či anglickým _arugula {xml:lang="en"}_. Název salátu je odvozený od latinského slova _eruca {xml:lang="la"}_, což znamená druh zelí. Je to listová zelenina z rodiny _cruciférae {xml:lang="la"}_ podobná špenátu nebo řeřiše. Používá se často ve studené kuchyni k ozdobě jídel.
 
-Argula má malé ploché lístky s dlouhými stonky čímž se podobá také pampelišce kterou můžeme arguly nahradit. Má výraznou pepřovou chuť a vůni; čím vzrostlejší tím má výraznější hořčicovou chuť. Používá se často ve studené kuchyni k ozdobě jídel.
+{class="example"}
 
-{id="argula_salat"}
+Rukola má větší obsah betakarotenu a vitamínu C než ostatní listové zeleniny.
 
-## Argula Salát
+Rukola má malé ploché lístky s dlouhými stonky, čímž se podobá jejímu náhražku – pampelišce. Má výraznou pepřovou chuť a vůni. Čím je vzrostlejší, tím má výraznější hořčicovou chuť.
 
-V Americe se setkáte s různými verzemi argula salátu v tak zvaných "lepších" restauracích. Lístky arguly se prodávají v plastikových pytlíčcích, ale většinou se přidává ku směsím listových salátů spolu s hlávkovým salátem (lettuce), špenátem (spinach) apod.
+V Americe se setkáte s různými verzemi rukola salátu. Většinou se přidává ke směsím listových salátů spolu s hlávkovým salátem, špenátem apod. Níže je uveden typický recept na rukola salát s gorgonzolou.
 
-{id="argula\_salat\_s_gorgonzolou"}
+Rukolu smícháme s jinými salátovými listy – hlávkovým salátem, špenátem apod. Pro každou porci salátu přidáme:
 
-## Argula salát s Gorgonzolou
+  * 1/2 šálku vlašských ořechů,
+  * 1/2 šálku gorgonzoly a
+  * 1/2 zeleného jablka krájeného na plátky.
 
-Argula smícháme s jinými salátovými listy (hlávkovým salátem, špenátem apod. Pro každou porci salátu přidáme:
+Hotový salát podáváme s italským [dresinkem][1] nebo [zálivkou][2].
 
-  * ½ šálku vlašských ořechů
-  * ½ šálku Gorgonzoly
-  * ½ zeleného jablka krájeného na plátky 
-  * Podáváme s italským drezinkem nebo vinegretem.
+ [1]: /zalivka_dresink#dresinky
+ [2]: /zalivka_dresink#zalivka
 
