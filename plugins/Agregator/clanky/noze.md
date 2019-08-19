@@ -13,13 +13,13 @@ Lidé si myslí, že nůž je nůž, ale jen na samotné maso jich existuje toli
 
 {class="example"}
 
-Lidé se mně často ptají, na co si u nožů musí dávat pozor. No přeci na to, abyste se neřízli. K tomu vám mohu z vlastní praxe říci, že se častěji říznete tupým než ostrým nožem.
+Lidé se mě často ptají, na co si u nožů musí dávat pozor. No přeci na to, abyste se neřízli. K tomu vám mohu z vlastní praxe říci, že se častěji říznete tupým než ostrým nožem.
 
 ## Výroba nožů
 
-Dvě základní techniky výroby nožů jsou kování (anglicky _forging {xml:lang="en"}_) nebo vysekávání (anglicky _stamping {xml:lang="en"}_). Bez ohledu výrobní techniku je ještě několik dalších rozhodujících faktorů, které musíme brát v úvahu. Je to vyvážení (_balance {xml:lang="en"}_), úchop (anglicky _grip {xml:lang="en"}_), síla ostří (anglicky _blade strenght {xml:lang="en"}_) a hlavně taky ostrost (anglicky _sharpness {xml:lang="en"}_).
+Dvě základní techniky výroby nožů jsou kování (anglicky _forging {xml:lang="en"}_) nebo vysekávání (anglicky _stamping {xml:lang="en"}_). Bez ohledu na výrobní techniku je ještě několik dalších rozhodujících faktorů, které musíme brát v úvahu. Je to vyvážení (_balance {xml:lang="en"}_), úchop (anglicky _grip {xml:lang="en"}_), síla ostří (anglicky _blade strength {xml:lang="en"}_) a hlavně taky ostrost (anglicky _sharpness {xml:lang="en"}_).
 
-Kování nožů je zdlouhavější a tudíž dražší proces než vysekávání. Kované nože jsou také kvalitnější. Rovnováha nože by měla být mezi rukojetí a ostřím. Nevyvážený nůž je těžkopádný a nebezpečný.
+Kování nožů je zdlouhavější, a tudíž dražší proces než vysekávání. Kované nože jsou také kvalitnější. Rovnováha nože by měla být mezi rukojetí a ostřím. Nevyvážený nůž je těžkopádný a nebezpečný.
 
 {id="americka\_anatomie\_noze"}
 
@@ -31,7 +31,7 @@ Důležité je, aby byla rukojeť dobře tvarovaná a aby umožňovala pevné dr
 
 {class="important"}
 
-Dřevěné rukojeti jsou se mohou mýt v myčce. Kuchyňské nože by se v myčce mýt neměly a každý pořádný kuchař by si nože měl mýt sám.
+Dřevěné rukojeti se mohou mýt v myčce. Kuchyňské nože by se v myčce mýt neměly a každý pořádný kuchař by si nože měl mýt sám.
 
 {id="brouseni\_a\_ostreni_nozu"}
 
@@ -48,9 +48,9 @@ Ostré nože jsou důležité ze dvou důvodů:
 
 Na karbonovou ocel ale působí kyseliny. To se projevuje tak, že ji zbarví a takový nůž následně zbarví i surovinu, která se jím krájí.
 
-Nože z nerezové oceli (anglicky _stainless steel {xml:lang="en"}_) nezreznou a nezkorodují. Tato ocel je tvrdší, hůře se brousí a své ostří neudrží příliš dlouho.
+Nože z nerezové oceli (anglicky _stainless steel {xml:lang="en"}_) nezreznou. Tato ocel je však tvrdší, hůře se tedy brousí a své ostří neudrží příliš dlouho.
 
-Nože podle potřeby brousíme třeba i stokrát denně. K tomu bychom si ale měli napřed ujasnit rozdíl mezi broušením (anglicky _sharping_) a  ostřením neboli obtahováním (anglicky _honing_).
+Nože podle potřeby brousíme třeba i stokrát denně. K tomu bychom si ale měli napřed ujasnit rozdíl mezi broušením (anglicky _sharping {xml:lang="en"}_) a ostřením neboli obtahováním (anglicky _honing {xml:lang="en"}_).
 
 {class="example"}
 
@@ -88,7 +88,7 @@ Je sice pravda, že drahé nářadí dobrého řemeslníka ještě nedělá, ale
 
 Ocílku po použití zbavíme malých ocelových částic, které se na ni během ostření zachytí. Ocílku omyjeme ve vlažné vodě, desinfikujeme, osušíme a uložíme na vyhrazené místo.
 
-V Česku doufám ještě platí pravidlo, že kudla a manželka se nepůjčuje. Proto, pokud já si pamatuji, tak každý pořádný kuchař má vlastní nože, které si sám brousí a sám myje. Nože má uložené buď v krabici na nářadí, nebo v něčem čemu se česky říká futrál na vergcajk.
+V Česku doufám ještě platí pravidlo, že kudla a manželka se nepůjčuje. Proto, pokud já si pamatuji, tak každý pořádný kuchař má vlastní nože, které si sám brousí a sám myje. Nože má uložené buď v krabici na nářadí, nebo v něčem čemu se česky říká futrál na vercajk.
 
 Ideální k uložení nožů jsou dřevěné špalky, ve kterých se neničí a ve kterých o nich máte stále přehled. Praktické jsou také magnetické držáky umístěné v blízkosti pracoviště.
 
