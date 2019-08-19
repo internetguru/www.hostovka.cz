@@ -11,17 +11,19 @@
 
 Anglický výraz pro párátko _toothpick {xml:lang="en"}_, napovídá že je to něco čím by se člověk měl šťourat v zubech. Proto by se mu mělo říkat spíše šťourátko než párátko.
 
-V někdejších učebnicích etiky je psáno, že při šťourání se v zubec si člověk z ohledu na ostatní stolovníky, má zakrýt ústa jednou rukou. Kdo ale dnes tyto učebnice čte.
-
 {class="example"}
 
 Francouzi párátkům říkají _cure-dent {xml:lang="fr"}_, což už je trochu logičtější, znamená to totiž péče o zuby. Ale mně ani to nepřipadá jako pravé označení.
 
-O tom zda mít či nemít párátka na stolech se nedočte ani v učebnicích servisu ani v učebnicích společenského chování. V bontonu se o nich taktně mlčí.
+## Používání párátek ve společnosti
+
+V někdejších učebnicích etiky je psáno, že při šťourání se v zubec si člověk z ohledu na ostatní stolovníky, má zakrýt ústa jednou rukou. Kdo ale dnes tyto učebnice čte.
+
+O tom, zda mít či nemít párátka na stolech se nedočte ani v učebnicích servisu ani v učebnicích společenského chování. V bontonu se o nich taktně mlčí.
 
 ## Párátka v restauracích
 
-Ať už to byla párátka nebo správně česky _špárátka_, tak se musím přiznat, že jsem je jako učedník nenáviděl. Stojánky na párátka byly z různých materiálů, většinou porcelánové nebo skleněné. V takzvaných lepších restauracích byly stojánky stříbrné. Všechny se ale musely denně vyprazdňovat, pulírovat a doplňovat, a musím říci že v tom nebyla žádná logika. Párátníky byly sice čisté, ale neptejte se, jak hygienická byla párátka po několikáté manipulaci.
+Ať už to byla párátka nebo správně česky _špárátka_, tak se musím přiznat, že jsem je jako učedník nenáviděl. Stojánky na párátka byly z různých materiálů, většinou porcelánové nebo skleněné. V takzvaných lepších restauracích byly stojánky stříbrné. Všechny se ale musely denně vyprazdňovat, pulírovat a doplňovat, a musím říci, že v tom nebyla žádná logika. Párátníky byly sice čisté, ale neptejte se, jak hygienická byla párátka po několikáté manipulaci.
 
 Někdy byly stojánky spojené se sirníky. Povšimněte si, že se to píše s měkkým i – nejedná o sýr, ale o sirky. Puristům toto označení vadilo a navrhovali je nazývat _zápalníky_ od správného českého slova _zápalky_. Někdy byly také ve společném stojánku s hořčičníky, slánkami a pepřenkami.
 
