@@ -11,17 +11,17 @@
 
 Steak je nejvíce zneužívaný výraz v gastronomii. Steak může být i řez ryby, kuřete nebo jiné potraviny. Většinou se tím ale rozumí řez masa a není-li specifikováno jinak, tak hovězího.
 
-Hostovka není školou vaření a proto jsem nepovažoval za nutné se zmiňovat o všech masech, ze kterých se steaky dají připravit. To hlavně proto, že technika přípravy je u všech druhů masa téměř stejná. Teď ale vidím že jsem něco zanedbal.
+Hostovka není školou vaření, a proto jsem nepovažoval za nutné se zmiňovat o všech masech, ze kterých se steaky dají připravit. To hlavně proto, že technika přípravy je u všech druhů masa téměř stejná. Teď ale vidím že jsem něco zanedbal.
 
 ## Zkreslené povědomí o steacích
 
-O steacích a jiných nových a populárních jídlech v jsem se v médiích zmiňoval relativně často a to už od Sametové revoluce. Asi to ale nepadalo na úrodnou půdu a potvrzuje se moje teorie, že hosté nebo kuchaři amatéři toho o jídle mnohdy vědí více než někteří profesionálové.
+O steacích a jiných nových a populárních jídlech v jsem se v médiích zmiňoval relativně často, a to už od Sametové revoluce. Asi to ale nepadalo na úrodnou půdu a potvrzuje se moje teorie, že hosté nebo kuchaři amatéři toho o jídle mnohdy vědí více než profesionálové.
 
 {class="important"}
 
 Všeobecná osvěta o steacích je nedostačující a normální smrtelníci mají o steacích stále ještě dosti zkreslené představy.
 
-Češi čím dál tím více cestují a seznamují se s jinými jídly než jsou typické české hotovky. Proto se v Česku zvyšuje zájem o steaky a jsou dnes čím dál častějším předmětem diskuse.
+Češi čím dál tím více cestují a seznamují se s jinými jídly, než jsou typické české hotovky. Proto se v Česku zvyšuje zájem o steaky a jsou dnes čím dál častějším předmětem diskuse.
 
 Na nejmenovaných webových stránkách pro domácí kuchaře jsem si všimnul relativně rušné diskuse na téma steaků. Ta bohužel čerpá ze zkušeností s bifteky v době za socialismu a musím říci, že je mi zúčastněných diskutérů tak trochu líto. Zmiňované bifteky se od steaků totiž podstatně liší.
 
@@ -57,11 +57,11 @@ V Americe jsou _vealers {xml:lang="en"}_ a _calves {xml:lang="en"}_ prodávány 
 
 Steak z telecího masa nemůže být nazýván biftek. A to již z důvodu, že biftek je zkomolenina anglického slova _beefsteak {xml:lang="en"}_, neboli řez z hovězího masa.
 
-Steaky z telecích masa jsou i v Česku nazývány spíše řízky, německy _Schnitzel {xml:lang="de"}_, francouzsky _escalope {xml:lang="fr"}_, italsky _scaloppe {xml:lang="it"}_ a rusky _шиицeль {xml:lang="ru"}_. Některé řezy z telecí pečeně s kostí se sice nazývají kotlety, ale někdy se pod názvem kotleta rozumí mleté maso z formované do tvaru kotlety (žebírka).
+Steaky z telecích masa jsou i v Česku nazývány spíše řízky, německy _schnitzel {xml:lang="de"}_, francouzsky _escalope {xml:lang="fr"}_, italsky _scaloppe {xml:lang="it"}_ a rusky _шиицeль {xml:lang="ru"}_. Některé řezy z telecí pečeně s kostí se sice nazývají kotlety, ale někdy se pod názvem kotleta rozumí mleté maso z formované do tvaru kotlety (žebírka).
 
 ## T-bone steak a telecí žebírko Veal chop
 
-T-bone steak má své jméno odvozené od kosti ve tvaru písmene T která jím prochází. Z vnitřní strany má steak kousek svíčkové, pro kterou je preferován. Dalším oblíbeným steakeam z telecího je pak takzvané telecí žebírko (anglicky _Veal chop {xml:lang="en"}_).
+T-bone steak má své jméno odvozené od kosti ve tvaru písmene T která jím prochází. Z vnitřní strany má steak kousek svíčkové, pro kterou je preferován. Dalším oblíbeným steakem z telecího je pak takzvané telecí žebírko (anglicky _Veal chop {xml:lang="en"}_).
 
 {class="figure"}
 
