@@ -13,11 +13,11 @@ Jídelní hůlky jsou hlavním jídelním náčiním v mnoha asijských kulturá
 
 {class="important"}
 
-Jídelní hůlky se používají v Číně, Japonsku, Korei, ve Vietnamu a na Taiwanu. Všude vám v restauracích velice ochotně podají normální jídelní příbory, ale pokud ale chcete jídlo opravdu vychutnat, tak se naučte hůlky používat.
+Jídelní hůlky se používají v Číně, Japonsku, Koreji, ve Vietnamu a na Taiwanu. Všude vám v restauracích velice ochotně podají normální jídelní příbory, ale pokud ale chcete jídlo opravdu vychutnat, tak se naučte hůlky používat.
 
 ## Historie jídelních hůlek
 
-Používání jídelních hůlek bylo vyvinuto asi před 5000 lety v Číně. Bylo to nejspíše v době, kdy se jídlo vařilo ve velkých hrncích nebo kotlích. Nedočkavci si ulomili větvičku, kterou si jídlo z kotle vybírali. Později přišli na to, že dvěma větvičkami to jde pohodlněji a tak vznikly jídelní hůlky.
+Používání jídelních hůlek bylo vyvinuto asi před 5000 lety v Číně. Bylo to nejspíše v době, kdy se jídlo vařilo ve velkých hrncích nebo kotlích. Nedočkavci si ulomili větvičku, kterou si jídlo z kotle vybírali. Později přišli na to, že dvěma větvičkami to jde pohodlněji, a tak vznikly jídelní hůlky.
 
 Kolem 400 let před naším letopočtem s přibývající populací, zmenšováním životního prostoru a nedostatek paliva, lidi začali krájet potraviny na malé kousky. Tím se uvařily rychleji a ušetřila se energie.
 
@@ -25,9 +25,9 @@ Konec hůlek je zásadně větší, hranatý (čtverhranný), zatímco spodní k
 
 V čínské kultuře stolování hrají jídelní hůlky velice důležitou roli. Čínsky se nazývají _Kuaizi {xml:lang="zh"}_ a ve staročínštině _Zhu {xml:lang="zh"}_. Číňané používají hůlky jako nejdůležitější jídelní příbor již po více než 3000 let.
 
-Hůlky se vyráběly z různých materiálů. Nejčastěji z bambusu, který byl jednak nejlevnějsí, snadno se dá štípat, odolává vysokým teplotám a nemá znatelnou vůni nebo chuť. dále se běžne používalo cedrové, sandálové, týkové nebo borovicové dřevo a kosti.
+Hůlky se vyráběly z různých materiálů. Nejčastěji z bambusu, který byl jednak nejlevnější, snadno se dá štípat, odolává vysokým teplotám a nemá znatelnou vůni nebo chuť. Dále se běžně používalo cedrové, sandálové, týkové nebo borovicové dřevo a kosti.
 
-Bohatí lidé měli často hůlky z drahých materiálů jako je stříbro, slonovina, neufrit nebo zlato. V dynastických dobách se věřilo, že stříbrné hůlky zčernají při styku s otráveným jídlem. Dnes se ale ví, že stříbro nereaguje na arsén nebo cyankáli a že stříbro může změnit barvu při styku se zkaženými vejci, cibulí nebo česnekem.
+Bohatí lidé měli často hůlky z drahých materiálů jako je stříbro, slonovina, nefrit nebo zlato. V dynastických dobách se věřilo, že stříbrné hůlky zčernají při styku s otráveným jídlem. Dnes se ale ví, že stříbro nereaguje na arsen nebo cyankáli a že stříbro může změnit barvu při styku se zkaženými vejci, cibulí nebo česnekem.
 
 ## Japonské zásady při jídle hůlkami
 
@@ -44,5 +44,5 @@ Japonci vyráběli hůlky většinou ze dřeva. Japonci byli také první, kdo v
   * K rozdělení větších kousků masa musíte použít většího tlaku na hůlky, což ale vyžaduje určitou praxi.
   * V případě, že jste vaše hůlky měli již v ústech, k podání jídal ze společné mísy použijte druhý konec hůlek.
 
-Pokud hůlky nepoužíváme, pokládáme je před sebe na jakési podložky (anglicky _chopsticks rest {xml:lang="en"}_), na kterých hůlky leží tak aby se nepotřísnil ubrus. Kobylky pro odkládání použitých hůlek se vyrábí v několika formách. Většinou jsou z levných materiálů, protože si je hosté rádi berou jako suvenýr. V domácnostech mohou být ale i stříbrné.
+Pokud hůlky nepoužíváme, pokládáme je před sebe na jakési podložky (anglicky _chopsticks rest {xml:lang="en"}_), na kterých hůlky leží – tak aby se nepotřísnil ubrus. Kobylky pro odkládání použitých hůlek se vyrábí v několika variantách. Většinou jsou z levných materiálů, protože si je hosté rádi berou jako suvenýr. V domácnostech mohou být ale i stříbrné.
 
