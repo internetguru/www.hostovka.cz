@@ -7,7 +7,7 @@
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
-{kw="jídla a jídelní lístky, sendvič, Amerika, Francie, České republicka, chlebíčky, recept"}
+{kw="jídla a jídelní lístky, sendvič, Amerika, Francie, České republika, chlebíčky, recept"}
 
 Jedním z posláních Hostovky je připravit své studenty na jídla, se kterými se setkají při cestách do zahraničí. O rychlém občerstvení jsem něco málo již napsal, ale obávám se, že jsem zapomněl na něco, co je Čechům velice blízké – na sendviče. Ty se totiž normálně za rychlé občerstvení nepovažují.
 
@@ -19,7 +19,7 @@ _Lord Sandwich {xml:lang="en"}_ byl vášnivý karbaník, který nechtěl být p
 
 Tato teorie nebyla nikdy historicky doložena, ale existuje druhá teorie, kterou mohu potvrdit já osobně. Podle ní byla vynálezcem sendviče moje maminka.
 
-Já jako kluk jsem totiž zbožňoval krajíc čerstvého chleba namazaný máslem a nebo ještě raději škvarkovým sádlem. Největším požitkem ale bylo, když jsem si krajíc chleba mohl vzít na ulici, kde jsem s kluky hrál fotbal. Velmi často se ale stalo, že mi chleba upadl na zem a z nějakého důvodu vždycky namazanou stranou dolů.
+Já jako kluk jsem totiž zbožňoval krajíc čerstvého chleba namazaný máslem nebo ještě raději škvarkovým sádlem. Největším požitkem ale bylo, když jsem si krajíc chleba mohl vzít na ulici, kde jsem s kluky hrál fotbal. Velmi často se ale stalo, že mi chleba upadl na zem a z nějakého důvodu vždycky namazanou stranou dolů.
 
 Moje maminka, která si mimo jiné věděla rady se vším, to vyřešila tak, že chleba po namazání překrojila a složila obě půlky dohromady. Takže když ten chleba upadl na zem, tak jsem ho jen oprášil a dal se jíst dál.
 
@@ -35,7 +35,7 @@ Nicméně ať se to lidem líbí nebo ne, budoucnost stravovaní širokých mas 
 
 {class="example"}
 
-Nejbohatší muž světa _Bill Gates {xml:lang="en"}_, který rozhodně není snob, a který si může dovolit navštěvovat nejdražší restaurace téměř denně si například nejlépe pochutná na hamburgru od _Wendy's {xml:lang="en"}_.
+Nejbohatší muž světa _Bill Gates {xml:lang="en"}_, který rozhodně není snob, a který si může dovolit navštěvovat nejdražší restaurace téměř denně si například nejlépe pochutná na hamburgeru od _Wendy's {xml:lang="en"}_.
 
 Všechna jídla, jako jsou plody moře, smažená kuřata (_Kentucky Fried Chicken {xml:lang="en"}_), _Fish and Chips {xml:lang="en"}_, a další  jsou _finger foods {xml:lang="en"}_. Je to ale i náš párek, langoš, opečená klobása, párek v rohlíku apod.
 
@@ -81,7 +81,7 @@ Nicméně v Česku jsem se setkal i s takovými rádoby odborníky kteří mi ř
 
 Další velmi oblíbený sendvič v Americe je _Monte Christo sandwich {xml:lang="en"}_. Ten je tak jednoduchý, že mě až udivuje, že jsem ho nevynaleznul já.
 
-Recept na něj nepotřebujete. Potřebujete jen dva máslem pomáznuté toastové chleby. Na každý položíte plátek šunky a navrch plátek sýra. Cheby složíte, pomáznete máslem a na gridlu nebo na ploché pánvičce, či pod grilem je pečete dozlatova než se roztaví sýr.
+Recept na něj nepotřebujete. Potřebujete jen dva máslem pomáznuté toastové chleby. Na každý položíte plátek šunky a navrch plátek sýra. Cheby složíte, pomáznete máslem a na gridlu nebo na ploché pánvičce, či pod grilem je pečete dozlatova, než se roztaví sýr.
 
 {class="example"}
 
@@ -113,5 +113,5 @@ Pravý americký _BLT {xml:lang="en"}_ je ale pěkný prevít, protože musí b�
 
 {class="example"}
 
-V Chicagu, kde lidé mají rádi kyselé okurky k tomuto sendviči přidávají kyselou okurku, ale můžete k němu dát i coleslaw. Tím, že je všechno v sendivči tak křupavé, tak se s ním při jídle dost zasviníte, ale to k pravemu americkému _BLT {xml:lang="en"}_ patří.
+V Chicagu, kde lidé mají rádi kyselé okurky k tomuto sendviči přidávají kyselou okurku, ale můžete k němu dát i coleslaw. Tím, že je všechno v sendvči tak křupavé, tak se s ním při jídle dost zasviníte, ale to k pravemu americkému _BLT {xml:lang="en"}_ patří.
 
