@@ -7,11 +7,11 @@
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
 
-{kw="jídla a jídelní lístky, děti"}
+{kw="jídla a jídelní lístky, děti, případová studie"}
 
 Nepodceňujte inteligenci dětí. Některé děti, jako například moje vnoučata, chodí do restaurací možná častěji než někteří zaměstnanci v pohostinství. Byli byste překvapeni, jaké mají gastronomické znalosti.
 
-Co se týká dětských [jídelních lístků][1], tak vstupem do EU se situace v Česku a na Slovensku zkomplikuje tím, že většina rodin s dětmi budou zahraniční hosté. V Česku a na Slovensku se o tom taktně mlčí, ale tak jako i dospělí hosté jsou děti na západě daleko náročnější než ve východní Evropě.
+Co se týká dětských [jídelních lístků][1], tak vstupem do EU se situace v Česku a na Slovensku zkomplikuje tím, že většina rodin s dětmi budou zahraniční hosté. V Česku a na Slovensku se o tom taktně mlčí, ale tak jako dospělí hosté jsou i děti na západě daleko náročnější než ve východní Evropě.
 
 Jak víme, tak je jídlo víceméně zvyk a u dětí tomu není jinak. Uvažme, že ani u našich vlastních dětí se nám nedaří uspokojit jejich přání a chutě, a teď budeme muset jednat se zahraniční dětskou klientelou. 
 
@@ -23,13 +23,13 @@ Nejlepším zdrojem inspirace dětských jídel jsou jesle, školky nebo dětsk�
 
 ## Dítě jako host
 
-Největší chybou některých restauratérů je, že mnohdy podceňují inteligenci, vkus, chu,ť a hlavně návyky jejich dětských hostů. Ty se bohužel u dětí mění daleko více než u dospělých lidí. Možná jste se již povšimli toho, že dospělého hosta můžete o něčem přesvědčit dobrým marketingem, nebo ho něčím oblafnout, ale u dětí se vám to hned tak nepodaří.
+Největší chybou některých restauratérů je, že mnohdy podceňují inteligenci, vkus, chuť, a hlavně návyky dětských hostů. Ty se bohužel u dětí mění daleko více než u dospělých lidí. Možná jste se již povšimli toho, že dospělého hosta můžete o něčem přesvědčit dobrým marketingem, nebo ho něčím oblafnout, ale u dětí se vám to hned tak nepodaří.
 
 Mám vnoučata, dvojčata, kterým je teď 5 let. Chodí relativně často do restaurací a dá se říci, že jsou do jisté míry jsou již plnohodnotní hosté. Mají své oblíbené restaurace, u kterých dokonce již před vstupem vědí, co si objednají a v jejich rozhodnutí je těžké je zviklat.
 
 Jsou dokonce již tak sofistikovaní, že vědí, ve které restauraci jejich oblíbené jídlo dělají lépe. Emily má například ráda těstoviny, ale nejen ledajaké. Musí to byt penne s marinara omáčkou. Přestože umí jíst vidličkou a nožem, tak jí k tomu musíte místo nože dát polévkovou lžíci a kus italského chleba. Nevím, jak na to Emilka přišla, ale nejspíše se musela dívat do některých knih v mé knihovně, protože ve skutečnosti ty špagety jí podle bontonu.
 
-Harry je odborník na pizzu, ale také nejen tak na ledajakou. Musí to být sýrová pizza s rajčaty a případně se salámem pepperoni. Okraj pizzy, kterému se anglicky říká _crust {xml:lang="en"}_, musí být dobře propečený. Harry také ví, že pizza se jí rukou a ne vidličkou a nožem.
+Harry je odborník na pizzu, ale také nejen na jen tak ledajakou. Musí to být sýrová pizza s rajčaty a případně se salámem pepperoni. Okraj pizzy, kterému se anglicky říká _crust {xml:lang="en"}_, musí být dobře propečený. Harry také ví, že pizza se jí rukou a ne vidličkou a nožem.
 
 Prostě moje vnoučata, kterým říkám „hajzlíci“, jsou takoví mí pokusní králíci, na kterých si ověřuji teorie o dětech a o dětských gastronomických zvycích.
 
@@ -43,15 +43,11 @@ Základem všeho je návratnost této investice. Řešit to tak, že [jídelní 
 
 Samostatné dětské [jídelní lístky][1] musí být hlavně barevné, doplněné grafikou populárních postav dětských knížek nebo televizních programů. U toho musíme být ale opatrní, abychom neporušili autorské právo. V Americe jsou to většinou postavičky z animovaných grotesek, ale podobné figurky jsou populární jak v Česku, tak i na Slovensku.
 
-{id="potrebujeme\_detske\_jidelni_listky"}
-
 ## Potřebujeme dětské jídelní lístky?
 
-Češi a Slováci jsou známi tím, že musí mít všechno co kde vidí (to není z mé hlavy). Podle mě to ale začíná uvážením, zda dětské [jídelní lístky][1] skutečně potřebujeme.
+Češi a Slováci jsou známi tím, že musí mít hned všechno co vidí (to není z mé hlavy). Podle mě to ale začíná úvahou, zda dětské [jídelní lístky][1] skutečně potřebujeme.
 
-To že některé zahraniční restaurace, anebo hotely dětské lístky používají neznamená, že bychom je museli mít i my. Nesmíme zapomínat na to, že konkrétně v Americe průměrná rodina se dvěma nebo třemi malými dětmi ve věku od 2 do 5 let, si může dovolit návštěvu restaurace dvakrát i vícekrát týdně. A to nejsou nějací milionáři nebo horních deset tisíc, proto jsou zde [jídelní lísky][1] běžné. _What a country! {xml:lang="en"}_
-
-No a teď si to promítněte na naše české či slovenské poměry. Určitě mě někdo hned upozorní na to, že to je něco o čem se nesmí mluvit nahlas.
+To, že některé zahraniční restaurace nebo hotely dětské lístky používají neznamená, že bychom je museli mít i my. Nesmíme zapomínat na to, že konkrétně v Americe průměrná rodina se dvěma nebo třemi malými dětmi ve věku od 2 do 5 let, si může dovolit návštěvu restaurace dvakrát i vícekrát týdně. A to nejsou nějací milionáři nebo horních deset tisíc, proto jsou zde dětské [jídelní lísky][1] běžné. _What a country! {xml:lang="en"}_
 
 {id="vekova\_hranice\_deti"}
 
@@ -65,7 +61,7 @@ Pokud jsou děti tak malé, že neumí číst, tak jim třeba i z pracně vytvo�
 
 Tudíž nákladné dětské [jídelní lístky][1] jsou podle mě v některých restauracích nesmysl a vyhozené peníze. Snaha vytvářet nějaké „slavnostní dětské menu“ je úplná blbost.
 
-Děti, i ty které jsou častými návštěvníky restaurací, jsou daleko netrpělivější než dospělí lidé, proto je musíme také něčím zabavit.
+Děti, i ty které jsou častými návštěvníky restaurací, jsou daleko víc netrpělivé než dospělí lidé, proto je musíme také něčím zabavit.
 
 ## Zabavení dětí
 
@@ -79,15 +75,13 @@ V Česku nebo na Slovensku se tím pravděpodobně nikdo zatím nezabývá, ale 
 
 ## Velikost dětských porcí
 
-Není nic neobvyklého, že si i dospělí nebo starší lidé objednávají poloviční porce. Některá jídla nelze však půlit. Proto je běžnou praxí jídla, která je možno podávat v polovičních porcích označit například hvězdičkou a na lístek napsat, že tato jídla je možno obdržet v polovičních (dětských) porcích. Tím zabijeme dvě mouchy jednou ranou.
+Není nic neobvyklého, že si i dospělí nebo starší lidé objednávají poloviční porce. Některá jídla však nelze půlit. Proto je běžnou praxí jídla, která je možno podávat v polovičních porcích označit například hvězdičkou a na lístek napsat, že tato jídla je možno obdržet v polovičních (dětských) porcích. Tím zabijeme dvě mouchy jednou ranou.
 
 {class="important"}
 
 Pro poloviční jídla musíme mít vypracované speciální kalkulace.
 
 Na dětském [jídelním lístku][1] je zbytečné uvádět například všechny pizzy které existují, protože děti mají v tomto ohledu limitovaná přání. To samé platí i o těstovinách. Například v Americe každé malé dítě ví, co jsou to makarony, případně makarony se sýrem, protože na tom vyrostly.
-
-{id="testoviny\_na\_detskych\_jidelnich\_listcich"}
 
 ## Těstoviny na dětských jídelních lístcích
 
@@ -99,7 +93,7 @@ V našem případě, než ty makarony donesli, tak se ti moji „hajzlíci“ sa
 
 Servírka, jak je tomu v Americe zvykem, se za chvilku přišla zeptat, jestli je vše v pořádku. Podle mě nebyla moc inteligentní, protože mohla vidět, že se děti toho jídla ani nedotkly. Řekl jsem ji že to v pořádku není.
 
-Načež tomu ta „jídlonoška“ dala korunu tím, že místo aby se omluvila a nabídla těm dětem něco jiného řekla, že to u nich pod tímto názvem takto podávají.
+Načež tomu ta „jídlonoška“ dala korunu tím, že místo aby se omluvila a nabídla dětem něco jiného, tak řekla, že to u nich pod tímto názvem takto podávají.
 
  [1]: /jidelni_listek
 
