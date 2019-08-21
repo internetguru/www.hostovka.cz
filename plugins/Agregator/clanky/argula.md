@@ -9,17 +9,17 @@
 
 {kw="jídla a jídelní lístky, salát, recept"}
 
-Roketa setá nebo také _rukola_, je salát známý také pod výrazy _rugula_ a _rugola_ nebo pod francouzským _roquette {xml:lang="fr"}_ či anglickým _arugula {xml:lang="en"}_. Název salátu je odvozený od latinského slova _eruca {xml:lang="la"}_, což znamená druh zelí. Je to listová zelenina z rodiny _cruciférae {xml:lang="la"}_ podobná špenátu nebo řeřiše. Používá se často ve studené kuchyni k ozdobě jídel.
+Roketa setá nebo také _rukola_, je salát známý také pod výrazy _rugula_ a _rugola_ nebo pod francouzským _roquette {xml:lang="fr"}_ či anglickým _arugula {xml:lang="en"}_. Název salátu je odvozený od latinského slova _eruca {xml:lang="la"}_, což znamená druh zelí. Je to listová zelenina z rodiny _cruciférae {xml:lang="la"}_ podobná špenátu nebo řeřiše. Používá se často ve studené kuchyni k [ozdobě jídel][3].
 
 {class="example"}
 
 Rukola má větší obsah betakarotenu a vitamínu C než ostatní listové zeleniny.
 
-Rukola má malé ploché lístky s dlouhými stonky, čímž se podobá jejímu náhražku – pampelišce. Má výraznou pepřovou chuť a vůni. Čím je vzrostlejší, tím má výraznější hořčicovou chuť.
+Rukola má malé ploché lístky s dlouhými stonky, čímž se podobá její náhražce – pampelišce. Má výraznou pepřovou chuť a vůni. Čím je vzrostlejší, tím má výraznější hořčicovou chuť.
 
 V Americe se setkáte s různými verzemi rukola salátu. Většinou se přidává ke směsím listových salátů spolu s hlávkovým salátem, špenátem apod. Níže je uveden typický recept na rukola salát s gorgonzolou.
 
-Rukolu smícháme s jinými salátovými listy – hlávkovým salátem, špenátem apod. Pro každou porci salátu přidáme:
+Rukolu smícháme s dalšími salátovými listy – hlávkovým salátem, špenátem apod. Pro každou porci salátu přidáme:
 
   * 1/2 šálku vlašských ořechů,
   * 1/2 šálku gorgonzoly a
@@ -29,4 +29,4 @@ Hotový salát podáváme s italským [dresinkem][1] nebo [zálivkou][2].
 
  [1]: /zalivka_dresink#dresinky
  [2]: /zalivka_dresink#zalivka
-
+ [3]: /zdobeni
