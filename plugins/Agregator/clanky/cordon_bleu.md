@@ -7,11 +7,11 @@
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
-{kw="gastronomie, recept, Francie"}
+{kw="gastronomie, recept, škola, Francie"}
 
 Cordon Bleu může mít několik významů. V Americe si pod názvem Cordon Bleu hned každý představí telecí řízek plněný šunkou a sýrem. Cordon Bleu je ale také jedna z nejpopulárnějších francouzských kuchařských škol.
 
-Jídlo Cordon Bleu je populární hlavně proto, že jeho příprava je velice jednoduchá. Samotný řízek je velice chutný a hlavně atraktivní, proto se velmi často objevuje na amerických jídelních lístcích.
+Jídlo Cordon Bleu je populární hlavně proto, že je jeho příprava velimi jednoduchá. Samotný řízek je velice chutný a hlavně atraktivní, proto se často objevuje na amerických jídelních lístcích.
 
 Popularitě Cordon Bleu přispívá i jeho francouzský název. Málokdo ve skutečnosti zná původ jeho receptu a pravý význam jeho názvu již téměř nikdo. Pokud je mi známo, tak recept na tento řízek vzniknul ve francouzské kuchařské škole stejného jména. O té vám však mohu napsat jen to, co jsem se o ní dočetl v jedné z jejich knih.
 
@@ -27,23 +27,23 @@ Název tohoto časopisu nebyl vybrán náhodně. Byl odvozen od francouzského �
 
 Titul Cordon-bleu byl během 18. století udělován tomu, kdo mimořádně vynikal ve svém oboru, nejčastěji kuchařům.
 
-Distel si uvědomila že ještě lepší způsob učit vaření by byl v dobře organizovaných hodinách. V těch by studenti viděli svého učitele při práci a sami by připravovali jídla pod jeho přísným dohledem.
+Distel si uvědomila že ještě lepší způsob učit vaření by byl v dobře organizovaných hodinách. V těch by studenti viděli učitele při práci a sami by připravovali jídla pod jeho přísným dohledem.
 
 K vyučování v těchto kurzech byli přizvání profesionální kuchaři. Mezi prvními to byl Chef Barthélémy, ředitel profesionálního cukrářského magazínu, Chef Charles Poulain, bývalý ředitel známé pařížské cateringové společnosti a Chef August Colombié, jehož kuchařské knihy byly na přelomu století velice populární.
 
-První Cordon-bleu kurz začal 14. ledna 1896, v Paříži v Palais Royal. Jeho pořadatelé se a pýchou pochlubili nejnovější kuchařskou technologií – v jedné kuchyni byla instalována elektřina!
+První kurz začal 14. ledna 1896, v Paříži v Palais Royal. Jeho pořadatelé se a pýchou pochlubili nejnovější kuchařskou technologií – v jedné kuchyni byla instalována elektřina!
 
 Kuchařské kurzy byly okamžitý úspěch. Nejdříve byl dáván dán na praktické vaření. Ale již v říjnu 1896 bylo v časopise oznámeno, že bude zahájen kurz klasického profesionálního vaření. Tyto počáteční kurzy byly pořádány pod vedením jednoho z prominentních kuchařů té doby, Charlese Drissense, kterému byl udělen titul _le Directeur des Cours de Cuisine du Cordon-Bleu {xml:lang="fr"}_.
 
-V dalších desetiletích Cordon Bleu nejenom že rostla, ale také se měnila. Takže z instituce, která původně sloužila jen Pařížanům se stala školou s mezinárodním významem. Kolem roku 1905 se na školu přicházeli učit francouzské kuchařské umění studenti i z tak vzdálených zemí jako je Japonsko. V článku londýnského Daily News, ze dne 16 listopadu 1927, ve kterém autor popisuje návštěvu pařížské školy se píše: „Není nic neobvyklého, aby se v jedné třídě sešli studenti osmi rozdílných národností.“
+V dalších desetiletích Cordon Bleu nejenom že rostla, ale také se měnila. Takže z instituce, která původně sloužila jen Pařížanům se stala školou s mezinárodním významem. Kolem roku 1905 se na školu přicházeli učit francouzské kuchařské umění studenti i z tak vzdálených zemí jako je Japonsko. V článku londýnského _Daily News {xml:lang="en"}_, ze dne 16 listopadu 1927, ve kterém autor popisuje návštěvu pařížské školy se píše: „Není nic neobvyklého, aby se v jedné třídě sešli studenti osmi rozdílných národností.“
 
 Ti, kteří navštěvovali školu začátkem 20. století, měli možnost se učit od velkých mistrů kuchařského umění té doby, jako například Henri-Paul Pellaprat. Jako autor a učitel se Pellaprat velice zasloužil o upevnění postavení Cordon Bleu, jako vedoucí světové kuchařské školy.
 
 Po druhé Světové válce začala škola Cordon Bleu pod vedením Madame Elisabeth Brassart opět vzrůstat. Přijímala generaci nových studentů, přepracovala curriculum, a starala se o publicitu a uznání školy.
 
-V padesátých letech Le Cordon Bleu reprezentovala nejenom nejvyšší stupeň kulinářské výuky, ale stala se jedním ze symbolů Paříže. Dokonce i Audrey Hepburnová, představitelka Sabriny ve filmu stejného jména, považovala za nutné tuto školu absolvovat. Scéna, ve které se Sabrina učí dělat vaječnou omeletu byla dalším důkazem zájmu o francouzskou kuchyni a o školu Cordon Bleu.
+V padesátých letech se Cordon Bleu reprezentovala nejenom nejvyšší stupeň kulinářské výuky, ale stala se jedním ze symbolů Paříže. Dokonce i Audrey Hepburnová, představitelka Sabriny ve filmu stejného jména, považovala za nutné tuto školu absolvovat. Scéna, ve které se Sabrina učí dělat vaječnou omeletu byla dalším důkazem zájmu o francouzskou kuchyni a o školu Cordon Bleu.
 
-Co se týká výuky francouzských jídel a moučníků, Cordon Bleu nemá konkurenci. Reputace školy je založena na profesionální kvalitě přednášených předmětů. Začátečníci se učí základům kuchařské profese a pokročilým kuchařům je dána možnost seznámit se s vyznamenanými francouzskými kuchaři pracujícími v několika hvězdičkových restauracích uvedených v Michelinu.
+Co se týká výuky francouzských jídel a moučníků, tak Cordon Bleu nemá konkurenci. Reputace školy je založena na profesionální kvalitě přednášených předmětů. Začátečníci se učí základům kuchařské profese a pokročilým kuchařům je dána možnost seznámit se s vyznamenanými francouzskými kuchaři pracujícími v několika hvězdičkových restauracích uvedených v Michelinu.
 
 O této škole by se dalo psát ještě více, ale doufám že tímto krátkým popisem jsem z odpověděl na otázku, co je Cordon Bleu. Jako zvláštní bonus přikládám recept na řízky Cordon Bleu.
 
@@ -68,7 +68,7 @@ Postup přípravy:
 
   1. Tenké telecí řízky, nejlépe obdélníkové, rozklepeme na velikost nejméně 16 × 12 cm.
   2. Řízky slabě naklepeme nebo propícháme [tenderizerem][1], rozložíme na stůl, a na polovinu každého řízku položíme jeden plátek šunky a jeden plátek sýra.
-  3. Poté je Přiklopíme druhou polovinu řízku a okraje stiskneme.
+  3. Poté je přiklopíme druhou polovinu řízku a okraje stiskneme.
   4. Řízky nesolíme ani nepepříme, chuť řízkům dodá šunka a sýr.
   5. Takto upravené řízky můžeme do doby podávání zabalit do průhledné fólie a uložit v ledničce.
   6. Vejce rozšleháme s vodou a osolíme.
@@ -84,8 +84,9 @@ Pokud nemáme dostatečně velké řízky, použijeme dvojnásobný počet menš
 
 Závěrem se musím zmínit o tom, že v Česku se tento steak někdy objevuje pod názvem Gordon Bleu, což není správné. Zase takovou vědu bych z toho ale také nedělal, pokud je pod názvem krátce popsátno oč se jedná.
 
-Pokud ale chcete ochutnat relativně dobrý řízek Cordon Bleu a jiná mezinárodně populární jídla připravovaná na objednávku z čerstvých prvotřídních místně dosažitelných potravin podle mých vyzkoušených receptů, tak mohu doporučit moje dítě restauraci Steakgrill v Račiněvsi u Roudnice.
+Pokud ale chcete ochutnat relativně dobrý řízek Cordon Bleu a jiná mezinárodně populární jídla připravovaná na objednávku z čerstvých prvotřídních místně dosažitelných potravin podle mých vyzkoušených receptů, tak mohu doporučit moje dítě [restauraci Steakgrill][3] v Račiněvsi u Roudnice.
 
  [1]: /tenderizovani
  [2]: /zdobeni
+ [2]: https://www.steakgrill.cz
 
