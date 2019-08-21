@@ -15,7 +15,7 @@ Guláš, anglicky _goulash {xml:lang="en"}_ nebo také _hungarian beef stew {xml
 
 Původní guláš byla víceméně polévka maďarských kovbojů, pastevců krav, kteří si říkali gulášové. Základní recept na guláš byl velice jednoduchý.
 
-  1. Drobně krájená cibule, které muselo být stejné množství jako masa, která se osmažila v kotli na trošce omastku do zlatova.
+  1. Drobně krájená cibule, které muselo být stejné množství jako masa, se osmažila v kotli na trošce omastku do zlatova.
   2. Pak se přidalo na kostky krájené maso, které se orestovalo, osolilo, zasypalo maďarskou paprikou, zalilo trochou vody, a dusilo v kotli nad otevřeným ohněm až doměkka.
 
 Tento guláš se ničím nezahušťoval, protože k jeho zahuštění stačila cibule. Přidávání česneku a rajského protlaku případně zahušťování kváskem nebo jíškou přišlo až později. Používání papriky a kyselé smetany do Maďarska vlastně přinesli Turci, kteří po dobu 150 let Maďarsko okupovali.
@@ -26,11 +26,11 @@ Svůj guláš mají Rakušané (vídeňský guláš), Bulhaři, Rumuni, Slováci
 
 Je to jednak obyčejný hovězí guláš, uherský guláš, moravský guláš, plzeňský guláš, karlovarský guláš, znojemský guláš, cikánský guláš, debrecínský guláš, jemný hovězí guláš, bratislavský guláš a guláš podle Petra Voka. Pak máme také mexický guláš, guláš oregano, a dokonce i orientální guláš.
 
-V Česku, když někdo něco splácá dohromady a nasype do toho haldu papriky, tak tomu dá jméno guláš a má hotovo. Proto máme také kuřecí guláš, krůtí guláš, vepřový guláš, buřtový guláš a nevím ještě jaký další. Aby ani vegetariáni nepřišli zkrátka, tak máme i bramborový guláš.
+Když někdo něco v Česku splácá dohromady a nasype do toho haldu papriky, tak tomu dá jméno guláš a má hotovo. Proto máme také kuřecí guláš, krůtí guláš, vepřový guláš, buřtový guláš a nevím ještě jaký další. Aby ani vegetariáni nepřišli zkrátka, tak máme i bramborový guláš.
 
-Prostě gulášů máme tolik, až to není hezké. Zlé jazyky tvrdí, že když při vstupu do Evropské Unie je nebudeme moci používat, takže s naší účastí může celá EU zapomenout.
+Prostě gulášů máme tolik, až to není hezké. Zlé jazyky tvrdí, že když je po vstupu do Evropské Unie nebudeme moci používat, takže s naší účastí může celá EU zapomenout.
 
-Karlovarskou Becherovku se nám již podařilo zašantročit, ale slivovici, kterou ve světě stejně nikdo nepije, si vzít také nedáme. Dokonce vyrábíme i košer slivovici, což je tedy [chucpa][2]. Nedáme si ale vzít ani takovou světoznámou lahůdku jako jsou utopenci nebo olomoucké syrečky, i kdybychom měli EU vyhlásit válku.
+Karlovarskou Becherovku se nám již podařilo zašantročit, ale slivovici, kterou ve světě stejně nikdo nepije, si vzít také nedáme. Dokonce vyrábíme i košer slivovici, což je tedy [chucpa][2]. Nedáme si ale vzít ani takovou světoznámou lahůdku jako jsou utopenci nebo olomoucké syrečky, i kdybychom EU měli vyhlásit válku.
 
 ## Guláš na celý týden
 
@@ -44,7 +44,7 @@ Ve čtvrtek měl guláš nejenom štych, ale byl již tak trochu nakyslý. Stač
 
 No a v pátek se přidáním několika ostrých papriček dal udělat mexický guláš atd. Všechna má tajemství vám ale vyzradit nemohu, a tak vám přesné receptury na zbývající dny nedám. Nicméně vidíte, že si můžete poradit.
 
-Musím se ale přiznat, že jsem v Americe všechny ty „české“ guláše také s úspěchem dělal. Musel jsem ale každý z nich vařit denně čerstvý, protože americké maso je tak kvalitní, že by se po druhém ohřátí úplně rozpadlo.
+Musím se ale přiznat, že jsem v Americe všechny „české“ guláše také s úspěchem dělal. Musel jsem ale každý z nich vařit denně čerstvý, protože americké maso je tak kvalitní, že by se po druhém ohřátí úplně rozpadlo.
 
 Jestli máte také nějaké triky, kterými by se EU dala oblafnout, tak mi je neváhejte napsat. Dejte lidem to, co chtějí a co jim patří!
 
