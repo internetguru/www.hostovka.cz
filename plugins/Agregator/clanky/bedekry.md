@@ -9,9 +9,9 @@
 
 {kw="co-kdy-kde, průvodce, kuchařské čepice"}
 
-Bedekr je knižní cestovní turistický průvodce nebo cestopis. Bedekr je dalším důkazem, že se cestování neboli cestovní ruch nedá oddělit od pohostinství. Bedekr, který by neuváděl kde se může člověk při svých cestách najíst by asi dlouho nepřežil.
+Bedekr je knižní cestovní turistický průvodce nebo cestopis. Bedekr je dalším důkazem, že se cestování neboli cestovní ruch nedá oddělit od pohostinství. Kdyby Bedekr neuváděl, kde se může člověk při svých cestách najíst, tak by asi dlouho nepřežil.
 
-Mimo bedekrů existuje celá řada jak místních, tak i mezinárodních průvodců restauracemi, a to pod různými názvy. Výběr restaurací v bedekru bohužel nebývá ničím podložen. O tom, kde se dobře najíst se také dočtete na různých webových stránkách. Jsou to ale jen subjektivní názory lidí, kteří většinou do restaurací nechodí tak často, aby se mohli nazývat sofistikovanými hosty.
+Mimo bedekrů existuje celá řada jak místních, tak i mezinárodních průvodců restauracemi, a to pod různými názvy. Výběr restaurací v bedekru bohužel nebývá ničím podložen. O tom, kde se dobře najíst, se také dočtete na různých webových stránkách. Jsou to ale jen subjektivní názory lidí, kteří většinou do restaurací nechodí tak často, aby se mohli nazývat sofistikovanými hosty.
 
 {class="example"}
 
@@ -21,18 +21,17 @@ Ani jeden z oficiálních bedekrů neuvádí restaurace, které jsou tak špatn�
 
 Proto bych chtěl studentům Hostovky říci, že by na bedekry neměli moc spoléhat. Bohužel se člověk nemůže spoléhat ani na doporučení přátel, a ani na doporučení některých „rádoby“ [gurmánů][1].
 
-
 ## České bedekry
 
 České bedekry hodnotí restaurace většinou jen podle cen. V Americe je to běžné, protože tam dostanete to, za co jste si zaplatili. To ale v Česku neplatí.
 
-Některé bedekry uvádějí zaokrouhlené ceny od 200 Kč do 1100 Kč, v jiných, které se snaží být přesnější, tak uvádí ceny od 450 Kč do 1850 Kč. I když nejsou ceny vylhané, tak musím říci, že jsou velice nepřesné.
+Některé bedekry uvádějí zaokrouhlené ceny od 200 Kč do 1 100 Kč, v jiných, které se snaží být přesnější, tak uvádí ceny od 450 Kč do 1 850 Kč. I když nejsou ceny vylhané, tak musím říci, že jsou velice nepřesné.
 
-Některé restaurace uváděné například pod cenovou skupinou 1000 Kč, vám vyúčtují 1600 Kč jen za kaviár. To ani nemluvím o dalších _překvapeních_ a o cenách vína a ostatních nápojů.
+Některé restaurace uváděné například pod cenovou skupinou 1 000 Kč, vám vyúčtují 1 600 Kč jen za kaviár. To ani nemluvím o dalších _překvapeních_ a o cenách vína a ostatních nápojů.
 
 {class="example"}
 
-Některé bedekry a cestovní průvodci na západě vyznačují ceny jídel znakem pro dolary `$$$$`, a kvalitu jídel a nápojů kuchařskými čepicemi (anglicky _toque {xml:lang="en"}_). Někteří hodnotitelé jídel označují kvalitu, lépe řečeno chuť jídel jazýčky. Čím více čepic, nebo čím více jazýčků, tím lepší kvalita jídla.
+Některé bedekry a cestovní průvodci na západě vyznačují ceny jídel znakem pro dolary `$$$$`, a kvalitu jídel a nápojů kuchařskými čepicemi (anglicky _toque {xml:lang="en"}_). Někteří hodnotitelé jídel označují kvalitu či lépe řečeno chuť jídel jazýčky. Čím více čepic, nebo čím více jazýčků, tím lepší kvalita jídla.
 
 ## Odbočka ke kuchařským čepicím
 
@@ -46,7 +45,7 @@ Nevím, jestli je to snaha se lišit, nebo jestli je to projev demokracie, ale n
 
 V Americe se nepřikrytá hlava při přípravě potravin pokutuje. _What a country! {xml:lang="en"}_
 
-Pokutování je například i v Kazachstánu. Tam jsem se setkal s tím, že místní kuchařky nosili velice pracně vykrajované (kroužkované) plátěné a naškrobené čepice. Výška čepic byla v zásadě stejná, ale některé byly přímo umělecká díla a každá kuchařka byla na svoji čepici velice pyšná.
+Pokutování je například i v Kazachstánu. Tam jsem se setkal s tím, že místní kuchařky nosily velice pracně vykrajované (kroužkované) plátěné a naškrobené čepice. Výška čepic byla v zásadě stejná, ale některé čepice byly přímo uměleckými díly a každá kuchařka byla na svoji čepici velice pyšná.
 
 ## Hodnocení podle hvězdiček
 
@@ -54,6 +53,5 @@ Abych vám řekl pravdu, tak na hvězdičky také nevěřím. Nevěřil jsem hv�
 
 Jediné hvězdy, kterým věřím, jsou hvězdy na nebi. Nevěřím ale tomu, že příznivá konstelace hvězd má vliv na kvalitu jídla, nápojů a servisu. Proto k označení kvality jídel a servisu a případně cen, budu ještě hodně dlouho pomyslně používat naše bývalé cenové skupiny.
 
- [1]: /gastronomove#gurman
- [2]: /kucharske_tituly#sefkuchar
-
+[1]: /gastronomove#gurman 
+[2]: /kucharske_tituly#sefkuchar
