@@ -17,9 +17,9 @@ Tento umělec, spisovatel, a nesmírně nadaný kuchař, jeden z největších i
 
 Byl to právě Carême kdo zavedl systém do tehdejší francouzské kuchyně, popsaný v jeho knize _L'Art de la Cuisine Française {xml:lang="fr"}_. Zavedl do kuchyní hygienu a kuchaře pozvedl z _otroctví_ na stupeň umělců.
 
-Carêmův otec, který zplodil dvacet pět dětí, se je musel snažit dostat z domu co nejrychleji. Marie-Antoine nebyl výjimkou, a tak byl ve věku osmi let vyhoštěn z domova. Musel pracovat jako pomocník v kuchyni a myč nádobí. Nicméně tento někdejší myč nádobí později připravoval jídla pro mnoho korunovaných evropských hlav.
+Carêmův otec, který zplodil dvacet pět dětí, se je musel snažit dostat z domu co nejrychleji. Marie-Antoine nebyl výjimkou, a tak byl ve věku osmi let vyhoštěn z domova. Musel pracovat jako pomocník v kuchyni a umývač nádobí. Nicméně tento někdejší umývač nádobí později připravoval jídla pro mnoho korunovaných evropských hlav.
 
-Carêmův první zaměstnavatel byl slavný cukrář Bailly, pro kterého Carême vytvořil velké, v té době v celé Paříži populární cukrářské kreace zvané _pièces montées {xml:lang="fr"}_.
+Carêmův první zaměstnavatel byl slavný cukrář Bailly, pro kterého Carême vytvořil velké v té době v celé Paříži populární cukrářské kreace zvané _pièces montées {xml:lang="fr"}_.
 
 Carêmovy umělecké výtvory byly dělány z různých těst, konzervovaného ovoce, krémů, a šerbetů. Během práce pro Baillyho se naučil číst a dá se říci, že četl vše, co se mu dostalo do ruky.
 
@@ -31,5 +31,4 @@ Carême byl první kdo omezil dosud obrovská menu pouze na polévku, pečeni se
 
 Carêmovo jméno žije v knihách které napsal a v mimořádných jídlech které vytvořil. Je uznáván jako největší kuchař všech dob a zároveň je znám také jako jeden z nejvznětlivějších. Ale když byli králové, princové a věhlasní státníci ochotni bojovat za to, aby si Carêma ve své kuchyni udrželi, tak komu záleželo na jeho vznětlivosti. Když umíral, tak se údajně posadil na posteli a zakřičel: „Zamíchejte s tím kastrolem!“
 
- [1]: /jidelni_listek
-
+[1]: /jidelni_listek
