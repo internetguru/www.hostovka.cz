@@ -13,20 +13,18 @@ Roketa setá nebo také _rukola_, je salát známý také pod výrazy _rugula_ a
 
 {class="example"}
 
-Rukola má větší obsah betakarotenu a vitamínu C než ostatní listové zeleniny.
-
-Rukola má malé ploché lístky s dlouhými stonky, čímž se podobá její náhražce – pampelišce. Má výraznou pepřovou chuť a vůni. Čím je vzrostlejší, tím má výraznější hořčicovou chuť.
+Rukola má malé ploché lístky s dlouhými stonky, čímž se podobá její náhražce – pampelišce. Má výraznou pepřovou chuť a vůni. Čím je vzrostlejší, tím má výraznější hořčicovou chuť. Rukola má větší obsah betakarotenu a vitamínu C než ostatní listové zeleniny.
 
 V Americe se setkáte s různými verzemi rukola salátu. Většinou se přidává ke směsím listových salátů spolu s hlávkovým salátem, špenátem apod. Níže je uveden typický recept na rukola salát s gorgonzolou.
 
 Rukolu smícháme s dalšími salátovými listy – hlávkovým salátem, špenátem apod. Pro každou porci salátu přidáme:
 
-  * 1/2 šálku vlašských ořechů,
-  * 1/2 šálku gorgonzoly a
+  * 1/2 šálku vlašských ořechů, 
+  * 1/2 šálku gorgonzoly a 
   * 1/2 zeleného jablka krájeného na plátky.
 
 Hotový salát podáváme s italským [dresinkem][1] nebo [zálivkou][2].
 
- [1]: /zalivka_dresink#dresinky
- [2]: /zalivka_dresink#zalivka
- [3]: /zdobeni
+[1]: /zalivka_dresink#dresinky 
+[2]: /zalivka_dresink#zalivka 
+[3]: /zdobeni 
