@@ -17,19 +17,18 @@ V Americe se původně výraz _barbecue {xml:lang="en"}_ (zkrácený na _BBQ {xm
 
 {class="example"}
 
-Celá zvířata byla napichována na rožeň od _barbe {xml:lang="fr"}_ až po _que {xml:lang="fr"}_, neboli od vousů až po ocas. Z těchto dvou francouzských slov pak vznikl výraz barbecue.
+Celá zvířata byla napichována na rožeň od vousů (francouzsky _barbe {xml:lang="fr"}_) až po ocas (francouzsky _que {xml:lang="fr"}_). Z těchto dvou francouzských slov pak vznikl výraz _barbecue {xml:lang="en"}_.
 
 Do Ameriky tuto metodu zavedli francouzští lovci. Odtud se rychle rozšířila i do sousedních zemí. Dnes je tento výraz používán téměř po celém světě.
 
 ## Správné grilování
 
-Při americkém způsobu barbecue se maso griluje buď venku nebo v kuchyni na rožni, na grilu pod salamandrem nebo i v troubě. Maso se potírá marinádou nebo omáčkou označovanou prostě jako _barbecue {xml:lang="en"}_ omáčka.
+Při americkém způsobu _barbecue {xml:lang="en"}_ se maso griluje buď venku nebo v kuchyni na rožni, na grilu pod salamandrem nebo i v troubě. Maso se potírá marinádou nebo omáčkou označovanou prostě jako _barbecue {xml:lang="en"}_ omáčka.
 
-_Barbecue {xml:lang="en"}_ omáček existuje nekonečná řada. Obsahují různé druhy koření podle místní preference. Obvykle v sobě mají kečup a chili omáčku a jen velmi zřídka obsahuje cibuli nebo česek.
+_Barbecue {xml:lang="en"}_ omáček existuje nekonečná řada. Obsahují různé druhy koření podle místní preference. Obvykle v sobě mají kečup a chilli omáčku a jen velmi zřídka obsahuje cibuli nebo česnek.
 
 Zdrojem tepla při grilování může být dřevěné uhlí, zemní plyn nebo propan butan. Potraviny jsou grilovány na roštu, na rožni nebo v grilovacích kleštích, které musí být naprosto čisté.
 
 Během grilování se do potravin nepíchá. Na _barbecue {xml:lang="en"}_ se grilování změní v okamžiku, kdy potravinu začneme potírat _barbecue {xml:lang="en"}_ omáčkou. Některé potraviny jsou v této omáčce [marinovány][1] také krátce před tepelnou úpravou.
 
- [1]: /tenderizovani#marinovani
-
+[1]: /tenderizovani#marinovani
