@@ -3,7 +3,7 @@
 
 {id="paratka" ctime="2005-07-20" author="Michael Klíma" short="Párátka" mtime="2019-08-13"}
 
-# Párátka
+# Párátka na hraně etikety
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
 
@@ -25,7 +25,7 @@ O tom, zda mít či nemít párátka na stolech se nedočte ani v učebnicích s
 
 Párátka nebo správně česky _špárátka_ jsem jako učedník nenáviděl. Stojánky na párátka byly z různých materiálů, většinou porcelánové nebo skleněné. V takzvaných lepších restauracích byly stojánky stříbrné. Všechny se ale musely denně vyprazdňovat, pulírovat a doplňovat, a musím říci, že v tom nebyla žádná logika. Párátníky byly sice čisté, ale neptejte se, jak hygienická byla párátka po několikáté manipulaci.
 
-Někdy byly stojánky spojené se sirníky. Povšimněte si, že se to píše s měkkým i – nejedná o sýr, ale o sirky. Puristům toto označení vadilo a navrhovali je nazývat _zápalníky_ od správného českého slova _zápalky_. Někdy byly párátka také ve společném stojánku s hořčičníky, slánkami a pepřenkami.
+Někdy byly stojánky spojené se sirníky. Povšimněte si, že se to píše s měkkým i – nejedná o sýr, ale o sirky. Puristům toto označení vadilo a navrhovali je nazývat _zápalníky_ od správného českého slova _zápalky_. Někdy byla párátka také ve společném stojánku s hořčičníky, slánkami a pepřenkami.
 
 Dnes jsou z hygienických důvodů párátka balená individuálně, někdy napuštěná vůní máty apod. V různých zemích se už ale i od toho upouští a párátko vám podají na požádání.
 
