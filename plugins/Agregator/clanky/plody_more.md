@@ -63,7 +63,7 @@ Chladnovodní krevetky
 :   _(Pandalus borealis) {xml:lang="la"}_ žijí v Severním Atlantiku, a v Severním Pacifiku _(Pandalus jordoni) {xml:lang="la"}_. Jsou velmi malé a před jídlem se z nich nemusí odstraňovat střívka.
 
 Teplovodní krevetky
-:   ze států Mexického Zálivu, Floridy, Alabamy, Missipi, Luisiany a Texasu jsou nejčastěji označovány jako \_hnědé\_, \_bílé\_ a \_růžové\_. 
+:   ze států Mexického Zálivu, Floridy, Alabamy, Missipi, Luisiany a Texasu jsou nejčastěji označovány jako _hnědé_, _bílé_ a _růžové_. 
     
       * Nevařené _hnědé krevety_ _(Penaeus aztecus) {xml:lang="la"}_ mají hnědo-červené skořápky a jejich maso má o něco silnější chuť než krevetky bílé díky vyššímu obsahu jódu. V důsledku toho jsou hnědé krevetky zpravidla levnější než druhé dva druhy.
       * Nejdražší krevetky jsou zpravidla _krevetky bílé_ _(Penaeus setiferus) {xml:lang="la"}_. Přestože jsou specifikovány jako bílé, tak jsou ve skutečnosti některé spíše šedivé.
@@ -84,7 +84,7 @@ Na některých trzích nebo na mezinárodních jídelních lístcích se ale set
 
 Cenové srovnání musíte ale dělat na základě počtu kusů v jedné libře nebo kilogramu. Cena se může měnit od restaurace k restauraci. Nařízení o uvádění váhy porce (jako např. v Česku) je úplně nesmyslné, protože krevetky se hodnotí hlavně podle velikosti.
 
-Krevetky můžete připravovat všemi možnými způsoby od pošírování, broilování, [sotýrování][4] až po [grilování][5]¨. Do jídel jako je například Ceviche je můžeme použít i syrové. Podávají se jak teplé, tak i studené.
+Krevetky můžete připravovat všemi možnými způsoby od pošírování, broilování, [sotýrování][4] až po [grilování][5]. Do jídel jako je například Ceviche je můžeme použít i syrové. Podávají se jak teplé, tak i studené.
 
 Nejpopulárnější způsob podávání studených vařených loupaných krevetek je [krevetkový koktejl][6] (anglicky _Shrimp Cocktail {xml:lang="en"}_) s koktejlovou omáčkou. Moje nejoblíbenější jídlo z vařených loupaných krevetek je [Shrimp de Jonghe][7]. To v nejbližší době naleznete na jídelním lístku restaurace [Steakgrill][8].
 
