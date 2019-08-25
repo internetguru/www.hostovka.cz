@@ -7,9 +7,9 @@
 
 {kw="co-kdy-kde, bar, Amerika"}
 
-_Cash bar {xml:lang="en"}_, _[open bar][1] {xml:lang="en"}_, _[host bar][2] {xml:lang="en"}_ nebo _[no host bar][3] {xml:lang="en"}_ jsou slova, která většině běžných návštěvníku hotelů a restaurací nic neříkají. _Cash bar_ v přesném překladu znamená „bar za hotové“. Je to výraz, se kterým se setkáte v pohostinství a v [cateringu][4] v anglicky mluvících zemích, zejména v Americe. 
+_Cash bar {xml:lang="en"}_, _[open bar][1] {xml:lang="en"}_ , _[host bar][2] {xml:lang="en"}_ nebo _[no host bar][3] {xml:lang="en"}_ jsou slova, která většině běžných návštěvníku hotelů a restaurací nic neříkají. _Cash bar_ v přesném překladu znamená „bar za hotové“. Je to výraz, se kterým se setkáte v pohostinství a v [cateringu][4] v anglicky mluvících zemích, zejména v Americe. 
 
-_Cash bar {xml:lang="en"}_ je v zásadě opak výrazu _[open bar][1] {xml:lang="en"}_ nebo _[host bar][2] {xml:lang="en"}_, což býval dřív v Americe velký tahák. Jako studenti Hostovky byste význam těchto výrazů měli znát, abyste se jako hosté nedostali do trapné situace anebo jako hostitelé do rozporu se zákonem.
+_Cash bar {xml:lang="en"}_ je v zásadě opak výrazu _[open bar][1] {xml:lang="en"}_ nebo _[host bar][2] {xml:lang="en"}_ , což býval dřív v Americe velký tahák. Jako studenti Hostovky byste význam těchto výrazů měli znát, abyste se jako hosté nedostali do trapné situace anebo jako hostitelé do rozporu se zákonem. 
 
 {class="example"}
 
