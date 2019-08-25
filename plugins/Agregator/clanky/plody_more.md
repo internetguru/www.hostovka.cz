@@ -43,6 +43,10 @@ Mezi nejznámější plody moře patří krevetky, [krabi][1] a [mušle][2]. Nez
 
 Krevetky jsou malí mořští ráčci z rodiny desetinožců _(decapoda) {xml:lang="la"}_, protože mají deset nohou, dvě dlouhá tykadla a nemají klepeta. Krevety dorůstají do délky až 20 cm. Před uvařením jsou hnědé, šedivé až nazelenalé barvy, která se vařením změní na růžovou až červenou barvu.
 
+{class="example"}
+
+Krevety anglicky _shrimp {xml:lang="en"}_, v Británii _prawns {xml:lang="en"}_, v Italii _gamberi {xml:lang="it"}_. Větší mořské krevety jsou v mnoha řečech také známé jako _scampi {xml:lang="en"}_.
+
 Krevetky jsou něco, s čím pro jejich cenu zacházíme jako se zlatem. V domácnosti je používáme většinou jen při mimořádných příležitostech a v některých restauracích spíše jako [ozdobu][3] nebo jen doplněk některých jídel.
 
 Celé krevety přicházejí na trh buď čerstvé nebo zmrazené. Jejich velikost se udává podle počtu kusů na kilogram – velké, střední nebo malé.
