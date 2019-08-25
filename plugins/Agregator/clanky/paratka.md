@@ -1,41 +1,39 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=41.html" data-image="/files/preview/clanky/paratka/general.jpg" data-type="article"}
 
-{id="paratka" ctime="2005-07-20" author="Michael Klíma" short="Párátka" authorid="hostovka/michael_klima"}
+{id="paratka" ctime="2005-07-20" author="Michael Klíma" short="Párátka" mtime="2019-08-13"}
 
-# Párátka
+# Párátka na hraně etikety
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
 
-{kw="etika"}
+{kw="etika, párátko"}
 
-Německy Zahnstocher, anglicky toothpick, napovídá že je to něco čím by se člověk měl šťourat v zubech a proto by se tomu mělo říkat šťourátko, také už proto, že se tím někteří lidé "nepářou" a v těch zubech se šťourají bez ostychu u stolu před zraky ostatních stolovníků.
+Anglický výraz pro párátko _toothpick {xml:lang="en"}_, napovídá, že je to něco, čím by se člověk měl šťourat v zubech. Proto by se mu mělo říkat spíše šťourátko než párátko.
 
-V někdejších učebnicích etiky sice bylo psáno, že při šťourání se v zubec si člověk z ohledu na ostatní stolovníky, má zakrýt ústa jednou rukou, a pak se v těch zubech volně a nonšalantně šťourat, ale kdo už tyto učebnice čte.
+{class="example"}
 
-To ale bylo v dobách kdy byly běžné i plivátka, anglicky spitoon. Tehdy nad těmi plivátky bylo napsáno:"Neplivejte na zem", a mně jako kluka, pokud tam to plivátko nebylo, také nebylo jasné, kam vlastně se má plivat a proto mně moc nepřekvapovalo, že někteří lidé plivali na ten nápis.
+Francouzi párátkům říkají _cure-dent {xml:lang="fr"}_, což už je trochu logičtější, znamená to totiž péče o zuby. Ale mně ani to nepřipadá jako pravé označení.
 
-Francouzi párátkům říkají cure-dent, což už je trochu logičtější, protože to znamená péče o zuby ale mně ani to nepřipadá jako to pravé označení.
+## Používání párátek ve společnosti
 
-Ale ať už to byla párátka nebo správně česky špárátka, tak já se musím přiznat, že jsem je jako učedník nenáviděl.
+V někdejších učebnicích etiky je psáno, že při šťourání se v zubech si člověk bez ohledu na ostatní stolovníky, má zakrýt ústa jednou rukou. Kdo ale dnes tyto učebnice čte.
 
-V té době byla párátka v restauracích na každém stole. Stojánky na párátka byly z různých materiálů, většinou porcelánové nebo skleněné a v tak zvaných lepších restauracích stříbrné a ty se musely denně vyprazdňovat, pulírovat a doplňovat, a musím říci že žádná logika v tom nebyla.
+O tom, zda mít či nemít párátka na stolech se nedočte ani v učebnicích servisu ani v učebnicích společenského chování. V bontonu se o nich taktně mlčí.
 
-Ty párátníky byly tím pádem sice čisté, ale neptejte se jak hygienická byly ta párátka po několikáté manipulaci.
+## Párátka v restauracích
 
-Někdy ty párátníky byly spojené se sirníky. Povšimněte si, že se to píše s měkkým i, aby bylo jasné, že se nejedná o sýr, ale o sirky, což puristům také vadilo a navrhovali je nazývat "zápalníky" od správného českého slova "zápalky".
+Párátka nebo správně česky _špárátka_ jsem jako učedník nenáviděl. Stojánky na párátka byly z různých materiálů, většinou porcelánové nebo skleněné. V takzvaných lepších restauracích byly stojánky stříbrné. Všechny se ale musely denně vyprazdňovat, pulírovat a doplňovat, a musím říci, že v tom nebyla žádná logika. Párátníky byly sice čisté, ale neptejte se, jak hygienická byla párátka po několikáté manipulaci.
 
-Někdy ty sirníky byly ve společném stojánku s hořčičníky, slánkami a pepřenkami což ale v době kdy restaurace začaly za každou porci hořčice počítat zvlášť upadlo v zapomenutí také i z toho důvodu, že ty hořčičníky se také musely doplňovat a čistit a to samozřejmě byla práce které nikoho nebavila. Ale zpět k těm párátkům.
+Někdy byly stojánky spojené se sirníky. Povšimněte si, že se to píše s měkkým i – nejedná o sýr, ale o sirky. Puristům toto označení vadilo a navrhovali je nazývat _zápalníky_ od správného českého slova _zápalky_. Někdy byla párátka také ve společném stojánku s hořčičníky, slánkami a pepřenkami.
 
-Párátka je velice starý vynález a v některých zemích nezbytným stolním náčiním protože tím pádem si lidé nemusí strkat do úst prst aby si tak zbytky jídla odstranili.
+Dnes jsou z hygienických důvodů párátka balená individuálně, někdy napuštěná vůní máty apod. V různých zemích se už ale i od toho upouští a párátko vám podají na požádání.
 
-Z hygienických důvodů jsou dnes párátka individuálně balená, někdy napuštěná vůní máty apod., a jsou na stole k volnému použití. Dnes se ale v různých zemích i od toho upouští a tak vám párátko podají na požádání ku stolu. Když máte umělý chrup, tak párátka ale nepotřebujete a říká se, že někteří lidé, kteří se za svůj chrup stydí, požádají o párátko aby před svými stolovníky budili dojem, že mají ještě své zuby.
+{class="example"}
 
-Jelikož ale jak již řečeno, šťourání se v zubech u stolu není příliš estetické tak v těch lepších restauracích jsou párátka vhodně umístěna u východu z restaurace zpravidla na pultíku hostesky, kde jsou také tak zvané "after dinner mints", což popíši někdy později.
+Když máte umělý chrup, tak párátko nepotřebujete. Říká se, že lidé, kteří se za umělý chrup stydí, požádají o párátko, aby před svými stolovníky budili dojem, že stále mají své zuby.
 
-Toto samozřejmě má tu výhodu, že se lidé šťourají v zubech až na ulici, a někteří "frajeři" si to párátko pak nechají mezi zuby po nějaký čas protože tím pádem vypadají velice "macho".
+Jak již bylo řečeno, šťourání se v zubech u stolu není příliš estetické. Proto jsou v lepších restauracích párátka vhodně umístěna u východu z restaurace, zpravidla na pultíku hostesky. To má samozřejmě tu výhodu, že se lidé šťourají v zubech až na ulici. Někteří _frajeři_ si pak párátko nechají mezi zuby, protože pak vypadají velice „macho“.
 
-Jsou ale i párátka, tak zvaná "osobní" která jsou z různých materiálů a v různých, mnohdy velice nákladných obalech které mají sloužit k ústní "hygieně", ale pokud takové párátko používáte častěji tak se o nějaké hygieně nedá moc mluvit. Naštěstí ale tato párátka, pokud nejsou v nějakém drahém a velkém "futrálů" se snadno ztratí, takže se to tím trošku reguluje.
-
-O tom zda párátka na stolech mít či nemít se nedočte ani v učebnicích servisu a v učebnicích společenského chování a bontonu se o nich taktně mlčí jako o mnoha jiných zvycích, ale naštěstí je tady teď HOSTOVKA, kde pokud se na to zeptáte se o všech těch nepsaných zákonech společenského chování dozvíte.
+Existují i _osobní_ párátka, vyrobená z různých materiálů a v různých, mnohdy velice nákladných obalech. Mají sloužit k ústní „hygieně“. Pokud ale takové párátko používáte častěji, tak se o nějaké hygieně moc mluvit nedá.
 
