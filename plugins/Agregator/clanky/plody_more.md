@@ -93,8 +93,12 @@ Jak již řečeno, tak Hostovka není škola vaření, a proto recepty na úprav
 Celé krevety s hlavou:
 
 Velké
-:   40 ks na kg Střední
-:   40 až 76 ks na kg Malé
+:   40 ks na kg
+
+Střední
+:   40 až 76 ks na kg
+
+Malé
 :   Více než 76 ks na kg
 
 Odstranění ocásků není nic komplikovaného a ani nevyžaduje moc času. Restaurace kupují celé neloupané krevetky většinou jen pro ozdobu studeného stolu nebo salátového baru z psychologického důvodu.
@@ -110,8 +114,12 @@ Nejenom ve Spojených státech amerických, ale i jinde na světě jsou krevetky
 Ať již čerstvé nebo zmrazené, neloupané syrové krevetové ocásky, jsou prodávány pod názvem _green {xml:lang="en"}_ nebo _brown shrimp {xml:lang="en"}_. Jejich velikost je opět udávána počtem kusů na kilogram.
 
 Velké
-:   47 až 55 ks na kg Střední
-:   68 až 77 ks na kg Malé
+:   47 až 55 ks na kg
+
+Střední
+:   68 až 77 ks na kg
+
+Malé
 :   90 až 99 ks na kg
 
 Neloupané ocásky krevet jsou sice dražší než krevety celé a neloupané, ale podstatně levnější než ocásky loupané. Některé restaurace dávají neloupaným ocáskům krevet přednost. To platí hlavně pro salátové bary a studené pulty, ze kterých si zákazník může za jednotnou cenu nabrat kolik chce.
