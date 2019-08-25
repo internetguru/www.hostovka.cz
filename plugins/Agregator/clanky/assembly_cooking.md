@@ -5,7 +5,7 @@
 
 # Vaření z polotovarů v moderní kuchyni
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
 
 {kw="kuchyňské techniky, polotovary, komponenty"}
 

@@ -1,131 +1,103 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=301.html" data-image="/files/preview/clanky/gastronomove/general.jpg" data-type="article"}
 
-{id="gastronomove" ctime="2008-03-27" author="Michael Klíma" short="Gastronomové" authorid="hostovka/michael_klima"}
+{id="gastronomove" ctime="2008-03-27" author="Michael Klíma" short="Gastronomové" mtime="2019-05-24"}
 
 # Gastronomové
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-08-25, do not edit -->
 
-{kw="gastronomie"}
+{kw="gastronomie, gastronom, gurmet, gurmán, labužník, snob, host"}
 
-Výňatek z Manuálu obsluhy konceptu STEAKGRILL. Co bylo dříve - vajíčko nebo slepička - je podle mě stejné dilema jako kdo se zasloužil o gastronomii více zda kuchaři, nebo gurmeti, gurmáni, labužníci, snobové, nebo sofistikovaní hosté?
+Co bylo dříve, vejce nebo slepice? Podle mě je to stejné otázka, jako kdo se více zasloužil o gastronomii. Byli to kuchaři, gurmeti, gurmáni, labužníci, snobové nebo sofistikovaní hosté?
 
-Krédem konceptu STEAKGRILLje dát hostům to co chtějí a co jim za jejich peníze patří.
+{class="example"}
 
-Ale i když se o tom nemluví, tak si musíme uvědomit, že někteří hosté sami nevědí co jim patří a nebo nevědí co v naši restauraci mohou očekávat.
+Gastronom je „puntičkářský“ výraz z počátku devatenáctého století, kterým se označovali experti v gastronomii.
 
-Jedním z největších umění dobrého číšníka či servírky je umět hostu splnit všechna, třeba i nevyřčené přání, čemuž se také říká dát hostovi vše co mu na očích vidíme.
-
-K tomu je potřeba mít základní znalosti obsluhy o kterých bude řeč později, ale musíte také vědět co je to číšnická psychologie a něco znát o různých typech hostů.
-
-Gastronom je jakýsi puntičkářský výraz z počátku devatenáctého století, kterým se označovali experti v gastronomii.
-
-Praví znalci dobrého jídla se spokojí s názvem "gourmand" který je mnohdy překládán jako nenasytný nebo hladový, který ve Francii nemá však hanlivý nebo pohrdlivý význam.
+Praví znalci dobrého jídla se spokojí s názvem gurmán. Mnohdy je tento výraz překládán jako nenasytný nebo hladový, avšak z místa odkud výraz pochází (Francie) nemá hanlivý ani pohrdavý význam.
 
 {id="gastronom_trpici"}
 
 ## Gastronom trpící
 
-Gastronom, znalec dobrého jídla mnohdy trpí již při pohledu na jídlo které si nemůže dovolit.
+Gastronom, znalec dobrého jídla, mnohdy trpí již při pohledu na jídlo, které si nemůže dovolit.
 
-Novými poznatky o správné výživě řady trpících gastronomů narůstají protože těch jídel která gastronomové jíst nemohou nebo nesmí, je čím dále tím více.
-
-Znalosti hostů o gastronomii nejsou tudíž z hlediska restauratérů nic žádoucího.
+Novými poznatky o správné výživě řady trpících gastronomů narůstají, protože jídel, která gastronomové nemohou nebo nesmí jíst, je čím dál tím více. Znalosti hostů o gastronomii nejsou tudíž z hlediska restauratérů nic žádoucího.
 
 {id="gurmet"}
 
-## GURMET
+## Gurmet
 
-Gurmet je nejvíce zneužívaný výraz v gastronomickém slovníku.
+Gurmet je znalec dobrého jídla a vín, který se více zajímá o kvalitu než o kvantitu. Gurmet je však nejvíce zneužívaným výrazem v gastronomickém slovníku. V poslední době si toto označení přisvojili snobové natolik, že dostalo „špatný zvuk“.
 
-V poslední době si toto označení přisvojovali snobové natolik, že tento výraz dostal špatný zvuk. Gurmet je znalec dobrého jídla a dobrých vín který se více zajímá kvalitou než kvantitou.
+{class="example"}
 
-O čem se zdá huse? No, přece o kukuřici. O čem se zdá gurmgurmetovi? No, přece o dobrém jídle.
+O čem se zdá huse? No, přece o kukuřici. O čem se zdá gurmetovi? No, přece o dobrém jídle.
 
-Gurmet je civilizovaný člověk s kultivovanou a vytříbenou chutí který umí ocenit jídlo a pití které konzumuje.
+Gurmet je civilizovaný člověk s kultivovanou a vytříbenou chutí, který umí ocenit jídlo a pití které konzumuje. Tak jako milovník a znalec hudby dokáže rozeznat jednotlivé hudební nástroje hrající v orchestru, tak i gurmet dokáže rozeznat jednotlivé chutě, které svou kombinací tvoří lahodné jídlo.
 
-Tak jako milovník a znalec hudby dokáže rozeznat jednotlivé hudební nástroje hrající v orchestru, tak i gurmet dokáže rozeznat jednotlivé chutě které svou kombinací tvoří lahodné jídlo.
+Podobně má gurmet schopnost plně vychutnat kvality dobrého vína. Dobrý gurmet se také pozná podle toho, zda k různým jídlům umí vybrat vhodná vína. Také trvá na vkusně a atraktivně upravené tabuli.
 
-Podobně má i schopnost plně vychutnat kvality dobrého vína a kompozice jídel je pro gurmeta rovněž důležitá.
-
-Podněty gurmetů a gurmánů 18. století vedly často k tvorbě jídel která si zachovala svoji popularitu do dnešních dnů.
-
-Dobrý gurmet se pozná na tom, jak umí vybrat a zkombinovat různá jídla a vína která se k nim hodí. Gurmet také trvá na vkusně a atraktivně upravené tabuli.
-
-Tyto schopnosti vnímání zahrnuji delikátní chuť a střídmost. Neznamená to, že gurmet jí komplikovaná jídla neustále (právě naopak), ale znamená to také, že gurmet, pokud se jídla a pití týká, je člověk velice soudný, ale velice zřídka své názory dává hlasitě najevo.
+Tyto schopnosti vnímání zahrnují delikátní chuť a střídmost. Neznamená to, že gurmet jí jen komplikovaná jídla, ale právě naopak. Znamená to také (co se jídla a pití týče), že je to soudný člověk a velice zřídka své názory dává hlasitě najevo.
 
 {id="gurman"}
 
-## GURMÁN
+## Gurmán
 
-Gourmán nebo gurmán oproti tomu jsou výrazy které jsou mylně slučovány s rozežraností (glutony).
+Gurmán je pravý opak gurmeta. Zajímá se více o kvantitu než o kvalitu (i když může předstírat opak).
 
-Francouzům to ale nevadí protože nemají takové odstíny v těchto výrazech.
+{class="example"}
 
-Gurmán je pravý opak gurmeta. Zajímá se více o kvantitu než o kvalitu i když může předstírat opak.
+Gurmán je výraz, který je mylně slučován s rozežraností. Francouzům to ale nevadí, protože tyto výrazy tak moc nerozlišují.
 
-Jí a pije příliš mnoho na to aby mohl vychutnat dobré jídlo a dobrá vína a většinou je neomalený i v mnoha jiných směrech. Ve skutečnosti je v přístupu k jídlu a pití velice necivilizovaný.
+Gurmán jí a pije příliš mnoho na to, aby si mohl vychutnat dobré jídlo a víno. Většinou je neomalený i v mnoha jiných směrech. Ve skutečnosti je v přístupu k jídlu a pití velice necivilizovaný.
 
 {id="labuznik"}
 
-## LABUŽNÍK
+## Labužník
 
-Labužníci jsou jak mezi gurmety tak i mezi gourmány, a když se to tak vezme tak je jich tolik, že by si zasloužili svoji vlastní skupinu. Bylo by ale mylné se domnívat, že labužník je někdo kdo vychutnává jen kaviár, lanýže nebo jiná drahá jídla. Labužník je někdo, kdo umí vychutnat všechno co mu chutná, bez ohledu na to zda je to drahé nebo laciné, zda je to v souladu se současnými gastronomickými předpisy nebo módním trendem.
+Labužníci jsou jak mezi gurmety tak i mezi gurmány. Bylo by se ale mylné domnívat, že labužník je někdo, kdo si vychutnává jen kaviár, lanýže nebo jiná drahá jídla. Labužník je někdo, kdo si umí vychutnat všechno, bez ohledu na cenu. Také nehledí na současné gastronomické předpisy nebo módní trendy.
 
-Labužník prostě vyhledává restaurace ve kterých podávaná jídla uspokojí jeho představu o lahůdkách bez ohledu na to, zda tato jídla jsou kladně hodnocená jak gurmány, gurmety nebo snoby.
+Labužník prostě vyhledává restaurace, ve kterých podávaná jídla uspokojí jeho představu o lahůdkách. Nebere ohled na to, jak jsou jídla hodnocená gurmány, gurmety nebo snoby.
 
-Labužník není někdo kdo navštěvuje populární, drahé a exklusivní restaurace jenom proto, aby tam "dýchal stejný vzduch" s nějakými intelektuály nebo osobnostmi což je charakteristické pro snoby nebo pro některé české samozvané "labužníky" jako je například www.labozdopo.cz,
+Labužník není někdo, kdo navštěvuje populární, drahé a exklusivní restaurace jenom proto, aby tam „dýchal stejný vzduch“ s intelektuály. To je naopak charakteristické pro snoby nebo pro některé samozvané české „labužníky“.
 
-Do skupiny labužníků, abych se přiznal, patřím i já. Během mé praxe jsem procestoval téměř celý svět a s oblibou říkám, že sežeru všechno co napřed nesežere mně a tak se dá říci, že není téměř žádné jídlo které bych neochutnal, ale přesto mám své preference.
+Abych se přiznal, tak do skupiny labužníků patřím i já. Během praxe jsem procestoval téměř celý svět a s oblibou říkám, že sežeru všechno, co nesežere mě. Dá se tedy říci, že není mnoho jídel, které bych neochutnal.
 
-Pracoval jsem také většinou v dobrých hotelích a restauracích, a to i v takových kde cena večeře na osobu mohla být  _{var="200"}_,- i více (bez vína), a kde jsem toho mohl sníst a vypít co hrdlo ráčí, ale nejlépe jsem si pochutnal když mi manželka doma udělala knedlíky s vejci, šunkofleky nebo cmundu a dobrou českou sekanou nikdy neodmítnu.
+Pracoval jsem v luxusních hotelích a restauracích, a to i v takových, kde cena večeře na osobu (bez vína) mohla být $200 a více. Mohl jsem tam toho sníst a vypít co hrdlo ráčí. Nejvíce jsem si stejně ale pochutnal, když mi manželka doma udělala knedlíky s vejci, šunkofleky nebo cmundu a dobrou českou sekanou.
 
 {id="snob"}
 
-## SNOB
+## Snob
 
-I když se o tom oficiálně nikde nemluví, tak je nutno si zde říci, že gastronomická pravidla mají hodně co společného se snobismem.
+Snob se dá definovat jako pseudoexpert, s povrchními znalostmi gastronomie, který se vystavuje na obdiv naučenými frázemi o jídle a pití. Snob, pokud na to má, si vždy objedná to nejdražší jídlo a pití, u kterého je cena náznakem lepší kvality než u nápojů a jídel lacinějších.
 
-Restaurační snob se dá definovat jako pseudoexpert, s povrchními znalostmi gastronomie, který svoji expertízu vystavuje na obdiv naučenými frázemi o jídle a pití.
+  1. Snob si například ve francouzské restauraci objedná mořský jazyk s krevetami, psaný na jídelním lístku jako _Filet de Sole à la Cardinal_. Nejprve začne mluvit o tom, jak krásně červení museli být raci, kterými byla cardinal omáčka obarvena.
+  2. Poté bude tvrdit, že víno, použité při její přípravě, bylo určitě francouzské chablis. Protože si takové víno i objednal, tak po znaleckém přičichnutí podá posudek o tom, jak krásný buket to víno má. Dále, po prohlédnutí proti světlu (nebo ještě lépe proti plamenu svíčky), se zmíní o jiskře. Po prvním doušku víno v ústech znalecky poválí, obrátí zasněně oči k oblakům a vynese posudek o tom, jakou lahodnou chuť to víno má, jak je plné a jak bohatá byla půda, ne které byla réva vypěstována.
+  3. Stejným způsobem takový snob dokáže ohodnotit kvalitu whisky, koňaku, brandy a jiných nápojů, včetně piva. Takové představení dokáže pravý snob udělat i v kterékoliv jiné etnické restauraci, kterou již alespoň jednou předtím navštívil.
 
-Snob, pokud na to má, si vždy objedná to nejdražší jídlo a pití, u kterého cena je náznakem lepší kvality než u nápojů a jídel lacinějších, a při jejich konzumaci se holedbá svoji expertizou.
+Snobové, hlavně pokud je jejich posudek víceméně kladný a vyslovený nahlas, jsou v každé restauraci vítanou klientelou. Obzvláště když se jedná o intelektuála. Protože lidé si z nějakého důvodu myslí, že všichni intelektuálové jsou na slovo vzatí gastronomové.
 
-Když si například v tak zvané "francouzské" restauraci některý snob objedná mořský jazyk psaný na jídelním lístku jako File de Sole à la Cardinal, tak začne mluvit o tom jak krásně červení museli být raci kterými byla omáčka na té rybě obarvena, a že víno které bylo k její přípravě použito určitě bylo francuzské Chablis.
+{class="important"}
 
-A protože si takové víno i objednal, tak po znaleckém přičichnutí podá znalecký posudek o tom jaké krásné bouquet to víno má, po prohlédnutí proti světlu (nebo ještě lépe proti plameni svíčky) se zmíní o jiskře, a po prvém doušku víno v ústech "převálí", obrátí zasněně oči k oblakům a vynese znalecký posudek o tom jaké lahodné bouquet to víno má, jak je plné, a jak bohatá byla půda ne které byla réva vypěstována, atd.
+Mezi snoby patří i celá řada kuchařů chválících se, že pracovali tak a tak dlouho v některé cizí zemi. Přitom ale neřeknou, že byli natolik zavaleni prací, a že měli tak malé příjmy, že si nemohli dovolit ochutnat jídla v jiných restauracích, než ve kterých pracovali.
 
-Stejným způsobem takový snob dokáže ohodnotit kvalitu whisky (nebo i whiskey), ale i cognacu a jiných nápojů včetně piva.
+Snobové používají hodně [módních pojmů][1], jako je kaviár, žampiony, lanýže, artyčoky, chřest, humr, krevetky apod. Snobizmus také souvisí z cenou, která je také uspokojuje.
 
-Ale takové představení dokáže pravý snob udělat i v kterékoliv etnické restauraci kterou již alespoň jednou před tím navštívil.
+Vybírat si jídlo podle nejvyšší ceny není ale jen ukázkou snobizmu. Slučování ceny s kvalitou je totiž zcela běžné.
 
-Nicméně tito snobové, hlavně pokud jejich posudek je kladný a pronesen nahlas aby to i ti odataní hosté slyšli, jsou v každé restauraci vítanou klientelou.
-
-Snobizmus má mnohdy větší vliv na výběr jídla než představa jeho chuti.
-
-Někteří lidé vybírají jídla dle popularity jejich názvu nebo podle výrazů které upoutají jejich pozornost, anglicky zvaných buz words, česky jednoduše zvaných chyták.
-
-Takový buzz word například je kaviár, žampiony, lanýže, artyčoky, chřest, humr, krevetky, apod. Snobizmus také souvisí z cenou, která snoby také uspokojuje.
-
-Jsou totiž hosté, kterým se rozhodně nedá říkat gurmáni, kteří obrazně řečeno popis jídle zakryjí, a své "oblíbené" jídlo si vyberou v kolonce cen podle toho které jídlo je nejdražší.
-
-Toto není ale jen ukázkou snobizmu. Slučování ceny s kvalitou je totiž zcela běžné.
-
-Proto na druhé straně jsou hosté, kteří také vybírají jídla podle ceny ale vyberou si to nejlacinější.
-
-Během mé praxe jsem ale tyto hosty nikdy neodsuzoval. V mnoha případech se jedná o skutečného gurmána, který ale bohužel nemá momentálně dost peněz k tomu, aby si vybral podle své chuti.
+Na druhé straně jsou hosté, kteří si také vybírají jídla podle ceny, ale vyberou si to nejlacinější. Během praxe jsem tyto hosty nikdy neodsuzoval. V mnoha případech se jedná o skutečného gurmána, který ale bohužel nemá momentálně dost peněz na to, aby si vybral podle chuti.
 
 {id="sofistikovany_host"}
 
 ## Sofistikovaný host
 
-"An educated customer is our best customer"
+Jedno z populárních rčení v americkém restauračním byznysu říká, že „uvědomělý host je náš nejlepší host“ (anglicky _An educated customer is our best customer_).
 
-Toto je jedno z populárních rčení v americkém restauračním byznyse které se do češtiny dá přeložit jako "Uvědomělý host, je náš nejlepší host".
+V Česku díky 40 letům gastronomického temna bohužel uvědomělých hostů moc nemáme. Hostů, kteří by věděli, jaké mají přání a co jim za jejich peníze patři je velice málo.
 
-V Česku díky těm 40 letům gastronomického temna máme bohužel těch uvědomělých hostů, neboli hostů kteří by věděli jaké mají přání a co jim za jejich peníze patři, velice málo a v tom vlastně je základní raison d'étre Hostovky, což je první a zatím jediná pomyslná universita pro hosty na světě.
+Nauka gastronomie, chování v restauracích a společenského chování vůbec musí začít v rodině a ve škole, ale také v každé restauraci. Je například doslova nezodpovědné, když restaurace uvádí na jídelním lístku jídla bez jejich patřičného popisu.
 
-Hostovka podle mého ale nestačí. Ta výchova gastronomie, chování v restauracích a společenského chování vůbec musí začít v rodině a ve škole, ale i každá restaurace si musí umět své hosty "vychovat".
-
-Je doslova nezodpovědné když restaurace uvádí na svém jídelním lístku jídla bez jejich patřičného popisu proto se na toto musíme v našem konceptu při tvorbě jídelního lístku zaměřit.
+ [1]: /modni_pojmy
 

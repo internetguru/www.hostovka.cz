@@ -1,147 +1,149 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=46.html" data-image="/files/preview/clanky/plody_more/general.jpg" data-type="article"}
 
-{id="plody\_more" ctime="2005-07-22" author="Michael Klíma" short="Plody moře" authorid="hostovka/michael\_klima"}
+{id="plody_more" ctime="2005-07-22" author="Michael Klíma" mtime="2019-06-25"}
 
-# Plody moře
+# Plody moře a krevetky
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-08-25, do not edit -->
 
-{kw="jídla a jídelní lístky"}
+{kw="jídla a jídelní lístky, krevetky"}
 
-Francouzsky Fruit de Mer, německy Meeresfrüchte, italský Frutti di Mare, a proto jim někdo říká mořské ovoce na čemž nakonec není nic špatného a každý ví čem mluvíte. Anglicky se jim říká seafood, psáno jedním slovem protože když napíšete "sea food" tak si lidé myslí že jste chtěli říci "see food", což by znamenalo vidět jído.
+Francouzsky _Fruit de Mer {xml:lang="fr"}_, německy _Meeresfrüchte {xml:lang="de"}_, italsky _Frutti di Mare {xml:lang="it"}_. Plodům moře se někdy říká mořské ovoce, na čemž nakonec není nic špatného a každý ví čem mluvíte. Anglicky se jim říká _seafood {xml:lang="en"}_, protože když napíšete _sea food {xml:lang="en"}_, tak si lidé myslí, že jste chtěli říci _see food {xml:lang="en"}_, což by znamenalo vidět jídlo.
 
-Píši vám to v cizích řečech protože na vašich zájezdech do zahraničí se s nimi pod českým názvem nesetkáte.
+{class="important"}
 
-Kdo se neptá, nic se nedozví!
+Názvy v cizích řečech zmiňuji hlavně proto, že na zájezdech do zahraničí se s českými názvy nesetkáte.
 
-"Maminko, co je to?" ptala se v jednom pražském supermarketu asi desetiletá holčička své maminky, přičemž ukazovala na plody moře které tam měli vystavené na rybím pultě.
+{id="mosk\_plody\_v\_esk\_republice"}
 
-"To jsou takové mořské potvory" odpověděla maminka a dodala: "A neotravuj a pojď".
+## Mořské plody v České republice
 
-Bylo to hned krátce po sametové revoluci a v té době ani mnozí čeští kuchaři toho o všech těch plodech moře moc nevěděli a tak jsem se té mamince nedivil a nakonec jsem ji dal tak trochu kredit za to, že své dceři na její otázku vůbec dala alespoň nějakou odpověď.
+Kdo se neptá, nic se nedozví! „Maminko, co je to?“ ptala se v jednom pražském supermarketu asi desetiletá holčička maminky, přičemž ukazovala na plody moře vystavené na rybím pultě. „To jsou takové mořské potvory,“ odpověděla maminka a dodala: „A neotravuj a pojď.“
 
-Ta maminka ale nebyla daleko pravdy. Oni ty plody moře totiž mají jednu základní charakteristiku a sice, že jsou drahé jako potvory, ale to je jediné co mají s potvorami společné.
+Bylo to krátce po sametové revoluci. Tehdy se toho u nás o plodech moře moc nevědělo. Takže jsem se paní nedivil, a nakonec jsem jí dal tak trochu kredit za to, že své dceři dala alespoň nějakou odpověď.
 
-Ta vysoká cena plodů moře je více méně ten hlavní důvod pro který ještě dnes o nich málo kdo něco ví. Je to také tím že některé ty supermarkety nebo rybárny se vůbec nesnaží o těch potvorách něco napsat.
+Paní ale nebyla daleko pravdy. Plody moře totiž mají jednu základní charakteristiku a sice, že jsou drahé jako potvory. To je ale jediné, co mají s potvorami společného.
 
-Nakonec v té době ani v odborném tisku toho o mořských plodech moc napsáno nebylo, takže ani mnohý kuchař tehdy nevěděl nejenom co to je natožpak jak je upravovat.
+Vysoká cena plodů moře je víceméně hlavní důvod, proč o nich dnes málokdo něco ví. Bohužel narozdíl od holčičky se dnes ještě mnozí kuchaři stydí zeptat a přiznat, že toho o mořských plodech moc nevědí.
 
-Bohužel na rozdíl od té holčičky se to ještě dnes mnozí kuchaři stydí zeptat a přiznat že o mořských plodech nic nevědí, ale vy jako studenti HOSTOVKY budete vědět co to ty "mořské potvory" jsou protože na rozdíl té maminky to pro mě není otravování, a rád vám napíši vše co o nich vím.
+Jedno, co o mořských plodech bezpečně vím je, že jsou po celém světě velice oblíbené. Díky ceně se (až na výjimky) s nimi setkáte jen v restauracích pomyslné první a druhé cenové skupiny.
 
-Jedno co vím bezpečně je, že jsou po celém světě velice oblíbené, ale že díky té ceně se až na nějaké výjimky se s nimi setkáte jen v restauracích pomyslné první a druhé cenové skupiny, kde nevědí co by za ně měli počítat a kam navíc asi běžně nechodíte.
+Oblibu plodů moře si uvědomují i autoři a opisovači kuchařských knížek. Proto recepty na všemožné plody moře (i na takové, které na našem trhu nejsou), najdete v každé druhé kuchařce. S bližším popisem jejich přípravy se ale setkáte jen v málokteré z nich.
 
-Co ale také vím je, že po vstupu ČR do EU budou čím dále tím více požadovány i v našich restauracích, nehledě k tomu že i naši lidé budou více cestovat do zemí ve kterých jsou plody moře běžné známé a proto byste jako studenti Hostovky o nich měli vědět více.
+{class="example"}
 
-Oblibu plodů moře si uvědomují i autoři a opisovači kuchařských knížek, a proto recepty na všemožné plody moře (i na takové které u nás nejsou na trhu), najdete v každé druhé kuchařce, ale s bližším popisem jejích přípravy se setkáte v málokteré z nich.
+Relativně dobře jsou plody moře popsány ve Vaňhově Rybí kuchyni. Ale i tato knížka je již dosti zastaralá. Nehledě na to, že Vaňha plody moře nepopsal všechny.
 
-Relativně dobře jsou plody moře popsány ve Vaňhově Rybí Kuchyni, ale i tato knížka je dosti zastaralá nehledě k tomu, že Vaňha ty plody moře nepopsal všechny.
+K tomu ale musíte o jídlech vědět více než kterýkoliv kuchař, který několik let připravuje stejná jídla a jiná jídla nezná. Obzvláště, když cestujete po světě. Bohužel plodů moře je tolik, že je téměř nemožné je popsat najednou.
 
-HOSTOVKA není učebnice vaření, ale zdroj informací jak si jídla vybírat podle vaši chutě a podle vaši kapsy.
-
-K tomu ale, obzvláště když cestujete po světě, musíte o jídlech vědět více než kterýkoliv kuchař který jiná jídla než ta která po několik let připravuje nezná.
-
-HOSTOVKA je také učebnicí toho jak taková jídla jíst a vychutnat a to má svoji platnost hlavně u plodů moře.
-
-Bohužel těch plodů moře je tolik, že je téměř nemožné je popsat najednou.
-
-Podívejte se také na PLODY MOŘE KRABI a na PLODY MOŘE - MUŠLE.
-
-Nevím preference mých čtenářů a také nevím co bylo o plodech moře již někde napsáno a proto je budu popisovat namátkou, a tak pokud některé mé informace znáte, je přehlédněte.
+Mezi nejznámější plody moře patří krevetky, [krabi][1] a [mušle][2]. Neznám preference čtenářů Hostovky a také nevím, co bylo o plodech moře již někde napsáno, proto je popisuji pouze namátkou.
 
 {id="krevetky"}
 
 ## Krevetky
 
-Krevety angl. Shrimp, v Británii Prawn, v Italii Gambero. Větší mořské krevety jsou také známé jako scampi.
+Krevetky jsou malí mořští ráčci z rodiny desetinožců _(decapoda) {xml:lang="la"}_, protože mají deset nohou, dvě dlouhá tykadla a nemají klepeta. Krevety dorůstají do délky až 20 cm. Před uvařením jsou hnědé, šedivé až nazelenalé barvy, která se vařením změní na růžovou až červenou barvu.
 
-Jsou to malí mořští ráčci patřící do rodiny decapodi, protože mají deset noh, žádná klepeta a dvě dlouhá tykadla .
+{class="example"}
 
-Krevety dorůstají do délky až 20 cm. Před uvařením jsou hnědé, šedivé až nazelenalé barvy která se vařením změní na růžovou až červenou barvu.
+Krevety anglicky _shrimp {xml:lang="en"}_, v Británii _prawns {xml:lang="en"}_, v Italii _gamberi {xml:lang="it"}_. Větší mořské krevety jsou v mnoha řečech také známé jako _scampi {xml:lang="en"}_.
 
-Krevetky je něco, s čím pro jejich cenu, zacházíme jako se zlatem. V domácnosti je používáme většinou jen při mimořádných příležitostech a v některých restauracích spíše jako ozdobu nebo jen doplněk některých jídel.
+Krevetky jsou něco, s čím pro jejich cenu zacházíme jako se zlatem. V domácnosti je používáme většinou jen při mimořádných příležitostech a v některých restauracích spíše jako [ozdobu][3] nebo jen doplněk některých jídel.
 
-Celé krevety přicházejí na trh buď čerstvé nebo zmrazené a jejich velikost je udávána jako velké, střední a nebo malé, nebo podle počtu kusů na jeden kilogram.
+Celé krevety přicházejí na trh buď čerstvé nebo zmrazené. Jejich velikost se udává podle počtu kusů na kilogram – velké, střední nebo malé.
 
-Všechny krevetky dělíme do třech základních kategorií: chladno-vodní nebo severní, tropické nebo jižní; a sladkovodní. Všechny tyto druhy naleznete na některých trzích jen velmi zřídka.
+{id="druhy_krevetek"}
 
-Chladno-vodním krevetám (Pandalus borealis) se daří v Severním Atlantiku, a v Severním Pacifiku (Pandalus jordoni). Tyto jsou velmi malé a před jídlem se nemusí odstraňovat střívka (to devine).
+## Druhy krevetek
 
-Teplovodní krevetky ze států Mexického Zálivu, Floridy, Alabamy, Missipi, Luisiany a Texasu jsou nejčastěji označovány jako hnědé, bílé a růžové.
+Krevetky dělíme do tří základních kategorií. Jsou to chladnovodní (severní), tropické (jižní) a sladkovodní.
 
-Nevařené hnědé krevety (Penaeus aztecus) mají hnědo-čevené skořápky a jejich maso má o něco silnější chuť než krevetky bílé díky vyššímu obsahu jódu. V důsledku toho hnědé krevetky jsou zpravidla lacinější než druhé dva druhy.
+Chladnovodní krevetky
+:   _(Pandalus borealis) {xml:lang="la"}_ žijí v Severním Atlantiku, a v Severním Pacifiku _(Pandalus jordoni) {xml:lang="la"}_. Jsou velmi malé a před jídlem se z nich nemusí odstraňovat střívka.
 
-Nejdražší krevetky jsou zpravidla krevetky bílé (Penaeus setiferus). Přestože jsou specifikovány jako bílé, některé jsou ve skutečnosti šedivé.
+Teplovodní krevetky
+:   ze států Mexického Zálivu, Floridy, Alabamy, Missipi, Luisiany a Texasu jsou nejčastěji označovány jako \_hnědé\_, \_bílé\_ a \_růžové\_. 
+    
+      * Nevařené _hnědé krevety_ _(Penaeus aztecus) {xml:lang="la"}_ mají hnědo-červené skořápky a jejich maso má o něco silnější chuť než krevetky bílé díky vyššímu obsahu jódu. V důsledku toho jsou hnědé krevetky zpravidla levnější než druhé dva druhy.
+      * Nejdražší krevetky jsou zpravidla _krevetky bílé_ _(Penaeus setiferus) {xml:lang="la"}_. Přestože jsou specifikovány jako bílé, tak jsou ve skutečnosti některé spíše šedivé.
+      * _Růžové krevetky_ _(Penaeus duorarum) {xml:lang="la"}_ mají různé barvy včetně nahnědlé, růžové a citrónově žluté.
+      * Dvě kategorie malých amerických teplovodních krevetek, _red shrimp {xml:lang="en"}_ a _rock shrimp {xml:lang="en"}_, pochází z Virginie a z Mexického Zálivu. Krevetky z Mexického Zálivu _(Sicyonia brevirostris) {xml:lang="la"}_ se na americkém trhu objevují nečastěji.
+      * _Rock shrimp {xml:lang="en"}_ mají jméno podle tvrdých skořápek. Maso těchto krevetek je pevné, podobné masu humřímu a jsou zpravidla lacinější než ostatní druhy.
 
-Růžové krevetky (Penaeus duorarum) mají různé barvy včetně nahnědlé, růžové a citrónově žluté.
+Sladkovodní krevetky
+:   známé jako _Malaysian prawn {xml:lang="en"}_ _(Macrobrachium rosenbergii) {xml:lang="la"}_ se pěstují na farmách na Hawaji, v Kalifornii a v několika dalších státech. Tyto krevetky jsou velké a některé mohou vážit 110 až 170 gramů.
 
-Dvě kategorie malých amerických teplovodních krevetek, tak zvané Red Shrimp a Rock Shrimp pochází z Virginie a z Mexického Zálivu. Ty z Mexického Zálivu (Sicyonia brevirostris) se teď na americkém trhu objevují nečastěji.
+{id="nakupovn\_a\_velikosti_krevetek"}
 
-Rock Shrimp mají své jméno od svých tvrdých skořápek. Maso těchto krevetek je pevné, podobné masu humřímu a jsou zpravidla lacinější než ostatní druhy.
+## Nakupování a velikosti krevetek
 
-Sladkovodní krevetky, známé jako Malaysian prawn (Macrobrachium rosenbergii) se pěstují na farmách na Hawaji, v Kalifornii a v několika jiných státech. Tyto krevetky jsou velké a některé mohou vážit 110 až 170 gramů.
+Krevetky jsou v Americe prodávány podle počtu kusů v jedné libře (453,6 g) výrazem _count {xml:lang="en"}_ (počet). Počet mezi 41 a 50 znamená, že je v jedné libře 41 až 50 krevetek. Neboli čím menší počet tím větší krevetky jsou.
 
-Krevetky jsou v Americe prodávány podle počtu kusů v jedné libře (453.6 g) výrazem count=počet. Počet, neboli count mezi 41 a 50 znamená, že v jedné libře je 41-50 krevetek. Neboli čím menší count (počet) tím větší ty krevetky jsou.
+Na některých trzích nebo na mezinárodních jídelních lístcích se ale setkáte s označením jako _small {xml:lang="en"}_ (malé), _medium {xml:lang="en"}_ (střední), a _jumbo {xml:lang="en"}_ nebo _large {xml:lang="en"}_ (velké). To proto, aby si lidé mohli udělat představu o jaký druh krevetek se jedná.
 
-Na některých trzích nebo na mezinárodních jídelních lístcích se ale setkáte s označením jako small (malé), medium (střední), a jumbo nebo large, neboli velké, a to jenom aby si lidé mohli udělat představu o jaký druh krevetek se jedná.
+Cenové srovnání musíte ale dělat na základě počtu kusů v jedné libře nebo kilogramu. Cena se může měnit od restaurace k restauraci. Nařízení o uvádění váhy porce (jako např. v Česku) je úplně nesmyslné, protože krevetky se hodnotí hlavně podle velikosti.
 
-Cenové srovnání musíte ale dělat na základě počtu kusu v jedné libře nebo kilogramu která se může měnit od restaurace k restauraci.
+Krevetky můžete připravovat všemi možnými způsoby od pošírování, broilování, [sotýrování][4] až po [grilování][5]¨. Do jídel jako je například Ceviche je můžeme použít i syrové. Podávají se jak teplé, tak i studené.
 
-Takové nařízení o uvádění váhy porce jako je v Česku je úplně nesmyslné protože krevetky se hodnotí podle hlavně podle jejich velikosti.
+Nejpopulárnější způsob podávání studených vařených loupaných krevetek je [krevetkový koktejl][6] (anglicky _Shrimp Cocktail {xml:lang="en"}_) s koktejlovou omáčkou. Moje nejoblíbenější jídlo z vařených loupaných krevetek je [Shrimp de Jonghe][7]. To v nejbližší době naleznete na jídelním lístku restaurace [Steakgrill][8].
 
-Krevetky můžete připravovat všemi možnými způsoby od pošírování, broilování, sortýrování až po grilování a do jídel jako je například Ceviche je můžeme použít i sirové.
-
-Podávají se jak teplé, tak i studené.
-
-Nejpopulárnější způsob podávání studených vařených loupaných krevetek je "Shrimp Cocktail" (krevetkový koktejl) s koktejlovou omáčkou.
-
-Moje nejoblíbenější jídlo z vařených louaných krevetek je SHRIMP DE JONGHE, které bude v nejbližší době na jídelním lístku restaruace STEAKGRILL.
-
-Podle velikosti krevetek se podávají 4 až 8 na porci.
-
-Jak již řečeno, tak HOSTOVKA není škola vaření a proto recepty na úpravu krevetek zde nenajdete, ale jako studenti Hostovky byste měli vědět, že po jakékoliv úpravě musí krevetkz být křehké a do jisté míry šťavnaté. Pokud jsou tuhé tak je to známka toho, že byly převařené.
+Jak již řečeno, tak Hostovka není škola vaření, a proto recepty na úpravu krevetek zde nenajdete, ale jako studenti Hostovky byste měli vědět, že po jakékoliv úpravě musí krevetky být křehké a do jisté míry šťavnaté. Pokud jsou tuhé, tak je to známka toho, že byly převařené.
 
 Celé krevety s hlavou:
 
-  * Velké - 40 ks/kg 
-  * Střední - 40 až 76 ks/kg 
-  * Malé - více než 76 ks/kg 
+Velké
+:   40 ks na kg
 
-Odstranění ocásků není sice nic komplikovaného a ani to nevyžaduje moc času, ale přesto celé krevety i s hlavou nakupujeme jen zřídka. Restaurace kupují celé neloupané krevetky většinou jen pro ozdobu studeného stolu nebo salát baru z psychologického důvodu.
+Střední
+:   40 až 76 ks na kg
 
-Krevetky jsou nejenom ve Spojených státech amerických, ale i jinde na světě úplné zaklínadlo. A nemusí to být jen samotné krevetky. Jakékoliv jídlo kde je jen zmínka, že jsou v něm také krevetky je již předem považováno za lahůdku.
+Malé
+:   Více než 76 ks na kg
 
-{id="neloupane\_syrove\_ocasky"}
+Odstranění ocásků není nic komplikovaného a ani nevyžaduje moc času. Restaurace kupují celé neloupané krevetky většinou jen pro ozdobu studeného stolu nebo salátového baru z psychologického důvodu.
+
+{class="important"}
+
+Nejenom ve Spojených státech amerických, ale i jinde na světě jsou krevetky úplné zaklínadlo. A nemusí to být jen samotné krevetky. Kterékoliv jídlo, kde je jen zmínka o krevetkách, je již předem považováno za lahůdku.
+
+{id="neloupan\_syrov\_ocsky"}
 
 ### Neloupané syrové ocásky
 
-Ať již čerstvé nebo zmrazené, neloupané syrové krevetové ocásky, jsou prodávány pod názvem Green nebo Brown Shrimp a jejich velikost je udávána počtem kusů na kilogram:
+Ať již čerstvé nebo zmrazené, neloupané syrové krevetové ocásky, jsou prodávány pod názvem _green {xml:lang="en"}_ nebo _brown shrimp {xml:lang="en"}_. Jejich velikost je opět udávána počtem kusů na kilogram.
 
-  * Velké - 47 až 55 ks/kg
-  * Střední - 68 až 77 ks/kg
-  * Malé - 90 až 99 ks/kg
+Velké
+:   47 až 55 ks na kg
 
-{id="ceny_krevetek"}
+Střední
+:   68 až 77 ks na kg
 
-### Ceny krevetek
+Malé
+:   90 až 99 ks na kg
 
-Neloupané ocásky krevet jsou sice dražší než krevety celé a neloupané, ale podstatně lacinější než ocásky loupané. Některé restaurace dávají neloupaným ocáskům krevet přednost hlavně pro salátové bary a studené pulty ze kterých si zákazník může za jednotnou cenu nabrat kolik chce. Je v tom tak trochu obchodní psychologie.
+Neloupané ocásky krevet jsou sice dražší než krevety celé a neloupané, ale podstatně levnější než ocásky loupané. Některé restaurace dávají neloupaným ocáskům krevet přednost. To platí hlavně pro salátové bary a studené pulty, ze kterých si zákazník může za jednotnou cenu nabrat kolik chce.
 
-Neloupané vařené ocásky vypadají totiž větší než ocásky loupané, svoji jasně červenou barvou jsou atraktivnější, ale na druhé straně odradí některé hosty kteří se nechtějí zabývat jejich loupáním.
+Neloupané vařené ocásky vypadají větší než ocásky loupané. Jsou také atraktivnější svou jasně červenou barvou. Na druhou stranu odradí hosty, kteří se nechtějí zabývat jejich loupáním. Tudíž efektu bohatosti pultu bylo dosaženo, ale procento spotřeby surovin to nikterak neovlivnilo.
 
-Tudíž efektu bohatosti pultu bylo dosaženo, ale procento spotřeby surovin to nikterak neovlivnilo.
-
-{id="loupane\_a\_odzilnene_ocasky"}
+{id="loupan\_a\_odilnn_ocsky"}
 
 ### Loupané a odžilněné ocásky
 
-Ať již čerstvé nebo zmrazené, loupané a odžilněné ocásky jsou označované jako P&D (zkratka pro Peeled and Deveined) a jejich velikost je označována rovněž počtem kusů na kilogram.
+Ať již čerstvé nebo zmrazené, loupané a odžilněné ocásky jsou označované jako _P&D {xml:lang="en"}_ (zkratka pro _peeled and deveined {xml:lang="en"}_). Jejich cena je podstatně vyšší než u ocásků neloupaných. Pro domácí potřebu je kupujeme jen zřídka. Pro restaurace jen pokud je jejich loupání pro nás neekonomické.
 
-Jejich cena je podstatně vyšší než u ocásků neloupaných a proto je pro domácí potřebu kupujeme jen zřídka a pro restaurace jen pokud je jejich loupání pro nás neekonomické.
+{class="example"}
 
-Vařené, loupané a odžilněné ocásky jsou z uvedených druhů nejdražší, protože v ceně je zakalkulováno nejenom jejich loupání ale i vaření.
+Vařené, loupané a odžilněné ocásky jsou z uvedených druhů nejdražší, protože je v ceně zakalkulováno nejenom jejich loupání ale i vaření. Pro domácnost jsou tyto ocásky zcela neekonomické, protože cenový rozdíl mezi ocásky a neloupanými syrovými ocásky je markantní.
 
-Pro domácnost jsou tyto ocásky zcela neekonomické protože cenový rozdíl mezi těmito ocásky a mezi neloupanými syrovými ocásky je markantní. Vaření krevetkových ocásků podrobně popsáno v oddělení Kdo, kdy, kde, co a jak.
+Ve velkých restauračních provozech, kde náklady na mzdy jsou rozhodujícím faktorem, a ve kterých používají vařených ocásků velké množství, se ale vyplatí tyto ocásky kupovat, protože představují úsporu času jak loupáním tak i vařením a nezanedbatelnou úsporou je i úspora místa pro skladování. Tyto ocásky přichází na trh většinou mrazené a po rozmrazení je manipulace s nimi velice rychlá.
 
-Ve velkých restauračních provozech, kde náklady na mzdy jsou rozhodujícím faktorem, a ve kterých používají vařených ocásků velké množství, se ale vyplatí tyto ocásky kupovat protože představují úsporu času jak loupáním tak i vařením a nezanedbatelnou úsporou je i úspora místa pro skladování. Tyto ocásky přichází na trh většinou mrazené a po rozmrazení je manipulace s nimi velice rychlá.
+ [1]: /krabi
+ [2]: /musle
+ [3]: /zdobeni
+ [4]: /sotyrovani
+ [5]: /grilovani
+ [6]: /celer_rapikaty#dalsi_zpusoby_podavani
+ [7]: /shrimp_de_jonghe
+ [8]: https://www.steakgrill.cz
 

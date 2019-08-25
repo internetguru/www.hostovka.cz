@@ -5,7 +5,7 @@
 
 # Zrání hovězího masa
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-08-25, do not edit -->
 
 {kw="kuchyňské techniky"}
 
@@ -27,7 +27,7 @@ Suché zrání (anglicky _dry aging_) je podstatně dražší a trvá delší do
 
 Během této doby se enzymy v mase rozloží, čímž se křehčí svaly a tkáně masa. Na povrchu maso ztratí vlhkost, čímž se vytvoří nepoživatelná slupka. Ta musí být odkrojena. Pečlivě kontrolované prostředí, potřebný čas a ztráta vrchní slupky podstatně navyšuje cenu.
 
-Při vlhkém zrání (anglicky _wet aging_) je maso vakuově zabalené do plastikového obalu a vloženo do krabic k distribuci. Obal zabraňuje ztrátě vlhkosti, kterou tím pádem maso více absorbuje, což napomáhá k jeho šťavnatosti a křehkosti.
+Při vlhkém zrání (anglicky _wet aging_) je maso vakuově zabalené do plastikového obalu a vloženo do krabic k distribuci. Tím, že obal zabraňuje ztrátě vlhkosti, jí maso více absorbuje, což napomáhá k jeho šťavnatosti a křehkosti.
 
 {id="ucel_zrani"}
 
@@ -63,7 +63,7 @@ Doba zrání masa je otázka osobní preference. Někteří lidé dají přednos
 
 V restauracích většina hostů dává přednost masu uzrálému, za což jsou ochotni zaplatit i něco navíc. Problém je v tom, že se stupeň zralosti masa dá zjistit jedině velice složitým testem zvaným _Warner-Bratzler shear force test_, který se v Česku hned tak používat nebude.
 
-Zrání masa nesmíme zaměňovat s [marinováním][1], o kterém si povíme později.
+Zrání masa nesmíme zaměňovat s [marinováním][1] o kterém si povíme později.
 
  [1]: /duseni#marinada
 

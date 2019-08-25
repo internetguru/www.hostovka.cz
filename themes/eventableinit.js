@@ -1,7 +1,8 @@
 require("IGCMS.Eventable", function () {
-  if (typeof ga === "function" || IGCMS.Eventable.debug) {
+  require("IGCMS.Moreable", function () {
     IGCMS.Eventable.init({
-      debug: true
+      debug: typeof ga !== "function"
     });
-  }
+  })
 })
+

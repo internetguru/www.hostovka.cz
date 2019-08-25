@@ -5,7 +5,7 @@
 
 # Zbytky
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
 
 {kw="pohostinství"}
 
@@ -29,7 +29,7 @@ Nejčastěji kladenou otázkou jak ze strany hostů, tak ze strany provozovatel�
 
 Další otázkou je, komu patří zbytky, které díky tomu vznikly.
 
-Při banketech, při kterých byla jídla připravena jen v objednaném množství, všechny zbytky patří logicky tomu, kdo si je objednal, a kdo za ně zaplatil. V tom případě je ale klient povinen zaplatit za obaly, případně za manipulaci s tím spojenou. 
+Při banketech, při kterých byla jídla připravena jen v objednaném množství, všechny zbytky patří logicky tomu, kdo si je objednal, a kdo za ně zaplatil. V tom případě je ale klient povinen zaplatit za obaly, případně za manipulaci s tím spojenou.
 
 Nicméně když klient na vzniklé zbytky nereflektuje, tak se musí vyhodit, a v tom nejlepším případě jsou nabídnuty personálu ke konzumaci na provozovně. V žádném případě si tyto zbytky zaměstnanci nesmí vzít domů, i kdyby to bylo k nakrmení domácího zvířectva. (Více na toto téma v semináři BEZPEČNOST).
 

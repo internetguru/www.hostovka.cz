@@ -1,9 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=117.html" data-og-image="files/preview/clanky/zbytky/preview.jpg" data-og-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=117.html" data-image="files/preview/clanky/zbytky/preview.jpg" data-type="article"}
 
 {id="zbytky" ctime="2005-11-26" author="Michael Klíma" authorid="hostovka/michael_klima"}
 
 # Zbytky
+
+<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -24,5 +26,4 @@ Plátky obalovaného, smaženého lilku (zbytek z minulého dne), rajská omáč
 Dno máslem vymaštěného pekáčku pokryjeme plátky smaženého lilku, pokryjeme tenkou vrstvou sýra a přelijeme bešamelovou omáčkou. Tímto způsobem přidáme ještě 2 nebo tři vrstvy smaženého lilku a ostatních surovin tak abychom zakončili bešamelovou omáčkou. Povrch posypeme strouhaným sýrem, pokapeme rozpuštěným máslem a pečeme v troubě dozlatova.
 
 Pečený lilek nakrájíme na porce požadované velikosti a podáváme jako hlavní chod s opečenými bramborami nebo s bramborovou kaší.
-
 

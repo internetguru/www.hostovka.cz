@@ -1,0 +1,17 @@
+
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=585.html" data-image="/files/preview/clanky/kalkulace/general.jpg" data-type="article"}
+
+{id="kalkulace" ctime="2011-09-16" author="Michael Klíma" short="Kalkulace" authorid="hostovka/michael_klima"}
+
+# Kalkulace
+
+<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+
+{kw="konzulting"}
+
+V České republice, jak již řečeno, jsou vlastní kalkulace nařízené zákonem na ochranu spotřebitele. Často si ale kladu otázku - ochranu proti komu? Proti nepoctivému restauratérovi, který by bez kalkulací své hosty šidil? Toto je dosti naivní názor, protože restauratér, který chce úmyslně šidit své hosty, je může šidit lépe s kalkulacemi než bez nich. V Americe (se kterou vám zřejmě již jdu na nervy), kalkulace zákonem nařízené nejsou, ale každý rozumný restauratér má vypracované kalkulace na všechna jídla a nápoje, a to ne pro ochranu spotřebitele, ale pro ochranu svojí. Americký restauratér se totiž snaží dát hostu za jeho peníze co možná nejvíce, ale aby mu při tom zbyl zasloužený zisk, tudíž musí vědět, co dělá. Bez této filozofie by moc dlouho pohostinství provozovat nemohl. V Americe to totiž není státní obchodní inspekce, ale host, který dříve nebo později odhalí restauratérovu nepoctivost nebo chamtivost, a potrestá ho ne pokutou, ale tím, že do jeho restaurace již nepřijde.
+
+Bez ohledu na to jestli jsou kalkulace nařízené nebo ne, je třeba si uvědomit, že jsou velice důležitý nástroj kontroly hospodaření a měly by být vypracovány hned po vypracování receptur.
+
+Nenaslouchejte šarlatánům, raďte se s odborníky!
+
