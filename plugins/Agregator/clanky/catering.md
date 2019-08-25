@@ -9,7 +9,7 @@
 
 {kw="gastronomie, případová studie, banket, catering"}
 
-Podle českých slovníků znamená anglické _cater {xml:lang="en"}_ nakupovat, obstarávat potraviny, postarat se o jídlo nebo zábavu, uspokojovat, ukájet, hovět, catering a banket, pořádat banket.
+Podle českých slovníků znamená anglické _cater {xml:lang="en"}_ nakupovat, obstarávat potraviny, postarat se o jídlo nebo zábavu, uspokojovat, ukájet, hovět. _Catering a banket {xml:lang="en"}_ tedy znamená pořádat banket.
 
 V jednom odborném českém gastronomickém slovníku se také píše: „_Caterer {xml:lang="en"}_ je osoba nebo firma, která dodává jídla a nápoje spolu s inventářem potřebným k jejich servisu s příslušným personálem tam, kam objednavatel určí. _Catering director {xml:lang="en"}_ je pak pracovník v hotelu, restauraci nebo jiném podobném zařízení, který zodpovídá za celou oblast cateringových obchodů.“
 
@@ -21,25 +21,25 @@ Funkce cateringu v našich hotelích zabezpečovalo takzvané banketní oddělen
 
 Jednou se uvolnilo místo šéfkuchaře v _Arlington Park Racetrack {xml:lang="en"}_, což bylo velmi populární koňské závodiště. Tehdy to bylo velice prestižní a nejlépe placené místo šéfkuchaře v celém Chicagu.
 
-Při plném obsazení tam bylo, včetně restaurace, banketních místností a několika samoobslužných bufetů, 50 000 míst k sezení. Byla tam velice silný catering s několika tisící místy ke stání.
+Při plném obsazení tam bylo, včetně restaurace, banketních místností a několika samoobslužných bufetů, 50 000 míst k sezení. Byl tam velice silný catering s několika tisící místy ke stání.
 
-Pro mnohé lidi byla návštěva závodiště celodenní záležitostí a každý musel jednou nebo dvakrát jíst. Takže se v restauracích, banketních síních a ve stáncích s jídly do ruky (anglicky _[finger food][1] {xml:lang="en"}_) prodalo 70 až 90 tisíc jídel denně. Vše muselo, jak se říká, projít mýma rukama.
+Pro mnohé lidi byla návštěva závodiště celodenní záležitostí, a každý musel jednou nebo dvakrát jíst. Takže se v restauracích, banketních síních a ve stáncích s jídly do ruky (anglicky _[finger food][1] {xml:lang="en"}_) prodalo 70 až 90 tisíc jídel denně. Vše muselo, jak se říká, projít mýma rukama.
 
-Restaurace byla asi jeden kilometr dlouhá a byla řešena kaskádovitě, tak aby od každého stolu bylo vidět na dráhu. Některé stoly byly od kuchyně natolik vzdáleny, že se říkalo, že si s sebou číšník musí brát svačinu na cestu, aby nezemřel hlady.
+Restaurace byla asi jeden kilometr dlouhá a byla řešena kaskádovitě tak, aby od každého stolu bylo vidět na dráhu. Některé stoly byly od kuchyně natolik vzdáleny, že se říkalo, že si s sebou číšník musí brát svačinu na cestu, aby nezemřel hlady.
 
-Hlavní budova měla 5 pater a v každém patře byly banketní místnosti. Další dvě patra byla v suterénu, kde byly sklady a kanceláře. Kuchyně byla v 5. patře a mimo několika osobních výtahů tam jezdil i výtah do kterého mohl vjet celý náklaďák.
+Hlavní budova měla 5 pater a v každém patře byly banketní místnosti. Další dvě patra byla v suterénu, kde byly sklady a kanceláře. Kuchyně byla v 5. patře a mimo několika osobních výtahů tam jezdil i výtah, do kterého mohl vjet celý náklaďák.
 
-Proč vám to ale takto dopodrobna popisuji… Všechno má totiž hodně společného s bankety, lépe řečeno _parties {xml:lang="en"}_, které se tam pořádaly a s cateringem o kterém je řeč.
+Proč vám to ale takto dopodrobna popisuji… Všechno má totiž hodně společného s bankety, lépe řečeno _parties {xml:lang="en"}_, které se tam pořádaly a s cateringem, o kterém je řeč.
 
-Už tehdy jsem měl již relativně dobré jméno jako dobrý ekonom a organizátor. Nicméně se mě ředitel při přijímacím pohovoru neptal na to, kolik mám medailí nebo jestli mě někdo prohlásil za osobnost. To by bylo rozhodující například v Česku. Zeptal se mě jestli mám nějaké zkušenosti s _parties {xml:lang="en"}_ neboli s bankety.
+Už tehdy jsem měl relativně dobré jméno jako dobrý ekonom a organizátor. Nicméně se mě ředitel při přijímacím pohovoru neptal na to, kolik mám medailí nebo jestli mě někdo prohlásil za osobnost. (To by bylo rozhodující například v Česku.) Zeptal se mě jestli mám nějaké zkušenosti s _parties {xml:lang="en"}_ neboli s bankety.
 
 Nemohl jsem mu říci, že v Česku, v hotelu Alcron, kde jsem se vyučil, byl celý hotel vzhůru nohama, když jsme měli banket pro 150 lidí. Řekl jsem mu, že jsem v Americe již dělal v hotelu, kde jsme měli _parties {xml:lang="en"}_ kolem 400 lidí, což tedy byla velká [chucpa][2].
 
 Na to mi pan ředitel řekl, že takové _parties {xml:lang="en"}_ mají také. Mají jich ale třeba 10 až 12 a všechny najednou o přestávce mezi závody. Tehdy řekl, že je zvědav, jestli to zvládnu, protože kdyby ne, tak že si mohu hned hledat jiné místo. _What a country! {xml:lang="en"}_
 
-Já už jsem na to byla připraven od mého německého přítele Maxe Egglofa, který tam byl šéfem přede mnou. Ten mi to vše dopodrobna popsal. Takže jsem mu řekl, že vím, kdo tady dělal přede mnou a když to dokázal on, že to já dokáži také. Tím pádem jsem práci dostal.
+Já už jsem na to byl připraven od mého německého přítele Maxe Egglofa, který tam byl šéfem přede mnou. Ten mi to vše dopodrobna popsal. Takže jsem mu řekl, že vím, kdo tady dělal přede mnou a když to dokázal on, že to já dokáži také. Tím pádem jsem práci dostal.
 
-Asi 98 % z mé 10 až 12hod pracovní doby byla příprava, plánování a organizace a jen 2 % bylo praktické vaření. Byl jsem tedy více v kanceláři než v kuchyni. Nakonec jsem to vydržel dva roky a věřte mi, že jsem Čechům ostudu neudělal. Dokonce jsem pracoval i na jiných koňských závodištích a vypracoval jsem se na odborníka rychlého stravování tisíců lidí najednou.
+Asi 98 % z mé 10 až 12hodinové pracovní doby byla příprava, plánování a organizace a jen 2 % bylo praktické vaření. Byl jsem tedy více v kanceláři než v kuchyni. Nakonec jsem to vydržel dva roky a věřte mi, že jsem Čechům ostudu neudělal. Dokonce jsem pracoval i na jiných koňských závodištích a vypracoval jsem se na odborníka rychlého stravování tisíců lidí najednou.
 
 ## Pravý význam slova catering
 
@@ -67,7 +67,7 @@ Catering má v Americe tři segmenty. První segment jsou ti, kteří catering p
 
 {class="important"}
 
-O třetím segmentu u nás zatím moc nemluví a pochybuji, že se tím někdo oficiálně zabývá. V Americe to je ale například ta nejdůležitější skupina.
+O třetím segmentu se u nás zatím moc nemluví a pochybuji, že se tím někdo oficiálně zabývá. V Americe to je ale naopak ta nejdůležitější skupina.
 
 Naplánovat nějakou společnou či tematickou večeři pro několik lidí, které navíc dobře známe, není v zásadě velký problém. Naplánovat v Česku raut, [koktejl][3] party, recepci, banket, bufet, svatební hostinu a podobně pro 100 nebo 200 lidí dnes není nic tak těžkého, obzvláště pokud víme, pro koho má být.
 
@@ -79,7 +79,7 @@ Není nic neobvyklého, že organizace, která má pobočky ve všech státech A
 
 Funkce plánovače je velmi dobře placená. Navíc z ní plynou benefity jako je cestování, pobyt v hotelích či resortech, které musí napřed navštívit a samozřejmě dobré jídlo a dobré pití. Tato funkce předpokládá dokonalou znalost cateringu a spadá do takzvané kongresové turistiky.
 
- [1]: /sendvice
- [2]: /chucpa
- [2]: /koktejly
+[1]: /sendvice 
+[2]: /chucpa 
+[2]: /koktejly
 
