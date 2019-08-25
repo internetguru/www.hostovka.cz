@@ -3,7 +3,7 @@
 
 {id="cash\_bar" ctime="2008-07-16" author="Michael Klíma" short="Cash Bar" mtime="2018-08-19"}
 
-# Bar za hotové neboli cache bar
+# Bar za hotové neboli cash bar
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
@@ -11,7 +11,7 @@
 
 _Cash bar {xml:lang="en"}_, _[open bar][1] {xml:lang="en"}_, _[host bar][2] {xml:lang="en"}_ nebo _[no host bar][3] {xml:lang="en"}_ jsou slova, která většině běžných návštěvníku hotelů a restaurací nic neříkají. _Cash bar_ v přesném překladu znamená „bar za hotové“. Je to výraz, se kterým se setkáte v pohostinství a v [cateringu][4] v anglicky mluvících zemích, zejména v Americe.
 
-_Cash bar_ je v zásadě opak výrazu _[open bar[1] {xml:lang="en"}_ nebo _host bar[2] {xml:lang="en"}_, což býval dřív v Americe velký tahák. Jako studenti Hostovky byste význam těchto výrazů měli znát, abyste se jako hosté nedostali do trapné situace anebo jako hostitelé do rozporu se zákonem.
+_Cash bar {xml:lang="en"}_ je v zásadě opak výrazu _[open bar[1] {xml:lang="en"}_ nebo _host bar[2] {xml:lang="en"}_, což býval dřív v Americe velký tahák. Jako studenti Hostovky byste význam těchto výrazů měli znát, abyste se jako hosté nedostali do trapné situace anebo jako hostitelé do rozporu se zákonem.
 
 {class="example"}
 
