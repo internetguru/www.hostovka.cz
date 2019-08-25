@@ -5,11 +5,11 @@
 
 # Původ a typy sendvičů
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
-
 {kw="jídla a jídelní lístky, sendvič, Amerika, Francie, České republika, chlebíčky, recept"}
 
 Jedním z posláních Hostovky je připravit své studenty na jídla, se kterými se setkají při cestách do zahraničí. O rychlém občerstvení jsem něco málo již napsal, ale obávám se, že jsem zapomněl na něco, co je Čechům velmi blízké – na sendviče. Ty se totiž normálně za rychlé občerstvení nepovažují.
+
+{id="pvod_sendvie"}
 
 ## Původ sendviče
 
@@ -22,6 +22,8 @@ Tato teorie nebyla nikdy historicky doložena, ale existuje druhá teorie, ktero
 Já jako kluk jsem totiž zbožňoval krajíc čerstvého chleba namazaný máslem nebo ještě raději škvarkovým sádlem. Největším požitkem ale bylo, když jsem si krajíc chleba mohl vzít na ulici, kde jsem s kluky hrál fotbal. Velmi často se ale stalo, že mi chleba upadl na zem a z nějakého důvodu vždycky namazanou stranou dolů.
 
 Moje maminka, která si mimo jiné věděla rady se vším, to vyřešila tak, že chleba po namazání překrojila a složila obě půlky dohromady. Takže když mi pak chleba upadl na zem, tak jsem ho jen oprášil a dal se jíst dál.
+
+{id="sendvie\_ve\_svt\_a\_v_esku"}
 
 ## Sendviče ve světě a v Česku
 
@@ -39,11 +41,15 @@ Nejbohatší muž světa _Bill Gates {xml:lang="en"}_, který rozhodně není [s
 
 Všechna jídla, jako jsou plody moře, smažená kuřata (_Kentucky Fried Chicken {xml:lang="en"}_), _Fish and Chips {xml:lang="en"}_, a další jsou _finger foods {xml:lang="en"}_. Je to ale i náš párek, langoš, opečená klobása, párek v rohlíku apod.
 
+{id="sendvie\_ve\_francii"}
+
 ### Sendviče ve Francii
 
 Francouzská kuchyně má svoje _casse-croûte {xml:lang="fr"}_, _croque-monsieur {xml:lang="fr"}_ a _croque-madame {xml:lang="fr"}_ sendviče, se kterými jsem se tam setkal hned, jak jsem tam přišel, v roce 1945.
 
 _Croque-monsieur {xml:lang="fr"}_, a _croque-madame {xml:lang="fr"}_ jsou prachobyčejné sendviče. Francouzští kuchaři jsou ale takoví šovinisté, že by na jídelních lístcích nepřipustili cizí výraz jako je _sandwich {xml:lang="en"}_. Proto se sendviče ve Francii uvádí většinou jen jako _baguette {xml:lang="fr"}_.
+
+{id="esk\_obloen\_chlebky"}
 
 ### České obložené chlebíčky
 
@@ -61,6 +67,8 @@ Naštěstí se tradice českých obložených chlebíčků i nadále udržuje v 
 
 Profesionální výroba chlebíčku má své finty a triky, a to nejenom při výrobě, ale i při uchování čerstvosti. Popisovat vám je tady ale nebudu, protože Hostovka není žádná škola vaření. Místo toho vám povím více o dalších sendvičích.
 
+{id="typy\_americkch\_sendvi"}
+
 ## Typy amerických sendvičů
 
 Sendviče dnes ve světě získaly takový respekt, že se objevují na jídelních lístcích i velmi drahých restaurací. _Snack bary {xml:lang="en"}_, _sandwich shopy {xml:lang="en"}_ a jiné restaurace s rychlou obsluhou je mají většinou na hlavním místě.
@@ -75,7 +83,9 @@ Uzavřené sendviče jsou v Americe velmi populární. To hlavně proto, že se 
 
 {class="example"}
 
-Nicméně v Česku jsem se setkal i s takovými rádoby odborníky kteří mi řekli: „Moje děti jsou na hamburgery jako diví, ale já bych se toho ani nedotknul.“ _What a [BS][2] {xml:lang="en"}_!
+Nicméně v Česku jsem se setkal i s takovými rádoby odborníky kteří mi řekli: „Moje děti jsou na hamburgery jako diví, ale já bych se toho ani nedotknul.“ _What a [BS][2] {xml:lang="en"}_ ! 
+
+{id="sendvi\_monte\_christo\_a\_club_sendvi"}
 
 ### Sendvič Monte Christo a Club Sendvič
 
@@ -105,16 +115,17 @@ Další populární americký sendvič je známý pod vžitým názvem _BLT {xml
 
 Pravý americký _BLT {xml:lang="en"}_ je ale pěkný prevít, protože musí být čerstvý a křupavý. Níže je uveden recept na původní _BLT {xml:lang="en"}_ sendvič.
 
-  1. Krajíček čerstvě opečeného křupavého amerického bílého chleba, kterému říkám _bílá buchta_, pomažeme majonézou, a pokryjeme ho čerstvými listy křupavého ledového salátu. 
-  2. Navrch dáme několik kousků dokřupava grilované americké slaniny, na to ještě 2 plátky rajčete. 
-  3. Sendvič přikryjeme druhým krajíčkem dokřupava opečeného chleba pomazaného majonézou. 
-  4. Uzavřený sendvič propíchneme na dvou protilehlých rozích párátkem (aby z něj nevypadla náplň), rozkrojíme ho na dva stejné trojúhelníky. 
+  1. Krajíček čerstvě opečeného křupavého amerického bílého chleba, kterému říkám _bílá buchta_, pomažeme majonézou, a pokryjeme ho čerstvými listy křupavého ledového salátu.
+  2. Navrch dáme několik kousků dokřupava grilované americké slaniny, na to ještě 2 plátky rajčete.
+  3. Sendvič přikryjeme druhým krajíčkem dokřupava opečeného chleba pomazaného majonézou.
+  4. Uzavřený sendvič propíchneme na dvou protilehlých rozích párátkem (aby z něj nevypadla náplň), rozkrojíme ho na dva stejné trojúhelníky.
   5. Trojúhelníky dáme na teplý talíř, přidáme bramborové lupínky a pravý americký _BLT {xml:lang="en"}_ je na světě.
 
 {class="example"}
 
 V Chicagu, kde lidé mají rádi kyselé okurky, k tomuto sendviči přidávají kyselou okurku, ale můžete k němu dát i coleslaw. Tím, že je všechno v sendviči tak křupavé, tak se s ním při jídle dost zasviníte, ale to k pravému americkému _BLT {xml:lang="en"}_ patří.
 
-[1]: /gastronomove 
-[2]: /bullshit 
-[3]: https://www.steakgrill.cz
+ [1]: /gastronomove
+ [2]: /bullshit
+ [3]: https://www.steakgrill.cz
+
