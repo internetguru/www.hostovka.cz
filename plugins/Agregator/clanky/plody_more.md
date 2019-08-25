@@ -63,11 +63,11 @@ Chladnovodní krevetky
 Teplovodní krevetky
 :   ze států Mexického Zálivu, Floridy, Alabamy, Missipi, Luisiany a Texasu jsou nejčastěji označovány jako _hnědé_, _bílé_ a _růžové_. 
     
-      * Nevařené _hnědé krevety_ _(Penaeus aztecus) {xml:lang="la"}_ mají hnědo-červené skořápky a jejich maso má o něco silnější chuť než krevetky bílé díky vyššímu obsahu jódu. V důsledku toho jsou hnědé krevetky zpravidla levnější než druhé dva druhy. 
-      * Nejdražší krevetky jsou zpravidla _krevetky bílé_ _(Penaeus setiferus) {xml:lang="la"}_. Přestože jsou specifikovány jako bílé, tak jsou ve skutečnosti některé spíše šedivé. 
-      * _Růžové krevetky_ _(Penaeus duorarum) {xml:lang="la"}_ mají různé barvy včetně nahnědlé, růžové a citrónově žluté. 
-      * Dvě kategorie malých amerických teplovodních krevetek, _red shrimp {xml:lang="en"}_ a _rock shrimp {xml:lang="en"}_, pochází z Virginie a z Mexického Zálivu. Krevetky z Mexického Zálivu _(Sicyonia brevirostris) {xml:lang="la"}_ se na americkém trhu objevují nečastěji. 
-      * _Rock shrimp {xml:lang="en"}_ mají jméno podle tvrdých skořápek. Maso těchto krevetek je pevné, podobné masu humřímu a jsou zpravidla lacinější než ostatní druhy. 
+      * Nevařené _hnědé krevety_ _(Penaeus aztecus) {xml:lang="la"}_ mají hnědo-červené skořápky a jejich maso má o něco silnější chuť než krevetky bílé díky vyššímu obsahu jódu. V důsledku toho jsou hnědé krevetky zpravidla levnější než druhé dva druhy.
+      * Nejdražší krevetky jsou zpravidla _krevetky bílé_ _(Penaeus setiferus) {xml:lang="la"}_. Přestože jsou specifikovány jako bílé, tak jsou ve skutečnosti některé spíše šedivé.
+      * _Růžové krevetky_ _(Penaeus duorarum) {xml:lang="la"}_ mají různé barvy včetně nahnědlé, růžové a citrónově žluté.
+      * Dvě kategorie malých amerických teplovodních krevetek, _red shrimp {xml:lang="en"}_ a _rock shrimp {xml:lang="en"}_, pochází z Virginie a z Mexického Zálivu. Krevetky z Mexického Zálivu _(Sicyonia brevirostris) {xml:lang="la"}_ se na americkém trhu objevují nečastěji.
+      * _Rock shrimp {xml:lang="en"}_ mají jméno podle tvrdých skořápek. Maso těchto krevetek je pevné, podobné masu humřímu a jsou zpravidla lacinější než ostatní druhy.
 
 Sladkovodní krevetky
 :   známé jako _Malaysian prawn {xml:lang="en"}_ _(Macrobrachium rosenbergii) {xml:lang="la"}_ se pěstují na farmách na Hawaji, v Kalifornii a v několika dalších státech. Tyto krevetky jsou velké a některé mohou vážit 110 až 170 gramů.
