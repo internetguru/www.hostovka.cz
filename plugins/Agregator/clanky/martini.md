@@ -5,7 +5,7 @@
 
 # Historie koktejlu Martini
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
 
 {kw="nápoje, koktejly"}
 
@@ -56,3 +56,4 @@ Po skončení prohibice se ukázalo, že Martini bylo jen v jakémsi spánku. B�
 Od této doby Martini obsahovalo jen suchý vermut (nikdy již sladký) a hosté požadovali suchá Martini čím dále tím více a vermutu čím dál tím méně.
 
 Koncem 60. let koktejly Martini prožívaly tvrdá léta. Byly sice stále ještě objednávány, ale dostaly se na zadní sedadlo. Na první místo se dostávaly _soda pops_ a víno. Na toto téma by mohly být napsány celé spisy, ale dá se však říci, že v polovině 80. let přišlo Martini znovu do obliby.
+

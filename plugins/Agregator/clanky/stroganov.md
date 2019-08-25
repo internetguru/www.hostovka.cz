@@ -5,7 +5,7 @@
 
 # Hovězí Stroganov s hranolky
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -73,7 +73,7 @@ Použité technice se říká [vaření z polotovarů][1] (anglicky _assembly co
       1. V kotlíku smícháme tři čtvrtiny dávky kyselé smetany s moukou. To zabrání tomu, aby se omáčka srazila.
       2. Přimícháme hořčici, mletý kmín a popřípadě trošku worcestrové omáčky.
       3. Kvásek rozředíme trochou mléka a dáme stranou.
-  2. Nakrájené maso, osolíme, opepříme a orestujeme na pomaštěném gridlu nebo ve velké sklopné pánvi a dáme na teplo.
+  2. Nakrájené maso, osolíme, opepříme a orestujeme na pomaštěném gridlu nebo ve velké sklopné pánvi a dáme na teplo. 
       * Ve velké kuchyni můžeme maso dát v tenkých vrstvách na plechy (anglicky _sheet pan_) a opéct ho dozlatova v konvektomatu nebo v horké troubě. {class="example"}
   3. Mezitím ve sklopné pánvi zpěníme cibuli. Dříve než začne cibule pouštět šťávu, tak přidáme orestované maso a vše na prudkém ohni dobře promícháme.
   4. Dříve než maso začne pouštět šťávu a ztrácet na váze, přimícháme kvásek a vše přivedeme do varu.

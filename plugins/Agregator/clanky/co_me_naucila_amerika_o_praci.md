@@ -7,7 +7,9 @@
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
-{kw="Životopis"}
+<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+
+{kw="životopis"}
 
 V Česku vám stačí titul a nějaké medaile. V Americe ale tituly nejsou a na medaile se také moc nevěří. Můžete tam být jakkoli dobří, ale pokud to nikdo neví, tak si za to nic nekoupíte. Musíte mýt neustále vidět, propagovat se a nesmíte být skromní.
 
