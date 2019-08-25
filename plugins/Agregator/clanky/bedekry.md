@@ -5,8 +5,6 @@
 
 # Cestovní turistický průvodce neboli bedekr
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
-
 {kw="co-kdy-kde, průvodce, kuchařské čepice"}
 
 Bedekr je knižní cestovní turistický průvodce nebo cestopis. Bedekr je dalším důkazem, že se cestování neboli cestovní ruch nedá oddělit od pohostinství. Kdyby Bedekr neuváděl, kde se může člověk při svých cestách najíst, tak by asi dlouho nepřežil.
@@ -21,6 +19,8 @@ Ani jeden z oficiálních bedekrů neuvádí restaurace, které jsou tak špatn�
 
 Proto bych chtěl studentům Hostovky říci, že by na bedekry neměli moc spoléhat. Bohužel se člověk nemůže spoléhat ani na doporučení přátel, a ani na doporučení některých „rádoby“ [gurmánů][1].
 
+{id="esk_bedekry"}
+
 ## České bedekry
 
 České bedekry hodnotí restaurace většinou jen podle cen. V Americe je to běžné, protože tam dostanete to, za co jste si zaplatili. To ale v Česku neplatí.
@@ -32,6 +32,8 @@ Některé restaurace uváděné například pod cenovou skupinou 1 000 Kč, vám
 {class="example"}
 
 Některé bedekry a cestovní průvodci na západě vyznačují ceny jídel znakem pro dolary `$$$$`, a kvalitu jídel a nápojů kuchařskými čepicemi (anglicky _toque {xml:lang="en"}_). Někteří hodnotitelé jídel označují kvalitu či lépe řečeno chuť jídel jazýčky. Čím více čepic, nebo čím více jazýčků, tím lepší kvalita jídla.
+
+{id="odboka\_ke\_kuchaskm_epicm"}
 
 ## Odbočka ke kuchařským čepicím
 
@@ -47,11 +49,14 @@ V Americe se nepřikrytá hlava při přípravě potravin pokutuje. _What a coun
 
 Pokutování je například i v Kazachstánu. Tam jsem se setkal s tím, že místní kuchařky nosily velice pracně vykrajované (kroužkované) plátěné a naškrobené čepice. Výška čepic byla v zásadě stejná, ale některé čepice byly přímo uměleckými díly a každá kuchařka byla na svoji čepici velice pyšná.
 
+{id="hodnocen\_podle\_hvzdiek"}
+
 ## Hodnocení podle hvězdiček
 
 Abych vám řekl pravdu, tak na hvězdičky také nevěřím. Nevěřil jsem hvězdě na Kremlu a nevěřím ani hvězdičkám na hotelech. Jak víte, tak si jich na svůj hotel může dát každý kolik chce.
 
 Jediné hvězdy, kterým věřím, jsou hvězdy na nebi. Nevěřím ale tomu, že příznivá konstelace hvězd má vliv na kvalitu jídla, nápojů a servisu. Proto k označení kvality jídel a servisu a případně cen, budu ještě hodně dlouho pomyslně používat naše bývalé cenové skupiny.
 
-[1]: /gastronomove#gurman 
-[2]: /kucharske_tituly#sefkuchar
+ [1]: /gastronomove#gurman
+ [2]: /kucharske_tituly#sefkuchar
+

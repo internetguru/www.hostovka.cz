@@ -5,8 +5,6 @@
 
 # Catering
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
-
 {kw="gastronomie, případová studie, banket, catering"}
 
 Podle českých slovníků znamená anglické _cater {xml:lang="en"}_ nakupovat, obstarávat potraviny, postarat se o jídlo nebo zábavu, uspokojovat, ukájet, hovět. _Catering a banket {xml:lang="en"}_ tedy znamená pořádat banket.
@@ -17,13 +15,15 @@ To všechno je sice pravda, ale kdyby byl catering takhle jednoduchý, tak by do
 
 Funkce cateringu v našich hotelích zabezpečovalo takzvané banketní oddělení. To bylo proto, že mimo rautů a banketů jsme se s mnohými jinými společenskými událostmi téměř nesetkali. Bankety tehdy byly ale také něco jiného. O tom se tady ale nebudu rozepisovat.
 
+{id="ppadov\_studie\_\_catering\_na\_americkm\_koskm_zvoditi"}
+
 ## Případová studie – catering na americkém koňském závodišti
 
 Jednou se uvolnilo místo šéfkuchaře v _Arlington Park Racetrack {xml:lang="en"}_, což bylo velmi populární koňské závodiště. Tehdy to bylo velice prestižní a nejlépe placené místo šéfkuchaře v celém Chicagu.
 
 Při plném obsazení tam bylo, včetně restaurace, banketních místností a několika samoobslužných bufetů, 50 000 míst k sezení. Byl tam velice silný catering s několika tisící místy ke stání.
 
-Pro mnohé lidi byla návštěva závodiště celodenní záležitostí, a každý musel jednou nebo dvakrát jíst. Takže se v restauracích, banketních síních a ve stáncích s jídly do ruky (anglicky _[finger food][1] {xml:lang="en"}_) prodalo 70 až 90 tisíc jídel denně. Vše muselo, jak se říká, projít mýma rukama.
+Pro mnohé lidi byla návštěva závodiště celodenní záležitostí, a každý musel jednou nebo dvakrát jíst. Takže se v restauracích, banketních síních a ve stáncích s jídly do ruky (anglicky _[finger food][1] {xml:lang="en"}_ ) prodalo 70 až 90 tisíc jídel denně. Vše muselo, jak se říká, projít mýma rukama. 
 
 Restaurace byla asi jeden kilometr dlouhá a byla řešena kaskádovitě tak, aby od každého stolu bylo vidět na dráhu. Některé stoly byly od kuchyně natolik vzdáleny, že se říkalo, že si s sebou číšník musí brát svačinu na cestu, aby nezemřel hlady.
 
@@ -41,11 +41,15 @@ Já už jsem na to byl připraven od mého německého přítele Maxe Egglofa, k
 
 Asi 98 % z mé 10 až 12hodinové pracovní doby byla příprava, plánování a organizace a jen 2 % bylo praktické vaření. Byl jsem tedy více v kanceláři než v kuchyni. Nakonec jsem to vydržel dva roky a věřte mi, že jsem Čechům ostudu neudělal. Dokonce jsem pracoval i na jiných koňských závodištích a vypracoval jsem se na odborníka rychlého stravování tisíců lidí najednou.
 
+{id="prav\_vznam\_slova_catering"}
+
 ## Pravý význam slova catering
 
 Catering je anglický výraz, který má několik významů. I když jsou si velice podobné, tak se v britské a americké gastronomické angličtině liší.
 
 V Anglii se pod pojmem catering rozumí celý pohostinský průmysl zvaný _catering industry {xml:lang="en"}_. Ve spojených státech, kde je pohostinství spíše známo jako _hospitality industry {xml:lang="en"}_ nebo jako _hospitality and travel industry {xml:lang="en"}_, je catering jen jedním segmentem tohoto enormního průmyslu.
+
+{id="pravidla\_americkho\_cateringu"}
 
 ## Pravidla amerického cateringu
 
@@ -61,6 +65,8 @@ Problém je, že detailů, ke kterým je nutné přihlížet, je mnoho. Jako obo
 
 V Americe je catering enormní průmysl a jelikož to také dělá kde kdo, tak jeho provozovatelé musí být certifikováni. Na něco takového jako certifikace se ale v Česku zatím moc nevěří.
 
+{id="ti\_segmenty\_americkho_cateringu"}
+
 ### Tři segmenty amerického cateringu
 
 Catering má v Americe tři segmenty. První segment jsou ti, kteří catering provozují a kteří služby cateringu nabízí neboli poskytují. Druhý segment jsou ti, kteří tyto služby využívají neboli jeho konzumenti, případně hosté. Třetí segment jsou koordinátoři neboli plánovači.
@@ -69,7 +75,7 @@ Catering má v Americe tři segmenty. První segment jsou ti, kteří catering p
 
 O třetím segmentu se u nás zatím moc nemluví a pochybuji, že se tím někdo oficiálně zabývá. V Americe to je ale naopak ta nejdůležitější skupina.
 
-Naplánovat nějakou společnou či tematickou večeři pro několik lidí, které navíc dobře známe, není v zásadě velký problém. Naplánovat v Česku raut, [koktejl][3] party, recepci, banket, bufet, svatební hostinu a podobně pro 100 nebo 200 lidí dnes není nic tak těžkého, obzvláště pokud víme, pro koho má být.
+Naplánovat nějakou společnou či tematickou večeři pro několik lidí, které navíc dobře známe, není v zásadě velký problém. Naplánovat v Česku raut, \[koktejl\]\[3\] party, recepci, banket, bufet, svatební hostinu a podobně pro 100 nebo 200 lidí dnes není nic tak těžkého, obzvláště pokud víme, pro koho má být.
 
 Naplánovat ale kongres, sjezd apod. pro několik tisíc lidí už je zatraceně tvrdý oříšek. Máte ponětí, co se stane, když si pak několik tisíc lidí stěžuje, že to za nic nestálo?
 
@@ -79,7 +85,6 @@ Není nic neobvyklého, že organizace, která má pobočky ve všech státech A
 
 Funkce plánovače je velmi dobře placená. Navíc z ní plynou benefity jako je cestování, pobyt v hotelích či resortech, které musí napřed navštívit a samozřejmě dobré jídlo a dobré pití. Tato funkce předpokládá dokonalou znalost cateringu a spadá do takzvané kongresové turistiky.
 
-[1]: /sendvice 
-[2]: /chucpa 
-[2]: /koktejly
+ [1]: /sendvice
+ [2]: /koktejly
 

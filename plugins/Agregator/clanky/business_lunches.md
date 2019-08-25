@@ -5,8 +5,6 @@
 
 # Pracovní a firemní obědy
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
-
 {kw="restaurace a servis, menu, obědy, podnikání, grazing, jídelní lístek"}
 
 V Česku byla v době socialismu pracovním obědům (anglicky _business lunch {xml:lang="en"}_) věnována mimořádná pozornost, protože tehdy bylo jídlo a pití hlavním předmětem.
@@ -14,6 +12,8 @@ V Česku byla v době socialismu pracovním obědům (anglicky _business lunch {
 Pod pojmem _businessman {xml:lang="en"}_ si dříve každý představoval cizince, který neví co s penězi, a kterému se od nich muselo nějak odpomoct. Moc se o tom nemluví, ale množství jídel a hlavně alkohol podávaný při těchto příležitostech měl přispět ke snadnějšímu jednání se západními partnery. Proto se podával vždy v neomezeném množství.
 
 Dnes si ale většina inteligentních západních podnikatelů jednak hlídá svoji dietu přísněji než kdokoliv jiný, a navíc nechtějí utrácet drahocenný čas několikahodinovými obědy. Popisy okázalých pracovních obědů, při kterých se podává spousta koktejlů, steaků, těžkých vín a sytých moučníků, jsou pohádky z tisíce a jedné noci.
+
+{id="menu\_na\_pracovn_obdy"}
 
 ## Menu na pracovní obědy
 
@@ -30,6 +30,8 @@ Pokud do vaší restaurace přichází ojedinělé skupiny za účelem oběda a 
 Pokud chceme hovořit o vlivu dobrého jídla a pití na obchodní jednání, tak se zde stojí za to zmínit o VIP podnikatelských klubech (anglicky _VIP Business Clubs {xml:lang="en"}_. Na podporu uzavření velkých obchodních transakcí se k jídlu a pití ještě dodává „šťáva“ v podobě servírek nahoře bez.
 
 Přestože jsou tyto kluby kritizovány kdekým, tak v západním světě rostou jako houby po dešti. Nepochybuji tedy o tom, že i v České republice podobné kluby vzniknou. Češi, jak je znám, jsou papežtější než papež, a musí každého přetrumfnout. Obávám se proto, že u nás servírky nebudou jen nahoře bez.
+
+{id="pracovn_porady"}
 
 ## Pracovní porady
 
@@ -49,7 +51,8 @@ _Grazing {xml:lang="en"}_ se dá do češtiny přeložit jako pastva nebo krmen�
 
 Tyto podniky nabízejí jak [sendviče][2], plněné [bramborové slupky][3] nebo [smažená kuřecí křidélka][4].
 
-[1]: /jidelni_listek 
-[2]: /sendvice 
-[3]: /bramborove_lupinky 
-[4]: /kureci_kridelka 
+ [1]: /jidelni_listek
+ [2]: /sendvice
+ [3]: /bramborove_lupinky
+ [4]: /kureci_kridelka
+

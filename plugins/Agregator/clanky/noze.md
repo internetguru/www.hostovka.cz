@@ -5,8 +5,6 @@
 
 # Vše o nožích
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
-
 {kw="stroje a náčiní, nože, výroba nožů, broušení, ostření, ocílka"}
 
 Lidé si myslí, že nůž je nůž, ale jen na samotné maso jich existuje tolik, že bych u toho strávil zbytek mládí, než bych vám je všechny popsal. Nožů na maso, takzvaných řeznických (anglicky _butcher's knives {xml:lang="en"}_) je nekonečná řada. To samé platí o kuchařských nožích (anglicky _chef's knives {xml:lang="en"}_), které se navíc dělí na maso syrové a maso vařené.
@@ -14,6 +12,8 @@ Lidé si myslí, že nůž je nůž, ale jen na samotné maso jich existuje toli
 {class="example"}
 
 Lidé se mě často ptají, na co si u nožů musí dávat pozor. No přeci na to, abyste se neřízli. K tomu vám mohu z vlastní praxe říci, že se častěji říznete tupým než ostrým nožem.
+
+{id="vroba_no"}
 
 ## Výroba nožů
 
@@ -25,7 +25,7 @@ Kování nožů je zdlouhavější, a tudíž dražší proces než vysekáván�
 
 ## Americká anatomie nože
 
-Nůž má dvě základní části – ostří, anglicky zvané _blade {xml:lang="en"}_ a rukojeť, anglicky zvanou _handle {xml:lang="en"}_. Rukojeť může být z jednoho nebo i z více kusů. 
+Nůž má dvě základní části – ostří, anglicky zvané _blade {xml:lang="en"}_ a rukojeť, anglicky zvanou _handle {xml:lang="en"}_. Rukojeť může být z jednoho nebo i z více kusů.
 
 Důležité je, aby byla rukojeť dobře tvarovaná a aby umožňovala pevné držení. To zlepšuje přesnost krájení, brání uklouznutí a zvyšuje bezpečnost.
 
@@ -54,7 +54,7 @@ Nože podle potřeby brousíme třeba i stokrát denně. K tomu bychom si ale m�
 
 {class="example"}
 
-Ostrý nůž poznáte podle toho, že se vám zastaví na nehtu. Jestliže nůž sklouzne, a nezastaví se, tak pravděpodobně není dost ostrý. Pro  vlastní bezpečnost se při tomto testu nožem nesnažte pohybovat. Pokud je nůž skutečně ostrý, tak byste se mohli snadno zranit.
+Ostrý nůž poznáte podle toho, že se vám zastaví na nehtu. Jestliže nůž sklouzne, a nezastaví se, tak pravděpodobně není dost ostrý. Pro vlastní bezpečnost se při tomto testu nožem nesnažte pohybovat. Pokud je nůž skutečně ostrý, tak byste se mohli snadno zranit.
 
 {id="brouseni\_na\_kameni"}
 
@@ -71,6 +71,8 @@ Některé brousky jsou zbytečně drahé. Postačí vám kámen na broušení, i
 
 Dnes jsou na trhu velice praktické a levné brousky o třech stupních drsnosti kamenů. Jakmile je nůž dostatečně nabroušen na kamenech, přistoupíme k jeho ostření na ocílce.
 
+{id="osten\_na\_oclce"}
+
 ### Ostření na ocílce
 
 Ostření neboli obtahování nožů není tak jednoduché, jak se zdá. To, co vidíte, a slyšíte u některých kuchařů při obtahování nožů je jen komedie a ve skutečnosti nůž spíše ničí než ostří.
@@ -81,6 +83,8 @@ Ocílek je několik druhů, a to většinou ocelových, ale existují i ocílky 
   2. Pravou rukou uchopíme pevně rukojeť nože.
   3. Kořen nože nasadíme na špičku ocílky a při mírném tlaku nůž vedeme proti ostří na konec ocílky tak, abychom skončili u špičky nože.
   4. Tento postup opakujeme na druhé straně ostří.
+
+{id="pe\_o\_noe\_a\_nad"}
 
 ## Péče o nože a nářadí
 

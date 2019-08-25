@@ -5,11 +5,11 @@
 
 # Barbecue
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
-
 {kw="restaurace a servis, grilování, maso, Amerika, Francie"}
 
 _Barbecue {xml:lang="en"}_ je vlastně grilování masa, které se potírá speciální omáčkou. _Barbecue {xml:lang="en"}_ se dělí na suché brazilské _barbecue {xml:lang="en"}_ a americké _barbecue {xml:lang="en"}_.
+
+{id="historie_barbecue"}
 
 ## Historie barbecue
 
@@ -21,6 +21,8 @@ Celá zvířata byla napichována na rožeň od vousů (francouzsky _barbe {xml:
 
 Do Ameriky tuto metodu zavedli francouzští lovci. Odtud se rychle rozšířila i do sousedních zemí. Dnes je tento výraz používán téměř po celém světě.
 
+{id="sprvn_grilovn"}
+
 ## Správné grilování
 
 Při americkém způsobu _barbecue {xml:lang="en"}_ se maso griluje buď venku nebo v kuchyni na rožni, na grilu pod salamandrem nebo i v troubě. Maso se potírá marinádou nebo omáčkou označovanou prostě jako _barbecue {xml:lang="en"}_ omáčka.
@@ -31,4 +33,5 @@ Zdrojem tepla při grilování může být dřevěné uhlí, zemní plyn nebo pr
 
 Během grilování se do potravin nepíchá. Na _barbecue {xml:lang="en"}_ se grilování změní v okamžiku, kdy potravinu začneme potírat _barbecue {xml:lang="en"}_ omáčkou. Některé potraviny jsou v této omáčce [marinovány][1] také krátce před tepelnou úpravou.
 
-[1]: /tenderizovani#marinovani
+ [1]: /tenderizovani#marinovani
+

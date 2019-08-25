@@ -3,15 +3,15 @@
 
 {id="steak" ctime="2006-09-27" author="Michael Klíma" mtime="2019-08-13" short="Steak"}
 
-# Co je to steak 
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+# Co je to steak
 
 {kw="jídla a jídelní lístky, steak, telecí, hovězí"}
 
 Steak je nejvíce zneužívaný výraz v gastronomii. Steak může být i řez ryby, kuřete nebo jiné potraviny. Většinou se tím ale rozumí řez masa a není-li specifikováno jinak, tak hovězího.
 
 Hostovka není školou vaření, a proto jsem nepovažoval za nutné se zmiňovat o všech masech, ze kterých se steaky dají připravit. To hlavně proto, že technika přípravy je u všech druhů masa téměř stejná. Teď ale vidím že jsem něco zanedbal.
+
+{id="zkreslen\_povdom\_o_steacch"}
 
 ## Zkreslené povědomí o steacích
 
@@ -41,6 +41,8 @@ Výraz _anglický_ se vztahoval k vnitřní teplotě takového steaku, která m�
 
 I když byly bifteky v Česku připravovány z pravé svíčkové, tak ve skutečnosti nikdy moc hezky nevypadaly. Proto se nepravidelný steak zabalil do utěrky, ve které se zformoval na docela úhledný kulatý a vysoký biftek. Vejce pak zakrývalo nepravidelnosti a také ho vizuálně zvětšovalo a přidávalo mu kalorickou hodnotu.
 
+{id="steaky\_z\_telecho_masa"}
+
 ## Steaky z telecího masa
 
 Telecí maso je maso dobytčete, které je příliš mladé a příliš malé na to, aby mohlo být prodáváno jako hovězí. Tato zvířata se v Americe dělí na _vealers {xml:lang="en"}_ a _calves {xml:lang="en"}_. _Vealers {xml:lang="en"}_ jsou telata mladší 14 dnů, která jsou krmena jenom mlékem. Přestože telata zvaná _calves {xml:lang="en"}_ se již pasou jako ostatní dobytek, tak jejich maso není tak chutné jako maso staršího hovězího dobytka.
@@ -57,21 +59,22 @@ Steak z telecího masa nemůže být nazýván biftek. A to již z důvodu, že 
 
 Steaky z telecích masa jsou i v Česku nazývány spíše řízky, německy _Schnitzel {xml:lang="de"}_, francouzsky _escalope {xml:lang="fr"}_, italsky _scaloppe {xml:lang="it"}_ a rusky _шиицeль {xml:lang="ru"}_. Některé řezy z telecí pečeně s kostí se sice nazývají kotlety, ale někdy se pod názvem kotleta rozumí mleté maso z formované do tvaru kotlety (žebírka).
 
+{id="t-bone\_steak\_a\_telec\_ebrko\_veal\_chop"}
+
 ## T-bone steak a telecí žebírko Veal chop
 
 T-bone steak má své jméno odvozené od kosti ve tvaru písmene T která jím prochází. Z vnitřní strany má steak kousek svíčkové, pro kterou je preferován. Dalším oblíbeným steakem z telecího je pak takzvané telecí žebírko (anglicky _Veal chop {xml:lang="en"}_).
 
 {class="figure"}
 
-![T-bone steak][2] 
+![T-bone steak][1] 
 :   T-bone steak
 
 {class="figure"}
 
-![veal chop][3] 
+![veal chop][2] 
 :   veal chop
 
- [1]: http://2017.hostovka.cz/soubor/27-09-06-4.JPG
- [2]: http://2017.hostovka.cz/soubor/27-09-06-5.JPG
- [3]: http://2017.hostovka.cz/soubor/27-09-06-6.JPG
+ [1]: http://2017.hostovka.cz/soubor/27-09-06-5.JPG
+ [2]: http://2017.hostovka.cz/soubor/27-09-06-6.JPG
 

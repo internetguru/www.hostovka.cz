@@ -5,8 +5,6 @@
 
 # Jak na speciality
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
-
 {kw="jídla a jídelní lístky"}
 
 Specialita je jedním z nejvíce zneužívaných výrazů na jídelních lístcích. Pokud chceme jídla nazývat specialitami, musí být nejenom dobrá, ale musí být také připravena vlastním osobitým způsobem. To ovšem neznamená, že to musí být exotická jídla.
@@ -21,7 +19,7 @@ Nejúspěšnější restaurace tvoří jídelní lístek kolem nějaké speciali
 
 Kdysi se například vědělo, že nejlepší vepřové koleno měli u Rozvařilů, nejlepší vídeňský řízek v Akademické kavárně, nejlepší drštkovou polévku na Pankráci v restauraci Na paloučku atd.
 
-Specialitou nemusí být jen speciálně připravené jídlo. Může to být jakékoliv „hotové jídlo“ z [jídelníčku][2] nebo dokonce neprodané hotové jídlo z minulého dne, které je ale nabízeno za „speciální“ nízkou cenu.
+Specialitou nemusí být jen speciálně připravené jídlo. Může to být jakékoliv „hotové jídlo“ z [jídelníčku][1] nebo dokonce neprodané hotové jídlo z minulého dne, které je ale nabízeno za „speciální“ nízkou cenu.
 
 Specialit je několik a jsou to hlavně:
 
@@ -36,6 +34,8 @@ Specialit je několik a jsou to hlavně:
   * exotické speciality a
   * záchranné speciality.
 
+{id="ceny_specialit"}
+
 ## Ceny specialit
 
 Restaurace není charita a cena specialit tedy nemůže být ztrátová. Specialita musí podporovat zvýšení obratu. Přitom to ale není cena, co dělá specialitu specialitou.
@@ -43,6 +43,8 @@ Restaurace není charita a cena specialit tedy nemůže být ztrátová. Special
 Nesmíme zapomínat na něco takového jako je obrat neboli množství prodaných porcí. Specialita musí hosta upoutat a přilákat ho do podniku. To, jestli si host propagovanou specialitu nakonec objedná, již není podstatné.
 
 Je mnoho hostů, kteří přijdou do restaurace na základě inzerované nízké atraktivní ceny speciality, a nakonec si objednají nejdražší jídlo nebo nápoj. V každém případě by měla být cena v relaci s ostatními jídly.
+
+{id="nae_speciality"}
 
 ## Naše speciality
 
@@ -60,6 +62,8 @@ Hlavním požadavkem naší speciality může být například:
   * kvalita jejich úpravy,
   * případně ojedinělý způsob podávání.
 
+{id="denn_speciality"}
+
 ## Denní speciality
 
 Denní specialitou může být vlastně cokoliv. V zásadě je to ale jídlo, které běžně na lístku nemáme. Je to například proto, že je připraveno ze sezónních surovin nebo je potřeba připravit ve větším počtu porcí.
@@ -73,6 +77,8 @@ Denní speciality jsou prezentovány několika způsoby:
   * odříkané obsluhujícími.
 
 Odříkávání denních specialit má své příznivce a své odpůrce. Já patřím k odpůrcům, obzvláště když je jídel více než tři. Než popíše obsluhující poslední jídlo, tak zapomenu, co byla to první. Další nevýhoda odříkávání specialit je, že v mnoha případech obsluhující „zapomene“ zmínit jejich cenu.
+
+{id="stl\_denn\_speciality"}
 
 ### Stálé denní speciality
 
@@ -91,17 +97,15 @@ Příkladem takového jídla může být plněné telecí hrudí. To se dá pova
 Příklad denních specialit:
 
 Pondělí
-:   Králík na smetaně nebo na víně, na česneku, na slanině.
-Úterý
-:   Kuře Marengo nebo kuře na víně (Coque au vin), nadívané, grilované.
-Středa
-:   Pečená telecí ledvina, Osso Buco, telecí pečená kýta.
-Čtvrtek
-:   Pečené vepřové koleno, Moravský vepřový vrabec, Kološvárské zelí.
-Pátek
+:   Králík na smetaně nebo na víně, na česneku, na slanině. Úterý
+:   Kuře Marengo nebo kuře na víně (Coque au vin), nadívané, grilované. Středa
+:   Pečená telecí ledvina, Osso Buco, telecí pečená kýta. Čtvrtek
+:   Pečené vepřové koleno, Moravský vepřový vrabec, Kološvárské zelí. Pátek
 :   Kapr po Polsku, smažený, na paprice.
 
 Jak vidíte, tak možností je nekonečná řada. Můžeme tedy experimentovat. Během doby pak zjistíme, které speciality jsou v naší lokalitě nejoblíbenější a na těch se ustálíme. V sobotu a v neděli, kdy restaurace předpokládají zvýšenou návštěvnost se denní speciality nenabízí.
+
+{id="denn\_specialita\_fa_kuchyn"}
 
 ### Denní specialita šéfa kuchyně
 
@@ -113,7 +117,9 @@ Ve Francii jsou například některé restaurace známé jen pod křestním jmé
 
 Jedna z mých zásad tvorby jídelních lístků ale je nestavět ho na odborných znalostech šéfkuchaře. Jakmile kuchař odejde, tak vám ten nový hned udělá jídelní lístek podle svých „bohatých“ zkušeností. V mnoha případech vám i řekne, že musíte přestavět kuchyň.
 
-Proto některé restaurace dávají přednost uvádět tyto speciality bez uvedení šéfova jména pod hlavičkou _šéf doporučuje_, _šéfova specialita_, _[À la][1] Chef_ apod.
+Proto některé restaurace dávají přednost uvádět tyto speciality bez uvedení šéfova jména pod hlavičkou _šéf doporučuje_, _šéfova specialita_, _[À la][2] Chef_ apod. 
+
+{id="nrodn\_krajov\_a\_regionln\_speciality"}
 
 ## Národní, krajové a regionální speciality
 
@@ -125,6 +131,7 @@ Národních kuchyně, které si získaly mezinárodní pozornost či popularitu 
 
 Krajová a regionální jídla etnických kuchyní jsou jídla, která vznikla v daných lokalitách zpracováním místních surovin místními tradičními metodami jejich přípravy. Obliba a popularita některých etnických a krajových jídel nejenom překročila hranice místa svého původu, ale dokonce se dostala na jídelní lístky světových restaurací.
 
+{id="esk\_regionln\_speciality"}
 
 ## České regionální speciality
 
@@ -137,18 +144,12 @@ Mám na mysli Zbraslavský kotlet, Žofínské roštěnky, Poděbradské ptáčk
 Nikdy se také asi nesmířím se závitky, smotky, kapsami a měšci. Ty podle mě nejsou nic jiného než snahou udělat malý kousek masa větším tím, že do něj něco zabalíme. Typické příklady takových jídel jsou:
 
 Vamberský řízek
-:   Vepřové plátky naplněné sýrem, cibulí a párkem.
-Horácký závitek
-:   Plátek hovězího masa naplněný bramborami, slaninou, cibulí a zelím.
-Hanácký vrabec
-:   Plátek vepřové kýty plněný vepřovým bůčkem.
-Hukvaldský závitek
-:   Plátek vepřového naplněný žampióny nebo houbami s vejci.
-Beskydský závitek
-:   Plátek vepřového masa, naplněný mletým vepřovým masem, okurkou, vejcem.
-Pardubický plněný špíz
-:   Plněné vepřové závitky na špízu prokládané slaninou a cibulí.
-Měšec loupežníka Rumcajse
+:   Vepřové plátky naplněné sýrem, cibulí a párkem. Horácký závitek
+:   Plátek hovězího masa naplněný bramborami, slaninou, cibulí a zelím. Hanácký vrabec
+:   Plátek vepřové kýty plněný vepřovým bůčkem. Hukvaldský závitek
+:   Plátek vepřového naplněný žampióny nebo houbami s vejci. Beskydský závitek
+:   Plátek vepřového masa, naplněný mletým vepřovým masem, okurkou, vejcem. Pardubický plněný špíz
+:   Plněné vepřové závitky na špízu prokládané slaninou a cibulí. Měšec loupežníka Rumcajse
 :   Hovězí plátek plněný fáší z vepřového a telecího masa.
 
 Když se na tyto „krajové speciality“ dívám, tak mi připadají všechny „na jedno brdo“. Není mi tedy vůbec jasné, jak mohou pocházet z rozdílných krajů nebo regionů.
@@ -157,15 +158,15 @@ Podle mě jsou to násilné výtvory kuchařů. Ti je za každou cenu sestavili,
 
 Jsou ale česká jídla, která možná ani nemají původ v místě, které mají v názvu, ale která si získala takovou popularitu, že jsou oblíbená ve všech českých krajích a regionech. Mezi tato jídla bych řadil například:
 
- * Jihočeskou kulajdu,
- * Karlovarský guláš,
- * Plzeňský karbonát,
- * Podkrkonošské kyselo,
- * Moravského vrabce,
- * Brněnský a Pražský řízek,
- * Hanácké obložené zelí nebo
- * jídla jako je Houbový kuba,
- * polévky Kaldoun nebo Couračka.
+  * Jihočeskou kulajdu,
+  * Karlovarský guláš,
+  * Plzeňský karbonát,
+  * Podkrkonošské kyselo,
+  * Moravského vrabce,
+  * Brněnský a Pražský řízek,
+  * Hanácké obložené zelí nebo
+  * jídla jako je Houbový kuba,
+  * polévky Kaldoun nebo Couračka.
 
 {class="example"}
 
@@ -173,11 +174,15 @@ Takovým typickým příkladem „české speciality“ je guláš. Podle mě ne
 
 Jenom doufám, že zavedením [vyhlášky 107][4] se Maďaři ozvou a nenechají si líbit, aby byl guláš vyřazen z jídelních lístků jen proto, že se musí dlouho vařit a případně ohřívat.
 
+{id="zchrann_speciality"}
+
 ## Záchranné speciality
 
 Místo, které máme na jídelním lístku vyhrazeno pro speciality, by nikdy nemělo být prázdné. Někdy ale speciality vyprodáme ještě před skončením provozu. Pro tento případ máme několik dalších jídel, kterými můžeme tuto specialitu nahradit, nebo máme takzvanou _záchranou specialitu_.
 
 Záchranná specialita je zpravidla zmrazené jídlo, jako obalované rybí filé, obalené [kuřecí nugety][5] apod. Takové jídlo může být upraveno během několika minut a můžeme zaplnit prázdné místo mezi specialitami.
+
+{id="speciality\_etnickch\_kuchyn"}
 
 ## Speciality etnických kuchyní
 
@@ -199,6 +204,8 @@ Díky stále se rozvíjejícímu cestovnímu ruchu jsou etnické kuchyně čím 
 
 Je však několik etnických jídel, k jejichž přípravě nepotřebujeme žádné speciální zařízení a pro jejichž přípravu stačí dobrý autentický recept a kalkulace. Taková etnická jídla (po jejich vyzkoušení) nebudeme váhat přidat na náš jídelní lístek jako specialitu, protože lidé si rádi oživují vzpomínky ze zahraničí.
 
+{id="prezentace_specialit"}
+
 ## Prezentace specialit
 
 Speciality jsou na lístku prezentovány několika způsoby. Denní speciality jsou například někdy uváděny přímo na jídelním lístku. To má ale tu nevýhodu, že se mohou změnit až při případné změně jídelních lístků.
@@ -209,22 +216,24 @@ Specialita musí být patřičným způsobem nabídnuta a zvýrazněna. Speciali
 
 I když si některá restaurace myslí, že všechna jejich jídla jsou svým způsobem speciální, tak je tak všechny označit nelze. Proto to restaurace zpravidla řeší tak, že je dávají jako samostatnou vložku do jídelního lístku.
 
+{id="vloky\_do\_jdelnch_lstk"}
+
 ### Vložky do jídelních lístků
 
 Vložky do jídelních lístků jsou ve většině případů volné listy, na kterých jsou jídla uvedena. Tyto vložky, které se vkládají do atraktivních desek. Případně jsou speciality napsané na samostatných kartách a zasunují se do zářezů na jídelním lístku. Každá taková karta má na druhé straně číslo příslušné receptury a kalkulace. V obou případech jde o velkou úsporu.
 
 Vložení se dá řešit několika technikami, z nichž jedna jsou speciální úhledné příchytky. Do některých jídelních lístků je mnohdy třeba vkládat další vložky, jako jsou:
 
-* každodenní nabídka specialit,
-* specialita šéfa kuchyně,
-* doplňky jídelního lístku apod.
+  * každodenní nabídka specialit,
+  * specialita šéfa kuchyně,
+  * doplňky jídelního lístku apod.
 
 {class="important"}
 
 Tyto vložky by měly být stejně úhledné jako je samotný lístek, a neměly by jídla na lístku zakrývat (leda že je to úmyslem). Vložka by měla být do lístku vkládána tak, aby při každém jeho otevření nevypadla. V zásadě každý z těchto způsobů umožňuje dělat rychlé změny ve výběru specialit, rychlé změny v cenách nebo jejich popisů.
 
- [1]: /a_la
- [2]: /jidelni_listek
+ [1]: /jidelni_listek
+ [2]: /a_la
  [3]: /gastronomove#gurman
  [4]: /vyhlaska_107
  [5]: /kureci_nugety

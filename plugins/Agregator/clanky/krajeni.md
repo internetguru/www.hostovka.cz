@@ -5,11 +5,11 @@
 
 # Způsoby krájení potravin
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
-
 {kw="gastronomie, krájení, Čína"}
 
 Důležitost krájení potravin si již uvědomoval člověk v pravěku, a to ještě před objevením ohně. Tehdy zjistil, že se mu kusy mamuta lépe jedí nakrájené na _steaky_.
+
+{id="krjen\_potravin\_na\_mal\_kousky"}
 
 ## Krájení potravin na malé kousky
 
@@ -23,18 +23,20 @@ Například Francouzi přišli se zlepšovákem a jednotlivé řezy zeleniny ozn
 
 {xml:lang="fr"}
 
- - chiffonade,
- - brunoise,
- - jardiniére,
- - macédoine,
- - mirepoix,
- - julienne,
- - bâtonnetes,
- - printanier,
- - paysanne,
- - matignon.
+  * chiffonade,
+  * brunoise,
+  * jardiniére,
+  * macédoine,
+  * mirepoix,
+  * julienne,
+  * bâtonnetes,
+  * printanier,
+  * paysanne,
+  * matignon.
 
 Jako učedník jsem nenáviděl, když jsem se názvy technik musel učit nazpaměť. Ve Francii jsem pak ale viděl, že se bez nich v profesionální kuchyni neobejdete.
+
+{id="typy\_krjen\_v_n"}
 
 ## Typy krájení v Číně
 
@@ -94,4 +96,4 @@ Jemně sekané _mo_
 :   Pro přípravu mletého masa ale neváhejte použít mlýnek na maso nebo mixér.
 
  [1]: jidelni_hulky
- 
+

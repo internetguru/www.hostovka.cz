@@ -5,8 +5,6 @@
 
 # Párátka na hraně etikety
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
-
 {kw="etika, párátko"}
 
 Anglický výraz pro párátko _toothpick {xml:lang="en"}_, napovídá, že je to něco, čím by se člověk měl šťourat v zubech. Proto by se mu mělo říkat spíše šťourátko než párátko.
@@ -15,11 +13,15 @@ Anglický výraz pro párátko _toothpick {xml:lang="en"}_, napovídá, že je t
 
 Francouzi párátkům říkají _cure-dent {xml:lang="fr"}_, což už je trochu logičtější, znamená to totiž péče o zuby. Ale mně ani to nepřipadá jako pravé označení.
 
+{id="pouvn\_prtek\_ve_spolenosti"}
+
 ## Používání párátek ve společnosti
 
 V někdejších učebnicích etiky je psáno, že při šťourání se v zubech si člověk bez ohledu na ostatní stolovníky, má zakrýt ústa jednou rukou. Kdo ale dnes tyto učebnice čte.
 
 O tom, zda mít či nemít párátka na stolech se nedočte ani v učebnicích servisu ani v učebnicích společenského chování. V bontonu se o nich taktně mlčí.
+
+{id="prtka\_v\_restauracch"}
 
 ## Párátka v restauracích
 
