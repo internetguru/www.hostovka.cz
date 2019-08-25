@@ -77,7 +77,7 @@ Catering má v Americe tři segmenty. První segment jsou ti, kteří catering p
 
 O třetím segmentu se u nás zatím moc nemluví a pochybuji, že se tím někdo oficiálně zabývá. V Americe to je ale naopak ta nejdůležitější skupina.
 
-Naplánovat nějakou společnou či tematickou večeři pro několik lidí, které navíc dobře známe, není v zásadě velký problém. Naplánovat v Česku raut, \[koktejl\]\[3\] party, recepci, banket, bufet, svatební hostinu a podobně pro 100 nebo 200 lidí dnes není nic tak těžkého, obzvláště pokud víme, pro koho má být.
+Naplánovat nějakou společnou či tematickou večeři pro několik lidí, které navíc dobře známe, není v zásadě velký problém. Naplánovat v Česku raut, [koktejl][3] party, recepci, banket, bufet, svatební hostinu a podobně pro 100 nebo 200 lidí dnes není nic tak těžkého, obzvláště pokud víme, pro koho má být.
 
 Naplánovat ale kongres, sjezd apod. pro několik tisíc lidí už je zatraceně tvrdý oříšek. Máte ponětí, co se stane, když si pak několik tisíc lidí stěžuje, že to za nic nestálo?
 
@@ -88,5 +88,6 @@ Není nic neobvyklého, že organizace, která má pobočky ve všech státech A
 Funkce plánovače je velmi dobře placená. Navíc z ní plynou benefity jako je cestování, pobyt v hotelích či resortech, které musí napřed navštívit a samozřejmě dobré jídlo a dobré pití. Tato funkce předpokládá dokonalou znalost cateringu a spadá do takzvané kongresové turistiky.
 
  [1]: /sendvice
- [2]: /koktejly
+ [2]: /chucpa
+ [3]: /koktejly
 
