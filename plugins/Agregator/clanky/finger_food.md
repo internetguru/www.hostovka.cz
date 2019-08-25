@@ -25,11 +25,11 @@ Moje maminka, která si mimo jiné věděla rady se vším, to vyřešila tak, �
 
 ## Sendviče ve světě a v Česku
 
-Výraz sendvič (anglicky _sandwich {xml:lang="en"}_, se dnes používá po celém světě, tedy i v Americe. Tam sendviče spadají do skupiny jídel zvané _finger food {xml:lang="en"}_, neboli jídel která se dají jíst rukou.
+Výraz sendvič (anglicky _sandwich {xml:lang="en"}_), se dnes používá po celém světě, tedy i v Americe. Tam sendviče spadají do skupiny jídel zvané _finger food {xml:lang="en"}_, neboli jídel která se dají jíst rukou.
 
 _Finger food {xml:lang="en"}_ je ale v Česku zatím poměrně neznámý pojem. Není to jen protože je to anglický výraz. Je to spíše proto, že tento typ jídla je mnohými „[rádoby gastronomy][1]“ stále zavrhován.
 
-Místo toho, aby sledovali, co je dnes světový trend, tak se stále vzhlíží v archaické francouzské gastronomii. Libují si v naivních, ale líbivých popisech jídel stylem _Eduarda Pomiána {xml:lang="fr"}_, a ohrnují nos nad vším, co nezavání francouzskou kuchyní.
+Tito [rádoby gastronomové][1] místo toho, aby sledovali, co je dnes světový trend, tak se stále vzhlíží v archaické francouzské gastronomii. Libují si v naivních, ale líbivých popisech jídel stylem _Eduarda Pomiána {xml:lang="fr"}_, a ohrnují nos nad vším, co nezavání francouzskou kuchyní.
 
 Nicméně ať se to lidem líbí nebo ne, budoucnost stravovaní širokých mas je v jídlech, která se dají jíst zcela neokázale, třeba i rukama. Jídla také musí odpovídat ceně použitých potravin.
 
@@ -41,19 +41,19 @@ Všechna jídla, jako jsou plody moře, smažená kuřata (_Kentucky Fried Chick
 
 ### Sendviče ve Francii
 
-Francouzská kuchyně má svůje _casse-croûte {xml:lang="fr"}_, _croque-monsieur {xml:lang="fr"}_ a _croque-madame {xml:lang="fr"}_ sendviče, se kterými jsem se tam setkal hned, jak jsem tam přišel, v roce 1945.
+Francouzská kuchyně má svoje _casse-croûte {xml:lang="fr"}_, _croque-monsieur {xml:lang="fr"}_ a _croque-madame {xml:lang="fr"}_ sendviče, se kterými jsem se tam setkal hned, jak jsem tam přišel, v roce 1945.
 
 _Croque-monsieur {xml:lang="fr"}_, a _croque-madame {xml:lang="fr"}_ jsou prachobyčejné sendviče. Francouzští kuchaři jsou ale takoví šovinisté, že by na jídelních lístcích nepřipustili cizí výraz jako je _sandwich {xml:lang="en"}_. Proto se sendviče ve Francii uvádí většinou jen jako _baguette {xml:lang="fr"}_.
 
 ### České obložené chlebíčky
 
-Co se týká gastronomie týká, tak Česká republika nemá mnoho mezinárodních prvenství. Ale typické české obložené chlebíčky jsou úplně jiné zvíře.
+Co se týká gastronomie týká, tak Česká republika nemá mnoho mezinárodních prvenství. Ale typické české obložené chlebíčky jsou úplně jiná liga.
 
 Češi mají prvenství nejenom v počtu druhů obložených chlebíčků, ale ještě před několika lety měli prvenství také v počtu obložených chlebíčků zkonzumovaných na jednu osobu.
 
 {class="example"}
 
-Před lety jsem byl vedoucím vyhlášené výrobny chlebíčků v Praze v Nekázance. Tam se denně dělalo v průměru 5 až 6 tisíc chlebíčku. Ty se rozvážely po celé Praze a o svátcích jako byly Vánoce nebo Nový Rok, se jich dělalo až 15 tisíc za den! Vyrábělo se jich zhruba 100 druhů, což už byl do jisté míry bolehlav.
+Před lety jsem byl vedoucím vyhlášené výrobny chlebíčků v Praze v Nekázance. Tam se denně dělalo v průměru 5 až 6 tisíc chlebíčků. Ty se rozvážely po celé Praze a o svátcích jako byly Vánoce nebo Nový Rok, se jich dělalo až 15 tisíc za den! Vyrábělo se jich zhruba 100 druhů, což už byl do jisté míry bolehlav.
 
 Výroba českých obložených chlebíčků je v porovnání se všemi ostatními unikátní. Vyžaduje nejenom zručnost ale i nadání. Je to nimravá práce, kterou dnes již nikdo nedocení. Proto se s nimi nikde jinde než v Česku nesetkáte.
 
@@ -71,11 +71,11 @@ I když se sendviče na českých a slovenských jídelních lístcích objevuj�
 
 Sendviče se dělí jednak na uzavřené, anglicky _closed sandwiches {xml:lang="en"}_ a na otevřené, anglicky _open faced sandwiches {xml:lang="en"}_. Ty otevřené jsou podobné našim obloženým chlebíčkům, dánským obloženým chlebům nebo ruským butěrbrodům.
 
-Uzavřené sendviče jsou v Americe velmi populární. To hlavně proto, že se dají jíst zcela neokázale rukama. Nejpopulárnější americký sendvič je hamburger. Ten po hlavičkou _McDonald's {xml:lang="en"}_ zpopularizoval _Ray Kroc {xml:lang="en"}_, jehož babička byla mimo jiné Češka.
+Uzavřené sendviče jsou v Americe velmi populární. To hlavně proto, že se dají jíst zcela neokázale rukama. Nejpopulárnější americký sendvič je hamburger. Ten pod hlavičkou _McDonald's {xml:lang="en"}_ zpopularizoval _Ray Kroc {xml:lang="en"}_, jehož babička byla mimo jiné Češka.
 
 {class="example"}
 
-Nicméně v Česku jsem se setkal i s takovými rádoby odborníky kteří mi řekli: „Moje děti jsou na hamburgry jako diví, ale já bych se toho ani nedotknul.“ _What a [BS][2] {xml:lang="en"}_!
+Nicméně v Česku jsem se setkal i s takovými rádoby odborníky kteří mi řekli: „Moje děti jsou na hamburgery jako diví, ale já bych se toho ani nedotknul.“ _What a [BS][2] {xml:lang="en"}_!
 
 ### Sendvič Monte Christo a Club Sendvič
 
@@ -85,7 +85,7 @@ Recept na něj nepotřebujete. Potřebujete jen dva máslem pomazané toastové 
 
 {class="example"}
 
-Já vím, že mně hned někdo vytkne, že dělám reklamu, ale pokud ho chcete ochutnat, tak musíte zajít do [restaurace Steakgrill][3] u Roudnice nad Labem. Tam ho navíc dostanete i s vynikajícími domácími hranolkami.
+Já vím, že mně hned někdo vytkne, že dělám reklamu, ale pokud ho chcete ochutnat, tak musíte zajít do [restaurace Steakgrill][3] u Roudnice nad Labem. Tam ho navíc dostanete i s vynikajícími domácími hranolky.
 
 V té samé restauraci dostanete i klasický americký _Club Sandwitch {xml:lang="en"}_, který je populární po celém světě. Tento sendvič se také vyznačuje jednoduchostí a rychlostí přípravy. Původně se tento sendvič dělal jen se šunkou, ale dnes se používají i pečená krůtí prsa.
 
@@ -95,7 +95,7 @@ V té samé restauraci dostanete i klasický americký _Club Sandwitch {xml:lang
 
 Když jsem se s tímto sendvičem v Americe setkal poprvé, tak jsem si říkal, že ho určitě vynalezl nějaký Čech. Základní surovinou tohoto sendviče je totiž žitný chléb, kyselé zelí a solené hovězí (anglicky _corned beef {xml:lang="en"}_).
 
-Je velice pikantní a podává se všude kde se točí pivo. Divím se proto, že ho české pivnice ještě neobjevily. V restauraci Berghoff v Chicagu, kde jsem pracoval jako výkonný šéfkuchař, jsme těchto sendvičů jenom přes poledne prodali přes 400.
+Je velice pikantní a podává se všude, kde se točí pivo. Divím se proto, že ho české pivnice ještě neobjevily. V restauraci Berghoff v Chicagu, kde jsem pracoval jako výkonný šéfkuchař, jsme těchto sendvičů jenom přes poledne prodali přes 400.
 
 {id="blt"}
 
@@ -105,17 +105,16 @@ Další populární americký sendvič je známý pod vžitým názvem _BLT {xml
 
 Pravý americký _BLT {xml:lang="en"}_ je ale pěkný prevít, protože musí být čerstvý a křupavý. Níže je uveden recept na původní _BLT {xml:lang="en"}_ sendvič.
 
-  1. Krajíček čerstvě opečeného křupavého amerického bílého chleba, kterému říkám _bílá buchta_, pomažeme majonézou, a pokryjeme ho čerstvými listy křupavého ledového salátu.
-  2. Navrch dáme několik kousků dokřupava grilované americké slaniny, na to ještě 2 plátky rajčete.
-  3. Sendvič přikryjeme druhým krajíčkem dokřupava opečeného chleba pomazaného majonézou.
-  4. Uzavřený sendvič propíchneme na dvou protilehlých rozích párátkem (aby z něj nevypadla náplň), rozkrojíme ho na dva stejné trojúhelníky.
+  1. Krajíček čerstvě opečeného křupavého amerického bílého chleba, kterému říkám _bílá buchta_, pomažeme majonézou, a pokryjeme ho čerstvými listy křupavého ledového salátu. 
+  2. Navrch dáme několik kousků dokřupava grilované americké slaniny, na to ještě 2 plátky rajčete. 
+  3. Sendvič přikryjeme druhým krajíčkem dokřupava opečeného chleba pomazaného majonézou. 
+  4. Uzavřený sendvič propíchneme na dvou protilehlých rozích párátkem (aby z něj nevypadla náplň), rozkrojíme ho na dva stejné trojúhelníky. 
   5. Trojúhelníky dáme na teplý talíř, přidáme bramborové lupínky a pravý americký _BLT {xml:lang="en"}_ je na světě.
 
 {class="example"}
 
-V Chicagu, kde lidé mají rádi kyselé okurky k tomuto sendviči přidávají kyselou okurku, ale můžete k němu dát i coleslaw. Tím, že je všechno v sendvči tak křupavé, tak se s ním při jídle dost zasviníte, ale to k pravemu americkému _BLT {xml:lang="en"}_ patří.
+V Chicagu, kde lidé mají rádi kyselé okurky, k tomuto sendviči přidávají kyselou okurku, ale můžete k němu dát i coleslaw. Tím, že je všechno v sendviči tak křupavé, tak se s ním při jídle dost zasviníte, ale to k pravému americkému _BLT {xml:lang="en"}_ patří.
 
- [1]: /gastronomove
- [2]: /bullshit
- [3]: https://www.steakgrill.cz
-
+[1]: /gastronomove 
+[2]: /bullshit 
+[3]: https://www.steakgrill.cz
