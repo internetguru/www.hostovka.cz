@@ -5,8 +5,6 @@
 
 # Catering
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-08-25, do not edit -->
-
 {kw="gastronomie, případová studie, banket, catering"}
 
 Podle českých slovníků znamená anglické _cater {xml:lang="en"}_ nakupovat, obstarávat potraviny, postarat se o jídlo nebo zábavu, uspokojovat, ukájet, hovět. _Catering a banket {xml:lang="en"}_ tedy znamená pořádat banket.
