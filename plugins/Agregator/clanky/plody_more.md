@@ -61,7 +61,7 @@ Chladnovodní krevetky
 :   _(Pandalus borealis) {xml:lang="la"}_ žijí v Severním Atlantiku, a v Severním Pacifiku _(Pandalus jordoni) {xml:lang="la"}_. Jsou velmi malé a před jídlem se z nich nemusí odstraňovat střívka.
 
 Teplovodní krevetky
-:   ze států Mexického Zálivu, Floridy, Alabamy, Missipi, Luisiany a Texasu jsou nejčastěji označovány jako _hnědé_, _bílé_ a _růžové_. 
+:   ze států Mexického Zálivu, Floridy, Alabamy, Missipi, Luisiany a Texasu jsou nejčastěji označovány jako \_hnědé\_, \_bílé\_ a \_růžové\_. 
     
       * Nevařené _hnědé krevety_ _(Penaeus aztecus) {xml:lang="la"}_ mají hnědo-červené skořápky a jejich maso má o něco silnější chuť než krevetky bílé díky vyššímu obsahu jódu. V důsledku toho jsou hnědé krevetky zpravidla levnější než druhé dva druhy.
       * Nejdražší krevetky jsou zpravidla _krevetky bílé_ _(Penaeus setiferus) {xml:lang="la"}_. Přestože jsou specifikovány jako bílé, tak jsou ve skutečnosti některé spíše šedivé.
