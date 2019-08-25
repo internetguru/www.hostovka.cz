@@ -5,6 +5,8 @@
 
 # Jak správně jíst jídelními hůlkami
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-08-25, do not edit -->
+
 {kw="gastronomie, jídelní hůlky, Čína"}
 
 Jídelní hůlky jsou hlavním jídelním náčiním v mnoha asijských kulturách, ale jejich popularita se rozšířila po celém světě. Jídelní hůlky, jak název napovídá, jsou určeny k jídlu. Nicméně ženy je používají jako dekorativní sponky do vlasů, což je možná proto, aby je měly stále při ruce.

@@ -5,6 +5,8 @@
 
 # Důležitost prezentace jídel
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-08-25, do not edit -->
+
 {kw="gastronomie, prezentace, talíře"}
 
 Jídlo je vnímáno všemi smysly a zrak je v mnoha případech ten první. S prezentací jídla mimo psychologie souvisí mnoho faktorů, které nelze jednoznačně aplikovat. Vždy ale záleží, jaké jsou v dané lokalitě (případně restauraci) stravovací zvyklosti.

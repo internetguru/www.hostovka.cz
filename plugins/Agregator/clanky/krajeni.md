@@ -5,6 +5,8 @@
 
 # Způsoby krájení potravin
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-08-25, do not edit -->
+
 {kw="gastronomie, krájení, Čína"}
 
 Důležitost krájení potravin si již uvědomoval člověk v pravěku, a to ještě před objevením ohně. Tehdy zjistil, že se mu kusy mamuta lépe jedí nakrájené na _steaky_.

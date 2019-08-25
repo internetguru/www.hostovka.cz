@@ -5,6 +5,8 @@
 
 # Popis jídel na jídelních lístcích
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-08-25, do not edit -->
+
 {kw="jídla a jídelní lístky"}
 
 Hosté nečtou jídelní lísky jako nějaký napínavý román a proto název jídla musí být krátký a jídlo musí být nějakým způsobem popsáno. Popis jídla na jídelním lístku je mnohdy důležitější než jeho název. Popis jídel úzce souvisí s jejich názvy nebo s jejich tvorbou. Nemusí to být vždy kuchař, který takové jídlo popisuje, ale musí to být někdo kdo k tomu má vlohy. Pokud nikoho mezi našimi zaměstnanci s podobnými vlohami nemáme, tak tento úkol raději zadáme nějakému odbornému konzultantovi.

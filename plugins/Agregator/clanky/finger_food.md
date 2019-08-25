@@ -5,6 +5,8 @@
 
 # Původ a typy sendvičů
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-08-25, do not edit -->
+
 {kw="jídla a jídelní lístky, sendvič, Amerika, Francie, České republika, chlebíčky, recept"}
 
 Jedním z posláních Hostovky je připravit své studenty na jídla, se kterými se setkají při cestách do zahraničí. O rychlém občerstvení jsem něco málo již napsal, ale obávám se, že jsem zapomněl na něco, co je Čechům velmi blízké – na sendviče. Ty se totiž normálně za rychlé občerstvení nepovažují.

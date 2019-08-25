@@ -5,6 +5,8 @@
 
 # Párátka na hraně etikety
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-08-25, do not edit -->
+
 {kw="etika, párátko"}
 
 Anglický výraz pro párátko _toothpick {xml:lang="en"}_, napovídá, že je to něco, čím by se člověk měl šťourat v zubech. Proto by se mu mělo říkat spíše šťourátko než párátko.

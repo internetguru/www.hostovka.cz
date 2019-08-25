@@ -5,6 +5,8 @@
 
 # Co je to steak
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-08-25, do not edit -->
+
 {kw="jídla a jídelní lístky, steak, telecí, hovězí"}
 
 Steak je nejvíce zneužívaný výraz v gastronomii. Steak může být i řez ryby, kuřete nebo jiné potraviny. Většinou se tím ale rozumí řez masa a není-li specifikováno jinak, tak hovězího.

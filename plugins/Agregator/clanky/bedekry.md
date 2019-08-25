@@ -5,6 +5,8 @@
 
 # Cestovní turistický průvodce neboli bedekr
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-08-25, do not edit -->
+
 {kw="co-kdy-kde, průvodce, kuchařské čepice"}
 
 Bedekr je knižní cestovní turistický průvodce nebo cestopis. Bedekr je dalším důkazem, že se cestování neboli cestovní ruch nedá oddělit od pohostinství. Kdyby Bedekr neuváděl, kde se může člověk při svých cestách najíst, tak by asi dlouho nepřežil.

@@ -5,7 +5,7 @@
 
 # Zrání hovězího masa
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-08-25, do not edit -->
 
 {kw="kuchyňské techniky"}
 

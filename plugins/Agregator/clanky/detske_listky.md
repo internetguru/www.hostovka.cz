@@ -5,6 +5,8 @@
 
 # Dětské jídelní lístky
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-08-25, do not edit -->
+
 {kw="jídla a jídelní lístky, děti, případová studie"}
 
 Nepodceňujte inteligenci dětí. Některé děti, jako například moje vnoučata, chodí do restaurací možná častěji než někteří zaměstnanci v pohostinství. Byli byste překvapeni, jaké mají gastronomické znalosti.

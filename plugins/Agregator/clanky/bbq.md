@@ -5,6 +5,8 @@
 
 # Barbecue
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-08-25, do not edit -->
+
 {kw="restaurace a servis, grilování, maso, Amerika, Francie"}
 
 _Barbecue {xml:lang="en"}_ je vlastně grilování masa, které se potírá speciální omáčkou. _Barbecue {xml:lang="en"}_ se dělí na suché brazilské _barbecue {xml:lang="en"}_ a americké _barbecue {xml:lang="en"}_.

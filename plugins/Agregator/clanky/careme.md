@@ -5,7 +5,7 @@
 
 # Marie-Antoine Carême
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-08-25, do not edit -->
 
 {kw="kdo-kdy-kde, Francie, osobnost"}
 
@@ -31,4 +31,5 @@ Carême byl první kdo omezil dosud obrovská menu pouze na polévku, pečeni se
 
 Carêmovo jméno žije v knihách které napsal a v mimořádných jídlech které vytvořil. Je uznáván jako největší kuchař všech dob a zároveň je znám také jako jeden z nejvznětlivějších. Ale když byli králové, princové a věhlasní státníci ochotni bojovat za to, aby si Carêma ve své kuchyni udrželi, tak komu záleželo na jeho vznětlivosti. Když umíral, tak se údajně posadil na posteli a zakřičel: „Zamíchejte s tím kastrolem!“
 
-[1]: /jidelni_listek
+ [1]: /jidelni_listek
+

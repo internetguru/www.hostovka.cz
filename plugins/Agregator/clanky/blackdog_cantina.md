@@ -5,6 +5,8 @@
 
 # Blackdog cantina
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-08-25, do not edit -->
+
 {kw="o čem se mluví"}
 
 11.7.2011 jsem přiložený článek napsal na stránkách www.cestovní-ruch.cz, ktré jsou více méně určeny odborníků, takže nějací novináři je nečtou. Včera jsem ale mluvil s jedním kolegou, který mě v mé teorii utvrdil. Nějaký novinář mu údajně pěl ódy na restauraci BLACKDOG CANTINA v Berouně.

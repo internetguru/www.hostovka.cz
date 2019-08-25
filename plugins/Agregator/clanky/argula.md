@@ -5,11 +5,11 @@
 
 # Salát rukola
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2019-08-25, do not edit -->
 
 {kw="jídla a jídelní lístky, salát, recept"}
 
-Roketa setá nebo také _rukola_, je salát známý také pod výrazy _rugula_ a _rugola_ nebo pod francouzským _roquette {xml:lang="fr"}_ či anglickým _arugula {xml:lang="en"}_. Název salátu je odvozený od latinského slova _eruca {xml:lang="la"}_, což znamená druh zelí. Je to listová zelenina z rodiny _cruciférae {xml:lang="la"}_ podobná špenátu nebo řeřiše. Používá se často ve studené kuchyni k [ozdobě jídel][3].
+Roketa setá nebo také _rukola_, je salát známý také pod výrazy _rugula_ a _rugola_ nebo pod francouzským _roquette {xml:lang="fr"}_ či anglickým _arugula {xml:lang="en"}_. Název salátu je odvozený od latinského slova _eruca {xml:lang="la"}_, což znamená druh zelí. Je to listová zelenina z rodiny _cruciférae {xml:lang="la"}_ podobná špenátu nebo řeřiše. Používá se často ve studené kuchyni k [ozdobě jídel][1].
 
 {class="example"}
 
@@ -19,12 +19,13 @@ V Americe se setkáte s různými verzemi rukola salátu. Většinou se přidáv
 
 Rukolu smícháme s dalšími salátovými listy – hlávkovým salátem, špenátem apod. Pro každou porci salátu přidáme:
 
-  * 1/2 šálku vlašských ořechů, 
-  * 1/2 šálku gorgonzoly a 
+  * 1/2 šálku vlašských ořechů,
+  * 1/2 šálku gorgonzoly a
   * 1/2 zeleného jablka krájeného na plátky.
 
-Hotový salát podáváme s italským [dresinkem][1] nebo [zálivkou][2].
+Hotový salát podáváme s italským [dresinkem][2] nebo [zálivkou][3].
 
-[1]: /zalivka_dresink#dresinky 
-[2]: /zalivka_dresink#zalivka 
-[3]: /zdobeni 
+ [1]: /zdobeni
+ [2]: /zalivka_dresink#dresinky
+ [3]: /zalivka_dresink#zalivka
+

@@ -5,6 +5,8 @@
 
 # Pravý původ guláše
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-08-25, do not edit -->
+
 {kw="jídla a jídelní lístky, guláš, Maďarsko"}
 
 Guláš, anglicky _goulash {xml:lang="en"}_ nebo také _hungarian beef stew {xml:lang="en"}_, je [dušenina][1] z hovězího masa s velkým množstvím cibule a papriky. Přestože si mnoho Čechů myslí, že je to české jídlo, tak se ale hodně mýlí.

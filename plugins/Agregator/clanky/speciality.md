@@ -5,6 +5,8 @@
 
 # Jak na speciality
 
+<!-- generated attribute kw by user_udpatekw.sh on 2019-08-25, do not edit -->
+
 {kw="jídla a jídelní lístky"}
 
 Specialita je jedním z nejvíce zneužívaných výrazů na jídelních lístcích. Pokud chceme jídla nazývat specialitami, musí být nejenom dobrá, ale musí být také připravena vlastním osobitým způsobem. To ovšem neznamená, že to musí být exotická jídla.
