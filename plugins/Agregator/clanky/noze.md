@@ -1,200 +1,94 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=275.html" data-image="/files/preview/clanky/noze/general.jpg" data-type="article"}
 
-{id="noze" ctime="2008-01-27" author="Michael Klíma" short="Nože" authorid="hostovka/michael_klima"}
+{id="noze" ctime="2008-01-27" author="Michael Klíma" short="Nože" mtime="2019-08-13"}
 
-# Nože
+# Vše o nožích
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
-{kw="stroje a náčiní"}
+{kw="stroje a náčiní, nože, výroba nožů, broušení, ostření, ocílka"}
 
-Lidé si myslí, že nůž je nůž, ale jen na samotné maso je nožů tolik že bych u toho strávil zbytek mého mládí než bych Vám je tady všechny popsal.
+Lidé si myslí, že nůž je nůž, ale jen na samotné maso jich existuje tolik, že bych u toho strávil zbytek mládí, než bych vám je všechny popsal. Nožů na maso, takzvaných řeznických (anglicky _butcher's knives {xml:lang="en"}_) je nekonečná řada. To samé platí o kuchařských nožích (anglicky _chef's knives {xml:lang="en"}_), které se navíc dělí na maso syrové a maso vařené.
 
-Začíná to tím, že nožů na maso, tak zvaných řeznických, anglicky butcher?s knives, nekonečná řada, ale to samé platí o kuchařských nožích (chef?s knives), neboli dranžírácích, které se navíc dělí na maso syrové a maso vařené.
+{class="example"}
 
-Lidé se mně často ptají, na co si u nožů musí dávat pozor - no přeci na to, abyste se neřízli, k čemuž Vám z vlastní praxe mohu říci, že se častěji říznete tupým než ostrým nožem, ale na čem a jak brousit to vám také málokterý z těch prodavačů nožů poví.
+Lidé se mě často ptají, na co si u nožů musí dávat pozor. No přeci na to, abyste se neřízli. K tomu vám mohu z vlastní praxe říci, že se častěji říznete tupým než ostrým nožem.
 
-{id="znacky_nozu"}
+## Výroba nožů
 
-## Značky nožů
+Dvě základní techniky výroby nožů jsou kování (anglicky _forging {xml:lang="en"}_) nebo vysekávání (anglicky _stamping {xml:lang="en"}_). Bez ohledu na výrobní techniku je ještě několik dalších rozhodujících faktorů, které musíme brát v úvahu. Je to vyvážení (_balance {xml:lang="en"}_), úchop (anglicky _grip {xml:lang="en"}_), síla ostří (anglicky _blade strength {xml:lang="en"}_) a hlavně taky ostrost (anglicky _sharpness {xml:lang="en"}_).
 
-Lidé také často mluví o značkách nožů, což vám tady popisovat nebudu, ale někteří hloubaví lidé chtějí eventuálně vědět jakou technikou ty nože byly vyrobeny protože to je vlastně rozhodující.
-
-{id="zakladni\_techniky\_vyroby_nozu"}
-
-## Základní techniky výroby nožů
-
-Dvě základní techniky výroby nožů jsou kování (forging) nebo vysekávání (stamping).
-
-{id="kovani_nozu"}
-
-### Kování nožů
-
-Kování nožů je zdlouhavější a tudíž dražší proces než vysekávání ale kované nože jsou také kvalitnější.
-
-Bez ohledu na základní výrobní techniku je ještě několik dalších rozhodujících faktorů které musíme brát v úvahu což je vyvážení (balance), hmat (grip), síla ostří (blade strenght) a hlavně ostrost (sharpness).
-
-{id="vyvazeni"}
-
-### Vyvážení
-
-Vyvážení je bezesporu tím nejdůležitějším faktorem. Rovnováha nože by měla být mezi rukovětí (handle) a ostřím (blade). Nevyvážený nůž je těžkopádný (cumbersome) a nebezpečný (dangerous to use).
+Kování nožů je zdlouhavější, a tudíž dražší proces než vysekávání. Kované nože jsou také kvalitnější. Rovnováha nože by měla být mezi rukojetí a ostřím. Nevyvážený nůž je těžkopádný a nebezpečný.
 
 {id="americka\_anatomie\_noze"}
 
 ## Americká anatomie nože
 
-Nůž má dvě základní části: ostří, anglicky zvané blade a rukověť, anglicky zvanou handle. Rukověť může být z jednoho nebo i z více kusů.
+Nůž má dvě základní části – ostří, anglicky zvané _blade {xml:lang="en"}_ a rukojeť, anglicky zvanou _handle {xml:lang="en"}_. Rukojeť může být z jednoho nebo i z více kusů. 
 
-Dřevěné rukověti jsou dishwasher safe, neboli že by se mohly mýt v myčce, ale kuchyňské nože by se v myčce mýt neměly a každý pořádný kuchař by si své nože měl mýt sám.
+Důležité je, aby byla rukojeť dobře tvarovaná a aby umožňovala pevné držení. To zlepšuje přesnost krájení, brání uklouznutí a zvyšuje bezpečnost.
 
-Důležité je, aby rukověť byla dobře tvarovaná, aby umožňovala pevné držení (grip), což umožňuje přesnější krájení, brání uklouznutí a zvyšuje bezpečnost
+{class="important"}
+
+Dřevěné rukojeti se mohou mýt v myčce. Kuchyňské nože by se v myčce mýt neměly a každý pořádný kuchař by si nože měl mýt sám.
 
 {id="brouseni\_a\_ostreni_nozu"}
 
-## BROUŠENÍ A OSTŘENÍ NOŽŮ
+## Broušení a ostření
 
-Ostřejší je bezpečnější. Tupé nože jsou nejčastější příčinou úrazů v komerčních kuchyních.
-
-Ostrost nože je odvislá od materiálu ze kterého je ostří vyrobeno. Čím vyšší obsah uhlíku (karbon) v oceli ze které bylo ostří vyrobeno, tím ostřejší nůž může být.
-
-Takové ostří může být broušeno (sharpened) na velmi jemné ostří. Nevýhodou je, že karbonovou ocel působí kyseliny tím že ji zbarví a takový nuž následně zbarví i surovinu která se jím krájí.
-
-Proto například hlávkový salát by se neměl takovým nožem krájet protože se na řezu zbarví.
-
-Nože z nerezové oceli (stainless steel) nereznou a nekorodují. Tato ocel je tvrdší, hůře se brousí a své ostří neudrží příliš dlouho.
-
-Jak vidíte tak o nožích bych Vám mohl ještě psát hodiny, ale myslím si, že bych vám spíše měl napsat jak se nože správně brousí.
-
-{id="dulezitost\_ostrosti\_nozu"}
-
-### Důležitost ostrosti nožů
+Tupé nože jsou nejčastější příčinou úrazů v komerčních kuchyních. Ostrost nože je závislá na materiálu, ze kterého je ostří vyrobeno. Čím vyšší obsah uhlíku v oceli, ze které bylo ostří vyrobeno, tím ostřejší nůž může být.
 
 Ostré nože jsou důležité ze dvou důvodů:
 
-  * tupým nožem nikdy nedokážeme udělat ostrý řez
+  * tupým nožem nikdy nedokážeme udělat ostrý řez a
   * při celodenním krájení by to bylo velice namáhavé.
 
-Další velice důležitý bod je, že tupým nožem se zraníte o mnoho snadněji než nožem ostrým.
+{class="important"}
 
-Jak často musíme nože brousit
+Na karbonovou ocel ale působí kyseliny. To se projevuje tak, že ji zbarví a takový nůž následně zbarví i surovinu, která se jím krájí.
 
-To je taková naivní otázka se kterou jsem se u mých studentů setkával nečastěji.
+Nože z nerezové oceli (anglicky _stainless steel {xml:lang="en"}_) nezreznou. Tato ocel je však tvrdší, hůře se tedy brousí a své ostří neudrží příliš dlouho.
 
-Nože podle potřeby brousíme třeba i stokrát denně. K tomu bychom si ale měli napřed ujasnit co je broušení (sharping) a co je ostření nebo obtahování (honing).
+Nože podle potřeby brousíme třeba i stokrát denně. K tomu bychom si ale měli napřed ujasnit rozdíl mezi broušením (anglicky _sharping {xml:lang="en"}_) a ostřením neboli obtahováním (anglicky _honing {xml:lang="en"}_).
 
-{id="brouseni"}
+{class="example"}
 
-### Broušení
-
-Při praktických zkouškách vaření na hotelové škole v Chicagu na které jsem vyučoval, jsme ze 100 možných dosažitelných bodů studentům odečítali 10 bodů za to, když student přikročil ku krájení aniž by se přesvědčil, zda jeho nůž je dostatečně ostrý.
-
-Dalších 10 bodů pokud během krájení ani jednou svůj nůž nenaostřil nebo neobtáhl na ocílce.
-
-Před broušením se napřed přesvědčíme jestli náš nůž je ostrý nebo ne, což je podmínkou k tomu rozeznat kdy máme eventuálně broušení ukončit.
-
-Podle diagramu přitlačte zlehka ostří nože na palec levé ruky.
-
-Buďte opatrní, abyste nepřitlačili příliš tvrdě při znázorněném úhlu.
-
-Při tlačení nože proti vašemu nehtu, váha nože by měla být postačující.
-
-{id="odhad_ostrosti"}
-
-### Odhad ostrosti
-
-Pakliže je nůž dost ostrý, tak se na vašem nehtu zastaví.
-
-Jestliže nůž sklouzne, a nezastaví se, tak pravděpodobně není dost ostrý.
-
-Pro vaši vlastní bezpečnost se nesnažte pohybovat (řezat) nožem jak znázorněno.
-
-Pokud je nůž skutečně ostrý, tak byste se mohli snadno zranit.
+Ostrý nůž poznáte podle toho, že se vám zastaví na nehtu. Jestliže nůž sklouzne, a nezastaví se, tak pravděpodobně není dost ostrý. Pro  vlastní bezpečnost se při tomto testu nožem nesnažte pohybovat. Pokud je nůž skutečně ostrý, tak byste se mohli snadno zranit.
 
 {id="brouseni\_na\_kameni"}
 
 ### Broušení na kameni
 
-Moje babička brousila své nože na sádelňáku nebo na schodech do sklepa. V dnešních kuchyních se ale se sádelňáky už nesetkáme a tak budeme muset nějak‎ brousek mít.
+Moje babička brousila své nože na _sádelňáku_ nebo na schodech do sklepa. V dnešních kuchyních se ale se _sádelňáky_ už nesetkáme, a tak si musíte pořídit brousek.
 
-Některé brousky ale, i když dobré jsou zbytečně drahé.
+Některé brousky jsou zbytečně drahé. Postačí vám kámen na broušení, ideálně v ochranném obalu. Broušení na kameni má ale také své zásady.
 
-Proto postačí kámen na broušení.
+  1. Kámen, nejlépe v obalu, položíme na navlhčenou utěrkou, aby neklouzal. Nůž držíme v pravé ruce.
+  2. Dvěma prsty levé ruky na nůž mírně tlačíme a vedeme ho _po ostří_ (anglicky _with the grain {xml:lang="en"}_), směrem od těla, od špičky a až po kořen nože.
+  3. Následně nůž na konci kamene otočíme a vedeme ho obdobným způsobem směrem k tělu.
+  4. Tento postup opakujeme několikrát, přičemž občas odhadneme ostrost nože, viz výše.
 
-Ideální je kámen v ochranném obalu.
+Dnes jsou na trhu velice praktické a levné brousky o třech stupních drsnosti kamenů. Jakmile je nůž dostatečně nabroušen na kamenech, přistoupíme k jeho ostření na ocílce.
 
-Broušení na kameni má ale také své zásady.
+### Ostření na ocílce
 
-Kámen, nelépe v nějakém obalu, položíme navlhčenou utěrkou aby neklouzal.
+Ostření neboli obtahování nožů není tak jednoduché, jak se zdá. To, co vidíte, a slyšíte u některých kuchařů při obtahování nožů je jen komedie a ve skutečnosti nůž spíše ničí než ostří.
 
-Nůž držíme v pravé ruce.
+Ocílek je několik druhů, a to většinou ocelových, ale existují i ocílky porcelánové a další. Všechny ale slouží jednomu účelu, což je k odstranění tak zvané „jehly“, která se na ostří nože vytvoří při jeho broušení na kameni. Ostření trvá několik minut či nebo vteřin a měli bychom ho během krájení několikrát opakovat.
 
-Dvěmi prsty levé ruky na nůž mírně tlačíme a vedeme ho ?po ostří? (with the grain), směrem od těla, od špičky a až po kořen nože.
+  1. Ocílku uchopíme do levé ruky, tak aby nás ocelová zábrana na jejím konci chránila od zranění při náhodném sklouznutí nože.
+  2. Pravou rukou uchopíme pevně rukojeť nože.
+  3. Kořen nože nasadíme na špičku ocílky a při mírném tlaku nůž vedeme proti ostří na konec ocílky tak, abychom skončili u špičky nože.
+  4. Tento postup opakujeme na druhé straně ostří.
 
-Následně nůž na konci kamene otočíme a vedeme ho obdobným způsobem směrem k tělu.
+## Péče o nože a nářadí
 
-Toto opakujeme několikrát, přičemž ostrost nože občas odhadneme jak popsáno výše.
+Je sice pravda, že drahé nářadí dobrého řemeslníka ještě nedělá, ale dobrý řemeslník se bez dobrého nářadí neobjede, a proto o něj dobře pečuje.
 
-Dnes jsou v Americe na trhu velice praktické a laciné brousky o třech stupních drsnosti kamenů které jsou tak jednoduché, že mně to až udivuje, že jsem je nevynašel já.
+Ocílku po použití zbavíme malých ocelových částic, které se na ni během ostření zachytí. Ocílku omyjeme ve vlažné vodě, desinfikujeme, osušíme a uložíme na vyhrazené místo.
 
-Jakmile je nůž dostatečně nabroušen na kamenech, přistoupíme k jeho ostření na ocílce.
+V Česku doufám ještě platí pravidlo, že kudla a manželka se nepůjčuje. Proto, pokud já si pamatuji, tak každý pořádný kuchař má vlastní nože, které si sám brousí a sám myje. Nože má uložené buď v krabici na nářadí, nebo v něčem čemu se česky říká futrál na vercajk.
 
-{id="ostreni\_nozu\_na_ocilce"}
-
-### Ostření nožů na ocílce
-
-Ostření (obtahování) nožů není tak jednoduché jak se zdá.
-
-To co vidíte, a slyšíte u některých kuchařů při obtahování nožů je jen komedie a ve skutečnosti ten nůž spíše ničí než ostří.
-
-Ocílek je několik druhů a to většinou ocelových (stell) a od toho jejich anglický název, ale existují i ocílky porcelánové a jiné.
-
-Všechny ale slouží jednomu účelu a to je k odstranění tak zvané "jehly" která se na ostří nože vytvoří při jeho broušení na kameni.
-
-Česky se tomu procesu říká ostření, případně obtahování, anglicky honing.
-
-{id="postup"}
-
-## Postup
-
-Ocílku uchopíme do levé ruky tak aby ocelová zábrana na jejím konci nás chránila od zranění při náhodném sklouznutí nože.
-
-Pravou rukou uchopíme pevně rukověť nože.
-
-Kořen nože nasadíme na špičku ocílky a při mírném tlaku nůž vedeme proti ostří (against the grain) na konec ocílky tak, abychom skončili u špičky nože.
-
-Toto opakujeme na druhé straně ostří.
-
-Toto ostření trvá několik minut či vteřin a měli bychom ho během krájení několikrát opakovat.
-
-{id="pece\_o\_vase_naradi"}
-
-## Péče o vaše nářadí
-
-Je sice pravda, že drahé nářadí dobrého řemeslníka ještě nedělá, ale dobrý řemeslník se bez dobrého nářadí neobjede a proto o své nářadí dobře pečuje.
-
-{id="pece\_o\_ocilku"}
-
-## Péče o ocílku
-
-Po použití ocílku zbavíme malých ocelových částic které se na ni během ostření zachytí, ocílku omyjeme ve vlažné vodě, desinfikujeme v některém desinfekčním roztoku, osušíme a uložíme na vyhrazené místo.
-
-{id="pece\_o\_noze"}
-
-## Péče o nože
-
-V Americe ve velkých městech jsou firmy které hotelům a restauracím, případně závodním a školním kuchyním brousí nože tím způsobem, že jim dodají základní sadu nožů podle přání nebo potřeby dané kuchyně a tuto sadu jim po dohodnuté době (zpravidla po 14 dnech) vymění.
-
-V Česku ale doufám ještě platí pravidlo, že kudla a manželka se nepůjčuje. Proto pokud já si pamatuji každý pořádný kuchař má vlastní nože které si sám brousí a sám myje, neboli, že je nedá z ruky.
-
-Tyto nože má buď v krabici na nářadí anglicky zvané tool box, nebo v něčem čemu se česky myslím říká futrál na vergcajk.
-
-Kuchařské nože, kterým věnujeme takovou péči neházíme ale do kuchyňského šuplíku s tím ostatním harampádím.
-
-Ideální jsou dřevěné špalky (knives blocks), ve kterých se ty nože neničí, ale co je hlavní, že máte o nich stále přehled.
-
-Nože, pokud to nevíte, se v restauračních kuchyních totiž kradou a čím dražší nůž, tím dříve ho někdo ukradne.
-
-Praktické jsou také magnetické držáky umístěné v blízkosti pracoviště.
+Ideální k uložení nožů jsou dřevěné špalky, ve kterých se neničí a ve kterých o nich máte stále přehled. Praktické jsou také magnetické držáky umístěné v blízkosti pracoviště.
 
