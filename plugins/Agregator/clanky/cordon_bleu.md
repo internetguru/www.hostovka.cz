@@ -90,8 +90,9 @@ Pokud nemáme dostatečně velké řízky, použijeme dvojnásobný počet menš
 
 Závěrem se musím zmínit o tom, že v Česku se tento steak někdy objevuje pod názvem „Gordon Bleu“, což není korektní. Zase takovou vědu bych z toho ale také nedělal, pokud je pod názvem krátce popsáno, oč se jedná.
 
-Pokud ale chcete ochutnat relativně dobrý řízek Cordon Bleu a jiná mezinárodně populární jídla připravovaná na objednávku z čerstvých prvotřídních místně dosažitelných potravin podle mých vyzkoušených receptů, tak mohu doporučit moje dítě \[restauraci Steakgrill\]\[3\] v Račiněvsi u Roudnice.
+Pokud ale chcete ochutnat relativně dobrý řízek Cordon Bleu a jiná mezinárodně populární jídla připravovaná na objednávku z čerstvých prvotřídních místně dosažitelných potravin podle mých vyzkoušených receptů, tak mohu doporučit moje dítě [restauraci Steakgrill][3] v Račiněvsi u Roudnice.
 
  [1]: /tenderizovani
- [2]: https://www.steakgrill.cz
+ [2]: /zdobeni
+ [3]: https://www.steakgrill.cz
 
