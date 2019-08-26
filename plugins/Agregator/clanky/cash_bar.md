@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=350.html" data-image="/files/preview/clanky/cash_bar/general.jpg" data-type="article"}
 
-{id="cash_bar" ctime="2008-07-16" author="Michael Klíma" short="Cash Bar" mtime="2018-08-19"}
+{id="cash_bar" ctime="2008-07-16" author="Michael Klíma" short="Cash Bar" mtime="2019-08-19"}
 
 # Bar za hotové neboli cash bar
 
