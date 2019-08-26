@@ -3,7 +3,7 @@
 
 {id="speciality" ctime="2006-06-26" author="Michael Klíma" short="Speciality" mtime="2019-05-27"}
 
-# Jak na speciality
+# Speciality podniku
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-08-25, do not edit -->
 
@@ -13,9 +13,9 @@ Specialita je jedním z nejvíce zneužívaných výrazů na jídelních lístc�
 
 {class="important"}
 
-Jsou speciality skutečně specialitami? Restauratéři, a to ne jenom v České republice, pod názvem _specialita_ uvádějí v mnoha případech jídla a nápoje, na kterých je speciální pouze cena.
+Jsou speciality skutečně specialitami? Restauratéři (a to ne jenom v České republice) pod názvem _specialita_ uvádějí v mnoha případech jídla a nápoje, na kterých je speciální pouze cena.
 
-Nejúspěšnější restaurace tvoří jídelní lístek kolem nějaké speciality, která ji odlišuje od konkurence a která restauraci charakterizuje. Někdy stačí jedno nebo dvě jídla, která jsou v jistém smyslu unikátní. Ty dají (jako specialita) základ celému konceptu restaurace.
+Nejúspěšnější restaurace tvoří jídelní lístek kolem nějaké speciality, která je odlišuje od konkurence, a která je charakterizuje. Někdy stačí jedno nebo dvě jídla, která jsou v jistém smyslu unikátní. Ty dají jako speciality základ celému konceptu restaurace.
 
 {class="example"}
 
@@ -23,7 +23,7 @@ Kdysi se například vědělo, že nejlepší vepřové koleno měli u Rozvařil
 
 Specialitou nemusí být jen speciálně připravené jídlo. Může to být jakékoliv „hotové jídlo“ z [jídelníčku][1] nebo dokonce neprodané hotové jídlo z minulého dne, které je ale nabízeno za „speciální“ nízkou cenu.
 
-Specialit je několik a jsou to hlavně:
+Existuje řada různých druhů specialit. Jsou to zejména:
 
   * naše speciality,
   * denní speciality,
@@ -44,7 +44,7 @@ Restaurace není charita a cena specialit tedy nemůže být ztrátová. Special
 
 Nesmíme zapomínat na něco takového jako je obrat neboli množství prodaných porcí. Specialita musí hosta upoutat a přilákat ho do podniku. To, jestli si host propagovanou specialitu nakonec objedná, již není podstatné.
 
-Je mnoho hostů, kteří přijdou do restaurace na základě inzerované nízké atraktivní ceny speciality, a nakonec si objednají nejdražší jídlo nebo nápoj. V každém případě by měla být cena v relaci s ostatními jídly.
+Je mnoho hostů, kteří přijdou do restaurace na základě inzerované nízké atraktivní ceny speciality, a nakonec si objednají nejdražší jídlo nebo nápoj. V každém případě by cena měla být v relaci s ostatními jídly.
 
 {id="nae_speciality"}
 
@@ -92,16 +92,16 @@ Tento způsob má vždy jakási nepsaná pravidla. Například, že páteční s
 
 Stálá specialita má vlastně zabezpečit návštěvnosti v takzvané „slabé dny“. Jestliže tedy restauratér ví, že králík je v místní lokalitě populární a pondělí je nejslabší den, tak králíka zařadí nejspíše na pondělí apod.
 
-Speciality by však neměly být snahou zbavit se neprodejných zbytků. Právě naopak. K tomu, aby si na nich restaurace vybudovala stálou klientelu, musí být vždy čerstvé a z těch nejlepších potravin. Pokud možno to musí být takové speciality, které konkurence nepodává.
+Speciality by však neměly být snahou zbavit se neprodejných zbytků. Právě naopak. K tomu, aby si na nich restaurace vybudovala stálou klientelu, musí být vždy čerstvé a z těch nejlepších potravin. Pokud možno to musí být takové speciality, které konkurence neprodává.
 
-Příkladem takového jídla může být plněné telecí hrudí. To se dá považovat za lahůdku, ale jen pokud se prodává čerstvé a horké. Nepodané porce plněného telecího hrudí jsou druhý den téměř bezcenné.
+Příkladem takového jídla může být plněné telecí hrudí. To se dá považovat za lahůdku, ale jen pokud se podává čerstvé a horké. Neprodané porce plněného telecího hrudí jsou druhý den téměř bezcenné.
 
 Příklad denních specialit:
 
 Pondělí
 :   Králík na smetaně nebo na víně, na česneku, na slanině. Úterý
-:   Kuře Marengo nebo kuře na víně (Coque au vin), nadívané, grilované. Středa
-:   Pečená telecí ledvina, Osso Buco, telecí pečená kýta. Čtvrtek
+:   Kuře Marengo nebo kuře na víně (_Coq au vin {xml:lang="fr"}_), nadívané, grilované. Středa
+:   Pečená telecí ledvina (_Osso Buco {xml:lang="it"_), telecí pečená kýta. Čtvrtek
 :   Pečené vepřové koleno, Moravský vepřový vrabec, Kološvárské zelí. Pátek
 :   Kapr po Polsku, smažený, na paprice.
 
@@ -139,7 +139,7 @@ Krajová a regionální jídla etnických kuchyní jsou jídla, která vznikla v
 
 Naše české, krajové a regionální speciality jsou však něco, co asi nikdy nepochopím. Nevím, jestli se tady někdy někomu podaří takový kurz pro turisty zorganizovat. Kdysi jsem se o to pokoušel, ale setkal jsem se s naprostým nepochopením českých kuchařů.
 
-Bohužel si myslím, že většina jídel uváděných na českých jídelních lístcích jako krajové speciality, nejsou ani krajové, ani regionální (ve smyslu že v uváděných lokalitách nevznikly), a ani nejsou speciality.
+Bohužel si myslím, že ve většině případů jídla uváděná na českých jídelních lístcích jako krajové speciality nejsou ani krajová či regionální (ve smyslu že v uváděné lokalitě nevznikla), a ani to nejsou speciality.
 
 Mám na mysli Zbraslavský kotlet, Žofínské roštěnky, Poděbradské ptáčky, Blanickou ruládu, Liberecký závitek, Domažlické ragú, Klatovský závitek, Děčínský kotlet, Krkonošský závitek, Beskydský závitek, Lesácký závitek, Střekovský závitek a celou řadu dalších závitků.
 
@@ -158,13 +158,13 @@ Když se na tyto „krajové speciality“ dívám, tak mi připadají všechny 
 
 Podle mě jsou to násilné výtvory kuchařů. Ti je za každou cenu sestavili, bez hlubších znalostí vývoje stravovacích zvyklostí v českých zemích a dané lokality. To proto, aby zaplnily stránky kuchařských knížek nebo aby splnily požadavek podnikového ředitelství RaJ, případně Čedoku přijít s nějakou krajovou specialitou.
 
-Jsou ale česká jídla, která možná ani nemají původ v místě, které mají v názvu, ale která si získala takovou popularitu, že jsou oblíbená ve všech českých krajích a regionech. Mezi tato jídla bych řadil například:
+Jsou ale česká jídla, která možná ani nemají původ v místě, které mají v názvu, ale která si získala takovou popularitu, že jsou oblíbená ve všech českých krajích a regionech. Mezi tato jídla podle mě patří například:
 
-  * Jihočeskou kulajdu,
+  * Jihočeská kulajda,
   * Karlovarský guláš,
   * Plzeňský karbonát,
   * Podkrkonošské kyselo,
-  * Moravského vrabce,
+  * Moravský vrabec,
   * Brněnský a Pražský řízek,
   * Hanácké obložené zelí nebo
   * jídla jako je Houbový kuba,
@@ -172,7 +172,7 @@ Jsou ale česká jídla, která možná ani nemají původ v místě, které maj
 
 {class="example"}
 
-Takovým typickým příkladem „české speciality“ je guláš. Podle mě není guláš ani české jídlo. Je to jídlo, které jsme si počeštili a můžeme být rádi, že nás za to Maďaři nežalují. Sice chápu, že Znojemský guláš je logicky guláš s okurkami, ale není mi jasné proč každé město musí mít svůj guláš.
+Takovým typickým příkladem „české speciality“ je guláš. Podle mě [není guláš ani české jídlo][6]. Je to jídlo, které jsme si počeštili a můžeme být rádi, že nás za to Maďaři nežalují. Sice chápu, že Znojemský guláš je logicky guláš s okurkami, ale není mi jasné proč každé město musí mít svůj guláš.
 
 Jenom doufám, že zavedením [vyhlášky 107][4] se Maďaři ozvou a nenechají si líbit, aby byl guláš vyřazen z jídelních lístků jen proto, že se musí dlouho vařit a případně ohřívat.
 
@@ -202,7 +202,11 @@ Tak jako kraje a gastronomické oblasti v jednotlivých zemích, tak už i někt
 
 Některá etnická jídla, kdysi velmi snadno rozeznatelná jako například čínská, vietnamská, japonská, Indonéská, dnes lze spíše označit jako orientální. Podobně u českých, maďarských a rakousko-uherských jídel, která vznikla za Rakousko-Uherska, lze mnohdy jen velmi těžko zjistit zemi jejich původu. O amerických jídlech, která byla do Ameriky přinesena ze všech koutů světa ani nemluvě.
 
-Díky stále se rozvíjejícímu cestovnímu ruchu jsou etnické kuchyně čím dále tím více populární. Etnické restaurace všech možných národů rostou po celém světě jako houby po dešti. Jejich popularita dostoupila takového stupně, že se jimi bohužel zabývá již kdekdo. Dnes si hodně lidí myslí, že k otevření indické restaurace člověku stačí, aby byl Ind apod. Pokud ale nemáme potřebné zařízení a potřebné znalosti o přípravě jídel dané kuchyně, tak bychom se do něčeho takového vůbec neměli pouštět.
+Díky stále se rozvíjejícímu cestovnímu ruchu jsou etnické kuchyně čím dále tím více populární. Etnické restaurace všech možných národů rostou po celém světě jako houby po dešti. Jejich popularita dostoupila takového stupně, že se jimi bohužel zabývá již kdekdo.
+
+{class="example"}
+
+Dnes si hodně lidí myslí, že k otevření indické restaurace člověku stačí, aby byl Ind apod. Pokud ale nemáme potřebné zařízení a potřebné znalosti o přípravě jídel dané kuchyně, tak bychom se do něčeho takového vůbec neměli pouštět.
 
 Je však několik etnických jídel, k jejichž přípravě nepotřebujeme žádné speciální zařízení a pro jejichž přípravu stačí dobrý autentický recept a kalkulace. Taková etnická jídla (po jejich vyzkoušení) nebudeme váhat přidat na náš jídelní lístek jako specialitu, protože lidé si rádi oživují vzpomínky ze zahraničí.
 
@@ -216,13 +220,13 @@ Speciality jsou na lístku prezentovány několika způsoby. Denní speciality j
 
 Specialita musí být patřičným způsobem nabídnuta a zvýrazněna. Specialit není zpravidla více než 6. Když je jich více, tak ztrácejí charakter specialit.
 
-I když si některá restaurace myslí, že všechna jejich jídla jsou svým způsobem speciální, tak je tak všechny označit nelze. Proto to restaurace zpravidla řeší tak, že je dávají jako samostatnou vložku do jídelního lístku.
+I když si některé restaurace myslí, že všechna jejich jídla jsou svým způsobem speciální, tak je tak všechny označit nelze. Proto to restaurace zpravidla řeší tak, že je dávají jako samostatnou vložku do jídelního lístku.
 
 {id="vloky\_do\_jdelnch_lstk"}
 
-### Vložky do jídelních lístků
+## Vložky do jídelních lístků
 
-Vložky do jídelních lístků jsou ve většině případů volné listy, na kterých jsou jídla uvedena. Tyto vložky, které se vkládají do atraktivních desek. Případně jsou speciality napsané na samostatných kartách a zasunují se do zářezů na jídelním lístku. Každá taková karta má na druhé straně číslo příslušné receptury a kalkulace. V obou případech jde o velkou úsporu.
+Vložky do jídelních lístků jsou ve většině případů volné listy, na kterých jsou jídla uvedena. Tyto vložky, které se vkládají do atraktivních desek.
 
 Vložení se dá řešit několika technikami, z nichž jedna jsou speciální úhledné příchytky. Do některých jídelních lístků je mnohdy třeba vkládat další vložky, jako jsou:
 
@@ -234,9 +238,11 @@ Vložení se dá řešit několika technikami, z nichž jedna jsou speciální �
 
 Tyto vložky by měly být stejně úhledné jako je samotný lístek, a neměly by jídla na lístku zakrývat (leda že je to úmyslem). Vložka by měla být do lístku vkládána tak, aby při každém jeho otevření nevypadla. V zásadě každý z těchto způsobů umožňuje dělat rychlé změny ve výběru specialit, rychlé změny v cenách nebo jejich popisů.
 
+Případně jsou speciality napsané na samostatných kartách a zasunují se do zářezů na jídelním lístku. Každá taková karta má na druhé straně číslo příslušné receptury a kalkulace. V obou případech jde o velkou úsporu.
+
  [1]: /jidelni_listek
  [2]: /a_la
  [3]: /gastronomove#gurman
  [4]: /vyhlaska_107
  [5]: /kureci_nugety
-
+ [6]: /gulas

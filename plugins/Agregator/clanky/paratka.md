@@ -39,5 +39,5 @@ Když máte umělý chrup, tak párátko nepotřebujete. Říká se, že lidé, 
 
 Jak již bylo řečeno, šťourání se v zubech u stolu není příliš estetické. Proto jsou v lepších restauracích párátka vhodně umístěna u východu z restaurace, zpravidla na pultíku hostesky. To má samozřejmě tu výhodu, že se lidé šťourají v zubech až na ulici. Někteří _frajeři_ si pak párátko nechají mezi zuby, protože pak vypadají velice „macho“.
 
-Existují i _osobní_ párátka, vyrobená z různých materiálů a v různých, mnohdy velice nákladných obalech. Mají sloužit k ústní „hygieně“. Pokud ale takové párátko používáte častěji, tak se o nějaké hygieně moc mluvit nedá.
+Existují i _osobní_ párátka vyrobená z různých materiálů a v různých (mnohdy velice nákladných) obalech. Mají sloužit k ústní „hygieně“. Pokud ale takové párátko používáte častěji, tak se o nějaké hygieně moc mluvit nedá.
 

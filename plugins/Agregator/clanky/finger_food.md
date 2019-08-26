@@ -39,7 +39,7 @@ Nicméně ať se to lidem líbí nebo ne, budoucnost stravovaní širokých mas 
 
 {class="example"}
 
-Nejbohatší muž světa _Bill Gates {xml:lang="en"}_, který rozhodně není [snob][1], a který si může dovolit navštěvovat nejdražší restaurace téměř denně si například nejlépe pochutná na hamburgeru od _Wendy's {xml:lang="en"}_.
+Nejbohatší muž světa _Bill Gates {xml:lang="en"}_, který rozhodně není [snob][1], a který si může dovolit navštěvovat nejdražší restaurace téměř denně, si například nejlépe pochutná na hamburgeru od amerického řetězce _Wendy's {xml:lang="en"}_.
 
 Všechna jídla, jako jsou plody moře, smažená kuřata (_Kentucky Fried Chicken {xml:lang="en"}_), _Fish and Chips {xml:lang="en"}_, a další jsou _finger foods {xml:lang="en"}_. Je to ale i náš párek, langoš, opečená klobása, párek v rohlíku apod.
 
@@ -49,7 +49,7 @@ Všechna jídla, jako jsou plody moře, smažená kuřata (_Kentucky Fried Chick
 
 Francouzská kuchyně má svoje _casse-croûte {xml:lang="fr"}_, _croque-monsieur {xml:lang="fr"}_ a _croque-madame {xml:lang="fr"}_ sendviče, se kterými jsem se tam setkal hned, jak jsem tam přišel, v roce 1945.
 
-_Croque-monsieur {xml:lang="fr"}_, a _croque-madame {xml:lang="fr"}_ jsou prachobyčejné sendviče. Francouzští kuchaři jsou ale takoví šovinisté, že by na jídelních lístcích nepřipustili cizí výraz jako je _sandwich {xml:lang="en"}_. Proto se sendviče ve Francii uvádí většinou jen jako _baguette {xml:lang="fr"}_.
+_Croque-monsieur {xml:lang="fr"}_, a _croque-madame {xml:lang="fr"}_ jsou prachobyčejné sendviče. Francouzští kuchaři jsou ale takoví xenofobové, že by na jídelních lístcích nepřipustili cizí výraz jako je _sandwich {xml:lang="en"}_. Proto se sendviče ve Francii uvádí většinou jen jako _baguette {xml:lang="fr"}_.
 
 {id="esk\_obloen\_chlebky"}
 
@@ -65,7 +65,7 @@ Před lety jsem byl vedoucím vyhlášené výrobny chlebíčků v Praze v Neká
 
 Výroba českých obložených chlebíčků je v porovnání se všemi ostatními unikátní. Vyžaduje nejenom zručnost ale i nadání. Je to nimravá práce, kterou dnes již nikdo nedocení. Proto se s nimi nikde jinde než v Česku nesetkáte.
 
-Naštěstí se tradice českých obložených chlebíčků i nadále udržuje v domácnostech. S těmi profesionálními se to ale nedá srovnat, hlavně co do druhů použitých surovin. Například v Nekázance jsme měli asi 150 druhů surovin, a to si málo která domácnost může dovolit.
+Naštěstí se tradice českých obložených chlebíčků i nadále udržuje v domácnostech. S těmi profesionálními se to ale nedá srovnat hlavně co do druhů použitých surovin. Například v Nekázance jsme měli asi 150 druhů surovin, a to si málo která domácnost může dovolit.
 
 Profesionální výroba chlebíčku má své finty a triky, a to nejenom při výrobě, ale i při uchování čerstvosti. Popisovat vám je tady ale nebudu, protože Hostovka není žádná škola vaření. Místo toho vám povím více o dalších sendvičích.
 
@@ -93,7 +93,7 @@ Nicméně v Česku jsem se setkal i s takovými rádoby odborníky kteří mi ř
 
 Další velmi oblíbený sendvič v Americe je _Monte Christo sandwich {xml:lang="en"}_. Ten je tak jednoduchý, že mě až udivuje, že jsem ho nevynaleznul já.
 
-Recept na něj nepotřebujete. Potřebujete jen dva máslem pomazané toastové chleby. Na každý položíte plátek šunky a navrch plátek sýra. Cheby složíte, pomažete máslem a na gridlu nebo na ploché pánvičce, či pod grilem je pečete dozlatova, než se roztaví sýr.
+Recept na něj nepotřebujete. Potřebujete jen dva máslem pomazané toastové chleby. Na každý položíte plátek šunky a navrch plátek sýra. Chleby složíte, pomažete máslem a na gridlu nebo na ploché pánvičce, či pod grilem je pečete dozlatova, než se roztaví sýr.
 
 {class="example"}
 
@@ -113,14 +113,14 @@ Je velice pikantní a podává se všude, kde se točí pivo. Divím se proto, �
 
 ### Teplý křupavý sendvič BLT
 
-Další populární americký sendvič je známý pod vžitým názvem _BLT {xml:lang="en"}_ (čti _bí-el-tý_). To je zkratka pro _bacon {xml:lang="en"}_ (slanina), _lettuce {xml:lang="en"}_ (salát) and _tomato {xml:lang="en"}_ (rajče).
+Další populární americký sendvič je známý pod vžitým názvem _BLT {xml:lang="en"}_ (čti _bí-el-tý_). To je zkratka pro _bacon, lettuce and tomato {xml:lang="en"}_ (slanina, salát a rajče).
 
 Pravý americký _BLT {xml:lang="en"}_ je ale pěkný prevít, protože musí být čerstvý a křupavý. Níže je uveden recept na původní _BLT {xml:lang="en"}_ sendvič.
 
-  1. Krajíček čerstvě opečeného křupavého amerického bílého chleba, kterému říkám _bílá buchta_, pomažeme majonézou, a pokryjeme ho čerstvými listy křupavého ledového salátu.
-  2. Navrch dáme několik kousků dokřupava grilované americké slaniny, na to ještě 2 plátky rajčete.
+  1. Krajíček čerstvě opečeného křupavého amerického bílého chleba (kterému říkám _bílá buchta_) pomažeme majonézou a pokryjeme ho čerstvými listy křupavého ledového salátu.
+  2. Navrch dáme několik kousků dokřupava grilované americké slaniny a na to ještě 2 plátky rajčete.
   3. Sendvič přikryjeme druhým krajíčkem dokřupava opečeného chleba pomazaného majonézou.
-  4. Uzavřený sendvič propíchneme na dvou protilehlých rozích párátkem (aby z něj nevypadla náplň), rozkrojíme ho na dva stejné trojúhelníky.
+  4. Uzavřený sendvič propíchneme na dvou protilehlých rozích párátkem (aby z něj nevypadla náplň) a rozkrojíme ho na dva stejné trojúhelníky.
   5. Trojúhelníky dáme na teplý talíř, přidáme bramborové lupínky a pravý americký _BLT {xml:lang="en"}_ je na světě.
 
 {class="example"}

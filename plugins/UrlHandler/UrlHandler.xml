@@ -20,6 +20,8 @@
   <redir link="business_lunches">pracovni_obedy</redir>
   <redir link="finger_food">sendvice</redir>
   <redir link="argula">rukola</redir>
+  <redir link="krajeni_potravin">krajeni</redir>
+  <redir link="jidelni_hulky">hulky</redir>
   
   <redir parName="s" parValueMatch="stitky/([^/]+)">/?usp=navig&amp;stitek=$1#clanky</redir>
   <redir parName='s' parValueMatch='clanky/([^/]+)'>$1?usp=navig</redir>

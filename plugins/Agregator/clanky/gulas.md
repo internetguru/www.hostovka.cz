@@ -17,7 +17,7 @@ Guláš, anglicky _goulash {xml:lang="en"}_ nebo také _hungarian beef stew {xml
 
 Původní guláš byla víceméně polévka maďarských kovbojů, pastevců krav, kteří si říkali gulášové. Základní recept na guláš byl velice jednoduchý.
 
-  1. Drobně krájená cibule, které muselo být stejné množství jako masa, se osmažila v kotli na trošce omastku dozlatova.
+  1. Drobně krájená cibule, které muselo být stejné množství jako masa, se dozlatova osmažila v kotli na trošce omastku.
   2. Pak se přidalo na kostky krájené maso, které se orestovalo, osolilo, zasypalo maďarskou paprikou, zalilo trochou vody, a dusilo v kotli nad otevřeným ohněm až doměkka.
 
 Tento guláš se ničím nezahušťoval, protože k jeho zahuštění stačila cibule. Přidávání česneku a rajského protlaku případně zahušťování kváskem nebo jíškou přišlo až později. Používání papriky a kyselé smetany do Maďarska vlastně přinesli Turci, kteří po dobu 150 let Maďarsko okupovali.

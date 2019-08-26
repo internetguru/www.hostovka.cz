@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=355.html" data-image="/files/preview/clanky/krajeni/general.jpg" data-type="article"}
 
-{id="krajeni_potravin" ctime="2008-07-22" author="Michael Klíma" short="Krájení potravin" mtime="2019-06-24"}
+{id="krajeni" ctime="2008-07-22" author="Michael Klíma" short="Krájení" mtime="2019-06-24"}
 
 # Způsoby krájení potravin
 
@@ -46,7 +46,7 @@ Správně nakrájená surovina je jednou ze základních předpokladů úspěchu
 
 Špatně nakrájené suroviny velmi často způsobí, že pokrm (bez ohledu na další pečlivou úpravu) nemá žádaný vzhled ani chuť. To se projevuje hlavně u masa, a proto se musíme držet stanoveného předpisu.
 
-{class="important"}
+{class="example"}
 
 Nasekat nějakou potravinu halabala na malé kousky a říkat tomu „čína“, je největší prohřešek proti všem zásadám čínské kuchyně a vaření vůbec.
 
