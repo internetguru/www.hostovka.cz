@@ -80,13 +80,15 @@ Sladkovodní krevetky
 
 Krevetky jsou v Americe prodávány podle počtu kusů v jedné libře (453,6 g) výrazem _count {xml:lang="en"}_ (počet). Počet mezi 41 a 50 znamená, že je v jedné libře 41 až 50 krevetek. Neboli čím menší počet tím větší krevetky jsou.
 
-Na některých trzích nebo na mezinárodních jídelních lístcích se ale setkáte s označením jako _small {xml:lang="en"}_ (malé), _medium {xml:lang="en"}_ (střední), a _jumbo {xml:lang="en"}_ nebo _large {xml:lang="en"}_ (velké). To proto, aby si lidé mohli udělat představu o jaký druh krevetek se jedná.
+Na některých trzích nebo na mezinárodních jídelních lístcích se ale setkáte s označením jako _small {xml:lang="en"}_ (malé), _medium {xml:lang="en"}_ (střední), a _jumbo {xml:lang="en"}_ nebo _large {xml:lang="en"}_ (velké). To proto, aby si lidé mohli udělat představu, o jaký druh krevetek se jedná.
+
+{class="example"}
 
 Cenové srovnání musíte ale dělat na základě počtu kusů v jedné libře nebo kilogramu. Cena se může měnit od restaurace k restauraci. Nařízení o uvádění váhy porce (jako např. v Česku) je úplně nesmyslné, protože krevetky se hodnotí hlavně podle velikosti.
 
 Krevetky můžete připravovat všemi možnými způsoby od pošírování, broilování, [sotýrování][4] až po [grilování][5]. Do jídel jako je například Ceviche je můžeme použít i syrové. Podávají se jak teplé, tak i studené.
 
-Nejpopulárnější způsob podávání studených vařených loupaných krevetek je [krevetkový koktejl][6] (anglicky _Shrimp Cocktail {xml:lang="en"}_) s koktejlovou omáčkou. Moje nejoblíbenější jídlo z vařených loupaných krevetek je [Shrimp de Jonghe][7]. To v nejbližší době naleznete na jídelním lístku restaurace [Steakgrill][8].
+Nejpopulárnější způsob podávání studených vařených loupaných krevetek je [krevetkový koktejl][6] (anglicky _Shrimp Cocktail {xml:lang="en"}_) s koktejlovou omáčkou. Moje nejoblíbenější jídlo z vařených loupaných krevetek je [Shrimp de Jonghe][7].
 
 Jak již řečeno, tak Hostovka není škola vaření, a proto recepty na úpravu krevetek zde nenajdete, ale jako studenti Hostovky byste měli vědět, že po jakékoliv úpravě musí krevetky být křehké a do jisté míry šťavnaté. Pokud jsou tuhé, tak je to známka toho, že byly převařené.
 
@@ -132,11 +134,13 @@ Neloupané vařené ocásky vypadají větší než ocásky loupané. Jsou také
 
 Ať již čerstvé nebo zmrazené, loupané a odžilněné ocásky jsou označované jako _P&D {xml:lang="en"}_ (zkratka pro _peeled and deveined {xml:lang="en"}_). Jejich cena je podstatně vyšší než u ocásků neloupaných. Pro domácí potřebu je kupujeme jen zřídka. Pro restaurace jen pokud je jejich loupání pro nás neekonomické.
 
-{class="example"}
+{class="important"}
+
+Tyto ocásky přichází na trh většinou mrazené a po rozmrazení je manipulace s nimi velice rychlá.
 
 Vařené, loupané a odžilněné ocásky jsou z uvedených druhů nejdražší, protože je v ceně zakalkulováno nejenom jejich loupání ale i vaření. Pro domácnost jsou tyto ocásky zcela neekonomické, protože cenový rozdíl mezi ocásky a neloupanými syrovými ocásky je markantní.
 
-Ve velkých restauračních provozech, kde náklady na mzdy jsou rozhodujícím faktorem, a ve kterých používají vařených ocásků velké množství, se ale vyplatí tyto ocásky kupovat, protože představují úsporu času jak loupáním tak i vařením a nezanedbatelnou úsporou je i úspora místa pro skladování. Tyto ocásky přichází na trh většinou mrazené a po rozmrazení je manipulace s nimi velice rychlá.
+Ve velkých restauračních provozech, kde náklady na mzdy jsou rozhodujícím faktorem, a ve kterých používají vařených ocásků velké množství, se ale vyplatí tyto ocásky kupovat. Představují úsporu času jak čištěním, tak i vařením. Nezanedbatelnou úsporou je i úspora místa pro skladování.
 
  [1]: /krabi
  [2]: /musle
