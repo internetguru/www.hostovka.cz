@@ -1,9 +1,9 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=324.html" data-image="/files/preview/clanky/jidelni_hulky/general.jpg" data-type="article"}
 
-{id="jidelni_hulky" ctime="2008-05-17" author="Michael Klíma" short="Jídelní hůlky" mtime="2019-08-12"}
+{id="hulky" ctime="2008-05-17" author="Michael Klíma" short="Hůlky" mtime="2019-08-12"}
 
-# Jak správně jíst jídelními hůlkami
+# Jídelní hůlky
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-08-25, do not edit -->
 
@@ -13,7 +13,7 @@ Jídelní hůlky jsou hlavním jídelním náčiním v mnoha asijských kulturá
 
 {class="important"}
 
-Jídelní hůlky se používají v Číně, Japonsku, Koreji, ve Vietnamu a na Taiwanu. Všude vám v restauracích velice ochotně podají normální jídelní příbory, ale pokud ale chcete jídlo opravdu vychutnat, tak se naučte hůlky používat.
+Jídelní hůlky se používají v Číně, Japonsku, Koreji, ve Vietnamu a na Taiwanu. Všude vám v restauracích velice ochotně podají normální jídelní příbory. Pokud si ale chcete jídlo opravdu vychutnat, tak se naučte hůlky používat.
 
 {id="historie\_jdelnch\_hlek"}
 
@@ -29,7 +29,7 @@ V čínské kultuře stolování hrají jídelní hůlky velice důležitou roli
 
 ## Tvar a materiál jídelních hůlek
 
-Konec hůlek je zásadně větší, hranatý (čtverhranný), zatímco spodní konec je tenčí a buď kulatý (čínské hůlky) nebo špičatý (japonské hůlky). Čínské hůlky jsou zpravidla delší než japonské.
+Horní konec hůlek je zásadně větší, hranatý (čtverhranný), zatímco spodní konec je tenčí a buď kulatý (čínské hůlky) nebo špičatý (japonské hůlky). Čínské hůlky jsou zpravidla delší než japonské.
 
 Hůlky se vyráběly z různých materiálů. Nejčastěji z bambusu, který byl jednak nejlevnější, snadno se dá štípat, odolává vysokým teplotám a nemá znatelnou vůni nebo chuť. Dále se běžně používalo cedrové, sandálové, týkové nebo borovicové dřevo a kosti.
 
@@ -46,11 +46,11 @@ Japonci vyráběli hůlky většinou ze dřeva. Japonci byli také první, kdo v
   * Hůlkami nepíchejte do jídla, obzvláště ne do rýže. Jenom při pohřbech se hůlky zapíchávají do rýže a dávají na oltář.
   * Nepodávejte hůlkami jídlo na hůlky někoho jiného. Jenom při pohřbech se takto kosti spáleného těla podávají od jednoho pozůstalého k druhému.
   * Nenabodávejte jídlo na hůlky.
-  * Neukazujte hůlkami na nic nebo na někoho.
+  * Neukazujte hůlkami na něco nebo na někoho.
   * Nepohybujte příliš hůlkami kolem sebe, a ani si s nimi nehrajte.
   * Nepohybujte pomocí hůlek miskami nebo talíři.
   * K rozdělení větších kousků masa musíte použít většího tlaku na hůlky, což ale vyžaduje určitou praxi.
-  * V případě, že jste vaše hůlky měli již v ústech, k podání jídal ze společné mísy použijte druhý konec hůlek.
+  * Pokud jste hůlky měli již v ústech, tak k podání jídel ze společné mísy použijte druhý konec hůlek.
 
 Pokud hůlky nepoužíváme, pokládáme je před sebe na jakési podložky (anglicky _chopsticks rest {xml:lang="en"}_), na kterých hůlky leží – tak aby se nepotřísnil ubrus. Kobylky pro odkládání použitých hůlek se vyrábí v několika variantách. Většinou jsou z levných materiálů, protože si je hosté rádi berou jako suvenýr. V domácnostech mohou být ale i stříbrné.
 
