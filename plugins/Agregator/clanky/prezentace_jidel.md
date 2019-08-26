@@ -21,7 +21,7 @@ O prezentaci jídla se dříve staral _garde manger {xml:lang="fr"}_, který je 
 
 ## Garde manger
 
-_Garde manger {xml:lang="fr"}_ byl člen malé nebo velké kuchyňské brigády. Ty ale vlivem moderní surovinové základně, konvenientním potravinám, novým zařízením a technologiím pomalu ale jistě zanikají.
+_Garde manger {xml:lang="fr"}_ byl člen malé nebo velké kuchyňské brigády. Ty však vlivem moderní surovinové základně, konvenientním potravinám, novým zařízením a technologiím pomalu ale jistě zanikají.
 
 Velké kuchyně, ve kterých připravoval jídla štáb odborníků, se čím dále zmenšují a většina kdysi specializovaných funkcí zaniká. Čas uspořený na přípravě surovin je nyní využíván k jejich lepší prezentaci.
 
@@ -31,7 +31,7 @@ _Garde manger {xml:lang="fr"}_ (tedy kuchař) ovládá základy teplé i studen�
 
 ## Historie prezentace jídel
 
-Historicky (mimo Caréma) většina kuchařů teplé kuchyně umělecké prezentaci jídel nevěnovala velkou důležitost. To je mnohdy vytýkáno právě francouzským kuchařům.
+Historicky většina kuchařů teplé kuchyně (mimo [Caréma][1]) umělecké prezentaci jídel nevěnovala velkou důležitost. To je mnohdy vytýkáno právě francouzským kuchařům.
 
 {class="example"}
 
@@ -75,13 +75,13 @@ Porouchá-li se režón nebo ohřívače talířů, tak kuchař musí talíře p
 
 ## Ještě že máme myčky nádobí
 
-Během praxe v Americe se jednou stalo, že jsme měli na banketu vydávat jídla pro asi 600 lidí, ale z nějakého důvodu nebyly při ruce horké talíře. V některých zemích by jídla prostě dali na studené talíře, ale v Americe by si mohl šéfkuchař hned hledat jiné místo. Jak jsme si řekli, jak kuchař talíře ohřeje je jeho věc.
+Během praxe v Americe se jednou stalo, že jsme měli na banketu vydávat jídla pro asi 600 lidí, ale z nějakého důvodu nebyly při ruce horké talíře. V některých zemích by jídla prostě dali na studené talíře, ale v Americe by si mohl šéfkuchař hned hledat jiné místo.
 
-My jsme ty talíře prostě „projeli“ automatickou myčkou, ve které jsou oplachovány při teplotě 70 až 80 °C. Byla to otázka asi 20 minut a situace byla zachráněna.
+Jak jsme si řekli, jak kuchař talíře ohřeje je jeho věc. My jsme ty talíře prostě „projeli“ automatickou myčkou, ve které jsou oplachovány při teplotě 70 až 80 °C. Byla to otázka asi 20 minut a situace byla zachráněna.
 
-Se spokojeností hostů si ale v České republice některé restaurace moc starostí nedělají. Krátce po Sametové revoluci jsem si v jedné pražské restauraci stěžoval na to, že mám jídlo na studeném talíři. Číšník, zřejmě spolumajitel, řekl: „Kde máme vzít peníze na režón? Tahle restaurace stála dost peněz už tak jako tak, takže se musíme obejít bez režónu.“
+{class="example"}
 
-Nicméně jsem se s podobnou reakcí setkal i před několika lety u příležitosti veletrhu v Brně v jedné dosti rušné restauraci.
+Se spokojeností hostů si ale v České republice některé restaurace moc starostí nedělají. Krátce po Sametové revoluci jsem si v jedné pražské restauraci stěžoval na to, že mám jídlo na studeném talíři. Číšník, zřejmě spolumajitel, řekl: „Kde máme vzít peníze na režón? Tahle restaurace stála dost peněz už tak jako tak, takže se musíme obejít bez režónu.“ S podobnou reakcí jsem se setkal i před několika lety u příležitosti veletrhu v Brně v jedné dosti rušné restauraci.
 
 {id="nadmrn\_velk\_tale"}
 
@@ -101,3 +101,4 @@ Dnes to ale nejsou jen talíře, na kterých se jídla podávají. I když to hy
 
 Hygieničtější a atraktivnější podávání jídel než na dřevěných prkénkách je na litinových pánvičkách (anglicky zvaných _cast iron {xml:lang="en"}_ nebo _sizzler plates {xml:lang="en"}_). Když se takové jídlo podává na stůl, tak stále ještě syčí a prská. Tím získává atraktivní vizuální vjem, který je doplněn vůní.
 
+ [1]: /careme
