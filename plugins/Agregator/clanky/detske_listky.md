@@ -37,7 +37,7 @@ Prostě moje vnoučata, kterým říkám „hajzlíci“, jsou takoví mí pokus
 
 ## Tvorba dětských jídelních lístků
 
-Tvorba efektivních dětských [jídelních lístků][1] je velice nákladná záležitost a vyžaduje určité znalosti. Dokonce je náročnější a dražší než tvorba běžných [jídelních lístků][1]. To, co někteří čeští restauratéři nabízí jako dětská jídla je trestuhodné.
+Tvorba efektivních dětských [jídelních lístků][1] je velice nákladná záležitost a vyžaduje určité znalosti. Dokonce je náročnější a dražší než tvorba běžných [jídelních lístků][1]. To, co někteří čeští restauratéři nabízí jako dětská jídla, je trestuhodné.
 
 Základem všeho je návratnost této investice. Řešit to tak, že [jídelní lístky][1] okopírujeme od konkurence, která je třeba i s úspěchem používá je nesmyslné. Je totiž možné, že restaurace, podle které dětský [jídelní lístek][1] kopírujeme, má docela jinou dětskou klientelu, než máme my.
 
@@ -79,7 +79,7 @@ V Česku nebo na Slovensku se tím pravděpodobně nikdo zatím nezabývá, ale 
 
 ## Velikost dětských porcí
 
-Není nic neobvyklého, že si i dospělí nebo starší lidé objednávají poloviční porce. Některá jídla však nelze půlit. Proto je běžnou praxí jídla, která je možno podávat v polovičních porcích označit například hvězdičkou a na lístek napsat, že tato jídla je možno obdržet v polovičních (dětských) porcích. Tím zabijeme dvě mouchy jednou ranou.
+Není nic neobvyklého, že si i dospělí nebo starší lidé objednávají poloviční porce. Některá jídla však nelze půlit. Proto je běžnou praxí jídla, která je možno podávat v polovičních porcích, označit například hvězdičkou a na lístek napsat, že tato jídla je možno obdržet v polovičních (dětských) porcích. Tím zabijeme dvě mouchy jednou ranou.
 
 {class="important"}
 
