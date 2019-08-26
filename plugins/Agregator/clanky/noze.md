@@ -27,9 +27,9 @@ Kování nožů je zdlouhavější, a tudíž dražší proces než vysekáván�
 
 ## Americká anatomie nože
 
-Nůž má dvě základní části – ostří, anglicky zvané _blade {xml:lang="en"}_ a rukojeť, anglicky zvanou _handle {xml:lang="en"}_. Rukojeť může být z jednoho nebo i z více kusů.
+Nůž má dvě základní části – ostří (anglicky _blade {xml:lang="en"}_) a rukojeť (anglicky _handle {xml:lang="en"}_). Rukojeť může být z jednoho nebo i z více kusů.
 
-Důležité je, aby byla rukojeť dobře tvarovaná a aby umožňovala pevné držení. To zlepšuje přesnost krájení, brání uklouznutí a zvyšuje bezpečnost.
+Důležité je, aby byla rukojeť dobře tvarovaná, a aby umožňovala pevné držení. To zlepšuje přesnost krájení, brání uklouznutí a zvyšuje bezpečnost.
 
 {class="important"}
 
@@ -66,7 +66,7 @@ Moje babička brousila své nože na _sádelňáku_ nebo na schodech do sklepa. 
 
 Některé brousky jsou zbytečně drahé. Postačí vám kámen na broušení, ideálně v ochranném obalu. Broušení na kameni má ale také své zásady.
 
-  1. Kámen, nejlépe v obalu, položíme na navlhčenou utěrkou, aby neklouzal. Nůž držíme v pravé ruce.
+  1. Kámen (nejlépe v obalu) položíme na navlhčenou utěrkou, aby neklouzal. Nůž držíme v pravé ruce.
   2. Dvěma prsty levé ruky na nůž mírně tlačíme a vedeme ho _po ostří_ (anglicky _with the grain {xml:lang="en"}_), směrem od těla, od špičky a až po kořen nože.
   3. Následně nůž na konci kamene otočíme a vedeme ho obdobným způsobem směrem k tělu.
   4. Tento postup opakujeme několikrát, přičemž občas odhadneme ostrost nože, viz výše.
@@ -77,11 +77,11 @@ Dnes jsou na trhu velice praktické a levné brousky o třech stupních drsnosti
 
 ### Ostření na ocílce
 
-Ostření neboli obtahování nožů není tak jednoduché, jak se zdá. To, co vidíte, a slyšíte u některých kuchařů při obtahování nožů je jen komedie a ve skutečnosti nůž spíše ničí než ostří.
+Ostření neboli obtahování nožů není tak jednoduché, jak se zdá. To, co vidíte a slyšíte u některých kuchařů při obtahování nožů, je jen komedie a ve skutečnosti nůž spíše ničí než ostří.
 
 Ocílek je několik druhů, a to většinou ocelových, ale existují i ocílky porcelánové a další. Všechny ale slouží jednomu účelu, což je k odstranění tak zvané „jehly“, která se na ostří nože vytvoří při jeho broušení na kameni. Ostření trvá několik minut či nebo vteřin a měli bychom ho během krájení několikrát opakovat.
 
-  1. Ocílku uchopíme do levé ruky, tak aby nás ocelová zábrana na jejím konci chránila od zranění při náhodném sklouznutí nože.
+  1. Ocílku uchopíme do levé ruky tak, aby nás ocelová zábrana na jejím konci chránila od zranění při náhodném sklouznutí nože.
   2. Pravou rukou uchopíme pevně rukojeť nože.
   3. Kořen nože nasadíme na špičku ocílky a při mírném tlaku nůž vedeme proti ostří na konec ocílky tak, abychom skončili u špičky nože.
   4. Tento postup opakujeme na druhé straně ostří.
