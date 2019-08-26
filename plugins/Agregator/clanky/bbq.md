@@ -33,7 +33,7 @@ _Barbecue {xml:lang="en"}_ omáček existuje nekonečná řada. Obsahují různ�
 
 Zdrojem tepla při grilování může být dřevěné uhlí, zemní plyn nebo propan butan. Potraviny jsou grilovány na roštu, na rožni nebo v grilovacích kleštích, které musí být naprosto čisté.
 
-Během grilování se do potravin nepíchá. Na _barbecue {xml:lang="en"}_ se grilování změní v okamžiku, kdy potravinu začneme potírat _barbecue {xml:lang="en"}_ omáčkou. Některé potraviny jsou v této omáčce [marinovány][1] také krátce před tepelnou úpravou.
+Během grilování se do potravin nepíchá. Na _barbecue {xml:lang="en"}_ se grilování změní v okamžiku, kdy potravinu začneme potírat _barbecue {xml:lang="en"}_ omáčkou. Některé potraviny jsou v této omáčce [marinovány][1] krátce před tepelnou úpravou.
 
  [1]: /tenderizovani#marinovani
 
