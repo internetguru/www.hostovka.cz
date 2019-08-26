@@ -29,7 +29,7 @@ Pokud do vaší restaurace přichází ojedinělé skupiny za účelem oběda a 
 
 ## VIP podnikatelské kluby
 
-Pokud chceme hovořit o vlivu dobrého jídla a pití na obchodní jednání, tak se zde stojí za to zmínit o VIP podnikatelských klubech (anglicky _VIP Business Clubs {xml:lang="en"}_. Na podporu uzavření velkých obchodních transakcí se k jídlu a pití ještě dodává „šťáva“ v podobě servírek nahoře bez.
+Pokud chceme hovořit o vlivu dobrého jídla a pití na obchodní jednání, tak se zde stojí za to zmínit o VIP podnikatelských klubech (anglicky _VIP Business Clubs {xml:lang="en"}_. Na podporu uzavření velkých obchodních transakcí se k jídlu a pití ještě dodává „šťáva“ v podobě obsluhy nahoře bez.
 
 Přestože jsou tyto kluby kritizovány kdekým, tak v západním světě rostou jako houby po dešti. Nepochybuji tedy o tom, že i v České republice podobné kluby vzniknou. Češi, jak je znám, jsou papežtější než papež, a musí každého přetrumfnout. Obávám se proto, že u nás servírky nebudou jen nahoře bez.
 
