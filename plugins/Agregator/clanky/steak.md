@@ -59,13 +59,13 @@ V Americe jsou _vealers {xml:lang="en"}_ a _calves {xml:lang="en"}_ prodávány 
 
 Steak z telecího masa nemůže být nazýván biftek. A to již z důvodu, že biftek je zkomolenina anglického slova _beefsteak {xml:lang="en"}_, neboli řez z hovězího masa.
 
-Steaky z telecích masa jsou i v Česku nazývány spíše řízky, německy _Schnitzel {xml:lang="de"}_, francouzsky _escalope {xml:lang="fr"}_, italsky _scaloppe {xml:lang="it"}_ a rusky _шиицeль {xml:lang="ru"}_. Některé řezy z telecí pečeně s kostí se sice nazývají kotlety, ale někdy se pod názvem kotleta rozumí mleté maso z formované do tvaru kotlety (žebírka).
+Steaky z telecích masa jsou i v Česku nazývány spíše řízky, německy _Schnitzel {xml:lang="de"}_, francouzsky _escalope {xml:lang="fr"}_, italsky _scaloppe {xml:lang="it"}_ a rusky _шиицeль {xml:lang="ru"}_. Některé řezy z telecí pečeně s kostí se sice nazývají kotlety, ale někdy se pod názvem kotleta rozumí mleté maso zformované do tvaru kotlety (žebírka).
 
 {id="t-bone\_steak\_a\_telec\_ebrko\_veal\_chop"}
 
 ## T-bone steak a telecí žebírko Veal chop
 
-T-bone steak má své jméno odvozené od kosti ve tvaru písmene T která jím prochází. Z vnitřní strany má steak kousek svíčkové, pro kterou je preferován. Dalším oblíbeným steakem z telecího je pak takzvané telecí žebírko (anglicky _Veal chop {xml:lang="en"}_).
+T-bone steak má své jméno odvozené od kosti ve tvaru písmene T, která jím prochází. Z vnitřní strany má steak kousek svíčkové, pro kterou je preferován. Dalším oblíbeným steakem z telecího je pak takzvané telecí žebírko (anglicky _Veal chop {xml:lang="en"}_).
 
 {class="figure"}
 
