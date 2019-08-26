@@ -11,9 +11,7 @@ _Cash bar {xml:lang="en"}_, _[open bar][1] {xml:lang="en"}_, _[host bar][2] {xml
 
 _Cash bar {xml:lang="en"}_ je v zásadě opak výrazu _[open bar][1] {xml:lang="en"}_ nebo _[host bar][2] {xml:lang="en"}_, což býval dřív v Americe velký tahák. Jako studenti Hostovky byste význam těchto výrazů měli znát, abyste se jako hosté nedostali do trapné situace anebo jako hostitelé do rozporu se zákonem. 
 
-{class="example"}
-
-V Americe, jak asi víte, soudí každý každého při sebemenší příležitosti. V případě že se někdo opije a způsobí škodu nebo neštěstí, tak zodpovědnost nese ten, kdo ho do takového stavu přivedl. V případě _[open bar][1] {xml:lang="en"}_ je jasné, že zodpovědnost nese hostitel, a proto se s ním v Americe již tak často nesetkáte.
+V Americe, jak asi víte, soudí každý každého při sebemenší příležitosti. V případě, že se někdo opije a způsobí škodu nebo neštěstí, tak zodpovědnost nese ten, kdo ho do takového stavu přivedl. V případě _[open bar][1] {xml:lang="en"}_ je jasné, že zodpovědnost nese hostitel, a proto se s ním v Americe již tak často nesetkáte.
 
  [1]: /open_bar
  [2]: /host_bar
