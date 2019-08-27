@@ -32,6 +32,7 @@ h1 {
 }
 h2 {
   font-size: 2em;
+  margin-bottom: 0.75em;
 }
 h2, h3 {
   color: #111;
@@ -851,5 +852,11 @@ dl:not(.mike):not(.clanek) dt:not(:first-child) {
 }
 dl:not(.mike):not(.clanek) dd {
   margin: 0;
+}
+/***************************/
+p:after {
+  content: "";
+  display: table;
+  clear: both;
 }
 /***************************/
