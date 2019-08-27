@@ -22,6 +22,7 @@
   <redir link="argula">rukola</redir>
   <redir link="krajeni_potravin">krajeni</redir>
   <redir link="jidelni_hulky">hulky</redir>
+  <redir link="bedekry">bedekr</redir>
   
   <redir parName="s" parValueMatch="stitky/([^/]+)">/?usp=navig&amp;stitek=$1#clanky</redir>
   <redir parName='s' parValueMatch='clanky/([^/]+)'>$1?usp=navig</redir>
