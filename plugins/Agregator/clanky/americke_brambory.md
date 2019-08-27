@@ -41,7 +41,7 @@ Pečenáče (anglicky _baking potatoes_), se do restaurací dodávají buď v 50
 
 Dejme tomu, že v Americe plánuji udělat banket pro 484 lidí. Všem bych chtěl dát stejně hezké a stejně velké brambory. Spočítám si tedy, že budu potřebovat 5,37 krabic po devadesáti kusech brambor. Jelikož vám ale zlomky krabic neprodají, tak budu muset objednat 6 krabic.
 
-Teď se ale zeptáte, co uděláte, když v některé krabici nebude brambor 90, nebo co když některá brambora bude zkažená? To jste ale přehlédli, že mluvím o Americe. Tady má každý eminentní zájem na tom, aby host dostal to, co chce a co mu za jeho peníze patří.
+Teď se ale zeptáte, co uděláte, když v některé krabici nebude brambor 90 nebo co když některá brambora bude zkažená? To jste ale přehlédli, že mluvím o Americe. Tady má každý eminentní zájem na tom, aby host dostal to, co chce a co mu za jeho peníze patří.
 
 {id="efektivita\_prace\_a_vyteznost"}
 
