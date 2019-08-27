@@ -9,7 +9,7 @@
 
 {kw="zbožíznalství, recept, zelenina"}
 
-Řapíkatý celer _(Apium graveolens dulce)_ anglicky zvaný _celery_, byl v Evropě až do 16 století, znám pouze jako lékařská rostlina. V Česku byl řapíkatý celer znám až od Sametové revoluce.
+Řapíkatý celer _(Apium graveolens dulce)_ anglicky zvaný _celery_, byl v Evropě až do 16. století, znám pouze jako lékařská rostlina. V Česku byl řapíkatý celer znám až od Sametové revoluce.
 
 {class="example"}
 
@@ -31,7 +31,7 @@ Zelené listy, kterými jsou řapíky zakončeny, můžeme použít do vývaru a
 
 Řapíky celeru nemají téměř žádný odpad, a proto jsou v kuchyni tak oblíbené. Očištěné řapíky celeru (anglicky _celery sticks_) se podávají ke [crudités][1], používají se jako jedlá míchátka nápojů apod.
 
-Před další úpravou se řapíky většinou krájí na malé, stejnoměrně velké, úhledné kousky. Oblíbená forma jsou kousky krájené nakoso (anglicky _on bias_). Kousky celeru se pak přidávají do salátů, nebo se dusí jako přílohová zelenina.
+Před další úpravou se řapíky většinou krájí na malé, stejnoměrně velké, úhledné kousky. Oblíbená forma jsou kousky krájené nakoso (anglicky _on bias_). Kousky celeru se pak přidávají do salátů nebo se dusí jako přílohová zelenina.
 
 {id="duseny_celer"}
 
