@@ -860,3 +860,15 @@ p:after {
   clear: both;
 }
 /***************************/
+#footer .seedling:before {
+  -webkit-filter: invert(48%) sepia(63%) saturate(430%) hue-rotate(164deg) brightness(92%) contrast(90%);
+  filter: invert(48%) sepia(63%) saturate(430%) hue-rotate(164deg) brightness(92%) contrast(90%);
+}
+#footer ul li {
+  margin-top: 0.5em;
+}
+/***************************/
+.docinfo .fa:before {
+  margin-right: 0.55em;
+}
+/***************************/
