@@ -17,5 +17,5 @@ Masa, která nejsou dostatečně tučná nebo nemají dostatečné mramorování
 
 Pokrývání masa tenkými plátky tuku se zabraňuje jeho spálení nebo vysušení na povrchu. Tento tuk se během grilování či pečení vypeče, ale masu zůstává lepší chuť.
 
-Je tedy až trestuhodné, když někteří naši kuchaři z masa určeného k pečení nebo k přípravě steaků „opížlají“ i ten poslední kousek tuku.
+Je tedy až trestuhodné, když někteří naši kuchaři z masa určeného k pečení nebo k přípravě steaků „opižlají“ i ten poslední kousek tuku.
 
