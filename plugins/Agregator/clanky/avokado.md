@@ -39,7 +39,7 @@ Tradiční zpracování avokáda se liší podle zemí a jejich zvyků. Napřík
 
 Avokádo zraje až po utrhnutí. Je to kvůli látkám v listech avokáda, které brání zrání. Nejlepší způsob, jak skladovat avokádo, je ponechat ho na stromě, na kterém vydrží až 7 měsíců.
 
-Skladování pod 4 °C nebo nad 21 °C způsobí kažení. Některé druhy se začnou kazit už při 7 °C. Ideální je nechat avokádo uzrát při pokojové teplotě (od 15 °C do 21 °C), a pak ho skladovat při teplotě 7 °C do doby použití.
+Skladování pod 4 °C nebo nad 21 °C způsobí kažení. Některé druhy se začnou kazit už při 7 °C. Ideální je nechat avokádo uzrát při pokojové teplotě (od 15 °C do 21 °C) a pak ho skladovat při teplotě 7 °C do doby použití.
 
  [1]: /zalivka_dresink
 
