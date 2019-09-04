@@ -5,8 +5,6 @@
 
 # Způsoby krájení potravin
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-08-25, do not edit -->
-
 {kw="gastronomie, krájení, Čína"}
 
 Důležitost krájení potravin si již uvědomoval člověk v pravěku, a to ještě před objevením ohně. Tehdy zjistil, že se mu kusy mamuta lépe jedí nakrájené na _steaky_.
@@ -97,5 +95,5 @@ Jemně sekané _mo_
 :   Čínští kuchaři doporučují: „Máte-li dojem, že je maso již dosti jemně nasekané, sekejte ho ještě jednou tak dlouho“. {class="important"}
 :   Pro přípravu mletého masa ale neváhejte použít mlýnek na maso nebo mixér.
 
- [1]: jidelni_hulky
+ [1]: hulky
 
