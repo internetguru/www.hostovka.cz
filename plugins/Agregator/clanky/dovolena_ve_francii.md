@@ -65,5 +65,5 @@ Musíte ale hledat domácí kuchyni _(francouzsky cuisine bourgeoise)_. S tou se
 
 Mimo francouzštiny jsem také dost dlouho studoval francouzskou gastronomii, takže vím, co si objednat a co mohu za své peníze očekávat. Chce to ale také praktickou zkušenost s francouzskými jídly. To ale stojí peníze, a to nemluvím o francouzských vínech nebo o koňaku, který mám tak rád.
 
- [1]: /modni_pojmy#restauracni_snob
+ [1]: /gastronomove#snob
 

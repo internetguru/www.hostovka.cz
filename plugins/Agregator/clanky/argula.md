@@ -1,11 +1,9 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=45.html" data-image="/files/preview/clanky/argula/general.jpg" data-type="article"}
 
-{id="rukola" ctime="2005-07-21" author="Michael Klíma" short="Rukola" mtime="2018-08-19"}
+{id="rukola" ctime="2005-07-21" author="Michael Klíma" short="Rukola" mtime="2019-08-19"}
 
 # Salát rukola
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-08-25, do not edit -->
 
 {kw="jídla a jídelní lístky, salát, recept"}
 
