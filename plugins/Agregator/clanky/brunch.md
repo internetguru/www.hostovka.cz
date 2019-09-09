@@ -3,35 +3,15 @@
 
 {id="brunch" ctime="2006-08-08" author="Michael Klíma" short="Brunch" authorid="hostovka/michael_klima"}
 
-# Brunch
+# Brunch – nejen pozdní snídaně
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
 
-{kw="gastronomie"}
+{kw="gastronomie, brunch"}
 
-Já jsem toho o brunších v českém odborném tisku a na webových stránkách napsal jako nikdo před tím, ale obávám se, že to nepadlo na úrodnou půdu nebo, jak někteří čeští "odborníci" říkali - české pohostinství něčemu takovému ještě nedorostlo.
+Brunch má svůj původ v Americe. Je to vlastně kombinace snídaně, anglicky _breakfast {xml:lang="en"}_ a oběda, anglicky _lunch {xml:lang="en"}_, čímž vznikl zmíněný brunch.
 
-Obávám se, že tito odborníci zapomněli na to, že pohostinství se skládá ze dvou základních segmentu a to jsou hosté (94%) a ti kteří to pohostinství provozuji (6%) a že ti hosté nehodlají nadále na nějaké dorůstání čekat.
-
-Dnes není žádným tajemstvím, že mnoho Čechů kteří si to mohou dovolit jezdí trávit svoji dovolenou do zahraničí, přestože se holedbáme tím, že mimo moře máme všechno co ty ostatní země a mně osobně by zajímalo, kde tedy je zakopaný ten pes.
-
-Já sice připouštím, že někteří zaměstnanci v pohostinství, jako jsou vedoucí a majitelé restaurací a hotelů cestují více něž ostatní lidé, a to možná z odborného zájmu poznat jak to pohostinství dělají jinde a také proto, že zřejmě na to mají finanční prostředky. Nicméně v porovnání s se skupinou lidí která restaurace a hotely navštěvuje, což jsou hosté, jsou stále v menšině a v tom to možná je.
-
-Většina Čechů se shoduje v tom, že dovolená v zahraničí je sice o málo dražší ale o hodně lepší.
-
-On se to nikdo neopovažuje říci nahlas, ale podle mě je to prostě tím, že naše pohostinství není schopno dát lidem to co chtějí a tak se nemůžeme divit, že uspokojení svých potřeb a přání hledají jinde.
-
-Je to například i v takových zdánlivě bezvýznamných věcech jako že naši restauratéři a hoteliéři se léta zaměřovali na zahraniční klientelu a domácí klientela byla pro ně nezajímavá.
-
-Dnes se ale již ukazuje že jsem měl pravdu když jsem říkal, že jenom na té zahraniční klientele se to české pohostinství stavět nedá. Počáteční euforie ochabla, cizinci tak houfně již nejezdí a pokud ano tak mají také větší nároky takže česká klientela by teď byla dobrá, ale ta má dnes po zkušenostech ze zahraničí již také jiné požadavky než měla ta vycepovaná a se vším spokojená domácí klientela z údobí gastronomického temna před patnácti lety a české pohostinství prostě na to není připravené.
-
-Podle některých je to jednak v naprosté dizoganizovanosti, lépe řečeno v žádné organizaci phostinství jako takového, ale podle mě je to v naprosto nedostačující výchově a tréninku zaměstnanců v pohostinství, takže je to jakýsi začarovaný kruh ze kterého se bude české pohostinství jen velmi těžko dostávat.
-
-{id="sndan"}
-
-## Snídaně
-
-Jsou to například i takové věci jako jsou snídaně.
+## Povědomí o brunchi v České republice
 
 V České republice, v zemi kde kdysi kaváren které podávaly snídaně bylo na počet obyvatel více než kdekoliv jinde na světě, dnes snídani téměř nikde nedostanete a s něčím takovým jako je brunch, se setkáte jen v těch větších hotelích ve kterých ale bohužel většinou také někdy nevědí co dělají. Navštívit jednou nebo dvakrát nějaký zahraniční hotel a ochutnat jejich brunch a chtít podle toho připrvovat branš u nás nejspíše nestačí.
 
@@ -43,19 +23,11 @@ Bohužel tato neznalost která připravuje tyto hosty o požitek z jídla a pit�
 
 Naštěstí je zde HOSTOVKA, jejíž posláním, jak dnes již víme, je vychovat ze svých studentů sofistikované hosty kteří nejenom budou znát všechny formy pohostinství možná lépe než ti kteří ho provozují, ale také jak se při různých příležitostech chovat, a hlavně jak dostat za své peníze to co jim patří a získat pocit celkového uspokojení.
 
-Již jsem se o tom někde zmínil, že od doby mého učení (před 60 lety), mám takového koníčka a sice pozorovat co, kdy, kde, jak, a kolik toho lidé jedí. Možná že to jednou vydám knižně protože si myslím, že to půjde jako na dračku, ale do té doby se o některé mé zkušenosti již teď se studenty Hostovky podělím.
+HOSTOVKA je určena studentům kteří se nestydí přiznat, že něco neví a proto tento příspěvek není návod toho jak brunch připravovat, ale jak ho nejlépe vychutnat. 
 
-HOSTOVKA ale, jak jsem několikrát zdůraznil, není určena provozovatelům pohostinství kterým jsem se v jiných mediích několikráte snažil mé zkušenosti předat, ale většinu to nikam nevedlo.
+Napřed si ale řekněme co ten brunch vlastně je. Brunch má ve skutečnosti svůj původ v amerických snídaních anglicky zvaných breakfast.
 
-HOSTOVKA je určena studentům kteří se nestydí přiznat, že něco neví a proto tento příspěvek není návod toho jak brunch připravovat, ale jak ho nejlépe vychutnat.
-
-Napřed si ale řekněme co ten brunch vlastně je
-
-Brunch má ve skutečnosti svůj původ v amerických snídaních anglicky zvaných breakfast.
-
-{id="breakfast"}
-
-## Breakfast
+## Vznik brunche
 
 Základem brunše je breakfast, česky snídaně, která je prvé jídlo dne. Tento anglický výraz. který vznikl z anglického "to break one's feast" (ukončit půst), se datuje přinejmenším od roku 1425.
 
@@ -75,16 +47,6 @@ Brunše se ale staly velice populární téměř po celém světě, a nakonec i 
 
 Ve formě podávání branšů, v nabízeném sortimentu a v cenách jsou ale veliké rozdíly a proto by studenti Hostovky měli o nich vědět více.
 
-{id="lunch"}
-
-## Lunch
-
-Brunch má do jisté míry i charakter oběda anglicky zvaného lunch.
-
-Původ výrazu lunch neznám, ale označuje se jím údobí podávání jídel v poledne, neboli oběd.
-
-Dnešní obědy, alespoň obědy v těch rušných restaurací ve světě, jsou ale také něco úplně jiného než co to bývalo ještě před několika málo lety.
-
 {id="bran\_formou\_table_dht"}
 
 ## BRANŠ FORMOU TABLE D'HÔT
@@ -99,99 +61,33 @@ Kombinací by také nemělo byt mnoho protože velkými možnostmi výběru by s
 
 Možné kombinace snídaní formou table d'hôt
 
-{id="vejce_benedict"}
-
-## Vejce Benedict
-
-Sklenka chlazeného džusu dle výběru; káva, čaj nebo mléko; 2 pošírovaná vejce a grilovaná kanadská šunka na toastovaném vdolku, anglicky zvaném "english muffin" přelitá holandskou omáčkou; a neomezené množství másla, pečiva a džemu nebo medu.
-
-{id="fil\_mignon\_s_vejcem"}
-
-## Filé mignon s vejcem
-
-Sklenka chlazeného džusu dle výběru; káva, čaj, nebo mléko; grilovaný steak z pravé svíčkové na krutónu z bílého chleba
-
-s vejcem; opečené brambory; a neomezené množství másla, pečiva a džemu nebo medu.
-
-{id="quiche_loraine"}
-
-## Quiche Loraine
-
-Sklenka chlazeného džusu dle výběru; káva, čaj, nebo mléko;
-
-Porce Quiche Loraine, což je cibule, papriky, slanina a gruyérský sýr, zapečené ve vejcích; grilovaná rajčata; a neomezené množství másla, pečiva a džemu nebo medu.
-
-{id="fritatta"}
-
-## Fritatta
-
-Sklenka chlazeného džusu dle výběru; káva, čaj, nebo mléko; Vaječná smaženice se šunkou, masem, rajčaty a zeleninou; restované brambory; a neomezené množství másla, pečiva a džemu nebo medu.
-
-{id="beef_stroganov"}
-
-## Beef Stroganov
-
-Sklenka chlazeného džusu dle výběru; káva, čaj, nebo mléko; Julienne z pravé svíčkové restované na cibuli s čerstvými žampióny, znojemskými okurkami, dušené v kyselé smetaně;bramborové hranolky; a neomezené množství másla, pečiva a džemu nebo medu.
-
-{id="corned\_beef\_hash\_s\_vejcem"}
-
-## Corned Beef Hash s vejcem
-
-Sklenka chlazeného džusu dle výběru; káva, čaj, nebo mléko; 2 sázená vejce na haši z uzeného hovězího masa s bramborami, přelitá pikantní rajčatovou omáčkou; a neomezené množství másla, pečiva a džemu nebo medu.
-
-{id="corned_beef"}
-
-## Corned beef
-
-To corn znamená nasolit, tudíž Corned beef je nasolené hovězí maso.
-
-Americké slovníky popisují Corned beef jako hovězí maso "pickled in brine". To picle je nakládat a piclcles jsou nakládané okurky.
-
-Brine podle slovníku je slaná voda, neboli slaný lák do kterého se hovězí maso nakládá.
-
-Lák je velice jednoduchý: voda, sůl, pragaranda (salpeter neboli sanytr), a prášková dextrosa.
-
-Název Corned beef pochází z Anglo-Saských dob před znalostí chlazení potravin. V těch dobách se maso solilo na sucho v zrnkách drcené soli (corn of salt) která maso konzervovala.
-
-V Americe Corned beef zpopularizovali židovští imigranti z východních zemí pro které toto solené hovězí maso bylo náhradou šunky.
-
-Bez Corned beef se kdysi neobešel ani jeden židovský delikates, ale dnes je Corned beef natolik populární že se s ním setkáte po celé Americe ve všech typech pohostinských podniků.
-
-Corned beef je ale dnes populární i v Evropě a proto mně udivuje, že český masný průmysl není schopen ho vyrobit. Což jen potvrzuje moji teorii, že český masný průmysl se vůbec nezabývá poptávkou restaauračních porovozů.
-
-To je ale na dlouhou diskusi toho jak malá spolupráce je mezi českými zemědělci, potravinářským průmyslem a pohostinstvím, do které se nechci pouštět abych si nenadělal více nepřátel než mám, ale v tomto ohledu by se Češi museli od těch blbých Američanů ještě hodně učit.
-
-Hovězí maso má po uvaření šedivou, nic neříkající barvu. Corned beef ale po uvaření vypadá jako vařená šunka a má tu přednost, že má daleko méně kalorií. Navíc je ale o mnoho pikantnější v chuti, a díky tomu, že se před vařením nakládá do láku s několika druhy koření (pickling spice) a sanytru, získává svou charakteristickou jasně červenou barvu.
-
-{id="corned\_beef\_hash"}
-
-## Corned beef hash
-
-Při práci s vařeným Corned beef vzniká mnoho ořezu. To dalo vznik velice populárnímu jídlu corned beef hash(haše z hovězího masa). Umletý corned beef se smíchá s drobně krájenými vařenými bramborami a opeče se na gridlu nebo v troubě. Corned beef hash podávaná se sázeným vejcem se stala tak populární, že nemůže chybět téměř na žádném snídaňovém lístku.
-
-V poledne nebo při branších se podává se sázeným vejcem a rajskou omáčkou.
-
-{id="vepov\_ebrko\_calvados"}
-
-## Vepřové žebírko Calvados
-
-Grilované vepřové žebírko flambované jablečným brandy (Calvados), okořeněné skořicí podávané s grilovaným jablkem a mrkví dušenou s rozinkami; sklenka chlazeného džusu dle výběru; káva, čaj, nebo mléko; rösti brambory (švýcarské brambory); a neomezené množství másla, pečiva a džemů nebo medu.
+Vejce Benedict
+:  Sklenka chlazeného džusu dle výběru; káva, čaj nebo mléko; 2 pošírovaná vejce a grilovaná kanadská šunka na toastovaném vdolku, anglicky zvaném "english muffin" přelitá holandskou omáčkou; a neomezené množství másla, pečiva a džemu nebo medu.
+Filé mignon s vejcem
+:  Sklenka chlazeného džusu dle výběru; káva, čaj, nebo mléko; grilovaný steak z pravé svíčkové na krutónu z bílého chleba s vejcem; opečené brambory; a neomezené množství másla, pečiva a džemu nebo medu.
+Quiche Loraine
+:  Sklenka chlazeného džusu dle výběru; káva, čaj, nebo mléko;
+:  Porce Quiche Loraine, což je cibule, papriky, slanina a gruyérský sýr, zapečené ve vejcích; grilovaná rajčata; a neomezené množství másla, pečiva a džemu nebo medu.
+Fritatta
+:  Sklenka chlazeného džusu dle výběru; káva, čaj, nebo mléko; Vaječná smaženice se šunkou, masem, rajčaty a zeleninou; restované brambory; a neomezené množství másla, pečiva a džemu nebo medu.
+Beef Stroganov
+:  Sklenka chlazeného džusu dle výběru; káva, čaj, nebo mléko; Julienne z pravé svíčkové restované na cibuli s čerstvými žampióny, znojemskými okurkami, dušené v kyselé smetaně;bramborové hranolky; a neomezené množství másla, pečiva a džemu nebo medu.
+:  Corned Beef Hash s vejcem
+:  Sklenka chlazeného džusu dle výběru; káva, čaj, nebo mléko; 2 sázená vejce na haši z uzeného hovězího masa s bramborami, přelitá pikantní rajčatovou omáčkou; a neomezené množství másla, pečiva a džemu nebo medu.
+Vepřové žebírko Calvados
+:  Grilované vepřové žebírko flambované jablečným brandy (Calvados), okořeněné skořicí podávané s grilovaným jablkem a mrkví dušenou s rozinkami; sklenka chlazeného džusu dle výběru; káva, čaj, nebo mléko; rösti brambory (švýcarské brambory); a neomezené množství másla, pečiva a džemů nebo medu.
 
 Výše uvedené příklady nejsou americké speciality. Jsou to jídla se kterými setkáte na jídelních lístcích mnoha mezinárodních restaurací a uvádím je zde jen proto, aby studenti Hostovky nejenom věděli, že v mnoha případech mají možnost výběru mezi bufetem a tímto způsobem podávání snídaní ale také co tato jídla jsou.
 
 {id="bufetov_servis"}
 
-## BUFETOVÝ SERVIS
+## Druhy bufetového servisu
 
-Bufetový servis můžeme rozdělit do dvou základních forem:
-
-1.Stálý bufet
-
-2.Příležitostný bufet
+Bufetový servis můžeme rozdělit do dvou základních forem, na stálý bufet a příležitostný bufet.
 
 {id="stl_bufet"}
 
-## Stálý bufet
+### Stálý bufet
 
 Stálý bufet je používán v restauracích nebo jídelnách při podávání snídaní, brunšů, obědů a večeří.
 
@@ -199,7 +95,7 @@ Cena je zpravidla pro hosty velice atraktivní protože je více méně součás
 
 {id="pleitostn_bufet"}
 
-## Příležitostný bufet
+### Příležitostný bufet
 
 Příležitostný bufet je v poslední době v celém světě nabízen i při takových společenských akcích jako jsou svatby, promoce a podobné akce které se kdysi pořádaly, a v Česku ještě pořádají, formou banketů s plnou obsluhou.
 
@@ -209,9 +105,7 @@ S ohledem na neohrabanost hostů a z důvodu úspory personálu který by při b
 
 Krájení jídel na malé porce má také praktický význam. Velké porce host mnohdy nedojí, kdežto malých kousků si naopak může vzít kolik chce.
 
-{id="stage_cooking"}
-
-## STAGE COOKING
+## Jevištní kuchyně
 
 Jevištní kuchyně (stage kitchens) neboli kuchyně do kterých hosté mohou kdykoliv nahlédnout jsou nejenom praktické, ale v poslední době velice oblíbené.
 
@@ -231,41 +125,13 @@ Jevištní kuchyně je budoucnost, ale jako všechno jiné tak i tato kuchyně m
 
 Jevištní kuchyně nejsou ale nic nového. Kdysi se v těchto kuchyních připravoval jen limitovaný výběr jídel na objednávku připravovaný na pánvi nebo na grilu. Dnes se ale tyto kuchyně rozrostly do enormních dimensí.
 
-{id="indukn_vaen"}
-
-## Indukční vaření
-
-Díky novým, kdysi neznámým zařízením jako jsou například indukční pánve či sporáky je možno v těchto kuchyních připravovat nesmírnou škálu jídel všech možných kuchyní (cuisines), ale ne každá kuchyně se pro tento způsob přípravy jídel hodí. Například typická česká kuchyně je zcela nevhodná s čím se musíme smířit.
-
-Praxe ukazuje, že v těchto kuchyních se uplatňují prvky tak zvaná fusion cuisine a technik assembly cooking.
-
-{id="fusion_cuisine"}
-
-## FUSION CUISINE
-
-Kuchyně (cuisines) nevznikají jen tak z ničeho nebo z toho že jeden, dva nebo i stovka kuchařů se dohodne na tom, že určitý styl, nebo chuť jídel bude populární.
-
-Kuchyně (cuisines) jsou výsledkem evoluce a různých vlivů které na danou kuchyni po tisíciletí působí.
-
-Podle definice fusion cuisine je kuchyně která vznikla fuzí neboli splynutím nebo sloučením dvou nebo i více kuchyní. Tato kuchyně nestojí zatím pevně ve svých základech protože podvědomě nebo i jinak je tato kuchyně ovlivněna kuchaři kteří jsou pod vlivem jejich profesionálních nebo osobních znalostí a zkušeností.
-
-Dalším důvodem k pochybám, že fusion cuisine je originální kuchyně je že každý kuchař který ji praktikuje hledá vlastní popis toho co fusion cuisine vlastně je. Skutečnost je, že výraz fusion cuisine se uchytil jen v zemích které si vlastní kuchyni ještě nevybudovaly. Proto tento výraz dnes nejčastěji uslyšíte v Austrálii, na Novém Zélandě, v Kanadě a v Americe. V poslední době se tento výraz uchycuje i v Izraeli a vůbec nebudu překvapen když se za pár let uslyšíme, že se uchytil i v Greenlandu.
-
-Na druhé straně pochybuji, že francouzští, italští, čínští a thajští kuchaři budou fusion cuisine brát vážně protože ti si myslí že mají svoji kuchyni plně vyvinutou.
-
-Pokud se týká České republiky a české kuchyně tak dnes je již zřejmé, že se česká kuchyně ve své původní formě neudrží a to ne díky nové hygienické vyhlášce, jak by se někdo mohl domnívat, ale díky skutečnosti že se bude muset přizpůsobit nejenom novému trhu, ale hlavně chutím nové Euroklientely. Neboli ať nové české kuchyni budeme říkat fusion cuisine nebo Eurocusine, tak to bude kuchyně ve které se bude odrážet to co lidé chtějí a co jim patří takže otázka je, jak se čeští kuchaři dokáží oprostit od toho archaického francouzského stereotypu a jak se na novou kuchyni zaměří.
-
-Výraz fusion cuisine se bohužel přímo nabízí k použití v případech kdy jídla na jídelním lístku je směs všeho možného. Kdysi kuchaři, a to nejenom v Česku nebo na Slovensku, když nevěděli jak některou tu jejich "kreaci" nazvat a kam ji zařadit, ji označili za Orientální. Nedávno jsem se ale setkal i v jedné Mexické restauraci v Praze, že svoji kuchyni označují jako "fusion cuisine". Z gastronomického hlediska je ale nelze obvinit z nepřesnosti protože při bližším posouzení jejich jídelního lístku vidíte že jen mizivé procento jídel která nabízejí lze označit jako jídla typicky mexická.
-
-Nejvhodnější jídla pro stage kitchen
+### Nejvhodnější jídla pro stage kitchen
 
 Při branších jsou to lívance připravované na gridlu nebo vafle, které se připravují na speciálních elektrických pánvích zvaných wafle iron, nebo wafle machine.
 
 Jejich příprava je velice jednoduchá, tak zvaná "idiot proof" a může je připravovat kde kdo bez vyučení nebo maturity. Jediné co je potřeba je hezký přirozený úsměv a dobrá komunikace s hostem, což se ale mnozí zaměstnanci v Česku musí haučit.
 
-{id="carving"}
-
-## CARVING
+### CARVING
 
 Typickou technikou při stage kitchen je dranšírování (carving) jídel v jídelně před zraky hostů.
 
@@ -279,11 +145,9 @@ Host který prochází kolem bufetové linky si na talíř nandá napřed porcov
 
 Toto souvisí s psychologii prodeje která jak předpokládám se na našich hotelových školách vyučuje, ale jako studenti Hostovky byste to také měli vědět.
 
-Na přiloženém obrázku je tak zvaný steamship round který je při branších obzvláště populární.
-
 {id="steamship_round"}
 
-## STEAMSHIP ROUND
+### STEAMSHIP ROUND
 
 Steamship round, má své jméno od zaoceánských lodí na kterých se tato specialita podávala.
 
@@ -307,7 +171,7 @@ Jinak ale pokud vám mohu poradit, tak si na to maso nic nedávejte, protože si
 
 {id="sotrovn"}
 
-## Sotýrování
+### Sotýrování
 
 Sortýrování, od francouzského "sauté", je odborný slang. Je to tak zvané smažení nebo přehazování v pánvi které je při branších také velice populární.
 
@@ -317,17 +181,9 @@ Předpokládá to ale že hosté jsou k tomu dostatečně sofistikovaní a v tom
 
 Já mé hosty kteří mně z česka přijdou navštívit za to, že nevědí jak se při různých situacích v Americe mají chovat neodsuzuji a snažím se je poučit, ale jak asi víte, tak někteří Češi všechno vědí a poradit si nedají, a tak se mnohdy stalo, že si na svůj talíř nandali věci které nakonec ani nejedli,protože nevěděli co to je a dobře jim tak.
 
-{id="champagne_brunch"}
-
-## CHAMPAGNE BRUNCH
-
-branších se také podává šampaňské. Šampaňské je v Americe, jako nakonec i všude jinde, úplné zaklínadlo, čemuž se v Americe říká buzz word, a proto některé podniky inzerují Champagne Bruch, při kterém je v ceně započítána sklenka (většinou však neomezené množství) šampaňského.
-
-Toto je více méně gimmick protože kdo už má po ránu chuť na šampaňské. Na šampaňském branši nevidí nic výhodného hlavně rodiny s dětmi přesto, že děti do 12 let platí za branš poloviční cenu. Tento šampaňský branš má také ale háček a sice v tom, že v Americe se do 12 hodin nesmí podávat alkoholické nápoje, což kupodivu většina restauratérů respektuje hlavně proto, že se tím pádem toho šampaňského moc nevypije.
-
 {id="studen\_jdla\_se\_ktermi\_se\_na\_brunch_setkte"}
 
-## STUDENÁ JÍDLA SE KTERÝMI SE NA BRUNŠÍCH SETKÁTE
+## JÍDLA SE KTERÝMI SE NA BRUNŠÍCH SETKÁTE
 
 n/a
 
@@ -425,6 +281,38 @@ Durian má relativně silnou slupku s docela ostrými ostny a tak musíte mít v
 
 Nevím, jestli durián je už na českém trhu, ale co není může být.
 
+### Corned beef a Corned beef hash
+
+To corn znamená nasolit, tudíž Corned beef je nasolené hovězí maso.
+
+Americké slovníky popisují Corned beef jako hovězí maso "pickled in brine". To picle je nakládat a piclcles jsou nakládané okurky.
+
+Brine podle slovníku je slaná voda, neboli slaný lák do kterého se hovězí maso nakládá.
+
+Lák je velice jednoduchý: voda, sůl, pragaranda (salpeter neboli sanytr), a prášková dextrosa.
+
+Název Corned beef pochází z Anglo-Saských dob před znalostí chlazení potravin. V těch dobách se maso solilo na sucho v zrnkách drcené soli (corn of salt) která maso konzervovala.
+
+V Americe Corned beef zpopularizovali židovští imigranti z východních zemí pro které toto solené hovězí maso bylo náhradou šunky.
+
+Bez Corned beef se kdysi neobešel ani jeden židovský delikates, ale dnes je Corned beef natolik populární že se s ním setkáte po celé Americe ve všech typech pohostinských podniků.
+
+Corned beef je ale dnes populární i v Evropě a proto mně udivuje, že český masný průmysl není schopen ho vyrobit. Což jen potvrzuje moji teorii, že český masný průmysl se vůbec nezabývá poptávkou restaauračních porovozů.
+
+To je ale na dlouhou diskusi toho jak malá spolupráce je mezi českými zemědělci, potravinářským průmyslem a pohostinstvím, do které se nechci pouštět abych si nenadělal více nepřátel než mám, ale v tomto ohledu by se Češi museli od těch blbých Američanů ještě hodně učit.
+
+Hovězí maso má po uvaření šedivou, nic neříkající barvu. Corned beef ale po uvaření vypadá jako vařená šunka a má tu přednost, že má daleko méně kalorií. Navíc je ale o mnoho pikantnější v chuti, a díky tomu, že se před vařením nakládá do láku s několika druhy koření (pickling spice) a sanytru, získává svou charakteristickou jasně červenou barvu.
+
+Při práci s vařeným Corned beef vzniká mnoho ořezu. To dalo vznik velice populárnímu jídlu corned beef hash(haše z hovězího masa). Umletý corned beef se smíchá s drobně krájenými vařenými bramborami a opeče se na gridlu nebo v troubě. Corned beef hash podávaná se sázeným vejcem se stala tak populární, že nemůže chybět téměř na žádném snídaňovém lístku.
+
+V poledne nebo při branších se podává se sázeným vejcem a rajskou omáčkou.
+
+## CHAMPAGNE BRUNCH
+
+Na branších se také podává šampaňské. Šampaňské je v Americe, jako nakonec i všude jinde, úplné zaklínadlo, čemuž se v Americe říká buzz word, a proto některé podniky inzerují Champagne Bruch, při kterém je v ceně započítána sklenka (většinou však neomezené množství) šampaňského.
+
+Toto je více méně gimmick protože kdo už má po ránu chuť na šampaňské. Na šampaňském branši nevidí nic výhodného hlavně rodiny s dětmi přesto, že děti do 12 let platí za branš poloviční cenu. Tento šampaňský branš má také ale háček a sice v tom, že v Americe se do 12 hodin nesmí podávat alkoholické nápoje, což kupodivu většina restauratérů respektuje hlavně proto, že se tím pádem toho šampaňského moc nevypije.
+
 {id="popisovn\_jdel\_na_bufetech"}
 
 ## POPISOVÁNÍ JÍDEL NA BUFETECH
@@ -439,25 +327,7 @@ Jakmile se ale jedná o mezinárodní klientelu tak vzniká dilema, ve které ř
 
 I když francouzské názvy jídel jsou ještě dnes mezi sofistikovanými hosty dobře známé, tak ale není pochyb o tom, že francouzština již zdaleka není jazykem mezinárodních gastronomů. Možná, že i to je díky počítačům které žádnému jinému jazyku mimo angličtiny nerozumí, ale jak se zdá, angličtina se tak jako tak stává mezinárodním gastronomickým jazykem. Příkladem může být například Dragon Fruit.
 
-{id="dragon_fruit"}
-
-## Dragon Fruit
-
-Dragon Fruit, česky nejspíše dračí ovoce, je další příklad toho, jek je pro studenty Hostovky důležité znát anglické názvy potraviny které u nás ještě donedávna nebyly vůbec známé.
-
-Dračí ovoce totiž u nás na trhu již je, protože jsem se s ním setkal na jednom buffovém pultě dokonce v Ústí nad Labem.
-
-Měli tam 1 (slovy jeden) kus nakrájený na čtvrtky, ale hosté mu nevěnovali moc pozornost protože ho neznali a tak jsem ho vzal k našemu stolu, abych ho dal ochutnat mým spolustolovníkům.
-
-Neznal jsem český název a tak jsem se zeptal jedné servírky jak tomu Dragon fruit říkají, ale ani po několikeré urgenci mé otázky mi nebyla schopna dát odpověď, což ale je typické, že zaměstnanci mnohdy nevědí jak se všechna ta jídla co jou nabízena vlastně jmenují.
-
-V zásadě se o nic nejednalo, protože to ovoce je něco čemu se tady v Americe říká: "Nothing to write home about", česky, že nestojí ani za řeč.
-
-Je sice atraktivní ale v zásadě bez chuti a tak pokud to někde uvidíte, tak si kupte jedno abyste věděli co to je, ale jinak za to nevyhazujte peníze.
-
-{id="sry\_a\_mln_vrobky"}
-
-## SÝRY A MLÉČNÉ VÝROBKY
+### SÝRY A MLÉČNÉ VÝROBKY
 
 Sýry velmi rychle osychají a proto ideální je pokud jsou prezentovány na prkénku v kusech, případně podložené vinnými listy, ozdobené hroznovým vínem, jablky případně jiným ovocem.
 
@@ -465,7 +335,7 @@ Velké kusy sýrů by zásadně neměly být nekrájené ale presentované s no�
 
 {id="salty"}
 
-## SALÁTY
+### SALÁTY a dresinky
 
 Saláty jsou velmi populárním artiklem pro jakýkoliv bufet protože působí atraktivně a plní funkci již zmíněného "plniče" anglicky zvaného "filler".
 
@@ -473,15 +343,11 @@ Saláty musí být čerstvé, pestré, a presentované bud' na studeném pultě 
 
 Měly by být stručně popsány, ale ne jen jako "SALÁTY" ale trochu podrobnějším popisem.
 
-{id="dresinky\_a\_dochucovac_prostedky"}
-
-## DRESINKY A DOCHUCOVACÍ PROSTŘEDKY
-
 Dresinky presentujeme na ledu, označené jejich názvem. Není nic trapnějšího než když vedle salátů je 5-6 dresinků, ale nikdo z obsluhujících neví jaké dresinky to jsou.
 
 {id="obiloviny"}
 
-## OBILOVINY
+### OBILOVINY
 
 Teplé obiloviny si získávají stále větší oblibu, ale ne natolik aby se vyplatilo je připravovat dopředu, nehledě k tomu, že po nějaké době nevypadají příliš lákavě.
 
@@ -491,7 +357,7 @@ Dnes ale jsou i dispensory suchých obilovin které jsou velice atraktivní.
 
 {id="studen_npoje"}
 
-## STUDENÉ NÁPOJE
+### STUDENÉ NÁPOJE
 
 Při velkých bufetových branších se setkáte s džusy v chladicích suspensorech nebo vířičích.
 
