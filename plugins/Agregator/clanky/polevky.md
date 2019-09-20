@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=315.html" data-image="/files/preview/clanky/polevky/general.jpg" data-type="article"}
 
-{id="polevky" ctime="2008-05-01" author="Michael Klíma" short="Polévky" mtime="2019-06-25"}
+{id="polevky" ctime="2008-05-01" author="Michael Klíma" short="Polévky" mtime="2019-09-20"}
 
 # Polévky
 
