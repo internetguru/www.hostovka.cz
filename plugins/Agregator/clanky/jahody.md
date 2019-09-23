@@ -19,7 +19,7 @@ Většina těch jahod se ještě ten den dostane do supermarketů a do obchodů 
 
 {class="figure"}
 
-![bedýnka jahod][1] 
+![bedýnka jahod][1]
 :   bedýnka jahod
 
 Některé ty zdejší jahody jsou skutečně veliké, ale jestli chcete dát na slovo znalce, tak vybírejte raději ty střední, které jsou dobře dozrálé.
@@ -46,35 +46,35 @@ Když likér nepřidáte, tak ty jahody jsou stejně dobré, ale není to již o
 
 {class="figure"}
 
-![suroviny][2] 
+![suroviny][2]
 :   suroviny
 
 Já jsem přesvědčen, že Carême nepoužil šlehačku ze spreje, ale já si to trochu usnadnil.
 
 {class="figure"}
 
-![jahody na váze][3] 
+![jahody na váze][3]
 :   jahody na váze
 
 Pokud si ty jahody děláte pro sebe doma, tak je vážit nemusíte, ale v restauraci bych se jich mělo podávat asi 100 gramů na porci.
 
 {class="figure"}
 
-![nakrájené jahody v misce][4] 
+![nakrájené jahody v misce][4]
 :   nakrájené jahody v misce
 
 Jahody můžeme upravovat přímo u stolu. V tom případě oprané a rozpůlené, případně rozčtvrcené jahody dáme do vhodné misky, přidáme práškový cukru a pomerančový likér.
 
 {class="figure"}
 
-![polívání jahod likérem][5] 
+![polívání jahod likérem][5]
 :   polívání jahod likérem
 
 Toho likéru nedáváme moc aby nepřehlušoval. Jedna lžíce stačí.
 
 {class="figure"}
 
-![přidání smetany][6] 
+![přidání smetany][6]
 :   přidání smetany
 
 Potom přidáme hustou smetanu nebo šlehačku a vše opatrně promícháme.
@@ -83,7 +83,7 @@ Tajemství úspěchu je nedělat více než 2 porce najednou a ty jahody dlouho 
 
 {class="figure"}
 
-![hotové jahody ve sklenici][7] 
+![hotové jahody ve sklenici][7]
 :   hotové jahody ve sklenici
 
 Nakonec zamíchané jahody dáme do vhodné sklenice, ozdobíme růžičkou šlehačky a celou jahodou.
@@ -94,7 +94,7 @@ Nakonec zamíchané jahody dáme do vhodné sklenice, ozdobíme růžičkou šle
 
 Jahody Foster se také mohou připravovat u stolu ale jsou odlišné v tom, že se podávají teplé.
 
-Na jednu porci budeme potřebovat asi 100 gramu očištěných čerstvých jahod, 1 lžíci másla, 2 lžíce cukru (pokud možno hnědého, 2 lžice macademia ořechů, ½ lžičky mleté skořice, 1/8 mletého muškátového oříšku, 1 lžíci jahodového likéru, ½ lžíce rumu, 1 porci vanilkové zmrzliny.
+Na jednu porci budeme potřebovat asi 100 gramu očištěných čerstvých jahod, 1 lžíci másla, 2 lžíce cukru (pokud možno hnědého), 2 lžice macademia ořechů, ½ lžičky mleté skořice, 1/8 mletého muškátového oříšku, 1 lžíci jahodového likéru, ½ lžíce rumu, 1 porci vanilkové zmrzliny.
 
 {id="postup"}
 
