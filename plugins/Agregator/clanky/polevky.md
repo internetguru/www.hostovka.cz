@@ -1,19 +1,31 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=315.html" data-image="/files/preview/clanky/polevky/general.jpg" data-type="article"}
 
-{id="polevky" ctime="2008-05-01" author="Michael Klíma" short="Polévky" authorid="hostovka/michael_klima"}
+{id="polevky" ctime="2008-05-01" author="Michael Klíma" short="Polévky" mtime="2019-10-16"}
 
 # Polévky
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
-{kw="jídla a jídelní lístky"}
+{kw="jídla a jídelní lístky, polévky, Amerika, Rusko, Čína, Japonsko, Mongolsko, Francie, Bulharsko, Řecko"}
 
-..
+TODO: desc
 
-{id="polevkovy_salek"}
+Téměř každá etnická kuchyně má skupinu jídel která se dá nazvat POLÉVKY nicméně jen některé tyto etnické polévky si získaly takovou popularitu aby mohly být označovány za mezinárodní.
 
-## POLÉVKOVÝ ŠÁLEK
+Pokusím se zde zmínit alespoň o několika nejpopuárnějších etnickýh polévkách a omlouvám se jestliže jsem některou opomenul.
+
+Američané mají rádi polévky a to většinou husté.
+
+Oblíbený americký oběd je "Soup and sandvich", populárně nazývaný Soupwich, což je nějaká polévka a malý sendvič.
+
+Označit nějakou polévku jako typicky americkou je velice nesnadný úkol prototže většina amerických populárních polévek má svůj původ v zemi některých amerických imigrantů.
+
+## Podávání polévek
+
+TODO: desc
+
+### Polévkový šálek
 
 Moderní restaurační polévkové a bujónové šálky, také zvané šálky na consommé, mají rozdílný obsah a záleží na každé restauraci jak velkou porci hodlají podávat.
 
@@ -21,7 +33,7 @@ Již jenom toto samo o sobě ukazuje na nesmyslnost míry porcí polévek na lí
 
 {id="bujonove_salky"}
 
-## Bujónové šálky
+### Bujónové šálky
 
 Typické bujónové šálky mají dvě malá ouška. Ta dvě ouška nemají jiný význam než ten, aby tyto šálky byly nějak rozlišeny od kávových či čajových šálků. Nicméně díky těm dvum ouškům se bojónový šálek dá lepe uchopit třeba i boběma rukama a bujón vypít, což ve společnosti není žádný faut pas, jak by se někdo mohl domnívat.
 
@@ -31,7 +43,7 @@ V domácnosti je situace obdobná.
 
 {id="polevkove_teriny"}
 
-## Polévkové teriny
+### Polévkové teriny
 
 Mimo bujónových šálku některé "servisy" mají polévkokové teriny a polévkové taíře a pokud si každý doma nandá z teriny na polévkový talíř tolik polévky kolik chce, tak se o nějaké kontrole porcí už vůbec nedá hovořit.
 
@@ -43,7 +55,7 @@ V každém případě musí být polévkový talíř podložen velkým talířem
 
 {id="polevkove_talire"}
 
-## Polévkové talíře
+### Polévkové talíře
 
 Polévkovým talířům se angicky říká soup bowl.
 
@@ -53,27 +65,9 @@ V restauracích někdejší IV. cenové skupiny nebo v tak zvaných lidovkách s
 
 V lepších restauracích se z hygenických důvodů tyto talíře zakládají na stůl až těsně před podáváním polevky nebo již naplněné polévkou.
 
-{id="etnicke_polevky"}
-
-## ETNICKÉ POLÉVKY
-
-Téměř každá etnická kuchyně má skupinu jídel která se dá nazvat POLÉVKY nicméně jen některé tyto etnické polévky si získaly takovou popularitu aby mohly být označovány za mezinárodní.
-
-Pokusím se zde zmínit alespoň o několika nejpopuárnějších etnickýh polévkách a omlouvám se jestliže jsem některou opomenul.
-
 {id="americke_polevky"}
 
-## AMERICKÉ POLÉVKY
-
-Američané mají rádi polévky a to většinou husté.
-
-Oblíbený americký oběd je "Soup and sandvich", populárně nazývaný Soupwich, což je nějaká polévka a malý sendvič.
-
-Označit nějakou polévku jako typicky americkou je velice nesnadný úkol prototže většina amerických populárních polévek má svůj původ v zemi některých amerických imigrantů.
-
-{id="chowdry"}
-
-### Chowdry
+## Chowdry
 
 Chowdry, což jsou relativně husté polévky na mléčném základě z nichž nejpopulárnější jsou kukuřičný Corn Chowder; Manhattan, Boston nebo New England Clam Chowder, což je velice populární polévka z mušlí, jsou v Americe velice populární.
 
@@ -129,9 +123,9 @@ Americká slanina (bacon) je břišní slanina prorostlá masem a na trh přich�
 
 Používá se nejčastěji grilovaná při snídaních (grilled bacon).
 
-{id="hartford\_fishermes\_chowder"}
+{id="hartford\_fishermens\_chowder"}
 
-### HARTFORD FISHERME'S CHOWDER
+### Hartford Fishermen's Chowder
 
 Krátce po příchdu do Ameriky jsem pracoval jako Executive Chef v jednom velkém restauračním komplexu v Chicagu, kde jsme měli jednak dvě luxusní restaurace, pub a jednu lidovou jídelnu se samoobsluhou kde se podávalo v poledne až 3.500 obědů.
 
@@ -163,7 +157,7 @@ S novými názvy musíme být ale opatrní. Jednak je proti všem zásadám etik
 
 {id="philadelphia_pepperpot"}
 
-### PHILADELPHIA PEPPERPOT
+### Philadelphia pepperpot
 
 Američana také uctíte dobrou gulášovou polévkou nebo dokonce i dršťkovou, ale nesmíte ji nazvat drštková tj. Tripe Soup, což by byl přesný překlad dršťkové polévky, ale Philadelphia Pepperpot. Výraz tripe, neboli dršťky by mohl Američany totiž odradit.
 
@@ -183,49 +177,11 @@ Vojáci se po té polévce mohli doslova "utlouct", a od té doby je tato polév
 
 ## Chili
 
-Místo polévky někteří mladí Američané mají rádi chili.
+Místo polévky někteří mladí Američané mají rádi [chili][1].
 
 Chili je velice populární ostrá fazolová polévka, která je tak hustá, že pokud ji sníte větší talíř tak už na nic jiného nemáte vlastně ani místo.
 
 V některých oblastech je Chili tak populární, že nesmí chybět na jídelním lístku ani žádné školní jídelny a ani některých luxutních restaruací.
-
-{id="vitezne_chili"}
-
-### Vítězné chili
-
-Ve skutečnosti, dříve než budete číst dále, byste měli podepsat prohlášení, že tento recept nikomu neprozradíte, protože by vás mohla stihnout Montezumova pomsta.
-
-V roce 1988, jako každoročně, probíhala v Chicagu soutěž o nejlepší čili. Pracoval jsem v té době jako konzultant pro hotel Holiday Inn v Evanstonu, což je předměstí Chicaga.
-
-Neměl jsem v úmyslu se této soutěže zúčastnit, protože je s tím vždy dosti práce, a žádný finanční efekt, ale chtěl se ji zúčastnit šéfkuchař, kterého jsme pro ten hotel zrovna přijali.
-
-Jeho recept, se kterým chtěl do té soutěže jít, se mi vůbec nelíbil, ale líbil se mi on. Byl mladý, ani ne moc zkušený, ale měl něco čemu se v Americe říká "drive", to je chuť a odhodlání to někam dotáhnout a také něco čemuž se anglicky říká "guts" což se sice dá přeložit jako odvaha, ale ten jeho recept byl tak špatný, že to bylo něco čemu se v Americe říká "chucpa" neboli nepřestavitelná drzost.
-
-Dal jsem mu tudíž můj tajný recept, který jsem já získal od jednoho méhe mexického kolegy a který jsem již po několik let s úspěchem používal s tím, aby se té soutěže s mým receptem zúčastnil, ale při tom nikomu můj recept nevyzradil.
-
-Myslel jsem to spíše z legrace, aniž bych tomu sám věřil, když jsem mu řekl, že tento recept vyhraje první cenu.
-
-Nebudete tomu ale asi věřit ani vy, ale co čert nechtěl, on ten recept skutečně tu první cenu získal. Samozřejmě, že tím pádem jsme to moje čili přidali na hotelové menu s titulkem "Vítězné chili".
-
-Toto čili se ukázalo být skutečně vítězné protože bylo okamžitě "bestseller" a já byl pyšný jednak na toho mladého kuchaře, ale i na moje čili o kterém jsem si nikdy nemyslel, že dojde takového ocenění.
-
-Já jsem sice řekl, že na stránkách HOSTOVKA nikdy žádné recepty dávat nebudu, ale člověk niky nemá říkat nkdy. Mně by totiž nikdy nenapadlo, že budu tento článek psát a teď si myslím, že bez toho receptu by byl neúplný a proto vám ho zde přikládám.
-
-Technika přípravy vítězného chili
-
-V silnostěnném kastrolu osmahneme na horkém sádle cibuli do zlatova. Dříve než ta cibule stačí příliš zhnědnout (ztmavne ještě s masem), přidáme vepřové maso a restujeme ho až zhnědne a pustí většinu tuku.
-
-V tom okamžiku přidáme hovězí maso a všechno koření. Vše dobře smícháme s vepřovým masem a restujeme až všechno maso opět zhnědne. V receptu je specifikováno libové maso, ale s tučností masa si nelamte moc hlavu protože v mase obsažený tuk a sádlo na kterém maso restujeme dá vašemu chili právě tu unikátní chuť. Jakmile maso zešedne scedíme z masa všechen přebytečný tuk a přidáme všechny ostatní suroviny mimo fazolí.
-
-Množství jednotlivých surovin vám neuvádím, protože tak hodný tedy zase nejsem.
-
-V Mexiku se tomu chili číká CHILI CON CARNE, neboli chili s masem, což ale musíte brát s reservou. Maso totiž bylo v Mexiku vždy relativně drahé, obzvláště maso hovězí, a tak toho masa v pravém mexickém chili nikdy moc nebylo, ale to dělá to chili mexickým chili.
-
-To Vítězné Chili má na jídellním lístku restaurace STEAKGRILL?. Nazývají ho ale TEXASKÉ CHILI a sice proto, že v Texasu je maso v zásadě laciné a tak se tam s ním moc nešetří a proto mu říkají Texaské.
-
-Pokud se ale týká množství masa v jejich receptu, tak žádný kuchař nesmí množství masa v tom chili svévolně měnit ale vy si doma toho masa do chili můžete dát kolik chcete.
-
-Jedna etnická polévka která si získala uznání téměř po celém světě je ruský boršč a ten vám musím popsat podrobněji.
 
 {id="borsc"}
 
@@ -253,35 +209,102 @@ Já jsem se sice zařekl, že žádné kuchařky již psát nebudu, ale jak to v
 
 ### Moskevský boršč
 
-20 dkg hovězího masa, 12 dkg šunky, 10 dkg párků, 40 dkg kostí, 20 dkg červené řepy, 3 lžíce másla, 20 dkg hlávkového zelí, 1 mrkev, 1 cibule, 3 lžíce rajčatového protlaku, 1 lžíce světlé jíšky, 4 lžíce kysané smetany, 1 lžíce cukru a octa, sůl, 1 bobkový list, 3 celé pepře.
+ - 20 dkg hovězího masa,
+ - 12 dkg šunky,
+ - 10 dkg párků,
+ - 40 dkg kostí,
+ - 20 dkg červené řepy,
+ - 3 lžíce másla,
+ - 20 dkg hlávkového zelí,
+ - 1 mrkev,
+ - 1 cibule,
+ - 3 lžíce rajčatového protlaku,
+ - 1 lžíce světlé jíšky,
+ - 4 lžíce kysané smetany,
+ - 1 lžíce cukru a octa,
+ - sůl,
+ - 1 bobkový list,
+ - 3 celé pepře.
 
-Kosti a maso vložíme do studené vody a vaříme do změknutí masa. Očištěnou červenou řepu nakrájíme na nudličky, dáme na polovinu dávky másla, podlijeme troškou vývaru, přidáme rajčatový protlak a ocet (pro zachování barvy červené řepy) a zakryté dusíme napřed na prudkém a později na mírném ohni do měkka. Potom nakrájíme mrkev na nudličky, cibuli na plátky a zpěníme na zbytku másla. Zalijeme troškou vývaru a krátce podusíme. Po malé chvíli dolijeme vývar, přidáme bobkový list, pepř, sůl, cukr a přivedeme do varu. Přidáme na nudličky nakrájené zelí, zahustíme světlou jíškou a vaříme asi 20 minut. Před dokončením vložíme na větší kousky nakrájené vařené maso, na plátky nakrájenou šunku a párky a připravenou dušenou řepu. Kyselou smetanu podáváme zvlášť.
+ 1. Kosti a maso vložíme do studené vody a vaříme do změknutí masa.
+ 2. Očištěnou červenou řepu nakrájíme na nudličky, dáme na polovinu dávky másla, podlijeme troškou vývaru, přidáme rajčatový protlak a ocet (pro zachování barvy červené řepy) a zakryté dusíme napřed na prudkém a později na mírném ohni do měkka.
+ 3. Potom nakrájíme mrkev na nudličky, cibuli na plátky a zpěníme na zbytku másla. Zalijeme troškou vývaru a krátce podusíme.
+ 4. Po malé chvíli dolijeme vývar, přidáme bobkový list, pepř, sůl, cukr a přivedeme do varu.
+ 5. Přidáme na nudličky nakrájené zelí, zahustíme světlou jíškou a vaříme asi 20 minut.
+ 6. Před dokončením vložíme na větší kousky nakrájené vařené maso, na plátky nakrájenou šunku a párky a připravenou dušenou řepu.
+ 7. Kyselou smetanu podáváme zvlášť.
 
 {id="ukrajinsky_borsc"}
 
 ### Ukrajinský boršč
 
-30 dkg hovězího masa, 20 dkg červené řepy, 20 dkg hlávkového zelí, 25 dkg oloupaných brambor, 1 mrkev, 1 petržel neo kousek celeru, 1 cibule, 2 stroužky česneku, 2 lžíce sádla, 5 dkg slaniny, 3 lžíce rajčatového protlaku, 1 lžíce světlé jíšky,4 lžíce kysané smetany, 1 lžíce octa, sůl, 1 bobkový list, 3?4 celé pepře, petrželka.
+ - 30 dkg hovězího masa,
+ - 20 dkg červené řepy,
+ - 20 dkg hlávkového zelí,
+ - 25 dkg oloupaných brambor,
+ - 1 mrkev,
+ - 1 petržel neo kousek celeru,
+ - 1 cibule,
+ - 2 stroužky česneku,
+ - 2 lžíce sádla,
+ - 5 dkg slaniny,
+ - 3 lžíce rajčatového protlaku,
+ - 1 lžíce světlé jíšky,
+ - lžíce kysané smetany,
+ - 1 lžíce octa,
+ - sůl,
+ - 1 bobkový list,
+ - 3/4 celé pepře,
+ - petrželka.
 
-Maso vložíme do studené vody a vaříme do studené vody a vaříme do změknutí. Očištěnou červenou řepu nakrájíme na nudličky, dáme na polovinu dávky sádla, podlijeme troškou vývaru, přidáme rajčatový protlak, ocet a dusíme tak jako při přípravě boršče moskevského. Rovněž tak připravíme a podusíme zeleninu s cibulí. Přidáme na nudličky nakrájené zelí a brambory spolu s vývarem, bobkovým listem, pepřem, solí a cukrem a vaříme s jíškou asi 20 minut. (Pozor aby se nerozvařily brambory.) Před dokončením přidáme na kousky nakrájenou slaninu, osmaženou na pánvičce s utřeným česnekem. Kysanou smetanu a sekanou petrželovou nať vkládáme přímo na talíř.
+ 1. Maso vložíme do studené vody a vaříme do studené vody a vaříme do změknutí.
+ 2. Očištěnou červenou řepu nakrájíme na nudličky, dáme na polovinu dávky sádla, podlijeme troškou vývaru, přidáme rajčatový protlak, ocet a dusíme tak jako při přípravě boršče moskevského.
+ 3. Rovněž tak připravíme a podusíme zeleninu s cibulí.
+ 4. Přidáme na nudličky nakrájené zelí a brambory spolu s vývarem, bobkovým listem, pepřem, solí a cukrem a vaříme s jíškou asi 20 minut (pozor aby se nerozvařily brambory).
+ 5. Před dokončením přidáme na kousky nakrájenou slaninu, osmaženou na pánvičce s utřeným česnekem.
+ 6. Kysanou smetanu a sekanou petrželovou nať vkládáme přímo na talíř.
 
 {id="borsc_sibirsky"}
 
 ### Boršč sibířský
 
-20 dkg červené řepy, 5 dkg másla, 3 lžíce rajčatového protlaku, 1 lžíce octa, 5 dkg vařených fazolí,1 cibule, 1 mrkev, 1 bobkový list, 2 stroužky česneku, špetka cukru, sůl, 1 lžíce světlé jíšky, 5 dkg šunky, 4 lžíce smetany, 1,5 l vývaru.
+ - 20 dkg červené řepy,
+ - 5 dkg másla,
+ - 3 lžíce rajčatového protlaku,
+ - 1 lžíce octa,
+ - 5 dkg vařených fazolí,1 cibule,
+ - 1 mrkev,
+ - 1 bobkový list,
+ - 2 stroužky česneku,
+ - špetka cukru,
+ - sůl,
+ - 1 lžíce světlé jíšky,
+ - 5 dkg šunky,
+ - 4 lžíce smetany,
+ - 1,5 l vývaru.
 
 Knedlíčky:
 
-5 dkg hovězího masa, 5 dkg vepřového masa, 1 cibule, 1 vejce, voda, mletý pepř, sůl.
+ - 5 dkg hovězího masa,
+ - 5 dkg vepřového masa,
+ - 1 cibule,
+ - 1 vejce,
+ - voda,
+ - mletý pepř,
+ - sůl.
 
-Nejdříve si připravíme knedlíčky. Hovězí a vepřové maso umeleme na masovém strojku s cibulí, smícháme s vejcem, osolíme, opepříme a tvoříme knedlíčky velkosti vlašských ořechů, které povaříme 10 minut ve vroucí vodě a dáme stranou. Potom očistíme červenou řepu, nakrájíme ji na nudličky, dáme na polovinu dávky rozpáleného másla, přidáme rajčatový protlak a ocet, podlijeme vývarem a dusíme zakryté do měkka. Na zbytu rozpuštěného másla osmahneme na nudličky nakrájenou mrkev a cibuli, zalijeme vývarem, přidáme bobkový list, sůl, cukr a paříme 10 minute. Pak přidáme vařené fazole a třený česnek, zahustíme světlou jíškou a dalších 15 minut povaříme. Nakonec vložíme do polévky připravené knedlíčky, podušenou řepu, na plátky nakrájenou šunku a krátce povaříme. Smetanu podáváme zvlášť.
+ 1. Nejdříve si připravíme knedlíčky. Hovězí a vepřové maso umeleme na masovém strojku s cibulí, smícháme s vejcem, osolíme, opepříme a tvoříme knedlíčky velkosti vlašských ořechů, které povaříme 10 minut ve vroucí vodě a dáme stranou.
+ 2. Potom očistíme červenou řepu, nakrájíme ji na nudličky, dáme na polovinu dávky rozpáleného másla, přidáme rajčatový protlak a ocet, podlijeme vývarem a dusíme zakryté do měkka.
+ 3. Na zbytu rozpuštěného másla osmahneme na nudličky nakrájenou mrkev a cibuli, zalijeme vývarem, přidáme bobkový list, sůl, cukr a paříme 10 minute.
+ 4. Pak přidáme vařené fazole a třený česnek, zahustíme světlou jíškou a dalších 15 minut povaříme.
+ 5. Nakonec vložíme do polévky připravené knedlíčky, podušenou řepu, na plátky nakrájenou šunku a krátce povaříme.
+ 6. Smetanu podáváme zvlášť.
 
-Všechny ty recepty jsou pro 4?5 porcí podle toho jak vám to bude chutnat což mi eventuálně můžete napsat.
+Všechny ty recepty jsou pro 4 až 5 porcí podle toho jak vám to bude chutnat, což mi eventuálně můžete napsat.
 
 {id="chuo_kuo"}
 
-## CHUO KUO
+## Chuo kuo
 
 Mongolský kotlík
 
@@ -323,7 +346,7 @@ Zmrazený krab nebo krabí maso nám všude jinde než v San Francisku udělá s
 
 {id="studene_polevky"}
 
-## STUDENÉ POLÉVKY
+## Studené polévky
 
 Studené polévky si z nějakého důvodu nikdy nezískaly nějakou velkou popularitu, ale některé vám zde uvádím pro zajímavost.
 
@@ -341,7 +364,7 @@ Jsou ale polévky které mohou být podávány jak teplé tak i studené, jako n
 
 Král studených polévek je bezesporu španěská polévka gaspacho kterou lze považovat za jakýsi tekutý salát.
 
-Tato polévka má několik variací ale dnes nejpolárnější je červené gazpacho na základě rajských jablek které vzniklo v Jišním Španělsku, které ale má své kořeny moorské kuchyni.
+Tato polévka má několik variací ale dnes nejpolárnější je červené gazpacho na základě rajských jablek které vzniklo v Jižním Španělsku, které ale má své kořeny moorské kuchyni.
 
 Původní gazpacho se připravoalo z okoralého chleba máčeného v octě a olivovém oleji, s přidáním česneku a mletých mandlí a nazývalo se ajo blanco "bílé gazpacho".
 
@@ -387,15 +410,11 @@ Byl jsem v bulharsku nesčíslněkrát a nemohu sice říci, že bych byl bulhar
 
 Jedna bulharská polévka která stojí za zmínku je Tarator a to nejspíše proto, že je to velice jednoduchá a osvěžujicí studená polévka která příjde vhod hlavně v létě.
 
-{id="tarator"}
-
-### Tarator
-
-V nějaké vhodné míse rozšleháte neslazený jogurt, přidáte na malé kousky krájenou lopanou a semen zbavenou okurku, sůl a čerstvě mletý černý pepř podle chutě, drcený česnek, jemně sekaný čerstvý kopr a trochu hrubě sekaných vlašských ořechů.
+V nějaké vhodné míse rozšleháte neslazený jogurt, přidáte na malé kousky krájenou oloupanou a semen zbavenou okurku, sůl a čerstvě mletý černý pepř podle chutě, drcený česnek, jemně sekaný čerstvý kopr a trochu hrubě sekaných vlašských ořechů.
 
 {id="avgolemono"}
 
-## AVGOLEMONO
+### Avgolemono
 
 Pokud jste byli v Řecku a neochutnali jste řecké citróny nebo afgolemono, tak toho o Řecku moc nevíte.
 
@@ -425,7 +444,7 @@ Ramen, podobně i jako italské nudle přicházejí v různých tvarech a délk�
 
 {id="udon"}
 
-## UDON
+## Udon
 
 Udon, podobně jako ramen jsou nudle z žitné mouky, sole a vody.
 
@@ -457,7 +476,7 @@ Toto je jen malá ukázka toho že v některých zemích polévky s hutnými vlo
 
 {id="soupwich"}
 
-## SOUPWICH
+## Soupwich
 
 Soupwich je jedno z mála typicky amerických jídel. Je to vlastně kombinace sendviče a polévky ve většině případů podává jako hlavní jídlo zejména v poledne.
 
@@ -467,7 +486,7 @@ Toto se velmi rychle ujalo takže tuto kombinaci nabízí většina restauací v
 
 {id="soup_kettle"}
 
-## Soup Kettle
+### Soup Kettle
 
 Jedna velice populární restaurace v Chicagu neprodává nic jiného než polévky a sendviče a mají obchod jako hrom protože těch polévek prodají denně až 600 porcí.
 
@@ -483,3 +502,4 @@ Podle mně není nic lepšího než dobrá bramboračka, kaldón, gulášová ne
 
 Nedalo mi to spát a tak jsem posléze vypracoval koncept pod názvem SOUPWICHGRILL?, který eventuálně jednou uvedu na český trh.
 
+ [1]: /chili
