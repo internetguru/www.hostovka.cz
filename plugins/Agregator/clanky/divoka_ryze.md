@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=364.html" data-image="/files/preview/clanky/divoka_ryze/general.jpg" data-type="article"}
 
-{id="divoka\_ryze" ctime="2008-08-16" author="Michael Klíma" short="Divoká rýže" mtime="2019-10-07"}
+{id="divoka\_ryze" ctime="2008-08-16" author="Michael Klíma" short="Divoká rýže" mtime="2019-10-21"}
 
 # Divoká rýže
 
