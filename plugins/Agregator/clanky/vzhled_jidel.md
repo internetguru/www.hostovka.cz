@@ -1,9 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=346.html" data-image="/files/preview/clanky/prezentace_jidel/general.jpg" data-type="article"}
 
-{id="vzhled_jidel" ctime="2007-05-05" author="Michael Klíma" short="Vzhled Jídel" authorid="hostovka/michael\_klima"}
+{id="vzhled_jidel" ctime="2005-05-05" author="Michael Klíma" short="Vzhled jídel" authorid="hostovka/michael\_klima"}
 
 # Vzhled jídel
+
+<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
 
 {kw="gastronomie"}
 
