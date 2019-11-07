@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=168.html" data-image="/files/preview/clanky/brunch/general.jpg" data-type="article"}
 
-{id="brunch" ctime="2006-08-08" author="Michael Klíma" short="Brunch" authorid="hostovka/michael_klima"}
+{id="brunch" ctime="2006-08-08" author="Michael Klíma" short="Brunch" mtime="2019-11-07"}
 
 # Pozdní snídaně neboli brunch
 
@@ -223,7 +223,6 @@ Pečivo prezentujeme na odděleném stole v košících. Přikládáme k němu k
 Moučníky a jiné sladkosti jsou na brunchích oblíbeným artiklem. Moučníky však musí být podávány v malých porcích. Hosté totiž rádi ochutnávají více druhů.
 
 Hosté ale dokáží z moučníků docela rychle udělat pěkný masakr. Proto je i zde ideální, když můžeme moučníky připravovat na objednávku před zraky hostů.
-
 
  [1]: /mc_donalds
  [2]: /jednohubky#druhy_jednohubek
