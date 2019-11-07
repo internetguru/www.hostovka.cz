@@ -29,5 +29,5 @@ Během mé šedesátileté mezinárodní praxe jsem se zatím nikde ve světě n
 
 Největší chucpa je, že většina těch autorů to opisuje jeden od druhého (co si také mají stále vymýšlet), a někteří se snaží vynalézt kolo tím, že nějakému starému receptu dají nové jméno a eventuálně se prohlásí za jeho autora a struktura receptu zůstává stejná, ale Who cares!
 
-Proto se budete muset připravit na to, že ne všechny knihy které jsou u nás dnes na trhu jsou dobré, ale studiem Hostovky se časem naučíte ty dobré rozeznávat.
+Proto se budete muset připravit na to, že ne všechny knihy které jsou u nás dnes na trhu jsou dobré, ale studiem Hostovky se časem naučíte ty dobré rozeznávat...
 
