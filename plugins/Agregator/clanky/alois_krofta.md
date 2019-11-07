@@ -1,19 +1,21 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=43.html" data-image="files/preview/clanky/alois_krofta/general.jpg" data-type="article"}
 
-{id="alois\_krofta" ctime="2005-07-20" author="Michael Klíma" short="Alois Krofta" authorid="hostovka/michael\_klima"}
+{id="alois\_krofta" ctime="2005-07-20" author="Michael Klíma" short="Alois Krofta" mtime="2019-11-07"}
 
 # Alois Krofta
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+{kw="kdo-kdy-kde, hotel"}
 
-{kw="kdo-kdy-kde"}
+Pražský architekt Alois Krofta si ve třicátých letech otevřel hotel Alcron. Název hotelu byl odvozen ze zkratky jeho jména. Jako [šéfkuchaře][1] si najal Floriána Zimmermanna, který měl mezinárodní zkušenosti.
 
-Když pražský architekt Alois Krofta ve třicátých letech otevíral hotel Alcron (zkratka jeho jména), tak si jako šéfkuchaře s mezinárodní zkušeností přivezl Floriána Zimmermanna až z Nového Yorku.
+Zimermann byl Čech, s několikaletou praxí ve Francii a v Americe. Kdo si ho pamatujete tak víte, že nebyl žádná primadona. Zimmermann byl gentleman a podle mě měl daleko více zkušenosti s mezinárodní kuchyní než kterýkoliv z francouzských kuchařů, kteří své umění ale uměli prodat lépe než on.
 
-Zimermann byl Čech, s několikaletou praxí ve Francii a v Americe a kdo si ho pamatujete tak víte, že nebyl žádná primadona. Zimmermann byl gentleman a podle mně měl daleko více zkušenosti s mezinárodní kuchyní než kterýkoliv z francouzských kuchařů kteří své umění ale uměli prodat lépe než on.
+{class="example"}
 
-Od tehdejších kuchařů v ČSR se Zimmermann lišil tím, že nikdy nezvýšil hlas a který učedníky oslovoval "pane".
+Od tehdejších kuchařů v ČSR se Zimmermann lišil tím, že nikdy nezvýšil hlas a že všechny učedníky oslovoval „pane“.
 
-Architekt Krofta nejenom že dbal na personál, ale dbal i na vybavení hotelu, které na tu dobu nemělo chybu. Rovněž tak i kuchyně byla ukázkou jeho vysoké odbornosti.
+Architekt Krofta dbal nejen  na personál, ale také na vybavení hotelu. Vybavení na tehdejší dobu nemělo chybu. Stejně tak se mohl chlubit vynikající kuchyní, která byla jen další ukázkou jeho vysoké odbornosti.
+
+ [1]: /kucharske_tituly#sefkuchar
 
