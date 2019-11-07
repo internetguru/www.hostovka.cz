@@ -39,17 +39,17 @@ Tento způsob podávání jídla ale vyžaduje nejenom zručnost, ale i přísn�
 
 Podávání jídel před zraky hostů ale není nic nového. Kdysi se připravoval jen limitovaný výběr jídel na pánvi nebo na grilu. Dnes se ale tento styl rozrostl do enormních dimenzí.
 
-Na [brunchích][7] jsou takto podávané hlavně lívance připravované na gridlu nebo vafle, které se připravují na speciálních elektrických pánvích. Jejich příprava je velmi jednoduchá a může je připravovat kdekdo (bez vyučení nebo maturity). Jediné co je potřeba je hezký přirozený úsměv a dobrá komunikace s hostem, což se ale mnozí zaměstnanci v Česku musí naučit.
+Na [brunchích][7] jsou takto podávané hlavně lívance připravované na gridlu nebo vafle, které se připravují na speciálních elektrických pánvích. Jejich příprava je velmi jednoduchá a může je připravovat kdekdo (bez vyučení nebo maturity). Jediné, co je potřeba je hezký přirozený úsměv a dobrá komunikace s hostem, což se ale mnozí zaměstnanci v Česku musí naučit.
 
 ### Dranžírování a sotýrování
 
-Typickou technikou jevištní kuchyně je dranžírování (anglicky _carving {xml:lang="en"}_). Pečená masa nebo drůbež se dranžírují (krájí) na porce dle přání hostů. To je jednak velimi atraktivní, ale také i praktické protože se tím předchází zbytečným zbytkům.
+Typickou technikou jevištní kuchyně je dranžírování (anglicky _carving {xml:lang="en"}_). Pečená masa nebo drůbež se dranžírují (krájí) na porce dle přání hostů. To je jednak velmi atraktivní, ale také i praktické, protože se tím předchází zbytečným zbytkům.
 
 {class="example"}
 
 Na [brunchích][7] se dranžíruje například pečené hovězí nebo vepřové maso, celá krůta nebo krůtí prso, pečená šunka, skopová kýta, ale i velká ryba.
 
-Mnohdy se dranžér nachází až na konci bufetové linky, což má praktický, lépe řečeno psychologický a ekonomický důvod. Host, který prochází kolem bufetové linky si na talíř nandá napřed porcovanou drůbež, dušeniny, ryby, těstovinová a zeleninová jídla a případně přílohy. V době, kdy dojde k dranžérovi, nemá na na maso již téměř žádné místo.
+Mnohdy se dranžér nachází až na konci bufetové linky, což má praktický, lépe řečeno psychologický a ekonomický důvod. Host, který prochází kolem bufetové linky si na talíř nandá napřed porcovanou drůbež, dušeniny, ryby, těstovinová a zeleninová jídla a případně přílohy. V době, kdy dojde k dranžérovi, nemá na maso již téměř žádné místo.
 
 [Sotýrování][8] (od francouzského _sauté {xml:lang="fr"}_), je odborný slang. Je to takzvané smažení nebo přehazování v pánvi.
 
@@ -64,14 +64,6 @@ V mnoha případech to totiž není ani jídlo samotné, které si získá obdiv
 V mysli mnoha kuchařů je zafixováno, že saláty a předkrmy musí být podávány na malých, takzvaných předkrmových nebo salátových talířcích. Dnes to však není zdaleka pravda. Například carpacio, jeden z velice populárních předkrmů, je podáváno na velkém studeném talíři.
 
 Ale i jiné předkrmy jsou dnes podávány zcela neortodoxně ve skle. To by podle archaických předpisů bylo považováno za faux pas. Ale povídejte to dnešním „demi chefům“.
-
-### Podávání jídel na teplých talířích
-
-Nepsaný zákon podávání jídel praví podávat studené jídlo na [studených][5] a teplé jídlo na teplých talířích. Jak toho kuchař docílí je jeho věc. Od toho je kuchař.
-
-{class="important"}
-
-Sebe chutnější jídlo pracně a odborně připravené je zcela bezcenné, jestliže je podáváno na [studeném talíři][5]. Kuchař, který připustí, aby bylo teplé jídlo podáváno na [studených talířích][5] si nezaslouží titul kuchaře. Porouchá-li se režón nebo ohřívače talířů, tak kuchař musí talíře předehřát v troubě nebo pod horkou vodou.
 
 ### Nadměrně velké talíře
 
