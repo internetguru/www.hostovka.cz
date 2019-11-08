@@ -7,9 +7,9 @@
 
 {kw="gastronomie, Evropa"}
 
-Evropa se může pochlubit hned několika dobrými kuchyněmi, které byly založeny na historii a tradicích země ve kterých vznikly. 
+Evropa se může pochlubit hned několika dobrými kuchyněmi, které byly založeny na historii a tradicích zemí, ve kterých vznikly. 
 
-Dnešní, a díky Hostovce sofistikovaný host, má svoje představy o kvalitě a hodnotě jídel a nedá se již tak snadno opít rohlíkem. Evropská gastronomie, i když se o tom zatím nemluví, stojí před velkými změnami a mnohdy nebude stačit se změnám pouze přizpůsobit.
+Dnešní (a díky Hostovce sofistikovaný) host má svoje představy o kvalitě a hodnotě jídel a nedá se již tak snadno opít rohlíkem. Evropská gastronomie, i když se o tom zatím nemluví, stojí před velkými změnami a mnohdy nebude stačit se změnám pouze přizpůsobit.
 
 V EU vznikne úplně jiná kuchyně, která podle mě bude nejspíše nazývaná _eurocuisine {xml:lang="en"}_. Ta bude ovlivněná jídly a kuchařskými technikami všech členských států EU. _Eurocuisine {xml:lang="en"}_ se bude vyznačovat novými jídly a novými jídelními lístky, které uspokojí očekávání a přání této nové klientely.
 
