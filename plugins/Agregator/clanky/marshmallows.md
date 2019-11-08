@@ -7,23 +7,23 @@
 
 {kw="jídla a jídelní lístky, cukroví, Amerika, recept"}
 
-_Marshmallow {xml:lang="en"}_ je cukroví, jenž pochází až ze starého Egypta. Dělalo z medového základu zahuštěného šťávou z kořene rostliny zvané proskurník lékařský (anglicky _marsh mallow {xml:lang="en"}_).
+_Marshmallows {xml:lang="en"}_ je cukroví, jenž pochází až ze starého Egypta. Dělalo z medového základu zahuštěného šťávou z kořene rostliny zvané proskurník lékařský (anglicky _marsh mallow {xml:lang="en"}_).
 
 {xml:lang="example"}
 
 Dnes je _marshmallow {xml:lang="en"}_ směs cukru, kukuřičného sirupu, želatiny, arabské gumy a chuťových přísad.
 
-Když jsem se s _marshmallow {xml:lang="en"}_ porvé setkal v Americe, tak mi připomínalo žužu, které jsem znal z mládí. Proto mi to nedalo a prostudoval jsem si několik receptů, abych přišel na to, jak se vyrábí. Jak ale asi víte, tak moc nejsem na nějaké dlouhé vaření. Proto jsem _marshmallow {xml:lang="en"}_ nikdy nedělal a kupoval jsem si ho hotové.
+Když jsem se s _marshmallow {xml:lang="en"}_ poprvé setkal v Americe, tak mi připomínalo žužu, které jsem znal z mládí. Proto mi to nedalo a prostudoval jsem si několik receptů, abych přišel na to, jak se vyrábí. Jak ale asi víte, tak moc nejsem na nějaké dlouhé vaření. Proto jsem _marshmallows {xml:lang="en"}_ nikdy nedělal a kupoval jsem si ho hotové.
 
-V Americe existuje _marshmallow {xml:lang="en"}_ v různých velikostech a v různých barvách. Děti ho jedí tak jak je. Přídává se ale (obrazně řečeno) téměř do všeho – od salátů přes zmrzlinu, až po želatinu nebo pudinky, případně do kakaa nebo do horké čokolády.
+V Americe existuje _marshmallow {xml:lang="en"}_ v různých velikostech a v různých barvách. Děti ho jedí tak jak je. Přidává se ale (obrazně řečeno) téměř do všeho – od salátů přes zmrzlinu, až po želatinu nebo pudinky, případně do kakaa nebo do horké čokolády.
 
 {xml:class="example"}
 
 Velice oblíbené je _marshmallow {xml:lang="en"}_ opékané nebo rožněné nad otevřeným ohněm. Musí se to ale trochu umět. Pokud to trochu přeženete, tak vám to _marshmallow {xml:lang="en"}_ chytne plamenem a je po legraci.
 
-Pokud byste si chtěli _marshmallow {xml:lang="en"}_ někdy udělat dělat sami, tak vám přikládám jeden z nejlepších receptu Tomáše Kellera.
+Pokud byste si chtěli _marshmallows {xml:lang="en"}_ někdy udělat sami, tak vám přikládám jeden z nejlepších receptů Tomáše Kellera. 
 
- 1: Skleněnou ohnivzdornou formu o velikosti asi 23 × 33 cm vymažte olejem a vysypejte práškovým cukrem.
+ 1. Skleněnou ohnivzdornou formu o velikosti asi 23 × 33 cm vymažeme olejem a vysypeme práškovým cukrem.
  2. 21 g práškové želatiny rozpustíme v 1/2 šálku vody a necháme ji „kvést“ asi 10 minut.
  3. V malém kastrůlku smícháme 2 šálky cukru, 2/3 šálku kukuřičného sirupu, a 1/4 šálku vody.
  4. Směs přivedeme do varu a vaříme, než dosáhne teploty 121 °C.
