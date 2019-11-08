@@ -1,29 +1,17 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=223.html" data-image="/files/preview/clanky/gi_pans/general.jpg" data-type="article"}
 
-{id="gi\_pans" ctime="2007-03-29" author="Michael Klíma" short="GI pans" authorid="hostovka/michael\_klima"}
+{id="gi\_pan" ctime="2007-03-29" author="Michael Klíma" short="Pekáč GI pan" mtime="2019-11-07"}
 
-# GI Pans
+# Původ názvu pekáče GI pan
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+{kw="co-kdy-kde, Amerika"}
 
-{kw="co-kdy-kde"}
+_GI pan {xml:lang="en"}_ je označení speciálních pekáčů, dodnes používaných v amerických kuchyních. V samotné Americe ale jen velmi málo lidí zná původ tohoto názvu.
 
-V článku o prime rib jsem se zmínil o GI pan a slíbil jsem vám, že vám o nich napíši více a jelikož bych na to eventuálně mohl zapomenout, tak vám to raději napíši hned teď.
+Po příchodu do Ameriky jsem sice věděl, že je _GI pan {xml:lang="en"}_ velký silnostěnný pekáč, ale nikdo mi nebyl schopen říci, proč se tak ten pekáč jmenuje. Byl bych ale velký pokrytec, kdybych svým studentům říkal, že kdo se neptá, nic se nedozví, a přitom bych se sám nechal odbýt neúplnou odpovědí. 
 
-Není to vlastně důležité, ale já jsem vám také slíbil, že jako absolventi Hostovky budete o mezinárodním pohostinství toho vědět více než ti kteří ho provozují.
+Tudíž jsem se dále vyptával, až jsem v jedné kuchyni v Chicagu narazil na kuchaře, který byl o něco starší než já a který mi konečně řekl to, co jsem chtěl slyšet. 
 
-Jak jsem se již i na těchto stránkách zmínil, tak jsem se na Ameriku 20 let připravoval a myslel jsem si, že pokud se týká americké gastronomie a pohostinství, že mám odpověď na všechno, ale nesmíte také věřit všemu co řeknu.
-
-Já jsem již při příchodu do Ameriky sice věděl že je GI pan je velký silnostěnný pekáč, ale když jsem se kuchyních ptal co znamená to GI, tak mi sice ten pekáč ukázali, ale nikdo nebyl schopen mi říci proč se ten pekáč tak jmenuje.
-
-Byl bych ale velký pokrytec kdybych mým studentům říkal, že kdo se neptá, nic se nedozví a přitom bych se já sám nechal odbýt nějakou neúplnou odpovědí.
-
-GI pan, je označení speciálních pekáčů dodnes používaných v amerických kuchyních, ale v samotné Americe je jen velmi málo lidí, i mezi odborníky, kteří vědí kde vlastně je původ tohoto názvu.
-
-Tudíž jsem se ptal a ptal, a to kde koho, až jsem přišel v jedné kuchyni v Chicagu na kuchaře který byl o něco starší než jsem byl já a který mi konečně řekl to co jsem chtěl slyšet.
-
-GI je zkratka pro Gouvernement Issue. Touto zkratkou je označováno vše co se v americké armádě "fasuje" nebo vydává, tudíž i pekáče do kuchyně.
-
-GI, nebo G.I., eventuálně G.I. Joe, je přezdívka amerických vojáků.
+_GI {xml:lang="en"}_ je zkratka pro _gouvernement issue {xml:lang="en"}_. Touto zkratkou je označováno vše, co se v americké armádě „fasuje“ neboli vydává. Patři tam tedy i pekáče do kuchyně.
 
