@@ -30,7 +30,7 @@
   <doclist id="faq" path="faq" wrapper="section">
     <h var="id@id" id="q_%s">Otázka</h>
     <desc>n/a</desc>
-    <p var="question@var">n/a</p>
+<!--     <p var="question@var">n/a</p> -->
     <h var="id@id" id="a_%s">Odpověď</h>
     <desc>n/a</desc>
 <!--     <p var="answer@var">n/a</p> -->
