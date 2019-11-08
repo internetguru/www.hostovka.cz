@@ -3,7 +3,7 @@
 
 {id="alois\_krofta" ctime="2005-07-20" author="Michael Klíma" short="Alois Krofta" mtime="2019-11-07"}
 
-# Alois Krofta
+# Architekt Alois Krofta
 
 {kw="kdo-kdy-kde, hotel"}
 
@@ -15,7 +15,7 @@ Zimermann byl Čech, s několikaletou praxí ve Francii a v Americe. Kdo si ho p
 
 Od tehdejších kuchařů v ČSR se Zimmermann lišil tím, že nikdy nezvýšil hlas a že všechny učedníky oslovoval „pane“.
 
-Architekt Krofta dbal nejen  na personál, ale také na vybavení hotelu. Vybavení na tehdejší dobu nemělo chybu. Stejně tak se mohl chlubit vynikající kuchyní, která byla jen další ukázkou jeho vysoké odbornosti.
+Architekt Krofta dbal nejen na personál, ale také na vybavení hotelu. Vybavení na tehdejší dobu nemělo chybu. Stejně tak se mohl chlubit vynikající kuchyní, která byla jen další ukázkou jeho vysoké odbornosti.
 
  [1]: /kucharske_tituly#sefkuchar
 
