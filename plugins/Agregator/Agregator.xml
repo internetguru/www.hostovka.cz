@@ -26,6 +26,15 @@
       </ul></dd>
     </dl>
   </doclist>
+  
+  <doclist id="faq" path="faq">
+    <dl class="faq">
+      <dt>Otázka</dt>
+      <dd var="data-question@var">n/a</dd>
+      <dt>Odpověď</dt>
+      <dd var="data-answer@var">n/a</dd>
+    </dl>
+  </doclist>
 
 <!-- [doclist] generated content, do not edit -->
   <doclist id="zivotopis" kw="životopis" for="stitek" />
