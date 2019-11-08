@@ -1,45 +1,31 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=50.html" data-image="/files/preview/clanky/chipsy/general.jpg" data-type="article"}
 
-{id="chipsy" ctime="2005-07-29" author="Michael Klíma" short="Chipsy" authorid="hostovka/michael_klima"}
+{id="bramborove_lupinky" ctime="2005-07-29" author="Michael Klíma" short="Bramborové lupínky" mtime="2019-11-07"}
 
-# Chipsy
+# Bramborové lupínky
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+{kw="jídla a jídelní lístky, brambory, Francie, Amerika"}
 
-{kw="jídla a jídelní lístky"}
+Jako světová potravina jsou brambory na druhém místě, hned za rýží. Upravují se asi mnoha různými způsoby. Jedna z nejpopulárnějších forem jsou brambory smažené ve formě [hranolků][1] nebe lupínků.
 
-Jako světová potravina se brambory ve spotřebě řadí jako druhé jen za rýží. Upravují se asi 900 různými způsoby a v různých formách ale zdá se, že jedna z nejpopulárnějších forem jsou smažené ve formě hranolků nebe lupínků.
+{class="example"}
 
-České označení hranolků a čipsů je jasné a nemůže docházet k omylu, ale jako studenty Hostovky vás ale musím upozornit na to, že pod těmito názvy je nikde než v Česku nebo na Slovensku nedostanete.
+Francouzi mají pro některé úpravy brambor specifické názvy, které byly po dlouhá léta používány na mezinárodních lístcích. O těch se ale nechci moc zmiňovat, protože již pomalu upadají v zapomenutí.
 
-Francouzi mají pro některé úpravy brambor specifické názvy a tyto názvy byly po dlouhá léta na mezinárodních lístcích používány, ale o těch se v daném okamžiku nechci zmiňovat, protože některé upadají již v zapomenutí.
+Bramborové lupínky Francouzi od nepaměti nazývají _pommes chips {xml:lang="fr"}_. O jejich vynalezení se ale ucházejí i Američané, kteří tvrdí, že bramborové lupínky byly vynalezeny v Americe v létě roku 1853.
 
-{id="bramborove_hranolky"}
+V té době byl Američan _George Crum {xml:lang="en"}_ byl zaměstnán jako vedoucí v elegantním resortu na jezeře _Moon Lake {xml:lang="en"}_ v _Saratoga Sprinte {xml:lang="en"}_ ve státě _New York {xml:lang="en"}_. Bramborové hranolky tam byly připravovány typickým francouzským způsobem a říkalo se jim _french fried potatoes {xml:lang="en"}_, zkráceně _french fries {xml:lang="en"}_.
 
-## Bramborové hranolky
+Hosté resortu _Moon Lake {xml:lang="en"}_, mezi něž patřil i _Thomas Jefferson {xml:lang="en"}_, si stěžovali, že jso hranolky moc silné. Jeden významný host dokonce hranolky vrátil. _Crum {xml:lang="en"}_ chtěl hostovi vyhovět, ale zároveň mu dát za vyučenou. Vzal tedy brambory, ty nakrájel na velmi tenké plátky, které dozlatova usmažil v horkém oleji.
 
-Zda bramborové hranolky vynalezli Francouzi nebylo nikdy doloženo. Bramborovým hranolkům se francouzsky říká pomes-frittes, což v překladu znamená smažené brambory a pod tím názvem dostanete někdy jakékoliv smažené brambory.
+Hostovi tyto brambory nesmírně chutnaly a staly se tak velmi populárními pod jménem _Saratoga Chips {xml:lang="en"}_. Popularity využilo několik firem, které ale prefix _Saratoga {xml:lang="en"}_ vynechali a začaly je prodávat jako _potato chips {xml:lang="en"}_, zkráceně _chips {xml:lang="en"}_.
 
-{id="bramborove_lupinky"}
+{class="example"}
 
-## Bramborové lupínky
+Dnes se ale výraz chips stal v Americe synonymem i pro lupínky vyráběné z kukuřičného těsta či z tortilly. 
 
-Bramborové lupínky Francouzi od nepaměti nazývají pommes chips, ale o jejich vynalezení se ucházejí i Američané kteří tvrdí, že bramborové lupínky byly vynalezeny v Americe v létě roku 1853.
+Měli jsme u nás doma na návštěvě jednu známou z Německa. Ta pod pojmem _chips {xml:lang="en"}_ rozuměla hranolky kterým, se ale v Americe říká _french fries {xml:lang="en"}_. V Anglii a v Belgii se pod názvem _fish and chips {xml:lang="en"}_ rozumí smažené ryby a bramborové hranolky. V Belgii k hranolkům dostanete majonézu a v Anglii ocet nebo kečup a ve Skotsku dokonce hnědou omáčku.
 
-V té době Američan George Crum byl zaměstnán jako chef v elegantním resortu na jezeře Moon Lake v Saratoga Sprinte ve státě New York. Bramborové hranolky tam byly připravovány typickým francouzským způsobem a říkalo se jim french fried potatoes, zkráceně French fries.
-
-Hosté resortu Moon Lake, mezi něž patřil Thomas Jefferson, si stěžovali, že ty hranolky připravované podle francouzského receptu dovezeného v roce 1700 z Francie Jeffersonem, jsou moc silné a jeden významný host ty hranolky vrátil. Chef Crum chtěl svému hostovi vyhovět a zároveň mu dát za vyučenou a tak vzal brambory, nakrájel je na velmi tenké plátky které usmažil v horkém oleji dozlatova a hostu je podal.
-
-Tomu hostovi tyto brambory nesmírně chutnaly a v této úpravě se staly velice populární a dokonce si získali jméno Saratoga Chips.
-
-Té popularity následně využilo několik firem které ale ten prefix Saratoga vynechali a začaly je prodávat jako potato chips, zkráceně "chips".
-
-Dnes se ale v Americe výraz chips stal synonymem i pro lupínky z kukuřičného těsta či z tortily.
-
-Tudíž jak vidíme tak "chips" může representovat více věcí (jako například chocolate chips), apod.
-
-Měli jsme tu na návštěvě jednu známou z Německa a ta pod pojmem chips rozuměla hranolky kterým, jak jsem se již zmínil se v Americe říká French Fries. Taktéž i v Anglii a v Belgii se pod názvem Fish and Chips rozumí smažené ryby (filé) a bramborové hranolky s tím rozdílem, že v Belgii k těm hranolkům dostanete majonézu a v Anglii ocet nebo kečup a ve Skotsku dokonce "brown sauce" což je hnědá omáčka.
-
-Tudíž jak vidíte, tak v cizině u některých třeba i zažitých výrazů musíme být opatrní, protože jsou v tom někdy rozdíly, ale naštěstí je tu teď HOSTOVKA kde si takové rozdíly můžeme objasnit.
+ [1]: /americke_brambory#bramborove_hranolky
 
