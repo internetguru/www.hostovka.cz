@@ -1,27 +1,19 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=309.html" data-image="/files/preview/clanky/goodwill/general.jpg" data-type="article"}
 
-{id="goodwill" ctime="2008-04-25" author="Michael Klíma" short="Goodwill" authorid="hostovka/michael_klima"}
+{id="goodwill" ctime="2008-04-25" author="Michael Klíma" short="Goodwill" mtime="2019-11-07"}
 
-# Goodwill
+# Význam slova goodwill
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+{kw="gastronomie, Amerika"}
 
-{kw="gastronomie"}
+Slovo _goodwill {xml:lang="en"}_ znamená v překladu dobrá vůle. _Goodwill {xml:lang="en"}_ má však mnoho dalších významů, které se v mnoha případech nedají přesně specifikovat.
 
-Good will v překladu znamená dobrá vůle avšak goodwill má mnoho významů které se v mnoha případech nedají přesně specifikovat.
+V byznyse nebo v účetnictví se jako _goodwill {xml:lang="en"}_ označují přesně nedefinovatelná aktiva, jako je například vžitý název byznysu samotného, jeho dobrá pověst a know-how. _Goodwill {xml:lang="en"}_ v hodnotě některého byznysu může přesáhnout jeho skutečnou inventurní nebo zbytkovou hodnotu.
 
-V byznyse nebo v účetnictví goodwill jsou přesně nedefinitovalná aktiva, jako je například vžitý název byznysu samotného, jeho dobrá pověst, nespecifikovatelný know how, a pod. Takový goodwill v hodnotě některého byznysu může přesáhnout jeho skutečnou inveturní nebo zbytkovou hodnotu. Goodwill philosophy jsou rady nebo rozhodnutí dělané v doobrém úmyslu.
+_Goodwill philosophy {xml:lang="en"}_ jsou rady nebo rozhodnutí dělaná v dobrém úmyslu. _Goodwill {xml:lang="en"}_ je tedy i každá dobrovolná práce dělaná v dobré víře, že někomu tato práce může být k užitku.
 
-Goodwill je něco podobného jako Good faith, latinsky bona fiede, neboli něco dělané v dobrém úmyslu.
+Osobně jsem například v Americe v Chicagu několik let pracoval jako dobrovolník pro _Goodwill Industries {xml:lang="en"}_. To je organizace, která sbírá staré upotřebitelné předměty, šatstvo apod., které pak po vyčistění či opravě prodává a výtěžek dále věnuje na charitu.
 
-Goodwill je tudíž i každá dobrovolná práce dělaná v dobré víře že někomu tato práce může být k užitku.
-
-Já jsem například v Americe v Chicagu několik let pracoval jako dobrovolník pro GOODWILL INDUSTRIES, což byla organizace kerá sbírala staré upotřebitelné předměty, šatstvo a pod., které pak po vyčistění či opravě prodávala ve svých prodajnách a výtěžek pak věnovala různým charity.
-
-GOODWILL například je IESC (Inernational Executive Service Corps) což je americká dobrovolná orgenizace kerá pomáhá rozvojovým zemím svými službami a radami a pro kterou jsem rovněž několik let pracoval jako dobrovolník.
-
-Nakonec i mé příspěvky do různých odborných medii a mé přednášky na odborných školách jsou také jakýsi GOODWILL, protože to dělám "in a good faith", neboli v dobré víře, že někomu budou užitečné.
-
-V Česku bohužel význam GOODVILL není ještě tak dobře znám a také není doceněn.
+Do skupiny _goodwill {xml:lang="en"}_ patří například i americká dobrovolná organizace, která pomáhá rozvojovým zemím svými službami a radami (_Inernational Executive Service Corps {xml:lang="en"}_).  Pro ni jsem rovněž několik let pracoval jako dobrovolník.
 
