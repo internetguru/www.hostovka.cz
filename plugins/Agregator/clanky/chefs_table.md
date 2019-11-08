@@ -9,7 +9,7 @@
 
 [Šéfkuchařův][1] stůl je anglicky nazýván jako _chef‘s table {xml:lang="en"}_. V některých restauracích a hotelech ve Francii bylo, a doufám že je ještě zvykem, že před zahájením provozu všichni kuchaři, společně s šéfkuchařem, zasednou ke stolu prostřenému bílým ubrusem a společně obědvají.
 
-V Americe, znamená ale _chef’s table {xml:lang="en"}_ poněkud něco jiného. Původně to byly restaurace s jídelnami, ze kterých bylo prosklenou stěnou vidět do kuchyně. Dnes to jsou jídelní stoly umístěné přímo v kuchyni, z kterých mohou hosté sledovat přípravu objednaných jídel.
+V Americe znamená ale _chef’s table {xml:lang="en"}_ poněkud něco jiného. Původně to byly restaurace s jídelnami, ze kterých bylo prosklenou stěnou vidět do kuchyně. Dnes to jsou jídelní stoly umístěné přímo v kuchyni, z kterých mohou hosté sledovat přípravu objednaných jídel.
 
 {class="example"}
 
