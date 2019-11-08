@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=320.html" data-image="/files/preview/clanky/eurocuisine/general.jpg" data-type="article"}
 
-{id="evropska_kuchyne" ctime="2008-05-11" author="Michael Klíma" short="Evropská kuchyně" mtime="2019-11-07"}
+{id="eurocuisine" ctime="2008-05-11" author="Michael Klíma" short="Eurocuisine" mtime="2019-11-07"}
 
 # Budoucnost evropské kuchyně
 
