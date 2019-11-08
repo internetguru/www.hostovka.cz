@@ -31,6 +31,14 @@ n/a
 
 n/a
 
+{id="faq" class="hide"}
+
+## FAQ
+
+{class="hide"}
+
+n/a
+
  [1]: /files/preview/klima.jpg
  [2]: ?clanky=zivotopis#clanky-seznam
  [3]: https://www.steakgrill.cz
