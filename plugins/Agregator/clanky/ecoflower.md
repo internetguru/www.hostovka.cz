@@ -11,7 +11,7 @@ _Ecoflower {xml:lang="en"}_ by se dalo do češtiny přeložit jako „ekologick
 
 _Ecoflower {xml:lang="en"}_ je dobrovolný systém vytvořený v roce 1992 evropskou komisí. Slouží k usnadnění výroby, distribuce a spotřeby výrobků a služeb, které jsou „přátelské“ životnímu prostředí v porovnání a ostatními výrobky a službami.
 
-Podle odhadů expertů, do tohoto systému spadá v Evropě 30 % všech výrobků a služeb. Evropské označení _ecoflower {xml:lang="en"}_ je uznávané ve všech zemích EU, v Norsku, Luxemburku a na Islandu.
+Podle odhadů expertů, do tohoto systému spadá v Evropě 30 % všech výrobků a služeb. Evropské označení _ecoflower {xml:lang="en"}_ je uznávané ve všech zemích EU, v Norsku, Lucembursku a na Islandu.
 
 _Ecoflower {xml:lang="en"}_ je ušlechtilé hnutí podobné americkému hnutí za organické pěstování potravin. Bohužel se již našly organizace, které si z tohoto označení udělaly lukrativní byznys tím, že „udělují“ povolení toto logo používat.
 
