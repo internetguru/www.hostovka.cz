@@ -3,7 +3,7 @@
 
 {id="osh" ctime="2008-05-09" author="Michael Klíma" short="OSH" mtime="2019-11-07"}
 
-# OSH – organizace pro bezpečné a zdravé pracovní podmínky
+# Organizace pro bezpečné a zdravé pracovní podmínky OSH
 
 {kw="hygiena a sanitace, Evropa"}
 
