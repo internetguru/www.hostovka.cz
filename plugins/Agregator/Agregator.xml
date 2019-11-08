@@ -28,8 +28,8 @@
   </doclist>
   
   <doclist id="faq" path="faq">
-    <p var="question@var">n/a</p>
-    <p var="answer@var">n/a</p>
+    <p class="question" var="question@var">n/a</p>
+    <p class="answer" var="answer@var">n/a</p>
   </doclist>
   <doclist id="faq_steak" kw="steak" doclist="faq"/>
 
