@@ -75,7 +75,7 @@ T-bone steak má své jméno odvozené od kosti ve tvaru písmene T, která jím
 ![veal chop][2] 
 :   veal chop
 
-{var="inputvar-faq\_h" id="n\_a"}
+{var="inputvar-faq\_h" id="otazky\_a_odpovedi"}
 
 ## n/a
 
