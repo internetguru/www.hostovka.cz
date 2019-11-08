@@ -1,50 +1,35 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=91.html" data-image="/files/preview/clanky/jidelni_emporium/general.jpg" data-type="article"}
 
-{id="jidelni\_emporium" ctime="2005-11-02" author="Michael Klíma" short="Jídelní emporium" authorid="hostovka/michael\_klima"}
+{id="jidelni\_emporium" ctime="2005-11-02" author="Michael Klíma" short="Jídelní emporium" mtime="2019-11-07"}
 
-# Jídelní emporium
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+# Koncept jídelního emporia
 
 {kw="co-kdy-kde"}
 
-Jako studenti Hostovky se budete muset dříve nebo později umět orientovat ve všech těch možných typech restauračních provozů abyste věděli co vám v každé restauraci nebo v každém novém konceptu za vaše peníze patří.
+Jídelní emporium (anglicky _food floor {xml:lang="en"}_ nebo dokonce i _gourmet floor {xml:lang="en"}_) je seskupení několika restaurací, lépe řečeno jednotek rychlého občerstvení, s odlišným sortimentem jídel na jednom místě. Zpravidla se nachází v obchodním centru nebo supermarketu, ve kterém restaurace využívají jídelnu ve společném prostoru.
 
-Obávám se ale že všechny vám zde popsat nebudu moci, protože dříve než bych vám stačil některý nový koncept popsat, tak je již zastaralý a někdo přijde s něčím novým.
+{class="example"}
 
-Jídelní emporium není v České republice také už nic nového. Rychlost a obliba tak zvaného "fast food" jak se zdá je trend který se zřejmě nedá již zastavit. A proto tak jak bude ubývat výčepů, kaváren, denních vináren a jiných podniků ve kterých byli lidé zvyklí vysedávat hodiny a hodiny, bude těchto konceptů přibývat.
+Jídelní emporium není v České republice nic nového. Rychlost a obliba restaurací rychlého občerstvení je trend, který se již zřejmě nedá zastavit. A proto, tak jak bude ubývat výčepů, kaváren, denních vináren a jiných podniků, ve kterých byli lidé zvyklí vysedávat hodiny, bude těchto konceptů přibývat.
 
-Jídelní emporium, někde zvané "food floor" nebo dokonce i "gourmet floor" je seskupení několika restaurací, lépe řečeno jednotek rychlého občerstvení, s odlišným sortimentem jídel v jednom místě, zpravidla v obchodním centru nebo supermarketu, ve kterém všechny tyto restaurace využívají jednu jídelnu ve stejném prostoru.
+Koncept jídelního emporia má více výhod než nevýhod. Proto se dnes uplatňuje po celém světě. Mezi hlavní výhody paří:
 
-Tento koncept má více výhod než nevýhod a proto se dnes uplatňuje po celém světě. Mezi hlavní výhody lze počítat:
+ - maximální využití prostoru,
+ - společný prostor pro konzumaci, ať již ve stoje nebo u stolků,
+ - společná sociální zařízení,
+ - společný úklid,
+ - společné parkoviště,
+ - jednoduchá kontrola spotřeby surovin a materiálů,
+ - minimální administrativa, která nemusí být ve stejném prostoru,
+ - maximální produktivita a využití pracovních sil,
+ - minimální nároky na odbornost zaměstnanců.
 
-  * Maximální využití prostoru
-  * Společný prostor pro konzumaci ať již ve stoje nebo u stolků
-  * Společná sociální zařízení
-  * Společný úklid, odstraňování odpadků apod.
-  * Společné parkoviště
-  * Jednoduchá kontrola spotřeby surovin a materiálů
-  * Minimální administrativa která nemusí být ve stejném prostoru
-  * Maximální produktivita a využití pracovních sil
-  * Minimální nároky na odbornost zaměstnanců (zapracování je mnohdy otázkou jen několika hodin)
+Výhod je ale daleko více. Patří sem například i společné dodávky surovin a materiálu. Zejména když několik jednotek vlastní a kontroluje jeden majitel. Pro hosty má tento koncept výhodu v tom, že se v nabízeném sortimentu dokáží velice rychle orientovat. Také doba od výroby jídla do doby jeho konzumace je zkrácena na minimum.
 
-Nahrazení funkce vedoucího vedoucím pracovníkem který je plně zapojen do výrobního nebo prodejního procesu
+Nevýhody u tohoto konceptu v zásadě nejsou. Například skutečnost, že jednotky mají společnou provozní dobu, může být nevýhodou pro toho, kdo by chtěl mít prodejní dobu delší. To je ale jen věcí názoru.
 
-Výhod je ale daleko více, jako jsou například společné dodávky surovin a materiálu, zejména když několik jednotek vlastní a kontroluje jeden majitel dále pak:
+Největší výhodou z pohledu provozovatele je podle mě velmi jednoduchá likvidace jednotky, která nevykazuje předpokládané tržby a její nahrazení jednotkou jinou.
 
-  * Společný odborný trénink případně cross training zaměstnanců tak, aby mohli v případě potřeby pracovat v jednotkách s odlišným sortimentem.
-  * Společné sklady
-  * Společná administrativa
-  * Jednoduchá kontrola
-
-Pro hosty, nebo pro zákazníky má tento koncept výhodu, že se v nabízeném sortimentu dokáže velice rychle orientovat a že se zkracuje doba od výroby do doby konzumace na minimum a to také tím že je zde odbourán mezičlánek obsluhy.
-
-Nevýhody v zásadě u tohoto konceptu nejsou. Například skutečnost že jednotky mají společnou provozní dobu, může být nevýhodou pro toho kdo by chtěl mít prodejní dobu delší, ale to je jen věcí názoru.
-
-Největší výhodou, z pohledu provozovatele, o které ale nikdo nechce předem uvažovat, podle mně je velice jednoduchá likvidace jednotky která nevykazuje předpokládané tržby a její nahrazení jinou jednotkou případně jiným sortimentem.
-
-Nemusím Vám ale asi zdůrazňovat, že při tom jak to všechno jednoduše vypadá, to tak jednoduché není. Každá jednotka musí mít vypracovaný podrobný manuál ve kterém je přesně stanoven každý krok, každý detail pracovního postupu, čemuž se v Americe říká, že vše musí být "idiot proof" neboli že po krátkém zacvičení může každou tu práci vykonávat kde kdo. Vypracování takového manuálu vyžaduje nejenom odborné znalosti a čas, a věřte mi, že vím o čem mluvím, protože jsem na několika podobných konceptech spolupracoval.
-
-Kdysi jsem v nějakém odborném časopise zahlédl zmínku o tom, že by se měla znovu otevřít populární pražská KORUNA. Pražská Koruna a i jiné AUTOMATY, měly svoji dobu, ale snaha vracet se k těmto dnes již zastaralým způsobům pohostinství by byl krok zpět.
+Zas tak jednoduché to ale není. Každá jednotka musí mít vypracovaný podrobný manuál, ve kterém je přesně stanoven každý krok a každý detail pracovního postupu. Tomu se v Americe říká, že vše musí být _idiot proof {xml:lang="en"}_, neboli že po krátkém zacvičení může práci vykonávat kdekdo. Vypracování takového manuálu vyžaduje nejenom odborné znalosti a čas, ale i zkušenost.
 
