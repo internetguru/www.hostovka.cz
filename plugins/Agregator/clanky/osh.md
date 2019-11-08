@@ -1,19 +1,15 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=318.html" data-image="/files/preview/clanky/osh/general.jpg" data-type="article"}
 
-{id="osh" ctime="2008-05-09" author="Michael Klíma" short="OSH" authorid="hostovka/michael_klima"}
+{id="osh" ctime="2008-05-09" author="Michael Klíma" short="OSH" mtime="2019-11-07"}
 
-# OSH
+# OSH – organizace pro bezpečné a zdravé pracovní podmínky
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+{kw="hygiena a sanitace, Evropa"}
 
-{kw="hygiena a sanitace"}
+Zkratkou OSH je v Evropě označena organizace pro bezpečné a zdravé pracovní podmínky _(European Agency for Safety and Health at Work) {xml:lang="en"}_. Pozor ale na záměnu s americkou organizací OSHA _(Occupational Safety and Health Administration) {xml:lang="en"}_.
 
-Zkratkou OSH je v Evropě označena organizace pro bezpečné a zdravé pracovní podmínky (European Agency for Safety and Health at Work) která by neměla být zamněňována s amerikým OSHA (Occupational Safety and Health Administration).
+Evropská organizace OSH byla založena v roce 1996 v Bilbau ve Španělsku. Jejím posláním je zabezpečit v Evropě zdravější a produktivnější pracovní prostředí. O tom se snaží prostřednictvím shromažďováním znalostí a informací, které snižují riziko.
 
-Evropská organizace OSH byla založena v roce 1996 v Bilbao ve Španělsku.
-
-Jejím posláním je zhabezpečit v Evropě zdravější a produktivnější pracovní prostředí o což se snaží shromažďováním znalostí a informací které snižují riziko.
-
-Organizace OSH má ve všech státech EU štáb oddaných pracovníků specialistů v bezpečnosti a zdraví při zaměstnání, který se zaměřuje na kritické body v dané zemi ve které spolupracují s místní vládou a zaměstnanci samotnými.
+Organizace OSH má ve všech státech EU štáb oddaných pracovníků specialistů z oblasti bezpečnosti a zdraví při zaměstnání. Štáb se zaměřuje na kritické body v dané zemi, ve které spolupracují s místní vládou a zaměstnanci samotnými.
 
