@@ -27,13 +27,13 @@
     </dl>
   </doclist>
   
-  <doclist id="faq" path="faq">
-    <dl class="faq">
-      <dt>Otázka</dt>
-      <dd var="question@var">n/a</dd>
-      <dt>Odpověď</dt>
-      <dd>n/a</dd>
-    </dl>
+  <doclist id="faq" path="faq" wrapper="section">
+    <h var="id@id" id="q_%s">Otázka</h>
+    <desc>n/a</desc>
+    <p var="question@var">n/a</p>
+    <h var="id@id" id="a_%s">Odpověď</h>
+    <desc>n/a</desc>
+    <p var="answer@var">n/a</p>
   </doclist>
   <doclist id="faq_steak" kw="steak" doclist="faq"/>
 
