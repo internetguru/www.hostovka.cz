@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=271.html" data-image="/files/preview/clanky/fajity/general.jpg" data-type="article"}
 
-{id="fajitas" ctime="2008-01-13" author="Michael Klíma" short="Mexické fajitas" mtime="2019-11-07"}
+{id="fajitas" ctime="2008-01-13" author="Michael Klíma" short="Fajitas" mtime="2019-11-07"}
 
 # Mexické jídlo fajitas
 
@@ -23,9 +23,9 @@ Ve většině restaurací vám fajitas udělají dle přání, buď krvavou _(ra
 
 Příprava fajitas trvá jen několik minut, tudíž dříve, než stačíte dopít druhou margaritu, máte jídlo na stole. Fajitas se podává na ještě se škvařící litinové pánvi, na které se v kuchyni jídlo grilovalo. Dále dostanete teplé kukuřičné tortilly, které se podávají ve speciální misce s poklopem, nebo zabalené ve fólii, případně v košíčku zvaném _chicuhite {xml:lang="es"}_ .
 
-Mezi tím, co se na pruhy nakrájené maso a papričky ještě škvaří na pánvi, si na talíř z košíčku vyndáte tortillu. Z té si si připravili obal (anglicky _wrapper {xml:lang="en"}_). Tortilly opět přikryjte, aby nevystydly. Tortillu pomažete tenkou vrstvou guacamole, posypete čerstvě sekaným koriandrem a navrch dáte 2 nebo 3 proužky horké fachitas a několik kousků papriky a cibule.
+Mezi tím, co se na pruhy nakrájené maso a papričky ještě škvaří na pánvi, si na talíř z košíčku vyndáte tortillu. Z té jste si připravili obal (anglicky _wrapper {xml:lang="en"}_). Tortilly opět přikryjte, aby nevystydly. Tortillu pomažete tenkou vrstvou guacamole, posypete čerstvě sekaným koriandrem a navrch dáte 2 nebo 3 proužky horké fachitas a několik kousků papriky a cibule.
 
-Nakonec vše pokapejte salsou a případně tabaskem a tortillu sbalíte podobně jako burrito. Tortilla se pak jí rukou. Musíte ale dbát na to, aby byla spodní část tortilly byla dobře přehnutá, jinak by vám z ní vytekla všechna šťáva.
+Nakonec vše pokapejte salsou a případně tabaskem a tortillu sbalíte podobně jako burrito. Tortilla se pak jí rukou. Musíte ale dbát na to, aby spodní část tortilly byla dobře přehnutá, jinak by vám z ní vytekla šťáva.
 
 ## Původ fajitas
 
