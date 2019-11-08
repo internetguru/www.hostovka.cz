@@ -28,10 +28,10 @@
   </doclist>
   
   <doclist id="faq" path="faq">
-    <h var="id@id" id="q_%s">Otázka</h>
+    <h var="id@id">Otázka</h>
     <desc>n/a</desc>
 <!--     <p var="question@var">n/a</p> -->
-    <h var="id@id" id="a_%s">Odpověď</h>
+    <h var="id@id">Odpověď</h>
     <desc>n/a</desc>
 <!--     <p var="answer@var">n/a</p> -->
   </doclist>
