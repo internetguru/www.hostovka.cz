@@ -27,7 +27,7 @@
     </dl>
   </doclist>
   
-  <doclist id="faq" path="faq" wrapper="section">
+  <doclist id="faq" path="faq">
     <h var="id@id" id="q_%s">Otázka</h>
     <desc>n/a</desc>
 <!--     <p var="question@var">n/a</p> -->
