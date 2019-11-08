@@ -13,6 +13,8 @@ Jídelní emporium (anglicky _food floor {xml:lang="en"}_ nebo dokonce i _gourme
 
 Jídelní emporium není v České republice nic nového. Rychlost a obliba restaurací rychlého občerstvení je trend, který se již zřejmě nedá zastavit. A proto, tak jak bude ubývat výčepů, kaváren, denních vináren a jiných podniků, ve kterých byli lidé zvyklí vysedávat hodiny, bude těchto konceptů přibývat.
 
+## Výhody konceptu
+
 Koncept jídelního emporia má více výhod než nevýhod. Proto se dnes uplatňuje po celém světě. Mezi hlavní výhody paří:
 
  - maximální využití prostoru,
@@ -25,9 +27,11 @@ Koncept jídelního emporia má více výhod než nevýhod. Proto se dnes uplat�
  - maximální produktivita a využití pracovních sil,
  - minimální nároky na odbornost zaměstnanců.
 
-Výhod je ale daleko více. Patří sem například i společné dodávky surovin a materiálu. Zejména když několik jednotek vlastní a kontroluje jeden majitel. Pro hosty má tento koncept výhodu v tom, že se v nabízeném sortimentu dokáží velice rychle orientovat. Také doba od výroby jídla do doby jeho konzumace je zkrácena na minimum.
+Výhod je ale daleko více. Patří sem například i společné dodávky surovin a materiálu obecně. Zejména když několik jednotek vlastní a kontroluje jeden majitel. Pro hosty má tento koncept výhodu v tom, že se v nabízeném sortimentu dokáží velice rychle zorientovat. Také doba od výroby jídla do doby jeho konzumace je zkrácena na minimum.
 
 Nevýhody u tohoto konceptu v zásadě nejsou. Například skutečnost, že jednotky mají společnou provozní dobu, může být nevýhodou pro toho, kdo by chtěl mít prodejní dobu delší. To je ale jen věcí názoru.
+
+## Snadná výměna jednotky
 
 Největší výhodou z pohledu provozovatele je podle mě velmi jednoduchá likvidace jednotky, která nevykazuje předpokládané tržby a její nahrazení jednotkou jinou.
 
