@@ -1,27 +1,28 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=310.html" data-image="/files/preview/clanky/garde_manager/general.jpg" data-type="article"}
 
-{id="garde\_manager" ctime="2008-04-27" author="Michael Klíma" short="Garde Manager" authorid="hostovka/michael\_klima"}
+{id="garde\_manger" ctime="2008-04-27" author="Michael Klíma" short="Garde manger" mtime="2019-11-07"}
 
-# Garde Manager
+# Historie titulu garde manger
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+{kw="gastronomie, Francie, Amerika"}
 
-{kw="gastronomie"}
+Tento výraz byl používán již v předrevoluční Francii. Stejně jako dnes, bylo vlastnictví potravin znakem moci, bohatství a prestiže. Bohaté šlechtické domy měly navíc člověka, který se staral o potraviny a jejich uskladnění neboli je „hlídal“ – od toho ten název.
 
-Garde je francouzký výraz který znamená hlídat, a manger jsou jídla nebo potraiviny.
+_Garde {xml:lang="fr"}_ je francouzský výraz, který znamená hlídat, a _manger {xml:lang="fr"}_ jsou jídla nebo potraviny.
 
-Tento výraz byl používán již v před-reovluční Francii. Tehdy, stejně jako dnes, vlastnictví potravin bylo znakem moci, bohatství a prestiže. Bohaté šlechtické domy měly jakéhosi skladníka-hospodáře, který byl se o potraviny a jejich uskladnění staral, neboli je "hlídal" a od toho ten název.
+Toto postavení bylo velmi důležité, protože _garde manger {xml:lang="fr"}_ se navíc staral o bourání masa, vykosťování, nakládání, marinování, solení, pajcování, uzení a v neposlední řadě i o uskladnění. Sklady potravin se nacházely většinou ve sklepních či chladnějších prostorách takových domů či zámků.
 
-Toto postavení bylo velice důležté protože garde manger ne jenom že potraviny hlídal, ale musel se starat o bourání masa, VYKOSŤOVÁNÍ, nakládání, marinování, solení, pajcování, eventuálně jeho uzení a v neposlední řadě jeho uskladnění. Sklady tehdy byly většinou ve sklepních či chladnějších prostorách takových domů či zámků.
+O nákladech na mzdy se toho dříve ještě moc nevědělo a produktivita práce se také moc nesledovala. Nicméně se již vědělo, jak dané prostředky dobře využít. Proto byli _garde mangers {xml:lang="fr"}_ pověřeni i přípravou jídel studené kuchyně.
 
-O tak zvaném labor cost, , neboli nákladech na mzdy se toho moc nevědělo, a ani produktivita práce, nebyla nijak sledováná, nicméně se již vědělo jak dané podmínky využít a tak tito "garde mangers" byli pvěření i přípravou jídel studené kuchyně.
+V chladných prostorách se (mimo jiných výrobků studené kuchyně) připravovaly takzvané středy stolů (anglicky _center pieces {xml:lang="en"}_), což byla přímo umělecká díla. _Garde manger {xml:lang="fr"}_ byl velice respektovaný titul. Jedním z nejslavnějších byl [Marie-Antoine Carême][1].
 
-V těchto prostorách se mimo jiných výrobků studené kuchyně připravovaly tehdy tak modní "center pieces", což byla přímo umělecká díla a garde manger byl velice respektovaný titul. Nejslavnějším garde mangerem byl Carême, Antoine.
+Dnes titul _garde manger {xml:lang="fr"}_ upadá do zapomenutí. V Americe byl tento titul nahrazen výrazem _pantry man {xml:lang="en"}_, nebo _pantry woman {xml:lang="en"}_. V Česku se používá titul kuchař studené kuchyně.
 
-Dnes titul garde manger upadá již v zapomenutí. V Americe byl tento titul nahrazen výrazem pantry man, nebo pantry woman, , které se v Česku říká salátka, ale muži nejsou označováni jako saláti, ale jako kuchaři studené kuchyně jako byl například autor velice populární knihy Studená Kuchyně, Vilém Brabec.
+Do _garde mangers {xml:lang="fr"}_ také patří tesaři z ledu, másla, sýru či loje a dnes i profesionálové v uměleckém vyřezáváni zeleniny či ovoce, jako ja náš mistr světa Luděk Procházka.
 
-Mezi garde manger se ale také řadí carvři, neboli tesaři z ledu, másla, sýra či loje a dnes i profesionálové v uměleckém vyřezáváni zeleniny či ovoce jako ja náš mistr světa Luděk Procházka.
+V Americe také vznikl obor zvaný [food styling][2], do kterého se řadí specialisté, kteří se zabývají estetickou či uměleckou úpravou jídel, tabulí a bufetů.
 
-V Americe ale také vznikl obor zvaný Food Stalist, , což nejsou vlastně ani kuchaři, ale specialisté kteří se zabývaji estetickou či uměleckou úpravou jídel, tabulí či bufetů.
+ [1]: /careme
+ [2]: /food_styling
 
