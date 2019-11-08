@@ -4,6 +4,9 @@
 <!--   <var id="service_html"><a href="http://www.rostouciweby.cz">Rostoucí weby</a></var> -->
   <var id="odkazy_h">Související články</var>
   <var id="odkazy_desc">Článek ve svém textu odkazuje následující zdroje (v uvedeném pořadí). Zdroje danou problematiku rozvádějí či zmiňují v dalších souvislostech.</var>
+
+  <var id="faq_h">Příbuzné otázky a odpovědi</var>
+  <var id="faq_desc">Seznam otázek a odpovědí příbuzný s danými tématy článku.</var>
   
   <fn id="createlink" fn="pregreplace" pattern=".+" replacement="https://www.hostovka.cz/$0?usp=sharing" />
   <fn id="createfblink" fn="pregreplace" pattern=".+" replacement="https://www.facebook.com/sharer/sharer.php?u=https://www.hostovka.cz/$0" />
