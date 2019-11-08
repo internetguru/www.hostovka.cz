@@ -7,14 +7,13 @@
 
 {kw="zbožíznalství"}
 
-Physalis je jedno z mála ovocí, ze kterého se používá celá rostlina – plody, listy, a kořeny. Physalis se dnes velmi často objevuje na českých trzích. Přesto se ale obávám, že jen málo lidí ví, co to vlastně je a jak physalis jíst nebo podávat.
+Physalis (česky mochyně) je jedno z mála ovocí, ze kterého se používá celá rostlina – plody, listy, a kořeny. Physalis se dnes velmi často objevuje na českých trzích. Přesto se ale obávám, že jen málo lidí ví, co to vlastně je a jak physalis jíst nebo podávat.
 
 {class="example"}
 
 V angličtině se na trzích objevuje jako: _mullaca, camapu, bolsa mullaca, cape gooseberry, wild tomato, winter cherry, juá-de-capote, capulí cimarrón, battre-autour, k'u chih, 'urmoa batoto bita, cecendet, dumadu harachan, hog weed, nvovo, polopa, saca-buche, thongtheng, tino-tino, topatop, wapotok {xml:lang="en"}_
 
-
-Physalis si také dlouho držel místo v přírodní medicíně v tropických zemích, ve kterých roste. Domorodí indiáni používají odvar z listů při zažívacích potížích.
+Physalis si dlouho držel místo v přírodní medicíně v tropických zemích, ve kterých roste. Domorodí indiáni používají odvar z listů při zažívacích potížích.
 
 Plod o velikosti hroznového vína se skrývá za suchou slupkou. Je lesklý a trochu lepkavý s velice příjemnou vůní, takže nakonec neodoláte a ochutnáte ho. Slupka slouží k tomu, abychom ji mohli uchopit mezi prsty a pohodlněji plod jíst.
 
