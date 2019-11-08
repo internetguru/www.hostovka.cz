@@ -30,9 +30,9 @@
   <doclist id="faq" path="faq">
     <dl class="faq">
       <dt>Otázka</dt>
-      <dd var="data-question@var">n/a</dd>
+      <dd var="question@var">n/a</dd>
       <dt>Odpověď</dt>
-      <dd var="data-answer@var">n/a</dd>
+      <dd var="answer@var">n/a</dd>
     </dl>
   </doclist>
 
