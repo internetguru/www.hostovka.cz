@@ -5,15 +5,13 @@
 
 # Co je to steak
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-08-25, do not edit -->
-
 {kw="jídla a jídelní lístky, steak, telecí, hovězí"}
 
 Steak je nejvíce zneužívaný výraz v gastronomii. Steak může být i řez ryby, kuřete nebo jiné potraviny. Většinou se tím ale rozumí řez masa a není-li specifikováno jinak, tak hovězího.
 
 Hostovka není školou vaření, a proto jsem nepovažoval za nutné se zmiňovat o všech masech, ze kterých se steaky dají připravit. To hlavně proto, že technika přípravy je u všech druhů masa téměř stejná. Teď ale vidím že jsem něco zanedbal.
 
-{id="zkreslen\_povdom\_o_steacch"}
+{id="zkreslene\_povedomi\_o_steacich"}
 
 ## Zkreslené povědomí o steacích
 
@@ -43,7 +41,7 @@ Výraz _anglický_ se vztahoval k vnitřní teplotě takového steaku, která m�
 
 I když byly bifteky v Česku připravovány z pravé svíčkové, tak ve skutečnosti nikdy moc hezky nevypadaly. Proto se nepravidelný steak zabalil do utěrky, ve které se zformoval na docela úhledný kulatý a vysoký biftek. Vejce pak zakrývalo nepravidelnosti a také ho vizuálně zvětšovalo a přidávalo mu kalorickou hodnotu.
 
-{id="steaky\_z\_telecho_masa"}
+{id="steaky\_z\_teleciho_masa"}
 
 ## Steaky z telecího masa
 
@@ -76,6 +74,18 @@ T-bone steak má své jméno odvozené od kosti ve tvaru písmene T, která jím
 
 ![veal chop][2] 
 :   veal chop
+
+{var="inputvar-faq\_h" id="n\_a"}
+
+## n/a
+
+{var="inputvar-faq_desc"}
+
+n/a
+
+{var="doclist-faq_steak"}
+
+Seznam příbuzných dotazů není k dispozici
 
  [1]: http://2017.hostovka.cz/soubor/27-09-06-5.JPG
  [2]: http://2017.hostovka.cz/soubor/27-09-06-6.JPG
