@@ -872,3 +872,7 @@ p:after {
   margin-right: 0.55em;
 }
 /***************************/
+.hide {
+  display: none !important;
+}
+/***************************/
