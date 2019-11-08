@@ -35,6 +35,7 @@
       <dd var="answer@var">n/a</dd>
     </dl>
   </doclist>
+  <doclist id="faq_steak" kw="steak" doclist="faq"/>
 
 <!-- [doclist] generated content, do not edit -->
   <doclist id="zivotopis" kw="životopis" for="stitek" />
