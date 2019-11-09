@@ -9,11 +9,15 @@
 
 Koláčky štěstí (anglicky _fortune cookies {xml:lang="en"}_) jsou křehké, duté pečivo vyrobené z mouky, cukru, másla, mléka a vanilky. Jsou v nich zapečené malé papírky s „čínskými moudrostmi“, předpověďmi a někdy i se šťastnými čísly.
 
+{id="puvod_kolacku"}
+
 ## Původ koláčků
 
 V některých západních zemích, hlavně v Americe, koláčky štěstí rozdávají v čínských restauracích při odchodu jako pozornost podniku. V Číně ani jinde v Asii se s nimi ale nesetkáte. Byly údajně vynalezeny v San Francisku nebo v Los Angeles. Věrohodné důkazy ale neexistují.
 
 Anglické slovo _fortune {xml:lang="en"}_ znamená osud, náhoda, štěstí, zdar, bohatství, ale já na takové nesmysly nevěřím. Do čínských restaurací chodím často, a tak jsem koláčků otevřel tisíce. Žádná šťastná předpověď se mi ale nesplnila, ba naopak mě koláčky štěstí málem přivedly do neštěstí.
+
+{id="moje\_trable\_s\_kolacky\_stesti"}
 
 ## Moje trable s koláčky štěstí
 
@@ -37,3 +41,4 @@ No, jak vidíte, tak mi byly koláčky štěstí málem osudné. Pokaždé, kdy�
 
  [1]: /gastronomove#gurman
  [2]: http://www.totalita.cz/vysvetlivky/ptp.php
+
