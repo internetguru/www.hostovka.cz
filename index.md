@@ -10,12 +10,12 @@ Snahou Hostovky je zvýšit uvědomění našich hostů v tom, co jim patří a 
 {class="figure mike"}
 
 ![Michael Dobromil Klíma][1] {class="img"}
-:   **Michael Dobromil Klíma [životopis {title="zobrazit články o životě MDK" class="tag definition-skip"}][2]**
-:   ***** 23. 6. 1928 až **†** 15. 10. 2011
+:   **Michael Dobromil Klíma [životopis {title="zobrazit články o životě MDK" class="tag definition-skip"}][2]** 
+:   * 23. 6. 1928 až **†** 15. 10. 2011
 :   Zakladatel konceptu [STEAKGRILL®][3], autor článků na Hostovce. Od poloviny roku 2018 vzniká tento web jako modernizace a revize [původního webu Hostovky][4].
 
-<q>Brzy do postele, brzy vstát, propagovat se a tvrdě pracovat!</q>
-:   Životní krédo Mikea z originálního <q xml:lang="en">Early to bed, early to rise, work like hell and advertise!</q>.
+<q>Brzy do postele, brzy vstát, propagovat se a tvrdě pracovat!</q> 
+:   Životní krédo Mikea z originálního <q xml:lang="en">Early to bed, early to rise, work like hell and advertise!</q> . 
 
 {id="clanky" short="Články" class="filter"}
 
