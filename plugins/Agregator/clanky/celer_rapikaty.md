@@ -9,7 +9,7 @@
 
 {kw="zbožíznalství, recept, zelenina"}
 
-Řapíkatý celer _(Apium graveolens dulce)_ anglicky zvaný _celery_, byl v Evropě až do 16 století, znám pouze jako lékařská rostlina. V Česku byl řapíkatý celer znám až od Sametové revoluce.
+Řapíkatý celer _(Apium graveolens dulce)_ anglicky zvaný _celery_, byl v Evropě až do 16. století znám pouze jako lékařská rostlina. V Česku je řapíkatý celer znám až od Sametové revoluce.
 
 {class="example"}
 
@@ -21,7 +21,7 @@ O existenci řapíkového celeru dodnes nevědí ani někteří překladatelé c
 
 ## Jak celer vybrat a uchovat
 
-Nejznámějším druhem je bledě zelená odrůda zvaná _pascal_. Druhá, méně známá odrůda _golden celery_, se v používá jen zřídka. Její zlatá barva se získává pěstováním bez přístupu světla, aby se zabránilo růstu chlorofylu. Proto je také podstatně dražší.
+Nejznámějším druhem je bledě zelená odrůda zvaná _pascal_. Druhá, méně známá odrůda _golden celery_ se v používá jen zřídka. Její zlatá barva se získává pěstováním bez přístupu světla, aby se zabránilo růstu chlorofylu. Proto je také podstatně dražší.
 
 Řapíkatý celer se skládá z řapíků neboli žeber (anglicky _ribs_). Ty mohou u vzrostlého celeru dosahovat délky až 40 cm. Ve středu je takzvané srdíčko (anglicky _celery heart_). Srdíčko je křehčí a používá se k ozdobě jídel a nápojů.
 
@@ -31,7 +31,7 @@ Zelené listy, kterými jsou řapíky zakončeny, můžeme použít do vývaru a
 
 Řapíky celeru nemají téměř žádný odpad, a proto jsou v kuchyni tak oblíbené. Očištěné řapíky celeru (anglicky _celery sticks_) se podávají ke [crudités][1], používají se jako jedlá míchátka nápojů apod.
 
-Před další úpravou se řapíky většinou krájí na malé, stejnoměrně velké, úhledné kousky. Oblíbená forma jsou kousky krájené nakoso (anglicky _on bias_). Kousky celeru se pak přidávají do salátů, nebo se dusí jako přílohová zelenina.
+Před další úpravou se řapíky většinou krájí na malé stejnoměrné úhledné kousky. Oblíbená forma jsou kousky krájené nakoso (anglicky _on bias_). Kousky celeru se pak přidávají do salátů nebo se dusí jako přílohová zelenina.
 
 {id="duseny_celer"}
 
@@ -41,7 +41,7 @@ I když se celeru říká dušený (anglicky _braised celery_), tak ho nemusíme
 
   1. V kastrole se silným dnem rozpustíme máslo nebo margarin,
   2. přidáme kousky celeru,
-  3. dříve, než celer začne pouštět šťávu ho zaprášíme moukou,
+  3. dříve než celer začne pouštět šťávu ho zaprášíme moukou,
   4. celer rychle zamícháme, aby se všechny kousky obalily moukou,
   5. zalijeme ho horkým vývarem tak, aby byl celer sotva ponořen,
   6. vaříme nejvýše 10 až 15 minut,
@@ -51,7 +51,7 @@ I když se celeru říká dušený (anglicky _braised celery_), tak ho nemusíme
 
 Takto připravený celer má výhodu, že si dlouho udrží svoji teplotu, a že na bufetovém nebo výdejním pultě vydrží 2 až 3 hodiny, bez ztráty na barvě a na křehkosti.
 
-Řapíky mladého celeru můžeme uvařit v celku a podávat je s [vinegretem][2] jako předkrm, nebo s přepuštěným máslem jako přílohovou zeleninu.
+Řapíky mladého celeru můžeme vařit vcelku a podávat je s [vinegretem][2] jako předkrm, nebo s přepuštěným máslem jako přílohovou zeleninu.
 
 {id="dalsi\_zpusoby\_podavani"}
 
@@ -66,7 +66,7 @@ Při podávání řapíků v celku je musíme oškrábat, lépe řečeno zbavit 
   3. smícháme ho s horkým [velouté][4] a
   4. podle potřeby rozředíme drůbežím vývarem.
 
-Máme polévku, které můžete říkat _potage Alexandrina_, nebo _potage au céleri_. Ve slově _céleri_ nesmíte zapomenout na dlouhé „é“, které polévku pofrancouzšťuje. Tím pádem za ni můžete počítat jednou tolik, než kdybychom ji říkali pouze celerová polévka.
+Máme polévku, které můžete říkat _potage Alexandrina_, nebo _potage au céleri_. Ve slově _céleri_ nesmíte zapomenout na dlouhé „é“, které polévku pofrancouzšťuje. Tím pádem za ni můžete počítat dvakrát tolik, než kdybychom ji říkali pouze celerová polévka.
 
 {class="example"}
 
