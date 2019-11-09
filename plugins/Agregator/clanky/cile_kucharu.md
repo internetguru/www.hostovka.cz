@@ -11,7 +11,7 @@ Cílem dnešního kuchařského umění je odborně, hygienicky a ekonomicky spr
 
 {class="important"}
 
-Mám veliký respekt před uměním, obzvláště takovým, které vyjadřuje talent, nadání a tvrdou práci. Mám ale mnohdy dilema při hodnocení kuchařiny jako umění. I když se o tom v mé definici kuchařského umění nezmiňuji, tak si myslím, že kuchařina je více dřina než umění.
+Mám veliký respekt před uměním, obzvláště před takovým, které vyjadřuje talent, nadání a tvrdou práci. Mám ale mnohdy dilema při hodnocení kuchařiny jako umění. I když se o tom v mé definici kuchařského umění nezmiňuji, tak si myslím, že kuchařina je více dřina než umění.
 
 Při hodnocení kuchařiny jako umění mi totiž nejvíce vadí, že oproti hudbě, malířství, sochařině a podobným uměním, výtvory kuchařů umělců nemají trvalou hodnotu. Příkladem je jídlo samotné, které mnohdy po několikahodinové dřině kuchaře zmizí v žaludcích jeho obdivovatelů během několika minut.
 
@@ -19,7 +19,7 @@ Příkladem může být [Carême][1], který je považován za zakladatele uměn
 
 Oproti jiným uměním, v kuchařině většina lidí nerespektuje autorské právo. Je pravda, že doba mnohdy vyžaduje změnit recept, případně jeho přípravu a přizpůsobit ho novým moderním technikám a případně i zařízení. Autentičnost daného receptu by ale měla být, pokud možno zachována.
 
-Bohužel musím říci, že nejhorší zkušenost s malým respektem pro zachování autentičnosti receptů a použitých technik mám v České republice. V Česku, až na výjimky, se jakýkoliv recept okamžitě „vylepší“ a předělá. To proto, abychom demonstrovali, jací jsme dobří kuchaři. Při čtení některých těchto „vylepšených“ receptů mi stávají vlasy hrůzou na hlavě.
+Bohužel musím říci, že nejhorší zkušenost s malým respektem pro zachování autentičnosti receptů a použitých technik mám v České republice. V Česku se, až na výjimky, jakýkoliv recept okamžitě „vylepší“ a předělá. To proto, abychom demonstrovali, jací jsme dobří kuchaři. Při čtení některých těchto „vylepšených“ receptů mi hrůzou stávají vlasy na hlavě.
 
  [1]: /careme
 
