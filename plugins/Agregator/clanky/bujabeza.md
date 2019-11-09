@@ -59,7 +59,7 @@ Příprava bujabézy je jednoduchá a ve skutečnosti nepotřebujete ani recept.
   2. Přidáme mušle, krevetky nebo krabí klepítka a vaříme dalších 4 až 5 minut.
   3. Ryby vyndáme na teplou mísu, vývar přecedíme přes husté síto, případně vyčistíme bílkem, ochutíme a nalijeme do vyhřáté teriny.
 
-Rouille, nazývaný v češtině jako „růj“, je přídavek, chcete-li dochucovací prostředek několika rybích polévek, který u bujabézy nesmí chybět. Růj obsahuje
+Rouille, nazývaný v češtině jako „růj“, je přídavek, chcete-li dochucovací prostředek několika rybích polévek, který u bujabézy nesmí chybět. Růj obsahuje:
 
   * vývar,
   * strouhanku, která bujabézu trochu zahustí,
