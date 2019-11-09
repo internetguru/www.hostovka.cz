@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=147.html" data-image="/files/preview/clanky/buzzword/general.jpg" data-type="article"}
 
-{id="modni_pojmy" ctime="2006-04-16" mtime="2018-12-07" short="Módní pojmy" author="Michael Klíma"}
+{ctime="2006-04-16" mtime="2018-12-07" id="modni_pojmy" short="Módní pojmy" author="Michael Klíma"}
 
 # Upoutání pozornosti módními pojmy
 

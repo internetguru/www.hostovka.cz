@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=562.html" data-image="/files/preview/clanky/francouzska\_cibulova\_polevka/general.jpg" data-type="article"}
 
-{id="francouzska\_cibulova\_polevka" ctime="2011-07-19" author="Michael Klíma" short="Francouzská cibulová polévka" authorid="hostovka/michael_klima"}
+{ctime="2011-07-19" mtime="2011-07-19" id="francouzska\_cibulova\_polevka" author="Michael Klíma" short="Francouzská cibulová polévka" authorid="hostovka/michael_klima"}
 
 # Francouzská cibulová polévka
 

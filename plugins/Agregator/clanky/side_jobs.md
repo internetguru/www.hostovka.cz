@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=401.html" data-image="/files/preview/clanky/side_jobs/general.jpg" data-type="article"}
 
-{id="side\_jobs" ctime="2009-04-17" author="Michael Klíma" short="Side Jobs" authorid="hostovka/michael\_klima"}
+{ctime="2009-04-17" mtime="2009-04-17" id="side\_jobs" author="Michael Klíma" short="Side Jobs" authorid="hostovka/michael\_klima"}
 
 # Side Jobs
 

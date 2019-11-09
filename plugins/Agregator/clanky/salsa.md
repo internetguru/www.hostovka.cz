@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=308.html" data-image="/files/preview/clanky/salsa/general.jpg" data-type="article"}
 
-{id="salsa" ctime="2008-04-24" author="Michael Klíma" short="Salsa" authorid="hostovka/michael_klima"}
+{ctime="2008-04-24" mtime="2008-04-24" id="salsa" author="Michael Klíma" short="Salsa" authorid="hostovka/michael_klima"}
 
 # Salsa
 

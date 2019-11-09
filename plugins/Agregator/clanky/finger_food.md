@@ -1,11 +1,9 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=172.html" data-image="/files/preview/clanky/finger_food/general.jpg" data-type="article"}
 
-{id="sendvice" ctime="2006-09-07" author="Michael Klíma" short="Sendviče" mtime="2019-08-20"}
+{ctime="2006-09-07" mtime="2019-08-20" id="sendvice" author="Michael Klíma" short="Sendviče"}
 
 # Původ a typy sendvičů
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-08-25, do not edit -->
 
 {kw="jídla a jídelní lístky, sendvič, Amerika, Francie, České republika, chlebíčky, recept"}
 

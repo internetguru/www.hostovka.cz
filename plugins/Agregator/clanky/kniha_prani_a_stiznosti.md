@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=257.html" data-image="/files/preview/clanky/kniha\_prani\_a_stiznosti/general.jpg" data-type="article"}
 
-{id="kniha\_prani\_a\_stiznosti" ctime="2007-10-27" author="Michael Klíma" short="Přání a stížnosti" authorid="hostovka/michael\_klima"}
+{ctime="2007-10-27" mtime="2007-10-27" id="kniha\_prani\_a\_stiznosti" author="Michael Klíma" short="Přání a stížnosti" authorid="hostovka/michael\_klima"}
 
 # Přání a stížnosti
 

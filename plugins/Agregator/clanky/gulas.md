@@ -1,11 +1,9 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=290.html" data-image="/files/preview/clanky/gulas/general.jpg" data-type="article"}
 
-{id="gulas" ctime="2008-03-01" author="Michael Klíma" short="Guláš" mtime="2019-08-12"}
+{ctime="2008-03-01" mtime="2019-08-12" id="gulas" author="Michael Klíma" short="Guláš"}
 
 # Pravý původ guláše
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-08-25, do not edit -->
 
 {kw="jídla a jídelní lístky, guláš, Maďarsko"}
 

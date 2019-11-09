@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=142.html" data-image="/files/preview/clanky/steaky/general.jpg" data-type="article"}
 
-{id="steaky" ctime="2006-03-16" author="Michael Klíma" short="Steaky" authorid="hostovka/michael_klima"}
+{ctime="2006-03-16" mtime="2006-03-16" id="steaky" author="Michael Klíma" short="Steaky" authorid="hostovka/michael_klima"}
 
 # Steaky
 

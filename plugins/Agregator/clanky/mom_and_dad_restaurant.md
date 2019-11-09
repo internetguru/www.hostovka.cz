@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=253.html" data-image="/files/preview/clanky/mom\_and\_dad_restaurant/general.jpg" data-type="article"}
 
-{id="mom\_and\_dad\_restaurant" ctime="2007-09-28" author="Michael Klíma" short="Mom and Dad Restaurant" authorid="hostovka/michael\_klima"}
+{ctime="2006-11-26" mtime="2007-09-28" id="mom\_and\_dad\_restaurant" author="Michael Klíma" short="Mom and Dad Restaurant" authorid="hostovka/michael\_klima"}
 
 # Mom and Dad Restaurant
 

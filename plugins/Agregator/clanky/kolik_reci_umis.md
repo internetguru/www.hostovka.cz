@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=194.html" data-image="/files/preview/clanky/kolik\_reci\_umis/general.jpg" data-type="article"}
 
-{id="kolik\_reci\_umis" ctime="2006-12-03" author="Michael Klíma" short="Kolik řečí umíš" authorid="hostovka/michael_klima"}
+{ctime="2006-12-03" mtime="2006-12-03" id="kolik\_reci\_umis" author="Michael Klíma" short="Kolik řečí umíš" authorid="hostovka/michael_klima"}
 
 # Kolik řečí umíš
 

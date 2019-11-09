@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=222.html" data-image="/files/preview/clanky/cruises/general.jpg" data-type="article"}
 
-{id="cruises" ctime="2007-03-29" author="Michael Klíma" short="Cruises" authorid="hostovka/michael_klima"}
+{ctime="2007-03-29" mtime="2007-03-29" id="cruises" author="Michael Klíma" short="Cruises" authorid="hostovka/michael_klima"}
 
 # Cruises
 

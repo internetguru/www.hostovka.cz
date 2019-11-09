@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=462.html" data-image="/files/preview/clanky/who\_cares\_about\_the\_czech_specials/general.jpg" data-type="article"}
 
-{id="who\_cares\_about\_the\_czech\_specials" ctime="2009-11-16" author="Michael Klíma" short="Czech Specials" authorid="hostovka/michael\_klima"}
+{ctime="2009-11-16" mtime="2009-11-16" id="who\_cares\_about\_the\_czech\_specials" author="Michael Klíma" short="Czech Specials" authorid="hostovka/michael\_klima"}
 
 # Who Cares About the Czech Specials
 

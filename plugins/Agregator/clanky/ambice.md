@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=306.html" data-image="/files/preview/clanky/ambice/general.jpg" data-type="article"}
 
-{id="ambice" ctime="2008-04-05" author="Michael Klíma" short="Ambice" authorid="hostovka/michael_klima"}
+{ctime="2008-04-05" mtime="2008-04-05" id="ambice" author="Michael Klíma" short="Ambice" authorid="hostovka/michael_klima"}
 
 # Ambice
 

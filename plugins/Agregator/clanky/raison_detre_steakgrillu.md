@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=266.html" data-image="/files/preview/clanky/raison\_detre\_steakgrillu/general.jpg" data-type="article"}
 
-{id="raison\_detre\_steakgrillu" ctime="2008-01-02" author="Michael Klíma" short="Raison d´etre Steakgrillu" authorid="hostovka/michael_klima"}
+{ctime="2008-01-02" mtime="2008-01-02" id="raison\_detre\_steakgrillu" author="Michael Klíma" short="Raison d´etre Steakgrillu" authorid="hostovka/michael_klima"}
 
 # Raison d´etre Steakgrillu
 

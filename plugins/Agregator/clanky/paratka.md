@@ -1,11 +1,9 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=41.html" data-image="/files/preview/clanky/paratka/general.jpg" data-type="article"}
 
-{id="paratka" ctime="2005-07-20" author="Michael Klíma" short="Párátka" mtime="2019-08-13"}
+{ctime="2005-07-20" mtime="2019-08-13" id="paratka" author="Michael Klíma" short="Párátka"}
 
 # Párátka na hraně etikety
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-08-25, do not edit -->
 
 {kw="etika, párátko"}
 

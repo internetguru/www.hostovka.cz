@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=419.html" data-image="/files/preview/clanky/franchising/general.jpg" data-type="article"}
 
-{id="franchising" ctime="2009-04-24" author="Michael Klíma" short="Franchising" authorid="hostovka/michael_klima"}
+{ctime="2009-04-24" mtime="2009-04-24" id="franchising" author="Michael Klíma" short="Franchising" authorid="hostovka/michael_klima"}
 
 # Franchising
 

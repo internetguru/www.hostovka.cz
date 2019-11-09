@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=81.html" data-image="/files/preview/clanky/zarizeni\_ke\_grilovani\_ci\_broilovani/general.jpg" data-type="article"}
 
-{id="zarizeni\_ke\_grilovani\_ci\_broilovani" ctime="2005-10-25" author="Michael Klíma" short="Zařízení ke grilování či broilování" authorid="hostovka/michael_klima"}
+{ctime="2005-10-25" mtime="2005-10-25" id="zarizeni\_ke\_grilovani\_ci\_broilovani" author="Michael Klíma" short="Zařízení ke grilování či broilování" authorid="hostovka/michael_klima"}
 
 # Zařízení ke grilování či broilování
 

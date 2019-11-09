@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=325.html" data-image="/files/preview/clanky/mystery_shopping/general.jpg" data-type="article"}
 
-{id="mystery\_shopping" ctime="2008-05-18" author="Michael Klíma" short="Mystery Shopping" authorid="hostovka/michael\_klima"}
+{ctime="2008-05-18" mtime="2008-05-18" id="mystery\_shopping" author="Michael Klíma" short="Mystery Shopping" authorid="hostovka/michael\_klima"}
 
 # Mystery Shopping
 

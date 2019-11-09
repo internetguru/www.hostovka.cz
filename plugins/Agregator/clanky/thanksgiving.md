@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=262.html" data-image="/files/preview/clanky/thanksgiving/general.jpg" data-type="article"}
 
-{id="thanksgiving" ctime="2007-12-13" author="Michael Klíma" short="Thanksgiving" authorid="hostovka/michael_klima"}
+{ctime="2007-12-13" mtime="2007-12-13" id="thanksgiving" author="Michael Klíma" short="Thanksgiving" authorid="hostovka/michael_klima"}
 
 # Thanksgiving
 

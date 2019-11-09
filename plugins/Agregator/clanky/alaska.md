@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=25.html" data-image="/files/preview/clanky/alaska/general.jpg" data-type="article"}
 
-{id="alaska" ctime="2005-06-26" author="Michael Klíma" mtime="2019-03-28"}
+{ctime="2005-06-26" mtime="2019-03-28" id="alaska" author="Michael Klíma"}
 
 # Omeleta s překvapením
 

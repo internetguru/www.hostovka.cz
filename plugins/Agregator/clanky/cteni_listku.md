@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=120.html" data-image="/files/preview/clanky/cteni_listku/general.jpg" data-type="article"}
 
-{id="cteni_listku" ctime="2005-11-28" mtime="2018-12-17" author="Michael Klíma" short="Čtení lístku"}
+{ctime="2005-11-28" mtime="2018-12-17" id="cteni_listku" author="Michael Klíma" short="Čtení lístku"}
 
 # Jak číst jídelní lístky
 

@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=261.html" data-image="/files/preview/clanky/psychologie/general.jpg" data-type="article"}
 
-{id="psychologie" ctime="2007-12-06" author="Michael Klíma" short="Psychologie" authorid="hostovka/michael_klima"}
+{ctime="2007-12-06" mtime="2007-12-06" id="psychologie" author="Michael Klíma" short="Psychologie" authorid="hostovka/michael_klima"}
 
 # Psychologie
 

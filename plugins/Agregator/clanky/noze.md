@@ -1,11 +1,9 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=275.html" data-image="/files/preview/clanky/noze/general.jpg" data-type="article"}
 
-{id="noze" ctime="2008-01-27" author="Michael Klíma" short="Nože" mtime="2019-08-13"}
+{ctime="2008-01-27" mtime="2019-08-13" id="noze" author="Michael Klíma" short="Nože"}
 
 # Vše o nožích
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-08-25, do not edit -->
 
 {kw="stroje a náčiní, nože, výroba nožů, broušení, ostření, ocílka"}
 

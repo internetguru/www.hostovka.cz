@@ -1,11 +1,9 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=156.html" data-image="/files/preview/clanky/speciality/general.jpg" data-type="article"}
 
-{id="speciality" ctime="2006-06-26" author="Michael Klíma" short="Speciality" mtime="2019-05-27"}
+{ctime="2006-06-26" mtime="2019-05-27" id="speciality" author="Michael Klíma" short="Speciality"}
 
 # Speciality podniku
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-08-25, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -99,10 +97,18 @@ Příkladem takového jídla může být plněné telecí hrudí. To se dá pova
 Příklad denních specialit:
 
 Pondělí
-:   Králík na smetaně nebo na víně, na česneku, na slanině. Úterý
-:   Kuře Marengo nebo kuře na víně (_Coq au vin {xml:lang="fr"}_), nadívané, grilované. Středa
-:   Pečená telecí ledvina (_Osso Buco {xml:lang="it"_), telecí pečená kýta. Čtvrtek
-:   Pečené vepřové koleno, Moravský vepřový vrabec, Kološvárské zelí. Pátek
+:   Králík na smetaně nebo na víně, na česneku, na slanině.
+
+Úterý
+:   Kuře Marengo nebo kuře na víně (_Coq au vin {xml:lang="fr"}_), nadívané, grilované.
+
+Středa
+:   Pečená telecí ledvina (_Osso Buco {xml:lang="it"_), telecí pečená kýta.
+
+Čtvrtek
+:   Pečené vepřové koleno, Moravský vepřový vrabec, Kološvárské zelí.
+
+Pátek
 :   Kapr po Polsku, smažený, na paprice.
 
 Jak vidíte, tak možností je nekonečná řada. Můžeme tedy experimentovat. Během doby pak zjistíme, které speciality jsou v naší lokalitě nejoblíbenější a na těch se ustálíme. V sobotu a v neděli, kdy restaurace předpokládají zvýšenou návštěvnost se denní speciality nenabízí.
@@ -146,12 +152,24 @@ Mám na mysli Zbraslavský kotlet, Žofínské roštěnky, Poděbradské ptáčk
 Nikdy se také asi nesmířím se závitky, smotky, kapsami a měšci. Ty podle mě nejsou nic jiného než snahou udělat malý kousek masa větším tím, že do něj něco zabalíme. Typické příklady takových jídel jsou:
 
 Vamberský řízek
-:   Vepřové plátky naplněné sýrem, cibulí a párkem. Horácký závitek
-:   Plátek hovězího masa naplněný bramborami, slaninou, cibulí a zelím. Hanácký vrabec
-:   Plátek vepřové kýty plněný vepřovým bůčkem. Hukvaldský závitek
-:   Plátek vepřového naplněný žampióny nebo houbami s vejci. Beskydský závitek
-:   Plátek vepřového masa, naplněný mletým vepřovým masem, okurkou, vejcem. Pardubický plněný špíz
-:   Plněné vepřové závitky na špízu prokládané slaninou a cibulí. Měšec loupežníka Rumcajse
+:   Vepřové plátky naplněné sýrem, cibulí a párkem.
+
+Horácký závitek
+:   Plátek hovězího masa naplněný bramborami, slaninou, cibulí a zelím.
+
+Hanácký vrabec
+:   Plátek vepřové kýty plněný vepřovým bůčkem.
+
+Hukvaldský závitek
+:   Plátek vepřového naplněný žampióny nebo houbami s vejci.
+
+Beskydský závitek
+:   Plátek vepřového masa, naplněný mletým vepřovým masem, okurkou, vejcem.
+
+Pardubický plněný špíz
+:   Plněné vepřové závitky na špízu prokládané slaninou a cibulí.
+
+Měšec loupežníka Rumcajse
 :   Hovězí plátek plněný fáší z vepřového a telecího masa.
 
 Když se na tyto „krajové speciality“ dívám, tak mi připadají všechny „na jedno brdo“. Není mi tedy vůbec jasné, jak mohou pocházet z rozdílných krajů nebo regionů.
@@ -172,9 +190,9 @@ Jsou ale česká jídla, která možná ani nemají původ v místě, které maj
 
 {class="example"}
 
-Takovým typickým příkladem „české speciality“ je guláš. Podle mě [není guláš ani české jídlo][6]. Je to jídlo, které jsme si počeštili a můžeme být rádi, že nás za to Maďaři nežalují. Sice chápu, že Znojemský guláš je logicky guláš s okurkami, ale není mi jasné proč každé město musí mít svůj guláš.
+Takovým typickým příkladem „české speciality“ je guláš. Podle mě [není guláš ani české jídlo][4]. Je to jídlo, které jsme si počeštili a můžeme být rádi, že nás za to Maďaři nežalují. Sice chápu, že Znojemský guláš je logicky guláš s okurkami, ale není mi jasné proč každé město musí mít svůj guláš.
 
-Jenom doufám, že zavedením [vyhlášky 107][4] se Maďaři ozvou a nenechají si líbit, aby byl guláš vyřazen z jídelních lístků jen proto, že se musí dlouho vařit a případně ohřívat.
+Jenom doufám, že zavedením [vyhlášky 107][5] se Maďaři ozvou a nenechají si líbit, aby byl guláš vyřazen z jídelních lístků jen proto, že se musí dlouho vařit a případně ohřívat.
 
 {id="zchrann_speciality"}
 
@@ -182,7 +200,7 @@ Jenom doufám, že zavedením [vyhlášky 107][4] se Maďaři ozvou a nenechají
 
 Místo, které máme na jídelním lístku vyhrazeno pro speciality, by nikdy nemělo být prázdné. Někdy ale speciality vyprodáme ještě před skončením provozu. Pro tento případ máme několik dalších jídel, kterými můžeme tuto specialitu nahradit, nebo máme takzvanou _záchranou specialitu_.
 
-Záchranná specialita je zpravidla zmrazené jídlo, jako obalované rybí filé, obalené [kuřecí nugety][5] apod. Takové jídlo může být upraveno během několika minut a můžeme zaplnit prázdné místo mezi specialitami.
+Záchranná specialita je zpravidla zmrazené jídlo, jako obalované rybí filé, obalené [kuřecí nugety][6] apod. Takové jídlo může být upraveno během několika minut a můžeme zaplnit prázdné místo mezi specialitami.
 
 {id="speciality\_etnickch\_kuchyn"}
 
@@ -243,6 +261,7 @@ Případně jsou speciality napsané na samostatných kartách a zasunují se do
  [1]: /jidelni_listek
  [2]: /a_la
  [3]: /gastronomove#gurman
- [4]: /vyhlaska_107
- [5]: /kureci_nugety
- [6]: /gulas
+ [4]: /gulas
+ [5]: /vyhlaska_107
+ [6]: /kureci_nugety
+

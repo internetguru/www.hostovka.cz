@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=166.html" data-image="/files/preview/clanky/novinky\_v\_pohostinstvi/general.jpg" data-type="article"}
 
-{id="novinky\_v\_pohostinstvi" ctime="2006-08-05" author="Michael Klíma" short="Novinky v českém pohostinství" authorid="hostovka/michael_klima"}
+{ctime="2006-08-05" mtime="2006-08-05" id="novinky\_v\_pohostinstvi" author="Michael Klíma" short="Novinky v českém pohostinství" authorid="hostovka/michael_klima"}
 
 # Co je nového v českém pohostinství
 

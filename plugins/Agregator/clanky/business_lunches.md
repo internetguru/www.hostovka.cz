@@ -1,11 +1,9 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=491.html" data-image="/files/preview/clanky/business_lunches/general.jpg" data-type="article"}
 
-{id="pracovni_obedy" ctime="2010-01-08" author="Michael Klíma" short="Pracovní obědy" mtime="2019-08-19"}
+{ctime="2010-01-08" mtime="2019-08-19" id="pracovni_obedy" author="Michael Klíma" short="Pracovní obědy"}
 
 # Pracovní a firemní obědy
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-08-25, do not edit -->
 
 {kw="restaurace a servis, menu, obědy, podnikání, grazing, jídelní lístek"}
 

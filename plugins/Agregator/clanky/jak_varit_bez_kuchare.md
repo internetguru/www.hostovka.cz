@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=440.html" data-image="/files/preview/clanky/jak\_varit\_bez_kuchare/general.jpg" data-type="article"}
 
-{id="jak\_varit\_bez\_kuchare" ctime="2009-05-24" author="Michael Klíma" short="Jak vařit bez kuchaře" authorid="hostovka/michael\_klima"}
+{ctime="2009-05-24" mtime="2009-05-24" id="jak\_varit\_bez\_kuchare" author="Michael Klíma" short="Jak vařit bez kuchaře" authorid="hostovka/michael\_klima"}
 
 # Jak vařit bez kuchaře
 

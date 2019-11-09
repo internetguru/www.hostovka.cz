@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=255.html" data-image="/files/preview/clanky/dinner_diner/general.jpg" data-type="article"}
 
-{id="dinner\_diner" ctime="2007-10-04" author="Michael Klíma" short="Dinner Diner" authorid="hostovka/michael\_klima"}
+{ctime="2007-10-04" mtime="2007-10-04" id="dinner\_diner" author="Michael Klíma" short="Dinner Diner" authorid="hostovka/michael\_klima"}
 
 # Dinner Diner
 

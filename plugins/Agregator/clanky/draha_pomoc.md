@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=515.html" data-image="/files/preview/clanky/draha_pomoc/general.jpg" data-type="article"}
 
-{id="draha\_pomoc" ctime="2010-03-24" author="Michael Klíma" short="Drahá pomoc" authorid="hostovka/michael\_klima"}
+{ctime="2010-03-24" mtime="2010-03-24" id="draha\_pomoc" author="Michael Klíma" short="Drahá pomoc" authorid="hostovka/michael\_klima"}
 
 # Drahá pomoc
 

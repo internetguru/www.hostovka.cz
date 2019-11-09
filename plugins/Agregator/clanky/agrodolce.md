@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=360.html" data-image="/files/preview/clanky/agrodolce/general.jpg" data-type="article"}
 
-{id="agrodolce" ctime="2008-08-04" author="Michael Klíma" short="Omáčka agrodolce" mtime="2018-03-28"}
+{ctime="2008-08-04" mtime="2018-03-28" id="agrodolce" author="Michael Klíma" short="Omáčka agrodolce"}
 
 # Sladkokyselá omáčka agrodolce
 

@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=73.html" data-image="/files/preview/clanky/pina_colada/general.jpg" data-type="article"}
 
-{id="pina\_colada" ctime="2005-09-04" author="Michael Klíma" short="Piña Colada" authorid="hostovka/michael\_klima"}
+{ctime="2005-09-04" mtime="2005-09-04" id="pina\_colada" author="Michael Klíma" short="Piña Colada" authorid="hostovka/michael\_klima"}
 
 # Piña Colada
 

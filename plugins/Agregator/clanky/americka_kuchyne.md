@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=110.html" data-image="files/preview/clanky/americka_kuchyne/general.jpg" data-type="article"}
 
-{id="americka\_kuchyne" ctime="2005-11-16" author="Michael Klíma" short="Americká kuchyně" authorid="hostovka/michael\_klima"}
+{ctime="2005-11-16" mtime="2005-11-16" id="americka\_kuchyne" author="Michael Klíma" short="Americká kuchyně" authorid="hostovka/michael\_klima"}
 
 # Americká kuchyně
 

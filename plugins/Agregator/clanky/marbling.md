@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=345.html" data-image="/files/preview/clanky/marbling/general.jpg" data-type="article"}
 
-{id="marbling" ctime="2008-07-01" author="Michael Klíma" short="Marbling" authorid="hostovka/michael_klima"}
+{ctime="2008-07-01" mtime="2008-07-01" id="marbling" author="Michael Klíma" short="Marbling" authorid="hostovka/michael_klima"}
 
 # Marbling
 

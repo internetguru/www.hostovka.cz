@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=102.html" data-image="files/preview/clanky/bible/general.jpg" data-type="article"}
 
-{id="bible" ctime="2005-11-06" author="Michael Klíma" short="Bible" authorid="hostovka/michael_klima"}
+{ctime="2005-11-06" mtime="2005-11-06" id="bible" author="Michael Klíma" short="Bible" authorid="hostovka/michael_klima"}
 
 # Bible
 

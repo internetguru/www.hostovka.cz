@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=368.html" data-image="/files/preview/clanky/pot_luck/general.jpg" data-type="article"}
 
-{id="pot\_luck" ctime="2008-08-12" author="Michael Klíma" short="Pot Luck" authorid="hostovka/michael\_klima"}
+{ctime="2008-08-12" mtime="2008-08-12" id="pot\_luck" author="Michael Klíma" short="Pot Luck" authorid="hostovka/michael\_klima"}
 
 # Pot Luck
 

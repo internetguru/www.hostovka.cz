@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=260.html" data-image="/files/preview/clanky/opice\_tu\_nemame/general.jpg" data-type="article"}
 
-{id="opice\_tu\_nemame" ctime="2007-12-03" author="Michael Klíma" short="Opice tu nemáme" authorid="hostovka/michael_klima"}
+{ctime="2007-12-03" mtime="2007-12-03" id="opice\_tu\_nemame" author="Michael Klíma" short="Opice tu nemáme" authorid="hostovka/michael_klima"}
 
 # Opice tu nemáme
 

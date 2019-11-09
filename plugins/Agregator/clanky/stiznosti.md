@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=558.html" data-image="/files/preview/clanky/stiznosti/general.jpg" data-type="article"}
 
-{id="stiznosti" ctime="2011-07-11" author="Michael Klíma" short="Stížnosti" authorid="hostovka/michael_klima"}
+{ctime="2011-07-11" mtime="2011-07-11" id="stiznosti" author="Michael Klíma" short="Stížnosti" authorid="hostovka/michael_klima"}
 
 # Stížnosti
 

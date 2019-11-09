@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=566.html" data-image="/files/preview/clanky/u\_nas\_si\_nikdo\_nestezuje/general.jpg" data-type="article"}
 
-{id="u\_nas\_si\_nikdo\_nestezuje" ctime="2011-07-23" author="Michael Klíma" short="U nás si nikdo nestěžuje" authorid="hostovka/michael_klima"}
+{ctime="2011-07-23" mtime="2011-07-23" id="u\_nas\_si\_nikdo\_nestezuje" author="Michael Klíma" short="U nás si nikdo nestěžuje" authorid="hostovka/michael_klima"}
 
 # U nás si nikdo nestěžuje
 

@@ -1,11 +1,9 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=46.html" data-image="/files/preview/clanky/plody_more/general.jpg" data-type="article"}
 
-{id="plody_more" ctime="2005-07-22" author="Michael Klíma" mtime="2019-06-25"}
+{ctime="2005-07-22" mtime="2019-06-25" id="plody_more" author="Michael Klíma"}
 
 # Plody moře a krevetky
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-08-25, do not edit -->
 
 {kw="jídla a jídelní lístky, krevetky"}
 
@@ -149,5 +147,4 @@ Ve velkých restauračních provozech, kde náklady na mzdy jsou rozhodujícím 
  [5]: /grilovani
  [6]: /celer_rapikaty#dalsi_zpusoby_podavani
  [7]: /shrimp_de_jonghe
- [8]: https://www.steakgrill.cz
 

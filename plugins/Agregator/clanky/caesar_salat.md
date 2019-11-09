@@ -1,11 +1,9 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-image="/files/preview/clanky/caesar_salat/preview.jpg" data-type="article" data-source="http://2017.hostovka.cz/clanek.php?clanek=237" data-top="1"}
 
-{id="caesar_salat" author="Michael Klíma" ctime="2007-06-04" mtime="2018-12-07" short="Caesar salát"}
+{ctime="2007-06-04" mtime="2018-12-07" id="caesar_salat" author="Michael Klíma" short="Caesar salát"}
 
 # Suroviny a příprava Caesar salátu
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
 
 {kw="gastronomie"}
 
@@ -62,7 +60,7 @@ Dnes se dresink prodává již hotový, takže příprava tohoto salátu je v z�
 
 V Tijuaně v Mexiku, se na ulici Avenida Revolucion sešlo několik kuchařů a studentů kulinářského umění, aby naplnili více než 200 metrů dlouhou salátovou mísu Caesar salátem. Událost se konala jednak na oslavu salátu, ale hlavně kvůli snaze zapsat se do [Guinnessovy knihy rekordů][4].
 
-Plánováním akce se asi 4 měsíce dopředu zabývalo více než 120 studentů a adeptů kuchařského umění. Bylo zapotřebí naplánovat dodávku všech potřebných surovin od místních dodavatelů, zkoordinovat přípravné práce, a hlavně vypracovat harmonogram míchání salátu tak, aby byl čerstvý, křehký a hotový přesně načas.
+Plánováním akce se asi 4 měsíce dopředu zabývalo více než 120 studentů a adeptů kuchařského umění. Bylo zapotřebí naplánovat dodávku všech potřebných surovin od místních dodavatelů, zkoordinovat přípravné práce a hlavně vypracovat harmonogram míchání salátu tak, aby byl čerstvý, křehký a hotový přesně načas.
 
 V Tijuaně je přes den velmi horko, a proto většina přípravných prací probíhala v noci před prezentací. Muselo se nakrájet 1.200 hlávek salátu, na minutu povařit 1.200 vajec a přidat je k ostatním surovinám dresinku. Dresink mimo jiné obsahoval 75,7 litrů olivového oleje, 53,2 kg citrónů, a 99,9 kilogramů strouhaného parmazánu.
 

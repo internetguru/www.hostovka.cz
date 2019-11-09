@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=424.html" data-image="/files/preview/clanky/alemande/general.jpg" data-type="article"}
 
-{id="alemande" ctime="2009-05-03" author="Michael Klíma" short="Alemande" authorid="hostovka/michael_klima"}
+{ctime="2009-05-03" mtime="2009-05-03" id="alemande" author="Michael Klíma" short="Alemande" authorid="hostovka/michael_klima"}
 
 # Alemande
 

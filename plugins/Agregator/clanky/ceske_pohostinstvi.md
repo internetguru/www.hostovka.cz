@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=342.html" data-image="/files/preview/clanky/ceske_pohostinstvi/general.jpg" data-type="article"}
 
-{id="ceske\_pohostinstvi" ctime="2008-06-30" author="Michael Klíma" short="České pohostinství" authorid="hostovka/michael\_klima"}
+{ctime="2008-06-30" mtime="2008-06-30" id="ceske\_pohostinstvi" author="Michael Klíma" short="České pohostinství" authorid="hostovka/michael\_klima"}
 
 # České pohostinství
 

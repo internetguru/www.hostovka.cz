@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=286.html" data-image="/files/preview/clanky/porchetta/general.jpg" data-type="article"}
 
-{id="porchetta" ctime="2008-02-17" author="Michael Klíma" short="Porchetta" authorid="hostovka/michael_klima"}
+{ctime="2008-02-17" mtime="2008-02-17" id="porchetta" author="Michael Klíma" short="Porchetta" authorid="hostovka/michael_klima"}
 
 # Porchetta
 

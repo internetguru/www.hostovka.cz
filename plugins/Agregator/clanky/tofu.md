@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=431.html" data-image="/files/preview/clanky/tofu/general.jpg" data-type="article"}
 
-{id="tofu" ctime="2009-05-07" author="Michael Klíma" short="Tofu" authorid="hostovka/michael_klima"}
+{ctime="2009-05-07" mtime="2009-05-07" id="tofu" author="Michael Klíma" short="Tofu" authorid="hostovka/michael_klima"}
 
 # Tofu
 

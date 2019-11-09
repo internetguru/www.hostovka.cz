@@ -1,11 +1,9 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-image="/files/preview/clanky/zkusenosti\_ze\_sveta/preview.jpg" data-type="article" data-source="http://2017.hostovka.cz/nekolik-slov-o-mikovi-a-jeho-aktivitach.php"}
 
-{id="zkusenosti\_ze\_sveta" author="Michael Klíma" ctime="2006-05"}
+{ctime="2011-07-31" mtime="2011-12-11" id="zkusenosti\_ze\_sveta" author="Michael Klíma"}
 
 # Zkušenosti ze světa
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
 

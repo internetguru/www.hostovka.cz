@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=522.html" data-image="/files/preview/clanky/zbytky/general.jpg" data-type="article"}
 
-{id="zbytky2" ctime="2010-05-23" author="Michael Klíma" short="Zbytky" authorid="hostovka/michael_klima"}
+{ctime="2010-05-23" mtime="2010-05-23" id="zbytky2" author="Michael Klíma" short="Zbytky" authorid="hostovka/michael_klima"}
 
 # Zbytky
 

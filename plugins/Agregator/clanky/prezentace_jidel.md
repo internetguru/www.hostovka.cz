@@ -1,11 +1,9 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=346.html" data-image="/files/preview/clanky/prezentace_jidel/general.jpg" data-type="article"}
 
-{id="prezentace_jidel" ctime="2008-07-05" author="Michael Klíma" short="Prezentace jídel" mtime="2019-05-26"}
+{ctime="2008-07-05" mtime="2019-05-26" id="prezentace_jidel" author="Michael Klíma" short="Prezentace jídel"}
 
 # Důležitost prezentace jídel
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-08-25, do not edit -->
 
 {kw="gastronomie, prezentace, talíře"}
 
@@ -13,7 +11,7 @@ Jídlo je vnímáno všemi smysly a zrak je v mnoha případech ten první. S pr
 
 {class="example"}
 
-Jinak jsou například prezentovány předkrmy a studené mísy, polévky, hlavní jídla a moučníky, a to nemluvím o prezentaci jídla na bufetových pultech.
+Jinak jsou například prezentovány předkrmy a studené mísy, polévky, hlavní jídla a moučníky, a to nemluvím o prezentaci jídla na bufetových pultech. Velmi oblíbená je také [prezentace jídel přímo před zraky hostů][1].
 
 O prezentaci jídla se dříve staral _garde manger {xml:lang="fr"}_, který je dnes v mnoha podnicích nahrazován takzvanými stylisty (anglicky _food stylist {xml:lang="en"}_). Nejsou to vždy kuchaři v pravém slova smyslu, ale spíše umělci, kteří se specializují na úpravu a prezentaci jídel. Stylisti nejsou oproti garde manažerům zodpovědní za chuť jídla.
 
@@ -27,11 +25,11 @@ Velké kuchyně, ve kterých připravoval jídla štáb odborníků, se čím d�
 
 _Garde manger {xml:lang="fr"}_ (tedy kuchař) ovládá základy teplé i studené kuchyně a v některých kuchyních ještě dnes připravuje jídla podle receptů nebo vlastní fantazie. Díky množství přípravků, polotovarů a hotových výrobků nemá již tolik práce s přípravou. Má tedy více času k uplatnění svých uměleckých sklonů při prezentaci jídel.
 
-{id="historie\_prezentace\_jdel"}
+{id="historie\_prezentace\_jidel"}
 
 ## Historie prezentace jídel
 
-Historicky většina kuchařů teplé kuchyně (mimo [Caréma][1]) umělecké prezentaci jídel nevěnovala velkou důležitost. To je mnohdy vytýkáno právě francouzským kuchařům.
+Historicky většina kuchařů teplé kuchyně (mimo [Caréma][2]) umělecké prezentaci jídel nevěnovala velkou důležitost. To je mnohdy vytýkáno právě francouzským kuchařům.
 
 {class="example"}
 
@@ -41,7 +39,7 @@ Důležitost prezentace jídel si uvědomili hlavně provozovatelé velkých ame
 
 Cateringových společností je ale v Americe velké množství a všechny mají stejné know-how. Ani v kvalitě jídla není žádný velký rozdíl. Lidé si to neuvědomují, ale všechny tyto společnosti mají téměř stejně vybavené kuchyně. Všechny nakupují suroviny ze stejných zdrojů, přijímají zaměstnance ze „stejné ulice“ a mají stejné nevyučené kuchaře. Jediné, čím se mohou odlišit od konkurence, je prostředí a servis neboli celkovým dojmem – v čele s prezentací jídla.
 
-{id="dleitost\_vhodnho\_ndob"}
+{id="dulezitost\_vhodneho\_nadobi"}
 
 ## Důležitost vhodného nádobí
 
@@ -83,7 +81,7 @@ Jak jsme si řekli, jak kuchař talíře ohřeje je jeho věc. My jsme ty talí�
 
 Se spokojeností hostů si ale v České republice některé restaurace moc starostí nedělají. Krátce po Sametové revoluci jsem si v jedné pražské restauraci stěžoval na to, že mám jídlo na studeném talíři. Číšník, zřejmě spolumajitel, řekl: „Kde máme vzít peníze na režón? Tahle restaurace stála dost peněz už tak jako tak, takže se musíme obejít bez režónu.“ S podobnou reakcí jsem se setkal i před několika lety u příležitosti veletrhu v Brně v jedné dosti rušné restauraci.
 
-{id="nadmrn\_velk\_tale"}
+{id="nadmerne\_velke\_talire"}
 
 ## Nadměrně velké talíře
 
@@ -93,7 +91,7 @@ Prostě porce některých jídel jsou tak velké, že by se na normální talí�
 
 To samé se dá říci o podávání jídel ve velkých polévkových talířích. Někteří kuchaři ale na těchto talířích podávají i jídla, která se k tomu naprosto nehodí. V jedné restauraci v Českém Krumlově podávají v polévkovém talíři dokonce i steak. To nejspíše proto, aby se mu lépe plavalo v omáčce.
 
-{id="alternativn\_podvn\_jdel"}
+{id="alternativni\_podavani\_jidel"}
 
 ## Alternativní podávání jídel
 
@@ -101,4 +99,6 @@ Dnes to ale nejsou jen talíře, na kterých se jídla podávají. I když to hy
 
 Hygieničtější a atraktivnější podávání jídel než na dřevěných prkénkách je na litinových pánvičkách (anglicky zvaných _cast iron {xml:lang="en"}_ nebo _sizzler plates {xml:lang="en"}_). Když se takové jídlo podává na stůl, tak stále ještě syčí a prská. Tím získává atraktivní vizuální vjem, který je doplněn vůní.
 
- [1]: /careme
+ [1]: /jevistni_kuchyne
+ [2]: /careme
+

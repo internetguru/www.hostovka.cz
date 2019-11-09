@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=355.html" data-image="/files/preview/clanky/krajeni/general.jpg" data-type="article"}
 
-{id="krajeni" ctime="2008-07-22" author="Michael Klíma" short="Krájení" mtime="2019-06-24"}
+{ctime="2008-07-22" mtime="2019-06-24" id="krajeni" author="Michael Klíma" short="Krájení"}
 
 # Způsoby krájení potravin
 

@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=545.html" data-image="/files/preview/clanky/vnitrni\_teplota\_steaku/general.jpg" data-type="article"}
 
-{id="vnitrni\_teplota\_steaku" ctime="2011-01-06" author="Michael Klíma" short="Vnitřní teplota steaků" authorid="hostovka/michael_klima"}
+{ctime="2011-01-06" mtime="2011-01-06" id="vnitrni\_teplota\_steaku" author="Michael Klíma" short="Vnitřní teplota steaků" authorid="hostovka/michael_klima"}
 
 # Vnitřní teplota steaků
 

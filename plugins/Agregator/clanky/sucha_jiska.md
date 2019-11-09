@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=391.html" data-image="/files/preview/clanky/sucha_jiska/general.jpg" data-type="article"}
 
-{id="sucha\_jiska" ctime="2009-04-09" author="Michael Klíma" short="Suchá jíška" authorid="hostovka/michael\_klima"}
+{ctime="2009-04-09" mtime="2009-04-09" id="sucha\_jiska" author="Michael Klíma" short="Suchá jíška" authorid="hostovka/michael\_klima"}
 
 # Suchá jíška
 

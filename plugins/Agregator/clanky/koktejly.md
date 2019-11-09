@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=107.html" data-image="/files/preview/clanky/koktejly/general.jpg" data-type="article"}
 
-{id="koktejly" ctime="2005-11-12" author="Michael Klíma" short="Koktejly" mtime="2019-02-19"}
+{ctime="2005-11-12" mtime="2019-02-19" id="koktejly" author="Michael Klíma" short="Koktejly"}
 
 # Koktejly a barmanství
 

@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=458.html" data-image="/files/preview/clanky/cesi_nectou/general.jpg" data-type="article"}
 
-{id="cesi\_nectou" ctime="2009-11-04" author="Michael Klíma" short="Češi nečtou" authorid="hostovka/michael\_klima"}
+{ctime="2009-11-04" mtime="2009-11-04" id="cesi\_nectou" author="Michael Klíma" short="Češi nečtou" authorid="hostovka/michael\_klima"}
 
 # Češi nečtou
 

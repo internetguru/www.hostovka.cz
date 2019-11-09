@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=112.html" data-image="files/preview/clanky/amenity/general.jpg" data-type="article"}
 
-{id="doplnky" ctime="2005-11-18" mtime="2018-12-05" author="Michael Klíma" short="Doplňky"}
+{ctime="2005-11-18" mtime="2018-12-05" id="doplnky" author="Michael Klíma" short="Doplňky"}
 
 # Doplňky zpříjemňující hostův pobyt
 

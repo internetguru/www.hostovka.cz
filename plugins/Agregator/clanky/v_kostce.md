@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=295.html" data-image="/files/preview/clanky/v_kostce/general.jpg" data-type="article"}
 
-{id="v\_kostce" ctime="2008-03-09" author="Michael Klíma" short="V kostce" authorid="hostovka/michael\_klima"}
+{ctime="2008-03-09" mtime="2008-03-09" id="v\_kostce" author="Michael Klíma" short="V kostce" authorid="hostovka/michael\_klima"}
 
 # V kostce
 

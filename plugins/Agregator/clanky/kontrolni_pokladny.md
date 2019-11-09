@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=246.html" data-image="/files/preview/clanky/kontrolni_pokladny/general.jpg" data-type="article"}
 
-{id="kontrolni\_pokladny" ctime="2007-08-21" author="Michael Klíma" short="Kontrolní pokladny" authorid="hostovka/michael\_klima"}
+{ctime="2007-08-21" mtime="2007-08-21" id="kontrolni\_pokladny" author="Michael Klíma" short="Kontrolní pokladny" authorid="hostovka/michael\_klima"}
 
 # Kontrolní pokladny
 

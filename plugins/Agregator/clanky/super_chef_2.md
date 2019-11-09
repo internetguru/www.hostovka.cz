@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=538.html" data-image="/files/preview/clanky/super\_chef\_2/general.jpg" data-type="article"}
 
-{id="super\_chef\_2" ctime="2010-10-06" author="Michael Klíma" short="Super chef 2" authorid="hostovka/michael_klima"}
+{ctime="2010-10-06" mtime="2010-10-06" id="super\_chef\_2" author="Michael Klíma" short="Super chef 2" authorid="hostovka/michael_klima"}
 
 # Super chef 2
 

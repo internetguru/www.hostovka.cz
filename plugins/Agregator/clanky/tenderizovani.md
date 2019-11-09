@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=186.html" data-image="/files/preview/clanky/tenderizovani/general.jpg" data-type="article"}
 
-{id="tenderizovani" ctime="2006-10-30" author="Michael Klíma" short="Tenderizování" authorid="hostovka/michael_klima"}
+{ctime="2006-10-30" mtime="2006-10-30" id="tenderizovani" author="Michael Klíma" short="Tenderizování" authorid="hostovka/michael_klima"}
 
 # Tenderizování
 

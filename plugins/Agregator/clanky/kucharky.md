@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=212.html" data-image="/files/preview/clanky/kucharky/general.jpg" data-type="article"}
 
-{id="kucharky" ctime="2007-01-23" author="Michael Klíma" short="Kuchařky" authorid="hostovka/michael_klima"}
+{ctime="2007-01-23" mtime="2007-01-23" id="kucharky" author="Michael Klíma" short="Kuchařky" authorid="hostovka/michael_klima"}
 
 # Kuchařské knihy
 

@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=461.html" data-image="/files/preview/clanky/md_retigova/general.jpg" data-type="article"}
 
-{id="md\_retigova" ctime="2009-11-05" author="Michael Klíma" short="M. D. Retiigová" authorid="hostovka/michael\_klima"}
+{ctime="2009-11-05" mtime="2009-11-05" id="md\_retigova" author="Michael Klíma" short="M. D. Retiigová" authorid="hostovka/michael\_klima"}
 
 # Co mi vadí na M. D. Rettigové
 

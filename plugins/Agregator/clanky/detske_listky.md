@@ -1,11 +1,9 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=149.html" data-image="/files/preview/clanky/detske_listky/general.jpg" data-type="article"}
 
-{id="detske_listky" ctime="2006-05-12" author="Michael Klíma" short="Dětské lístky" mtime="2019-08-12"}
+{ctime="2006-05-12" mtime="2019-08-12" id="detske_listky" author="Michael Klíma" short="Dětské lístky"}
 
 # Dětské jídelní lístky
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-08-25, do not edit -->
 
 {kw="jídla a jídelní lístky, děti, případová studie"}
 

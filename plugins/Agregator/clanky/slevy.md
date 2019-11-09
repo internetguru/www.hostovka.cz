@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=264.html" data-image="/files/preview/clanky/slevy/general.jpg" data-type="article"}
 
-{id="slevy" ctime="2007-12-26" author="Michael Klíma" short="Slevy" authorid="hostovka/michael_klima"}
+{ctime="2007-12-26" mtime="2007-12-26" id="slevy" author="Michael Klíma" short="Slevy" authorid="hostovka/michael_klima"}
 
 # Slevy
 

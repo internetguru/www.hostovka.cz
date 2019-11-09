@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=75.html" data-image="/files/preview/clanky/zatraceny\_krabi\_zivot/general.jpg" data-type="article"}
 
-{id="zatraceny\_krabi\_zivot" ctime="2005-09-19" author="Michael Klíma" short="Zatracený krabí život" authorid="hostovka/michael_klima"}
+{ctime="2005-09-19" mtime="2005-09-19" id="zatraceny\_krabi\_zivot" author="Michael Klíma" short="Zatracený krabí život" authorid="hostovka/michael_klima"}
 
 # Zatracený krabí život
 

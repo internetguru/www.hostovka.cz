@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=533.html" data-image="/files/preview/clanky/kradeze/general.jpg" data-type="article"}
 
-{id="kradeze" ctime="2010-09-20" author="Michael Klíma" short="Krádeže" authorid="hostovka/michael_klima"}
+{ctime="2010-09-20" mtime="2010-09-20" id="kradeze" author="Michael Klíma" short="Krádeže" authorid="hostovka/michael_klima"}
 
 # Krádeže
 

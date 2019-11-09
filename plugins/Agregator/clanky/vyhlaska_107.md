@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=204.html" data-image="/files/preview/clanky/vyhlaska_107/general.jpg" data-type="article"}
 
-{id="vyhlaska_107" ctime="2006-12-27" author="Michael Klíma" short="Vyhláška č. 107" mtime="2019-03-11"}
+{ctime="2006-12-27" mtime="2019-03-11" id="vyhlaska_107" author="Michael Klíma" short="Vyhláška č. 107"}
 
 # Hygienická vyhláška č. 107
 

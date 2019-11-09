@@ -872,3 +872,29 @@ p:after {
   margin-right: 0.55em;
 }
 /***************************/
+.hide {
+  display: none !important;
+}
+/***************************/
+.faq {
+  padding: 0;
+}
+.faq br {
+  content: " ";
+  display: block;
+  margin: 0.5em 0;
+  line-height: 0.5em;
+}
+.faq .question:before {
+  content: "Otázka";
+}
+.faq .answer:before {
+  content: "Odpověď";
+}
+.faq .question:before,
+.faq .answer:before {
+  display: block;
+  margin: 0.75em 0 0.5em 0;
+  font-size: 1.5em;
+}
+/***************************/

@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=164.html" data-image="/files/preview/clanky/dovolena\_ve\_francii/general.jpg" data-type="article"}
 
-{id="francouzska_gastronomie" ctime="2006-07-16" mtime="2018-12-18" author="Michael Klíma" short="Francouzská gastronomie"}
+{ctime="2006-07-16" mtime="2018-12-18" id="francouzska_gastronomie" author="Michael Klíma" short="Francouzská gastronomie"}
 
 # Úskalí francouzské gastronomie
 

@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=49.html" data-image="/files/preview/clanky/francois_pierre/general.jpg" data-type="article"}
 
-{id="francois\_pierre" ctime="2005-07-26" author="Michael Klíma" short="François Pierre" authorid="hostovka/michael\_klima"}
+{ctime="2005-07-26" mtime="2005-07-26" id="francois\_pierre" author="Michael Klíma" short="François Pierre" authorid="hostovka/michael\_klima"}
 
 # François Pierre de La Varenne
 

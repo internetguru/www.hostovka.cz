@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=283.html" data-image="/files/preview/clanky/prava_hosta/general.jpg" data-type="article"}
 
-{id="prava\_hosta" ctime="2008-02-12" author="Michael Klíma" short="Práva hosta" authorid="hostovka/michael\_klima"}
+{ctime="2008-02-12" mtime="2008-02-12" id="prava\_hosta" author="Michael Klíma" short="Práva hosta" authorid="hostovka/michael\_klima"}
 
 # Práva hosta
 

@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=457.html" data-image="/files/preview/clanky/soucasny\_stav\_ceskeho_pohostinstvi/general.jpg" data-type="article"}
 
-{id="soucasny\_stav\_ceskeho\_pohostinstvi" ctime="2009-10-23" author="Michael Klíma" short="Současný stav českého pohostinství" authorid="hostovka/michael\_klima"}
+{ctime="2009-10-23" mtime="2009-10-23" id="soucasny\_stav\_ceskeho\_pohostinstvi" author="Michael Klíma" short="Současný stav českého pohostinství" authorid="hostovka/michael\_klima"}
 
 # Současný stav českého pohostinství
 

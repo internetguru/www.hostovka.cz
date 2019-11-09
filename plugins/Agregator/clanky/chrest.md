@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=234.html" data-image="/files/preview/clanky/chrest/general.jpg" data-type="article"}
 
-{id="chrest" ctime="2007-05-17" author="Michael Klíma" short="Chřest" authorid="hostovka/michael_klima"}
+{ctime="2007-05-17" mtime="2007-05-17" id="chrest" author="Michael Klíma" short="Chřest" authorid="hostovka/michael_klima"}
 
 # Chřest
 

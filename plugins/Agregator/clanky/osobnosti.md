@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=323.html" data-image="/files/preview/clanky/osobnosti/general.jpg" data-type="article"}
 
-{id="osobnosti" ctime="2008-05-17" author="Michael Klíma" short="Osobnosti" authorid="hostovka/michael_klima"}
+{ctime="2008-05-17" mtime="2008-05-17" id="osobnosti" author="Michael Klíma" short="Osobnosti" authorid="hostovka/michael_klima"}
 
 # Osobnosti
 

@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-image="/files/preview/clanky/assembly_cooking/preview.jpg" data-type="article" data-source="http://2017.hostovka.cz/clanek.php?clanek=438" data-top="2"}
 
-{id="vareni\_z\_polotovaru" author="Michael Klíma" ctime="2009-05-19" mtime="2018-12-06" short="Vaření z polotovarů"}
+{ctime="2009-05-19" mtime="2018-12-06" id="vareni\_z\_polotovaru" author="Michael Klíma" short="Vaření z polotovarů"}
 
 # Vaření z polotovarů v moderní kuchyni
 

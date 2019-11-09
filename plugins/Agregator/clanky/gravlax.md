@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=576.html" data-image="/files/preview/clanky/gravlax/general.jpg" data-type="article"}
 
-{id="gravlax" ctime="2011-08-25" author="Michael Klíma" short="Gravlax" authorid="hostovka/michael_klima"}
+{ctime="2011-08-25" mtime="2011-08-25" id="gravlax" author="Michael Klíma" short="Gravlax" authorid="hostovka/michael_klima"}
 
 # Gravlax
 

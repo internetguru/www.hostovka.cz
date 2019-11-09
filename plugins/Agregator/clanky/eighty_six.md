@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=450.html" data-image="/files/preview/clanky/eighty_six/general.jpg" data-type="article"}
 
-{id="eighty\_six" ctime="2009-09-28" author="Michael Klíma" short="Eighty six" authorid="hostovka/michael\_klima"}
+{ctime="2009-09-28" mtime="2009-09-28" id="eighty\_six" author="Michael Klíma" short="Eighty six" authorid="hostovka/michael\_klima"}
 
 # Eighty six
 

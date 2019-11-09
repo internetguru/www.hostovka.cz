@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=338.html" data-image="/files/preview/clanky/parmentier/general.jpg" data-type="article"}
 
-{id="parmentier" ctime="2008-06-29" author="Michael Klíma" short="Parmentier" authorid="hostovka/michael_klima"}
+{ctime="2008-06-29" mtime="2008-06-29" id="parmentier" author="Michael Klíma" short="Parmentier" authorid="hostovka/michael_klima"}
 
 # Vepřová panenka parmentier
 

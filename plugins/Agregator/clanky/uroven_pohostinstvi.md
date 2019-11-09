@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=245.html" data-image="/files/preview/clanky/uroven_pohostinstvi/general.jpg" data-type="article"}
 
-{id="uroven\_pohostinstvi" ctime="2007-08-17" author="Michael Klíma" short="Úroveň pohostinství" authorid="hostovka/michael\_klima"}
+{ctime="2007-08-17" mtime="2007-08-17" id="uroven\_pohostinstvi" author="Michael Klíma" short="Úroveň pohostinství" authorid="hostovka/michael\_klima"}
 
 # Zlepšení úrovně pohostinství
 

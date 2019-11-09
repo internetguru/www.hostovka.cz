@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=430.html" data-image="/files/preview/clanky/aemono/general.jpg" data-type="article"}
 
-{id="aemono" ctime="2009-05-27" author="Michael Klíma" short="Aemono" authorid="hostovka/michael_klima"}
+{ctime="2009-05-27" mtime="2009-05-27" id="aemono" author="Michael Klíma" short="Aemono" authorid="hostovka/michael_klima"}
 
 # Aemono
 

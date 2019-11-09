@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=383.html" data-image="/files/preview/clanky/a_la/general.jpg" data-type="article"}
 
-{id="a\_la" ctime="2009-04-05" author="Michael Klíma" short="A la" authorid="hostovka/michael\_klima"}
+{ctime="2009-04-05" mtime="2009-04-05" id="a\_la" author="Michael Klíma" short="A la" authorid="hostovka/michael\_klima"}
 
 # A la
 

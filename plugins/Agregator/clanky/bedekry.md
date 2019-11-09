@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=119.html" data-image="/files/preview/clanky/bedekry/general.jpg" data-type="article"}
 
-{id="bedekr" ctime="2005-11-27" author="Michael Klíma" short="Bedekr" mtime="2019-08-19"}
+{ctime="2005-11-27" mtime="2019-08-19" id="bedekr" author="Michael Klíma" short="Bedekr"}
 
 # Cestovní turistický průvodce neboli bedekr
 

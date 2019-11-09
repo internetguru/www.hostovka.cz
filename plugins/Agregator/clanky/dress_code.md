@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=273.html" data-image="/files/preview/clanky/dress_code/general.jpg" data-type="article"}
 
-{id="dress\_code" ctime="2008-01-18" author="Michael Klíma" short="Dress Code" authorid="hostovka/michael\_klima"}
+{ctime="2008-01-18" mtime="2008-01-18" id="dress\_code" author="Michael Klíma" short="Dress Code" authorid="hostovka/michael\_klima"}
 
 # Dress Code
 

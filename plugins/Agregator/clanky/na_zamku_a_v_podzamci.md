@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=524.html" data-image="/files/preview/clanky/na\_zamku\_a\_v\_podzamci/general.jpg" data-type="article"}
 
-{id="na\_zamku\_a\_v\_podzamci" ctime="2010-09-10" author="Michael Klíma" short="Na zámku a v podzámčí" authorid="hostovka/michael_klima"}
+{ctime="2010-09-10" mtime="2010-09-10" id="na\_zamku\_a\_v\_podzamci" author="Michael Klíma" short="Na zámku a v podzámčí" authorid="hostovka/michael_klima"}
 
 # Na zámku a v podzámčí
 

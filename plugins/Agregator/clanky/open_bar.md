@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=349.html" data-image="/files/preview/clanky/open_bar/general.jpg" data-type="article"}
 
-{id="open\_bar" ctime="2008-07-16" author="Michael Klíma" short="Open Bar" authorid="hostovka/michael\_klima"}
+{ctime="2008-07-16" mtime="2008-07-16" id="open\_bar" author="Michael Klíma" short="Open Bar" authorid="hostovka/michael\_klima"}
 
 # Open Bar
 

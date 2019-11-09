@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=239.html" data-image="/files/preview/clanky/grilovani/general.jpg" data-type="article"}
 
-{id="grilovani" ctime="2007-06-26" author="Michael Klíma" short="Grilování" authorid="hostovka/michael_klima"}
+{ctime="2007-06-26" mtime="2007-06-26" id="grilovani" author="Michael Klíma" short="Grilování" authorid="hostovka/michael_klima"}
 
 # Grilování
 

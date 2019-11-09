@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=289.html" data-image="/files/preview/clanky/gastronomicke_vyrazy/general.jpg" data-type="article"}
 
-{id="gastronomicke\_vyrazy" ctime="2008-02-28" author="Michael Klíma" short="Gastronomické výrazy" authorid="hostovka/michael\_klima"}
+{ctime="2008-02-28" mtime="2008-02-28" id="gastronomicke\_vyrazy" author="Michael Klíma" short="Gastronomické výrazy" authorid="hostovka/michael\_klima"}
 
 # Gastronomické výrazy
 

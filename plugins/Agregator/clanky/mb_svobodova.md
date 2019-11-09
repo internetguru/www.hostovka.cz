@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=344.html" data-image="/files/preview/clanky/mb_svobodova/general.jpg" data-type="article"}
 
-{id="mb\_svobodova" ctime="2008-07-01" author="Michael Klíma" short="M. B. Svobodová" authorid="hostovka/michael\_klima"}
+{ctime="2008-07-01" mtime="2008-07-01" id="mb\_svobodova" author="Michael Klíma" short="M. B. Svobodová" authorid="hostovka/michael\_klima"}
 
 # M. B. Svobodová
 

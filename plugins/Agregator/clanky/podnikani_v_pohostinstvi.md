@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=357.html" data-image="/files/preview/clanky/podnikani\_v\_pohostinstvi/general.jpg" data-type="article"}
 
-{id="podnikani\_v\_pohostinstvi" ctime="2008-07-25" author="Michael Klíma" short="Podnikání v pohostinství" authorid="hostovka/michael_klima"}
+{ctime="2008-07-25" mtime="2008-07-25" id="podnikani\_v\_pohostinstvi" author="Michael Klíma" short="Podnikání v pohostinství" authorid="hostovka/michael_klima"}
 
 # Podnikání v pohostinství
 

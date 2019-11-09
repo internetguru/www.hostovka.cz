@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=321.html" data-image="/files/preview/clanky/kuchyne_domaci/general.jpg" data-type="article"}
 
-{id="kuchyne\_domaci" ctime="2008-05-11" author="Michael Klíma" short="Kuchyně domácí" authorid="hostovka/michael\_klima"}
+{ctime="2008-05-11" mtime="2008-05-11" id="kuchyne\_domaci" author="Michael Klíma" short="Kuchyně domácí" authorid="hostovka/michael\_klima"}
 
 # Kuchyně domácí
 

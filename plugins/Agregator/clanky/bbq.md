@@ -1,11 +1,9 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=435.html" data-image="/files/preview/clanky/bbq/general.jpg" data-type="article"}
 
-{id="bbq" ctime="2009-05-10" author="Michael Klíma" short="BBQ" mtime="2019-08-19"}
+{ctime="2009-05-10" mtime="2019-08-19" id="bbq" author="Michael Klíma" short="BBQ"}
 
 # Barbecue
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-08-25, do not edit -->
 
 {kw="restaurace a servis, grilování, maso, Amerika, Francie"}
 

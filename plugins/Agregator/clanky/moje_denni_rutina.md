@@ -1,11 +1,9 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-image="/files/preview/clanky/denni_rutina/preview.jpg" data-type="article" data-source="http://2017.hostovka.cz/nekolik-slov-o-mikovi-a-jeho-aktivitach.php"}
 
-{id="denni_rutina" author="Michael Klíma" ctime="2006-05"}
+{ctime="2006-11-25" mtime="2006-12-11" id="denni_rutina" author="Michael Klíma"}
 
 # Moje denní rutina
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 <!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
 

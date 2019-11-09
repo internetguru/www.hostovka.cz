@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=63.html" data-image="/files/preview/clanky/predkrmy/general.jpg" data-type="article"}
 
-{id="predkrmy" ctime="2005-08-18" author="Michael Klíma" short="Předkrmy" authorid="hostovka/michael_klima"}
+{ctime="2005-08-18" mtime="2005-08-18" id="predkrmy" author="Michael Klíma" short="Předkrmy" authorid="hostovka/michael_klima"}
 
 # Předkrmy
 

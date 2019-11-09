@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=398.html" data-image="files/preview/clanky/peceni/general.jpg" data-type="article"}
 
-{id="peceni" ctime="2009-04-13" author="Michael Klíma" short="Pečení" authorid="hostovka/michael_klima"}
+{ctime="2009-04-13" mtime="2009-04-13" id="peceni" author="Michael Klíma" short="Pečení" authorid="hostovka/michael_klima"}
 
 # Pečení
 

@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=298.html" data-image="/files/preview/clanky/michelin/general.jpg" data-type="article"}
 
-{id="michelin" ctime="2008-03-15" author="Michael Klíma" short="Michelin" authorid="hostovka/michael_klima"}
+{ctime="2008-03-15" mtime="2008-03-15" id="michelin" author="Michael Klíma" short="Michelin" authorid="hostovka/michael_klima"}
 
 # Michelin
 

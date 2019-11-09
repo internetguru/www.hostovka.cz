@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=106.html" data-image="files/preview/clanky/gastronomicke_skupiny/general.jpg" data-type="article"}
 
-{id="gastronomicke\_skupiny" ctime="2005-11-10" author="Michael Klíma" short="Gastronomické skupiny" authorid="hostovka/michael\_klima"}
+{ctime="2005-11-10" mtime="2005-11-10" id="gastronomicke\_skupiny" author="Michael Klíma" short="Gastronomické skupiny" authorid="hostovka/michael\_klima"}
 
 # Gastronomické skupiny na českých lístcích
 

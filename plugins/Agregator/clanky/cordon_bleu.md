@@ -1,11 +1,9 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=336.html" data-image="/files/preview/clanky/cordon_bleu/general.jpg" data-type="article"}
 
-{id="cordon_bleu" ctime="2008-06-25" author="Michael Klíma" short="Cordon Bleu" mtime="2019-08-11"}
+{ctime="2008-06-25" mtime="2019-08-11" id="cordon_bleu" author="Michael Klíma" short="Cordon Bleu"}
 
 # Škola či řízek Cordon Bleu
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-08-25, do not edit -->
 
 {kw="gastronomie, recept, škola, Francie"}
 
@@ -38,6 +36,8 @@ K vyučování v těchto kurzech byli přizýváni profesionální kuchaři. Mez
 První kurz začal 14. ledna 1896, v Paříži v Palais Royal. Jeho pořadatelé se s pýchou pochlubili nejnovější kuchařskou technologií – v jedné kuchyni byla instalována elektřina!
 
 Kuchařské kurzy měly okamžitý úspěch. Nejdříve byl dáván důraz na praktické vaření. Ale již v říjnu 1896 bylo v časopise oznámeno, že bude zahájen kurz klasického profesionálního vaření. Tyto počáteční kurzy byly pořádány pod vedením jednoho z prominentních kuchařů té doby, Charlese Drissense, kterému byl udělen titul _le Directeur des Cours de Cuisine du Cordon-Bleu {xml:lang="fr"}_.
+
+{id="vvoj\_koly\_cordon_bleu"}
 
 ## Vývoj školy Cordon Bleu
 
