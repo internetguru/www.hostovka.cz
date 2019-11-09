@@ -11,11 +11,11 @@
 
 Barding je výraz, který se objevuje zejména na lístcích zahraničních steakhousů. Jako studenti Hostovky bychom měli vědět, co to vlastně znamená.
 
-Masa, která nejsou dostatečně tučná nebo nemají dostatečné mramorování (anglicky _marbling_) se před tepelnou úpravou špikují (anglicky _larding_). Některá masa mají také dostatečnou vrstvu tuku, která ho do jisté míry chrání před vysušením a dává mu lepší chuť. Pokud maso tuto vrstvu nemá, tak se tukem obaluje (anglicky _barding_).
+Masa, která nejsou dostatečně tučná nebo nemají dostatečné mramorování (anglicky _marbling {xml:lang="en"}_) se před tepelnou úpravou špikují (anglicky _larding {xml:lang="en"}_). Některá masa mají také dostatečnou vrstvu tuku, která ho do jisté míry chrání před vysušením a dává mu lepší chuť. Pokud maso tuto vrstvu nemá, tak se tukem obaluje (anglicky _barding {xml:lang="en"}_).
 
 {class="example"}
 
 Pokrývání masa tenkými plátky tuku se zabraňuje jeho spálení nebo vysušení na povrchu. Tento tuk se během grilování či pečení vypeče, ale masu zůstává lepší chuť.
 
-Je tedy až trestuhodné, když někteří naši kuchaři z masa určeného k pečení nebo k přípravě steaků „opížlají“ i ten poslední kousek tuku.
+Je tedy až trestuhodné, když někteří naši kuchaři z masa určeného k pečení nebo k přípravě steaků „opižlají“ i ten poslední kousek tuku.
 
