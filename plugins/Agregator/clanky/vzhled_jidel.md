@@ -7,13 +7,13 @@
 
 {kw="gastronomie, prezentace, talíře"}
 
-Jídlo je vnímáno všemi smysly a zrak je v mnoha případech ten první. S podáváním jídla mimo psychologie souvisí mnoho faktorů, které nelze jednoznačně aplikovat. Vždy ale záleží, jaké jsou v dané lokalitě (případně restauraci) stravovací zvyklosti.
+Jídlo je vnímáno všemi smysly a zrak je v mnoha případech ten první. S podáváním jídla mimo psychologie souvisí mnoho dalších faktorů, které nelze jednoznačně aplikovat. Vždy ale záleží, jaké jsou v dané lokalitě (případně restauraci) stravovací zvyklosti.
 
 {class="example"}
 
 Jinak jsou například prezentovány předkrmy a studené mísy, polévky, hlavní jídla a moučníky, a to nemluvím o prezentaci jídla na bufetových pultech.
 
-O prezentaci jídla se dříve staral _garde manger {xml:lang="fr"}_, který je dnes v mnoha podnicích nahrazován takzvanými stylisty (anglicky _food stylist {xml:lang="en"}_). Nejsou to vždy kuchaři v pravém slova smyslu, ale spíše umělci, kteří se specializují na úpravu a prezentaci jídel. Stylisti nejsou oproti [garde manažerům][4] zodpovědní za chuť jídla.
+O prezentaci jídla se dříve staral _garde manger {xml:lang="fr"}_, který je dnes v mnoha podnicích nahrazován takzvanými stylisty (anglicky _food stylist {xml:lang="en"}_). Nejsou to vždy kuchaři v pravém slova smyslu, ale spíše umělci, kteří se specializují na úpravu a prezentaci jídel. Oproti titulu [garde manger][4] však stylisti nejsou zodpovědní za chuť jídla.
 
 ## Historie podávání jídel
 
@@ -23,7 +23,7 @@ Historicky většina kuchařů teplé kuchyně (mimo [Caréma][1]) umělecké pr
 
 Sám velký současný francouzský kuchař Paul Bocuse říká, že chuť jídla je mnohem důležitější než jeho vzhled. I když je Bocuse bezesporu autoritou v dnešní francouzské gastronomii, tak se nedá říci, že by měl ve všem pravdu. Nehledě na to, že gastronomie dnes není něco, v čem by Francouzi drželi prvenství.
 
-Důležitost prezentace jídel si uvědomili hlavně provozovatelé velkých amerických cateringových podniků. Pro ty není (díky [polotovarům][2]) velký problém připravit [banket][3] pro 5 000 a více lidí. Cateringoví specialisté moc dobře vědí, že 4 999 lidí z této skupiny (až na jednoho slepého) jí očima.
+Důležitost prezentace jídel si uvědomili hlavně provozovatelé velkých amerických cateringových podniků. Pro ty není (díky [polotovarům][2]) velký problém připravit [banket][3] pro 5 000 i více lidí. Cateringoví specialisté moc dobře vědí, že 4 999 lidí z této skupiny (až na jednoho slepého) jí očima.
 
 Cateringových společností je ale v Americe velké množství a všechny mají stejné know-how. Ani v kvalitě jídla není žádný velký rozdíl. Lidé si to neuvědomují, ale všechny tyto společnosti mají téměř stejně vybavené kuchyně. Všechny nakupují suroviny ze stejných zdrojů, přijímají zaměstnance ze „stejné ulice“ a mají stejné nevyučené kuchaře. Jediné, čím se mohou odlišit od konkurence, je prostředí a servis neboli celkovým dojmem – v čele s prezentací jídla.
 
@@ -61,7 +61,7 @@ Na vhodné nádobí se zapomíná již při tvorbě jídelního lístku. To, že
 
 V mnoha případech to totiž není ani jídlo samotné, které si získá obdiv hosta, ale nádobí, na kterém je podáváno. V tomto ohledu se má naše pohostinství ještě hodně co učit.
 
-V mysli mnoha kuchařů je zafixováno, že saláty a předkrmy musí být podávány na malých, takzvaných předkrmových nebo salátových talířcích. Dnes to však není zdaleka pravda. Například carpacio, jeden z velice populárních předkrmů, je podáváno na velkém studeném talíři.
+V mysli mnoha kuchařů je zafixováno, že saláty a předkrmy musí být podávány na malých, takzvaných předkrmových nebo salátových talířcích. Dnes to však není zdaleka pravda. Například jeden z velice populárních předkrmů carpacio je podáván na velkém studeném talíři.
 
 Ale i jiné předkrmy jsou dnes podávány zcela neortodoxně ve skle. To by podle archaických předpisů bylo považováno za faux pas. Ale povídejte to dnešním „demi chefům“.
 
