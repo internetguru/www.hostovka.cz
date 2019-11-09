@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=318.html" data-image="/files/preview/clanky/osh/general.jpg" data-type="article"}
 
-{id="osh" ctime="2008-05-09" author="Michael Klíma" short="OSH" mtime="2019-11-07"}
+{ctime="2008-05-09" mtime="2019-11-07" id="osh" author="Michael Klíma" short="OSH"}
 
 # Organizace pro bezpečné a zdravé pracovní podmínky OSH
 

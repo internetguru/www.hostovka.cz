@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=187.html" data-image="/files/preview/clanky/tequila/general.jpg" data-type="article"}
 
-{id="tequila" ctime="2006-11-03" author="Michael Klíma" short="Tequila" authorid="hostovka/michael_klima"}
+{ctime="2006-11-03" mtime="2006-11-03" id="tequila" author="Michael Klíma" short="Tequila" authorid="hostovka/michael_klima"}
 
 # Tequila
 

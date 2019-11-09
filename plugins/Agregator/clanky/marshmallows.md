@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=284.html" data-image="/files/preview/clanky/marshmallows/general.jpg" data-type="article"}
 
-{id="marshmallows" ctime="2008-02-12" author="Michael Klíma" short="Marshmallows" mtime="2019-11-07"}
+{ctime="2008-02-12" mtime="2019-11-07" id="marshmallows" author="Michael Klíma" short="Marshmallows"}
 
 # Cukroví marshmallows
 

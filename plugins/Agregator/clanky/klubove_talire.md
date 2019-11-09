@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=242.html" data-image="/files/preview/clanky/klubove_talire/general.jpg" data-type="article"}
 
-{id="klubove_talire" ctime="2007-07-05" author="Michael Klíma" mtime="2019-02-19" short="Klubové talíře"}
+{ctime="2007-07-05" mtime="2019-02-19" id="klubove_talire" author="Michael Klíma" short="Klubové talíře"}
 
 # Používání klubových talířů
 

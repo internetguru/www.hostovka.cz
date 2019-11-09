@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=179.html" data-image="/files/preview/clanky/steak/general.jpg" data-type="article"}
 
-{id="steak" ctime="2006-09-27" author="Michael Klíma" mtime="2019-08-13" short="Steak"}
+{ctime="2006-09-27" mtime="2019-08-13" id="steak" author="Michael Klíma" short="Steak"}
 
 # Co je to steak
 

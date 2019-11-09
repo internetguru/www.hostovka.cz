@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=498.html" data-image="/files/preview/clanky/pochoutky\_s\_ocasem/general.jpg" data-type="article"}
 
-{id="pochoutky\_s\_ocasem" ctime="2010-01-25" author="Michael Klíma" short="Pochoutky s ocasem" authorid="hostovka/michael_klima"}
+{ctime="2010-01-25" mtime="2010-01-25" id="pochoutky\_s\_ocasem" author="Michael Klíma" short="Pochoutky s ocasem" authorid="hostovka/michael_klima"}
 
 # Pochoutky s ocasem
 

@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=302.html" data-image="/files/preview/clanky/cenotvorba/general.jpg" data-type="article"}
 
-{id="cenotvorba" ctime="2008-03-29" author="Michael Klíma" short="Cenotvorba" authorid="hostovka/michael_klima"}
+{ctime="2008-03-29" mtime="2008-03-29" id="cenotvorba" author="Michael Klíma" short="Cenotvorba" authorid="hostovka/michael_klima"}
 
 # Cenotvorba
 

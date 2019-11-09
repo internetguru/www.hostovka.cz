@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=61.html" data-image="/files/preview/clanky/gastonomie/general.jpg" data-type="article"}
 
-{id="gastonomie" ctime="2005-08-11" author="Michael Klíma" short="Gastronomie" authorid="hostovka/michael_klima"}
+{ctime="2005-08-11" mtime="2005-08-11" id="gastonomie" author="Michael Klíma" short="Gastronomie" authorid="hostovka/michael_klima"}
 
 # Gastronomie
 

@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=475.html" data-image="/files/preview/clanky/buffety_planovani/general.jpg" data-type="article"}
 
-{id="buffety\_planovani" ctime="2009-12-20" author="Michael Klíma" short="Buffety plánování" authorid="hostovka/michael\_klima"}
+{ctime="2009-12-20" mtime="2009-12-20" id="buffety\_planovani" author="Michael Klíma" short="Buffety plánování" authorid="hostovka/michael\_klima"}
 
 # Buffety plánování
 

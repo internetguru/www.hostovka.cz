@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=481.html" data-image="/files/preview/clanky/confit/general.jpg" data-type="article"}
 
-{id="konfitovani" ctime="2009-12-26" author="Michael Klíma" short="Konfitování" mtime="2019-11-07"}
+{ctime="2009-12-26" mtime="2019-11-07" id="konfitovani" author="Michael Klíma" short="Konfitování"}
 
 # Konzervace potravin konfitováním
 

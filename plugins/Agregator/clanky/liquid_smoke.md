@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=159.html" data-image="/files/preview/clanky/liquid_smoke/general.jpg" data-type="article"}
 
-{id="liquid\_smoke" ctime="2006-07-09" author="Michael Klíma" short="Liquid smoke" authorid="hostovka/michael\_klima"}
+{ctime="2006-07-09" mtime="2006-07-09" id="liquid\_smoke" author="Michael Klíma" short="Liquid smoke" authorid="hostovka/michael\_klima"}
 
 # Liquid smoke
 

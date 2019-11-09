@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=5.html" data-image="/files/preview/clanky/ekonomie\_kuchynskych\_technik/general.jpg" data-type="article"}
 
-{id="ekonomie\_kuchynskych\_technik" ctime="2005-06-05" author="Michael Klíma" short="Ekonomie kuchyňských technik" authorid="hostovka/michael_klima"}
+{ctime="2005-06-05" mtime="2005-06-05" id="ekonomie\_kuchynskych\_technik" author="Michael Klíma" short="Ekonomie kuchyňských technik" authorid="hostovka/michael_klima"}
 
 # Ekonomie kuchyňských technik
 

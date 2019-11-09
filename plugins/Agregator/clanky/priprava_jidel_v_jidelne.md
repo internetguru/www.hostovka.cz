@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=473.html" data-image="/files/preview/clanky/priprava\_jidel\_v_jidelne/general.jpg" data-type="article"}
 
-{id="priprava\_jidel\_v\_jidelne" ctime="2009-12-20" author="Michael Klíma" short="Příprava jídel v jídelně" authorid="hostovka/michael\_klima"}
+{ctime="2009-12-20" mtime="2009-12-20" id="priprava\_jidel\_v\_jidelne" author="Michael Klíma" short="Příprava jídel v jídelně" authorid="hostovka/michael\_klima"}
 
 # Příprava jídel v jídelně
 

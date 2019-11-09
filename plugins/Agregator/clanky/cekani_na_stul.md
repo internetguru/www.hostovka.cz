@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=140.html" data-image="/files/preview/clanky/cekani\_na\_stul/general.jpg" data-type="article"}
 
-{id="cekani\_na\_stul" ctime="2006-03-13" mtime="2018-12-07" author="Michael Klíma" short="Čekání na stůl"}
+{ctime="2006-03-13" mtime="2018-12-07" id="cekani\_na\_stul" author="Michael Klíma" short="Čekání na stůl"}
 
 # Rezervace a čekání na stůl
 

@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=30.html" data-image="/files/preview/clanky/agnes_sorel/general.jpg" data-type="article"}
 
-{id="agnes\_sorel" ctime="2005-07-03" author="Michael Klíma" short="Agnès Sorel" authorid="hostovka/michael\_klima"}
+{ctime="2005-07-03" mtime="2005-07-03" id="agnes\_sorel" author="Michael Klíma" short="Agnès Sorel" authorid="hostovka/michael\_klima"}
 
 # Agnès Sorel
 

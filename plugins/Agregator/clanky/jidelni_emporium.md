@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=91.html" data-image="/files/preview/clanky/jidelni_emporium/general.jpg" data-type="article"}
 
-{id="jidelni_emporium" ctime="2005-11-02" author="Michael Klíma" short="Jídelní emporium" mtime="2019-11-07"}
+{ctime="2005-11-02" mtime="2019-11-07" id="jidelni_emporium" author="Michael Klíma" short="Jídelní emporium"}
 
 # Koncept jídelního emporia
 

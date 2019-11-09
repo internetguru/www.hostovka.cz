@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=348.html" data-image="/files/preview/clanky/food_styling/general.jpg" data-type="article"}
 
-{id="food\_styling" ctime="2008-07-06" author="Michael Klíma" short="Food styling" authorid="hostovka/michael\_klima"}
+{ctime="2008-07-06" mtime="2008-07-06" id="food\_styling" author="Michael Klíma" short="Food styling" authorid="hostovka/michael\_klima"}
 
 # Food styling
 

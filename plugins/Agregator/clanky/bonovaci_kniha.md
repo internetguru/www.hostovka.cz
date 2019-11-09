@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=439.html" data-image="/files/preview/clanky/bonovaci_kniha/general.jpg" data-type="article"}
 
-{id="bonovaci\_kniha" ctime="2009-05-20" author="Michael Klíma" short="Bonovací kniha" authorid="hostovka/michael\_klima"}
+{ctime="2009-05-20" mtime="2009-05-20" id="bonovaci\_kniha" author="Michael Klíma" short="Bonovací kniha" authorid="hostovka/michael\_klima"}
 
 # Bonovací kniha
 

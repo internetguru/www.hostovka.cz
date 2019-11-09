@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=93.html" data-image="/files/preview/clanky/valet_parking/general.jpg" data-type="article"}
 
-{id="valet\_parking" ctime="2005-11-03" author="Michael Klíma" short="Valet parking" authorid="hostovka/michael\_klima"}
+{ctime="2005-11-03" mtime="2005-11-03" id="valet\_parking" author="Michael Klíma" short="Valet parking" authorid="hostovka/michael\_klima"}
 
 # Valet parking
 

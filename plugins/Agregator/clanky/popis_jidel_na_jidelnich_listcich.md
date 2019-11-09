@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=568.html" data-image="/files/preview/clanky/popis\_jidel\_na\_jidelnich\_listcich/general.jpg" data-type="article"}
 
-{id="popis\_jidel\_na\_jidelnich\_listcich" ctime="2011-07-29" author="Michael Klíma" short="Popis jídel na jídelních lístcích" authorid="hostovka/michael_klima"}
+{ctime="2011-07-29" mtime="2011-07-29" id="popis\_jidel\_na\_jidelnich\_listcich" author="Michael Klíma" short="Popis jídel na jídelních lístcích" authorid="hostovka/michael_klima"}
 
 # Popis jídel na jídelních lístcích
 

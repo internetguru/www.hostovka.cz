@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=315.html" data-image="/files/preview/clanky/polevky/general.jpg" data-type="article"}
 
-{id="studene_polevky" ctime="2008-05-01" author="Michael Klíma" short="Studené polévky" mtime="2019-10-16"}
+{ctime="2008-05-01" mtime="2019-10-16" id="studene_polevky" author="Michael Klíma" short="Studené polévky"}
 
 # Studené polévky
 

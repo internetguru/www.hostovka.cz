@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=362.html" data-image="/files/preview/clanky/mzda_strachu/general.jpg" data-type="article"}
 
-{id="mzda\_strachu" ctime="2008-08-07" author="Michael Klíma" short="Mzda strachu" authorid="hostovka/michael\_klima"}
+{ctime="2008-08-07" mtime="2008-08-07" id="mzda\_strachu" author="Michael Klíma" short="Mzda strachu" authorid="hostovka/michael\_klima"}
 
 # Mzda strachu
 

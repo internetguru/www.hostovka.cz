@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=353.html" data-image="/files/preview/clanky/pripradove_studie/general.jpg" data-type="article"}
 
-{id="pripradove\_studie" ctime="2008-07-17" author="Michael Klíma" short="Případové studie" authorid="hostovka/michael\_klima"}
+{ctime="2008-07-17" mtime="2008-07-17" id="pripradove\_studie" author="Michael Klíma" short="Případové studie" authorid="hostovka/michael\_klima"}
 
 # Případové studie
 

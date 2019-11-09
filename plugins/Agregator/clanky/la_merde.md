@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=359.html" data-image="/files/preview/clanky/la_merde/general.jpg" data-type="article"}
 
-{id="la\_merde" ctime="2008-07-29" author="Michael Klíma" short="La merde" authorid="hostovka/michael\_klima"}
+{ctime="2008-07-29" mtime="2008-07-29" id="la\_merde" author="Michael Klíma" short="La merde" authorid="hostovka/michael\_klima"}
 
 # La merde
 

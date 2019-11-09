@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=503.html" data-image="/files/preview/clanky/stredomorsky\_za\_dobrou_cenu/general.jpg" data-type="article"}
 
-{id="stredomorsky\_za\_dobrou\_cenu" ctime="2010-02-07" author="Michael Klíma" short="Středomořsky za dobrou cenu" authorid="hostovka/michael\_klima"}
+{ctime="2010-02-07" mtime="2010-02-07" id="stredomorsky\_za\_dobrou\_cenu" author="Michael Klíma" short="Středomořsky za dobrou cenu" authorid="hostovka/michael\_klima"}
 
 # Středomořsky za dobrou cenu
 

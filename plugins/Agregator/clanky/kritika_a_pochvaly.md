@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=108.html" data-image="/files/preview/clanky/kritika\_a\_pochvaly/general.jpg" data-type="article"}
 
-{id="kritika\_a\_pochvaly" ctime="2005-11-15" author="Michael Klíma" short="Kritika a pochvaly" authorid="hostovka/michael_klima"}
+{ctime="2005-11-15" mtime="2005-11-15" id="kritika\_a\_pochvaly" author="Michael Klíma" short="Kritika a pochvaly" authorid="hostovka/michael_klima"}
 
 # Kritika a pochvaly
 

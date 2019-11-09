@@ -1,13 +1,13 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=320.html" data-image="/files/preview/clanky/eurocuisine/general.jpg" data-type="article"}
 
-{id="eurocuisine" ctime="2008-05-11" author="Michael Klíma" short="Eurocuisine" mtime="2019-11-07"}
+{ctime="2008-05-11" mtime="2019-11-07" id="eurocuisine" author="Michael Klíma" short="Eurocuisine"}
 
 # Budoucnost evropské kuchyně
 
 {kw="gastronomie, Evropa"}
 
-Evropa se může pochlubit hned několika dobrými kuchyněmi, které byly založeny na historii a tradicích zemí, ve kterých vznikly. 
+Evropa se může pochlubit hned několika dobrými kuchyněmi, které byly založeny na historii a tradicích zemí, ve kterých vznikly.
 
 Dnešní (a díky Hostovce sofistikovaný) host má svoje představy o kvalitě a hodnotě jídel a nedá se již tak snadno opít rohlíkem. Evropská gastronomie, i když se o tom zatím nemluví, stojí před velkými změnami a mnohdy nebude stačit se změnám pouze přizpůsobit.
 

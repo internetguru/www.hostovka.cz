@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=397.html" data-image="/files/preview/clanky/ambrosia/general.jpg" data-type="article"}
 
-{id="ambrosia" ctime="2009-04-13" author="Michael Klíma" short="Ambrosia" authorid="hostovka/michael_klima"}
+{ctime="2009-04-13" mtime="2009-04-13" id="ambrosia" author="Michael Klíma" short="Ambrosia" authorid="hostovka/michael_klima"}
 
 # Ambrosia
 

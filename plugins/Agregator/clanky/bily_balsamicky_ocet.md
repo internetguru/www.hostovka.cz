@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=341.html" data-image="/files/preview/clanky/bily\_balsamicky\_ocet/general.jpg" data-type="article"}
 
-{id="bily\_balsamicky\_ocet" ctime="2008-06-29" author="Michael Klíma" short="Bílý balsamický ocet" authorid="hostovka/michael_klima"}
+{ctime="2008-06-29" mtime="2008-06-29" id="bily\_balsamicky\_ocet" author="Michael Klíma" short="Bílý balsamický ocet" authorid="hostovka/michael_klima"}
 
 # Bílý balsamický ocet
 

@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=427.html" data-image="/files/preview/clanky/management\_by\_menu/general.jpg" data-type="article"}
 
-{id="management\_by\_menu" ctime="2009-05-04" author="Michael Klíma" short="Management By Menu" authorid="hostovka/michael_klima"}
+{ctime="2009-05-04" mtime="2009-05-04" id="management\_by\_menu" author="Michael Klíma" short="Management By Menu" authorid="hostovka/michael_klima"}
 
 # Management By the Menu
 

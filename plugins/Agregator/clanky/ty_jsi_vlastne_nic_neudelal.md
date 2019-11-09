@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=517.html" data-image="/files/preview/clanky/ty\_jsi\_vlastne\_nic\_neudelal/general.jpg" data-type="article"}
 
-{id="ty\_jsi\_vlastne\_nic\_neudelal" ctime="2010-03-24" author="Michael Klíma" short="Ty jsi vlastně nic neudělal" authorid="hostovka/michael_klima"}
+{ctime="2010-03-24" mtime="2010-03-24" id="ty\_jsi\_vlastne\_nic\_neudelal" author="Michael Klíma" short="Ty jsi vlastně nic neudělal" authorid="hostovka/michael_klima"}
 
 # Ty jsi pro mě vlastně nic neudělal
 

@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=163.html" data-og-image="/files/preview/clanky/co\_chutna\_cizincum/general.jpg" data-og-type="article"}
 
-{id="zahranicni_kuchyne" ctime="2005-06-12" author="Michael Klíma" short="Zahraniční kuchyně" authorid="hostovka/michael_klima"}
+{ctime="2005-06-12" mtime="2005-06-12" id="zahranicni\_kuchyne" author="Michael Klíma" short="Zahraniční kuchyně" authorid="hostovka/michael\_klima"}
 
 # Zahraniční kuchyně
 

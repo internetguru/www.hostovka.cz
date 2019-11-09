@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=282.html" data-image="/files/preview/clanky/chucpa/general.jpg" data-type="article"}
 
-{id="chucpa" ctime="2008-02-11" author="Michael Klíma" short="Chucpa" authorid="hostovka/michael_klima"}
+{ctime="2008-02-11" mtime="2008-02-11" id="chucpa" author="Michael Klíma" short="Chucpa" authorid="hostovka/michael_klima"}
 
 # Chucpa
 

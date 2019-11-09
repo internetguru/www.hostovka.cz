@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=229.html" data-image="/files/preview/clanky/tatarsky_steak/general.jpg" data-type="article"}
 
-{id="tatarsky\_steak" ctime="2007-04-23" author="Michael Klíma" short="Tatarský steak" authorid="hostovka/michael\_klima"}
+{ctime="2007-04-23" mtime="2007-04-23" id="tatarsky\_steak" author="Michael Klíma" short="Tatarský steak" authorid="hostovka/michael\_klima"}
 
 # Tatarský steak trochu jinak
 

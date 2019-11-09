@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=267.html" data-image="/files/preview/clanky/split_checks/general.jpg" data-type="article"}
 
-{id="split\_checks" ctime="2008-01-04" author="Michael Klíma" short="Split Checks" authorid="hostovka/michael\_klima"}
+{ctime="2008-01-04" mtime="2008-01-04" id="split\_checks" author="Michael Klíma" short="Split Checks" authorid="hostovka/michael\_klima"}
 
 # Split Checks
 

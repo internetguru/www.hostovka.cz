@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=139.html" data-image="/files/preview/clanky/reservace/general.jpg" data-type="article"}
 
-{id="reservace" ctime="2006-03-13" author="Michael Klíma" short="Reservace" authorid="hostovka/michael_klima"}
+{ctime="2006-03-13" mtime="2006-03-13" id="reservace" author="Michael Klíma" short="Reservace" authorid="hostovka/michael_klima"}
 
 # Reservace
 

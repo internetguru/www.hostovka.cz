@@ -1,11 +1,9 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=301.html" data-image="/files/preview/clanky/gastronomove/general.jpg" data-type="article"}
 
-{id="gastronomove" ctime="2008-03-27" author="Michael Klíma" short="Gastronomové" mtime="2019-05-24"}
+{ctime="2008-03-27" mtime="2019-05-24" id="gastronomove" author="Michael Klíma" short="Gastronomové"}
 
 # Gastronomové
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-08-25, do not edit -->
 
 {kw="gastronomie, gastronom, gurmet, gurmán, labužník, snob, host"}
 

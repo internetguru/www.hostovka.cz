@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=288.html" data-image="/files/preview/clanky/fortune_cookies/general.jpg" data-type="article"}
 
-{id="kolacky_stesti" ctime="2008-02-23" author="Michael Klíma" short="Koláčky štěstí" mtime="2019-10-23"}
+{ctime="2008-02-23" mtime="2019-10-23" id="kolacky_stesti" author="Michael Klíma" short="Koláčky štěstí"}
 
 # Ne až tak čínské koláčky štěstí
 

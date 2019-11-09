@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=129.html" data-image="/files/preview/clanky/kucharske_umeni/general.jpg" data-type="article"}
 
-{id="kucharske_umeni" ctime="2005-12-23" author="Michael Klíma" short="Kuchařské umění" mtime="2019-02-19"}
+{ctime="2005-12-23" mtime="2019-02-19" id="kucharske_umeni" author="Michael Klíma" short="Kuchařské umění"}
 
 # Pomíjivost kuchařského umění
 

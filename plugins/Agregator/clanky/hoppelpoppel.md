@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=96.html" data-image="/files/preview/clanky/hoppelpoppel/general.jpg" data-type="article"}
 
-{id="hoppelpoppel" ctime="2005-11-04" author="Michael Klíma" short="Hoppelpoppel" mtime="2019-11-07"}
+{ctime="2005-11-04" mtime="2019-11-07" id="hoppelpoppel" author="Michael Klíma" short="Hoppelpoppel"}
 
 # Hoppelpoppel – jídlo ze zbytků
 

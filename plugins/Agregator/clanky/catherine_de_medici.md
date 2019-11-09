@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=54.html" data-image="/files/preview/clanky/catherine\_de\_medici/general.jpg" data-type="article"}
 
-{id="catherine\_de\_medici" ctime="2005-07-29" author="Michael Klíma" short="Catherine de Medici" mtime="2019-11-07"}
+{ctime="2005-07-29" mtime="2019-11-07" id="catherine\_de\_medici" author="Michael Klíma" short="Catherine de Medici"}
 
 # Vliv Catherine de Medici na francouzskou kuchyni
 

@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=572.html" data-image="/files/preview/clanky/rent\_a\_chef/general.jpg" data-type="article"}
 
-{id="rent\_a\_chef" ctime="2011-08-11" author="Michael Klíma" short="Rent a chef" authorid="hostovka/michael_klima"}
+{ctime="2011-08-11" mtime="2011-08-11" id="rent\_a\_chef" author="Michael Klíma" short="Rent a chef" authorid="hostovka/michael_klima"}
 
 # Rent a chef
 

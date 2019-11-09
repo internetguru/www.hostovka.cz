@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=240.html" data-image="/files/preview/clanky/grily/general.jpg" data-type="article"}
 
-{id="grily" ctime="2007-06-28" author="Michael Klíma" short="Grily" authorid="hostovka/michael_klima"}
+{ctime="2007-06-28" mtime="2007-06-28" id="grily" author="Michael Klíma" short="Grily" authorid="hostovka/michael_klima"}
 
 # Grily
 

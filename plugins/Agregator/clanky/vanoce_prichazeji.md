@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=196.html" data-image="/files/preview/clanky/vanoce_prichazeji/general.jpg" data-type="article"}
 
-{id="vanoce\_prichazeji" ctime="2006-12-05" author="Michael Klíma" short="Vánoce přicházejí" authorid="hostovka/michael\_klima"}
+{ctime="2006-12-05" mtime="2006-12-05" id="vanoce\_prichazeji" author="Michael Klíma" short="Vánoce přicházejí" authorid="hostovka/michael\_klima"}
 
 # Vánoce přicházejí
 

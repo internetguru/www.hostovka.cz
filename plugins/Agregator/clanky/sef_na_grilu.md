@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=567.html" data-image="/files/preview/clanky/sef\_na\_grilu/general.jpg" data-type="article"}
 
-{id="sef\_na\_grilu" ctime="2011-07-28" author="Michael Klíma" short="Šéf na grilu" authorid="hostovka/michael_klima"}
+{ctime="2011-07-28" mtime="2011-07-28" id="sef\_na\_grilu" author="Michael Klíma" short="Šéf na grilu" authorid="hostovka/michael_klima"}
 
 # Šéf na grilu
 

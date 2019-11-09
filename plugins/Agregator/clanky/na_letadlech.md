@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=57.html" data-image="/files/preview/clanky/na_letadlech/general.jpg" data-type="article"}
 
-{id="na\_letadlech" ctime="2005-08-05" author="Michael Klíma" short="Na letadlech" authorid="hostovka/michael\_klima"}
+{ctime="2005-08-05" mtime="2005-08-05" id="na\_letadlech" author="Michael Klíma" short="Na letadlech" authorid="hostovka/michael\_klima"}
 
 # Na letadlech
 

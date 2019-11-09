@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=453.html" data-image="/files/preview/clanky/franchize_day/general.jpg" data-type="article"}
 
-{id="franchize\_day" ctime="2009-10-21" author="Michael Klíma" short="Franchize Day" authorid="hostovka/michael\_klima"}
+{ctime="2009-10-21" mtime="2009-10-21" id="franchize\_day" author="Michael Klíma" short="Franchize Day" authorid="hostovka/michael\_klima"}
 
 # Franchize Day
 

@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=307.html" data-image="/files/preview/clanky/pokojova_teplota/general.jpg" data-type="article"}
 
-{id="pokojova\_teplota" ctime="2008-04-23" author="Michael Klíma" short="Pokojová teplota" authorid="hostovka/michael\_klima"}
+{ctime="2008-04-23" mtime="2008-04-23" id="pokojova\_teplota" author="Michael Klíma" short="Pokojová teplota" authorid="hostovka/michael\_klima"}
 
 # Pokojová teplota
 

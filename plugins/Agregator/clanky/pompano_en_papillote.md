@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=227.html" data-image="/files/preview/clanky/pompano\_en\_papillote/general.jpg" data-type="article"}
 
-{id="pompano\_en\_papillote" ctime="2007-04-23" author="Michael Klíma" short="Pompano en Papillote" authorid="hostovka/michael_klima"}
+{ctime="2007-04-23" mtime="2007-04-23" id="pompano\_en\_papillote" author="Michael Klíma" short="Pompano en Papillote" authorid="hostovka/michael_klima"}
 
 # Pompano en Papillote
 

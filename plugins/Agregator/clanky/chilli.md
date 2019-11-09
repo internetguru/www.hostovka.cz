@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=268.html" data-image="/files/preview/clanky/chilli/general.jpg" data-type="article"}
 
-{id="chili" ctime="2008-01-08" author="Michael Klíma" short="Vítězné chili" mtime="2019-03-29"}
+{ctime="2008-01-08" mtime="2019-03-29" id="chili" author="Michael Klíma" short="Vítězné chili"}
 
 # Recept na vítězné chili
 

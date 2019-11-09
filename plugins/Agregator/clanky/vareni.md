@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=32.html" data-image="/files/preview/clanky/vareni/general.jpg" data-type="article"}
 
-{id="vareni" ctime="2005-07-03" author="Michael Klíma" short="Vaření" mtime="2019-03-11"}
+{ctime="2005-07-03" mtime="2019-03-11" id="vareni" author="Michael Klíma" short="Vaření"}
 
 # Tepelné úpravy potravin
 

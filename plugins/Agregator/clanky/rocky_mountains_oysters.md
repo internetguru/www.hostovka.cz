@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=134.html" data-image="/files/preview/clanky/rocky\_mountains\_oysters/general.jpg" data-type="article"}
 
-{id="rocky\_mountains\_oysters" ctime="2006-02-01" author="Michael Klíma" short="Rocky mountain oysters" authorid="hostovka/michael_klima"}
+{ctime="2006-02-01" mtime="2006-02-01" id="rocky\_mountains\_oysters" author="Michael Klíma" short="Rocky mountain oysters" authorid="hostovka/michael_klima"}
 
 # Rocky mountain oysters
 

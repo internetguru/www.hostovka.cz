@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=226.html" data-image="/files/preview/clanky/know_how/general.jpg" data-type="article"}
 
-{id="know\_how" ctime="2007-04-21" author="Michael Klíma" short="Know-how" authorid="hostovka/michael\_klima"}
+{ctime="2007-04-21" mtime="2007-04-21" id="know\_how" author="Michael Klíma" short="Know-how" authorid="hostovka/michael\_klima"}
 
 # Know-how
 

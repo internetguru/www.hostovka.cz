@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=337.html" data-image="/files/preview/clanky/svoboda_slova/general.jpg" data-type="article"}
 
-{id="svoboda\_slova" ctime="2008-06-26" author="Michael Klíma" short="Svobody slova" authorid="hostovka/michael\_klima"}
+{ctime="2008-06-26" mtime="2008-06-26" id="svoboda\_slova" author="Michael Klíma" short="Svobody slova" authorid="hostovka/michael\_klima"}
 
 # Svoboda slova a obchodní strategie
 

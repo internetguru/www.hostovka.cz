@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=113.html" data-image="files/preview/clanky/bahmi_goreng/preview.jpg" data-type="article"}
 
-{id="bahmi_goreng" ctime="2005-11-21" mtime="2018-12-06" short="Bahmi goreng" author="Michael Klíma"}
+{ctime="2005-11-21" mtime="2018-12-06" id="bahmi_goreng" short="Bahmi goreng" author="Michael Klíma"}
 
 # Příprava jídla bahmi goreng
 

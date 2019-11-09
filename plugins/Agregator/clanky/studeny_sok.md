@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=361.html" data-image="/files/preview/clanky/studeny_sok/general.jpg" data-type="article"}
 
-{id="studeny\_sok" ctime="2008-08-05" author="Michael Klíma" short="Studený šok" mtime="2019-11-07"}
+{ctime="2008-08-05" mtime="2019-11-07" id="studeny_sok" author="Michael Klíma" short="Studený šok"}
 
 # Chlazení studeným šokem
 

@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=191.html" data-image="/files/preview/clanky/minutky/general.jpg" data-type="article"}
 
-{id="minutky" ctime="2006-11-24" author="Michael Klíma" short="Minutky" authorid="hostovka/michael_klima"}
+{ctime="2006-11-24" mtime="2006-11-24" id="minutky" author="Michael Klíma" short="Minutky" authorid="hostovka/michael_klima"}
 
 # Minutky
 

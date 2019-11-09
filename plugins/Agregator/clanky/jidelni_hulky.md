@@ -1,11 +1,9 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=324.html" data-image="/files/preview/clanky/jidelni_hulky/general.jpg" data-type="article"}
 
-{id="hulky" ctime="2008-05-17" author="Michael Klíma" short="Hůlky" mtime="2019-08-12"}
+{ctime="2008-05-17" mtime="2019-08-12" id="hulky" author="Michael Klíma" short="Hůlky"}
 
 # Jídelní hůlky
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-08-25, do not edit -->
 
 {kw="gastronomie, jídelní hůlky, Čína"}
 

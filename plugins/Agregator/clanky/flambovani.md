@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=125.html" data-image="/files/preview/clanky/flambovani/general.jpg" data-type="article"}
 
-{id="flambovani" ctime="2005-12-12" author="Michael Klíma" short="Flambování" authorid="hostovka/michael_klima"}
+{ctime="2005-12-12" mtime="2005-12-12" id="flambovani" author="Michael Klíma" short="Flambování" authorid="hostovka/michael_klima"}
 
 # Flambování
 

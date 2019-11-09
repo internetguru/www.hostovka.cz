@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=161.html" data-image="/files/preview/clanky/cerstva_ryba/general.jpg" data-type="article"}
 
-{id="cerstva_ryba" ctime="2006-07-09" author="Michael Klíma" short="Čerstvá ryba" mtime="2018-12-07"}
+{ctime="2006-07-09" mtime="2018-12-07" id="cerstva_ryba" author="Michael Klíma" short="Čerstvá ryba"}
 
 # Opravdově čerstvá ryba v restauraci
 

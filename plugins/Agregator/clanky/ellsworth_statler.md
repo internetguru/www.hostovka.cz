@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=95.html" data-image="/files/preview/clanky/ellsworth_statler/general.jpg" data-type="article"}
 
-{id="ellsworth_statler" ctime="2005-11-04" author="Michael Klíma" short="Ellsworth M. Statler" mtime="2019-11-07"}
+{ctime="2005-11-04" mtime="2019-11-07" id="ellsworth_statler" author="Michael Klíma" short="Ellsworth M. Statler"}
 
 # Příběh hoteliéra Ellswortha M. Statlera
 

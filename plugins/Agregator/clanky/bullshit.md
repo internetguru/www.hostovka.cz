@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=285.html" data-image="/files/preview/clanky/bullshit/general.jpg" data-type="article"}
 
-{id="bullshit" ctime="2008-02-14" author="Michael Klíma" short="Bullshit" authorid="hostovka/michael_klima"}
+{ctime="2008-02-14" mtime="2008-02-14" id="bullshit" author="Michael Klíma" short="Bullshit" authorid="hostovka/michael_klima"}
 
 # Bullshit
 

@@ -1,11 +1,9 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=34.html" data-image="/files/preview/clanky/barding/general.jpg" data-type="article"}
 
-{id="barding" ctime="2008-07-03" author="Michael Klíma" short="Barding" mtime="2019-03-28"}
+{ctime="2008-07-03" mtime="2019-03-28" id="barding" author="Michael Klíma" short="Barding"}
 
 # Barding neboli obalování masa tukem
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
 
 {kw="kuchyňské techniky, maso"}
 

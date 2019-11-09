@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=300.html" data-image="/files/preview/clanky/mc_donalds/general.jpg" data-type="article"}
 
-{id="mc\_donalds" ctime="2008-03-24" author="Michael Klíma" short="Mc Donalds" authorid="hostovka/michael\_klima"}
+{ctime="2008-03-24" mtime="2008-03-24" id="mc\_donalds" author="Michael Klíma" short="Mc Donalds" authorid="hostovka/michael\_klima"}
 
 # Mc Donalds
 

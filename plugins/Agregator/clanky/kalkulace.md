@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=585.html" data-image="/files/preview/clanky/kalkulace/general.jpg" data-type="article"}
 
-{id="kalkulace" ctime="2011-09-16" author="Michael Klíma" short="Kalkulace" authorid="hostovka/michael_klima"}
+{ctime="2011-09-16" mtime="2011-09-16" id="kalkulace" author="Michael Klíma" short="Kalkulace" authorid="hostovka/michael_klima"}
 
 # Kalkulace
 

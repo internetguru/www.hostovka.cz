@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=326.html" data-image="/files/preview/clanky/artycoky/general.jpg" data-type="article"}
 
-{id="artycoky" ctime="2008-06-01" author="Michael Klíma" short="Artyčoky" mtime="2019-03-12"}
+{ctime="2008-06-01" mtime="2019-03-12" id="artycoky" author="Michael Klíma" short="Artyčoky"}
 
 # Neobyčejný bodlák artyčok
 

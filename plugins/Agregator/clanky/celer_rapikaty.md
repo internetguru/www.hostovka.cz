@@ -1,11 +1,9 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=208.html" data-image="/files/preview/clanky/celer_rapikaty/general.jpg" data-type="article"}
 
-{id="celer_rapikaty" ctime="2007-01-26" author="Michael Klíma" short="Řapíkatý celer" mtime="2019-03-29"}
+{ctime="2007-01-26" mtime="2019-03-29" id="celer_rapikaty" author="Michael Klíma" short="Řapíkatý celer"}
 
 # Jak vybrat a podávat řapíkatý celer
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
 
 {kw="zbožíznalství, recept, zelenina"}
 

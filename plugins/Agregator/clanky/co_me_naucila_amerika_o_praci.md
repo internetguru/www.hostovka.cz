@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-image="/files/preview/clanky/amerika\_o\_praci/preview.jpg" data-type="article" data-source="http://2017.hostovka.cz/nekolik-slov-o-mikovi-a-jeho-aktivitach.php"}
 
-{id="propagace" short="Propagace" author="Michael Klíma" ctime="2006-05" mtime="2018-12-17"}
+{ctime="2006-07-15" mtime="2018-12-17" id="propagace" short="Propagace" author="Michael Klíma"}
 
 # Důležitost propagace
 

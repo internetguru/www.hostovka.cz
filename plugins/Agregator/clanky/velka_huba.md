@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=476.html" data-image="/files/preview/clanky/velka_huba/general.jpg" data-type="article"}
 
-{id="velka\_huba" ctime="2009-12-21" author="Michael Klíma" short="Velká huba" authorid="hostovka/michael\_klima"}
+{ctime="2009-12-21" mtime="2009-12-21" id="velka\_huba" author="Michael Klíma" short="Velká huba" authorid="hostovka/michael\_klima"}
 
 # Velká huba
 

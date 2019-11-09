@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=47.html" data-image="/files/preview/clanky/ustrice/general.jpg" data-type="article"}
 
-{id="ustrice" ctime="2005-07-26" author="Michael Klíma" short="Ústřice" authorid="hostovka/michael_klima"}
+{ctime="2005-07-26" mtime="2005-07-26" id="ustrice" author="Michael Klíma" short="Ústřice" authorid="hostovka/michael_klima"}
 
 # Ústřice
 

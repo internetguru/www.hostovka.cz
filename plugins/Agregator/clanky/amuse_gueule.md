@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=135.html" data-image="/files/preview/clanky/amuse_gueule/general.jpg" data-type="article"}
 
-{id="jednohubky" ctime="2006-02-05" mtime="2018-12-06" short="Jednohubky" author="Michael Klíma"}
+{ctime="2006-02-05" mtime="2018-12-06" id="jednohubky" short="Jednohubky" author="Michael Klíma"}
 
 # Jednohubky pro pobavení huby
 

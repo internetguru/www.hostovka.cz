@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=582.html" data-image="/files/preview/clanky/stiznost_melikana/general.jpg" data-type="article"}
 
-{id="stiznost\_melikana" ctime="2011-09-08" author="Michael Klíma" short="Stížnost Melikana" authorid="hostovka/michael\_klima"}
+{ctime="2011-09-08" mtime="2011-09-08" id="stiznost\_melikana" author="Michael Klíma" short="Stížnost Melikana" authorid="hostovka/michael\_klima"}
 
 # Stížnost Melikana
 

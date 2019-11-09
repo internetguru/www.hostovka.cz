@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=207.html" data-image="/files/preview/clanky/toto\_se\_tyka\_nas\_vsech/general.jpg" data-type="article"}
 
-{id="toto\_se\_tyka\_nas\_vsech" ctime="2007-01-03" author="Michael Klíma" short="Toto se týká nás všech" authorid="hostovka/michael_klima"}
+{ctime="2007-01-03" mtime="2007-01-03" id="toto\_se\_tyka\_nas\_vsech" author="Michael Klíma" short="Toto se týká nás všech" authorid="hostovka/michael_klima"}
 
 # Toto se týká nás všech
 

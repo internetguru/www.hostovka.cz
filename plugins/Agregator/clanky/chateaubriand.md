@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-image="/files/preview/clanky/chateaubriand/preview.jpg" data-type="article" data-source="http://2017.hostovka.cz/clanek.php?clanek=157"}
 
-{id="chateaubriand" short="Chateaubriand" author="Michael Klíma" ctime="2006-07-02" mtime="2018-12-07"}
+{ctime="2006-07-02" mtime="2018-12-07" id="chateaubriand" short="Chateaubriand" author="Michael Klíma"}
 
 # Historie chateaubriandova steaku
 

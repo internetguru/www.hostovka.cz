@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=233.html" data-image="/files/preview/clanky/sele/general.jpg" data-type="article"}
 
-{id="sele" ctime="2007-05-14" author="Michael Klíma" short="Sele" authorid="hostovka/michael_klima"}
+{ctime="2007-05-14" mtime="2007-05-14" id="sele" author="Michael Klíma" short="Sele" authorid="hostovka/michael_klima"}
 
 # Sele
 

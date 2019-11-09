@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=519.html" data-image="/files/preview/clanky/po_narod/general.jpg" data-type="article"}
 
-{id="po\_narod" ctime="2010-03-24" author="Michael Klíma" short="Po národ" authorid="hostovka/michael\_klima"}
+{ctime="2010-03-24" mtime="2010-03-24" id="po\_narod" author="Michael Klíma" short="Po národ" authorid="hostovka/michael\_klima"}
 
 # Po národ
 

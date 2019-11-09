@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=107.html" data-og-image="/files/preview/clanky/koktejly/general.jpg" data-og-type="article"}
 
-{id="barmanstvi" ctime="2005-11-12" author="Michael Klíma" short="Koktejly" authorid="hostovka/michael_klima"}
+{ctime="2005-11-12" mtime="2005-11-12" id="barmanstvi" author="Michael Klíma" short="Koktejly" authorid="hostovka/michael_klima"}
 
 # Barmanství
 

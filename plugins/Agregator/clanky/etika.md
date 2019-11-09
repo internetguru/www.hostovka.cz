@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=276.html" data-image="/files/preview/clanky/etika/general.jpg" data-type="article"}
 
-{id="etika" ctime="2008-01-28" author="Michael Klíma" short="Etika" authorid="hostovka/michael_klima"}
+{ctime="2008-01-28" mtime="2008-01-28" id="etika" author="Michael Klíma" short="Etika" authorid="hostovka/michael_klima"}
 
 # Etika
 

@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=415.html" data-image="/files/preview/clanky/bain_marie/general.jpg" data-type="article"}
 
-{id="bain\_marie" ctime="2009-04-20" author="Michael Klíma" short="Bain-marie" mtime="2019-11-07"}
+{ctime="2009-04-20" mtime="2019-11-07" id="bain_marie" author="Michael Klíma" short="Bain-marie"}
 
 # Ohřevná vana bain-marie
 

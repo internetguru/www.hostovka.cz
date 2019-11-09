@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=198.html" data-image="/files/preview/clanky/hostovka/general.jpg" data-type="article"}
 
-{id="hostovka\_1" ctime="2006-12-12" author="Michael Klíma" short="Hostovka" authorid="hostovka/michael\_klima"}
+{ctime="2006-12-12" mtime="2006-12-12" id="hostovka\_1" author="Michael Klíma" short="Hostovka" authorid="hostovka/michael\_klima"}
 
 # Hostovka
 

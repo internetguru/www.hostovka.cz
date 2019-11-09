@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=277.html" data-image="/files/preview/clanky/mandolina/general.jpg" data-type="article"}
 
-{id="mandolina" ctime="2008-02-04" author="Michael Klíma" short="Mandolína" mtime="2019-11-07"}
+{ctime="2008-02-04" mtime="2019-11-07" id="mandolina" author="Michael Klíma" short="Mandolína"}
 
 # Multifunkční struhadlo kuchyňská mandolína
 

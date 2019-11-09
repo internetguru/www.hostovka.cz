@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=62.html" data-image="/files/preview/clanky/salatove_bary/general.jpg" data-type="article"}
 
-{id="salatove\_bary" ctime="2005-08-14" author="Michael Klíma" short="Salátové bary" authorid="hostovka/michael\_klima"}
+{ctime="2005-08-14" mtime="2005-08-14" id="salatove\_bary" author="Michael Klíma" short="Salátové bary" authorid="hostovka/michael\_klima"}
 
 # Salátové bary
 

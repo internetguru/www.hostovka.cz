@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=497.html" data-image="/files/preview/clanky/odbornici\_v\_pohostinstvi/general.jpg" data-type="article"}
 
-{id="odbornici\_v\_pohostinstvi" ctime="2010-01-23" author="Michael Klíma" short="Odborníci v pohostinství" authorid="hostovka/michael_klima"}
+{ctime="2010-01-23" mtime="2010-01-23" id="odbornici\_v\_pohostinstvi" author="Michael Klíma" short="Odborníci v pohostinství" authorid="hostovka/michael_klima"}
 
 # Odborníci v pohostinství
 

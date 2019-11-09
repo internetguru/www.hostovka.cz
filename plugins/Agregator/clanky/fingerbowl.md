@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=42.html" data-image="/files/preview/clanky/fingerbowl/general.jpg" data-type="article"}
 
-{id="fingerbowl" ctime="2009-07-25" author="Michael Klíma" short="Fingerbowl" authorid="hostovka/michael_klima"}
+{ctime="2009-07-25" mtime="2009-07-25" id="fingerbowl" author="Michael Klíma" short="Fingerbowl" authorid="hostovka/michael_klima"}
 
 # Fingerbowl
 

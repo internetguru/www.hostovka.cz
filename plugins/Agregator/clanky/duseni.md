@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=165.html" data-image="files/preview/clanky/duseni/general.jpg" data-type="article"}
 
-{id="duseni" ctime="2006-08-01" mtime="2018-12-19" author="Michael Klíma" short="Dušení"}
+{ctime="2006-08-01" mtime="2018-12-19" id="duseni" author="Michael Klíma" short="Dušení"}
 
 # Technika dušení ve světě
 

@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=591.html" data-image="/files/preview/clanky/cislovani_jidel/general.jpg" data-type="article"}
 
-{id="cislovani\_jidel" ctime="2011-10-08" author="Michael Klíma" short="Číslování jídel" authorid="hostovka/michael\_klima"}
+{ctime="2011-10-08" mtime="2011-10-08" id="cislovani\_jidel" author="Michael Klíma" short="Číslování jídel" authorid="hostovka/michael\_klima"}
 
 # Číslování jídel na jídelních lístcích
 

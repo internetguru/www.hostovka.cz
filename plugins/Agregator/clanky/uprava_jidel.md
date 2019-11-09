@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=433.html" data-image="/files/preview/clanky/uprava_jidel/general.jpg" data-type="article"}
 
-{id="uprava\_jidel" ctime="2009-05-10" author="Michael Klíma" short="Úprava jídel" authorid="hostovka/michael\_klima"}
+{ctime="2009-05-10" mtime="2009-05-10" id="uprava\_jidel" author="Michael Klíma" short="Úprava jídel" authorid="hostovka/michael\_klima"}
 
 # Úprava jídel
 

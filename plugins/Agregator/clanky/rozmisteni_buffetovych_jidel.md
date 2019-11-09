@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=477.html" data-image="/files/preview/clanky/rozmisteni\_buffetovych\_jidel/general.jpg" data-type="article"}
 
-{id="rozmisteni\_buffetovych\_jidel" ctime="2009-12-21" author="Michael Klíma" short="Rozmístění buffetových jídel" authorid="hostovka/michael_klima"}
+{ctime="2009-12-21" mtime="2009-12-21" id="rozmisteni\_buffetovych\_jidel" author="Michael Klíma" short="Rozmístění buffetových jídel" authorid="hostovka/michael_klima"}
 
 # Psychologie rozmístění buffetových jídel
 

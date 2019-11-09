@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=418.html" data-image="/files/preview/clanky/technologie_pohostinstvi/general.jpg" data-type="article"}
 
-{id="technologie\_pohostinstvi" ctime="2009-04-23" author="Michael Klíma" short="Technologie v pohostinství" authorid="hostovka/michael\_klima"}
+{ctime="2009-04-23" mtime="2009-04-23" id="technologie\_pohostinstvi" author="Michael Klíma" short="Technologie v pohostinství" authorid="hostovka/michael\_klima"}
 
 # Technologie v průmyslu v pohostinství
 

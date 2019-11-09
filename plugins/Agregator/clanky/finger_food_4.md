@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=44.html" data-image="/files/preview/clanky/finger\_food\_4/general.jpg" data-type="article"}
 
-{id="finger\_food\_4" ctime="2005-07-21" author="Michael Klíma" short="Finger food" authorid="hostovka/michael_klima"}
+{ctime="2005-07-21" mtime="2005-07-21" id="finger\_food\_4" author="Michael Klíma" short="Finger food" authorid="hostovka/michael_klima"}
 
 # Finger food
 

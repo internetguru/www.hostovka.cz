@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=97.html" data-image="/files/preview/clanky/hotchpotch/general.jpg" data-type="article"}
 
-{id="hotchpotch" ctime="2005-11-04" author="Michael Klíma" short="Hotchpotch" authorid="hostovka/michael_klima"}
+{ctime="2005-11-04" mtime="2005-11-04" id="hotchpotch" author="Michael Klíma" short="Hotchpotch" authorid="hostovka/michael_klima"}
 
 # Hotchpotch
 

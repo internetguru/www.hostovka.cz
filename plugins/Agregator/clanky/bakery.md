@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=215.html" data-image="/files/preview/clanky/bakery/general.jpg" data-type="article"}
 
-{id="bakery" ctime="2007-02-06" author="Michael Klíma" short="Bakery" authorid="hostovka/michael_klima"}
+{ctime="2007-02-06" mtime="2007-02-06" id="bakery" author="Michael Klíma" short="Bakery" authorid="hostovka/michael_klima"}
 
 # Bakery
 

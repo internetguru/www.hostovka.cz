@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=331.html" data-image="/files/preview/clanky/kucharina/general.jpg" data-type="article"}
 
-{id="kucharina" ctime="2008-06-17" author="Michael Klíma" short="Kuchařina" authorid="hostovka/michael_klima"}
+{ctime="2008-06-17" mtime="2008-06-17" id="kucharina" author="Michael Klíma" short="Kuchařina" authorid="hostovka/michael_klima"}
 
 # Kuchařina
 

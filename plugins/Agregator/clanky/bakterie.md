@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=423.html" data-image="/files/preview/clanky/bakterie/general.jpg" data-type="article"}
 
-{id="bakterie" ctime="2009-05-01" author="Michael Klíma" short="Bakterie" mtime="2019-11-07"}
+{ctime="2009-05-01" mtime="2019-11-07" id="bakterie" author="Michael Klíma" short="Bakterie"}
 
 # Mýtus o bakteriích
 

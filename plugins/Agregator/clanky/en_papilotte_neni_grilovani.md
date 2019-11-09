@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=446.html" data-image="/files/preview/clanky/en\_papilotte\_neni_grilovani/general.jpg" data-type="article"}
 
-{id="en\_papilotte\_neni\_grilovani" ctime="2009-06-16" author="Michael Klíma" short="En papilotte není grilování" authorid="hostovka/michael\_klima"}
+{ctime="2009-06-16" mtime="2009-06-16" id="en\_papilotte\_neni\_grilovani" author="Michael Klíma" short="En papilotte není grilování" authorid="hostovka/michael\_klima"}
 
 # En papilotte není grilování
 

@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=206.html" data-image="/files/preview/clanky/dulezitost\_etnickych\_kuchyni/general.jpg" data-type="article"}
 
-{id="dulezitost\_etnickych\_kuchyni" ctime="2007-01-01" author="Michael Klíma" short="Etnické kuchyně" authorid="hostovka/michael_klima"}
+{ctime="2007-01-01" mtime="2007-01-01" id="dulezitost\_etnickych\_kuchyni" author="Michael Klíma" short="Etnické kuchyně" authorid="hostovka/michael_klima"}
 
 # Etnické kuchyně
 

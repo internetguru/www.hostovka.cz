@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=358.html" data-image="/files/preview/clanky/steaky_preference/general.jpg" data-type="article"}
 
-{id="steaky\_preference" ctime="2008-07-28" author="Michael Klíma" short="Steaky preference" authorid="hostovka/michael\_klima"}
+{ctime="2008-07-28" mtime="2008-07-28" id="steaky\_preference" author="Michael Klíma" short="Steaky preference" authorid="hostovka/michael\_klima"}
 
 # Steaky preference
 

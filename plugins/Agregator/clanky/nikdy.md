@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=296.html" data-image="/files/preview/clanky/nikdy/general.jpg" data-type="article"}
 
-{id="nikdy" ctime="2008-03-12" author="Michael Klíma" short="Nikdy" authorid="hostovka/michael_klima"}
+{ctime="2008-03-12" mtime="2008-03-12" id="nikdy" author="Michael Klíma" short="Nikdy" authorid="hostovka/michael_klima"}
 
 # Nikdy
 

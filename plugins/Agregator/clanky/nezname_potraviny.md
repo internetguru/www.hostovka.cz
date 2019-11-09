@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=141.html" data-image="/files/preview/clanky/nezname_potraviny/general.jpg" data-type="article"}
 
-{id="nezname\_potraviny" ctime="2006-03-15" author="Michael Klíma" short="Neznámé potraviny" authorid="hostovka/michael\_klima"}
+{ctime="2006-03-15" mtime="2006-03-15" id="nezname\_potraviny" author="Michael Klíma" short="Neznámé potraviny" authorid="hostovka/michael\_klima"}
 
 # Neznámé potraviny
 

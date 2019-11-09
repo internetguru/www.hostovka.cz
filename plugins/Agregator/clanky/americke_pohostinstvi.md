@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=527.html" data-image="/files/preview/clanky/americke_pohostinstvi/general.jpg" data-type="article"}
 
-{id="americke\_pohostinstvi" ctime="2010-09-10" author="Michael Klíma" short="Americké pohostinství" authorid="hostovka/michael\_klima"}
+{ctime="2010-09-10" mtime="2010-09-10" id="americke\_pohostinstvi" author="Michael Klíma" short="Americké pohostinství" authorid="hostovka/michael\_klima"}
 
 # Americké pohostinství
 

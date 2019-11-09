@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=228.html" data-image="/files/preview/clanky/hotdog_2/general.jpg" data-type="article"}
 
-{id="hotdog\_2" ctime="2007-04-23" author="Michael Klíma" short="Hotdog 2" authorid="hostovka/michael\_klima"}
+{ctime="2007-04-23" mtime="2007-04-23" id="hotdog\_2" author="Michael Klíma" short="Hotdog 2" authorid="hostovka/michael\_klima"}
 
 # Hotdog 2
 

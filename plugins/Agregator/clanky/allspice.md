@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=111.html" data-image="files/preview/clanky/allspice/general.jpg" data-type="article"}
 
-{id="nove_koreni" ctime="2005-11-18" mtime="2018-12-05" author="Michael Klíma" short="Nové koření"}
+{ctime="2005-11-18" mtime="2018-12-05" id="nove_koreni" author="Michael Klíma" short="Nové koření"}
 
 # Historka o novém koření
 

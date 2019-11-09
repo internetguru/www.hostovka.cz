@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=539.html" data-image="/files/preview/clanky/spolecenske_funkce/general.jpg" data-type="article"}
 
-{id="spolecenske\_funkce" ctime="2010-10-17" author="Michael Klíma" short="Společenské funkce" authorid="hostovka/michael\_klima"}
+{ctime="2010-10-17" mtime="2010-10-17" id="spolecenske\_funkce" author="Michael Klíma" short="Společenské funkce" authorid="hostovka/michael\_klima"}
 
 # Společenské funkce
 

@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=496.html" data-image="/files/preview/clanky/sofistikovany_host/general.jpg" data-type="article"}
 
-{id="sofistikovany\_host" ctime="2010-01-23" author="Michael Klíma" short="Sofistikovaný host" authorid="hostovka/michael\_klima"}
+{ctime="2010-01-23" mtime="2010-01-23" id="sofistikovany\_host" author="Michael Klíma" short="Sofistikovaný host" authorid="hostovka/michael\_klima"}
 
 # Jak se stát sofistikovaným hostem
 

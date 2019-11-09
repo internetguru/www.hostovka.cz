@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=437.html" data-image="/files/preview/clanky/sluzby/general.jpg" data-type="article"}
 
-{id="sluzby" ctime="2009-05-17" author="Michael Klíma" short="Služby" authorid="hostovka/michael_klima"}
+{ctime="2009-05-17" mtime="2009-05-17" id="sluzby" author="Michael Klíma" short="Služby" authorid="hostovka/michael_klima"}
 
 # Služby
 

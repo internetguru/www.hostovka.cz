@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=580.html" data-image="/files/preview/clanky/tiskova\_zprava\_akp_cr/general.jpg" data-type="article"}
 
-{id="tiskova\_zprava\_akp\_cr" ctime="2011-08-31" author="Michael Klíma" short="Tisková zpráva APK ČR" authorid="hostovka/michael\_klima"}
+{ctime="2011-08-31" mtime="2011-08-31" id="tiskova\_zprava\_akp\_cr" author="Michael Klíma" short="Tisková zpráva APK ČR" authorid="hostovka/michael\_klima"}
 
 # Tisková zpráva APK ČR
 

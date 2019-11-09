@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=256.html" data-image="/files/preview/clanky/ecoflower/general.jpg" data-type="article"}
 
-{id="ecoflower" ctime="2007-10-22" author="Michael Klíma" short="Ecoflower" mtime="2019-11-07"}
+{ctime="2007-10-22" mtime="2019-11-07" id="ecoflower" author="Michael Klíma" short="Ecoflower"}
 
 # Označení výrobků ecoflower
 

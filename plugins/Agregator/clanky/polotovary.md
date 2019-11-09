@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=193.html" data-image="/files/preview/clanky/polotovary/general.jpg" data-type="article"}
 
-{id="polotovary" ctime="2006-11-29" author="Michael Klíma" short="Polotovary" authorid="hostovka/michael_klima"}
+{ctime="2006-11-29" mtime="2006-11-29" id="polotovary" author="Michael Klíma" short="Polotovary" authorid="hostovka/michael_klima"}
 
 # Polotovary
 

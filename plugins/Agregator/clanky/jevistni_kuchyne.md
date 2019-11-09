@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=346.html" data-image="/files/preview/clanky/prezentace_jidel/general.jpg" data-type="article"}
 
-{id="jevistni_kuchyne" ctime="2007-05-05" author="Michael Klíma" short="Jevištní kuchyně" mtime="2019-10-25"}
+{ctime="2007-05-05" mtime="2019-10-25" id="jevistni_kuchyne" author="Michael Klíma" short="Jevištní kuchyně"}
 
 # Prezentace jídel před zraky hostů
 

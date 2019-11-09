@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=148.html" data-image="/files/preview/clanky/jahody/general.jpg" data-type="article"}
 
-{id="jahody" ctime="2006-04-21" author="Michael Klíma" short="Jahody" authorid="hostovka/michael_klima"}
+{ctime="2006-04-21" mtime="2006-04-21" id="jahody" author="Michael Klíma" short="Jahody" authorid="hostovka/michael_klima"}
 
 # Jahody
 

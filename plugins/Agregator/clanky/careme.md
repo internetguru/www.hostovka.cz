@@ -1,11 +1,9 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=60.html" data-image="/files/preview/clanky/careme/general.jpg" data-type="article"}
 
-{id="careme" ctime="2005-08-07" author="Michael Klíma" short="Carême" mtime="2019-08-19"}
+{ctime="2005-08-07" mtime="2019-08-19" id="careme" author="Michael Klíma" short="Carême"}
 
 # Marie-Antoine Carême
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-08-25, do not edit -->
 
 {kw="kdo-kdy-kde, Francie, osobnost"}
 

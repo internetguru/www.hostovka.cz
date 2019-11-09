@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=71.html" data-image="/files/preview/clanky/steamship_round/general.jpg" data-type="article"}
 
-{id="steamship\_round" ctime="2005-08-25" author="Michael Klíma" short="Steamship round" authorid="hostovka/michael\_klima"}
+{ctime="2005-08-25" mtime="2005-08-25" id="steamship\_round" author="Michael Klíma" short="Steamship round" authorid="hostovka/michael\_klima"}
 
 # Steamship round
 

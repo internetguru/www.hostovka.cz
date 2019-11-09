@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=50.html" data-image="/files/preview/clanky/chipsy/general.jpg" data-type="article"}
 
-{id="bramborove_lupinky" ctime="2005-07-29" author="Michael Klíma" short="Bramborové lupínky" mtime="2019-11-07"}
+{ctime="2005-07-29" mtime="2019-11-07" id="bramborove_lupinky" author="Michael Klíma" short="Bramborové lupínky"}
 
 # Bramborové lupínky
 
@@ -21,7 +21,7 @@ Hosté resortu _Moon Lake {xml:lang="en"}_, mezi něž patřil i _Thomas Jeffers
 
 Hostovi tyto brambory nesmírně chutnaly a staly se tak velmi populárními pod jménem _Saratoga Chips {xml:lang="en"}_. Popularity využilo několik firem, které ale prefix _Saratoga {xml:lang="en"}_ vynechaly a začaly je prodávat jako _potato chips {xml:lang="en"}_, zkráceně _chips {xml:lang="en"}_.
 
-Dnes se ale výraz chips stal v Americe synonymem i pro lupínky vyráběné z kukuřičného těsta či z tortilly. 
+Dnes se ale výraz chips stal v Americe synonymem i pro lupínky vyráběné z kukuřičného těsta či z tortilly.
 
 {class="example"}
 

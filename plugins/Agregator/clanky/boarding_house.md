@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=178.html" data-image="files/preview/clanky/barding_house/general.jpg" data-type="article"}
 
-{id="boarding\_house" ctime="2006-09-22" author="Michael Klíma" short="Boarding House" authorid="hostovka/michael\_klima"}
+{ctime="2006-09-22" mtime="2006-09-22" id="boarding\_house" author="Michael Klíma" short="Boarding House" authorid="hostovka/michael\_klima"}
 
 # Boarding House
 

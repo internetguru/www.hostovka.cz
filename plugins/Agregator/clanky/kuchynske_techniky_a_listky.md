@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=27.html" data-image="/files/preview/clanky/kuchynske\_techniky\_a_listky/general.jpg" data-type="article"}
 
-{id="kuchynske\_techniky\_a\_listky" ctime="2005-07-03" author="Michael Klíma" short="Kuchyňské techniky a lístky" authorid="hostovka/michael\_klima"}
+{ctime="2005-07-03" mtime="2005-07-03" id="kuchynske\_techniky\_a\_listky" author="Michael Klíma" short="Kuchyňské techniky a lístky" authorid="hostovka/michael\_klima"}
 
 # Kuchyňské techniky a jídelní lístky
 

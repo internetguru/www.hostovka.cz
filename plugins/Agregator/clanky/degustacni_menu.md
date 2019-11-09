@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=356.html" data-image="/files/preview/clanky/degustacni_menu/general.jpg" data-type="article"}
 
-{id="degustacni\_menu" ctime="2008-07-24" author="Michael Klíma" short="Degustační menu" authorid="hostovka/michael\_klima"}
+{ctime="2008-07-24" mtime="2008-07-24" id="degustacni\_menu" author="Michael Klíma" short="Degustační menu" authorid="hostovka/michael\_klima"}
 
 # Degustační menu
 

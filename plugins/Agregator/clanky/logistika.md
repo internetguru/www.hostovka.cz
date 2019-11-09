@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=422.html" data-image="/files/preview/clanky/logistika/general.jpg" data-type="article"}
 
-{id="logistika" ctime="2009-05-01" author="Michael Klíma" short="Logistika" authorid="hostovka/michael_klima"}
+{ctime="2009-05-01" mtime="2009-05-01" id="logistika" author="Michael Klíma" short="Logistika" authorid="hostovka/michael_klima"}
 
 # Logistika
 

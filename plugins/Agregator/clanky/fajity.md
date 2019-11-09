@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=271.html" data-image="/files/preview/clanky/fajity/general.jpg" data-type="article"}
 
-{id="fajitas" ctime="2008-01-13" author="Michael Klíma" short="Fajitas" mtime="2019-11-07"}
+{ctime="2008-01-13" mtime="2019-11-07" id="fajitas" author="Michael Klíma" short="Fajitas"}
 
 # Mexické jídlo fajitas
 

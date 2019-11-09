@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=131.html" data-image="/files/preview/clanky/nazvy_jidel/general.jpg" data-type="article"}
 
-{id="nazvy\_jidel" ctime="2006-01-16" author="Michael Klíma" short="Názvy jídel" authorid="hostovka/michael\_klima"}
+{ctime="2006-01-16" mtime="2006-01-16" id="nazvy\_jidel" author="Michael Klíma" short="Názvy jídel" authorid="hostovka/michael\_klima"}
 
 # Názvy jídel
 

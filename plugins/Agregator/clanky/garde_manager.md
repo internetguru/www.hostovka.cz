@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=310.html" data-image="/files/preview/clanky/garde_manager/general.jpg" data-type="article"}
 
-{id="garde\_manger" ctime="2008-04-27" author="Michael Klíma" short="Garde manger" mtime="2019-11-07"}
+{ctime="2008-04-27" mtime="2019-11-07" id="garde_manger" author="Michael Klíma" short="Garde manger"}
 
 # Historie titulu garde manger
 

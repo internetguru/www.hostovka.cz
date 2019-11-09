@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=347.html" data-image="/files/preview/clanky/zdobeni/general.jpg" data-type="article"}
 
-{id="zdobeni" ctime="2008-07-06" author="Michael Klíma" short="Zdobení" mtime="2019-03-11"}
+{ctime="2008-07-06" mtime="2019-03-11" id="zdobeni" author="Michael Klíma" short="Zdobení"}
 
 # Zdobení jídla
 

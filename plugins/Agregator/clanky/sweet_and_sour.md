@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=390.html" data-image="/files/preview/clanky/sweet\_and\_sour/general.jpg" data-type="article"}
 
-{id="sweet\_and\_sour" ctime="2009-04-09" author="Michael Klíma" short="Sweet and Sour" authorid="hostovka/michael_klima"}
+{ctime="2009-04-09" mtime="2009-04-09" id="sweet\_and\_sour" author="Michael Klíma" short="Sweet and Sour" authorid="hostovka/michael_klima"}
 
 # Sweet and Sour
 

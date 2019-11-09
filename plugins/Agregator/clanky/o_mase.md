@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=65.html" data-image="/files/preview/clanky/o_mase/general.jpg" data-type="article"}
 
-{id="o\_mase" ctime="2005-08-18" author="Michael Klíma" short="O mase" authorid="hostovka/michael\_klima"}
+{ctime="2005-08-18" mtime="2005-08-18" id="o\_mase" author="Michael Klíma" short="O mase" authorid="hostovka/michael\_klima"}
 
 # O mase
 

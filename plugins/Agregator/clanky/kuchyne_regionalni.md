@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=322.html" data-image="/files/preview/clanky/kuchyne_regionalni/general.jpg" data-type="article"}
 
-{id="kuchyne\_regionalni" ctime="2008-05-11" author="Michael Klíma" short="Kuchyně regionální" authorid="hostovka/michael\_klima"}
+{ctime="2008-05-11" mtime="2008-05-11" id="kuchyne\_regionalni" author="Michael Klíma" short="Kuchyně regionální" authorid="hostovka/michael\_klima"}
 
 # Kuchyně regionální
 
