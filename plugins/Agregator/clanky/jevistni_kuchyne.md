@@ -5,6 +5,8 @@
 
 # Prezentace jídel před zraky hostů
 
+{kw="gastronomie, prezentace"}
+
 Jevištní kuchyně (anglicky _stage kitchen {xml:lang="en"}_) neboli kuchyně, do které hosté mohou kdykoliv nahlédnout je nejen praktická, ale v poslední době také velmi oblíbená.
 
 {id="vyhody\_jevistni\_kuchyne"}
