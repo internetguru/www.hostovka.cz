@@ -9,6 +9,8 @@
 
 [Polévky][1] se typicky podávají v polévkových nebo bujónových šálcích, případně na hlubokých talířích. Někdy se také podávají v takzvaných polévkových terinách, z kterých si hosté mohou podle chuti nabrat sami.
 
+{id="polevkovy\_a\_bujonovy_salek"}
+
 ## Polévkový a bujónový šálek
 
 Moderní restaurační polévkové a bujónové šálky, jinak také zvané šálky na _consommé {xml:lang="fr"}_, mají rozdílný obsah a záleží na každé restauraci, jak velkou porci hodlá podávat.
@@ -18,6 +20,8 @@ Moderní restaurační polévkové a bujónové šálky, jinak také zvané šá
 Typické bujónové šálky mají dvě malá ouška. Dvě jsou proto, aby byly šálky na polévky odlišné od kávových či čajových šálků. Nicméně díky dvěma ouškům se dá bujónový šálek lépe uchopit oběma rukama a bujón vypít.
 
 Bujónové šálky mají také význam při kontrole porcí. V domácnostech je situace obdobná.
+
+{id="polevkove\_talire\_a_teriny"}
 
 ## Polévkové talíře a teriny
 
