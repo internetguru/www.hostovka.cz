@@ -5,13 +5,13 @@
 
 # Druhy polévek
 
-{kw="jídla a jídelní lístky, polévky, recept, Amerika, Rusko, Čína, Japonsko, Mongolsko, Francie, Bulharsko, Řecko"}
+{kw="jídla a jídelní lístky, polévky, recept, Amerika, Rusko, Čína, Japonsko, Mongolsko, Francie, Bulharsko"}
 
 Téměř všechny etnické kuchyně mají skupinu jídel, která se dá nazvat jako polévky. Pokusím se zde zmínit alespoň několik nejpopulárnějších z nich předem se a omlouvám, jestli jsem některou opomenul.
 
 {class="important"}
 
-Ruské [polévce borčš][6] je věnován samostatný článek. Mimo jiné se v něm dozvíte, jak uvařit některé jeho varianty. Podobně je samostatně zpracovaný druh [polévky chowder][7] a [studené polévky][8].
+Ruské [polévce borčš][6] je věnován samostatný článek. Mimo jiné se v něm dozvíte, jak uvařit některé jeho varianty. Podobně je samostatně zpracovaný druh [polévky chowder][7], [studené polévky][8] a [podávání polévek][9].
 
 
 ## Chilli
@@ -92,4 +92,5 @@ Mnoho lidí si v poledne objedná buď jen polévku anebo sendvič. Jednou ale p
  [6]: /borsc
  [7]: /chowder
  [8]: /studene_polevky
+ [9]: /podavani_polevek
 
