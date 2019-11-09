@@ -9,6 +9,8 @@
 
 Dnes je v Česku tolik mexických restaurací, že mexická jídla nejsou již nic nového. Nicméně někteří lidé by do mexické restaurace nešli jen proto, že se nechtějí ztrapnit neznalostí, jak mexické speciality jíst. Příkladem takového jídla je fajitas.
 
+{id="podavani\_a\_spravna\_konzumace\_fajitas"}
+
 ## Podávání a správná konzumace fajitas
 
 Pokud se fajitas podává jako _skirt steak {xml:lang="en"}_, tak se k ní dává vidlička a nůž (pokud možno steakový). Pak se fajitas jí tak, jako každý jiný steak. To ale není klasické pojídání fajitas.
@@ -26,6 +28,8 @@ Příprava fajitas trvá jen několik minut, tudíž dříve, než stačíte dop
 Mezi tím, co se na pruhy nakrájené maso a papričky ještě škvaří na pánvi, si na talíř z košíčku vyndáte tortillu. Z té jste si připravili obal (anglicky _wrapper {xml:lang="en"}_). Tortilly opět přikryjte, aby nevystydly. Tortillu pomažete tenkou vrstvou guacamole, posypete čerstvě sekaným koriandrem a navrch dáte 2 nebo 3 proužky horké fachitas a několik kousků papriky a cibule.
 
 Nakonec vše pokapejte salsou a případně tabaskem a tortillu sbalíte podobně jako burrito. Tortilla se pak jí rukou. Musíte ale dbát na to, aby spodní část tortilly byla dobře přehnutá, jinak by vám z ní vytekla šťáva.
+
+{id="puvod_fajitas"}
 
 ## Původ fajitas
 
