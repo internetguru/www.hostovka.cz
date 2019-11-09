@@ -13,7 +13,7 @@ Jídlo je vnímáno všemi smysly a zrak je v mnoha případech ten první. S pr
 
 {class="example"}
 
-Jinak jsou například prezentovány předkrmy a studené mísy, polévky, hlavní jídla a moučníky, a to nemluvím o prezentaci jídla na bufetových pultech. Velmi oblíbené je dnes [prezentace jídel přímo před zraky hostů][2].
+Jinak jsou například prezentovány předkrmy a studené mísy, polévky, hlavní jídla a moučníky, a to nemluvím o prezentaci jídla na bufetových pultech. Velmi oblíbená je také [prezentace jídel přímo před zraky hostů][2].
 
 O prezentaci jídla se dříve staral _garde manger {xml:lang="fr"}_, který je dnes v mnoha podnicích nahrazován takzvanými stylisty (anglicky _food stylist {xml:lang="en"}_). Nejsou to vždy kuchaři v pravém slova smyslu, ale spíše umělci, kteří se specializují na úpravu a prezentaci jídel. Stylisti nejsou oproti garde manažerům zodpovědní za chuť jídla.
 
