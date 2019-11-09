@@ -25,6 +25,7 @@
   <redir link="fajity">fajitas</redir>
   <redir link="chovani_v_hotelu">poslicci</redir>
   <redir link="chipsy">bramborove_lupinky</redir>
+  <redir link="gi_pans">gi_pan</redir>
   
   <redir parName="s" parValueMatch="stitky/([^/]+)">/?usp=navig&amp;stitek=$1#clanky</redir>
   <redir parName='s' parValueMatch='clanky/([^/]+)'>$1?usp=navig</redir>
