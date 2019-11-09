@@ -9,7 +9,7 @@
 
 {kw="zbožíznalství, ovoce, zelenina"}
 
-Avokádo (anglicky _avocado_), je někdy označováno za tropické ovoce a jindy za zeleninu. Plody jsou kulaté, oválné nebo hruškovitého tvaru. Barva avokáda může být od jasně zelené, přes červenou, po tmavě rudou, až černou barvu.
+Avokádo (anglicky _avocado_), je někdy označováno za tropické ovoce a jindy za zeleninu. Plody jsou kulaté, oválné nebo hruškovitého tvaru. Barva avokáda může být od jasně zelené, přes červenou, po tmavě rudou až černou.
 
 {class="example"}
 
@@ -35,11 +35,13 @@ Rozpůlené avokádo (francouzsky _avocado à la française_) je jedním z nejje
 
 Mexičané používají avokádové listy již po generace jako koření, které je podobné bobkovým listům nebo anýzu. Jsou téměř nezbytné pro přípravu pokrmu barbacoa ze státu Oaxaca a několika jídel z černých fazolí.
 
+{class="example"}
+
 Tradiční zpracování avokáda se liší podle zemí a jejich zvyků. Například na Taiwanu jedí avokádo s mlékem a cukrem. V Indonésii jej mixují s kávou, mlékem a rumem, čímž vznikne chutný a osvěžující nápoj.
 
 Avokádo zraje až po utrhnutí. Je to kvůli látkám v listech avokáda, které brání zrání. Nejlepší způsob, jak skladovat avokádo, je ponechat ho na stromě, na kterém vydrží až 7 měsíců.
 
-Skladování pod 4 °C nebo nad 21 °C způsobí kažení. Některé druhy se začnou kazit už při 7 °C. Ideální je nechat avokádo uzrát při pokojové teplotě (od 15 °C do 21 °C), a pak ho skladovat při teplotě 7 °C do doby použití.
+Skladování pod 4 °C nebo nad 21 °C způsobí kažení. Některé druhy se začnou kazit už při 7 °C. Ideální je nechat avokádo uzrát při pokojové teplotě (od 15 °C do 21 °C) a pak ho skladovat při teplotě 7 °C do doby použití.
 
  [1]: /zalivka_dresink
 
