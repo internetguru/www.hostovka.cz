@@ -1,13 +1,15 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=95.html" data-image="/files/preview/clanky/ellsworth_statler/general.jpg" data-type="article"}
 
-{id="ellsworth\_statler" ctime="2005-11-04" author="Michael Klíma" short="Ellsworth M. Statler" mtime="2019-11-07"}
+{id="ellsworth_statler" ctime="2005-11-04" author="Michael Klíma" short="Ellsworth M. Statler" mtime="2019-11-07"}
 
 # Příběh hoteliéra Ellswortha M. Statlera
 
 {kw="kdo-kdy-kde, případová studie"}
 
-_Ellsworth Statler {xml:lang="en"}_  je mnohými považován za největšího hoteliéra všech dob. Ze 13letého hotelového poslíčka se bez jakéhokoliv základního natožpak odborného vzdělání stal osobností amerického hotelového průmyslu a multimilionářem.
+_Ellsworth Statler {xml:lang="en"}_ je mnohými považován za největšího hoteliéra všech dob. Ze 13letého hotelového poslíčka se bez jakéhokoliv základního natožpak odborného vzdělání stal osobností amerického hotelového průmyslu a multimilionářem.
+
+{id="cesta\_k\_otevreni\_vlastniho\_hotelu"}
 
 ## Cesta k otevření vlastního hotelu
 
@@ -19,11 +21,11 @@ Poté si pronajal billiardovu místnost hotelu _McLure {xml:lang="en"}_ a uděla
 
 Následně otevřel jídelnu _The Pie House {xml:lang="en"}_ v budově muzea. V té pracovala jeho matka a sestra, které tam pekly koláče.
 
-Ve věku 31 let byl Statler připraven pro další odvážný krok a přestěhoval se do Buffala ve státě _New York {xml:lang="en"}_. V jedné kancelářské budově tam provozoval jídelnu a restauraci, kde prodával jídla typu _[all you can eat][2] {xml:lang="en"}_ za 25 centů.
+Ve věku 31 let byl Statler připraven pro další odvážný krok a přestěhoval se do Buffala ve státě _New York {xml:lang="en"}_. V jedné kancelářské budově tam provozoval jídelnu a restauraci, kde prodával jídla typu _[all you can eat][2] {xml:lang="en"}_ za 25 centů. 
 
-Později, když u příležitosti světové výstavy v _St. Louis{xml:lang="en"}_ vedl provizorní 2100pokojový hotel zjistil, že ho číšníci okrádají.  Rozhodl se je nahradit atraktivně oblečenými servírkami. Tehdy to byla velká kuriozita a servírky přilákaly mnoho zákazníků. Tím si Statler vydělal tolik peněz, že si mohl dovolit otevřít svůj vlastní hotel.
+Později, když u příležitosti světové výstavy v _St. Louis {xml:lang="en"}_ vedl provizorní 2100pokojový hotel zjistil, že ho číšníci okrádají. Rozhodl se je nahradit atraktivně oblečenými servírkami. Tehdy to byla velká kuriozita a servírky přilákaly mnoho zákazníků. Tím si Statler vydělal tolik peněz, že si mohl dovolit otevřít svůj vlastní hotel.
 
-{xml:lang="en"}
+{xml:lang="en" id="buffalo\_statler\_hotel"}
 
 ## Buffalo Statler Hotel
 
@@ -45,6 +47,8 @@ Statlerův hotel byl modelem pro řetězec dalších hotelů pro střední vrstv
 
 Ve snaze obstát v konkurenci vynalezl "plumbing shaft" neboli instalační "stoupačku" přívodů vody a odpadů na kterou mohly být napojeny dvě koupelny sousedících pokojů čímž snížil náklady natolik, že mohl nabízet o mnoho více pokojů s privátními koupelnami a záchody.
 
+{id="dalsi\_rozvoj\_hoteloveho_imperia"}
+
 ## Další rozvoj hotelového impéria
 
 Statler pak otevřel podobné hotely v Bostonu, Cleavlandu, Detritu a Novém Yorku. Po jeho smrti v roce 1928 byly k jeho impériu přidány hotely v Pitsburgu a ve Washingtonu. Po roce 1950 byly vystavěny Statler hotely v Los Angeles, Hartfordu a Dallasu.
@@ -55,3 +59,4 @@ Statlerovo vzdělání skončilo ve druhé třídě základní školy, ale pro v
 
  [1]: /hotelove_nazvoslovi#bell_boy
  [2]: /samoobsluzna_restaurace
+
