@@ -13,9 +13,9 @@ Slovo brunch má svůj původ v Americe. Je to vlastně kombinace snídaně, ang
 
 ## Povědomí o brunchi v České republice
 
-V České republice, v zemi, kde bylo kdysi kaváren, které podávaly snídaně na počet obyvatel více než kdekoliv jinde na světě, dnes snídani téměř nikde nedostanete. S brunchem se v Česku setkáte jen ve větších hotelech, ve kterých ale bohužel většinou neví, co dělají. Navštívit jednou nebo dvakrát zahraniční hotel, ochutnat jejich brunch a chtít podle toho vařit, nejspíše nestačí.
+V České republice, kde bylo kdysi kaváren podávajících snídaně na počet obyvatel více než kdekoliv jinde na světě, dnes snídani téměř nikde nedostanete. S brunchem se v Česku setkáte jen ve větších hotelech, ve kterých ale bohužel většinou nevědí, co dělají. Navštívit jednou nebo dvakrát zahraniční hotel, ochutnat jejich brunch a chtít podle toho vařit, nejspíše nestačí.
 
-Velká většina návštěvníků pohostinských provozů (hostů) ale také neví co to brunch je. Ještě horší je to, že ani neví, jak se při brunchích chovat a co jíst. Hosté tedy neví, jak dostat za své peníze to, co jim patří.
+Velká většina návštěvníků pohostinských provozů (hostů) ale také neví co to brunch je. Ještě horší je to, že ani neví, jak se při brunchích chovat a co jíst. Hosté tedy nevědí, jak dostat za své peníze to, co jim patří.
 
 {class="important"}
 
@@ -37,7 +37,7 @@ V neděli však většina lidí do práce nechodí, a tedy nechodí ani na sníd
 
 S tím se ale američtí restauratéři nemohli smířit. Proto přišly s ideálním řešením, což kombinace snídaně a oběda, čímž vzniknul již zmíněný brunch. Brunch se v Americe velmi rychle uchytil. To nejenom proto, že je většinou cenově atraktivní, ale také proto, že se stal příležitostí k setkání celé rodiny.
 
-Brunche se ale staly populárními téměř po celém světě, nakonec i v České republice. Ve formě podávání brunchů, v nabízeném sortimentu a v cenách, jsou veliké rozdíly. Proto by se o nich studenti Hostovky měli dozvědět co nejvíce.
+Brunche se ale staly populárními téměř po celém světě, nakonec i v České republice. Ve formě podávání brunchů, v nabízeném sortimentu a v cenách jsou veliké rozdíly. Proto by se o nich studenti Hostovky měli dozvědět co nejvíce.
 
 {id="bran\_formou\_table_dht"}
 
@@ -52,7 +52,7 @@ V ceně každé kombinace, je mimo hlavního chodu zahrnuta také:
  - neomezené množství teplých nápojů, pečiva, másla, džemu nebo medu a
  - případně i jiné doplňky podle místních zvyklostí.
 
-Níže je uvedeno několik příkladů možných kombinaci snídaní formou _table d'hôte {xml:lang="fr"}_. Kombinací by nemělo byt mnoho. Velkým výběrem by se nedosáhlo sledovaného účelu, což je nízká inventura potřebných potravin, snadná a rychlá úprava jídel, snadná kontrola, a hlavně rychlé vyúčtování s hostem.
+Níže je uvedeno několik příkladů možných kombinaci snídaní formou _table d'hôte {xml:lang="fr"}_. Kombinací by nemělo byt mnoho. Velkým výběrem by se nedosáhlo zamýšleného účelu, což je nízká inventura potřebných potravin, snadná a rychlá úprava jídel, snadná kontrola, a hlavně rychlé vyúčtování s hostem.
 
 Uvedené kombinace se liší typicky pouze v hlavním jídle a příloze. Jídla společná pro všechny kombinace jsou:
 
@@ -91,7 +91,7 @@ _Crudité {xml:lang="fr"}_ nemají český ekvivalent. Nejsou to tak úplně chu
 
 Podávají se s pikantními omáčkami (dipy), do kterých se namáčí. Výraz Dip je přejatý z angličtiny. Označují se jím pikantní omáčky nebo řídké směsi podobné [dresinkům][4], které se podávají zpravidla s _crudités {xml:lang="fr"}_ ke koktejlům.
 
-Dipy musí být na ledu, a to v těsné blízkostí _crudités {xml:lang="fr"}_, protože jsou jejich součástí. Při výběru dipu buďte opatrní, protože některé mohou být velice ostré.
+Dipy musí být na ledu, a to v těsné blízkostí _crudités {xml:lang="fr"}_, protože jsou jejich součástí. Při výběru dipu buďte opatrní, protože některé dipy mohou být velice ostré.
 
 ### Studená masa a uzeniny
 
@@ -124,7 +124,7 @@ Rybí výrobky jsou velmi oblíbené. Jsou také ale velmi náchylné na zkažen
 
 Některé plody moře, jako například humři a krevety, jsou relativně drahé. Proto se stalo běžnou praxí, že se do samoobslužných bufetů dávají neloupané, což je jakýsi psychologický trik. Hosté jsou totiž „líní“ je loupat, a tak se jich spotřebuje méně.
 
-Velmi oblíbeným je také losos – ať uzený, zvaný _lox {xml:lang="en"}_ nebo marinovaný nazývaný _gravlax {xml:lang="en"}_. U rybích pokrmů nesmí chybět tatarská omáčka, ale hlavně [citrón][6].
+Velmi oblíbeným je také losos – ať uzený zvaný _lox {xml:lang="en"}_ nebo marinovaný nazývaný _gravlax {xml:lang="en"}_. U rybích pokrmů nesmí chybět tatarská omáčka, ale hlavně [citrón][6].
 
 ### Čerstvé ovoce
 
@@ -132,15 +132,15 @@ Oprané čerstvé malé sezónní ovoce je zpravidla prezentované na vyvýšen�
 
 {class="important"}
 
-Melouny (a podobné ovoce) by měly být nakrájené na kousky nebo na sousta. Oprané hroznové víno by mělo být rozstřihané na menší svazky. Velké ovoce je z ekonomických a estetických důvodů pro bufetový servis nevhodné.
+Melouny (a podobné druhy ovoce) by měly být nakrájené na kousky nebo na sousta. Oprané hroznové víno by mělo být rozstřihané na menší svazky. Velké ovoce je z ekonomických a estetických důvodů pro bufetový servis nevhodné.
 
-Některé podniky krájí ovoce, jako jsou jablka a pomeranče na půlky nebo na čtvrtky. Údajně je to prý proto, aby ušetřili. Ve skutečnosti si ale zvyšují náklady, protože hosté si takové ovoce nevezmou, takže zbyde a nedá se již na nic použít.
+Některé podniky krájí ovoce, jako jsou jablka a pomeranče na půlky nebo na čtvrtky. Údajně je to prý proto, aby ušetřily. Ve skutečnosti si ale zvyšují náklady, protože hosté si takové ovoce nevezmou, takže zbyde a nedá se již na nic použít.
 
 Při cestách do zahraničí se setkáte s celou řadou druhů ovoce, které u nás není na trhu a je pro vás neznámé. Jako studenti Hostovky ale již jistě víte, že byste se na každou zahraniční cestu měli připravit a o místním ovoci si nejdříve něco zjistit. V opačném případě se ochudíte o příležitost k ochutnání nového ovoce, což je škoda.
 
 {class="example"}
 
-Nejlepším příkladem toho, že ani vzhled ani vůně tropického ovoce by nás neměla odradit, je durian. Osobně jsem se s ním seznámil jako mladý kluk v Paříži. Ani jsem ho neochutnal, protože páchnul jako kopec zkažených vajec. Později jsem strávil nějaký čas v Asii, kde je durian nazýván králem ovoce. Dodal jsem si odvahy ho ochutnat a musím říci, že když si na něj zvyknete, tak ho jistě zařadíte mezi vaše oblíbené ovoce.
+Nejlepším příkladem toho, že ani vzhled ani vůně tropického ovoce by nás neměla odradit, je durian. Osobně jsem se s ním seznámil jako mladý kluk v Paříži. Ani jsem ho neochutnal, protože páchnul jako kopec zkažených vajec. Později jsem strávil nějaký čas v Asii, kde je durian nazýván králem ovoce. Dodal jsem si odvahy ho ochutnat a musím říci, že když si na něj zvyknete, tak ho jistě zařadíte mezi vaše oblíbená ovoce.
 
 ### Nasolené hovězí maso corned beef
 
@@ -158,7 +158,7 @@ Haše podávaná se sázeným vejcem se stala tak populární, že nemůže chyb
 
 Sýry velmi rychle osychají a je ideální, pokud jsou prezentovány na prkénku v celých kusech, případně podložené vinnými listy. Mohou být ozdobeny hroznovým vínem, jablky případně jiným ovocem.
 
-Velké kusy sýrů by zásadně neměly být nekrájené, ale podávané s nožem, tak aby si hosté mohli sami odkrojit libovolně velkou porci. To ale předpokládá sofistikovanou klientelu, která o sýrech něco ví a která něco takového umí ocenit.
+Velké kusy sýrů by zásadně neměly být nakrájené, ale podávané s nožem, tak aby si hosté mohli sami odkrojit libovolně velkou porci. To ale předpokládá sofistikovanou klientelu, která o sýrech něco ví a která něco takového umí ocenit.
 
 ### Saláty a dresinky
 
@@ -166,7 +166,7 @@ Saláty jsou velmi populárním artiklem pro jakýkoliv bufet, protože působí
 
 {class="important"}
 
-Saláty by měly by být stručně popsány. [Dresinky][4] podáváme na ledu, označené jejich názvem. Není nic trapnějšího, než když je vedle salátů 5 až 6 dresinků, ale nikdo z obsluhujících neví, jaké dresinky to jsou.
+Saláty by měly by být stručně popsány. [Dresinky][4] podáváme na ledu, označené jejich názvem. Není nic trapnějšího, než když je vedle salátů 5 až 6 dresinků, ale nikdo včetně obsluhujících neví, jaké dresinky to jsou.
 
 
 ### Obiloviny a studené nápoje
@@ -194,7 +194,7 @@ Vaječná jídla nesmí chybět na žádném brunchi. Mohu vám ale říci, že 
 
 {class="example"}
 
-Zezelenání se dá částečně zabránit tím, že do vajec přimícháme malé množství citrónové šťávy. Tím sice zachováme jejich barvu, ale pokud to trochu přeženeme, tak narušíme jejich chuť.
+Zezelenání míchaných vajec se dá částečně zabránit tím, že do nich přimícháme malé množství citrónové šťávy. Tím sice zachováme jejich barvu, ale pokud to trochu přeženeme, tak narušíme jejich chuť.
 
 Stejný prevít jsou i vejce vařená ve skořápce, která také velmi rychle vystydnou. Pokud je to tedy jenom trochu možné, připravujeme vaječná jídla, jako jsou míchaná vejce a omelety přímo v jídelně, což je mimo také velmi atraktivní.
 
@@ -216,7 +216,7 @@ Ideální je porce krájet přímo v jídelně. Krájení masa před zraky host�
 
 Zeleninu (alespoň dva druhy) vybíráme takovou, která je pestrá, neztratí svou barvu a která vydrží dlouho teplá. Na teplý pult ji podáváme v malých dávkách a často ji doplňujeme.
 
-Pečivo prezentujeme na odděleném stole v košících. Přikládáme k němu kleště, aby ho hosté neosahávali rukama. Chléb podáváme, pokud možno v celých bochnících. K bochníkům přikládáme krájecí desku, ubrousek, kterým si host může chléb přidržet a ostrý nůž, aby si mohl ukrojit libovolně silné krajíčky.
+Pečivo prezentujeme na odděleném stole v košících. Přikládáme k němu kleště, aby ho hosté neosahávali rukama. Chléb podáváme, pokud možno v celých bochnících. K bochníkům přikládáme krájecí desku, ubrousek, kterým si host může chléb přidržet, a ostrý nůž, aby si mohl ukrojit libovolně silné krajíčky.
 
 ## Sladké pečivo a dezerty
 
