@@ -876,35 +876,25 @@ p:after {
   display: none !important;
 }
 /***************************/
-.description + .question,
-.answer + .question,
-.question + .question {
-  margin: 0;
-  padding: 0.25em 1em;
+.faq {
+  padding: 0;
 }
-.description + .question {
-  padding-top: 1em;
+.faq br {
+  content: " ";
+  display: block;
+  margin: 0.5em 0;
+  line-height: 0.5em;
 }
-.description + .question:before {
+.faq .question:before {
   content: "Otázka";
-  display: block;
-  font-size: 1.5em;
-  margin-bottom: 0.5em;
 }
-.question + .answer,
-.answer + .answer {
-  margin: 0;
-  padding: 0.25em 1em;
-}
-.question + .answer {
-  border-top: 0.1em dashed #ddd;
-  padding-top: 1em;
-  margin-top: 1em;
-}
-.question + .answer:before {
+.faq .answer:before {
   content: "Odpověď";
+}
+.faq .question:before,
+.faq .answer:before {
   display: block;
+  margin: 0.75em 0 0.5em 0;
   font-size: 1.5em;
-  margin-bottom: 0.5em;
 }
 /***************************/
