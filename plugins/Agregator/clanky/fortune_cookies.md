@@ -3,7 +3,7 @@
 
 {id="kolacky_stesti" ctime="2008-02-23" author="Michael Klíma" short="Koláčky štěstí" mtime="2019-10-23"}
 
-# Koláčky štěstí
+# Ne až tak čínské koláčky štěstí
 
 {kw="gastronomie, případová studie, Amerika, čínská restaurace"}
 
@@ -11,11 +11,7 @@ Koláčky štěstí (anglicky _fortune cookies {xml:lang="en"}_) jsou křehké, 
 
 ## Původ koláčků
 
-V některých západních zemích, hlavně v Americe, koláčky štěstí rozdávají v čínských restauracích při odchodu jako pozornost podniku. V Číně ani jinde v Asii se s nimi ale nesetkáte.
-
-{class="example"}
-
-Koláčky štěstí byly údajně vynalezeny v San Francisku nebo v Los Angeles. Věrohodné důkazy ale neexistují.
+V některých západních zemích, hlavně v Americe, koláčky štěstí rozdávají v čínských restauracích při odchodu jako pozornost podniku. V Číně ani jinde v Asii se s nimi ale nesetkáte. Byly údajně vynalezeny v San Francisku nebo v Los Angeles. Věrohodné důkazy ale neexistují.
 
 Anglické slovo _fortune {xml:lang="en"}_ znamená osud, náhoda, štěstí, zdar, bohatství, ale já na takové nesmysly nevěřím. Do čínských restaurací chodím často, a tak jsem koláčků otevřel tisíce. Žádná šťastná předpověď se mi ale nesplnila, ba naopak mě koláčky štěstí málem přivedly do neštěstí.
 
@@ -27,7 +23,7 @@ Saša sice není z pohostinství, ale je to [gurmán][1] a shodou okolností roz
 
 {class="example"}
 
-Restaurace ale byla založena Číňany z Rudé Číny a nikoli Američany, takže jsme koláčky štěstí samozřejmě neměli. Považoval jsem se za jakéhosi odborníka na čínskou kuchyni, kterou jsem se ale naučil v Indočíně. A tak jsem vůbec nevěděl, že něco takového existuje. Saša se mi to snažil vysvětlit, ale já to vůbec nechápal. Tak mi nakonec řekl, že mi několik koláčků na ukázku pošle.
+Tato restaurace byla totiž založena Číňany z Rudé Číny a nikoli Američany, takže jsme koláčky štěstí samozřejmě neměli. Považoval jsem se za jakéhosi odborníka na čínskou kuchyni, kterou jsem se ale naučil v Indočíně. A tak jsem vůbec nevěděl, že něco takového existuje. Saša se mi to snažil vysvětlit, ale já to vůbec nechápal. Tak mi nakonec řekl, že mi několik koláčků na ukázku pošle.
 
 Na celou věc jsem po čase zapomněl. Jednou za mnou ale do Číny přišli tři pánové z STB a začali se mě vyptávat na to, jaké styky mám s Amerikou, s kým si dopisuji a kdo mi posílá zprávy. Já jsem samozřejmě na Sašu již zapomněl, a tak jsem trval na tom, že se s Američany nestýkám.
 
