@@ -27,6 +27,7 @@
   <redir link="chipsy">bramborove_lupinky</redir>
   <redir link="gi_pans">gi_pan</redir>
   <redir link="garde_manager">garde_manger</redir>
+  <redir link="confit">konfitovani</redir>
   
   <redir parName="s" parValueMatch="stitky/([^/]+)">/?usp=navig&amp;stitek=$1#clanky</redir>
   <redir parName='s' parValueMatch='clanky/([^/]+)'>$1?usp=navig</redir>
