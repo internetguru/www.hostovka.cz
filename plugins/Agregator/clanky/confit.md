@@ -13,11 +13,15 @@ Tato technika je jedním z nejstarších konzervačních způsobů, a je známá
 
 Výraz _confit {xml:lang="fr"}_ pochází z francouzského slovesa _confire {xml:lang="fr"}_ (konzervování), které má svůj původ v latině. Ve středověku byl tento výraz používán hlavně pro ovoce, které bylo vařené a konzervované v cukru.
 
+{id="masite_konfity"}
+
 ## Masité konfity
 
 Nejpopulárnější masitý francouzský konfit je _confit d´oie {xml:lang="fr"}_ a _confit de canárd {xml:lang="fr"}_, což je husí nebo kachní stehno zapečené v sádle. Maso, nejčastěji kachní nebo husí, se po osolení a okořenění pomalu vaří zcela ponořené do vlastního vyškvařeného sádla. V sádle se po uvaření nechá zvolna vychladnut. Stejným způsobem se zpracovává krůtí a vepřové maso.
 
 Konfit je na českých jídelních lístcích všech rádoby lepších restaurací považován za něco mimořádného. Je to ale stejné jídlo, jaké dělala moje babička a maminka. Ty z toho ale narozdíl od restaurací nedělaly žádnou vědu.
+
+{id="ovocne_konfity"}
 
 ## Ovocné konfity
 
