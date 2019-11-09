@@ -1,98 +1,18 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=315.html" data-image="/files/preview/clanky/polevky/general.jpg" data-type="article"}
 
-{id="polevky" ctime="2008-05-01" author="Michael Klíma" short="Polévky" mtime="2019-10-16"}
+{id="druhy_polevek" ctime="2008-05-01" author="Michael Klíma" short="Druhy polévek" mtime="2019-10-16"}
 
-# Podávání a druhy polévek
+# Druhy polévek
 
 {kw="jídla a jídelní lístky, polévky, recept, Amerika, Rusko, Čína, Japonsko, Mongolsko, Francie, Bulharsko, Řecko"}
 
 Téměř všechny etnické kuchyně mají skupinu jídel, která se dá nazvat jako polévky. Pokusím se zde zmínit alespoň několik nejpopulárnějších z nich předem se a omlouvám, jestli jsem některou opomenul.
 
-{class="example"}
+{class="important"}
 
-Ruské [polévce borčš][6] je věnován samostatný článkek. Mimo jiné se v něm dozvíte, jak uvařit některé jeho varinaty.
+Ruské [polévce borčš][6] je věnován samostatný článek. Mimo jiné se v něm dozvíte, jak uvařit některé jeho varianty. Podobně je samostatně zpracovaný druh [polévky chowder][7] a [studené polévky][8].
 
-
-## Podávání polévek
-
-Polévky se typicky podávají v polévkových nebo bujónových šálcích, případně na hlubokých talířích. Někdy se také podávají v takzvaných polévkových terinách, z kterých si hosté mohou podle chuti nabrat sami.
-
-### Polévkový a bujónový šálek
-
-Moderní restaurační polévkové a bujónové šálky, jinak také zvané šálky na _consommé {xml:lang="fr"}_, mají rozdílný obsah a záleží na každé restauraci, jak velkou porci hodlá podávat.
-
-{class="example"}
-
-Typické bujónové šálky mají dvě malá ouška. Dvě jsou proto, aby byly šálky na polévky odlišné od kávových či čajových šálků. Nicméně díky dvěma ouškům se dá bujónový šálek lépe uchopit oběma rukama a bujón vypít.
-
-Bujónové šálky mají také význam při kontrole porcí. V domácnostech je situace obdobná.
-
-### Polévkové talíře a teriny
-
-Polévkovým talířům se anglicky říká _soup bowl {xml:lang="en"}_. Polévkové talíře, lépe řečeno jejich hluboká část, má obsah 4 až 5 dl.
-
-V restauracích někdejší IV. cenové skupiny nebo v takzvaných lidovkách se tyto talíře zakládaly (nebo ještě zakládají) na stůl spolu s papírovým ubrouskem, vidličkou, nožem a polévkovou lžicí. V lepších restauracích se z hygienických důvodů tyto talíře zakládají na stůl až těsně před podáváním polévky nebo polévkou již naplněné.
-
-Mimo polévkových talířů mají některé „servisy“ takzvané polévkové teriny, z kterých si každý host může polévku nabrat sám. Podávání polévky z teriny v restauraci má svá specifika, která jsou zpravidla popsána v manuálech servisu.
-
-## Husté polévky zvané chowdery
-
-Americký _chowder {xml:lang="en"}_ je hutná, hustá a velice chutná polévka připravená ze všemožných potravin upravených většinou na mléčném nebo rajčatovém základu. Může to být například kukuřičný _Corn Chowder  {xml:lang="en"}_, _Manhattan {xml:lang="en"}_, _Boston {xml:lang="en"}_ nebo populární polévka z mušlí _New England Clam Chowder {xml:lang="en"}_.
-
-Chowdery mají původ nejspíše v chutné a husté polévce, kterou ze všech možných potravin vařili první francouzští imigranti v Kanadě. Mimo jiné tato polévka obsahovala také brambory, kterým říkali _chaudrée {xml:lang="fr"}_. Když potom polévka překročila hranice Kanady a dostala se do Ameriky, tak získala nové jméno _chowder {xml:lang="en"}_.
-
-{class="example"}
-
-Kukuřičný chowder je ve skutečnosti první americkou polévkou, která byla známá ještě dříve, než se o ostatních chowderech vědělo. V Česku ale s kukuřičným chowderem asi moc neuspějete, protože Češi si podvědomě myslí, že je kukuřice je jen pro krmení dobytka.
-
-{xml:lang="en"}
-
-### Abalone Chowder à la Mike
-
-_Abalone Chowder {xml:lang="en"}_ je jediný chowder, který se dá nazvat americký. Je to proto, že ho nikde mimo některých přímořských oblastí Kalifornie nedostanete.
-
-Abalone je krásná asi 18 cm dlouhá načervenalá lastura vyložená perletí. Sval měkkýše je jedlou částí abalone a má delikátní příchuť mušlí. Zvláštností abalone je, že americké zákony nedovolují jejich rozvoz do ostatních států Ameriky natožpak do Česka.
-
-Níže uvádím svoji variantu receptu. Množství jednotlivých surovin receptu neuvádím, protože chowder dělám metodou „podle oka do potoka“.
-
- 1. Slaninu osmahneme dohněda a polovinu vysmaženého tuku dáme stranou.
- 2. Dříve než tuk v pánvi vystydne, tak do něj přidáme nakrájené abalone a cibuli a vše rychle osmahneme.
- 3. Směs zaprášíme moukou a zalijeme horkou vodou a horkým mlékem.
- 4. Chowder přivedeme do varu, přidáme na kostičky krájené brambory, osolíme a opepříme dle chuti.
- 5. Na mírném ohni chowder vaříme asi 20 minut.
-
-{xml:lang="en"}
-
-### Manhattan Clam Chowder
-
-_Manhattan Clam Chowder {xml:lang="en"}_, se od ostatních chowderů liší tím, že je červený. Připravuje se z mušlí (anglicky _clams {xml:lang=en}_), česky také zvaných slávky.
-
-Mušle se nesmí dlouho vařit, protože dlouhým vařením tuhnou. Proto všechny mušlové chowdery nazývám „šup sem, šup tam“.
-
- 1. Na kostičky nakrájenou slaninu osmahneme na trošce másla.
- 2. Přidáme drobně nakrájenou cibuli, kterou dozlatova osmahneme.
- 3. Přidáme na kostičky nakrájená rajčata, šťávu z mušlí, a vodu nebo vývar.
- 4. Jakmile se vývar začne vařit, přidáme na malé kostičky nakrájené brambory a vaříme je až téměř doměkka.
- 5. Nakonec přidáme vyloupané mušle, osolíme a opepříme a odstavíme z ohně, aby mušle neztuhly.
-
-Slanina, o které se v amerických receptech hovoří, není stejná jako naše slanina (špek). Americká slanina (anglicky _bacon {xml:lang=en}_) je břišní slanina prorostlá masem a na trh přichází nakrájená na tenké plátky.
-
-### Jak jsem vymyslel Hartford Fishermen's Chowder
-
-Krátce po příchodu do Ameriky jsem pracoval jako [výkonný šéfkuchař][2] ve velkém restauračním komplexu v Chicagu. V komplexu jsme měli jednak dvě luxusní restaurace, hospodu a lidovou jídelnu se samoobsluhou, kde se denně v poledne podávalo až 3.500 obědů.
-
-V pátek, i když to nebyl nejsilnější den v týdnu, jsme měli na jídelním lístku mimo jiné alespoň 3 až 4 druhy ryb a nejméně dvě rybí polévky. Ryby i rybí polévky šly v pátek velmi dobře na odbyt, ale zásada v amerických samoobsluhách je, že gastronádoby ve výdejním pultě musí být až do posledního okamžiku plné. Stávalo se tak, že na konci oběda zbylo relativně velké množství rybích jídel.
-
-V Americe, což vám asi bude připadat neuvěřitelné, se zbytky jídel nevyhazují. Tak bohatá už Amerika není. Zbytky jídel (v daném případě zbytky ryb) se v takovém případě rychle zchladí a pokud je jich dost, tak se uloží v lednici do druhého dne.
-
-Druhý den se zbytky zahřejí na předepsanou teplotu a dají se do výdejní linky jako specialita za sníženou cenu. Menší zbytky ryb se uloží do mrazáku, někdy až do dalšího pátku, kdy se přidávají do rybích polévek.
-
-Přišel jsem s nápadem nashromáždit denní zbytky ryb, na kterých nebylo nic špatného a v pátek z nich udělat krémovou rybí polévku. Aby se lépe prodávala navrhoval jsem jí nazvat jako chowder. Chowder Klíma by asi moc neupoutal, a tak jsme ho nazvali podle jména komplexu jako _Hartford Fisherman's Chowder {xml:lang="en"}_.
-
-Chowder byl díky několika druhům ryb, které jsme používali, skutečně vynikající. Jediným problémem ale bylo, že jsme chowder mohli vařit jen když jsme měli nashromážděno dostatek zbytků ryb.
-
-Časem, když jsem pracoval v různých podnicích, jsem název _Hartford {xml:lang="en"}_ vynechal a vznikl _Fisherman's Chowder {xml:lang="en"}_. S receptem jsem se podělil se svými studenty na _Culinary Institute International {xml:lang="en"}_ v Chicagu, kteří ho roznesli po celé Americe.
 
 ## Chilli
 
@@ -150,44 +70,6 @@ Originální recept počítá s živým krabem, ale to neznamená, že když nem
  8. Nakonec přidáme rybí filé nakrájené na větší kusy a ještě 2 až 3 minuty povaříme.
  9. Podáváme velmi horké v polévkových talířích. Vedle nabídneme čerstvý chléb a pesto.
 
-## Studené polévky
-
-Studené polévky si z nějakého důvodu nikdy nezískaly nějakou velkou popularitu. Některé vám tu ale pro zajímavost uvedu.
-
-Co je studená polévka? Odpověď by mohla být, že je to každá polévka, která se nechá vystydnout. Ale ono to tak jednoduché není. Polévky, zejména vývary se musí v zásadě podávat velmi horké. Studené polévky se podávají studené, případně na ledu.
-
-{class="example"}
-
-Existují ale polévky, které mohou být podávány jak teplé, tak i studené. Je to například francouzská polévka Vichyssoise, řecká polévka Avgolemono a několik málo dalších.
-
-### Gazpacho
-
-Král studených polévek je bezesporu španělská polévka gazpacho, kterou lze považovat za jakýsi tekutý salát. Polévka má několik variací. Nejpopulárnější je červené gazpacho, které vzniklo v Jižním Španělsku.
-
-Původní gazpacho se připravovalo z okoralého chleba máčeného v octě a olivovém oleji s přidáním česneku a mletých mandlí. Nazývalo se bílé gazpacho, španělsky _ajo blanco {xml:lang="es"}_. Červené gazpacho vzniklo přidáním rajčat.
-
-Gazpacho je velmi jednoduchá studená polévka, ze které se někteří kuchaři snaží dělat úplnou vědu. Osobně znám gazpacho z Mexika, kde z toho žádnou vědu nedělají. Jediné, co to chce, je mít očištěnou čerstvou zeleninu jako jsou rajčata, okurky, cibule, zelené papriky, řapíkatý celer, ocet, olej, česnek, vodu, kyselou smetanu nebo neslazený jogurt, sůl a mletý nebo drcený černý pepř.
-
-{class="important"}
-
-Krása polévky gazpacho je v tom, že použijete to, co máte při ruce. Všechnu očištěnou zeleninu jednoduše nahrubo umelete nebo rozmixujete v mixéru a podle chuti okořeníte.
-
-V některých částech Mexika do této polévky přidávají ve vodě máčený starší chléb. Je to ale spíše proto, aby starší chléb spotřebovali, než že by se tím chuť polévky nějak zlepšila.
-
-{xml:lang="fr"}
-
-### Vichyssoise
-
-Druhou nejpopulárnější studenou polévkou je pravděpodobně _Vichyssoise {xml:lang="fr"}_. Její popularizace se připisuje Louis Diatovi, šéfkuchaři hotelu Rit-Carlton v Nové Yorku, krátce po jeho příchodu do Ameriky v roce 1914.
-
-Je to jednoduchá polévka z vařeného pórku a brambor, která se ve francouzském lázeňském městě Vichy vařila v místní minerální vodě.
-
-### Avgolemono
-
-Pokud jste byli v Řecku a neochutnali jste řecké [citróny][5] nebo polévku avgolemono, tak toho o Řecku moc nevíte. Citróny se v řecké kuchyni přidávají do všeho a polévka není výjimkou.
-
-Polévka avgolemono, je tak jednoduchá, že vám zde ani nebudu uvádět recept. Je to silný hovězí nebo drůbeží vývar, do kterého jsou přešlehány žloutky s citrónovou šťávou. Tato polévka je tak populární, že se objevuje na jídelních lístcích mnoha mezinárodních restaurací. Podává se horká, ale v létě i studená.
-
 ## Ramen
 
 Polévka ramen je sice původem čínská, ale v podvědomí většiny lidí je považována za japonskou. Ramen může být obecně definováno jídlo sestávající ze dvou hlavních ingrediencí, a to nudlí a polévky.
@@ -207,5 +89,7 @@ Mnoho lidí si v poledne objedná buď jen polévku anebo sendvič. Jednou ale p
  [3]: /hulky
  [4]: /bujabeza
  [5]: /citrony
- [5]: /borsc
+ [6]: /borsc
+ [7]: /chowder
+ [8]: /studene_polevky
 
