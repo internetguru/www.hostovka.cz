@@ -7,9 +7,9 @@
 
 {kw="jídla a jídelní lístky, polévky, recept, Špaňelsko, Francie, Řecko"}
 
-Studené polévky si z nějakého důvodu nikdy nezískaly nějakou velkou popularitu. Některé vám tu ale pro zajímavost uvedu.
+Studené [polévky][1] si z nějakého důvodu nikdy nezískaly nějakou velkou popularitu. Některé vám tu ale pro zajímavost uvedu.
 
-Co je studená polévka? Odpověď by mohla být, že je to každá polévka, která se nechá vystydnout. Ale ono to tak jednoduché není. Polévky, zejména vývary se musí v zásadě podávat velmi horké. Studené polévky se podávají studené, případně na ledu.
+Co je studená [polévka][1]? Odpověď by mohla být, že je to každá polévka, která se nechá vystydnout. Ale ono to tak jednoduché není. Polévky, zejména vývary se musí v zásadě podávat velmi horké. Studené polévky se podávají studené, případně na ledu.
 
 {class="example"}
 
@@ -43,7 +43,10 @@ Je to jednoduchá polévka z vařeného pórku a brambor, která se ve francouzs
 
 ## Avgolemono
 
-Pokud jste byli v Řecku a neochutnali jste řecké \[citróny\]\[5\] nebo polévku avgolemono, tak toho o Řecku moc nevíte. Citróny se v řecké kuchyni přidávají do všeho a polévka není výjimkou.
+Pokud jste byli v Řecku a neochutnali jste řecké [citróny][2] nebo polévku avgolemono, tak toho o Řecku moc nevíte. Citróny se v řecké kuchyni přidávají do všeho a polévka není výjimkou.
 
 Polévka avgolemono, je tak jednoduchá, že vám zde ani nebudu uvádět recept. Je to silný hovězí nebo drůbeží vývar, do kterého jsou přešlehány žloutky s citrónovou šťávou. Tato polévka je tak populární, že se objevuje na jídelních lístcích mnoha mezinárodních restaurací. Podává se horká, ale v létě i studená.
+
+ [1]: /druhy_polevek
+ [2]: /citrony
 
