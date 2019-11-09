@@ -27,9 +27,10 @@
     </dl>
   </doclist>
   
-  <doclist id="faq" path="faq">
-    <p class="question" var="question@var">n/a</p>
-    <p class="answer" var="answer@var">n/a</p>
+  <doclist id="faq" path="faq" wrapper="dl" class="hideable">
+    <dt class="heading" var="heading@var">n/a</dt>
+    <dd class="question" var="question@var">n/a</dd>
+    <dd class="answer" var="answer@var">n/a</dd>
   </doclist>
   <doclist id="faq_steak" kw="steak" doclist="faq"/>
 
