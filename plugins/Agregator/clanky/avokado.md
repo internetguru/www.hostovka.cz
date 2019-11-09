@@ -9,7 +9,7 @@
 
 {kw="zbožíznalství, ovoce, zelenina"}
 
-Avokádo (anglicky _avocado_), je někdy označováno za tropické ovoce a jindy za zeleninu. Plody jsou kulaté, oválné nebo hruškovitého tvaru. Barva avokáda může být od jasně zelené, přes červenou, po tmavě rudou, až černou barvu.
+Avokádo (anglicky _avocado_), je někdy označováno za tropické ovoce a jindy za zeleninu. Plody jsou kulaté, oválné nebo hruškovitého tvaru. Barva avokáda může být od jasně zelené, přes červenou, po tmavě rudou až černou.
 
 {class="example"}
 
@@ -34,6 +34,8 @@ Avokádo rozkrojíme horizontálně na dvě půlky, které oddělíme otočením
 Rozpůlené avokádo (francouzsky _avocado à la française_) je jedním z nejjednodušších předkrmů. Místo po pecce naplníte oblíbeným [dresinkem][1] a avokádo jíte kávovou lžičkou.
 
 Mexičané používají avokádové listy již po generace jako koření, které je podobné bobkovým listům nebo anýzu. Jsou téměř nezbytné pro přípravu pokrmu barbacoa ze státu Oaxaca a několika jídel z černých fazolí.
+
+{class="example"}
 
 Tradiční zpracování avokáda se liší podle zemí a jejich zvyků. Například na Taiwanu jedí avokádo s mlékem a cukrem. V Indonésii jej mixují s kávou, mlékem a rumem, čímž vznikne chutný a osvěžující nápoj.
 
