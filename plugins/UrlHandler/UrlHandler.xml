@@ -23,6 +23,7 @@
   <redir link="jidelni_hulky">hulky</redir>
   <redir link="bedekry">bedekr</redir>
   <redir link="fajity">fajitas</redir>
+  <redir link="chovani_v_hotelu">poslicci</redir>
   
   <redir parName="s" parValueMatch="stitky/([^/]+)">/?usp=navig&amp;stitek=$1#clanky</redir>
   <redir parName='s' parValueMatch='clanky/([^/]+)'>$1?usp=navig</redir>
