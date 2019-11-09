@@ -11,16 +11,19 @@ Téměř všechny etnické kuchyně mají skupinu jídel, která se dá nazvat j
 
 {class="important"}
 
-Ruské [polévce borčš][6] je věnován samostatný článek. Mimo jiné se v něm dozvíte, jak uvařit některé jeho varianty. Podobně je samostatně zpracovaný druh [polévky chowder][7], [studené polévky][8] a [podávání polévek][9].
+Ruské [polévce borčš][1] je věnován samostatný článek. Mimo jiné se v něm dozvíte, jak uvařit některé jeho varianty. Podobně je samostatně zpracovaný druh [polévky chowder][2], [studené polévky][3] a [podávání polévek][4].
 
+{id="chilli"}
 
 ## Chilli
 
-Místo polévky upřednostňují někteří mladí Američané [chilli][1]. Chilli je ostrá fazolová polévka, která je tak hustá, že pokud jí sníte větší talíř, tak už na nic jiného v břiše nemáte místo.
+Místo polévky upřednostňují někteří mladí Američané [chilli][5]. Chilli je ostrá fazolová polévka, která je tak hustá, že pokud jí sníte větší talíř, tak už na nic jiného v břiše nemáte místo.
 
 {class="example"}
 
 V některých oblastech je chilli tak populární, že nesmí chybět na jídelním lístku školních jídelen ani na lístku luxusních restaurací.
+
+{id="mongolsky_kotlik"}
 
 ## Mongolský kotlík
 
@@ -38,7 +41,7 @@ V těsné blízkosti stolu si připravíme terinu s vývarem potřebným k dolé
 
 Při klasickém způsobu čínského stolování má každý stolovník před sebou misku s rýží, na kterou si pokládá kousky jednotlivých podávaných jídel. Šťáva z těchto pokrmů rýží protéká a na dně misky tvoří velmi cenný zbytek. Ten si tam stolovník ponechá až do doby podávání chuo-kuo.
 
-Při stolování kolem kotlíku je každý stolovník sám sobě kuchařem. [Hůlkami][3] si vybírá kousky masa nebo ryby a ponoří je na několik okamžiků do vroucího vývaru v kotlíku. Vařený kousek masa namočí do některé z pikantních omáček a pak si ho hůlkami dopraví do úst. To má tu výhodu, že každý si může určit stupeň dohotovení jednotlivých kousků masa dobou, po jakou maso ponechá ve vývaru.
+Při stolování kolem kotlíku je každý stolovník sám sobě kuchařem. [Hůlkami][6] si vybírá kousky masa nebo ryby a ponoří je na několik okamžiků do vroucího vývaru v kotlíku. Vařený kousek masa namočí do některé z pikantních omáček a pak si ho hůlkami dopraví do úst. To má tu výhodu, že každý si může určit stupeň dohotovení jednotlivých kousků masa dobou, po jakou maso ponechá ve vývaru.
 
 {class="example"}
 
@@ -50,25 +53,27 @@ Každá tato polévka chutná jinak. Jednak podle použitých surovin, ale hlavn
 
 U tohoto jídla je nutno opět připomenout, že použití klasického čínského nádobí není podmínkou. Speciální čínský hrnec zvaný mongolský kotlík je dosti nákladnou záležitostí. Nicméně starý železňák po babičce a elektrický vařič nám udělají stejnou službu.
 
-{xml:lang="en"}
+{xml:lang="en" id="cioppino"}
 
 ## Cioppino
 
 _Cioppino {xml:lang="en"}_ je krajová specialita. Znáte to, když se o něčem říká, že to není ani ryba ani rak? To stejné se dá říci i o této specialitě. V polévce je totiž nejenom ryba, ale i rak, krab, mušle a krevetky – prostě jakékoliv ryby a mořské potvory, které máte zrovna po ruce.
 
-Cioppino se podává v dobrém silném vývaru, a patří k němu láhev dobrého vína. Cioppino vzniklo v San Franciscu v italské rybářské čtvrti. Tím, že se připravuje z několika čerstvých druhů ryb a mořských plodů, do jisté míry připomíná francouzskou [bujabézu][4].
+Cioppino se podává v dobrém silném vývaru, a patří k němu láhev dobrého vína. Cioppino vzniklo v San Franciscu v italské rybářské čtvrti. Tím, že se připravuje z několika čerstvých druhů ryb a mořských plodů, do jisté míry připomíná francouzskou [bujabézu][7].
 
 Originální recept počítá s živým krabem, ale to neznamená, že když nemáme živého kraba, tak že prostě zavřete hospodu a půjdete domů. Zmrazený krab nebo krabí maso nám (všude jinde než v San Francisku) udělá stejnou službu. Také s mušlemi si nemusíme moc lámat hlavu. Použijeme prostě takové mušle, jaké máme, hlavně když jich bude dost.
 
- 1. Živého kraba očistíme a rozlouskneme klepeta.
- 2. Do velkého kastrolu dáme velké mušle a zalijeme vínem a šálkem vývaru.
- 3. Přivedeme do varu, přiklopíme a dusíme asi 5 minut nebo do té doby, než se mušle otevřou.
- 4. Přidáme rajčata, česnek, petrželku, koření a zbylý vývar.
- 5. Zakryjeme a přivedeme do varu.
- 6. Přidáme zbylé mušle a kraba.
- 7. Dusíme asi 3 až 4 minuty nebo tak dlouho, až se všechny mušle otevřou.
- 8. Nakonec přidáme rybí filé nakrájené na větší kusy a ještě 2 až 3 minuty povaříme.
- 9. Podáváme velmi horké v polévkových talířích. Vedle nabídneme čerstvý chléb a pesto.
+  1. Živého kraba očistíme a rozlouskneme klepeta.
+  2. Do velkého kastrolu dáme velké mušle a zalijeme vínem a šálkem vývaru.
+  3. Přivedeme do varu, přiklopíme a dusíme asi 5 minut nebo do té doby, než se mušle otevřou.
+  4. Přidáme rajčata, česnek, petrželku, koření a zbylý vývar.
+  5. Zakryjeme a přivedeme do varu.
+  6. Přidáme zbylé mušle a kraba.
+  7. Dusíme asi 3 až 4 minuty nebo tak dlouho, až se všechny mušle otevřou.
+  8. Nakonec přidáme rybí filé nakrájené na větší kusy a ještě 2 až 3 minuty povaříme.
+  9. Podáváme velmi horké v polévkových talířích. Vedle nabídneme čerstvý chléb a pesto.
+
+{id="ramen"}
 
 ## Ramen
 
@@ -76,7 +81,7 @@ Polévka ramen je sice původem čínská, ale v podvědomí většiny lidí je 
 
 Většina ramen nudlí se dělá z obilné mouky, soli, vody a kansui, což je druh minerální vody. Ramen nudle (podobně i jako italské nudle) jsou dostupné v různých tvarech a délkách. Mohou být tenké, silné, rovné nebo všelijak kroucené či tvarované.
 
-{xml:lang="en"}
+{xml:lang="en" id="soupwich"}
 
 ## Soupwich
 
@@ -84,13 +89,11 @@ _Soupwich {xml:lang="en"}_ je jedno z mála typicky amerických jídel. Je to ko
 
 Mnoho lidí si v poledne objedná buď jen polévku anebo sendvič. Jednou ale přišel někdo s nápadem nabízet kombinací polévky a vybraných sendvičů za zvýhodněnou cenu. To se velmi rychle ujalo, takže tuto kombinaci nabízí většina restaurací ve městech v místech kancelářských budov.
 
- [1]: /chili
- [2]: /kucharske_tituly#vykonny_sefkuchar
- [3]: /hulky
- [4]: /bujabeza
- [5]: /citrony
- [6]: /borsc
- [7]: /chowder
- [8]: /studene_polevky
- [9]: /podavani_polevek
+ [1]: /borsc
+ [2]: /chowder
+ [3]: /studene_polevky
+ [4]: /podavani_polevek
+ [5]: /chili
+ [6]: /hulky
+ [7]: /bujabeza
 
