@@ -7,7 +7,7 @@
 
 {kw="gastronomie, prezentace"}
 
-Jevištní kuchyně (anglicky _stage kitchen {xml:lang="en"}_) neboli kuchyně, do které hosté mohou kdykoliv nahlédnout je nejen praktická, ale v poslední době také velmi oblíbená.
+Jevištní kuchyně (anglicky _stage kitchen {xml:lang="en"}_) neboli kuchyně, do které hosté mohou kdykoliv nahlédnout, je nejen praktická, ale v poslední době také velmi oblíbená.
 
 {id="vyhody\_jevistni\_kuchyne"}
 
@@ -17,11 +17,11 @@ Pro hosty je tento typ [prezentace jídel][1] součástí zábavy, nebo chcete-l
 
 {class="important"}
 
-Tento způsob [prezentace jídla][1] ale vyžaduje nejenom zručnost, ale i přísné dodržování hygieny a bezpečnosti práce. O osobní hygieně ani nemluvě.
+Tento způsob [prezentace jídla][1] vyžaduje nejenom zručnost, ale i přísné dodržování hygieny a bezpečnosti práce. O osobní hygieně ani nemluvě.
 
-Podávání jídel před zraky hostů ale není nic nového. Kdysi se připravoval jen limitovaný výběr jídel na pánvi nebo na grilu. Dnes se ale tento styl rozrostl do enormních dimenzí.
+Podávání jídel před zraky hostů však není nic nového. Kdysi se připravoval jen limitovaný výběr jídel na pánvi nebo na grilu. Dnes se tento styl rozrostl do enormních dimenzí.
 
-Na [brunchích][3] jsou takto podávané hlavně lívance připravované na gridlu nebo vafle, které se připravují na speciálních elektrických pánvích. Jejich příprava je velmi jednoduchá a může je připravovat kdekdo (bez vyučení nebo maturity). Jediné, co je potřeba je hezký přirozený úsměv a dobrá komunikace s hostem, což se ale mnozí zaměstnanci v Česku musí naučit.
+Na [brunchích][3] jsou takto podávané hlavně lívance připravované na gridlu nebo vafle, které se připravují na speciálních elektrických pánvích. Jejich příprava je velmi jednoduchá a může je připravovat kdekdo (bez vyučení nebo maturity). Jediné, co je potřeba, je hezký přirozený úsměv a dobrá komunikace s hostem, což se mnozí zaměstnanci v Česku musí naučit.
 
 {id="dranzirovani\_a\_sotyrovani"}
 
