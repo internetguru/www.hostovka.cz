@@ -30,6 +30,7 @@
   <redir link="confit">konfitovani</redir>
   <redir link="fortune_cookies">kolacky_stesti</redir>
   <redir link="cile_kucharu">kucharske_umeni</redir>
+  <redir link="polevky">druhy_polevek</redir>
   
   <redir parName="s" parValueMatch="stitky/([^/]+)">/?usp=navig&amp;stitek=$1#clanky</redir>
   <redir parName='s' parValueMatch='clanky/([^/]+)'>$1?usp=navig</redir>
