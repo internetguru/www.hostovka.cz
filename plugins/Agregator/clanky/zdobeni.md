@@ -17,7 +17,7 @@ V některých etnických kuchyních, jako například v kuchyni japonské nebo �
 
 Nicméně v české kuchyni jsou jídla teplé kuchyně (zejména [minutky][3]) zdobena, ale neříká se tomu ozdoba, ale [obloha][4].
 
- [1]: /garde_manager
+ [1]: /garde_manger
  [2]: /food_styling
  [3]: /minutky
  [4]: /obloha
