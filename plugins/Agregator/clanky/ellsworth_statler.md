@@ -57,6 +57,6 @@ V roce 1950 byl hotelovým průmyslem prohlášen za největšího odborníka, k
 
 Statlerovo vzdělání skončilo ve druhé třídě základní školy, ale pro vzdělání měl veliký respekt. V jeho závěti byly stanoveny podmínky pro založení Stalerovy nadace, jejíž hlavním dědicem se stala _The School of Hotel Administration at Cornell University, Ithaca, N. Y. {xml:lang="en"}_. S velkými částkami bylo pamatováno ale i na jiné školy a university.
 
- [1]: /hotelove_nazvoslovi#bell_boy
+ [1]: /poslicci#bell_boy
  [2]: /samoobsluzna_restaurace
 
