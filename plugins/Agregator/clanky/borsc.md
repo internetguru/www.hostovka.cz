@@ -128,5 +128,5 @@ Suroviny na knedlíčky:
   5. Nakonec vložíme do polévky připravené knedlíčky, podušenou řepu, na plátky nakrájenou šunku a krátce povaříme.
   6. Smetanu podáváme zvlášť.
 
- [1]: /polevky
+ [1]: /druhy_polevek
 
