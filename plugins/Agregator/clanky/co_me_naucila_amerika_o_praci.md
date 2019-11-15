@@ -5,8 +5,6 @@
 
 # Důležitost propagace
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
-
 <!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
 
 {kw="životopis"}
@@ -17,7 +15,7 @@ Propagovat se jsem se naučil až v Americe. Tam takové povídačky jako „sed
 
 Pokud ale v Americe začnete vykřikovat, jak jste dobří, tak musíte být připraveni na to, že to po vás také budou chtít dokázat. Tudíž vám nepomůže ani to, že z vás někdo udělal osobnost nebo že jste držitelem ceny Magdaleny Dobromily Rettigové, Dr. Štětiny, či Jaroslava Vašaty. Nikdo stejně neví, kdo tito lidé vlastně byli.
 
-Nesmíte se také spoléhat na to, že vám něco přijde od Boha. Ne nadarmo se tady říká „člověče přičiň se a Bůh ti pak také trochu pomůže“. Nevím kolik je v Americe bohů, ale vím, že jsou tady velice úspěšní i někteří ateisté. Podle mě je tedy nelepší spoléhat se jen sám na sebe. Plné znění mojí náboženské filosofie vám přikládám v angličtině, protože v češtině by se to nerýmovalo.
+Nesmíte se také spoléhat na to, že vám něco přijde od Boha. Ne nadarmo se tady říká „člověče přičiň se a Bůh ti pak také trochu pomůže“. Nevím kolik je v Americe bohů, ale vím, že jsou tady velice úspěšní i někteří ateisté. Podle mě je tedy nejlepší spoléhat se jen sám na sebe. Plné znění mojí náboženské filosofie vám přikládám v angličtině, protože v češtině by se to nerýmovalo.
 
 {xml:lang="en"}
 
