@@ -7,7 +7,7 @@
 
 {kw="gastronomie, gastronom, gurmet, gurmán, labužník, snob, host"}
 
-Co bylo dříve, vejce nebo slepice? Podle mě je to stejné otázka, jako kdo se více zasloužil o gastronomii. Byli to kuchaři, gurmeti, gurmáni, labužníci, snobové nebo sofistikovaní hosté?
+Co bylo dříve, vejce nebo slepice? Podle mě je to stejná otázka, jako kdo se více zasloužil o gastronomii. Byli to kuchaři, gurmeti, gurmáni, labužníci, snobové nebo sofistikovaní hosté?
 
 {class="example"}
 
