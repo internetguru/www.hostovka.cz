@@ -37,7 +37,7 @@ Bohatí lidé měli často hůlky z drahých materiálů jako je stříbro, slon
 
 ## Japonské zásady při jídle hůlkami
 
-Japonci vyráběli hůlky většinou ze dřeva. Japonci byli také první, kdo v roce 1878 vynalezl hůlky na jedno použití.
+Japonci vyráběli hůlky většinou ze dřeva. Japonci byli také první, kdo v roce 1878 vynalezli hůlky na jedno použití.
 
   * Držte hůlky spíše na konci, než uprostřed nebo v dolní třetině.
   * Když hůlky nepoužíváte, položte je před sebe špičkami směřujícími doleva.
@@ -45,7 +45,7 @@ Japonci vyráběli hůlky většinou ze dřeva. Japonci byli také první, kdo v
   * Nepodávejte hůlkami jídlo na hůlky někoho jiného. Jenom při pohřbech se takto kosti spáleného těla podávají od jednoho pozůstalého k druhému.
   * Nenabodávejte jídlo na hůlky.
   * Neukazujte hůlkami na něco nebo na někoho.
-  * Nepohybujte příliš hůlkami kolem sebe, a ani si s nimi nehrajte.
+  * Nepohybujte příliš hůlkami kolem sebe a ani si s nimi nehrajte.
   * Nepohybujte pomocí hůlek miskami nebo talíři.
   * K rozdělení větších kousků masa musíte použít většího tlaku na hůlky, což ale vyžaduje určitou praxi.
   * Pokud jste hůlky měli již v ústech, tak k podání jídel ze společné mísy použijte druhý konec hůlek.
