@@ -11,7 +11,7 @@ Carême byl nejenom vynikající kuchař, ale také to byl nejspíše první sty
 
 {class="important"}
 
-Tento umělec, spisovatel, a nesmírně nadaný kuchař, jeden z největších inovátorů kuchyně, uvedl francouzskou gastronomii do devatenáctého století a získal francouzskému kuchařskému umění prvenství po celé Evropě.
+Tento umělec, spisovatel, a nesmírně nadaný kuchař, jeden z největších inovátorů kuchyně uvedl francouzskou gastronomii do devatenáctého století a získal francouzskému kuchařskému umění prvenství po celé Evropě.
 
 Byl to právě Carême kdo zavedl systém do tehdejší francouzské kuchyně, popsaný v jeho knize _L'Art de la Cuisine Française {xml:lang="fr"}_. Zavedl do kuchyní hygienu a kuchaře pozvedl z _otroctví_ na stupeň umělců.
 
@@ -23,7 +23,7 @@ Carêmovy umělecké výtvory byly dělány z různých těst, konzervovaného o
 
 {class="example"}
 
-Carême byl pro mě již od útlého mládí modelem v tom smyslu, že podobně jako já nesouhlasil se vším, co četl. Rozhodl se, že jednoho dne napíše knihu popisující francouzskou kuchyni podle jeho vlastních představ. Někteří lidé věří, že jako velkému egoistovi se mu to podařilo díky darům od Boha, ale já jsem přesvědčen že to bylo díky jeho neskonalé houževnatosti a snaze o perfektnost.
+Carême byl pro mě již od útlého mládí modelem v tom smyslu, že podobně jako já nesouhlasil se vším, co četl. Rozhodl se, že jednoho dne napíše knihu popisující francouzskou kuchyni podle jeho vlastních představ. Někteří lidé věří, že jako velkému egoistovi se mu to podařilo díky darům od Boha, ale já jsem přesvědčen, že to bylo díky jeho neskonalé houževnatosti a snaze o perfektnost.
 
 Carême byl první kdo omezil dosud obrovská menu pouze na polévku, pečeni se zeleninou, pošírovanou rybu, pečenou drůbež, salát, zákusky a dezert. Carême byl první kdo začal zjednodušování [jídelních lístků][1], ale byl to jeho velký obdivovatel Escoffier, kdo koncem devatenáctého století přivedl tyto zkrácené [jídelní lístky][1] do praxe.
 
