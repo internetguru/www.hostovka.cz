@@ -31,9 +31,9 @@ Výraz sendvič (anglicky _sandwich {xml:lang="en"}_), se dnes používá po cel
 
 _Finger food {xml:lang="en"}_ je ale v Česku zatím poměrně neznámý pojem. Není to jen protože je to anglický výraz. Je to spíše proto, že tento typ jídla je mnohými „[rádoby gastronomy][1]“ stále zavrhován.
 
-Tito [rádoby gastronomové][1] místo toho, aby sledovali, co je dnes světový trend, tak se stále vzhlíží v archaické francouzské gastronomii. Libují si v naivních, ale líbivých popisech jídel stylem _Eduarda Pomiána {xml:lang="fr"}_, a ohrnují nos nad vším, co nezavání francouzskou kuchyní.
+Tito [rádoby gastronomové][1] místo toho, aby sledovali, co je dnes světový trend, tak se stále vzhlíží v archaické francouzské gastronomii. Libují si v naivních, ale líbivých popisech jídel stylem _Eduarda Pomiána {xml:lang="fr"}_ a ohrnují nos nad vším, co nezavání francouzskou kuchyní.
 
-Nicméně ať se to lidem líbí nebo ne, budoucnost stravovaní širokých mas je v jídlech, která se dají jíst zcela neokázale, třeba i rukama. Jídla také musí odpovídat ceně použitých potravin.
+Nicméně, ať se to lidem líbí nebo ne, budoucnost stravování širokých mas je v jídlech, která se dají jíst zcela neokázale, třeba i rukama. Jídla také musí odpovídat ceně použitých potravin.
 
 {class="example"}
 
@@ -53,7 +53,7 @@ _Croque-monsieur {xml:lang="fr"}_, a _croque-madame {xml:lang="fr"}_ jsou pracho
 
 ### České obložené chlebíčky
 
-Co se týká gastronomie týká, tak Česká republika nemá mnoho mezinárodních prvenství. Ale typické české obložené chlebíčky jsou úplně jiná liga.
+Co se gastronomie týká, tak Česká republika nemá mnoho mezinárodních prvenství. Ale typické české obložené chlebíčky jsou úplně jiná liga.
 
 Češi mají prvenství nejenom v počtu druhů obložených chlebíčků, ale ještě před několika lety měli prvenství také v počtu obložených chlebíčků zkonzumovaných na jednu osobu.
 
