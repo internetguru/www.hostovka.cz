@@ -19,7 +19,7 @@ Názvy v cizích řečech zmiňuji hlavně proto, že na zájezdech do zahranič
 
 Kdo se neptá, nic se nedozví! „Maminko, co je to?“ ptala se v jednom pražském supermarketu asi desetiletá holčička maminky, přičemž ukazovala na plody moře vystavené na rybím pultě. „To jsou takové mořské potvory,“ odpověděla maminka a dodala: „A neotravuj a pojď.“
 
-Bylo to krátce po sametové revoluci. Tehdy se toho u nás o plodech moře moc nevědělo. Takže jsem se paní nedivil, a nakonec jsem jí dal tak trochu kredit za to, že své dceři dala alespoň nějakou odpověď.
+Bylo to krátce po sametové revoluci. Tehdy se toho u nás o plodech moře moc nevědělo. Takže jsem se paní nedivil a nakonec jsem jí dal tak trochu kredit za to, že své dceři dala alespoň nějakou odpověď.
 
 Paní ale nebyla daleko pravdy. Plody moře totiž mají jednu základní charakteristiku a sice, že jsou drahé jako potvory. To je ale jediné, co mají s potvorami společného.
 
