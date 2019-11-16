@@ -52,7 +52,7 @@ Naší specialitou může být v zásadě jakékoliv populární jídlo (s tím,
 
 Naší specialitou mohou být například grilovaná vepřová žebírka nebo vepřové koleno. Koleno musí být ale skutečně dobře okořeněné, dobře upečené, podávané horké na dostatečně velkém a horkém talíři.
 
-Na tom ale není ale nic speciálního. Je to jakousi samozřejmostí, a tak to dělá kdekdo. Proto by naší specialitou mělo například být to, že hořčici a křen budeme ke kolenu podávat zvlášť – tak aby si host mohl dát na talíř kolik chce.
+Na tom ale není ale nic speciálního. Je to jakousi samozřejmostí, a tak to dělá kdekdo. Proto by naší specialitou mělo například být to, že hořčici a křen budeme ke kolenu podávat zvlášť – tak, aby si host mohl dát na talíř kolik chce.
 
 Naší specialitou by také mělo být, že ke kolenu dáme skutečně ostrý nůž. Samozřejmě také podle přání buď čerstvý chléb, případně čerstvé rohlíky.
 
@@ -123,7 +123,7 @@ Ve Francii jsou například některé restaurace známé jen pod křestním jmé
 
 {class="important"}
 
-Jedna z mých zásad tvorby jídelních lístků ale je nestavět ho na odborných znalostech šéfkuchaře. Jakmile kuchař odejde, tak vám ten nový hned udělá jídelní lístek podle svých „bohatých“ zkušeností. V mnoha případech vám i řekne, že musíte přestavět kuchyň.
+Jedna z mých zásad tvorby jídelních lístků je nestavět ho na odborných znalostech šéfkuchaře. Jakmile kuchař odejde, tak vám ten nový hned udělá jídelní lístek podle svých „bohatých“ zkušeností. V mnoha případech vám i řekne, že musíte přestavět kuchyň.
 
 Proto některé restaurace dávají přednost uvádět tyto speciality bez uvedení šéfova jména pod hlavičkou _šéf doporučuje_, _šéfova specialita_, _[À la][2] Chef_ apod. 
 
@@ -131,7 +131,7 @@ Proto některé restaurace dávají přednost uvádět tyto speciality bez uvede
 
 ## Národní, krajové a regionální speciality
 
-Národních kuchyně, které si získaly mezinárodní pozornost či popularitu se nazývají francouzským označením _cuisine {xml:lang="fr"}_. Ne každá národní kuchyně se ale dá považovat za _cuisine {xml:lang="fr"}_.
+Národní kuchyně, které si získaly mezinárodní pozornost či popularitu se nazývají francouzským označením _cuisine {xml:lang="fr"}_. Ne každá národní kuchyně se ale dá považovat za _cuisine {xml:lang="fr"}_.
 
 [Gurmáni][3] a někteří cizinci, se za takovými specialitami přímo honí. Některé cizí cestovní kanceláře dokonce organizují zájezdy gurmánů do všech možných zemí světa. Takové zájezdy jsou mnohdy spojeny s praktickými ukázkami přípravy specialit a některé jsou dokonce zpestřené jakýmsi kuchařským kurzem.
 
@@ -218,7 +218,7 @@ Tak jako kraje a gastronomické oblasti v jednotlivých zemích, tak už i někt
 
 {class="important"}
 
-Některá etnická jídla, kdysi velmi snadno rozeznatelná jako například čínská, vietnamská, japonská, Indonéská, dnes lze spíše označit jako orientální. Podobně u českých, maďarských a rakousko-uherských jídel, která vznikla za Rakousko-Uherska, lze mnohdy jen velmi těžko zjistit zemi jejich původu. O amerických jídlech, která byla do Ameriky přinesena ze všech koutů světa ani nemluvě.
+Některá etnická jídla, kdysi velmi snadno rozeznatelná jako například čínská, vietnamská, japonská, indonéská, dnes lze spíše označit jako orientální. Podobně u českých, maďarských a rakousko-uherských jídel, která vznikla za Rakousko-Uherska, lze mnohdy jen velmi těžko zjistit zemi jejich původu. O amerických jídlech, která byla do Ameriky přinesena ze všech koutů světa ani nemluvě.
 
 Díky stále se rozvíjejícímu cestovnímu ruchu jsou etnické kuchyně čím dále tím více populární. Etnické restaurace všech možných národů rostou po celém světě jako houby po dešti. Jejich popularita dostoupila takového stupně, že se jimi bohužel zabývá již kdekdo.
 
