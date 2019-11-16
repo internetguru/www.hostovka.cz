@@ -9,7 +9,7 @@
 
 Steak je nejvíce zneužívaný výraz v gastronomii. Steak může být i řez ryby, kuřete nebo jiné potraviny. Většinou se tím ale rozumí řez masa a není-li specifikováno jinak, tak hovězího.
 
-Hostovka není školou vaření, a proto jsem nepovažoval za nutné se zmiňovat o všech masech, ze kterých se steaky dají připravit. To hlavně proto, že technika přípravy je u všech druhů masa téměř stejná. Teď ale vidím že jsem něco zanedbal.
+Hostovka není školou vaření, a proto jsem nepovažoval za nutné se zmiňovat o všech masech, ze kterých se steaky dají připravit. To hlavně proto, že technika přípravy je u všech druhů masa téměř stejná. Teď ale vidím, že jsem něco zanedbal.
 
 {id="zkreslene\_povedomi\_o_steacich"}
 
@@ -51,7 +51,7 @@ Telecí maso je maso dobytčete, které je příliš mladé a příliš malé na
 
 Telecí maso obsahuje více vody než hovězí, ale je libovější což je pro některé lidi předností.
 
-V Americe jsou _vealers {xml:lang="en"}_ a _calves {xml:lang="en"}_ prodávány na váhu a podle pěti kvalitativních tříd stanovených federální vládou, ale tím si nebudeme lámat hlavu. Stačí, když budeme vědět, že maso nižší tříd je tenké a vodnaté a že dobré telecí maso musí být hutné a jeho barva musí být růžová až slabě šedá.
+V Americe jsou _vealers {xml:lang="en"}_ a _calves {xml:lang="en"}_ prodávány na váhu a podle pěti kvalitativních tříd stanovených federální vládou, ale tím si nebudeme lámat hlavu. Stačí, když budeme vědět, že maso nižších tříd je tenké a vodnaté a že dobré telecí maso musí být hutné a jeho barva musí být růžová až slabě šedá.
 
 {class="important"}
 
