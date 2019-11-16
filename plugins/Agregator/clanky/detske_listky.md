@@ -21,7 +21,7 @@ Nejlepším zdrojem inspirace dětských jídel jsou jesle, školky nebo dětsk�
 
 ## Dítě jako host
 
-Největší chybou některých restauratérů je, že mnohdy podceňují inteligenci, vkus, chuť, a hlavně návyky dětských hostů. Ty se bohužel u dětí mění daleko více než u dospělých lidí. Možná jste se již povšimli toho, že dospělého hosta můžete o něčem přesvědčit dobrým marketingem, nebo ho něčím oblafnout, ale u dětí se vám to hned tak nepodaří.
+Největší chybou některých restauratérů je, že mnohdy podceňují inteligenci, vkus, chuť a hlavně návyky dětských hostů. Ty se bohužel u dětí mění daleko více než u dospělých lidí. Možná jste se již povšimli toho, že dospělého hosta můžete o něčem přesvědčit dobrým marketingem nebo ho něčím oblafnout, ale u dětí se vám to hned tak nepodaří.
 
 Mám vnoučata dvojčata, kterým je teď 5 let. Chodí relativně často do restaurací a dá se říci, že do jisté míry jsou již plnohodnotní hosté. Mají své oblíbené restaurace, u kterých dokonce již před vstupem vědí, co si objednají a v jejich rozhodnutí je těžké je zviklat.
 
