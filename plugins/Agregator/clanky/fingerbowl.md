@@ -1,11 +1,9 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=42.html" data-image="/files/preview/clanky/fingerbowl/general.jpg" data-type="article"}
 
-{ctime="2009-07-25" mtime="2009-07-25" id="fingerbowl" author="Michael Klíma" short="Fingerbowl" authorid="hostovka/michael_klima"}
+{ctime="2009-07-25" mtime="2020-01-05" id="fingerbowl" author="Michael Klíma" short="Fingerbowl"}
 
 # Fingerbowl
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
 
 {kw="co-kdy-kde"}
 
