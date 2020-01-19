@@ -1,11 +1,9 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=202.html" data-image="/files/preview/clanky/chatobriand/general.jpg" data-type="article"}
 
-{ctime="2006-12-22" mtime="2006-12-22" id="chatobriand" author="Michael Klíma" short="Chatobriand" authorid="hostovka/michael_klima"}
+{ctime="2006-12-22" mtime="2020-01-05" id="chatobriand" author="Michael Klíma" short="Chatobriand"}
 
 # Chatobriand
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
