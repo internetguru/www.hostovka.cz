@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=502.html" data-image="/files/preview/clanky/czech\_specials\_2/general.jpg" data-type="article"}
 
-{ctime="2010-02-05" mtime="2010-02-05" id="czech\_specials\_2" author="Michael Klíma" short="Czech Specials 2" authorid="hostovka/michael_klima"}
+{ctime="2010-02-05" mtime="2020-01-05" id="czech\_specials\_2" author="Michael Klíma" short="Czech Specials 2"}
 
 # Czech Specials 2
 
