@@ -1,11 +1,9 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=294.html" data-image="/files/preview/clanky/bufet/general.jpg" data-type="article"}
 
-{ctime="2008-03-04" mtime="2008-03-04" id="bufet" author="Michael Klíma" short="Bufet" authorid="hostovka/michael_klima"}
+{ctime="2008-03-04" mtime="2020-01-05" id="bufet" author="Michael Klíma" short="Bufet"}
 
 # Bufet
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="gastronomie"}
 
