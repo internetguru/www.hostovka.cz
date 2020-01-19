@@ -1,11 +1,9 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=302.html" data-image="/files/preview/clanky/cenotvorba/general.jpg" data-type="article"}
 
-{ctime="2008-03-29" mtime="2008-03-29" id="cenotvorba" author="Michael Klíma" short="Cenotvorba" authorid="hostovka/michael_klima"}
+{ctime="2008-03-29" mtime="2020-01-05" id="cenotvorba" author="Michael Klíma" short="Cenotvorba"}
 
 # Cenotvorba
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="co-kdy-kde"}
 
