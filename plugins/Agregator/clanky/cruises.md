@@ -1,11 +1,9 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=222.html" data-image="/files/preview/clanky/cruises/general.jpg" data-type="article"}
 
-{ctime="2007-03-29" mtime="2007-03-29" id="cruises" author="Michael Klíma" short="Cruises" authorid="hostovka/michael_klima"}
+{ctime="2007-03-29" mtime="2020-01-05" id="cruises" author="Michael Klíma" short="Cruises"}
 
 # Cruises
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="cestovní ruch"}
 
