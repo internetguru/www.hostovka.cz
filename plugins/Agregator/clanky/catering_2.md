@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=236.html" data-image="/files/preview/clanky/catering_2/general.jpg" data-type="article"}
 
-{ctime="2007-05-27" mtime="2007-05-27" id="catering\_2" author="Michael Klíma" short="Catering 2" authorid="hostovka/michael\_klima"}
+{ctime="2007-05-27" mtime="2020-01-05" id="catering\_2" author="Michael Klíma" short="Catering 2"}
 
 # Catering 2
 
