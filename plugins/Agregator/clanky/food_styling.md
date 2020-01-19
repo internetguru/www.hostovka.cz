@@ -1,11 +1,9 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=348.html" data-image="/files/preview/clanky/food_styling/general.jpg" data-type="article"}
 
-{ctime="2008-07-06" mtime="2008-07-06" id="food\_styling" author="Michael Klíma" short="Food styling" authorid="hostovka/michael\_klima"}
+{ctime="2008-07-06" mtime="2020-01-05" id="food\_styling" author="Michael Klíma" short="Food styling"}
 
 # Food styling
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="gastronomie"}
 
