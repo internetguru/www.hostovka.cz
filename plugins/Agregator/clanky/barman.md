@@ -1,11 +1,9 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=304.html" data-image="/files/preview/clanky/barman/general.jpg" data-type="article"}
 
-{ctime="2008-04-03" mtime="2008-04-03" id="barman" author="Michael Klíma" short="Barman" authorid="hostovka/michael_klima"}
+{ctime="2008-04-03" mtime="2020-01-05" id="barman" author="Michael Klíma" short="Barman"}
 
 # Barman
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
 
 {kw="co-kdy-kde"}
 
