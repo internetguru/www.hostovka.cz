@@ -1,11 +1,9 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=317.html" data-image="/files/preview/clanky/ala/general.jpg" data-type="article"}
 
-{ctime="2008-05-07" mtime="2008-05-07" id="ala" author="Michael Klíma" short="À la" authorid="hostovka/michael_klima"}
+{ctime="2008-05-07" mtime="2020-01-05" id="ala" author="Michael Klíma" short="À la"}
 
 # À la
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="gastronomie"}
 
