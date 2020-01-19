@@ -1,11 +1,9 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=273.html" data-image="/files/preview/clanky/dress_code/general.jpg" data-type="article"}
 
-{ctime="2008-01-18" mtime="2008-01-18" id="dress\_code" author="Michael Klíma" short="Dress Code" authorid="hostovka/michael\_klima"}
+{ctime="2008-01-18" mtime="2020-01-05" id="dress\_code" author="Michael Klíma" short="Dress Code"}
 
 # Dress Code
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
 
 {kw="restaurace a servis"}
 
