@@ -1,11 +1,9 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=36.html" data-image="/files/preview/clanky/absinth/general.jpg" data-type="article"}
 
-{ctime="2005-07-07" mtime="2005-07-07" id="absinth" author="Michael Klíma" short="Absinth" authorid="hostovka/michael_klima"}
+{ctime="2005-07-07" mtime="2020-01-05" id="absinth" author="Michael Klíma" short="Absinth"}
 
 # Absinth
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
 
 {kw="nápoje"}
 
