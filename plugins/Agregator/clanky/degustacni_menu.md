@@ -1,11 +1,9 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=356.html" data-image="/files/preview/clanky/degustacni_menu/general.jpg" data-type="article"}
 
-{ctime="2008-07-24" mtime="2008-07-24" id="degustacni\_menu" author="Michael Klíma" short="Degustační menu" authorid="hostovka/michael\_klima"}
+{ctime="2008-07-24" mtime="2020-01-05" id="degustacni\_menu" author="Michael Klíma" short="Degustační menu"}
 
 # Degustační menu
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
 
 {kw="gastronomie"}
 
