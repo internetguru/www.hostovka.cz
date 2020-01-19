@@ -228,4 +228,3 @@ Dranšírování v jídelně, před zraky hostů je něco obdobného. Buď to d�
 ## Keridón
 
 také gueridón, je malý stolek používaný v restauracích se složitým servisem pro usnadnění servisu, při dranšírování, nebo pro odkládání nádobí.
-
