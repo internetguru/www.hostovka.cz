@@ -1,11 +1,9 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=255.html" data-image="/files/preview/clanky/dinner_diner/general.jpg" data-type="article"}
 
-{ctime="2007-10-04" mtime="2007-10-04" id="dinner\_diner" author="Michael Klíma" short="Dinner Diner" authorid="hostovka/michael\_klima"}
+{ctime="2007-10-04" mtime="2020-01-05" id="dinner\_diner" author="Michael Klíma" short="Dinner Diner"}
 
 # Dinner Diner
-
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
 
 {kw="koho se to týká"}
 
