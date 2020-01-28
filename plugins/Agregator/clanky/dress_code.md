@@ -5,7 +5,7 @@
 
 # Dress Code
 
-{kw="restaurace a servis"}
+{kw="restaurace a servis, případová studie"}
 
 Na stránkách www.gastronews.cz, které jsou považovány za jakési odborné stránky v oboru pohostinství, v červnu 2006 proběhla diskuse na základě otázky pana Borůvky zda vedoucí restauace má právo požadovat od zaměsnance v kuchyni aby nosil ponožky. □
 
@@ -89,7 +89,7 @@ Jinak mně ale udivuje, že tyto věci se nevyučují na všech těch odborn‎c
 
 Ktomu jako obyčedjně vám musím přidat příhodnou případovou studii.
 
-It\`s a free country
+## It\`s a free country
 
 Já, jak jsem se již několikrát zmínil jsem v Americe patnáct let učil na hotelové škole v River Grove u Chicaga.
 
