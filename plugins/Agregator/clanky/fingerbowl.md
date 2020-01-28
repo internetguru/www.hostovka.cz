@@ -5,21 +5,17 @@
 
 # Fingerbowl
 
-{kw="co-kdy-kde"}
+{kw="co-kdy-kde, případová studie"}
 
-V jedné české příručce pro číšníky jsem našel tuto definici: malá nádoba naplněná vodou (možno i kouskem citrónu), kladená na stůl, aby hosté mohli opláchnout prsty.
+Fingerbowl je malá nádoba naplněná vodou (někdy i s kouskem citrónu), v které si hosté oplachují prsty. Fingerbowls je jeden z odborných výrazů, který byl kdysi v pohostinství tak běžný, že se ho nikdo ani nesnažil přeložit do češtiny.
 
-Obávám se, že taková definice toho těm číšníkům moc neříká, nehledě hostům, kteří nakonec takové příručky nečtou.
-
-Fingerbowls je jeden z odborných výrazů který byl kdysi v pohostinství tak běžný, že se nikdo ani nesnažil ho přeložit do češtiny.
-
-To bylo v dobách kdy se ještě nic nevědělo o nějakém fast food a finger foods a kdy mnoho lidí si v restauraci neobjednávali drůbež nebo jídla která se dala příborem jíst jen s velkými potížemi a kdy všichni hosté nebyli tak sofistikovaní aby věděli, že o finger bowl mohou číšníka požádat v případě že na to zapomněl.
+## Historka z hotelu Coronado
 
 Měli jsme tady u nás (v Americe) na návštěvě jednu známou z Německa a ta se pozastavila nad tím, že v Hotelu Coronado na ostrově stejného jména do kterého jsme ji vzali na oběd se nesetkala s takovým servisem jako například v Mnichově kde v současné době bydlí.
 
 Hotel Coronado Del pravděpodobně mnozí z Vás znáte z populárního filmu Někdo to rád horké s Marylin Monroe v hlavní roli.
 
-V tomto hotelu postaveném v roce 1888 ubytování není nic laciného a pohybuje se od  _{var="350"}_ do  _{var="2"}_.500 za noc, ale přesto v příštím týdnu mají údajně všechny pokoje obsazené.
+V tomto hotelu postaveném v roce 1888 ubytování není nic laciného a pohybuje se od  $350 do  $2.500 za noc, ale přesto v příštím týdnu mají údajně všechny pokoje obsazené.
 
 Jídla na poledním lístku nejsou kupodivu předražená. Jedli jme v elegantní jídelně na terase s výhledem na překrásnou pláž na které se Marylin pravděpodobně slunila, což nemělo chybu.
 
@@ -37,9 +33,11 @@ Naše známá se také podivovala, že nám k těm sendvičům nepodali misku s 
 
 Takové misce se anglicky říká fingerbowl, což většina číšníků i v ČR ví, ale ne všichni vědí kde, kdy, jak a proč tento fingerbowl podávat a já osobně vím, že hostů kteří to vědí je ještě méně.
 
-HOSTOVKA, jak teď již víme, je pomyslná universita pro hosty a proto se o fingerbowls musím zmínit, přestože jejich používání již upadá v zapomenutí, ale absolventi HOSOTVKY budou muset vědět co to je.
+{class="example"}
 
 Za mých mladých let se vyprávěla taková líbivá historka o tom, že při jednom banketu, který pořádala jedna velice bohatá, ale již méně sofistikovaná dáma, když číšníci založili ty fingerbowls na stůl, tu vodu z té misky vypila.Maitre d', který na ten banket dohlížel nechal okamžitě všechny ty misky sklidit a nahradit jinými miskami a znovu je na sůl založili.Tentokrát ale, aby tu hostitelku nepřivedli opět do trapné situace, jí tu misku podali až nakonec. No, a podle známého rčení: "Monkey see, monkey do", což znamená co opice vidí, to opice udělá, i ta vznešená dáma věděla, na co ta miska s tou vodou vlastně je.
+
+## Typy misek
 
 Fingerbowls jsou z různých materiálů a mají různé tvary a přestože se jim říká fingerbowls to neznamená, že by se podávaly jen k oplachování prstů.
 
