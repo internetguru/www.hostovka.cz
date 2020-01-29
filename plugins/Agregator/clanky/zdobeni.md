@@ -5,8 +5,6 @@
 
 # Zdobení jídla
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
-
 {kw="gastronomie"}
 
 Ozdobě jídel se říká všelijak: ozdoba, garnýr, garnitura, anglicky _garnish_, francouzsky _garniture_ apod. Ozdoby jsou výtvory [kuchařů studené kuchyně][1] (_garde manager_), kteří by neměli být zaměňováni se [stylisty jídla][2] (_food stylists_).
