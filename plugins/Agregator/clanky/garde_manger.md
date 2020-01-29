@@ -21,7 +21,7 @@ Dnes titul _garde manger {xml:lang="fr"}_ upadá do zapomenutí. V Americe byl t
 
 V chladných prostorách se (mimo jiných výrobků studené kuchyně) připravovaly takzvané středy stolů (anglicky _center pieces {xml:lang="en"}_), což byla přímo umělecká díla.
 
-Titul _garde manger {xml:lang="fr"}_ zaslouží také tesaři z ledu, másla, sýru či loje a dnes i profesionálové v uměleckém vyřezáváni zeleniny či ovoce, jako ja náš mistr světa Luděk Procházka.
+Titul _garde manger {xml:lang="fr"}_ zaslouží také tesaři z ledu, másla, sýru či loje a dnes i profesionálové v uměleckém vyřezáváni zeleniny či ovoce, jako je náš mistr světa Luděk Procházka.
 
 {class="example"}
 
