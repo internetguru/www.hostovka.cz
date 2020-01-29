@@ -3,7 +3,7 @@
 
 {ctime="2005-12-04" mtime="2019-11-07" id="poslicci" author="Michael Klíma" short="Poslíčci"}
 
-# Hoteloví posličci
+# Hoteloví poslíčci
 
 {kw="ubytování, hotel"}
 
