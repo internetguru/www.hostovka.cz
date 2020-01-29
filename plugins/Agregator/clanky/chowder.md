@@ -51,7 +51,7 @@ Slanina, o které se v amerických receptech hovoří, není stejná jako naše 
 
 ## Jak jsem vymyslel Hartford Fishermen's Chowder
 
-Krátce po příchodu do Ameriky jsem pracoval jako \[výkonný šéfkuchař\]\[2\] ve velkém restauračním komplexu v Chicagu. V komplexu jsme měli jednak dvě luxusní restaurace, hospodu a lidovou jídelnu se samoobsluhou, kde se denně v poledne podávalo až 3.500 obědů.
+Krátce po příchodu do Ameriky jsem pracoval jako [výkonný šéfkuchař][2] ve velkém restauračním komplexu v Chicagu. V komplexu jsme měli jednak dvě luxusní restaurace, hospodu a lidovou jídelnu se samoobsluhou, kde se denně v poledne podávalo až 3.500 obědů.
 
 V pátek, i když to nebyl nejsilnější den v týdnu, jsme měli na jídelním lístku mimo jiné alespoň 3 až 4 druhy ryb a nejméně dvě rybí polévky. Ryby i rybí polévky šly v pátek velmi dobře na odbyt, ale zásada v amerických samoobsluhách je, že gastronádoby ve výdejním pultě musí být až do posledního okamžiku plné. Stávalo se tak, že na konci oběda zbylo relativně velké množství rybích jídel.
 
@@ -62,4 +62,5 @@ Druhý den se zbytky zahřejí na předepsanou teplotu a dají se do výdejní l
 Přišel jsem s nápadem nashromáždit denní zbytky ryb, na kterých nebylo nic špatného a v pátek z nich udělat krémovou rybí polévku. Aby se lépe prodávala navrhoval jsem jí nazvat jako chowder. Chowder Klíma by asi moc neupoutal, a tak jsme ho nazvali podle jména komplexu jako _Hartford Fisherman's Chowder {xml:lang="en"}_.
 
  [1]: /druhy_polevek
+ [2]: /kucharske_tituly#vykonny_sefkuchar
 
