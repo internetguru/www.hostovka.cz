@@ -9,7 +9,7 @@
 
 Pražský architekt Alois Krofta si ve třicátých letech otevřel hotel Alcron. Název hotelu byl odvozen ze zkratky jeho jména. Jako [šéfkuchaře][1] si najal Floriána Zimmermanna, který měl mezinárodní zkušenosti.
 
-Zimermann byl Čech, s několikaletou praxí ve Francii a v Americe. Kdo si ho pamatujete tak víte, že nebyl žádná primadona. Zimmermann byl gentleman a podle mě měl daleko více zkušenosti s mezinárodní kuchyní než kterýkoliv z francouzských kuchařů, kteří své umění ale uměli prodat lépe než on.
+Zimermann byl Čech s několikaletou praxí ve Francii a v Americe. Kdo si ho pamatujete tak víte, že nebyl žádná primadona. Zimmermann byl gentleman a podle mě měl daleko více zkušenosti s mezinárodní kuchyní než kterýkoliv z francouzských kuchařů, kteří své umění ale uměli prodat lépe než on.
 
 {class="example"}
 
