@@ -81,7 +81,7 @@ Potřebné suroviny:
 
 Postup přípravy:
 
-  1. Maso vložíme do studené vody a vaříme do studené vody a vaříme do změknutí.
+  1. Maso vložíme do studené vody a vaříme do změknutí.
   2. Očištěnou červenou řepu nakrájíme na nudličky, dáme ji na polovinu dávky sádla a podlijeme troškou vývaru. Přidáme rajčatový protlak, ocet a dusíme tak jako při přípravě boršče moskevského.
   3. Stejně připravíme a podusíme zeleninu s cibulí.
   4. Přidáme na nudličky nakrájené zelí a brambory spolu s vývarem, bobkovým listem, pepřem, solí a cukrem a vaříme s jíškou asi 20 minut (pozor, aby se brambory nerozvařily).
@@ -119,7 +119,9 @@ Suroviny na knedlíčky:
   * 1 vejce,
   * voda,
   * mletý pepř,
-  * sůl. Postup přípravy:
+  * sůl.
+
+Postup přípravy:
 
   1. Nejdříve si připravíme knedlíčky. Hovězí a vepřové maso umeleme na masovém strojku s cibulí, smícháme s vejcem, osolíme, opepříme a tvoříme knedlíčky velkosti vlašských ořechů, které povaříme 10 minut ve vroucí vodě a dáme stranou.
   2. Potom očistíme červenou řepu, nakrájíme ji na nudličky a dáme ji na polovinu dávky rozpáleného másla. Přidáme rajčatový protlak a ocet, podlijeme vývarem a dusíme zakryté do měkka.
