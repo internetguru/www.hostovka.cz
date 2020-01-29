@@ -13,7 +13,7 @@ Chowdery mají původ nejspíše v chutné a husté polévce, kterou ze všech m
 
 {class="example"}
 
-Kukuřičný chowder je ve skutečnosti první americkou polévkou, která byla známá ještě dříve, než se o ostatních chowderech vědělo. V Česku ale s kukuřičným chowderem asi moc neuspějete, protože Češi si podvědomě myslí, že je kukuřice je jen pro krmení dobytka.
+Kukuřičný chowder je ve skutečnosti první americkou polévkou, která byla známá ještě dříve, než se o ostatních chowderech vědělo. V Česku ale s kukuřičným chowderem asi moc neuspějete, protože Češi si podvědomě myslí, že je kukuřice jen pro krmení dobytka.
 
 {xml:lang="en" id="abalone\_chowder\_a\_la\_mike"}
 
