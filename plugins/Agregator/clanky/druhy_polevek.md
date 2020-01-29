@@ -59,7 +59,7 @@ U tohoto jídla je nutno opět připomenout, že použití klasického čínské
 
 _Cioppino {xml:lang="en"}_ je krajová specialita. Znáte to, když se o něčem říká, že to není ani ryba ani rak? To stejné se dá říci i o této specialitě. V polévce je totiž nejenom ryba, ale i rak, krab, mušle a krevetky – prostě jakékoliv ryby a mořské potvory, které máte zrovna po ruce.
 
-Cioppino se podává v dobrém silném vývaru, a patří k němu láhev dobrého vína. Cioppino vzniklo v San Franciscu v italské rybářské čtvrti. Tím, že se připravuje z několika čerstvých druhů ryb a mořských plodů, do jisté míry připomíná francouzskou [bujabézu][7].
+Cioppino se podává v dobrém silném vývaru a patří k němu láhev dobrého vína. Cioppino vzniklo v San Franciscu v italské rybářské čtvrti. Tím, že se připravuje z několika čerstvých druhů ryb a mořských plodů, do jisté míry připomíná francouzskou [bujabézu][7].
 
 Originální recept počítá s živým krabem, ale to neznamená, že když nemáme živého kraba, tak že prostě zavřete hospodu a půjdete domů. Zmrazený krab nebo krabí maso nám (všude jinde než v San Francisku) udělá stejnou službu. Také s mušlemi si nemusíme moc lámat hlavu. Použijeme prostě takové mušle, jaké máme, hlavně když jich bude dost.
 
