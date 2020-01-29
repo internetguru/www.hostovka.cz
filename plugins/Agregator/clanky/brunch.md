@@ -29,15 +29,15 @@ Napřed si řekněme, co vlastně brunch je. Brunch má ve skutečnosti původ v
 
 Základem brunche je snídaně (anglicky _breakfast {xml:lang="en"}_), která je první jídlo dne. Tento anglický výraz, který vznikl z _to break one's feast {xml:lang="en"}_ (ukončit půst), se datuje přinejmenším od roku 1425.
 
-V Americe chodí ve všední dny mnoho lidí na snídani ještě před nástupem do zaměstnání. Proto ve městech podává snídani každá druhá restaurace, a dokonce i některé restaurace rychlého občerstvení.
+V Americe chodí ve všední dny mnoho lidí na snídani ještě před nástupem do zaměstnání. Proto ve městech podává snídani každá druhá restaurace, dokonce i některé restaurace rychlého občerstvení.
 
 {class="example"}
 
 Ani [McDonald's][1], který po dlouhá léta „trucoval“ a nepodával nic jiného než hamburgery, dnes podává snídaně. Mimo jiné jsou pro ně snídaně velice rentabilní.
 
-V neděli však většina lidí do práce nechodí, a tedy nechodí ani na snídaně do restaurace. Buď si přispí a vůbec nesnídají, nebo si udělají snídani doma. V Americe ale chodí v neděli ráno hodně lidí do kostela. Tudíž doma snídat nemohou a po kostele jdou většinou domů. Z domova jdou případně do restaurace na pozdní oběd nebo na časnou večeři.
+V neděli však většina lidí do práce nechodí, tedy nechodí ani na snídaně do restaurace. Buď si přispí a vůbec nesnídají nebo si udělají snídani doma. V Americe ale chodí v neděli ráno hodně lidí do kostela. Tudíž doma snídat nemohou a po kostele jdou většinou domů. Z domova jdou případně do restaurace na pozdní oběd nebo na časnou večeři.
 
-S tím se ale američtí restauratéři nemohli smířit. Proto přišly s ideálním řešením, což kombinace snídaně a oběda, čímž vzniknul již zmíněný brunch. Brunch se v Americe velmi rychle uchytil. To nejenom proto, že je většinou cenově atraktivní, ale také proto, že se stal příležitostí k setkání celé rodiny.
+S tím se ale američtí restauratéři nemohli smířit. Proto přišli s ideálním řešením, což kombinace snídaně a oběda, čímž vzniknul již zmíněný brunch. Brunch se v Americe velmi rychle uchytil. To nejenom proto, že je většinou cenově atraktivní, ale také proto, že se stal příležitostí k setkání celé rodiny.
 
 Brunche se ale staly populárními téměř po celém světě, nakonec i v České republice. Ve formě podávání brunchů, v nabízeném sortimentu a v cenách jsou veliké rozdíly. Proto by se o nich studenti Hostovky měli dozvědět co nejvíce.
 
@@ -47,14 +47,14 @@ Brunche se ale staly populárními téměř po celém světě, nakonec i v Česk
 
 Podobně jako při snídaních podávaných formou _table d'hôte {xml:lang="fr"}_, jsou tyto brunche rozlišeny podle stanovených cen za kombinaci několika jídel.
 
-V ceně každé kombinace, je mimo hlavního chodu zahrnuta také:
+V ceně každé kombinace je mimo hlavního chodu zahrnuta také:
 
   * malá sklenka chlazeného džusu,
   * příloha, jako jsou brambory, rýže, těstoviny nebo zelenina,
   * neomezené množství teplých nápojů, pečiva, másla, džemu nebo medu a
   * případně i jiné doplňky podle místních zvyklostí.
 
-Níže je uvedeno několik příkladů možných kombinaci snídaní formou _table d'hôte {xml:lang="fr"}_. Kombinací by nemělo byt mnoho. Velkým výběrem by se nedosáhlo zamýšleného účelu, což je nízká inventura potřebných potravin, snadná a rychlá úprava jídel, snadná kontrola, a hlavně rychlé vyúčtování s hostem.
+Níže je uvedeno několik příkladů možných kombinací snídaní formou _table d'hôte {xml:lang="fr"}_. Kombinací by nemělo byt mnoho. Velkým výběrem by se nedosáhlo zamýšleného účelu, což je nízká inventura potřebných potravin, snadná a rychlá úprava jídel, snadná kontrola, a hlavně rychlé vyúčtování s hostem.
 
 Uvedené kombinace se liší typicky pouze v hlavním jídle a příloze. Jídla společná pro všechny kombinace jsou:
 
@@ -63,12 +63,18 @@ Uvedené kombinace se liší typicky pouze v hlavním jídle a příloze. Jídla
   * neomezené množství másla, pečiva a džemu nebo medu.
 
 Vejce Benedict
-:   Dvě pošírovaná vejce s grilovanou kanadskou šunkou na toastovaném vdolku (anglicky _english muffin {xml:lang="en"}_) přelitá holandskou omáčkou. Filet mignon s vejcem
-:   Grilovaný steak z pravé svíčkové na krutónu z bílého chleba s vejcem, opečené brambory. Quiche Lorraine
-:   Porce Quiche Lorraine (cibule, paprika, slanina a gruyerský sýr, vše zapečené ve vejcích) a grilovaná rajčata. Frittata
-:   Vaječná smaženice se šunkou, masem, rajčaty a zeleninou, restované brambory. Beef Stroganov
-:   Nudličky z pravé svíčkové restované na cibuli s čerstvými žampióny, znojemskými okurkami, dušené v kyselé smetaně. Vhodná příloha jsou bramborové hranolky. Corned Beef Hash s vejcem
-:   Dvě sázená vejce na haši z uzeného hovězího masa s bramborami, přelitá pikantní rajčatovou omáčkou. Vepřové žebírko Calvados
+:   Dvě pošírovaná vejce s grilovanou kanadskou šunkou na toastovaném vdolku (anglicky _english muffin {xml:lang="en"}_) přelitá holandskou omáčkou.
+Filet mignon s vejcem
+:   Grilovaný steak z pravé svíčkové na krutónu z bílého chleba s vejcem, opečené brambory.
+Quiche Lorraine
+:   Porce Quiche Lorraine (cibule, paprika, slanina a gruyerský sýr, vše zapečené ve vejcích) a grilovaná rajčata.
+Frittata
+:   Vaječná smaženice se šunkou, masem, rajčaty a zeleninou, restované brambory.
+Beef Stroganov
+:   Nudličky z pravé svíčkové restované na cibuli s čerstvými žampióny, znojemskými okurkami, dušené v kyselé smetaně. Vhodná příloha jsou bramborové hranolky.
+Corned Beef Hash s vejcem
+:   Dvě sázená vejce na haši z uzeného hovězího masa s bramborami, přelitá pikantní rajčatovou omáčkou.
+Vepřové žebírko Calvados
 :   Grilované vepřové žebírko flambované jablečným brandy (Calvados), okořeněné skořicí, podávané s grilovaným jablkem a mrkví dušenou s rozinkami.
 
 Výše uvedené příklady nejsou americké speciality. Jsou to jídla, se kterými setkáte na jídelních lístcích mnoha mezinárodních restaurací.
@@ -220,7 +226,7 @@ Lepší kuře na talíři než holub na střeše. Drůbež (v jakékoliv úprav�
 
 Nejčastěji opakovanou chybou bufetového servisu však je, že je drůbež podávaná ve velkých porcích (soustech). Někdy mi připadá, že naši kuchaři neumí nakrájet kuře na 8 až 12 kousků.
 
-Je sice pravdou, že kuře podávané s kostí chutná daleko lépe než kuře vykostěné. Takové porce také vypadají větší, nicméně pro bufetový servis musíme hřbetní a stehenní kosti z vetší části odstranit.
+Je sice pravdou, že kuře podávané s kostí chutná daleko lépe než kuře vykostěné. Takové porce také vypadají větší, nicméně pro bufetový servis musíme hřbetní a stehenní kosti z větší části odstranit.
 
 {id="tepla\_masita\_jidla"}
 
@@ -228,7 +234,7 @@ Je sice pravdou, že kuře podávané s kostí chutná daleko lépe než kuře v
 
 Maso je relativně nejdražší surovinou v kuchyni a při samoobslužných bufetech je pro hosty nejatraktivnější. Snahou restauratérů by nemělo být hosta nějak omezovat. Aby ale nedocházelo ke zbytečným zbytkům a nedojedkům, tak se maso na brunchích krájí na malé kousky. Žebírka, kotlety, řízky apod. nejsou zpravidla větší než 50 gramů.
 
-Ideální je porce krájet přímo v jídelně. Krájení masa před zraky hostů se stalo velmi atraktivní. Na větších brunchích je to také relativně ekonomický způsob prezentace jídla. Navíc nevznikají zbytky. Restaurace k tomu ale musí mít potřebné zařízení, jako jsou výhřevné lampy, krájecí desky, ostré nože, ocílku a vidličku, a hlavně zručného pracovníka.
+Ideální je porce krájet přímo v jídelně. Krájení masa před zraky hostů se stalo velmi atraktivní. Na větších brunchích je to také relativně ekonomický způsob prezentace jídla. Navíc nevznikají zbytky. Restaurace k tomu ale musí mít potřebné zařízení, jako jsou výhřevné lampy, krájecí desky, ostré nože, ocílku, vidličku a hlavně zručného pracovníka.
 
 {id="brambory\_zelenina\_a\_jine\_prilohy"}
 
@@ -236,7 +242,7 @@ Ideální je porce krájet přímo v jídelně. Krájení masa před zraky host�
 
 Zeleninu (alespoň dva druhy) vybíráme takovou, která je pestrá, neztratí svou barvu a která vydrží dlouho teplá. Na teplý pult ji podáváme v malých dávkách a často ji doplňujeme.
 
-Pečivo prezentujeme na odděleném stole v košících. Přikládáme k němu kleště, aby ho hosté neosahávali rukama. Chléb podáváme, pokud možno v celých bochnících. K bochníkům přikládáme krájecí desku, ubrousek, kterým si host může chléb přidržet, a ostrý nůž, aby si mohl ukrojit libovolně silné krajíčky.
+Pečivo prezentujeme na odděleném stole v košících. Přikládáme k němu kleště, aby ho hosté neosahávali rukama. Chléb podáváme pokud možno v celých bochnících. K bochníkům přikládáme krájecí desku, ubrousek, kterým si host může chléb přidržet, a ostrý nůž, aby si mohl ukrojit libovolně silné krajíčky.
 
 {id="sladke\_pecivo\_a_dezerty"}
 
