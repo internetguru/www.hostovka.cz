@@ -3,19 +3,11 @@
 
 {ctime="2007-03-29" mtime="2020-01-05" id="cruises" author="Michael Klíma" short="Cruises"}
 
-# Cruises
+# Cestování zaoceánskými loděmi
 
 {kw="cestovní ruch"}
 
 Cestování zaoceánskými loděmi (cruises) se dnes stalo ideálním trávením volného času při poznávání neznámých zemí hlavně pro lidi kteří jsou již na odpočinku protože je to považováno za nejméně namáhavý způsob jak poznat svět.
-
-Přes obrovskou vyjadřovací schopnost angličtina má někdy nedostatek výrazů a proto má tolik idiomu. Američané si s tím ale hlavu moc nelámou, a pokud na něco nemají vlastní výraz tak použijí vžitý výraz z některé cizí řeči.
-
-Nejlepší důkaz toho je například americká gastronomie. Goulash, Sauerkraut, Beef Stroganof, Wiener Schnitzel, Sauerbraten, Bratwurst a dokonce i naše "koláčky" (kolatchky) a "houby" nejsou na amerických jídelních lístcích nic neobvyklého, a jak se zdá tak to nikomu nevadí, prostě "who cares", neboli co na tom zaleží, hlavně když tomu hosté rozumí.
-
-Hodně cizích gastronomických výrazů "zavlekli" do američtiny jednak všechny ty vlny imigrantů, ale i američtí vojáci GI men po návratu z Evropy a Asie.
-
-Cruise je ale úplně jiné zvíře a pokud jako správní Češi mermomocí chceme nalézt česky ekvivalent, tak si musíme slovo cruise objasnit blíže.
 
 Cruiser je v mnoha slovnících překládáno jako križník, to cruise znamená křižovat ve smyslu plavit se křížem krážem, ale take jezdit po okolí autem.
 
@@ -117,4 +109,5 @@ Každou takovou cruise si pravděpodobně budete reservovat nějaký čas dopře
 My jsem jednou takovou cruise díky manželky onemocnění museli zrušit, ale měli jsme naštěstí pojistku a tak nám všechny ty peníze vrátili.
 
 Šťastnou plavbu!
+
 
