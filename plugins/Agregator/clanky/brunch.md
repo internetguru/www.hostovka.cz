@@ -35,9 +35,9 @@ V Americe chodí ve všední dny mnoho lidí na snídani ještě před nástupem
 
 Ani [McDonald's][1], který po dlouhá léta „trucoval“ a nepodával nic jiného než hamburgery, dnes podává snídaně. Mimo jiné jsou pro ně snídaně velice rentabilní.
 
-V neděli však většina lidí do práce nechodí, tedy nechodí ani na snídaně do restaurace. Buď si přispí a vůbec nesnídají nebo si udělají snídani doma. V Americe ale chodí v neděli ráno hodně lidí do kostela. Tudíž doma snídat nemohou a po kostele jdou většinou domů. Z domova jdou případně do restaurace na pozdní oběd nebo na časnou večeři.
+V neděli však většina lidí do práce nechodí, a tudíž nechodí ani na snídani do restaurace. Buď si přispí a vůbec nesnídají nebo si udělají snídani doma. V Americe ale chodí v neděli ráno hodně lidí do kostela. Tudíž doma snídat nemohou a po kostele jdou většinou domů. Z domova jdou případně do restaurace na pozdní oběd nebo na časnou večeři.
 
-S tím se ale američtí restauratéři nemohli smířit. Proto přišli s ideálním řešením, což kombinace snídaně a oběda, čímž vzniknul již zmíněný brunch. Brunch se v Americe velmi rychle uchytil. To nejenom proto, že je většinou cenově atraktivní, ale také proto, že se stal příležitostí k setkání celé rodiny.
+S tím se ale američtí restauratéři nemohli smířit. Proto přišli s kombinací snídaně a oběda, čímž vzniknul již zmíněný brunch. Brunch se v Americe velmi rychle uchytil. To nejenom proto, že je většinou cenově atraktivní, ale také proto, že se stal příležitostí k setkání celé rodiny.
 
 Brunche se ale staly populárními téměř po celém světě, nakonec i v České republice. Ve formě podávání brunchů, v nabízeném sortimentu a v cenách jsou veliké rozdíly. Proto by se o nich studenti Hostovky měli dozvědět co nejvíce.
 
