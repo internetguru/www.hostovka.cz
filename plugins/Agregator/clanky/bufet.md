@@ -21,11 +21,11 @@ Z pohledu restauratéra je to totiž v psychologii nabídky a prodeje, v dokonal
 
 V pohostinství se totiž peníze nevydělávají až při prodeji, ale již při nákupu. A v tom je také tajemství v tom že některé all you can eat jsou profitabilní a druhé prodělkové.
 
-Z pohledu hosta nám stačí vědět, že tato forma nabídky má totiž několik forem. Jednak je to u nás již známá forma bufetovým způsobem, kdy snahou provozovatele je nabídnout co možná největší výběr jídel a případně i nápojů, protože pokud ví co dělá (a za předpokladu, že má potřebný počet hostů) může tato forma být i rentabilní.
+Z pohledu hosta nám stačí vědět, že tento způsob nabídky má totiž několik forem. Především je to ta u nás již známá forma bufetovým způsobem. Snahou provozovatele je nabídnout co možná největší výběr jídel a případně i nápojů. Pokud ví co dělá (a za předpokladu, že má potřebný počet hostů) může tato forma být i rentabilní.
 
-## Alternativní obchodní modely
+## Alternativní formy
 
-Další forma, která v Česku není ještě tak známá je _all you can eat family style {xml:lang="en"}_. Zde se určitý druh jídel přináší ke stolu na mísách, ze kterých si hosté berou neomezené množství jídla podle chuti.
+Další forma, která v Česku není ještě tak známá, je _all you can eat family style {xml:lang="en"}_. Zde se určitý druh jídel přináší ke stolu na mísách, ze kterých si hosté berou neomezené množství jídla podle chuti.
 
 Mimoto existuje ještě několik forem pro které, jak někteří čeští odborníci říkají „české pohostinství ještě nedorostlo“, a tak vám je podrobně popisovat nebudu. Spočívají např. v tom, že některá potravina se způsobem _all you can eat {xml:lang="en"}_, vedle jídel na jídelním lístku nabízí v určitý den za zvýhodněnou cenu. Jedná se například o drůbež (zpravidla kuřata nebo krůty) nebo ryby, případně plody moře.
 
