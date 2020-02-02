@@ -3,7 +3,7 @@
 
 {ctime="2008-04-03" mtime="2020-01-05" id="kradeze_v_kuchyni" author="Michael Klíma" short="Krádeže v kuchyni"}
 
-# Co se zaměstnanci, kteří kradou?
+# Co se zaměstnanci kteří kradou?
 
 {kw="co-kdy-kde, případová studie"}
 
