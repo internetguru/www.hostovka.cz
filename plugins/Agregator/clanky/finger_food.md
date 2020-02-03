@@ -99,7 +99,7 @@ Já vím, že mně hned někdo vytkne, že dělám reklamu, ale pokud ho chcete 
 
 V té samé restauraci dostanete i klasický americký _Club Sandwitch {xml:lang="en"}_, který je populární po celém světě. Tento sendvič se také vyznačuje jednoduchostí a rychlostí přípravy. Původně se tento sendvič dělal jen se šunkou, ale dnes se používají i pečená krůtí prsa.
 
-{id="reuben_sandwich"}
+{id="reuben"}
 
 ### Reuben sendvič
 
