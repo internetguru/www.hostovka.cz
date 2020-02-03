@@ -3,118 +3,90 @@
 
 {ctime="2007-03-29" mtime="2020-01-05" id="cruises" author="Michael Klíma" short="Cruises"}
 
-# Cruises
+# Rekreační cestování zaoceánskými loděmi
 
 {kw="cestovní ruch"}
 
-Cestování zaoceánskými loděmi (cruises) se dnes stalo ideálním trávením volného času při poznávání neznámých zemí hlavně pro lidi kteří jsou již na odpočinku protože je to považováno za nejméně namáhavý způsob jak poznat svět.
+Cestování zaoceánskými loděmi (anglicky _cruises {xml:lang="en"}_) se dnes stalo ideálním trávením volného času při poznávání neznámých zemí. Je určeno hlavně pro lidi, kteří jsou již na odpočinku, protože je považováno za nejméně namáhavý způsob, jak poznat svět.
 
-Přes obrovskou vyjadřovací schopnost angličtina má někdy nedostatek výrazů a proto má tolik idiomu. Američané si s tím ale hlavu moc nelámou, a pokud na něco nemají vlastní výraz tak použijí vžitý výraz z některé cizí řeči.
+Přes obrovskou vyjadřovací schopnost má angličtina někdy nedostatek výrazů, a proto má tolik idiomů. Američané si s tím ale hlavu moc nelámou, a pokud na něco nemají vlastní výraz, tak použijí vžitý výraz z některé cizí řeči.
 
-Nejlepší důkaz toho je například americká gastronomie. Goulash, Sauerkraut, Beef Stroganof, Wiener Schnitzel, Sauerbraten, Bratwurst a dokonce i naše "koláčky" (kolatchky) a "houby" nejsou na amerických jídelních lístcích nic neobvyklého, a jak se zdá tak to nikomu nevadí, prostě "who cares", neboli co na tom zaleží, hlavně když tomu hosté rozumí.
+_Cruise {xml:lang="en"}_ je ale úplně jiné zvíře. Pokud, jako správní Češi mermomocí chceme nalézt česky ekvivalent, tak si musíme slovo _cruise {xml:lang="en"}_ blíže objasnit.
 
-Hodně cizích gastronomických výrazů "zavlekli" do američtiny jednak všechny ty vlny imigrantů, ale i američtí vojáci GI men po návratu z Evropy a Asie.
+## Význam slova cruise
 
-Cruise je ale úplně jiné zvíře a pokud jako správní Češi mermomocí chceme nalézt česky ekvivalent, tak si musíme slovo cruise objasnit blíže.
+Slovo _cruiser {xml:lang="en"}_ je v mnoha slovnících překládáno jako křižník. _Cruise {xml:lang="en"}_ znamená křižovat ve smyslu plavit se křížem krážem, ale také jezdit po okolí autem.
 
-Cruiser je v mnoha slovnících překládáno jako križník, to cruise znamená křižovat ve smyslu plavit se křížem krážem, ale take jezdit po okolí autem.
+Plavby lodí byly původně označovány jako _voyage {xml:lang="en"}_, případně _ocean voyage {xml:lang="en"}_ nebo případě plavby přes oceán jako _ocean crossing {xml:lang="en"}_.
 
-I když plavba Anthonyho z Říma do Egypta za Cleopatrou by se dala označit za "pleasure travel", tak plavby lodi byly původně označovány jako voyage, připadně ocean voyage, nebo v případě plavby přes ocean - ocean crossing.
+Tyto plavby nebyly pro zábavu a byly nejenom nudné, ale i dlouhé. Proto se později společnosti zabývající se zámořskou přepravou začali předhánět ve službách, jako je ubytováni a stravování pasažérů.
 
-Nakonec ani Kolumbova Santa Maria, nebyl nějaký "luxary cruiser", ale ocean crossing ship. Tyto plavby nebyly pro zábavu a byly nejenom nudné, ale i dlouhé a proto se později společnosti zabývající se zámořskou přepravou začali předhánět ve službách jako je ubytováni a stravování pasažérů.
+V roce 1844 velice známá britská zaoceánská lodní společnost _P&O Steam Navigation Company {xml:lang="en"}_, pozvala známého britského spisovatele _Williama Thakersy {xml:lang="en"}_ na první, dá se říci rekreační plavbu po Středozemním moři bez specifického cíle. Plavba byla jen za poznáním a pro rekreaci.
 
-V roce 1844 velice známá britská zaoceánská lodní společnost Peninsular and Oriental Co., pozvala známého britského spisovatele Williama Thakersy na prvou, dá se říci "rekreační" plavbu po Středozemním moři "bez specifického cíle", jen tak za poznáním a pro rekreaci na "luxury liner".
+_Bill {xml:lang="en"}_ se _P&O {xml:lang="en"}_ společnosti odměnil článkem, ve kterém nešetřil superlativy o _cruise {xml:lang="en"}_, kterou právě podnikl. Od té doby se _cruise {xml:lang="en"}_ stalo synonymem pro rekreační, někdy i okružní plavby spojené s poznáváním neznámých míst.
 
-Bill se P&O společnosti odměnil článkem ve kterém nešetřil superlativy o cruise, kterou právě podnikl.
+## Lodě jako plovoucí hotely
 
-Od te doby se cruise stalo synonymem pro rekreační, někdy i okružní plavby spojené s poznáváním neznámých míst.
+_Cruise ships {xml:lang="en"}_ jsou lodě používané výhradně pro požitek, na rozdíl od _ocean steamers_, jako například Titanic, které se zbývají pravidelnou lodní dopravou.
 
-Cruise ships jsou lodi používané výhradně pro "pleasure cruising" na rozdíl od Ocean Steamers, jako například Titanic, které se zbývají pravidelnou lodní dopravou.
+_Cruise ships {xml:lang="en"}_ vlastně ani nejsou loděmi. Jsou to obrovské plovoucí luxusní hotely, které se předhánějí ve kvalitě a množství podávaných jídel a nápojů.
 
-Cruise ships, i když nazývané loděmi, loděmi vlastně ani nejsou. Jsou to obrovské plovoucí luxusní hotely, které se předhánějí ve kvalitě a množství podávaných jídel a nápojů, které mimo pohodlí poskytují pasažérům všemožnou, téměř 24 hodinovou zábavu v podobě kasina, kabaretů, barů, a tanečních míst a fitness center, takže po takové "rekreaci" si vlastně musíte vzít několik dní dovolené, abyste si trochu odpočinuli. Cruises začínají a končí v nějakém přístavu do kterého se lidé musí nějakým způsobem dostat, tudíž cruises jsou velice úzce spojeny s leteckou dopravou, takže to nejsou vyloženě jenom okružní plavby tak jako tak. Tím ale se taková cruise pro některé vnitrozemce prodraží.
+Mimo pohodlí poskytují lodě pasažérům všemožnou, téměř 24hodinovou zábavu v podobě kasina, kabaretů, barů, tanečních míst a fitness center. Po takovéto „rekreaci“ si vlastně musíte vzít ještě několik dní dovolené, abyste si trochu odpočinuli.
 
-Cruises se dělí podle regionů. Nejpopulárnější jsou Aljaška, Mexico, Jižní Pacifik, Asie/Orient/Afrika/Indie, Evropa, Středomoří, Severní Amerika, Transatlantik, Caribské ostrovy, Hawaii, a Jižní Amerika.
+_Cruises {xml:lang="en"}_ začínají a končí v přístavu, do kterého se lidé musí nějakým způsobem dostat. Jsou tedy velice úzce spojeny s leteckou dopravou, takže to nejsou vyloženě jenom okružní plavby. Tím se ale taková _cruise {xml:lang="en"}_ pro některé vnitrozemce prodraží.
 
-Výhoda cruises je v tom, že vám umožní navštívit několik různých míst za jednu cenu bez nějakého dlouhého plánování a reservací hotelů. V okamžiku kdy se nalodíte vám začíná nezapomenutelná zahraniční dovolená. Cena se řídí hlavně délkou cruise která podle destinace, podle doby která může být od 3 do 14 dnů (někdy i více) a podle volby kabiny a jejího komfortu. Na jednom cruise jsme seděli u stolu s manželským párem kteří byli již na 15 podobných cruises a na jenom který trval tři měsíce, ale jsou i delší.
+_Cruises {xml:lang="en"}_ se dělí podle regionů. Nejpopulárnější jsou Aljaška, Mexiko, Jižní Pacifik, Asie, Afrika, Evropa, Středomoří, Severní Amerika, Karibské ostrovy, Havaj, a Jižní Amerika.
 
-Ten komfort je různý podle společnosti kterých je asi 17 a podle lodi kterých je asi 180. V ceně je zpravidla zahrnuto
+## Průběh plavby
 
-  * ubytování v kabině nebo ve suite (apartmá)
-  * doprava po moři
-  * gourmet jídlo
-  * dětská školka
-  * kabaretní programy (show) typu Broadway nebo Las Vegas
-  * volný vstup do piano baru, nočních klubů, a více
-  * aktivity jako například joga a košíková
-  * fines centrum, bazény a jacuzy
-  * přístavní poplatky
-  * Co není v ceně
-  * spropitné (které je povinné)
-  * lázeňské kůry
-  * lihoviny
-  * kasína
-  * nákupy
-  * organizované tury a aktivity na pevnině
-  * babysitting
-  * příplatky za speciality v restauracích
+Výhoda _cruises {xml:lang="en"}_ je v tom, že vám umožní navštívit několik různých míst za jednu cenu bez nějakého dlouhého plánování a reservací hotelů.
 
-Dovolená na lodi není jenom jídlo "all you can eat" neboli kolik ho stačíte sníst. Dnešní cruises nabízí služby a zábavu pro pasažéry všech věků od miminek až po seniory.
+V okamžiku, kdy se nalodíte vám začíná nezapomenutelná zahraniční dovolená. Cena se řídí hlavně délkou cesty a podle volby kabiny a jejího komfortu. Cesty může být dlouhá od 3 do 14 dnů, někdy i více. Na jednom _cruise {xml:lang="en"}_ jsme seděli u stolu s manželským párem, kteří byli již na 15 podobných _cruises {xml:lang="en"}_ a na jenom, který dokonce trval tři měsíce. Jsou ale i delší.
 
-Lodě nabízí:
+Komfort je různý, hlavně podle společnosti, kterých je asi 17 a podle lodi, kterých je asi 180. V ceně je zpravidla zahrnuto:
 
-  * horolezecké stěny
-  * všechny kabiny s balkony a výhledem na moře
-  * bary a piano bary
-  * disko
-  * thalasotherapy
-  * vodní skluzavku
-  * planetárium
-  * butiky
-  * butler service
-  * miniature golf
-  * filmy u bazénu
+  - ubytování v kabině nebo ve apartmánu,
+  - doprava po moři,
+  - jídlo,
+  - dětská školka,
+  - kabaretní programy typu Broadway nebo Las Vegas,
+  - volný vstup do piano baru, nočních klubů atp.,
+  - aktivity jako například jóga a košíková,
+  - fines centrum, bazény a jacuzzi a
+  - přístavní poplatky.
 
-{id="jak\_se\_oblect"}
+V cenně není zpravidla zahrnuto:
 
-## Jak se obléct?
+  - spropitné, které je povinné,
+  - lázeňské kůry,
+  - lihoviny,
+  - kasina,
+  - nákupy,
+  - organizované túry a aktivity na pevnině,
+  - hlídání dětí a
+  - příplatky za speciality v restauracích.
 
-Na Aljašku v zimě šortky asi potřebovat nebudete, spíše něco teplého. Jinak ale během dne na lodi vám budou stačit nějaké T-shirts, nebo prostě něco pohodlného. Pro případné exkurze v přístavech budete za deštivého počasí nějaký pršiplášť, ale pokud ho zapomenete, tak si ho budete moci koupit na lodi zrovna tak jako deštník a milión jiných věcí. Na palubě se můžete najíst z bufetu třeba i v plavkách (topless ze ale zatím nepřipouští), nicméně v jídelnách v plavkách jíst nemůžete a k večeři pánové mají společenské sako (kravata zpravidla není podmínku) a dámy nějaké vkusné šaty.
+Dovolená na lodi není jenom jídlo typu _all you can eat {xml:lang="en"}_ neboli [sněz, co stačíš](samoobsluzna_restaurace). Dnešní _cruises {xml:lang="en"}_ nabízí služby a zábavu pro pasažéry všech věků – od miminek až po seniory.
 
-{id="penize"}
+### Jak se obléci a jak platit
 
-## Peníze
+Na Aljašku v zimě šortky asi potřebovat nebudete, spíše něco teplého. Během dne na lodi vám bude stačit košile nebo prostě něco pohodlného.
 
-Nejjednodušší samozřejmě jsou kreditní karty, ale pro nákupy na lodi většina společností umožňuje založit lodní účet, podobně jako při ubytování v hotelech takže vlastně žádné peníze po kapsách nosit nemusíte.
+Pro případné exkurze v přístavech budete za deštivého počasí rádi za pršiplášť. Pokud ho ale zapomenete, tak si ho budete moci koupit na lodi – zrovna tak jako deštník a milión jiných věcí.
 
-Jinak ale můžete jakoukoliv směnitelnou měnu, tudíž dnes i české koruny, směnit v lodní směnárně kde dostanete směnu současném denním kurzu, po odečtení malých poplatků.
+Na palubě se můžete najíst z bufetu třeba i v plavkách (nahoře bez ale zatím nepřipouští). V jídelnách v plavkách jíst nemůžete a k večeři mají pánové společenské sako (kravata zpravidla není podmínku) a dámy nějaké vkusné šaty.
 
-{id="jak\_se\_do\_pristavu\_odkud\_ta\_lod\_vyplouva\_dostanu"}
+Nejjednodušší je platit kreditní kartou. Pro nákupy na lodi většina společností umožňuje založit lodní účet, podobně jako při ubytování v hotelech. Takže vlastně žádné peníze po kapsách nosit nemusíte.
 
-## Jak se do přístavu odkud ta loď vyplouvá dostanu?
+### Průměrný věk pasažérů
 
-Většina lodních společností vám při reservaci plavby zajistí i leteckou dopravu a dopravu z letiště do přístavu. Na každý pád je třeba se poradit s vaši cestovní kanceláří, protože v mnoha případech se také budete nějak dostat na to letiště.
+Průměrný věk je 0 až 35 let. Na některých lodích (podle místa destinace), může být průměrný věk mezi 35 až 60 lety. To ale neznamená, že by lidé mezi 60 roky a smrtí byli diskriminováni. Mimo jiné pohřeb je na takové lodi velmi levný. Prostě vaši mrtvolu zabalí do vaší národní vlajky a hodí ji přes palubu.
 
-{id="co\_je\_fuel\_surcharge\_kolik\_to\_stoji"}
+Některé společnosti vyžadují, abyste předložili potvrzení lékaře a případně seznam léků, které používáte. V takovém případě budou mít v palubní lékárně k disposici vaše léky.
 
-## Co je fuel surcharge? Kolik to stojí?
+Podobných otázek lidé kladou daleko více a lodní společnosti nebo vaše cestovní kancelář vám je ráda zodpoví. Prostě než na nějakou _cruise {xml:lang="en"}_ vyrazíte, tak se o všem dobře informujte, aby vám nějaká maličkost nezkazila dovolenou.
 
-Většina společností si vyhrazuje právo přičíst náklady na zvýšenou cenu pohonných hmot ku které mohlo dojít od doby vaši reservace. V takovém případě se může jednat o  _{var="20"}_.00 -  _{var="60"}_.00 na osobu. Toto se platí v hotovosti (nebo kreditní kartou) při nalodění.
-
-{id="jaky\_je\_prumerny\_vek\_pasazeru"}
-
-## Jaký je průměrný věk pasažerů?
-
-Průměrný věk je 0-35 let, nicméně některé společnosti, lépe řečeno na některých lodích podle místa destinace, může být průměrný věk mezi 35-60 let. To ale neznamená že by lidé mezi 60 lety a smrtí byli diskriminováni. Mimo jiné funus na takové lodi je velice laciný. Prostě vaši mrtvolu zabalí do vaši národní vlajky, hodí ji přes palubu a šmytec.
-
-Některé společnosti vyžadují abyste předložili potvrzení lékaře , případně seznam léků které používáte. V takovém případě budou mít vaše léky v palubní lékárně k disposici.
-
-Podobných otázek lidé kladou daleko více a lodní společnosti nebo vaše cestovní kancelář vám je ráda zodpoví.
-
-Prostě než na nějakou cruise vyrazíte, tak se o všem dobře informujte aby vám nějaká maličkost vaši dovolenou nezkazila.
-
-Každou takovou cruise si pravděpodobně budete reservovat nějaký čas dopředu a musíte ji také předem zaplatit. Protože ale nevíte co se může stát, tak já osobně bych vám doporučoval si zaplatit pojistku pro případ, že na tu cruise nebudete moci jet.
-
-My jsem jednou takovou cruise díky manželky onemocnění museli zrušit, ale měli jsme naštěstí pojistku a tak nám všechny ty peníze vrátili.
+Doporučuji také uzavřít pojistku – pro případ že nebudete moci jet. Jednou jsme _cruise {xml:lang="en"}_ museli díky manželky onemocnění zrušit, ale měli jsme naštěstí pojistku a tak nám všechny peníze vrátili.
 
 Šťastnou plavbu!
 
