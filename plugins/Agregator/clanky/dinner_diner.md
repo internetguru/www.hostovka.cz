@@ -31,7 +31,7 @@ Aniž by to věděl, tak tím inspiroval jiné lidi k založení velice populár
 
 Jiná, poněkud věrohodnější teorie, se přiklání k tomu, že _Diners {xml:lang="en"}_ mají původ ve vlakových jídelních vozech.
 
-Vlakové vozy byly v 18 století velmi populární, ale mnoha lidem nedostupné. Cestování vlakem nebylo nic levného a jíst v jídelním voze byl jakýsi luxus. Z toho vzniklo rčení: _“There is nothing finer, than a dinner in a diner” {xml:lang="en"}_.
+Vlakové vozy byly v 18. století velmi populární, ale mnoha lidem nedostupné. Cestování vlakem nebylo nic levného a jíst v jídelním voze byl jakýsi luxus. Z toho vzniklo rčení: _“There is nothing finer, than a dinner in a diner” {xml:lang="en"}_, v překladu: „Není nic lepšího, než večeře v _Diner {xml:lang="en"}_“.
 
 Proto byly typické americké _Diners {xml:lang="en"}_ ve větších městech většinou prefabrikované repliky vlakových jídelních vozů. V menších městech to byly malé restaurace, spíše jen jídelny, stavěné v místech se silným provozem.
 
@@ -45,15 +45,15 @@ _Diners {xml:lang="en"}_ otevíraly velmi brzy ráno kvůli snídaním, které a
 
 Proto byly některé _Diners {xml:lang="en"}_ otevřeny 24 hodin. Jsem přesvědčen, že mnohý český pan vedoucí by měl zamotanou hlavu, jak to vyřešit s [dlouhými a krátkými týdny][2].
 
-Typické _Diners {xml:lang="en"}_ byly dlouhé tak, jako jejich modely vlakové jídelní vozy. Některé byly ale také velimi malé a čtverhranné, což samozřejmě někteří marketingově využili ve svém názvu. _Square {xml:lang="en"}_ totiž znamená čtverec nebo náměstí, ale také „poctivé“. _Squere Diner {xml:lang="en"}_ byla tedy nejenom čtverhranná, ale údajně i „poctivá“ restaurace.
+Typické _Diners {xml:lang="en"}_ byly dlouhé tak, jako vlakové jídelní vozy. Některé byly ale také velmi malé a čtverhranné, což samozřejmě někteří marketingově využili ve svém názvu. _Square {xml:lang="en"}_ totiž znamená čtverec nebo náměstí, ale také „poctivé“. _Squere Diner {xml:lang="en"}_ byla tedy nejenom čtverhranná, ale údajně i „poctivá“ restaurace.
 
 ## Diners v České republice
 
 Díky jednoduchosti _Diners {xml:lang="en"}_ jsem si myslel, že by to byl ideální systém pro mé rodné Československo.
 
-V roce 1989 jsem se do mé vlasti vrátil v zastoupení jedné z největších amerických firem, která dodávala kuchyňská zařízení do větších evropských hotelů a firmám jako je McDonald's, KFC, Pizza Hut, Dunkin Donut, apod. Tehdy jsem se snažil myšlenku amerických _Diners {xml:lang="en"}_ několika lidem nabídnout. Kdo si to ještě pamatujete tak ale ví, že již samotná zmínka o tom, že je něco americké, stačila k tomu aby vás lidi ukamenovali.
+V roce 1989 jsem se do své rodné vlasti vrátil v zastoupení jedné z největších amerických firem, která dodávala kuchyňská zařízení do větších evropských hotelů a firmám jako je McDonald's, KFC, Pizza Hut, Dunkin Donut apod. Tehdy jsem se snažil myšlenku amerických _Diners {xml:lang="en"}_ několika lidem nabídnout. Kdo si to ještě pamatujete, tak ale ví, že již samotná zmínka o tom, že je něco americké stačila k tomu, aby vás lidi ukamenovali.
 
-Jedenu dobu to dokonce vypadalo, že Češi kvůli hamburgrárnám vyhlásí Americe válku, ale nakonec k tomu nedošlo. Ne že by se Češi Američanů báli, to ne. V tom ohledu mají Češi pro strach uděláno. Měli prostě strach z toho, že by pak nevěděli, kde všechny ty mrtvé Američany pohřbít.
+Jednou to dokonce vypadalo, že Češi kvůli hamburgrárnám vyhlásí Americe válku, ale nakonec k tomu nedošlo. Ne že by se Češi Američanů báli, to ne. V tom ohledu mají Češi pro strach uděláno. Měli prostě strach z toho, že by pak nevěděli, kde všechny ty mrtvé Američany pohřbít.
 
 Naštěstí se to vyřešilo diplomatickou cestou. Američané slíbili, že více než 100.000 restaurací rychlého občerstvení v Česku neotevřou. Na oplátku Čechům povolili, že českých restaurací typu „Švejk“ mohou v Americe otevřít kolik chtějí.
 
@@ -61,7 +61,7 @@ Naštěstí se to vyřešilo diplomatickou cestou. Američané slíbili, že ví
 
 Kdysi jsem byl ředitelem hotelové školy _Hospitality Institute International {xml:lang="en"}_ na _Triton College {xml:lang="en"}_. Na _Triton College {xml:lang="en"}_ studovalo kolem 33 tisíc studentů a jenom v našem programu jsme jich měli kolem 500.
 
-Studenti museli někde jíst a proto byla v kampusu celá řada koncesionářů, kteří nabízeli všechno možné – od hamburgerů, smažených kuřat, stánků s párky, koblihami a pizzou, až po zmrzlinu z pojízdných vozíků. _What a country! {xml:lang="en"}_
+Studenti museli někde jíst, a proto byla v kampusu celá řada koncesionářů, kteří nabízeli všechno možné – od hamburgerů, smažených kuřat, stánků s párky, koblihami a pizzou, až po zmrzlinu z pojízdných vozíků. _What a country! {xml:lang="en"}_
 
 Byli jsme program pohostinství a cestovního ruchu a provozovali jsme školní restauraci pro profesorský sbor a pro případné pasanty. Dělali jsme i různé cateringové akce, což byla úžasná příležitost pro naše studenty.
 
@@ -69,9 +69,9 @@ Já jsem jeden z prvních, kdo pod hlavičkou _Hospitality {xml:lang="en"}_ pros
 
 Zádrhel byl v mojí podmínce, že bude studentům v rámci výuky rychlého občerstvení dána možnost v některých restauracích přímo pracovat nebo je i řídit. Abych to ale zkrátil…
 
-Vy, kteří mně již znáte, tak víte, že jsem prevít. Vypracoval jsem relativně obsáhlý materiál. V něm jsem na 250 stránkách dopodrobna popsal, jaký benefit by z mého programu měla škola a hlavně mí studenti. Můj návrh ale neprošel.
+Vy, kteří mně již znáte, tak víte, že jsem prevít. Vypracoval jsem tedy relativně obsáhlý materiál. V něm jsem na 250 stránkách dopodrobna popsal, jaký benefit by z mého programu měla škola, a hlavně mí studenti. Můj návrh ale neprošel.
 
-Bylo to krátce před mým odchodem do důchodu, a tak jsem se tím moc nezabýval. Krátce po mém odchodu jsem se ale dozvěděl, že v komisi, která můj koncept zamítla, byla mimo jiné také jedna děkanka anglického oddělení. Ta sice pohostinství vůbec nerozuměla, ale poukázala na to, že v mém návrhu jsem slovo prádlo (anglicky _linen {xml:lang="en"}_) napsal se dvěma „n“, což je nesmysl.
+Bylo to krátce před mým odchodem do důchodu, a tak jsem se tím moc nezabýval. Krátce po odchodu jsem se ale dozvěděl, že v komisi, která můj koncept zamítla, byla mimo jiné také jedna děkanka anglického oddělení. Ta sice pohostinství vůbec nerozuměla, ale poukázala na to, že v mém návrhu jsem slovo prádlo (anglicky _linen {xml:lang="en"}_) napsal se dvěma „n“, což je nesmysl.
 
 No, jenom kvůli slovu prádlo návrh zřejmě nebyl zamítnut, spíše šlo o velké peníze. Abych to ale nějak zakončil…
 
@@ -79,3 +79,4 @@ Asi po deseti letech jsem se setkal s mým nástupcem Jeromem, což byl mimo jin
 
  [1]: mc_donalds
  [2]: kratky_a_dlouhy_tyden
+
