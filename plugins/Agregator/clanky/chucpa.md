@@ -5,11 +5,11 @@
 
 # Význam slova chucpa
 
-{kw="gastronomie"}
+{kw="historka, Izrael, zkušenosti"}
 
 Výraz chucpa má řadu významů, a to jak negativních, tak i pozitivních. Chucpa může znamenat odvahu nebo kuráž a opovážlivost v tom kladném slova smyslu, ale i nehoráznou opovážlivost v záporném smyslu jako je drzost či neomalenost.
 
-Byla by to ode mě chucpa, kdybych řekl, že znám všechny významy tohoto slova. Nakonec je chucpa i to, když já jako gój se vám to snažím vysvětlit. Zejména je ode mě hrozná chucpa, že tento výraz používám, aniž bych si uvědomoval, že by mu někdo nemusel rozumět.
+Byla by to ode mě chucpa, kdybych řekl, že znám všechny významy tohoto slova. Nakonec je chucpa i to, když se vám to já jako gój snažím vysvětlit. Zejména je ode mě hrozná chucpa, že tento výraz používám, aniž bych si uvědomoval, že by mu někdo nemusel rozumět.
 
 ## Jidiš výraz s jemnými nuancemi
 
@@ -21,8 +21,8 @@ Já žid nejsem, ale mám s židy hodně společného. Ne tedy ten Terezín. Tam
 
 Bydleli jsme v Pařížské ulici č. 10, což bylo od synagogy co by kamenem dohodil. Měl jsem několik židovských přátel, od kterých jsem ten výraz asi pochytil. Ale nejspíše jsem se ho pak naučil správně používat, když jsem se začal učit hebrejsky. Dostal jsem totiž nabídku místa ředitele hotelu v Izraeli. Jelikož jsem gój (gojim), tak podmínkou bylo, že musím umět hebrejsky.
 
-Ačkoli se jazyky učím relativně lehce, tak nejhorší pro mě bylo to jejich psaní zprava doleva. Takže to byla ode mě chucpa, že jsem se do toho vůbec pustil.
+Ačkoli se jazyky učím relativně lehce, tak nejhorší pro mě bylo jejich psaní zprava doleva. Takže to byla ode mě chucpa, že jsem se do toho vůbec pustil.
 
-Měl jsem ale dobrou učitelku a sice manželku mého přítele, prvního tajemníka izraelského vyslanectví v Praze, Karola Yarona. Tudíž co vám mám povídat. Když jsem se asi po půldruhém roce tu hebrejštinu jakž takž naučil, tak jsem to místo nakonec nedostal, což tedy byla také chucpa.
+Měl jsem ale dobrou učitelku a sice manželku mého přítele, prvního tajemníka izraelského vyslanectví v Praze, Karola Yarona. Tudíž co vám mám povídat. Když jsem se asi po půldruhém roce hebrejštinu jakž takž naučil, tak jsem to místo nakonec nedostal, což tedy byla také chucpa.
 
 Největší chucpa ale byla, když jsem příchodem do Ameriky zjistil, že Američané (tedy i ti gójové) výraz chucpa používají relativně správně.
