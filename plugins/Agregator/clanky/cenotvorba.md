@@ -5,7 +5,7 @@
 
 # Cenotvorba konceptu STEAKGRILL®
 
-{kw="co-kdy-kde"}
+{kw="co-kdy-kde, jídla a jídelní lístky, pohostinství"}
 
 Cenotvorba je jedním z nejdůležitějších úkolu managementu kteréhokoliv provozu v oboru průmyslu pohostinství a cestovního ruchu. Na našich oborných a hotelových školách se cenotvorba nejspíše vyučuje. Podle mě se cenotvorba sice dá vyučovat, ale nedá se naučit.
 
@@ -13,17 +13,17 @@ Ve tvorbě cen hotelových pokojů a služeb existují určité zkušenosti a z�
 
 ## Nejlepší host je sofistikovaný host
 
-Zásada [konceptu STEAGRILL®][1] – dát hostům to, co chtějí a co jim za jejich peníze patří – je jedna věc. Jak ale víme, tak někteří hosté nevědí, co chtějí. Zejména naši noví hosté nevědí, co u nás mohou očekávat. Zpočátku také nevědí, zda za své peníze skutečně dostávají to, co jim patří. A proto druhá věc je si svoje hosty vychovat.
+Zásada [konceptu STEAGRILL®][1] – dát hostům to, co chtějí a co jim za jejich peníze patří – je jedna věc. Jak ale víme, tak někteří hosté nevědí, co chtějí. Zejména naši noví hosté nevědí, co u nás mohou očekávat. Zpočátku také nevědí, zda za své peníze skutečně dostávají to, co jim patří. Druhá věc je si svoje hosty vychovat.
 
 Cena, jak dnes již víme, je součet cen potravin, zboží a materiálu s připočtením ostatních nákladů, případně DPH a marže. Ta obsahuje jednak [goodwill][2], ale i zasloužený zisk.
 
-Toto je ta nejjednodušší (tak říkajíc technická) část tvorby cen, která je podrobně popsána v příslušné části našeho Provozního manuálu. Ale pak přijde to umění odhadnout kdo, nebo kolik našich hostů si naše ceny může dovolit a to opakovaně.
+Toto je ta nejjednodušší (tak říkajíc technická) část tvorby cen, která je podrobně popsána v příslušné části našeho Provozního manuálu. Ale pak přijde umění odhadnout kdo, nebo kolik našich hostů si naše ceny může dovolit a to opakovaně.
 
 ## Laciné navyšování cen
 
-My nejsme restaurace, do které by hosté chodili jako do závodní nebo školní jídelny. Také nejsme typ restaurace, která by se opírala o nějakou kuchařskou primadonu, o hvězdičku Michelinu nebo o hodnocení nějakého [bedekru][3] či televizního kritika. Díky tomu jsou někteří lidé ochotni zaplatit několikanásobek skutečné hodnoty daného jídla nebo nápoje.
+Nejsme restaurace, do které by hosté chodili jako do závodní nebo školní jídelny. Také nejsme typ restaurace, která by se opírala o nějakou kuchařskou primadonu, o hvězdičku Michelinu nebo o hodnocení nějakého [bedekru][3] či televizního kritika. Díky tomu jsou někteří lidé ochotni zaplatit několikanásobek skutečné hodnoty daného jídla nebo nápoje.
 
-Žádné velké umění také není zařadit na jídelní lístek jídla, k jejichž přípravě by byly použity některé ty extravagantní, módní a předražené potraviny. Díky nim jsou jídla v takových rádoby "dobrých" restauracích [některými snoby][4] považována za lepší.
+Žádné velké umění také není zařadit na jídelní lístek jídla, k jejichž přípravě by byly použity některé ty extravagantní, módní a předražené potraviny. Díky nim jsou jídla v rádoby „dobrých“ restauracích [některými snoby][4] považována za lepší.
 
 ## Skutečná cena jídla
 
@@ -31,7 +31,7 @@ V [konceptu STEAGRILL®][1] spočívá tvorba cen v umění rozeznat, jaké ceny
 
 Proto nám nějaké restaurace ohodnocené hvězdičkami Michelinu nevadí. Jen houšť. Čím více lidí takové restaurace navštíví, tím více bude těch, kteří pak kvalitu našich jídel, nápojů a služeb ocení.
 
-Sofistikovaný host také velmi dobře ví, že žádná restaurace se nevyhne nutnosti své ceny občas zvýšit. To je vlastně ještě větší umění než ty původní ceny stanovit. Navyšování cen se také nedá popsat tím českým způsobem v kostce, a proto se tím zabývá zvláštní kapitola Manuálu provozu.
+Sofistikovaný host také velmi dobře ví, že žádná restaurace se nevyhne nutnosti své ceny občas zvýšit. To je vlastně ještě větší umění než ty původní ceny stanovit. Navyšování cen se nedá popsat tím českým způsobem v kostce, a proto se tím zabývá zvláštní kapitola Manuálu provozu.
 
  [1]: https://www.steakgrill.cz
  [2]: goodwill
