@@ -5,7 +5,7 @@
 
 # Bullshit a špatná mluva
 
-{kw="co-kdy-kde"}
+{kw="co-kdy-kde, Amerika"}
 
 BS je zkratka anglického výrazu _bullshit {xml:lang="en"}_, což je v Americe považováno za _foul language {xml:lang="en"}_ neboli za špatnou mluvu. Ale setkáte se s ním téměř denně, a to ve všech společenských vrstvách.
 
