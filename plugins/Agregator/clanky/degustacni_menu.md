@@ -7,37 +7,31 @@
 
 {kw="gastronomie"}
 
-Já jsem jakýsi alibista a tak úvodem musím říci, že to co vám tady napíši je můj subjektivní názor a že vás tím nechci od vyzkoušení nějakého "degustačního menu" odradit.
+Když o [gastronomii](gastronomie) už něco víte, tak poznáte, že až na nějaké výjimky jsou degustační menu dělána podle znalostí toho, kdo jídla připravuje. To je nakonec v pořádku, a tak to má být, pokud je to zkušený kuchař. Nicméně osobně nechci dělat pokusného králíka, na kterém by si kuchař třeba i s jednoletou nebo tříletou zahraniční praxi za mé peníze ověřoval znalosti a schopnosti.
 
-Nechci se zde již zmiňovat o tom kdy, kde a co a jak jsem za těch 60 let co jsm v tom zatraceném pohostisntví snědl a vypil a kolik mně to stálo, protože mi hned někdo napíše, že se zase rozcapuji.
+{class="important"}
 
-Jedno co ale musím říci je, že v zájmu degustace a odborného růstu jsem po celém světě sežral všechno co napřed nesežralo mně a vypil jsem věci, že se až divím, že jsem ještě naživu.
+Na úvod musím podotknout, že to, co vám zde píši o degustačním menu, je můj subjektivní názor a nechci vás tím od jeho vyzkoušení odradit.
 
-No, a dnes, na stará kolena, pokud by se mně někdo zeptal které z těch jídel které jsem za celý život snědl považuji za nejlepší, bych vlastně nevěděl které jídlo to bylo.
+Nebudu se zde již zmiňovat o tom, co jsem kdy, kde a jak za těch 60 let v pohostinství snědl a vypil. To by mi na to hned někdo napsal, že se zase rozcapuji. Musím ale říci, že jsem v zájmu degustace a odborného růstu po celém světě sežral všechno, co napřed nesežralo mě a vypil věci, že se až divím, že jsem ještě naživu.
 
-Jako každý, tak i já mám v jídle své preference, ale nerajtuji na tom. Prostě jím když mám chuť a jednak to co mám doma, ale vaření mi již nic neříká a tak raději jdu do restaurace kterou znám a kde jsem zatím byl jakž takž spokojený.
+Dnes, na stará kolena, pokud by se mě někdo zeptal, které z jídel považuji za nejlepší, tak bych vlastně nevěděl, jak mám odpovědět.
 
-Jinak ale musím říci, že dnes již v jídle ani pití nikterak neexperimentuji a v žádném případě bych asi už nešel na nějaké "degustačí menu" ať již by to bylo v Americe, v Česku nebo kdekoliv jinde na světě.
+Jako každý, tak i já mám v jídle své preference, ale netrvám si na tom. Prostě jím, když mám chuť. Vaření mi již nic neříká, a tak raději zajdu do restaurace, kterou znám a kde jsem zatím byl alespoň trochu spokojený.
 
-Občas pro změnu jdu do nějaké etnické restarace, ale ani tam neexperimentuji.
+Musím říci, že dnes v jídle ani pití nikterak neexperimentuji. Nikdy bych už asi nešel na degustační menu, ať v Americe nebo v Česku nebo kdekoliv jinde na světě. Občas zajdu pro změnu do nějaké etnické restaurace, ale ani tam neexperimentuji.
 
-Chodím někdy do zdejší japonské restaurace kde mají výběr asi 80 druhů suši a navíc vám udělají suši podle vašeho přání, ale mně osobně suši nic neříká a tak si z bufetu vyberu jídlo které znám a u kterého vím co jím, protože degustace není už pro mně.
+{class="example"}
 
-Naštěstí o jídle už něco vím, a tak to samé dělám i v jiných restaruacích.
+Když si dám rybu, tak chci, aby chutnala po rybě a když si dám pomeranč tak musí chutnat po pomeranči, a ne po rybě.
 
-Já totiž když si dám rybu, tak chci aby chutnala po rybě a když si dám pomeranč tak musí chutnat po pomeranči a ne po rybě.
+Ve většině degustačních menu (až na výjimky) nabízí několik takových „nic“ pod jmény, která většina hostů neumí ani vyslovit. Pokud je to nějaké klasické jídlo, tak se na něm kuchař nějakým způsobem „podepsal“ a nějaké autentičnosti se nedá už vůbec hovořit.
 
-To víte, ve většina degustačních menu, až na nějaké výjimky, nabízí několik takových "nic" pod jmény která většina hostů neumí ani vyslovit, které jim dal jejich "tvůrce", a která stejně nic neříkají.
+Takže pokud jdete na degustační menu proto, abyste si rozšířili gastronomické znalosti, tak vám mohu říci, že jsou to vyhozené peníze. Je to daň z blbosti, kterou každý začínající [gurmán](gastronomove#gurman) musí zaplatit.
 
-Totiž pokud je to nějaké klasické jídlo, tak se na něm ten kuchař nějakým způsobem "podepsal", čemuž se anglicky říká "signature dish", nebo ho nazve "À la", ale o nějaké autentičnosti se nedá už vůbec hovořit.
+Degustační menu nejsou nic levného, protože neplatíte jenom za hodnotu potravin, ale i za [celkový dojem](ambiance). Takové degustační menu může stát 3 až 5 tisíc korun, nemluvě o nápojích.
 
-Takže pokud na nějaké degustační menu jdete proto abyste si rozšířili vaše gastronomické znalosti, tak vám mohu říci, že jsou to vyhozené peníze, ale to je daň z blbosti kterou každý začínajicí gourmán musí zaplatit.
+To víte, o obyčejnou vodu si říci nemůžete, to byste se hned deklasovali. Takže, i když vynecháte aperitiv, tak si musíte od místního zkušeného someliéra nechat doporučit vhodné víno, které vás může stát pěti až desetinásobek jídla. Ale to patří k věci, abyste o tom mohli mezi vašimi přáteli mluvit jako o [zážitku](zazitkova_gastonomie), což se dnes v Česku nosí.
 
-Totiž když o gastronomii už něco víte, tak poznáte, že až na nějaké výjimky jsou ta degustačí menu dělána podle znalostí toho kdo ta jídla připavuje. To nakonec je v pořádku a tak to má být, pokud je to nějaký zkušený kuchař. Nicméně já osobně nechci dělat pokusného králíka na kterém by si nějaký kuchař třeba i jednoletou nebo tříletou zahraniční praxi, si za mé peníze ověřoval své znalosti a shopnosti.
-
-Ty degustační menu nejsou nic laciného protože neplatíte jenom za hodnotu těch potravin, ale i za celokovou abmiance a s tím musíte počítat. Takové degustační menu může stát 3 až 5 tisíc korun nemluvě o nápojích.
-
-To víte o obyčejnou vodu si říce nemůžete, to byste se hned deklasovali, a tak i když vynecháte aperitiv, tak si musíte od místního zkušeného sommeliiéra nechat doporučit vhodné víno, které vás může stát pěti až desetinásobek toho jídla, ale to patří k věci abyste o tom mohli mezi vašimi přáteli mluvit jako o "zážitku", což se dnes v Česku nosí.
-
-No, a nakonec si dáte after dinner drink, a "everybody is happy". Apropó, nezapomeťe, že v takové restaruaci je téměř povinností dát odpovídajicí spropitné. Bon appetit!
+Nakonec nezapomeňte, že v takové restauraci je téměř povinností dát odpovídající spropitné. _Bon Appétit! {xml:lang="fr"}_
 
