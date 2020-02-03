@@ -7,7 +7,7 @@
 
 {kw="nápoje"}
 
-Absint je zelený likér, k jehož přípravě se mimo jiné používá nahořklá dřevnatá rostlina [Artemisia absinthium][1] anglicky zvaná _wormwood {xml:lang="en"}_. Pro svou intenzivní anýzovou příchuť si absint vysloužil francouzský název _Anisette {xml:lang="fr"}_.
+Absint je zelený likér, k jehož přípravě se mimo jiné používá nahořklá dřevnatá rostlina [Artemisia absinthium][1] anglicky zvaná _wormwood {xml:lang="en"}_. Pro svou intenzivní anýzovou příchuť si absint vysloužil francouzský název _anisette {xml:lang="fr"}_.
 
 Absint se obyčejně ředil tak, že se kapal do sklenice přes cukr v perforované lžičce, přes který se pak přelévala voda, čímž se voda zakalila na barvu řídkého mléka. Proto v Novém Orleansu dostal absint jména jako _Milky Way {xml:lang="en"}_, _Geen Opal {xml:lang="en"}_ či _Herbabsaint {xml:lang="en"}_. Ve Francii je absint také znám pod názvy _pastis {xml:lang="fr"}_ a _anisette {xml:lang="fr"}_.
 
