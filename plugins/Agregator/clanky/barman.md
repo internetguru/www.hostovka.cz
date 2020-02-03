@@ -3,7 +3,7 @@
 
 {ctime="2008-04-03" mtime="2020-01-05" id="kradeze_v_kuchyni" author="Michael Klíma" short="Krádeže v kuchyni"}
 
-# Co se zaměstnanci kteří kradou?
+# Co se zaměstnanci, kteří kradou?
 
 {kw="co-kdy-kde, případová studie"}
 
@@ -33,13 +33,13 @@ Když krade kuchař, tak to ještě není tak zlé. Horší je, když je kuchař
 
 On to nikdo neříká moc nahlas, ale za socialismu se to řešilo tak, že se spolu se zaměstnanci scukl i soudruh vedoucí. Nedávno jsem s hrůzou zjistil, že takto v Česku postupují i někteří majitelé restaurací, zřejmě podle hesla „Když je nemůžeš přemoci, tak se s nimi spoj“, což je tedy nepředstavitelná [chucpa](chucpa).
 
-Pokud se s vašimi zaměstnanci nechcete „šábovat“, tak vám nezbývá nic jiného, než se smířit s tím, že někteří zaměstnanci kradou. Když tomu nemůžete zabránit, tak krádeže alespoň minimalizujte.
+Pokud se s vašimi zaměstnanci nechcete „šábovat“, tak vám nezbývá nic jiného než se smířit s tím, že někteří zaměstnanci kradou. Když tomu nemůžete zabránit, tak krádeže alespoň minimalizujte.
 
 Já mám sice na zadním hořáku již hodně dlouho úvahy o tom, jak se v pohostinství šidí a krade, a jak se tomu dá zabránit. Jejich zveřejnění ale odkládám. Je to jen proto, že by se ti zlodějíčkové, kteří jsou zpravidla bystřejší než majitelé restaurací, nenaučili to, co ještě neumí.
 
 # Začlenění trestanců do společnosti
 
-Z toho co jsem zatím napsal jste museli poznat, že proti některým „muklům“ či potrestaným nic nemám. Plně souhlasím s tím, že všichni máme jakousi morální povinnost jim usnadnit návrat do společnosti. Co mi ale vadí je, že lidé považují pohostinství za jediné místo, kde by potrestaní našli uplatnění.
+Z toho, co jsem zatím napsal jste museli poznat, že proti některým „muklům“ či potrestaným nic nemám. Plně souhlasím s tím, že všichni máme jakousi morální povinnost jim usnadnit návrat do společnosti. Co mi ale vadí je, že lidé považují pohostinství za jediné místo, kde by potrestaní našli uplatnění.
 
 {class="example"}
 
@@ -51,9 +51,9 @@ Podle neoficiálních údajů máme v Česku kolem 300 odborných škol a učili
 
 Nu, a teď tu budeme mít další dvouletou školu „vybraných“ studentů, která se ale oproti těm druhým bude moci pochlubit stoprocentní docházkou. Nepředpokládám, že ti, kterým trest skončí dříve než za dva roky, si pobyt ve vězení prodluží, aby odmaturovali. V Česku je ale všechno možné.
 
-Jak motivační a ušlechtilá myšlenka a přitom tak jednoduchá, že mně až udivuje, že jsem s něčím takovým nepřišel já. Mám totiž známé, kteří mají kluka tak pitomého, že ho ani žádná škola pohostinství nechce vzít. To dokonce i přesto, že některé školy berou úplně všechny.
+Jak motivační a ušlechtilá myšlenka, a přitom tak jednoduchá, že mně až udivuje, že jsem s něčím takovým nepřišel já. Mám totiž známé, kteří mají kluka tak pitomého, že ho ani žádná škola pohostinství nechce vzít. To dokonce i přesto, že některé školy berou úplně všechny.
 
-Tudíž tomu klukovi teď už nezbývá nic jiného, než udělat nějakou lumpárnu, nechat se zašít a udělat si školu v kriminále. Doufám jen, že při přijímacích zkouškách nebude dávána přednost těm, kteří jsou za katrem pro podvody a krádeže, jenom proto, že mají k pohostinství větší predisposice. Doufám že bude dána možnost i jednomu recidivistovi, o kterém vím, že je v zásadě poctivý a který je v tom lochu jen pro znásilňování.
+Tudíž tomu klukovi teď už nezbývá nic jiného než udělat nějakou lumpárnu, nechat se zašít a udělat si školu v kriminále. Doufám jen, že při přijímacích zkouškách nebude dávána přednost těm, kteří jsou za katrem pro podvody a krádeže, jenom proto, že mají k pohostinství větší predisposice. Doufám, že bude dána možnost i jednomu recidivistovi, o kterém vím, že je v zásadě poctivý a který je v tom lochu jen pro znásilňování.
 
 Doufám také, že si tvůrci tohoto programu uvědomují, že ostré předměty nesmí být za katrem používány. Tudíž na kurzy vyřezávání melounů, což teď v Česku také letí, mohou zapomenout.
 
