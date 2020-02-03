@@ -7,9 +7,9 @@
 
 {kw="gastronomie"}
 
-Zážitková gastronomie je přesně to, napovídá její název. Podle mě to ale bohužel není úplně přesná definice.
+Zážitková gastronomie je přesně to, co napovídá její název. Podle mě to ale bohužel není úplně přesná definice.
 
-Dnes se tento termín v českém odborném tisku často skloňuje. Obávám se ale, že nikdo neví, kdo tento termín do české gastronomie zavlékl. Podobně je na tom raut, který také hodně lidí papouškuje aniž by vlastně věděli co to je.
+Dnes se tento termín v českém odborném tisku často skloňuje. Obávám se ale, že nikdo neví, kdo tento termín do české gastronomie zavlekl. Podobně je na tom raut, který také hodně lidí papouškuje aniž by vlastně věděli, co to je.
 
 Lidé ve společnosti, alespoň v Americe, se nebaví o ničem jiném než o sportu, sexu a o jídle, ne nutně v tomto pořadí. Politika je tabu a stejně tak je tabu i náboženství.
 
@@ -17,7 +17,7 @@ Lidé ve společnosti, alespoň v Americe, se nebaví o ničem jiném než o spo
 
 Jak praví německé přísloví: _„Wer eine Reise tut, der kann was erzählen!“ {xml:lang="de"}_, česky: _„Kdo cestuje, ten má co vyprávět“_.
 
-Lidé mluví také tom, s jakými památkami, přírodními krásami a pamětihodnostmi se setkali. Případně se zmíní, jaké bylo jejich ubytování. Nakonec se ale všechno stočí k jídelnímu lístku a na jídlo, neboli na gastronomické zážitky.
+Lidé mluví také tom, s jakými památkami, přírodními krásami a pamětihodnostmi se setkali. Případně se zmíní, jaké bylo jejich ubytování. Nakonec se ale všechno stočí k jídelnímu lístku a na jídlo, neboli na [gastronomické](gastronomie) zážitky.
 
 ## Cestování za zážitkem z jídla
 

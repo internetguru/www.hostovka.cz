@@ -11,7 +11,7 @@
 
 {class="example"}
 
-Pokud hovoříme o gastronomii jako o umění tak nemůžeme opomenout gasteru. Gastera je považována za desátou múzu. Múzy, kterých bylo devět, byly bohyně umění a vědy v řecké mytologii.
+Pokud hovoříme o gastronomii jako o umění, tak nemůžeme opomenout gasteru. Gastera je považována za desátou múzu. Múzy, kterých bylo devět, byly bohyně umění a vědy v řecké mytologii.
 
 {short="Jídelní lístky"}
 
@@ -27,13 +27,11 @@ Restaurace by se neměly snažit hosta zaskočit jídelním lístkem a ani ho om
 
 ## Česká gastronomie
 
-Když se dívám na jídelní lístky ve 20km okruhu kolem Prahy, tak (až na výjimky) nejsem přesvědčen o tom, že by mohly být ukázkou světové gastronomie. Je to prostě jenom „gastronomie z 20km okruhu Prahy“, o které si naivní cizinci bohužel myslí, že to je pravá česká gastronomie.
+Když se dívám na jídelní lístky ve 20km okruhu kolem Prahy, tak (až na výjimky) nejsem přesvědčen o tom, že by mohly být ukázkou světové gastronomie. Je to prostě jenom „gastronomie z 20km okruhu Prahy“, o které si naivní cizinci bohužel myslí, že je to ta pravá česká gastronomie.
 
 Česká a slovenská gastronomie, ať se to někomu bude líbit nebo ne, se bude muset přizpůsobit, ne-li podrobit evropské gastronomii. Ta se podle mě bude teprve teď vytvářet.
 
-Je to také velká příležitost k tomu, aby si jak česká tak i slovenská gastronomie vytvořily svoji identitu a staly se gastronomií, která bude v EU respektována.
-
-Toho by ale měli docílit vlastním přičiněním a ne tím, že si na to budou zvát primadony ze zahraničí. To všechno je na dlouhou diskusi a toto není podle mě ta správná půda.
+Je to také velká příležitost k tomu, aby si česká a slovenská gastronomie vytvořily vlastní identitu a staly se gastronomií, která bude v EU respektována.
 
 Také se u nás začíná rozvíjet tzv. [zážitková gastronomie](zazitkova_gastonomie).
 
@@ -41,9 +39,9 @@ Také se u nás začíná rozvíjet tzv. [zážitková gastronomie](zazitkova_ga
 
 Dvě z původních center ranné gastronomie byl Řím a Čína (Orient).
 
-Přestože Římané byli známi svým nepříliš vybíravým chováním při [banketech](banket), tak se o jejich jídle dá říci, že na danou dobu byla docela sofistikovaná.
+Přestože Římané byli známi svým nepříliš vybíravým chováním při [banketech](banket), tak se o jejich jídle dá říci, že na danou dobu bylo docela sofistikované.
 
-V Orientu se o plně vyvinuté gastronomii dá hovořit již od 5 století př. n. l. Válkami, obchodem a kulturní asimilací se čínská gastronomie rozšířila do Japonska, Koreje, a do větší části Jižní Asie. Evropa ale nezůstávala pozadu.
+V Orientu se o plně vyvinuté gastronomii dá hovořit již od 5. století př. n. l. Válkami, obchodem a kulturní asimilací se čínská gastronomie rozšířila do Japonska, Koreje, a do větší části Jižní Asie. Evropa ale nezůstávala pozadu.
 
 Nicméně, když už hovoříme o gastronomii, tak bychom se mněli zmínit o několika konkrétních gastronomech, kteří se ni zasloužili:
 
@@ -73,7 +71,7 @@ Tehdy to byl sled, podle kterého se podávaly napřed teplé předkrmy, studen�
 
 Navíc jsme si museli pamatovat, že se jídla podávají od lehkých k těžším a nápoje od těžkých k lehkým, že k bílým masům se musí podávat bílé víno a k tmavým masům víno červené a že šampaňské víno se může podávat během celé hostiny. Přestože jsem se nakonec s odřenými zády vyučil, tak jsem toho o gastronomii moc nevěděl a už vůbec ne o mezinárodní.
 
-Když jsem hned po vyučení začal cestovat po světě, tak jsem si několikrát kladl otázku: „O jakém gastronomickém sledu jídel náš pan učitel Dřevikovský vlastně mluvil?“ Rozhodně ne o čínském, protože Číňané například jedí polévky až na konec, o americkém také ne, protože Američanům jak se zdá, je to všechno jedno.
+Když jsem hned po vyučení začal cestovat po světě, tak jsem si několikrát kladl otázku: „O jakém gastronomickém sledu jídel náš pan učitel Dřevikovský vlastně mluvil?“ Rozhodně ne o čínském, protože Číňané například jedí polévky až na konec, o americkém také ne, protože Američanům, jak se zdá, je to všechno jedno.
 
 Když jsem zjistil, že některé národy jako například Rusové, nemají vůbec žádný vyhraněný gastronomický sled, tak jsem z toho byl prostě už úplně vyšinutý a řekl jsem si, že je všechno nanic.
 
@@ -85,13 +83,13 @@ Kolem roku 1958 se Hotelový a cateringový institut Velké Británie rozhodl st
 
 Dvanáct vysoce kvalifikovaných kuchařů bylo jmenováno do komise, která měla vypracovat Kuchařský kodex. Po dvou a půl letech týdenních schůzek a nekonečných diskusí upadl tento záměr do zapomenutí.
 
-Tito kuchaři, kteří zastupovali celou řadu etnických kuchyní, se nemohli shodnout na jednotných zásadách. To, co je jednoho lahůdkou, může být pro druhého něčím odporným. Jmenujte jakékoliv jídlo určité skupiny lidí a zcela určitě najdete jinde ve světě jinou skupinou, která by toto jídlo ani nepozřela.
+Tito kuchaři, kteří zastupovali celou řadu etnických kuchyní, se nemohli shodnout na jednotných zásadách. To, co je pro jednoho lahůdkou, může být pro druhého něčím odporným. Jmenujte jakékoliv jídlo určité skupiny lidí a zcela určitě najdete jinde ve světě jinou skupinou, která by toto jídlo ani nepozřela.
 
 Také například skutečnost, že francouzští kuchaři při zahušťování šťáv dávají přednost bramborovému škrobu před rýžovým, má opodstatnění jedině v tom, že bramborový škrob je ve Francii levnější. Od nepaměti je snadněji k dostání než škrob rýžový, který je naopak ze stejných důvodů oblíben u čínských kuchařů.
 
 ### Vývoj dnešní gastronomie
 
-Dnes, z pohledu provozovatele pohostinské činnosti, je gastronomie mnohem širší obor, než kdysi.
+Dnes, z pohledu provozovatele pohostinské činnosti, je gastronomie mnohem širší obor než kdysi.
 
 Moderní gastronomický odborník (tzv. [manažer kuchyně](funkce_pracovniku_v_pohostinstvi)) musí brát v úvahu globální stravovací zvyklosti.
 

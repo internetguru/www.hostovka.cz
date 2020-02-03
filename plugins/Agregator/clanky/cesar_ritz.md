@@ -13,7 +13,7 @@ V první polovině 20. století před rokem 1914, vybudoval César Ritz na těch
 
 César Ritz si uvědomoval důležitost gastronomie v hotelovém průmyslu natolik, že se spojil s [Agustem Escoffiérem](auguste_escoffier), již tehdy uznávaným nejschopnějším šéfkuchařem světa.
 
-Díky tomuto partnerství vzniknuly nejluxusnější světové hotely té doby. Také mnoho jiných světových hotelů bylo založeno na reputaci jména Ritz a Carlton a byly také synonymy kvality a vysokého stupně komfortu.
+Díky tomuto partnerství vznikly nejluxusnější světové hotely té doby. Také mnoho jiných světových hotelů bylo založeno na reputaci jména Ritz a Carlton a byly také synonymy kvality a vysokého stupně komfortu.
 
-Komfort, luxus, francouzská gastronomie a vysoká kvalita jídla a pití a servisu, bez ohledu na náklady. To byl standard této doby. Dnešní doba je však podstatně jiná.
+Komfort, luxus, francouzská gastronomie a vysoká kvalita jídla, pití a servisu, bez ohledu na náklady. To byl standard této doby. Dnešní doba je však podstatně jiná.
 
