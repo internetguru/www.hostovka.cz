@@ -4,29 +4,31 @@
 
 ## Čínský samoobslužný bufet
 
-Nedávno jsem v poště našel nabídku jedné čínské restaurace. Cena za [polední buffet][1] se mi zdála přijatelná. Útrata za dvě osoby včetně 15% spropitného (za to odklízení použitého nádobí) je $17, což při aktuálním kurzu dolaru (v roce 2006) odpovídá zhruba 400 Kč.
+{kw="jídla a jídelní lístky, bufet"}
 
-Vzdálenost restaurace je od nás jen asi 30 minut jízdy, a tak jsme ji šli s manželkou vyzkoušet. Moc jsem si od toho za tu cenu nesliboval. Byl jsem však velmi mile překvapen, a proto se o svou zkušenost musím s Vámi podělit.
+Nedávno jsem v poště našel nabídku jedné čínské restaurace. Cena za [polední bufet][1] se mi zdála přijatelná. Útrata za dvě osoby včetně 15% spropitného (za to odklízení použitého nádobí) je $17, což při aktuálním kurzu dolaru (v roce 2006) odpovídá zhruba 400 Kč.
+
+Vzdálenost restaurace je od nás jen asi 30 minut jízdy, a tak jsme ji šli s manželkou vyzkoušet. Moc jsem si od toho za tu cenu nesliboval. Byl jsem však velmi mile překvapen, a proto se o svou zkušenost musím s vámi podělit.
 
 ## Koncept a vybavenost restaurace
 
-Restaurace má asi 400 míst a zdá se, že ji obsadí za den asi tak pětkrát. To se odráží na v té ceně ale i na celém jejich sortimentu, protože čím více hostů je, tím větší sortiment mohou mít.
+Restaurace má asi 400 míst a zdá se, že ji obsadí za den asi tak pětkrát. To se odráží na ceně, ale i na celém jejich sortimentu. Čím více hostů, tím větší sortiment mohou mít.
 
-Restaurace otevírá denně v 10.30 a zavírá ve 23 hod. a v neděli ve 22 hod. Přišli jsme tam asi 10 minut před polednem a restaurace podle mého odhadu byla asi tak ze 30 % zaplněná. Takže jsme se mohli vybrat stůl, ke kterému nás uvedla velmi milá hosteska. Ta nám zkráceně řekla, jak to u nich chodí, a zároveň přijala objednávku nápojů.
+Restaurace otevírá denně v 10:30 a zavírá ve 23 hod., v neděli ve 22 hod. Přišli jsme tam asi 10 minut před polednem a restaurace byla podle mého odhadu zaplněná asi tak ze 30 %. Takže jsme se mohli vybrat stůl, ke kterému nás uvedla velmi milá hosteska. Ta nám zkráceně řekla, jak to u nich chodí, a zároveň přijala objednávku nápojů.
 
-Vzápětí nám usměvavá čínská servírka s anglickou jmenovkou (a roztomilým čínským přízvukem) přinesla příbory (mně jídelní hůlky) a objednané nápoje (jasmínový čaj) a vyzvala nás k návštěvě bufetu.
+Vzápětí nám usměvavá čínská servírka s anglickou jmenovkou (a roztomilým čínským přízvukem) přinesla příbory (mně [jídelní hůlky](hulky)) a objednané nápoje (jasmínový čaj) a vyzvala nás k návštěvě bufetu.
 
-Mimo dvou studených pultů s několika druhy salátů a dresinků a mimo pultu, kde připravují na počkání sushi, tam mají asi 6 dalších bufetových pultů, a to jak chlazených, tak i vyhřívaných.
+Mimo dvou studených pultů s několika druhy salátů a [dresinků](zalivka_dresink#dresinky) a mimo pultu, kde připravují na počkání sushi, tam mají asi 6 dalších bufetových pultů, a to jak chlazených, tak i vyhřívaných.
 
-Chtěl jsem ty pulty vyfotografovat, ale jeden z vedoucích mně upozornil na to, že se pulty fotografovat nesmí. Já sice jako vedoucí té restaurace bych každého hosta vybízel, aby si to vyfotil a ukazoval svým známým, ale samozřejmě jsem nařízení respektoval.
+Chtěl jsem pulty vyfotografovat, ale jeden z vedoucích mě upozornil na to, že se pulty fotografovat nesmí. Já sice bych sice jako vedoucí restaurace každého hosta vybízel, aby si je vyfotil a ukazoval svým známým, ale samozřejmě jsem nařízení respektoval.
 
-Bez nějaké nadsázky se mohu pochlubit tím, že já jsem se s mými zaměstnanci podobných bufetů nadělal celou řadu. Takže se samozřejmě nejednalo o nějakou špionáž z mé strany, jako spíše o to, že mám rád vše dokumentované.
+Bez nějaké nadsázky se mohu pochlubit tím, že jsem se svými zaměstnanci podobných bufetů nadělal celou řadu. Takže se samozřejmě nejednalo o nějakou špionáž z mé strany, jako spíše o to, že mám rád vše zdokumentované.
 
-Fotografie vám tudíž přiložit nemohu, ale pokusím se vám to takovým českým způsobem v kostce popsat…
+Fotografie vám tudíž přiložit nemohu, ale pokusím se vám to takovým českým způsobem popsat v kostce…
 
 ## Pulty a nabídka pokrmů
 
-Na sushi pultu mají několik druhů sushi již vystavených, ale na počkání vám udělají jakékoliv sushi na přání. Mají tam také libovolné množství wasabi a marinovaného zázvoru, které samy o sobě jsou relativně drahé. Tím si u mě také trochu šplhli.
+Na sushi pultu mají několik druhů sushi již vystavených, ale na počkání vám udělají jakékoliv sushi na přání. Mají tam také libovolné množství wasabi a marinovaného zázvoru, které jsou sami o sobě relativně drahé. Tím si u mě také trochu šplhli.
 
 V materiálech o restauraci tvrdí, že nabízí 180 druhů jídel. Nadto připravují jídla v místě zvaném _wok bar {xml:lang="en"}_ nebo také _stir fry station {xml:lang="en"}_. To je oddělení, ve kterém vám na počkání během několika vteřin udělají na čínské pánvi jídlo z bohatého výběru vystavených mas, ryb a plodů moře, zelenin, těstovin, rýže a podobně. Totéž platí v sousedním oddělení na kulatém mongolském gridlu o průměru asi 1,5 m.
 
@@ -36,12 +38,12 @@ Restaurace má bohatý výběr nealkoholických nápojů, limitovaný výběr v�
 
 ## Obsluha a cena
 
-V celku musím tento bufet hodnotit jako velmi dobrý, chutný a atraktivně upravený. Obsluha je jen tak rychlá, jak rychle se stačíte sami obsloužit. Handicapovaným hostům velmi ochotně obsluhující pomohou a relativně rychle sklízejí použité nádobí.
+V celku musím tento bufet hodnotit jako velmi dobrý, chutný a atraktivně upravený. Obsluha je jen tak rychlá, jak rychle se stačíte sami obsloužit. Obsluhující velmi ochotně pomohou handicapovaným hostům a také relativně rychle sklízejí použité nádobí.
 
-Můj největší kompliment každé restauraci je, když jim slíbím, že se k nim rád vrátím. To jsem v tomto případně bez jakýchkoliv zábran učinil. Mám-li být upřímný, tak se na moji příští návštěvu této restaurace již těším hlavně proto, že ač jsem se snažil, tak se mi nepodařilo ochutnat všechna jídla která tato restaurace nabízí.
+Můj největší kompliment restauraci je, když jim slíbím, že se k nim rád vrátím. To jsem v tomto případně bez jakýchkoliv zábran učinil. Mám-li být upřímný, tak se na moji příští návštěvu této restaurace již těším. Je to hlavně proto, že ač jsem se snažil, tak se mi nepodařilo ochutnat všechna jídla, která tato restaurace nabízí.
 
-Musím také říci, že politika této restaurace je v plném souladu s mou teorií nabídnout hostům to, co chtějí, a to v takovém výběru, že obrazně řečeno nevědí co si vybrat dříve. A hlavně za cenu, která takovému množství a kvalitě odpovídá.
+Musím také říci, že politika této restaurace je v plném souladu s mou teorií nabídnout hostům to, co chtějí, a to v takovém výběru, že obrazně řečeno nevědí, co si vybrat dříve. A hlavně za cenu, která takovému množství a kvalitě odpovídá.
 
-Zajímalo by mě ale, kolik by takový bufet stál v kterémkoliv městě v Čechách. Téměř všechny suroviny, které jsem na tom bufetu viděl, jsou dnes v Čechách již běžně k dostání. Čínská kuchyně dnes již také není nic, co by naši kuchaři neuměli připravit. Největší problém asi by byl potřebný počet hostů.
+Zajímalo by mě ale, kolik by takový bufet stál v kterémkoliv městě v Čechách. Téměř všechny suroviny, které jsem na tom bufetu viděl, jsou dnes v Čechách již běžně k dostání. Čínská kuchyně dnes už také není nic, co by naši kuchaři neuměli připravit. Největší problém by asi byl potřebný počet hostů.
 
  [1]: bufet#samoobsluzna_restaurace
