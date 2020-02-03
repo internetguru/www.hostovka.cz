@@ -9,17 +9,17 @@
 
 Výraz chucpa má řadu významů, a to jak negativních, tak i pozitivních. Chucpa může znamenat odvahu nebo kuráž a opovážlivost v tom kladném slova smyslu, ale i nehoráznou opovážlivost v záporném smyslu jako je drzost či neomalenost.
 
-Byla by to ode mě chucpa, kdybych řekl, že znám všechny významy tohoto slova. Nakonec je chucpa i to, když já jako gój se vám to snažím vysvětlit. Zejména je ode mě hrozná chucpa, že tento výraz používám aniž bych si uvědomoval, že by mu někdo nemusel rozumět.
+Byla by to ode mě chucpa, kdybych řekl, že znám všechny významy tohoto slova. Nakonec je chucpa i to, když já jako gój se vám to snažím vysvětlit. Zejména je ode mě hrozná chucpa, že tento výraz používám, aniž bych si uvědomoval, že by mu někdo nemusel rozumět.
 
 ## Jidiš výraz s jemnými nuancemi
 
-Slovo chucpa není židovské ani hebrejské nebo sionistické, jak by se mohlo zdát. Je to jidiš výraz, který má nekonečnou řadu významů a to s takovými jemnými nuancemi, že se stane, že ho i někteří židé použijí nevhodně.
+Slovo chucpa není židovské ani hebrejské nebo sionistické, jak by se mohlo zdát. Je to jidiš výraz, který má nekonečnou řadu významů, a to s takovými jemnými nuancemi, že se stane, že ho i někteří židé použijí nevhodně.
 
 Já žid nejsem, ale mám s židy hodně společného. Ne tedy ten Terezín. Tam jsem se sice narodil, ale když z něj Němci udělali gheto, tak nás vystěhovali. Šoupli nás také do gheta, a sice do toho bývalého pražského gheta na Starém Městě, což tedy byla také chucpa.
 
 ## Používání slova chucpa
 
-Bydleli jsme v Pařížské ulici č. 10, což bylo od synagogy co by kamenem dohodil. Měl jsem několik židovských přátel, od kterých jsem ten výraz asi pochytil. Ale nejspíše jsem se ho pak naučil správně používat, když jsem se začal učit hebrejsky. Dostal jsem totiž nabídku místa ředitele hotelu v Izraeli, ale jelikož jsem gój (gojim), tak podmínkou bylo, že musím umět hebrejsky.
+Bydleli jsme v Pařížské ulici č. 10, což bylo od synagogy co by kamenem dohodil. Měl jsem několik židovských přátel, od kterých jsem ten výraz asi pochytil. Ale nejspíše jsem se ho pak naučil správně používat, když jsem se začal učit hebrejsky. Dostal jsem totiž nabídku místa ředitele hotelu v Izraeli. Jelikož jsem gój (gojim), tak podmínkou bylo, že musím umět hebrejsky.
 
 Ačkoli se jazyky učím relativně lehce, tak nejhorší pro mě bylo to jejich psaní zprava doleva. Takže to byla ode mě chucpa, že jsem se do toho vůbec pustil.
 
