@@ -16,9 +16,9 @@ Restaurace má asi 400 míst a zdá se, že ji obsadí za den asi tak pětkrát.
 
 Restaurace otevírá denně v 10:30 a zavírá ve 23 hod., v neděli ve 22 hod. Přišli jsme tam asi 10 minut před polednem a restaurace byla podle mého odhadu zaplněná asi tak ze 30 %. Takže jsme se mohli vybrat stůl, ke kterému nás uvedla velmi milá hosteska. Ta nám zkráceně řekla, jak to u nich chodí, a zároveň přijala objednávku nápojů.
 
-Vzápětí nám usměvavá čínská servírka s anglickou jmenovkou (a roztomilým čínským přízvukem) přinesla příbory (mně [jídelní hůlky](hulky)) a objednané nápoje (jasmínový čaj) a vyzvala nás k návštěvě bufetu.
+Vzápětí nám usměvavá čínská servírka s anglickou jmenovkou (a roztomilým čínským přízvukem) přinesla příbory (mně [jídelní hůlky](/hulky)) a objednané nápoje (jasmínový čaj) a vyzvala nás k návštěvě bufetu.
 
-Mimo dvou studených pultů s několika druhy salátů a [dresinků](zalivka_dresink#dresinky) a mimo pultu, kde připravují na počkání sushi, tam mají asi 6 dalších bufetových pultů, a to jak chlazených, tak i vyhřívaných.
+Mimo dvou studených pultů s několika druhy salátů a [dresinků](/zalivka_dresink#dresinky) a mimo pultu, kde připravují na počkání sushi, tam mají asi 6 dalších bufetových pultů, a to jak chlazených, tak i vyhřívaných.
 
 Chtěl jsem pulty vyfotografovat, ale jeden z vedoucích mě upozornil na to, že se pulty fotografovat nesmí. Já sice bych sice jako vedoucí restaurace každého hosta vybízel, aby si je vyfotil a ukazoval svým známým, ale samozřejmě jsem nařízení respektoval.
 
