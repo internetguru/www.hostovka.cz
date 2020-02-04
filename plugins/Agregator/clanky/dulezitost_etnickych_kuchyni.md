@@ -7,19 +7,19 @@
 
 {kw="etnické kuchyně, jídla a jídelní lístky, Amerika, České republika"}
 
-Znalost stravovacích zvyklostí zahraničních hostů a etnických skupin, kterým byla kdysi přikládána veliká důležitost, pomalu ale jistě ztrácí na své důležitosti.
+Znalost stravovacích zvyklostí zahraničních hostů a etnických skupin, kterým byla kdysi přikládána velká váha, pomalu ale jistě ztrácí na své důležitosti.
 
-Každého zahraničního hosta sice potěší, když se na českém jídelním lístku objeví jeho oblíbené jídlo z jeho domácí kuchyně. Pokud je navíc upravené podle jeho představ, tak mu daná restaurace dokonce udělá velkou radost. Aby ale restaurace přizpůsobily své jídelní lístky stravovacím zvyklostem veškeré zahraniční klientely, by byl dnes úkol téměř nad lidské síly.
+Zahraničního hosta sice potěší, když se na českém jídelním lístku objeví jeho oblíbené jídlo z jeho domácí kuchyně. Pokud je navíc upravené podle jeho představ, tak mu daná restaurace dokonce udělá velkou radost. Aby ale restaurace přizpůsobily své jídelní lístky stravovacím zvyklostem veškeré zahraniční klientely, by byl dnes úkol téměř nad lidské síly.
 
 Nemluvím ale o etnických restauracích, ve kterých by jídla, sled jejich podávání a způsob servisu, měl odpovídat zvyklostem dané kuchyně. Mám na mysli průměrné restaurace s mezinárodní, a dnes již globální klientelou.
 
 Takové restaurace se musí řídit mezinárodně akceptovanými zvyklostmi moderní [gastronomie](gastronomie). Nicméně v případech, že etnická skupina tvoří podstatnou část mezinárodní klientely, by charakteristiku takové kuchyně měli znát i studenti Hostovky.
 
-Etnické kuchyně mají základ v jídlech krajových, případně regionálních kuchyních, které vznikly na základě dostupnosti potřebných surovin, místního výrobního zařízení a na základě technik známých v dané zemi v době jejich vzniku. Později byla příprava těchto jídel ovlivněna tradicemi případně náboženskými předpisy.
+Etnické kuchyně mají základ v krajových jídlech, případně regionálních kuchyních, které vznikly na základě dostupnosti potřebných surovin, místního výrobního zařízení a na základě technik známých v dané zemi v době jejich vzniku. Později byla příprava těchto jídel ovlivněna tradicemi případně náboženskými předpisy.
 
-Popularita některých regionálních jídel etnických kuchyní překročila hranice oblasti svého původu a tato jídla se stala populárními etnickými specialitami dané národnostní kuchyně.
+Popularita některých regionálních jídel etnických kuchyní překročila hranice oblasti svého původu a tato jídla se stala populárními etnickými specialitami dané národní kuchyně.
 
-## Etnické kuchyně v Americe
+## Vývoj etnické kuchyně v Americe
 
 Studiem etnických kuchyní se zabývám téměř od začátku odborné kariéry. Během let jsem měl možnost se zásady některých kuchyní naučit přímo v zemích jejich původu. Musím se ale přiznat, že nejvíce jsem se o etnických kuchyních naučil v Americe, kde jich je nekonečná řada.
 
@@ -48,7 +48,6 @@ Původní mexická kuchyně neměla až do čtyřicátých let vyhraněný chara
 Tex-mex kuchyně zpopularizovala mexickou kuchyni natolik, že se její popularita v Americe dostává do popředí před kuchyni čínskou, italskou a francouzskou.
 
 Netrvalo ale dlouho než mexická kuchyně překročila hranice Ameriky a stala se oblíbenou téměř po celém světě. Jen málo lidí ale ví, že dnešní takzvaná mexická jídla, vlastně mexická nejsou. O tom se můžete přesvědčit i v Česku.
-
 
 # Česká kuchyně
 
