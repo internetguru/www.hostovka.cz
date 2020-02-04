@@ -15,11 +15,15 @@ Koncept _all you can eat {xml:lang="en"}_ je snaha dát sice hostům, co dokáž
 
 Historii vzniku tohoto způsobu nabídky a její ekonomické výhody či nevýhody vám zde popisovat nebudu, protože Hostovka není škola vaření či managementu pohostinských podniků. Na tento způsob nabídky se ale musíme dívat z dvojího pohledu – a sice z pohledu provozovatele a z pohledu hosta.
 
+{id="pohledy"}
+
 ## Pohled restauratéra a hosta
 
-Z pohledu restauratéra je to totiž v psychologii nabídky a prodeje, v dokonalé znalosti kalkulací a organizaci neboli v celkovém [know-how](know_how). V pohostinství se totiž peníze nevydělávají až při prodeji, ale již při nákupu. A není tajemstvím, že některé _all you can eat {xml:lang="en"}_ restaurace jsou profitabilní a jiné prodělečné.
+Z pohledu restauratéra je to totiž v psychologii nabídky a prodeje, v dokonalé znalosti kalkulací a organizaci neboli v celkovém [know-how][2]. V pohostinství se totiž peníze nevydělávají až při prodeji, ale již při nákupu. A není tajemstvím, že některé _all you can eat {xml:lang="en"}_ restaurace jsou profitabilní a jiné prodělečné.
 
 Z pohledu hosta nám stačí vědět, že tento způsob nabídky má několik forem. Především je to ta u nás již známá forma bufetovým způsobem. Snahou provozovatele je nabídnout co možná největší výběr jídel a případně i nápojů. Pokud provozovatel ví co dělá (a za předpokladu, že má potřebný počet hostů), může tato forma být i rentabilní.
+
+{id="alternativni_formy"}
 
 ## Alternativní formy
 
@@ -27,6 +31,8 @@ Další forma, která v Česku není ještě tak známá, je _all you can eat fa
 
 Mimoto existuje ještě několik forem pro které (jak někteří čeští odborníci říkají) české pohostinství ještě nedorostlo. A tak vám je podrobně popisovat nebudu. Spočívají např. v tom, že některá potravina se způsobem _all you can eat {xml:lang="en"}_, vedle jídel na jídelním lístku, nabízí v určitý den za zvýhodněnou cenu. Jedná se například o drůbež (zpravidla kuřata nebo krůty) nebo ryby, případně plody moře.
 
-To má z pohledu restauratéra také svá specifika. Vám jako studentům Hostovky mohu jen říci, že až k tomu české pohostinství doroste, tak  to bude velice výhodné pro každého, kdo nabízenou potravinu má rád.
+To má z pohledu restauratéra také svá specifika. Vám jako studentům Hostovky mohu jen říci, že až k tomu české pohostinství doroste, tak to bude velice výhodné pro každého, kdo nabízenou potravinu má rád.
 
  [1]: samoobsluzna_restaurace
+ [2]: know_how
+
