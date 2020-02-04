@@ -2,7 +2,7 @@
 
 {ctime="2008-03-04" mtime="2020-01-05" id="cinsky_bufet" author="Michael Klíma" short="Čínský bufet"}
 
-## Čínský samoobslužný bufet
+# Čínský samoobslužný bufet
 
 {kw="jídla a jídelní lístky, bufet"}
 
@@ -46,4 +46,6 @@ Musím také říci, že politika této restaurace je v plném souladu s mou teo
 
 Zajímalo by mě ale, kolik by takový bufet stál v kterémkoliv městě v Čechách. Téměř všechny suroviny, které jsem na tom bufetu viděl, jsou dnes v Čechách již běžně k dostání. Čínská kuchyně dnes už také není nic, co by naši kuchaři neuměli připravit. Největší problém by asi byl potřebný počet hostů.
 
- [1]: bufet#samoobsluzna_restaurace
+ [1]: /bufet#samoobsluzna_restaurace
+
+
