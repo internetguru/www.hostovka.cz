@@ -15,7 +15,7 @@ Přesto, že o technikách flambování bylo napsáno mnoho knih, tak se ani jed
 
 ## Kdo by měl být flambováním pověřen
 
-Zdá se, že v tomto směru nemají odborníci zcela jasno. Jedni tvrdí, že by flambováním měl být pověřen kuchař. Druzí zastávají názor, že by měl flambovat číšník. Proto se to v některých restauracích řeší, tak že je flambováním pověřen číšník s kuchařskou čepicí. To slouží zároveň pro pobavení hostů.
+Zdá se, že v tomto směru nemají odborníci zcela jasno. Jedni tvrdí, že by flambováním měl být pověřen kuchař. Druzí zastávají názor, že by měl flambovat číšník. Proto se to v některých restauracích řeší tak, že je flambováním pověřen číšník s kuchařskou čepicí. To slouží zároveň pro pobavení hostů.
 
 V mnoha případech to s odborností nemá nic společného. Nicméně tomu někteří lidé říkají [zážitková gastronomie](zazitkova_gastonomie).
 
@@ -35,7 +35,7 @@ Mohu vás ale ubezpečit, že ze mě nemluví ignorance. Jsem vyučený kuchaře
 
 {class="important"}
 
-Pokud obsluhující neví co dělá, tak se flambováním doba od výroby jídla do jeho podání prodlouží místo toho, aby se naopak  zkrátila na minimum. Kvalita jídla se tím ve výsledku většinou horší.
+Pokud obsluhující neví co dělá, tak se flambováním doba od výroby jídla do jeho podání prodlouží místo toho, aby se naopak zkrátila na minimum. Kvalita jídla se tím ve výsledku většinou nezlepší.
 
 Nevýhodou flambování totiž také je, že při větším počtu stolovníků, z nichž si každý objednal jiné flambované jídlo, se servis značně zpomalí. To na kvalitě jídel také moc nepřidá.
 
