@@ -15,6 +15,8 @@ Ve stejném smyslu se používá i výraz _horse shit {xml:lang="en"}_, což je 
 
 Toto je jako obyčejně jen tak pro pobavení, ale v kapitole o přijímacím pohovoru si o tom BS musíme říci něco více. Vsadím se ale, že při státních zkouškách z angličtiny vám otázku co to je BS nikdo nedá.
 
+{id="vyznamy"}
+
 ## Významy a nuance
 
 BS má několik významů s jemnými nuancemi. Ve většině případů výraz poukazuje na zavádějící, nepřesná, vylhaná nebo falešná prohlášení, kterým se také dá říci hovadiny, voloviny, kraviny či srajdy.
@@ -27,6 +29,8 @@ V Česku _bullshitting {xml:lang="en"}_ používají i někteří promotoři, ko
 
 Níže v našem manuálu jsou v jedné kapitole popsány techniky, jak číst žádost o zaměstnání a případné CV. Hlavně ale, jak rozeznat BS od pravdy. V další kapitole manuálu je popis toho, na co se při přijímacím pohovoru musíte zaměřit. A věřte mi, že to nejsou žádné BS.
 
+{id="dulezitost"}
+
 ## Důležitost zakázaných slovíček
 
 Pro dokonalé porozumění každého cizího jazyka musíte znát i význam těch „zakázaných“ slov. V Americe se jim obecně říká _four letter words {xml:lang="en"}_, neboli slova o čtyřech písmenech. Některá z nich mají pět i více písmen a některá, jako například BS, se dají vyjádřit i zkratkou.
@@ -36,5 +40,4 @@ Již jsem se někde zmínil, že přestože jsem měl nějakou _Kinderstube {xml
 Nicméně jsem si někdy připadal velice trapně, když jsem použil nějaký výraz nevhodně, nebo když jsem některým _four letter words {xml:lang="en"}_ nerozuměl. Proto hned druhá kniha, kterou jse si v Americe koupil, byl slovník _Four letter words {xml:lang="en"}_. Tam byla slova, která sice v žádném školním slovníku nenajdete, ale bez kterých se neobejdete.
 
  [1]: chucpa
-
 
