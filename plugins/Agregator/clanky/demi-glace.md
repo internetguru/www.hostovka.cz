@@ -13,6 +13,8 @@ Někteří výrobci demi-glace odrazují lidi od toho, aby si ji dělali od pík
 
 Demi-glace vyžaduje jednak španělskou omáčku, která sama o sobě potřebuje spoustu času, a potom hodně hnědého vývaru. Ten také neuděláte jen tak raz dva. Chce to ale hodně trpělivosti, kterou já bohužel nemám. Nehledě na to, že jsem měl většinou tak dobrý plat, že by ta omáčka stála tolik, jako kdyby byla ze zlata.
 
+{id="priprava"}
+
 ## Příprava omáčky demi-glace
 
 Pokud se nedáte odradit dobou přípravy, tak vám přípravu omáčky výjimečně popíši.
@@ -44,6 +46,8 @@ Postup
   5. Omáčka by měla mít asi stejnou hustotu jako smetana.
   6. Dochutíme solí a pepřem.
 
+{id="zaklad\_omacky"}
+
 ## Základ omáčky
 
 _Mirepoix {xml:lang="fr"}_ je francouzský výraz, kterým se označuje jednak velikost kousků nakrájené zeleniny, ale i základ pro omáčky případně různé pečeně.
@@ -55,3 +59,4 @@ Zelenina nemusí být loupaná, ale musí být dobře očištěná a opraná. Po
 Na horkém přepuštěném másle, případně oleji, orestujeme zbytky šunky a slaniny, přidáme zeleninu a koření a restujeme na požadovanou barvu. Čím tmavší _mirepoix {xml:lanf="fr"}_, tím tmavší bude váš pokrm či omáčka.
 
 _Mirepoix {xml:lanf="fr"}_ určený k pozdějšímu použití můžeme rozdělit na menší dávky a zmrazit do dalšího použití.
+

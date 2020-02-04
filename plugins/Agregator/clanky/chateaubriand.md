@@ -24,6 +24,8 @@ Chtěl bych to uvést na pravou míru tím, že vám prozradím, že chateaubria
 
 Recept na chateaubriand vám na těchto stránkách dát nemohu, ale jako studentům Hostovky vám musím alespoň napsat, jak by se měl připravovat. To, abyste si mohli udělat obrázek, zda dostáváte, co vám patří, jestliže si ho v některé restauraci objednáte.
 
+{id="priprava\_steaku"}
+
 ## Příprava steaku
 
 Steak se připravuje ze střední části pravé svíčkové anglicky zvané _beef tenderloin {xml:lang="en"}_ o váze nejméně 400 gramů (dvojité filé). Tím pádem je jídlo poměrně drahé. Zruční kuchaři jsou schopni z celé svíčkové udělat dvě nebo i více porcí. Ještě větší umění je však tyto steaky prodat.
@@ -43,6 +45,8 @@ Osolený a opepřený steak se na pánvi nebo pod grilem prudce a dozlatova ope�
 
 Bohužel se správnou atraktivní prezentací pokrmu se dnes nesetkáme ani na některých hotelových školách. Tam se to mnohdy ještě vyučuje, jako by si mysleli, že těchto pokrmů se u nás prodává jako svíčkové na smetaně.
 
+{id="gastronomicky\_zazitek"}
+
 ## Gastronomický zážitek
 
 Hlavním gastronomickým zážitkem je samotný chateaubriand. Podává se zásadně na horké míse v celku a zpravidla na soklu z bílého chleba a obložený nejméně třemi druhy v páře vařené barevné zeleniny jako je květák, karotka a hrášek, zelené fazolky, brokolice, bruselské kapustičky apod.
@@ -56,6 +60,8 @@ Některé kuchařské knihy sice uvádějí receptury na _duchesse {xml:lang="fr
 Důležité například jsou již samotné ty brambory, které by měly být moučné a správně uvařené. Ale ještě důležitější je poměr másla a žloutků. Pokud toho másla je málo, tak hmota při opalování nehnědne a pokud je ho moc tak je těžká a po nastříkání neudrží formu.
 
 Totéž platí o žloutcích, které jednak dávají hmotě chuť a pomáhají ji držet pohromadě. Ale také se to nesmí přehánět.
+
+{id="podavani\_pokrmu"}
 
 ## Podávání pokrmu
 
@@ -80,3 +86,5 @@ Prostě kolonku s cenami zakryjte rukou a objednejte si víno takové, které ta
  [1]: /files/thumbs/clanky/chateaubriand/2-7-06-1.jpg
  [2]: /files/preview/clanky/chateaubriand/2-7-06-2.jpg
  [3]: demi-glace
+
+
