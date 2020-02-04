@@ -9,7 +9,7 @@
 
 _Confit {xml:lang="fr"}_ je francouzský odborný kulinářský výraz pro označení potravin, které byly ponořeny do nějaké hmoty jednak pro chuť, ale i a za účelem konzervace. Takto upravená potravina může být uskladněná po několik týdnů v chladu.
 
-Tato technika je jedním z nejstarších konzervačních způsobů, a je známá pod tímto názvem obzvláště ve Francii. V Česku je tato technika známá jako zapékání potravin v sádle a je používaná od nepaměti.
+Tato technika je jedním z nejstarších konzervačních způsobů a je známá pod tímto názvem obzvláště ve Francii. V Česku je tato technika známá jako zapékání potravin v sádle a je používaná od nepaměti.
 
 Výraz _confit {xml:lang="fr"}_ pochází z francouzského slovesa _confire {xml:lang="fr"}_ (konzervování), které má svůj původ v latině. Ve středověku byl tento výraz používán hlavně pro ovoce, které bylo vařené a konzervované v cukru.
 
