@@ -5,17 +5,17 @@
 
 # Výraz à la na českých lístcích
 
-{kw="gastronomie"}
+{kw="gastronomie, česká republika, Francie, jídla a jídelní lístky, historka"}
 
-Česká kuchyně se od nepaměti vzhlížela ve francouzské kuchyni, a proto není divu, že na českých jídelních lístcích se stále setkáváme s francouzskými výrazy. Při tvorbě názvů jídel je všechno povolené, co není vyloženě zakázané. Nicméně při tvorbě jídelních lístků (pokud se nejedná o francouzskou restauraci nebo francouzskou verzi lístku), se snažte níže uvedeným francouzským výrazům vyhnout.
+Česká kuchyně se od nepaměti vzhlížela ve Francii, a proto není divu, že se na českých jídelních lístcích stále setkáváme s francouzskými výrazy. Při tvorbě [názvů jídel](nazvy_jidel) je všechno povolené, co není vyloženě zakázané. Nicméně při tvorbě [jídelních lístků](jidelni_listek) (pokud se nejedná o francouzskou restauraci nebo francouzskou verzi lístku), se snažte níže uvedeným francouzským výrazům vyhnout.
 
-Česká republika (a obzvláště Praha) se může pochlubit téměř neuvěřitelným počtem etnických restaurací. Většina těchto restaurací se vyznačuje charakteristickými etnickými jídly, jejichž názvy tyto restaurace jen velmi zřídka překládají do češtiny. V lepším případě své speciality popíší, aby si hosté mohli udělat představu o tom, co ty názvy vlastně znamenají. Ale takových restaurací moc není.
+Česká republika (a obzvláště Praha) se může pochlubit téměř neuvěřitelným počtem etnických restaurací. Většina těchto restaurací se vyznačuje charakteristickými etnickými jídly, jejichž názvy tyto restaurace jen velmi zřídka překládají do češtiny. V lepším případě své speciality popíší, aby si hosté mohli udělat představu, co názvy vlastně znamenají. Ale takových restaurací moc není.
 
 {class="example"}
 
-Nikde jinde na světe se nesetkáte s tolika neznámými názvy jídel jako v České republice. Jedná se namátkou o Stroganov, Wellington, Clam Chowder, Welsh rarebit, Quiche, Bouillabaisse, Raclette, Šašlik, Shish-kebab, Boršč, Šoulet nebo Kashulet, Ragoût, Curry, apod. Na mezinárodních lístcích se sice vyskytují, nicméně se zdá, že čeští gastronomové v používání cizích gastronomických výrazů mají primát.
+Nikde jinde na světe se nesetkáte s tolika neznámými názvy jídel jako v České republice. Jedná se namátkou o [Stroganov](stroganov), Wellington, [Clam Chowder](chowder#manhattan_clam_chowder), Welsh rarebit, [Quiche](brunch#bran_formou_table_dht), [Bouillabaisse](bujabeza), Raclette, Šašlik, Shish-kebab, Boršč, Šoulet nebo Kashulet, [Ragoût](sotyrovani#saute), Curry, apod. Na mezinárodních lístcích se sice vyskytují, nicméně se zdá, že čeští gastronomové v používání cizích [gastronomických](gastronomie) výrazů mají primát.
 
-Nejsou to jen názvy jídel, ale i jiné francouzské gastronomické výrazy, ve kterých si čeští gastronomové libují. Nejvíce zneužívaný, jak se zdá, je výraz „à la“, což znamená na způsob, nebo podle.
+Nejsou to jen názvy jídel, ale i jiné francouzské gastronomické výrazy, ve kterých si čeští [gastronomové](gastronomove) libují. Nejvíce zneužívaný, jak se zdá, je výraz „à la“, což znamená na způsob, nebo podle.
 
 ## Přílohy na lístcích s jídly nebo samostatně
 
@@ -31,7 +31,7 @@ Označení _à la chef {xml:lang="fr"}_ znamená podle šéfa kuchyně. Na jíde
 
 Označení _à la maison {xml:lang="fr"}_ či také _de la maison {xml:lang="fr"}_, nebo pouze _maison {xml:lang="fr"}_ (jako například _pâté maison {xml:lang="en"}_) znamená na domácí způsob nebo podle domu. Domem se rozumí kuchyně dané restaurace. Německý ekvivalent je _nach Hausart {xml:lang="de"}_, španělsky _del meson {xml:lang="es"}_ a v angličtině nejčastěji _home made {xml:lang="en"}_.
 
-Musím vás ale upozornit na to, že to nemá nic společného s označením domácí kuchyně, anglicky zvané _Home cooking {xml:lang="en"}_ nebo ve francouzštině _cuisine bourgeoise {xml:lang="fr"}_. Domácí kuchyně je nejvíce zneužívané označení typu kuchyně. Ve většině případů není pravdivé, což je dobře. V restauraci přeci nechceme, aby nám někdo připravoval jídlo tak, jak se to dělá doma. V restauraci očekáváme o něco větší profesionalitu.
+Musím vás ale upozornit na to, že to nemá nic společného s označením domácí kuchyně, anglicky zvané _Home cooking {xml:lang="en"}_ nebo ve francouzštině _cuisine bourgeoise {xml:lang="fr"}_. Domácí kuchyně je nejvíce zneužívané označení typu kuchyně. Ve většině případů není toto označení pravdivé, což je dobře. V restauraci přeci nechceme, aby nám někdo připravoval jídlo tak, jak se to dělá doma. V restauraci očekáváme o něco větší profesionalitu.
 
 ## Moderně nebo jako od maminky
 
@@ -41,17 +41,17 @@ Podle mě byla samozřejmě všechna jídla ta nejlepší, protože bych je jina
 
 Host se zděsil se slovy, že jeho maminka byla ta nejhorší kuchařka na světě. Z toho plyne poučení, že i když je naše kuchyně označena jako domácí, jídla musí být připravena profesionálně a eventuálně označena jako _À la maison {xml:lang="fr"}_.
 
-Závin nebo štrúdl _à la mode {xml:lang="fr"}_, na amerických lístcích velmi často znamená, že se tento jablečný závin, podává teplý s kopečkem zmrzliny navrchu. _À la mode {xml:lang="fr"}_ se ale používá i na jiných jídelních lístcích, ale málokdy to vyjadřuje současnou módu nebo trend.
+Závin nebo štrúdl _à la mode {xml:lang="fr"}_, na amerických lístcích velmi často znamená, že se podává teplý s kopečkem zmrzliny navrchu. _À la mode {xml:lang="fr"}_ se používá i na jiných jídelních lístcích, ale málokdy to vyjadřuje současnou módu nebo trend.
 
 ## Jídla na objednávku
 
-Označení jídla _à la minute {xml:lang="fr"}_ znamená na objednávku. Německy _auf Bestellung {xml:lang="de"}_, anglicky _to order {xml:lang="en"}_, nebo _made to order {xml:lang="en"}_. Od výrazu _à la minute {xml:lang="fr"}_ byly odvozeny u nás tak dobře známé minutky, které jsou podle mě rovněž zprofanované.
+Označení jídla _à la minute {xml:lang="fr"}_ znamená na objednávku. Německy _auf Bestellung {xml:lang="de"}_, anglicky _to order {xml:lang="en"}_, nebo _made to order {xml:lang="en"}_. Od výrazu _à la minute {xml:lang="fr"}_ byly odvozeny u nás tak dobře známé [minutky](hotovky_a_minutky), které jsou podle mě rovněž zprofanované.
 
 {class="example"}
 
 Jako studenti Hostovky byste ale měli vědět, že v zahraničí se ale s těmito výrazy na jídelních lístcích nesetkáte tolik jako v Česku. Technicky vzato si totiž každé jídlo musíte objednat.
 
-Samotné označení _à la minute {xml:lang="fr"}_ je celkem nepřesné. Jejich příprava trvá někdy až půl hodiny nebo déle. Obzvláště pak, když si společnost šesti lidí objedná minutky, a navíc každý jinou. Naopak existují také techniky přípravy jídel, které trvají jen několik vteřin. Příkladem je technika přípravy některých čínských jídel, které se anglicky říká _stir frying {xml:lang="en"}_.
+Samotné označení _à la minute {xml:lang="fr"}_ je celkem nepřesné. Jejich příprava trvá někdy až půl hodiny nebo déle. Obzvláště pak, když si společnost šesti lidí objedná minutky, a navíc každý jinou. Naopak existují techniky přípravy jídel, které trvají jen několik vteřin. Příkladem je technika přípravy některých čínských jídel, které se anglicky říká _stir frying {xml:lang="en"}_.
 
 Nakonec i většina jídel označených jako _fast food {xml:lang="en"}_ je připravována tímto způsobem. Většinou se jedná o konečnou tepelnou přípravu, které ale předchází mnohdy velice zdlouhavá úprava potravin a [příprava takzvaných polotvarů][2].
 
@@ -61,7 +61,7 @@ Označení minutka je v České republice [úplné zaklínadlo][3] (v Americe se
 
 Kuchaři připravující jídla tímto způsobem byli v Česku označováni jako „minutkáři“. Je však ironické, že v mnoha případech byli lépe placeni než kuchaři připravující takzvané hotovky, které vyžadují daleko větší odbornost. Dnes právě díky restauracím zvaným _fast food {xml:lang="en"}_ se ukázalo, že většinu těchto „minutek“ může po krátkém zaškolení připravovat kdekdo, a to aniž by byl vyučen.
 
-Pro mě byla popularita minutek něco nepochopitelného až do doby, než jsem přišel na to, že minutky jsou oblíbeny jen z nedůvěry k hotovkám. U těch totiž není někdy jasné, z čeho byly připravené. A už vůbec se nedá zjistit, zda jsou čerstvé.
+Pro mě byla popularita minutek něco nepochopitelného, než jsem přišel na to, že jsou oblíbeny jen z nedůvěry k hotovkám. U těch totiž není někdy jasné, z čeho byly připravené. A už vůbec se nedá zjistit, zda jsou čerstvé.
 
 Dlouho jsem také nevěděl, proč každá minutka musí mít na talíři takzvanou [oblohu][4]. A dosud nechápu, proč se minutky v Čechách podávají na studených talířích. Zdá se ale, že to většině hostů nevadí, neboť si na to prostě nestěžují.
 
