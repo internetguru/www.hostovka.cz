@@ -7,7 +7,7 @@
 
 {kw="kdo-kdy-kde, Francie, Itálie"}
 
-Základy západní gastronomie byly položeny již v době Renesance. Sňatek čtrnáctileté Kateřiny Medicejské s budoucím francouzským králem Jindřichem II. byl příležitostí vlivu sofistikované italské kuchyně na kuchyni francouzskou.
+Základy západní gastronomie byly položeny již v době renesance. Sňatek čtrnáctileté Kateřiny Medicejské s budoucím francouzským králem Jindřichem II. byl příležitostí vlivu sofistikované italské kuchyně na kuchyni francouzskou.
 
 Kateřina s sebou (mimo dobrých mravů) přinesla také mnohé lahůdky, které byly v renesanční Itálii běžné. Jednalo se například o brzlík, lanýže, srdíčka [artyčoků][1], drůbeží knedlíčky, zmrzlinu a perníčky _Catherine de Medici {xml:lang="it"}_.
 
