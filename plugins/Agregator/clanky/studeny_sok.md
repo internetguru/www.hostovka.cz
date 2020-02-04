@@ -13,5 +13,5 @@ Studený šok, je způsob rychlého zchlazení vařených nebo blanšírovaných
 
 Zchlazení studeným šokem se také používá u některých náchylných potravin, jako je například zelenina nebo těstoviny. Potraviny se zchladí těsně před uložením do lednice.
 
-Postupujeme tak, že surovinu, jako jsou například vařené krevetky, propláchneme rychle studenou vodou a vhodíme je do studené vody s ledem nebo ledovou tříští. Scezenou potravinu dáme do vhodné nádoby, opatříme datumem a uložíme do lednici.
+Postupujeme tak, že surovinu, jako jsou například vařené krevetky, propláchneme rychle studenou vodou a vhodíme je do studené vody s ledem nebo ledovou tříští. Scezenou potravinu dáme do vhodné nádoby, opatříme datumem a uložíme do lednice.
 
