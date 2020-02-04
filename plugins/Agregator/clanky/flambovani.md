@@ -35,7 +35,7 @@ Mohu vás ale ubezpečit, že ze mě nemluví ignorance. Jsem vyučený kuchaře
 
 {class="important"}
 
-Pokud obsluhující neví co dělá, tak se flambováním doba od výroby jídla do jeho podání prodlouží místo toho, aby se naopak zkrátila na minimum. Kvalita jídla se tím ve výsledku většinou nezlepší.
+Pokud obsluhující neví co dělá, tak se flambováním doba od výroby jídla do jeho podání prodlouží místo toho, aby se naopak zkrátila na minimum. Kvalita jídla se tím ve výsledku většinou zhorší.
 
 Nevýhodou flambování totiž také je, že při větším počtu stolovníků, z nichž si každý objednal jiné flambované jídlo, se servis značně zpomalí. To na kvalitě jídel také moc nepřidá.
 
