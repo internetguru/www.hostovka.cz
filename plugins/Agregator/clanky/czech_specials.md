@@ -13,7 +13,7 @@ Jídel k tomu máme více než dost. Jenom já jsem jich od různých autorů uv
 
 ## Problém překládání jídel do cizích řečí
 
-Viděl jsem překlady českých specialit do angličtiny, a to je tedy počteníčko. Nebudu vám to tady komentovat, ale zmíním se jen o našem národním jídle, svíčkové. Ta je světu prezentována jako _Sirloin in Cream sauce {xml:lang="en"}_.
+Viděl jsem překlady českých specialit do angličtiny, a to je tedy počteníčko. Nebudu vám to tady komentovat, ale zmíním se jen o našem národním jídle, svíčkové. Ta je světu prezentována jako _sirloin in cream sauce {xml:lang="en"}_.
 
 Psaní receptů, obzvláště těch profesionálních, není žádná legrace. V takovém případě se totiž každá chyba a blbost multiplikuje. Když ale píšete recepty pro domácnost, nebo dokonce pro cizince, tak to je o něčem jiném. Tam jde hlavně o názvy jídel či receptů.
 
@@ -27,7 +27,7 @@ Dokonce i Rusové mají svá jídla jako například Butěrbrody, Schnitzel, Str
 
 ## Překlady českých jídel
 
-Jenomže Češi, papežtější než papež, nejsou schopni na mezinárodních lístcích prosadit alespoň jedno jídlo, o kterém si myslí, že je nejlepší na světě, a to je svíčková. To, co na  oficiálních anglických stránkách uvádí jako svíčkovou pod názvem _Sirloin in Cream sauce {xml:lang="en"}_, je výsměch české gastronomii. Podle mě je to i podceňování gastronomických znalostí všech anglicky mluvících zemí. Podle čeho je soudí? Podle sebe?
+Jenomže Češi, papežtější než papež, nejsou schopni na mezinárodních lístcích prosadit alespoň jedno jídlo, o kterém si myslí, že je nejlepší na světě, a to je svíčková. To, co na  oficiálních anglických stránkách uvádí jako svíčkovou pod názvem _sirloin in cream sauce {xml:lang="en"}_, je výsměch české gastronomii. Podle mě to je i podceňování gastronomických znalostí všech anglicky mluvících zemí. Podle čeho je soudí? Podle sebe?
 
 Svíčková není _sirlion {xml:lang="en"}_. _Sirloin {xml:lang="en"}_ je roštěnec, ze kterého se krájí steaky nebo se peče v celku _(roastbeef) {xml:lang="en"}_. Nikdy se ale nedusí na nějakém základu a nepodává se v krémové omáčce. Svíčková se kdysi připravovala z pravé svíčkové, odtud to jméno.
 
