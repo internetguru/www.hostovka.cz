@@ -79,3 +79,5 @@ Dlouho jsem také nevěděl, proč každá minutka musí mít na talíři takzva
  [2]: polotovary
  [3]: modni_pojmy
  [4]: obloha
+
+
