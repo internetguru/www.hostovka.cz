@@ -23,13 +23,13 @@ Následně otevřel jídelnu _The Pie House {xml:lang="en"}_ v budově muzea. V 
 
 Ve věku 31 let byl Statler připraven pro další odvážný krok a přestěhoval se do Buffala ve státě _New York {xml:lang="en"}_. V jedné kancelářské budově tam provozoval jídelnu a restauraci, kde prodával jídla typu _[all you can eat][2] {xml:lang="en"}_ za 25 centů. 
 
-Později, když u příležitosti světové výstavy v _St. Louis {xml:lang="en"}_ vedl provizorní 2100pokojový hotel zjistil, že ho číšníci okrádají. Rozhodl se je nahradit atraktivně oblečenými servírkami. Tehdy to byla velká kuriozita a servírky přilákaly mnoho zákazníků. Tím si Statler vydělal tolik peněz, že si mohl dovolit otevřít svůj vlastní hotel.
+Později, když u příležitosti světové výstavy v _St. Louis {xml:lang="en"}_ vedl provizorní 2100pokojový hotel, zjistil, že ho číšníci okrádají. Rozhodl se je nahradit atraktivně oblečenými servírkami. Tehdy to byla velká kuriozita a servírky přilákaly mnoho zákazníků. Tím si Statler vydělal tolik peněz, že si mohl dovolit otevřít svůj vlastní hotel.
 
 {xml:lang="en" id="buffalo\_statler\_hotel"}
 
 ## Buffalo Statler Hotel
 
-V roce 1908 Statler otevřel _Buffalo Statler Hotel {xml:lang="en"}_ o kapacitě 300 pokojů s vlastní koupelno. Přez noc se stal slavným jeho sloganem _a room and a bath for a dollar and half {xml:lang="en"}_ neboli _pokoj s koupelnou za půldruhého dolaru_.
+V roce 1908 Statler otevřel _Buffalo Statler Hotel {xml:lang="en"}_ o kapacitě 300 pokojů s vlastní koupelnou. Přez noc se stal slavným jeho sloganem _a room and a bath for a dollar and half {xml:lang="en"}_ neboli _pokoj s koupelnou za půldruhého dolaru_.
 
 Ukázalo se, že Statler nebyl jen vynikajícím obchodníkem a odborníkem na markteting, ale že byl také velkým inovátorem. Stattler byl první, kdo dal do všech pokojů telefon, rádio a ranní noviny zdarma. V jeho koupelnách, kde měl zvláštní přívod ledové vody, byla velká zrcadla po celé délce kabinetu s umyvadlem. V pokojích měl vestavěné skříně s dostatečným počtem ramínek.
 
