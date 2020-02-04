@@ -33,7 +33,7 @@ Na celou věc jsem po čase zapomněl. Jednou za mnou ale do Číny přišli tř
 
 Hned po válce jsem byl ve Francii, odkud jsem se blbec vrátil před únorem 1948. Byl jsem v podezření, že jsem byl ve Francii vyškolen jako špión, a tak mě dali k [PTP][2] (pomocný technický prapor). Chodil jsem z jedné prověrky do druhé, ale nic mi nedokázali. Z PTP mě sice pustili, ale zřejmě na mě zase něco hledali.
 
-Nejdříve si mě pozvali do Ruzyně, kde mě vyslýchali nějací jiní odborníci a potom na Hradčany. Tam přede mi položili takovou žlutou moučku a cedulky s různými kódovanými zprávami a tajnými čísly. Chtěli, abych jim ty kódy vysvětlil.
+Nejdříve si mě pozvali do Ruzyně, kde mě vyslýchali nějací jiní odborníci a potom na Hradčany. Tam přede mě položili takovou žlutou moučku a cedulky s různými kódovanými zprávami a tajnými čísly. Chtěli, abych jim ty kódy vysvětlil.
 
 Mohu vám říci, že jsem se už viděl na Sibiři, protože se nedali přesvědčit, že nejsem americký špión. Nakonec se mě ale zeptali, kdo je to ten Saša v Americe. V tu chvíli mi došlo, že jsou to koláčky štěstí, které mi Saša popisoval. Oni je ale ti volové rozmlátili na moučku, a tak mě to hned nenapadlo. Všechno jsem jim pak vysvětlil, a když pak moučku podrobili nejspíše chemickému rozboru a nic nenašli, tak mi uvěřili.
 
