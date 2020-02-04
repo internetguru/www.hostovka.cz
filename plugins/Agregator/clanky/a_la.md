@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=317.html" data-image="/files/preview/clanky/ala/general.jpg" data-type="article"}
 
-{ctime="2008-05-07" mtime="2020-01-05" id="ala" author="Michael Klíma" short="À la"}
+{ctime="2008-05-07" mtime="2020-01-05" id="a_la" author="Michael Klíma" short="À la"}
 
 # Výraz à la na českých lístcích
 
@@ -61,7 +61,7 @@ Označení minutka je v České republice [úplné zaklínadlo][3] (v Americe se
 
 Kuchaři připravující jídla tímto způsobem byli v Česku označováni jako „minutkáři“. Je však ironické, že v mnoha případech byli lépe placeni než kuchaři připravující takzvané hotovky, které vyžadují daleko větší odbornost. Dnes právě díky restauracím zvaným _fast food {xml:lang="en"}_ se ukázalo, že většinu těchto „minutek“ může po krátkém zaškolení připravovat kdekdo, a to aniž by byl vyučen.
 
-Pro mě byla popularita minutek něco nepochopitelného, než jsem přišel na to, že jsou oblíbeny jen z nedůvěry k hotovkám. U těch totiž není někdy jasné, z čeho byly připravené. A už vůbec se nedá zjistit, zda jsou čerstvé.
+Pro mě byla popularita minutek něco nepochopitelného, než jsem přišel na to, že jsou oblíbené jen z nedůvěry k hotovkám. U těch totiž není někdy jasné, z čeho byly připravené. A už vůbec se nedá zjistit, zda jsou čerstvé.
 
 Dlouho jsem také nevěděl, proč každá minutka musí mít na talíři takzvanou [oblohu][4]. A dosud nechápu, proč se minutky v Čechách podávají na studených talířích. Zdá se ale, že to většině hostů nevadí, neboť si na to prostě nestěžují.
 
