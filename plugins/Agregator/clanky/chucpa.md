@@ -11,11 +11,15 @@ Výraz chucpa má řadu významů, a to jak negativních, tak i pozitivních. Ch
 
 Byla by to ode mě chucpa, kdybych řekl, že znám všechny významy tohoto slova. Nakonec je chucpa i to, když se vám to já jako gój snažím vysvětlit. Zejména je ode mě hrozná chucpa, že tento výraz používám, aniž bych si uvědomoval, že by mu někdo nemusel rozumět.
 
+{id="jidis"}
+
 ## Jidiš výraz s jemnými nuancemi
 
 Slovo chucpa není židovské ani hebrejské nebo sionistické, jak by se mohlo zdát. Je to jidiš výraz, který má nekonečnou řadu významů, a to s takovými jemnými nuancemi, že se stane, že ho i někteří židé použijí nevhodně.
 
 Já žid nejsem, ale mám s židy hodně společného. Ne tedy ten Terezín. Tam jsem se sice narodil, ale když z něj Němci udělali gheto, tak nás vystěhovali. Šoupli nás také do gheta, a sice do toho bývalého pražského gheta na Starém Městě, což tedy byla také chucpa.
+
+{id="pouzivani"}
 
 ## Používání slova chucpa
 
