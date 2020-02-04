@@ -5,11 +5,11 @@
 
 # Hořký likér absint
 
-{kw="nápoje"}
+{kw="nápoje, koktejly"}
 
 Absint je zelený likér, k jehož přípravě se mimo jiné používá nahořklá dřevnatá rostlina [Artemisia absinthium][1] anglicky zvaná _wormwood {xml:lang="en"}_. Pro svou intenzivní anýzovou příchuť si absint vysloužil francouzský název _anisette {xml:lang="fr"}_.
 
-Absint se obyčejně ředil tak, že se kapal do sklenice přes cukr v perforované lžičce, přes který se pak přelévala voda, čímž se voda zakalila na barvu řídkého mléka. Proto v Novém Orleansu dostal absint jména jako _Milky Way {xml:lang="en"}_, _Geen Opal {xml:lang="en"}_ či _Herbabsaint {xml:lang="en"}_. Ve Francii je absint také znám pod názvy _pastis {xml:lang="fr"}_ a _anisette {xml:lang="fr"}_.
+Absint se obyčejně ředil tak, že se kapal do sklenice přes cukr v perforované lžičce. Přes ten se pak přelévala voda, čímž se zakalila na barvu řídkého mléka. Proto v Novém Orleansu dostal absint jména jako _Milky Way {xml:lang="en"}_, _Geen Opal {xml:lang="en"}_ či _Herbabsaint {xml:lang="en"}_. Ve Francii je absint také znám pod názvy _pastis {xml:lang="fr"}_ a _anisette {xml:lang="fr"}_.
 
 Absint byl vynalezen v Couvet ve Švýcarech Francouzem Dr. Ordinairem. Ten v roce 1797 prodal svůj recept panu Pernodovi, jehož jméno se stalo pro tento likér synonymem po celém světě. Nicméně v Palestině bylo již před tisíci lety známo hořké víno (absinthiatum) připravované z výše zmíněné rostliny, které se vlastně dá považovat za prvý míšený nápoj.
 
@@ -17,9 +17,9 @@ Absint byl vynalezen v Couvet ve Švýcarech Francouzem Dr. Ordinairem. Ten v ro
 
 Absintu byly přičítány afrodiziakální účinky, čímž se stal se velice populární hlavně ve Francii a v Novém Orleansu v Carolině ve Spojených Státech Amerických.
 
-V Americe se absint pro zjemnění chutě a vůně podává _on the rocks {xml:lang="en"}_, což ve volném překladu znamená „na útesech ledu“. _Rock {xml:lang="en"}_ se v tomto případě totiž nepřekládá jako skála. Souvisí s termínem _rock and roll {xml:lang="en"}_, kde je odvozeno od _rocking {xml:lang="en"}_, neboli od kolébání nebo houpání.
+V Americe se absint pro zjemnění chuti a vůně podává _on the rocks {xml:lang="en"}_, což ve volném překladu znamená „na útesech ledu“. _Rock {xml:lang="en"}_ se v tomto případě totiž nepřekládá jako skála. Souvisí s termínem _rock and roll {xml:lang="en"}_, kde je odvozeno od _rocking {xml:lang="en"}_, neboli od kolébání nebo houpání.
 
-V České republice se většinou prodává absint firmy Pernod. Nedá se ale říci, že by u nás byl absint nějakým hitem. Lidé, kteří ho neznají, jeho chuť přirovnávají mazání na bolavé nohy. A ti, kteří ho znají, si ho dávají velmi zřídka.
+V České republice se většinou prodává absint firmy Pernod. Nedá se ale říci, že by u nás byl absint nějakým hitem. Lidé, kteří ho neznají, jeho chuť přirovnávají k mazání na bolavé nohy. A ti, kteří ho znají, si ho dávají velmi zřídka.
 
 ## Zákaz absintu
 
@@ -30,3 +30,4 @@ Na přelomu století byly však u absintu zjištěny účinky škodlivé lidské
 Ve Spojených státech amerických přišel zákaz prodeje absintu v platnost také v roce 1910. Zde byl absint nahrazen likéry s anýzovou příchutí jako je Ojen vyráběný ve Španělsku, a v roce 1934 likérem Herbsaint, který vyráběl v Novém Orleansu lékárník J. Marion Legendre.
 
  [1]: https://en.wikipedia.org/wiki/Artemisia_absinthium
+
