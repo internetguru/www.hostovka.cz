@@ -7,7 +7,7 @@
 
 Demi-glace je hnědá omáčka připravená redukcí španělské omáčky, jejíž příprava od píky je dnes zcela neekonomická. Je běžně k dostání v prášku nebo jako pasta. Klasická demi-glace se vyznačuje hlavně tím, že její příprava je nepřestavitelně dlouhá. Takže mi vůbec nejde do hlavy, jak to ten Escoffier všechno stíhal.
 
-Někteří výrobci demi-glace odrazují lidi od toho, aby si dělali tu demi-glace od píky (anglicky _from the scratch {xml:lang="en"}_). Píší, že by jim to mohlo trvat až 25 hodin. Takže ta jejich demi-glace, která je dělána podle standardizovaného Escoffierova receptu z jeho knížky Le Guide Culinaire, je mnohem ekonomičtější protože ji máte hotovou raz dva.
+Někteří výrobci demi-glace odrazují lidi od toho, aby si dělali tu demi-glace od píky (anglicky _from the scratch {xml:lang="en"}_). Píší, že by jim to mohlo trvat až 25 hodin. Takže ta jejich demi-glace, která je dělána podle standardizovaného Escoffierova receptu z jeho knížky Le Guide Culinaire, je mnohem ekonomičtější, protože ji máte hotovou raz dva.
 
 Demi-glace vyžaduje jednak španělskou omáčku, která sama o sobě potřebuje spoustu času, a potom hodně hnědého vývaru. Ten také neuděláte jen tak raz dva. Chce to ale hodně trpělivosti, kterou já bohužel nemám. Nehledě na to, že jsem měl většinou tak dobrý plat, že by ta omáčka stála tolik, jako kdyby byla ze zlata.
 
