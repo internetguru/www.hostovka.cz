@@ -7,22 +7,22 @@
 
 {kw="jídla a jídelní lístky"}
 
-_Châteaubriand {xml:lang="fr"}_ [vyslov _šatobriján_] byl francouzský státník a spisovatel, jehož nejznámější díla jsou _Memoires d'outre-tombe {xml:lang="fr"}_ (Paměti ze záhrobí), _Atala_ a _Génie du christianisme {xml:lang="fr"}_ (Duch křesťanství). Je po něm pojmenováno několik omáček a pokrmů, z nichž nejznámější je řez ze svíčkové o váze 400 až 500 gramů zvaný chateaubriandův steak nebo také jen _chateaubriand_.
+Châteaubriand [vyslov _šatobriján_] byl francouzský státník a spisovatel, jehož nejznámější díla jsou _Memoires d'outre-tombe {xml:lang="fr"}_ (Paměti ze záhrobí), _Atala_ a _Génie du christianisme {xml:lang="fr"}_ (Duch křesťanství). Je po něm pojmenováno několik omáček a pokrmů, z nichž nejznámější je řez ze svíčkové o váze 400 až 500 gramů zvaný chateaubriandův steak nebo také jen _chateaubriand_.
 
 {class="figure"}
 
 ![Châteaubriand, François René][1] 
 :   Châteaubriand, François René, Vicompte de (1768-1848)
 
-Některé české gastronomické slovníky jméno _Châteaubriand {xml:lang="fr"}_ (s velkým začátečním písmenem) nezmiňují vůbec a _chateaubriand {xml:lang="fr"}_ (psáno malým začátečním písmenem) popisují jako dvojitý biftek. V Encyklopedickém slovníku gastronomie od Jiřího Černého se _chateaubriand {xml:lang="fr"}_ dokonce popisuje jako „plátek z hovězí svíčkové silný asi 3 cm, grilovaný se zámeckými nebo souflé brambory a omáčkou bearnaise“, což je úplný nesmysl.
+Některé české gastronomické slovníky jméno Châteaubriand (s velkým začátečním písmenem) nezmiňují vůbec a chateaubriand (psáno malým začátečním písmenem) popisují jako dvojitý biftek. V Encyklopedickém slovníku gastronomie od Jiřího Černého se chateaubriand dokonce popisuje jako „plátek z hovězí svíčkové silný asi 3 cm, grilovaný se zámeckými nebo souflé brambory a omáčkou bearnaise“, což je úplný nesmysl.
 
-Když se to tak vezme, tak nakonec o tolik nejde. Restaurací, které _chateaubriand {xml:lang="fr"}_ dnes podávají, je velice málo. A těch, které ho podávají _comme il faut {xml:lang="fr"}_, je ještě méně.
+Když se to tak vezme, tak nakonec o tolik nejde. Restaurací, které chateaubriand dnes podávají, je velice málo. A těch, které ho podávají _comme il faut {xml:lang="fr"}_, je ještě méně.
 
-Horší je, že na základě špatných nebo nedostačujících informací dělá každá restaurace _chateaubriand {xml:lang="fr"}_ podle svých představ, a ty jsou podle mě spíše _zum abgewöhnen {xml:lang="de"}_. Neboli že když si takový _chateaubriand {xml:lang="fr"}_ někdo dá, tak ho ani nenapadne si ho ještě někdy objednat.
+Horší je, že na základě špatných nebo nedostačujících informací dělá každá restaurace chateaubriand podle svých představ, a ty jsou podle mě spíše _zum abgewöhnen {xml:lang="de"}_. Neboli že když si takový chateaubriand někdo dá, tak ho ani nenapadne si ho ještě někdy objednat.
 
-Chtěl bych to uvést na pravou míru tím, že vám prozradím, že _chateaubriand {xml:lang="fr"}_ není přímo steak. Pojem _chateaubriand {xml:lang="fr"}_ se vztahuje k receptu a celkové úpravě pokrmu. Navíc _chateaubriand {xml:lang="fr"}_ byl sice pojmenován po jmenované osobnosti, avšak jídlo samotné vytvořil slavný francouzský kuchař Montmireil.
+Chtěl bych to uvést na pravou míru tím, že vám prozradím, že chateaubriand není přímo steak. Pojem chateaubriand se vztahuje k receptu a celkové úpravě pokrmu. Navíc chateaubriand byl sice pojmenován po jmenované osobnosti, avšak jídlo samotné vytvořil slavný francouzský kuchař Montmireil.
 
-Recept na _chateaubriand {xml:lang="fr"}_ vám na těchto stránkách dát nemohu, ale jako studentům Hostovky vám musím alespoň napsat, jak by se měl připravovat. To, abyste si mohli udělat obrázek, zda dostáváte, co vám patří, jestliže si ho v některé restauraci objednáte.
+Recept na chateaubriand vám na těchto stránkách dát nemohu, ale jako studentům Hostovky vám musím alespoň napsat, jak by se měl připravovat. To, abyste si mohli udělat obrázek, zda dostáváte, co vám patří, jestliže si ho v některé restauraci objednáte.
 
 ## Příprava steaku
 
@@ -35,7 +35,7 @@ Jeho cena je však relativní, protože se připravuje nejméně pro 2 osoby a v
 ![Rozdělení svíčkové][2] 
 :   Rozdělení svíčkové
 
-Z přiloženého obrázku vidíte, že svíčková má jen jeden, a pokud jste zruční, tak maximálně dva kusy vhodné pro _chateaubriand {xml:lang="fr"}_. Samozřejmě že musíte umět zpeněžit i ten zbytek masa, což vyžaduje jistou zkušenost. Pokud tuto zkušenost nemáte, tak je rozumnější objednávat _chateaubriand {xml:lang="fr"}_ již porcovaný, takzvané _RC (ready to cook) {xml:lang="en"}_.
+Z přiloženého obrázku vidíte, že svíčková má jen jeden, a pokud jste zruční, tak maximálně dva kusy vhodné pro chateaubriand. Samozřejmě že musíte umět zpeněžit i ten zbytek masa, což vyžaduje jistou zkušenost. Pokud tuto zkušenost nemáte, tak je rozumnější objednávat chateaubriand již porcovaný, takzvané _RC (ready to cook) {xml:lang="en"}_.
 
 Steak musí být připravený z dobře odleželé svíčkové, což v Česku dnes již málokdo umí. Musí být opečený nebo grilovaný přesně na požadovaný stupeň vnitřní teploty (většinou medium rare). K tomu není potřeba žádné speciální zařízení.
 
@@ -45,7 +45,7 @@ Bohužel se správnou atraktivní prezentací pokrmu se dnes nesetkáme ani na n
 
 ## Gastronomický zážitek
 
-Hlavním gastronomickým zážitkem je samotný _chateaubriand {xml:lang="fr"}_. Podává se zásadně na horké míse v celku a zpravidla na soklu z bílého chleba a obložený nejméně třemi druhy v páře vařené barevné zeleniny jako je květák, karotka a hrášek, zelené fazolky, brokolice, bruselské kapustičky apod.
+Hlavním gastronomickým zážitkem je samotný chateaubriand. Podává se zásadně na horké míse v celku a zpravidla na soklu z bílého chleba a obložený nejméně třemi druhy v páře vařené barevné zeleniny jako je květák, karotka a hrášek, zelené fazolky, brokolice, bruselské kapustičky apod.
 
 Mimo zeleniny by s ním měly být podávány alespoň dva druhy brambor, jako například _pommes château {xml:lang="fr"}_ nebo _pommes Parisienne {xml:lang="fr"}_. V každém případě však s bramborami francouzsky zvanými _pommes duchesse {xml:lang="fr"}_, které se ozdobně nastříkají po okraji mísy a opekou dozlatova pod grilem. Tím vytváří jedlý okraj zvaný bordura neboli rám celému obrazu tohoto velice atraktivního jídla.
 
@@ -65,15 +65,15 @@ Steak má dva konce neboli _end cuts {xml:lang="en"}_, které jsou poněkud prop
 
 Zbylé maso a zelenina se udržovaly teplé na horké desce nebo nad kahanem. Na talíře se hostům přidávaly až na jejich přání, čemuž se v číšnické hantýrce říká „nachservis“.
 
-K porkmu _chateaubriand {xml:lang="fr"}_ se podávají zvlášť dvě omáčky. Jednak omáčka na maso, což může být jen obyčejné [demi-glace][3], nebo jiná vhodná hnědá omáčka jako je třeba omáčka bordelaise a pikantní béarnská omáčka, která se na přání přelévá na zeleninu.
+K porkmu chateaubriand se podávají zvlášť dvě omáčky. Jednak omáčka na maso, což může být jen obyčejné [demi-glace][3], nebo jiná vhodná hnědá omáčka jako je třeba omáčka bordelaise a pikantní béarnská omáčka, která se na přání přelévá na zeleninu.
 
-Já osobně ale považuji _chateaubriand {xml:lang="fr"}_ za typicky snobské jídlo. Dnes by si pravý gurmán nenechal manipulovat se svým jídlem mnohdy natolik neodborně, že ho ve finále dostane úplně studené.
+Já osobně ale považuji chateaubriand za typicky snobské jídlo. Dnes by si pravý gurmán nenechal manipulovat se svým jídlem mnohdy natolik neodborně, že ho ve finále dostane úplně studené.
 
-Jediné, co je na pokrmu _chateaubriand {xml:lang="fr"}_ atraktivní, je ta show, která ovšem není dnes všude již zaručena. Servírující musí mít na paměti, že ani častí návštěvníci restaurací (anglicky _restaurant goers {xml:lang="en"}_) nejedí _chateaubriand {xml:lang="fr"}_ každý den, a že většina hostů se s tímto jídlem setkává poprvé.
+Jediné, co je na pokrmu chateaubriand atraktivní, je ta show, která ovšem není dnes všude již zaručena. Servírující musí mít na paměti, že ani častí návštěvníci restaurací (anglicky _restaurant goers {xml:lang="en"}_) nejedí chateaubriand každý den, a že většina hostů se s tímto jídlem setkává poprvé.
 
 Na druhé straně jsou ale hosté (např. absolventi Hostovky), kteří vědí, co jim za jejich peníze patří, a kteří se nedají opít rohlíkem. Tím se ale dostávám k tomu, co by se k tomuto pokrmu mělo pít.
 
-Podle mého gastronomického náboženství byste k němu měli pít červené víno a na každý pád takové, které vám nejlépe chutná. Neměli byste na něm moc šetřit. Když už vydáváte hříšné peníze za _chateaubriand {xml:lang="fr"}_, tak si můžete dovolit hřešit i na víně.
+Podle mého gastronomického náboženství byste k němu měli pít červené víno a na každý pád takové, které vám nejlépe chutná. Neměli byste na něm moc šetřit. Když už vydáváte hříšné peníze za chateaubriand, tak si můžete dovolit hřešit i na víně.
 
 Prostě kolonku s cenami zakryjte rukou a objednejte si víno takové, které také denně nepijete. Dobrou chuť!
 
