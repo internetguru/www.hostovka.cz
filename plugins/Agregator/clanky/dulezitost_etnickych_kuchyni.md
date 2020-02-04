@@ -1,57 +1,62 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=206.html" data-image="/files/preview/clanky/dulezitost\_etnickych\_kuchyni/general.jpg" data-type="article"}
 
-{ctime="2007-01-01" mtime="2007-01-01" id="dulezitost\_etnickych\_kuchyni" author="Michael Klíma" short="Etnické kuchyně" authorid="hostovka/michael_klima"}
+{ctime="2007-01-01" mtime="2007-01-01" id="etnicke_kuchyne" author="Michael Klíma" short="Etnické kuchyně"}
 
-# Etnické kuchyně
+# Důležitost etnických kuchyní
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+{kw="etnické kuchyně, jídla a jídelní lístky, Amerika, České republika"}
 
-{kw="etnické kuchyně"}
+Znalosti stravovacích zvyklostí zahraničních hostů a etnických skupin byla dříve přikládána velká váha. Ta dnes pomalu ale jistě ztrácí na své důležitosti.
 
-Znalost stravovacích zvyklostí zahraničních hostů a etnických skupin, kterým byla kdysi přikládána veliká důležitost, pomalu ale jistě ztrácí na své důležitosti.
+Zahraničního hosta sice potěší, když se na českém jídelním lístku objeví jeho oblíbené jídlo z jeho domácí kuchyně. Pokud je navíc upravené podle jeho představ, tak mu daná restaurace dokonce udělá velkou radost. Aby ale restaurace přizpůsobily své jídelní lístky stravovacím zvyklostem veškeré zahraniční klientele, by byl dnes úkol téměř nad lidské síly.
 
-Každého zahraničního hosta sice potěší, když se na českém jídelním lístku objeví nějaké oblíbené jídlo jeho domácí kuchyně, a pokud je upravené podle jeho představ, tak mu daná restaurace dokonce udělá velkou radost, ale aby restaurace přizpůsobily své jídelní lístky stravovacím zvyklostem každé skupině zahraniční klientely, by byl dnes úkol téměř nad lidské síly.
+Nemluvím ale o etnických restauracích, ve kterých by jídla, sled jejich podávání a způsob servisu, měl odpovídat zvyklostem dané kuchyně. Mám na mysli průměrné restaurace s mezinárodní (a dnes již globální) klientelou.
 
-Nemluvím ale o etnických restauracích, ve kterých jídla, sled jejich podávání a způsob servisu by měl odpovídat zvyklostem dané kuchyně. Mám na mysli průměrné restaurace s mezinárodní, a dnes již globální klientelou.
+Takové restaurace se musí řídit mezinárodně akceptovanými zvyklostmi moderní [gastronomie](gastronomie). Nicméně v případech, že etnická skupina tvoří podstatnou část mezinárodní klientely, by charakteristiku takové kuchyně měli znát i studenti Hostovky.
 
-Takové restaurace se musí řídit mezinárodně akceptovanými zvyklostmi moderní gastronomie, nicméně v případech, že některá etnická skupina tvoří podstatnou část mezinárodní klientely by charakteristiku takové kuchyně měli znát i studenti Hostovky.
+Etnické kuchyně mají základ v krajových jídlech, případně regionálních kuchyních. Ty vznikly na základě dostupnosti potřebných surovin, místního výrobního zařízení a na základě technik známých v dané zemi a době. Později byla příprava těchto jídel ovlivněna tradicemi, případně náboženskými předpisy.
 
-Já se studiem etnických kuchyní zabývám téměř od začátku mé odborné kariéry a během let mé praxe jsem měl možnost se zásady některých kuchyně naučit přímo v zemích jejich původu, ale musím se přiznat, že nejvíce jsem se o etnických kuchyních naučil v Americe kde jich je nekonečná řada.
+Popularita některých regionálních jídel etnických kuchyní překročila hranice oblasti svého původu. Taková jídla se stala populárními etnickými specialitami dané národní kuchyně.
 
-Americe se také říká "Melting pot of all nations", neboli kotel ve kterém se mísí a taví všechno to co vlny imigrantů sebou do Ameriky přinesly. Někteří imigranti si ze své vlasti nepřivezli nic jiného než vzpomínky na jídla na která byli zvyklí doma a která uměli připravit.
+## Vývoj etnické kuchyně v Americe
 
-Mnozí z nich neměli žádnou profesi a mnohdy ani žádné vzdělání a tak začínali svoji kariéru ve své nové vlasti na těch nejnižších stupních v kuchyních restaurací a hotelů. Amerika je ale země příležitostí a tak jakmile si ušetřili pár dolarů a získali určitou praxi, tak si otevřeli vlastní restauraci, a tak vlastně vznikla americká diversifikovaná gastronomie.
+Studiem etnických kuchyní se zabývám téměř od začátku odborné kariéry. Během let jsem měl možnost naučit se zásady některých kuchyní přímo v zemích jejich původu. Musím se ale přiznat, že nejvíce jsem se o etnických kuchyních naučil v Americe, kde jich je nekonečná řada.
 
-Hlavní rozmach etnických restaurací v Americe byl však zaznamenán až po druhé světové válce. Američtí vojáci během svého pobytu v různých zemích si zvykli na jídla všemožných etnických kuchyní a těchto jídel se po skončení války domáhali i doma. Tak vlastně vznikly ty velké řetězce italských, německých a francouzských restaurací.
+Americe se také říká _melting pot of all nations {xml:lang="en"}_, neboli kotel, ve kterém se mísí a taví všechno to, co s sebou do Ameriky přinesly vlny imigrantů. Někteří imigranti si ze své vlasti nepřivezli nic jiného než vzpomínky na jídla, na která byli zvyklí doma, a která uměli připravit.
 
-Hlavní údobí rozmachu a popularity etnických restaurací, a to nejenom v Americe, začalo rozmachem mezinárodního cestovního ruchu koncem dvacátého století. Lidé se na svých cestách seznamovali s mnoha neznámými jídly z nichž některé si natolik oblíbili, že je dnes ocení i na domácích jídelních lístcích.
+Mnozí z nich neměli žádnou profesi a mnohdy ani žádné vzdělání. Začínali tedy kariéru ve své nové vlasti na těch nejnižších stupních v kuchyních restaurací a hotelů. Amerika je ale země příležitostí. Takže jakmile si ušetřili pár dolarů a získali určitou praxi, tak si otevřeli vlastní restauraci. Tím vlastně vznikla americká diverzifikovaná gastronomie.
 
-Toto platí i o České republice, kde až do osmdesátých let minulého století mimo kuchyně české byla známa jen kuchyně francouzská, ruská, italská, bulharská, eventuálně ruská a čínská representovaná jedinou, a proto nejlepší čínskou restaurací ve Vodičkově ulici v Praze, ve které jsem měl tu čest být do roku 1968 ředitelem.
+Hlavní rozmach etnických restaurací v Americe byl však zaznamenán až po druhé světové válce. Američtí vojáci si během svého pobytu v různých zemích zvykli na jídla všemožných etnických kuchyní. Těchto jídel se po skončení války domáhali i doma. Tak vlastně vznikly velké řetězce italských, německých a francouzských restaurací.
 
-Dnes je ale i v Česku těch rádoby francouzských a jiných etnických restaurací, a hlavně čínských nebo vietnamských, více než je zdrávo, a tak jako kdysi v Americe, tak dnes i u nás, jsou tyto restaurace většinou otevírány lidmi, kteří o charakteristikách těchto kuchyní nemají ani potuchy a o hygieně a ekonomice ani nemluvě, takže se nemůžete divit že ta úroveň českého pohostinství podle toho vypadá.
+Hlavní období rozvoje a popularity etnických restaurací (nejenom v Americe) začalo rozmachem mezinárodního cestovního ruchu koncem 20. století. Lidé se na cestách seznamovali s mnoha neznámými jídly, z nichž si některé natolik oblíbili, že je dnes ocení i na domácích jídelních lístcích.
 
-Etnické kuchyně mají základ v jídlech krajových případně regionálních kuchyních které vznikly na základě dostupnosti potřebných surovin, místního výrobního zařízení a na základě technik známých v dané zemi v době jejich vzniku. Později byla příprava těchto jídel ovlivněna tradicemi případně náboženskými předpisy.
+## Rozvoj etnických kuchyní v Česku
 
-Popularita některých regionálních jídel etnických kuchyní překročila hranice oblasti svého původu a tato jídla se stala populárními etnickými specialitami dané národnostní kuchyně.
+Rozvoj etnických restaurací v České republice začal také až koncem 20. století. Do osmdesátých let minulého století tady byla známa jen kuchyně francouzská, ruská, italská, bulharská, eventuálně ruská a čínská.
 
-Etnické kuchyně si dnes ve světě získávají stále větší a větší popularitu avšak na mezinárodním jevišti se udrží jedině kuchyně která může nabídnout jídla které si získala oblibu u větší skupiny lidí.
+{class="example"}
 
-Příkladem toho může být původní kuchyně mexická, která až do čtyřicátých let neměla vyhraněný charakter ani v samotném Mexiku. Ve skutečnosti její mezinárodní popularita začala až po získání obliby v Kalifornii, Arizoně a v Texasu, kde dala dokonce základ dnes velice populární kuchyni zvané Tex-mex.
+Čínská etnická kuchyně tu byla dříve reprezentována pouze jedinou (a proto také nejlepší) restaurací ve Vodičkově ulici v Praze. V té jsem měl tu čest být ředitelem až do roku 1968.
 
-Tex-mex kuchyně zpopularizovala mexickou kuchyni natolik, že její popularita se v Americe dostává do popředí před kuchyni čínskou a italskou a o kuchyni francouzské ani nemluvě.
+Dnes je ale i v Česku těch rádoby francouzských a jiných etnických restaurací (hlavně čínských nebo vietnamských) více než je zdrávo. Tak jako kdysi v Americe, tak dnes i u nás, jsou tyto restaurace většinou otevírány lidmi, kteří o charakteristikách etnických kuchyní nemají ani potuchy. A to ani nemluvím o hygieně a ekonomice.
 
-Netrvalo ale dlouho než tato neo-mexická kuchyně překročila hranice Ameriky a stala se oblíbenou téměř po celém světě, přičemž ale jen málo lidí ví, že dnešní tak zvaná mexická jídla vlastně mexická nejsou o čemž se můžete přesvědčit i v Česku.
+## Mexická etnická kuchyně a Tex-mex
 
-Dá se říci, že vtom je vlastně ta je jejich "konkurence schopnost" s mezinárodními kuchyněmi jako jsou kuchyně italská a čínská.
+Původní mexická kuchyně neměla až do čtyřicátých let vyhraněný charakter ani v samotném Mexiku. Ve skutečnosti její mezinárodní popularita začala až po získání obliby v Kalifornii, Arizoně a v Texasu, kde dala dokonce základ dnes velice populární kuchyni zvané Tex-mex.
 
-Podle mého názoru se něco takového o české kuchyni říci nedá. Je to smutné přiznání, ale ani jedno české jídlo se na mezinárodních restauračních lístcích zatím neuchytilo.
+Tex-mex kuchyně zpopularizovala mexickou kuchyni v Americe natolik, že se její tamní popularita dostává do popředí před kuchyni čínskou, italskou a francouzskou. Netrvalo ale dlouho než mexická kuchyně překročila hranice Ameriky a stala se oblíbenou téměř po celém světě.
 
-Opravte mně pokud se mýlím, ale podle mého názoru čeští kuchaři místo toho aby se snažili některá česká jídla upravit požadavkům současné mezinárodní gastronomie, se stále ještě vzhlíží v té archaické francouzské kuchyni které odzvonilo již i v samotné Francii.
+Jen málo lidí ale ví, že dnešní takzvaná mexická jídla vlastně mexická nejsou. O tom se můžete přesvědčit i v Česku.
 
-Myslím si, že by už konečně měli přestat blnout a místo toho aby se honili za všemi těmi medailemi přípravou jídel která nemají s českou gastronomií vůbec co společného, by se měli koncentrovat na domácí českou kuchyni která jak si myslím má v současné době co dělat aby si udržela vlastní identitu na domácím trhu natožpak aby mohla usilovat o popularitu ne globálních či mezinárodních jídelních lístcích.
+# Česká kuchyně
 
-Pokud ale hovořím o české gastronomii tak nemám na mysli krajové či regionální rádoby speciality které si nezískaly mimořádnou oblibu ani v krajcích či regionech ve kterých údajně vznkly. Snaha tyto "speciality" nutit dnešní restaurační klientele v naději, že to to upadajicí české pohostisntví zachrájí je něc čemu se říká "too little and too late", a snaha nalákat zahraniční klintelu programy jako je například Czech Specials je velice naivní.
+Je to smutné přiznání, ale ani jedno české jídlo se na mezinárodních restauračních lístcích zatím neuchytilo. Opravte mě, pokud se mýlím, ale podle mého názoru se čeští kuchaři stále ještě vzhlíží [v archaické francouzské kuchyni](francouzska_gastronomie), které odzvonilo už i v samotné Francii.
 
-Věřte mi že jediné co v pohostinství platí je - dát lidem to co chtějí.
+Myslím si, že by Češi už konečně měli přestat blbnout a místo toho, aby se honili za všemi medailemi přípravou jídel, která nemají s českou gastronomií vůbec co společného, by se měli koncentrovat na domácí českou kuchyni. Ta má podle mého názoru v současnosti co dělat, aby si udržela vlastní identitu na domácím trhu.
 
+Pokud ale hovořím o české gastronomii, tak nemám na mysli krajové či regionální rádoby speciality, které si nezískaly mimořádnou oblibu ani v krajících či regionech, ve kterých údajně vznikly.
+
+Snaha tyto speciality vnutit dnešní restaurační klientele v naději, že zachrání upadající české pohostinství, je něco, čemu se říká _too little and too late {xml:lang="en"}_ (moc málo a moc pozdě). Snaha nalákat zahraniční klientelu programy jako je například _[Czech Specials](czech_specials) {xml:lang="en"}_ je velice naivní.
+
+Věřte mi, že jediné, co v pohostinství platí, je dát lidem to, co chtějí.
