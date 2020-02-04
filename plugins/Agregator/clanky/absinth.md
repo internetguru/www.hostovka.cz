@@ -13,6 +13,8 @@ Absint se obyčejně ředil tak, že se kapal do sklenice přes cukr v perforova
 
 Absint byl vynalezen v Couvet ve Švýcarech Francouzem Dr. Ordinairem. Ten v roce 1797 prodal svůj recept panu Pernodovi, jehož jméno se stalo pro tento likér synonymem po celém světě. Nicméně v Palestině bylo již před tisíci lety známo hořké víno (absinthiatum) připravované z výše zmíněné rostliny, které se vlastně dá považovat za prvý míšený nápoj.
 
+{id="obliba"}
+
 ## Obliba absintu
 
 Absintu byly přičítány afrodiziakální účinky, čímž se stal se velice populární hlavně ve Francii a v Novém Orleansu v Carolině ve Spojených Státech Amerických.
@@ -20,6 +22,8 @@ Absintu byly přičítány afrodiziakální účinky, čímž se stal se velice 
 V Americe se absint pro zjemnění chuti a vůně podává _on the rocks {xml:lang="en"}_, což ve volném překladu znamená „na útesech ledu“. _Rock {xml:lang="en"}_ se v tomto případě totiž nepřekládá jako skála. Souvisí s termínem _rock and roll {xml:lang="en"}_, kde je odvozeno od _rocking {xml:lang="en"}_, neboli od kolébání nebo houpání.
 
 V České republice se většinou prodává absint firmy Pernod. Nedá se ale říci, že by u nás byl absint nějakým hitem. Lidé, kteří ho neznají, jeho chuť přirovnávají k mazání na bolavé nohy. A ti, kteří ho znají, si ho dávají velmi zřídka.
+
+{id="zakaz_absintu"}
 
 ## Zákaz absintu
 
