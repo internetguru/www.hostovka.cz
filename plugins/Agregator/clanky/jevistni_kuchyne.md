@@ -13,7 +13,7 @@ Jevištní kuchyně (anglicky _stage kitchen {xml:lang="en"}_) neboli kuchyně, 
 
 ## Výhody jevištní kuchyně
 
-Pro hosty je tento typ [prezentace jídel][1] součástí zábavy, nebo chcete-li [zážitkovou gastronomií][2]. Host se cítí do přípravy svého jídla do jisté míry zapojen, protože má možnost si vybrat potraviny a dochucení podle své preference. To ale také předpokládá, že má host alespoň nějaké základní znalosti o surovinách a technologiích přípravy jídel.
+Pro hosty je tento typ [prezentace jídel][1] součástí zábavy nebo chcete-li [zážitkovou gastronomií][2]. Host se cítí do přípravy svého jídla do jisté míry zapojen, protože má možnost si vybrat potraviny a dochucení podle své preference. To ale také předpokládá, že má host alespoň nějaké základní znalosti o surovinách a technologiích přípravy jídel.
 
 {class="important"}
 
