@@ -1,75 +1,71 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=383.html" data-image="/files/preview/clanky/a_la/general.jpg" data-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=317.html" data-image="/files/preview/clanky/ala/general.jpg" data-type="article"}
 
-{ctime="2009-04-05" mtime="2009-04-05" id="a\_la" author="Michael Klíma" short="A la" authorid="hostovka/michael\_klima"}
+{ctime="2008-05-07" mtime="2020-01-05" id="a_la" author="Michael Klíma" short="À la"}
 
-# A la
+# Výraz à la na českých lístcích
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+{kw="gastronomie, česká republika, Francie, jídla a jídelní lístky, historka"}
 
-{kw="co-kdy-kde"}
+Česká kuchyně se od nepaměti vzhlížela ve Francii, a proto není divu, že se na českých jídelních lístcích stále setkáváme s francouzskými výrazy. Při tvorbě [názvů jídel](nazvy_jidel) je všechno povolené, co není vyloženě zakázané. Nicméně při tvorbě [jídelních lístků](jidelni_listek) (pokud se nejedná o francouzskou restauraci nebo francouzskou verzi lístku), se snažte níže uvedeným francouzským výrazům vyhnout.
 
-à la(fr.) - česká kuchyně se od nepaměti vzhlížela ve francouzské kuchyni a proto není divu, že na českých jídelních lístcích se stále setkáváme s francouzskými výrazy.
+Česká republika (a obzvláště Praha) se může pochlubit téměř neuvěřitelným počtem etnických restaurací. Většina těchto restaurací se vyznačuje charakteristickými etnickými jídly, jejichž názvy tyto restaurace jen velmi zřídka překládají do češtiny. V lepším případě své speciality popíší, aby si hosté mohli udělat představu, co názvy vlastně znamenají. Ale takových restaurací moc není.
 
-Česká republika, obzvláště Praha, se může pochlubit téměř neuvěřitelným počtem etnických restaurací a většina těchto restaurací se vyznačuje charakteristickými etnickými jídly, jejichž názvy tyto restaurace jen velmi zřídka překládají do češtiny. V tom nejlepším případě své speciality popíši tak aby si hosté mohli udělat představu o tom co ta jídla vlastně jsou.
+{class="example"}
 
-V současné době před vstupem do EU se hodně hovoří o identitě české kuchyně, ale mohu vám říci, že jsou to jen řeči. Nikde jinde než v České republice se nesetkáte s tolika neznámými názvy jídel.
+Nikde jinde na světe se nesetkáte s tolika neznámými názvy jídel jako v České republice. Jedná se namátkou o [Stroganov](stroganov), Wellington, [Clam Chowder](chowder#manhattan_clam_chowder), Welsh rarebit, [Quiche](brunch#bran_formou_table_dht), [Bouillabaisse](bujabeza), Raclette, Šašlik, Shish-kebab, Boršč, Šoulet nebo Kashulet, [Ragoût](sotyrovani#saute), Curry, apod. Na mezinárodních lístcích se sice vyskytují, nicméně se zdá, že čeští gastronomové v používání cizích [gastronomických](gastronomie) výrazů mají primát.
 
-S názvy jako Stroganov, Welington, Clam Chowder, Welsh rarebit, Quiche, Raclette, Šašlik, Shish-kebab, Boršč, Šoulet nebo Cashulet, ragoût, curry, apod., se setkáte na mezinárodních jídelních lístcích i všude jinde na světě, ale zdá se, že čeští gastronomové v používání cizích gastronomických výrazů mají primát.
+Nejsou to jen názvy jídel, ale i jiné francouzské gastronomické výrazy, ve kterých si čeští [gastronomové](gastronomove) libují. Nejvíce zneužívaný, jak se zdá, je výraz „à la“, což znamená na způsob, nebo podle.
 
-Nejsou to ale jen názvy jídel ale i francouzské gastronomické výrazy ve kterých si čeští gastronomové libují. Nejvíce zneužívaný jak se zdá je à la(fr.) na způsob, podle.
+## Přílohy na lístcích s jídly nebo samostatně
 
-à la carte menu (fr.) - à la carte menu vyjadřuje, že jídla, přílohy a doplňky jsou účtovány zvlášť. Má to své výhody i nevýhody jak pro hosta tak i pro restauratéra.
+Termín _à la carte {xml:lang="fr"}_ vyjadřuje, že jídla, přílohy a doplňky jsou účtovány zvlášť. Má to své výhody i nevýhody jak pro hosty, tak i pro restauratéry.
 
-Pro hosta to má tento způsob tu výhodu, že oproti způsobu nabízení jídel způsobem table d’hôte, kdy jídla jsou nabízena ve formě celého menu, si host může objednat jen hlavní chod bez přílohy, kterou si případně může objednat zvlášť podle vlastního výběru. Pro provozovatele to má výhodu přesnější kontroly porcí a lepší kontrolu spotřeby materiálu. Lidé dnes čím dále tím více sledují nejenom co jedí, ale také kolik toho jedí a kolik to stojí a proto způsob à la carte si získává stále větší a větší oblibu, nicméně mnoho restaurací nabízí na svých lístcích jídla obojím způsobem tj. jak způsobem table d’hôte, tak i způsobem à la carte.
+Pro hosty mají oddělené přílohy tu výhodu, že si může objednat jen hlavní chod bez přílohy. Přílohu si případně může objednat zvlášť podle vlastního výběru. Pro provozovatele mají samostatné přílohy výhodu přesnější kontroly porcí a lepší kontrolu spotřeby materiálu.
 
-à la chef (fr.) - podle šéfa kuchyně, se na jídelních lístcích používá pro jídlo, nebo specialitu která je sice populární pod svým klasickým názvem, ale která byl připravena šéfkuchařovým osobitým způsobem což je někdy označeno jako „Signature Dish“.
+Oproti tomu stojí způsob _table d'hôte {xml:lang="fr"}_, kdy jsou jídla nabízena ve formě celého menu. Lidé dnes čím dál víc sledují nejenom co jedí, ale také kolik toho jedí, a kolik to stojí. A proto si způsob _à la carte {xml:lang="fr"}_ získává stále větší oblibu. Nicméně mnoho restaurací nabízí na svých lístcích jídla obojím způsobem.
 
-à la maison (fr.) – také de la maison, nebo jenom maison, jako například pâté maison, znamená na způsob, nebo podle „domu“, přičemž domem se myslí kuchyně dané restaurace. Německý ekvivalent je nach Hausart; španělsky del meson a v angličtině nejčastěji home made. Musím vás ale upozornit na to, že to nemá co společného s označením „Domácí kuchyně“, anglicky zvané „Home cooking“ nebo ve francouzštině „Cuisine Bourgeois“. „Domácí kuchyně“ je nejvíce zneužívané označení typu kuchyně.
+## Jídlo podle šéfa nebo podle domu
 
-Ve většině případů to není pravda, což je dobře. V restauraci přeci nechceme aby nám někdo připravoval jídlo tak jak se to dělá doma. V restauraci očekáváme o něco větší profesionalitu.
+Označení _à la chef {xml:lang="fr"}_ znamená podle šéfa kuchyně. Na jídelních lístcích se používá pro jídlo nebo specialitu, která je sice populární pod svým klasickým názvem, ale která byla připravena šéfkuchařovým osobitým způsobem. To bývá někdy označováno také jako _signature dish {xml:lang="en"}_.
 
-Nemohu jinak než vám toto popsat formou další historky...
+Označení _à la maison {xml:lang="fr"}_ či také _de la maison {xml:lang="fr"}_, nebo pouze _maison {xml:lang="fr"}_ (jako například _pâté maison {xml:lang="en"}_) znamená na domácí způsob nebo podle domu. Domem se rozumí kuchyně dané restaurace. Německý ekvivalent je _nach Hausart {xml:lang="de"}_, španělsky _del meson {xml:lang="es"}_ a v angličtině nejčastěji _home made {xml:lang="en"}_.
 
-{id="jako\_od\_maminky"}
+Musím vás ale upozornit na to, že to nemá nic společného s označením domácí kuchyně, anglicky zvané _Home cooking {xml:lang="en"}_ nebo ve francouzštině _cuisine bourgeoise {xml:lang="fr"}_. Domácí kuchyně je nejvíce zneužívané označení typu kuchyně. Ve většině případů není toto označení pravdivé, což je dobře. V restauraci přeci nechceme, aby nám někdo připravoval jídlo tak, jak se to dělá doma. V restauraci očekáváme o něco větší profesionalitu.
 
-## Jako od maminky
+## Moderně nebo jako od maminky
 
-Byl jsem kdysi majitelem české restaurace na Čermákově ulici v české čtvrti Chicaga. Klientela byla z osmdesáti procent česká, a proto jídelní lístek obsahoval asi 80 procent českých jídel. Jednoho dne pozdě večer, přišel do restaurace host který si zdlouhavě pročítal jídelní lístek. Šel jsem k němu s otázkou, jestli mu snad mohu pomoci s výběrem. Dal mi takovou typickou otázku některých hostů a to: „Které jídlo na tom vašem lístku je nejlepší?“
+Byl jsem kdysi majitelem české restaurace na Čermákově ulici v české čtvrti Chicaga. Klientela byla z 80 % česká, a proto jídelní lístek obsahoval asi 80 % českých jídel. Jednoho dne přišel do restaurace host a zdlouhavě si pročítal jídelní lístek. Šel jsem k němu s otázkou, jestli mu snad mohu pomoci s výběrem. Odvětil mi typickým dotazem, které jídlo na lístku je nejlepší.
 
-Podle mě samozřejmě všechna jídla byla ta nejlepší, protože bych je býval na ten lístek ani nedal. Poznal jsem na něm ale, že je původem Čech, a tak jsem mu řekl, že nejenom že všechna ta jídla jsou dobrá, ale abych to zdůraznil , tak jsem dodal, že jsou „jako od maminky“.
+Podle mě byla samozřejmě všechna jídla ta nejlepší, protože bych je jinak na ten lístek ani nedal. Poznal jsem na něm, že je původem Čech, a tak jsem mu řekl, že všechna ta jídla jsou dobrá. Abych to zdůraznil, dodal jsem, že jsou „jako od maminky“.
 
-Se zlou jsem se potázal, protože mi na to ten host řekl: „Proboha jenom to ne, moje maminka byla ta nejhorší kuchařka na světě.“ Z toho plyne poučení, že i když je naše kuchyně označena jako domácí, jídla musí být připravena profesionálně a označena eventuelně jako À la maison.
+Host se zděsil se slovy, že jeho maminka byla ta nejhorší kuchařka na světě. Z toho plyne poučení, že i když je naše kuchyně označena jako domácí, jídla musí být připravena profesionálně a eventuálně označena jako _À la maison {xml:lang="fr"}_.
 
-à la minute (fr.) - na objednávku, německy Auf Bestellung, anglicky to order, nebo made to order.
+Závin nebo štrúdl _à la mode {xml:lang="fr"}_, na amerických lístcích velmi často znamená, že se podává teplý s kopečkem zmrzliny navrchu. _À la mode {xml:lang="fr"}_ se používá i na jiných jídelních lístcích, ale málokdy to vyjadřuje současnou módu nebo trend.
 
-Od výrazu à la minute byly odvozeny u nás tak dobře známé minutky které podle mě jsou rovněž zprofanované.
+## Jídla na objednávku
 
-{id="minutky_"}
+Označení jídla _à la minute {xml:lang="fr"}_ znamená na objednávku. Německy _auf Bestellung {xml:lang="de"}_, anglicky _to order {xml:lang="en"}_, nebo _made to order {xml:lang="en"}_. Od výrazu _à la minute {xml:lang="fr"}_ byly odvozeny u nás tak dobře známé [minutky](hotovky_a_minutky), které jsou podle mě rovněž zprofanované.
 
-## Minutky
+{class="example"}
 
-U výrazu minutky bych se rád zastavil. Slovo minutka je v České republice úplné zaklínadlo (v Americe se tomu říká buzz word.)
+Jako studenti Hostovky byste ale měli vědět, že v zahraničí se ale s těmito výrazy na jídelních lístcích nesetkáte tolik jako v Česku. Technicky vzato si totiž každé jídlo musíte objednat.
 
-Slyšel jsem, a stále ještě slyším, jak lidé říkají: „Pojďme tam, dělají tam dobré minutky“ , nebo „Měli bychom si dát něco dobrého, něco jako minutku“, nebo „pane vrchní děláte minutky?“.
+Samotné označení _à la minute {xml:lang="fr"}_ je celkem nepřesné. Jejich příprava trvá někdy až půl hodiny nebo déle. Obzvláště pak, když si společnost šesti lidí objedná minutky, a navíc každý jinou. Naopak existují techniky přípravy jídel, které trvají jen několik vteřin. Příkladem je technika přípravy některých čínských jídel, které se anglicky říká _stir frying {xml:lang="en"}_.
 
-Pro mně popularita minutek byla něco nepochopitelného až do doby než jsem přišel na to, že minutky jsou oblíbeny jen z nedůvěry k hotovým jídlům u kterých nejí někdy jasné z čeho byly připravený a to jestli jsou čerstvé už se vůbec nedalo zjistit.
+Nakonec i většina jídel označených jako _fast food {xml:lang="en"}_ je připravována tímto způsobem. Většinou se jedná o konečnou tepelnou přípravu, které ale předchází mnohdy velice zdlouhavá úprava potravin a [příprava takzvaných polotvarů][2].
 
-Dodneška ale nevím proč se tomu říká minutka, když jejich příprava trvá někdy až půl hodiny, a případně i déle, obzvláště když nedej P.B., si společnost šesti lidí objedná minutky a každý jinou.
+## Minutka jako české zaklínadlo
 
-Také jsem dlouho nevěděl, proč každá minutka musí mít na stejném talíři tak zvanou „oblohu“ a proč se minutky dávají v ČR na studené talíře. Zdá se ale, že většině hostů to nevadí, a že si na to prostě nestěžují.
+Označení minutka je v České republice [úplné zaklínadlo][3] (v Americe se tomu říká _buzzword {xml:lang="en"}_). Slyšel jsem a stále ještě slýchám, jak lidé říkají: „Pojďme tam, dělají tam dobré minutky.“, nebo „Měli bychom si dát něco dobrého, něco jako minutku.“, nebo „Pane vrchní, děláte minutky?“
 
-Podle jedné mé zásady která říká DEJTE LIDEM TO CO CHTĚJÍ, se na českých jídelních lístcích budete s oblohami asi setkávat ještě hodně dlouho, ale doufejme, že se čeští kuchaři jednou naučí je dávat na teplé talíře.
+Kuchaři připravující jídla tímto způsobem byli v Česku označováni jako „minutkáři“. Je však ironické, že v mnoha případech byli lépe placeni než kuchaři připravující takzvané hotovky, které vyžadují daleko větší odbornost. Dnes právě díky restauracím zvaným _fast food {xml:lang="en"}_ se ukázalo, že většinu těchto „minutek“ může po krátkém zaškolení připravovat kdekdo, a to aniž by byl vyučen.
 
-à la mode (fr.) - podle mody. Pie nebo Strudel à la mode, na amerických lístcích velmi často znamená, že se tento jablečný páj nebo jablečný závin, podává teplý s kopečkem zmrzliny navrchu. À la mode se ale používá i na jiných jídelních lístcích, ale málokdy to vyjadřuje současnou modu nebo trend.
+Pro mě byla popularita minutek něco nepochopitelného, než jsem přišel na to, že jsou oblíbené jen z nedůvěry k hotovkám. U těch totiž není někdy jasné, z čeho byly připravené. A už vůbec se nedá zjistit, zda jsou čerstvé.
 
-{id="a\_la\_ja"}
+Dlouho jsem také nevěděl, proč každá minutka musí mít na talíři takzvanou [oblohu][4]. A dosud nechápu, proč se minutky v Čechách podávají na studených talířích. Zdá se ale, že to většině hostů nevadí, neboť si na to prostě nestěžují.
 
-## à la já
-
-Krátce po svatbě moje manželka, která shodou okolností je absolventkou stejné hotelové školy jako já, mi uvařila její první večeři. Zeptal jsem se nesměle, jak se to jídlo jmenuje, načež mi řekla, že je to roštěná à la Esterhazy. Vím co roštěná Esterhazy je a tak jsem si dodal odvahy a řekl jsem jí, že do roštěné Esterhazy to má hodně daleko.
-
-Pravda na světě je ale jen jedna, a tu má moje paní, a tak se mně zeptala jestli mi to chutná. Musel jsem přiznat, že ano, načež mi řekla: „Tak moc nemluv a važ si toho, že jsi první kdo má tu čest ochutnat roštěnou Esterhazy à la Já“.
-
-Z toho plyne poučení, že při tvorbě názvů jídel je všechno povolené co není vyloženě zakázané. Nicméně při tvorbě jídelních lístků, pokud se nejedná o francouzskou restauraci nebo francouzskou verzi našeho lístku, se snažíme výše uvedeným francouzským výrazům vyhnout.
-
+ [1]: vareni_z_polotovaru
+ [2]: polotovary
+ [3]: modni_pojmy
+ [4]: obloha

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <UrlHandler>
   <rewrite match="clanky/"></rewrite>
+  <redir link="ala">a_la</redir>
   <redir link="chicken_nuggets">kureci_nugety</redir>
   <redir link="after_dinner_mints">mentolky_po_jidle</redir>
   <redir link="all_you_can_eat">samoobsluzna_restaurace</redir>
