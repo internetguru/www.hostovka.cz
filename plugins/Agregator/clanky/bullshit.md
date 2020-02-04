@@ -36,3 +36,5 @@ Již jsem se někde zmínil, že přestože jsem měl nějakou _Kinderstube {xml
 Nicméně jsem si někdy připadal velice trapně, když jsem použil nějaký výraz nevhodně, nebo když jsem některým _four letter words {xml:lang="en"}_ nerozuměl. Proto hned druhá kniha, kterou jse si v Americe koupil, byl slovník _Four letter words {xml:lang="en"}_. Tam byla slova, která sice v žádném školním slovníku nenajdete, ale bez kterých se neobejdete.
 
  [1]: chucpa
+
+
