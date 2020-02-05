@@ -43,7 +43,7 @@ Přestože Římané byli známi svým nepříliš vybíravým chováním při [
 
 V Orientu se o plně vyvinuté gastronomii dá hovořit již od 5. století př. n. l. Válkami, obchodem a kulturní asimilací se čínská gastronomie rozšířila do Japonska, Koreje, a do větší části Jižní Asie. Evropa ale nezůstávala pozadu.
 
-Nicméně, když už hovoříme o gastronomii, tak bychom se mněli zmínit o několika konkrétních gastronomech, kteří se ni zasloužili:
+Nicméně, když už hovoříme o gastronomii, tak bychom se měli zmínit o několika konkrétních gastronomech, kteří se ni zasloužili:
 
  - [Georges Auguste Escoffier](auguste_escoffier)
  - [Marie-Antoine Carême](careme)
@@ -57,11 +57,11 @@ Nicméně, když už hovoříme o gastronomii, tak bychom se mněli zmínit o n�
 
 O gastronomii, gastronomických pravidlech a o sledu jídel, ve kterém by měly být konzumovány, byly napsány celé spisy. Například _Alexandre Balthazar Laurent Grimod de La Reynière {xml:lang="fr"}_, slavný francouzský gastronom narozený v Paříži v roce 1758, napsal 7 dílů gastronomických pravidel _Almanach des Gourmands {xml:lang="fr"}_.
 
-Jsem jedním ze šesti zbývajících šťastných vlastníků tohoto vzácného díla. Musím vám ale říci, že má podle mě jen sběratelskou hodnotu. Moderní poznatky o správné a nesprávné výživě, nemluvě o náboženských předpisech, které autor knihy nebral vůbec v úvahu, postavily všechna gastronomická pravidla z knihy úplně na hlavu.
+Jsem jedním ze šesti zbývajících šťastných vlastníků tohoto vzácného díla. Musím vám ale říci, že má podle mě jen sběratelskou hodnotu. Moderní poznatky o správné a nesprávné výživě, nemluvě o náboženských předpisech, které autor nebral vůbec v úvahu, postavily všechna gastronomická pravidla z knihy úplně na hlavu.
 
 [Gurmáni](gastronomove#gurman) byli tehdy většinou velice bohatí lidé a samozvaní soudci toho, co je dobré a co ne. Kdysi pro svých „horních deset tisíc“ čtenářů sáhodlouze popisovali své gastronomické zážitky. Nepředpokládali, že gastronomie bude jednou i v závodních a školních jídelnách, menzách, letadlech, lodích apod.
 
-Neměli vůbec tušení, že přijde něco takového, jako jsou [restaurace rychlého občerstvení](mc_donalds), se všemi sendviči, hotdogy a hamburgery. Netušili, že bude něco takového, jako [catering](catering), [samoobslužné restaurace](samoobsluzna_restaurace), [grazing](pracovni_obedy#grazing) nebo česká specialita jako je [raut](catering).
+Neměli vůbec tušení, že přijde něco takového, jako jsou [restaurace rychlého občerstvení](mc_donalds), se všemi [sendviči](sendvice), hotdogy a hamburgery. Netušili, že bude něco takového, jako [catering](catering), [samoobslužné restaurace](samoobsluzna_restaurace), [grazing](pracovni_obedy#grazing) nebo česká specialita jako je [raut](catering).
 
 Od mého učení, kdy jsem začal o gastronomii tak trochu číst, jsem nikdy neměl vztah ke gastronomickým pravidlům a o zásadách podávání jídel ani nemluvě. Nenáviděl jsem, když jsem se je jako učedník musel učit nazpaměť. Podvědomě jsem totiž věděl, že je nikdy v životě nebudu moci uplatnit.
 
@@ -81,7 +81,7 @@ Jediné s čím jsem se nakonec smířil jsou [gastronomické skupiny](gastronom
 
 Kolem roku 1958 se Hotelový a cateringový institut Velké Británie rozhodl stanovit v gastronomickém světě jednou provždy zásady toho, co je správné a co ne.
 
-Dvanáct vysoce kvalifikovaných kuchařů bylo jmenováno do komise, která měla vypracovat Kuchařský kodex. Po dvou a půl letech týdenních schůzek a nekonečných diskusí upadl tento záměr do zapomenutí.
+Dvanáct vysoce kvalifikovaných kuchařů bylo jmenováno do komise, která měla vypracovat kuchařský kodex. Po dvou a půl letech týdenních schůzek a nekonečných diskusí upadl tento záměr do zapomenutí.
 
 Tito kuchaři, kteří zastupovali celou řadu etnických kuchyní, se nemohli shodnout na jednotných zásadách. To, co je pro jednoho lahůdkou, může být pro druhého něčím odporným. Jmenujte jakékoliv jídlo určité skupiny lidí a zcela určitě najdete jinde ve světě jinou skupinou, která by toto jídlo ani nepozřela.
 
@@ -89,7 +89,7 @@ Také například skutečnost, že francouzští kuchaři při zahušťování �
 
 ### Vývoj dnešní gastronomie
 
-Dnes, z pohledu provozovatele pohostinské činnosti, je gastronomie mnohem širší obor než kdysi.
+Dnes je gastronomie z pohledu provozovatele pohostinské činnosti mnohem širší obor než kdysi.
 
 Moderní gastronomický odborník (tzv. [manažer kuchyně](funkce_pracovniku_v_pohostinstvi)) musí brát v úvahu globální stravovací zvyklosti.
 
