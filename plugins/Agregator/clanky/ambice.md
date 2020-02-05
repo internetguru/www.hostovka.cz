@@ -15,5 +15,5 @@ _Ambiance {xml:lang="fr"}_ jsou ale i jiná specifika, jako je například ojedi
 
 I když jsou dnešní návštěvníci restaurací daleko sofistikovanějšími hosty, než byli před Sametovou revolucí, tak se přesto najdou i tací, kteří omylem vejdou do nestandardní restaurace a domáhají se jídel, na které jsou zvyklí a které třeba i znají. Pokud taková jídla restaurace nemá, tak se jejich neuspokojení obrátí v nepodložené stížnosti či pomluvy.
 
-Jak dnes již víte, tak jak na těchto stránkách, tak i v jiných mediích se snažím české hosty poučit v tom, co mohou v jednotlivých typech pohostinských provozů očekávat a co jim za jejich peníze patří. Bohužel to ale chce nějaký čas.
+Jak dnes již víte, tak se jak na těchto stránkách, tak i v jiných mediích snažím české hosty poučit v tom, co mohou v jednotlivých typech pohostinských provozů očekávat a co jim za jejich peníze patří. Bohužel to chce ale čas.
 
