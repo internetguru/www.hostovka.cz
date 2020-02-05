@@ -5,7 +5,7 @@
 
 # Výraz à la na českých lístcích
 
-{kw="gastronomie, česká republika, Francie, jídla a jídelní lístky, historka"}
+{kw="gastronomie, Česká republika, Francie, jídla a jídelní lístky, historka"}
 
 Česká kuchyně se od nepaměti vzhlížela ve Francii, a proto není divu, že se na českých jídelních lístcích stále setkáváme s francouzskými výrazy. Při tvorbě [názvů jídel][1] je všechno povolené, co není vyloženě zakázané. Nicméně při tvorbě [jídelních lístků][2] (pokud se nejedná o francouzskou restauraci nebo francouzskou verzi lístku), se snažte níže uvedeným francouzským výrazům vyhnout.
 

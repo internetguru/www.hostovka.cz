@@ -5,7 +5,9 @@
 
 # Polévka bujabéza a její příprava
 
-{kw="jídla a jídelní lístky, polévka, recept, ryby, mořské plody, Francie"}
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-05, do not edit -->
+
+{kw="jídla a jídelní lístky, polévky, recept, ryby, mořské plody, Francie"}
 
 Správný název polévky by měl být _buillabaise_ (francouzsky). V Česku je ale tato polévka více známá pod názvem bujabéza.
 

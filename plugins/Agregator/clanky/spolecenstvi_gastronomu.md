@@ -23,9 +23,11 @@ Tehdy se _Chaîne des Rôtisseurs {xml:lang="fr"}_ stal nejvíce prosperujícím
 
 Gastronomicky řečeno do obrození cechu v roce 1950 uběhlo 160 let. Po druhé světové válce se v Paříži sešli tři gastronomové a dva profesionálové se stejným cílem. Ten byl obnovit hrdost a prvenství v kuchařském umění ztracené během války a nedostatku surovin.
 
-Tehdy bylo znovu oficiálně ustanoveno společenství  _Chaîne des Rôtisseurs {xml:lang="fr"}_. Původní erb předchozího cechu byl obnoven a uznán francouzskou vládou.
+Tehdy bylo znovu oficiálně ustanoveno společenství _Chaîne des Rôtisseurs {xml:lang="fr"}_. Původní erb předchozího cechu byl obnoven a uznán francouzskou vládou.
 
-Dnes je společenství _Chaîne des Rôtisseurs {xml:lang="fr"}_ nejstarší a největší [gastronomickou](gastronomie) organizací na světě. Více než 80.000 osob se každoročně zúčastňuje aktivit této organizace, z čehož je 7.000 členů v Americe. Hlavní štáb tohoto řetězce sídlí v Paříži. V Americe má tento řetězec přibližně 140 poboček a celonárodní kancelář je v Novém Yorku.
+Dnes je společenství _Chaîne des Rôtisseurs {xml:lang="fr"}_ nejstarší a největší [gastronomickou][1] organizací na světě. Více než 80.000 osob se každoročně zúčastňuje aktivit této organizace, z čehož je 7.000 členů v Americe. Hlavní štáb tohoto řetězce sídlí v Paříži. V Americe má tento řetězec přibližně 140 poboček a celonárodní kancelář je v Novém Yorku.
 
 Řetězec _Chaîne des Rôtisseurs {xml:lang="fr"}_ se od ostatních organizací odlišuje důrazem na vyrovnané členství amatéru a profesionálů v hotelovém a restauračním průmyslu dodávajících potraviny, víno a zařízení. Dále se odlišuje vyrovnaným členstvím odborníků v obsluze, instruktorů, autorů kuchařských a odborných knížek, stejně tak jako amatérů a sofistikovaných návštěvníků restaurací (hostů), kteří nalézají uspokojení v dobrém jídle, pití a dobré společnosti.
+
+ [1]: gastronomie
 
