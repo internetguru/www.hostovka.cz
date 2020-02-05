@@ -7,7 +7,7 @@
 
 {kw="kdo-kdy-kde, gastronomie, Francie, historie"}
 
-César Ritz byl génius hotelového průmyslu. Moc dobře znal důležitost historie, zásad gastronomie a dobré organizace kuchyně.
+César Ritz byl génius hotelového průmyslu. Moc dobře znal důležitost historie, zásad [gastronomie](gastronomie) a dobré organizace kuchyně.
 
 V první polovině 20. století před rokem 1914, vybudoval César Ritz na těchto základních pilířích pohostinského průmyslu velice úspěšnou kariéru.
 
