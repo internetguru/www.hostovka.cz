@@ -23,11 +23,11 @@ Jiné národy se překládáním svých speciálních či tradičních receptů 
 
 Například [Maďaři mají svůj goulash](gulas), pörkölt, halászlé, tarhonya Dobos tortá (Dobošový dort), palacintás a jiné. Tato jídla se do jiných řečí nepředkládají a dostanete je pod těmito názvy v Německu, Americe, Pekingu nebo i v Česku.
 
-Dokonce i Rusové mají svá jídla jako například Butěrbrody, Schnitzel, [Stroganov](stroganov), Boršč, Sirniky, Pelmeni, kterým rozumí lidé i v Americe.
+Dokonce i Rusové mají svá jídla jako například Butěrbrody, Schnitzel, [Stroganov](stroganov), [Boršč](borsc), Sirniky, Pelmeni, kterým rozumí lidé i v Americe.
 
 ## Překlady českých jídel
 
-Jenomže Češi (papežtější než papež) nejsou schopni na mezinárodních lístcích prosadit ani jedno jídlo, a to ani to, o kterém si myslí, že je nejlepší na světě, kterým je svíčková. To, co na oficiálních anglických stránkách uvádí jako svíčkovou pod názvem _sirloin in cream sauce {xml:lang="en"}_, je výsměch české gastronomii. Podle mě to je i podceňování gastronomických znalostí všech anglicky mluvících zemí.
+Jenomže Češi (papežtější než papež) nejsou schopni na mezinárodních lístcích prosadit ani jedno jídlo, a to ani to, o kterém si myslí, že je nejlepší na světě, kterým je svíčková. To, co na oficiálních anglických stránkách uvádí jako svíčkovou pod názvem _sirloin in cream sauce {xml:lang="en"}_, je výsměch české [gastronomii](gastronomie). Podle mě to je i podceňování gastronomických znalostí všech anglicky mluvících zemí.
 
 Svíčková není _sirlion {xml:lang="en"}_. _Sirloin {xml:lang="en"}_ je roštěnec, ze kterého se krájí steaky nebo se peče v celku (tzv. _roastbeef {xml:lang="en"}_). Nikdy se ale nedusí na nějakém základu a nepodává se v krémové omáčce. Svíčková se kdysi připravovala z pravé svíčkové, odtud to jméno.
 
