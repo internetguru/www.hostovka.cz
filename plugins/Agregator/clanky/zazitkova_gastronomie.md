@@ -9,29 +9,27 @@
 
 Zážitková gastronomie je přesně to, co napovídá její název. Podle mě to ale bohužel není úplně přesná definice.
 
-Dnes se tento termín v českém odborném tisku často skloňuje. Obávám se ale, že nikdo neví, kdo tento termín do české gastronomie zavlekl. Podobně je na tom raut, který také hodně lidí papouškuje aniž by vlastně věděli, co to je.
-
-Lidé ve společnosti, alespoň v Americe, se nebaví o ničem jiném než o sportu, sexu a o jídle, ne nutně v tomto pořadí. Politika je tabu a stejně tak je tabu i náboženství.
+Dnes se tento termín často skloňuje v českém odborném tisku. Obávám se ale, že nikdo neví, kdo tento termín do české gastronomie zavlekl. Lidé ve společnosti, alespoň v Americe, se nebaví o ničem jiném než o sportu, sexu a o jídle, ne nutně v tomto pořadí. Politika je tabu a stejně tak je tabu i náboženství.
 
 {class="example"}
 
-Jak praví německé přísloví: _„Wer eine Reise tut, der kann was erzählen!“ {xml:lang="de"}_, česky: _„Kdo cestuje, ten má co vyprávět“_.
+Jak praví německé přísloví: _„Wer eine Reise tut, der kann was erzählen!“ {xml:lang="de"}_, česky: _„Kdo cestuje, ten má co vyprávět.“_
 
-Lidé mluví také tom, s jakými památkami, přírodními krásami a pamětihodnostmi se setkali. Případně se zmíní, jaké bylo jejich ubytování. Nakonec se ale všechno stočí k jídelnímu lístku a na jídlo, neboli na [gastronomické](gastronomie) zážitky.
+Lidé mluví také o tom, s jakými památkami, přírodními krásami a pamětihodnostmi se setkali. Případně se zmíní, jaké bylo jejich ubytování. Nakonec se ale všechno stočí k jídelnímu lístku a na jídlo, neboli na [gastronomické](gastronomie) zážitky.
 
 ## Cestování za zážitkem z jídla
 
 Mnozí lidé, nejen Američané, jsou ochotni za zážitkem z jídla a pití jet až na kraj světa (dále než 20 km za Prahu).
 
-Pro někoho je zážitek návštěva nějaké vyhlášené restaurace, privátního klubu či resortu, pro jiného  návštěva několik tisíc kilometrů vzdálené země věhlasné pro svou gastronomii.
+Pro někoho je zážitek návštěva nějaké vyhlášené restaurace, privátního klubu či resortu, pro jiného návštěva několik tisíc kilometrů vzdálené země věhlasné pro svou gastronomii.
 
 {class="example"}
 
-Já jsem toho také schopen. Pro mě je ale i zážitek opečený špekáček v kiosku na Václavském náměstí nebo chleba namazaný škvarkovým sádlem.
+Já jsem toho také schopen. Pro mě je zážitek ale i opečený špekáček v kiosku na Václavském náměstí nebo chleba namazaný škvarkovým sádlem.
 
 Někdo je ochoten za zážitek z jídla dát „poslední korunu“ (nebo dolar). Takoví lidé se slučují v různých klubech, ve kterých není zanedbatelný již samotný členský příspěvek. Jedním z nich je například _[Chaîne des Rôtisseurs](spolecenstvi_gastronomu#chaine_des_rotisseurs) {xml:lang="fr"}_, kde lidé utrácí tisíce dolarů za gastronomické magazíny a kuchařské knížky.
 
-Je dokázáno, že někteří hobby kuchaři ve svých teoretických znalostech o mezinárodní gastronomii předčí mnohé odborníky z povolání. Je to z jednoduchého důvodu a sice, že ve většině případů si mohou dovolit navštěvovat více restaurací než lidé, kteří v nich pracují.
+Je dokázáno, že někteří hobby kuchaři ve svých teoretických znalostech o mezinárodní gastronomii předčí mnohé odborníky z povolání. Je to z jednoduchého důvodu a sice, že si ve většině případů mohou dovolit navštěvovat více restaurací než lidé, kteří v nich pracují.
 
 Na západě návštěva některých luxusních restaurací stojí $100 na osobu a více. V některých případech k tomu musíte přičíst riziko, že zážitek nebude odpovídat ceně.
 
