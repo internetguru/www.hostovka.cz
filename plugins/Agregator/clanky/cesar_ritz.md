@@ -1,5 +1,5 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=61.html" data-image="/files/preview/clanky/gastonomie/general.jpg" data-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=61.html" data-image="/files/preview/clanky/cesar_ritz/general.jpg" data-type="article"}
 
 {ctime="2005-08-11" mtime="2020-01-05" id="cesar_ritz" author="Michael Klíma" short="César Ritz"}
 
