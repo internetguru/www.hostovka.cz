@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=304.html" data-image="/files/preview/clanky/barman/general.jpg" data-type="article"}
 
-{ctime="2008-04-03" mtime="2020-01-05" id="kradeze_v_kuchyni" author="Michael Klíma" short="Krádeže v kuchyni"}
+{ctime="2008-04-03" mtime="2020-01-05" id="kradeze\_v\_kuchyni" author="Michael Klíma" short="Krádeže v kuchyni"}
 
 # Co se zaměstnanci, kteří kradou?
 
@@ -12,6 +12,8 @@ Jednou mi nepřišel do práce barman. Barmanství už mi tak nejde, a tak jsem 
 Já jsem mu za to poděkoval a řekl jsem mu, aby mi ho poslal tak jako tak. Když Jim přišel, tak jsem mu zcela na rovinu řekl: „Tak Jime, já o tobě všechno vím. Takže když tě nachytám s rukou v pokladně, tak ti ji useknu, když tě nachytám že piješ mé lihoviny, tak ti je někdy otrávím a když tě nachytám že kouříš má cigára, tak ti proříznu hrdlo. No a teď mi dej pusu a mazej za bar.“
 
 Jak jste nejspíš poznali, tak jsem to napsal jen pro pobavení. Mohu ale posloužit pravdivou historkou.
+
+{id="mensi\_zlo"}
 
 ## Menší zlo – případová studie
 
@@ -24,6 +26,8 @@ Byl jsem tehdy sice ještě nezkušený, ale nebyl jsem naivní. Tak jsem mu na 
 Velmi rychle jsem přišel na to, že kuchařka krade i u mě. Nebyl to ale „kšeft ve kšeftě“, jako je tomu ve většině případů. Kradla proto, aby uživila hladového kluka.
 
 Musím se přiznat, že jsem dělal, jako že to nevidím. Bylo to také proto, že byla takový četník, že si už nikdo jiný nedovolil ukrást ani nudli. Zvolil jsem tedy _menší zlo_.
+
+{id="boj\_mezi\_zamestnanci\_a\_vedenim"}
 
 ## Boj mezi zaměstnanci a vedením
 
@@ -39,7 +43,9 @@ Pokud se s vašimi zaměstnanci nechcete „šábovat“, tak vám nezbývá nic
 
 Já mám sice na zadním hořáku již hodně dlouho úvahy o tom, jak se v pohostinství šidí a krade, a jak se tomu dá zabránit. Jejich zveřejnění ale odkládám, aby by se ti zlodějíčkové, kteří jsou zpravidla bystřejší než majitelé restaurací, ode mě nenaučili to, co ještě neumí.
 
-# Začlenění trestanců do společnosti
+{id="zacleneni\_trestancu"}
+
+## Začlenění trestanců do společnosti
 
 Z toho, co jsem zatím napsal, jste museli poznat, že proti některým „muklům“ či trestancům nic nemám. Plně souhlasím s tím, že všichni máme jakousi morální povinnost jim usnadnit návrat do společnosti. Co mi ale vadí je, že lidé považují pohostinství za jediné místo, kde by trestanci našli uplatnění.
 
