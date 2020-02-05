@@ -23,6 +23,8 @@ Podle jedné teorie se vynalezení _diners {xml:lang="en"}_ přičítá Walteru 
 
 Kolem roku 1872 byl jeho byznys tak lukrativní, že pověsil sazečství na hřebíček. Pořídil si koně a malý krytý vozík, který zaparkoval před tiskárnou, a sendviče a kávu prodával kolemjdoucím. Aniž by to věděl, tak tím inspiroval jiné lidi k založení velice populárních jídelen zvaných _diner {xml:lang="en"}_.
 
+{id="vlakove\_vozy"}
+
 ## Vznik diners podle jídelních vozů ve vlacích
 
 Jiná, poněkud věrohodnější teorie, se přiklání k tomu, že _diners {xml:lang="en"}_ pocházejí z vlakových jídelních vozů.
@@ -41,6 +43,8 @@ Proto byly některé _diners {xml:lang="en"}_ otevřeny 24 hodin denně. Jsem p�
 
 Typické _diners {xml:lang="en"}_ byly stejně dlouhé jako vlakové jídelní vozy. Některé byly naopak velmi malé a čtverhranné, což samozřejmě někteří marketingově využili ve svém názvu. _Square {xml:lang="en"}_ totiž znamená čtverec nebo náměstí, ale také „poctivé“. _Squere diner {xml:lang="en"}_ byla tedy nejenom čtverhranná, ale údajně i „poctivá“ restaurace.
 
+{id="diners\_v\_cr"}
+
 ## Diners v České republice
 
 Díky jednoduchosti _diners {xml:lang="en"}_ jsem si myslel, že by to byl ideální systém pro mé rodné Československo.
@@ -50,6 +54,8 @@ V roce 1989 jsem se do své rodné vlasti vrátil v zastoupení jedné z největ
 Jednou to dokonce vypadalo, že Češi kvůli hamburgrárnám vyhlásí Americe válku, ale nakonec k tomu nedošlo. Ne že by se Češi Američanů báli, to ne. V tom ohledu mají Češi pro strach uděláno. Měli prostě strach z toho, že by pak nevěděli, kde všechny ty mrtvé Američany pohřbít.
 
 Naštěstí se to vyřešilo diplomatickou cestou. Američané slíbili, že více než 100.000 restaurací rychlého občerstvení v Česku neotevřou. Na oplátku Čechům povolili, že českých restaurací typu „Švejk“ mohou v Americe otevřít kolik chtějí.
+
+{id="pocet\_pismen"}
 
 ## Pozor na počet písmen v anglických slovech
 
