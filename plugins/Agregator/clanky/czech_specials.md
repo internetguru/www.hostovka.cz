@@ -40,3 +40,4 @@ V poslední době se svíčková (a to zejména v zahraničí) dělá ze zadníh
 Já proti českým a krajovým jídlům vůbec nic nemám. Kdysi jsem měl českou restauraci v české čtvrti Chicaga Cicero, ve které byly názvy všech jídel psány česky. U každého jídla byl anglický popis a nikdo si nestěžoval.
 
 To, že celá akce _Czech specials {xml:lang="en"}_ skončí fiaskem vím již od prvního dne a dnes už nejsem sám. Co mně ale vadí nejvíce je, nakolik tím vším utrpí zbytek reputace, kterou česká kuchyně ve světě ještě má.
+
