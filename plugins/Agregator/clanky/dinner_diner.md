@@ -3,7 +3,7 @@
 
 {ctime="2007-10-04" mtime="2007-10-04" id="diner" author="Michael Klíma" short="Diner"}
 
-# Restaurace Diner
+# Restaurace diner
 
 {kw="koho se to týká, případová studie, Amerika"}
 
