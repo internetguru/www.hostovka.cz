@@ -3,15 +3,15 @@
 
 {ctime="2007-10-04" mtime="2007-10-04" id="diner" author="Michael Klíma" short="Diner"}
 
-# Restaurace diner
+# Restaurace zvaná diner
 
 {kw="koho se to týká, případová studie, Amerika"}
 
-_Diner {xml:lang="en"}_ byly prefabrikované restaurace populární po celé Severní Americe, dokonce i v Kanadě. Restaurace byly sestaveny v dílně a pak převezeny na zvolené místo.
+_Diner {xml:lang="en"}_ byly prefabrikované restaurace populární po celé Severní Americe a dokonce i v Kanadě. Restaurace byly sestaveny v dílně, a pak převezeny na zvolené místo.
 
-Při příchodu do Ameriky jsem byl sice dobře připraven, ale na některé věci jsem koukal jako tele na nová vrata. Jednou z nich byli právě _diners {xml:lang="en"}_, o kterých jsem do té doby nic nevěděl.
+Při příchodu do Ameriky jsem byl sice dobře připraven, ale na některé věci jsem koukal jako tele na nová vrata. Jednou z nich byly právě _diners {xml:lang="en"}_, o kterých jsem do té doby nic nevěděl.
 
-Dnes všechny _diners {xml:lang="en"}_ téměř zanikly. V roce 68 byly ale velice populární po celé Americe. Byl jsem konceptem _diners {xml:lang="en"}_ téměř fascinován, protože byl tak jednoduchý.
+Dnes už téměř všechny _diners {xml:lang="en"}_ zanikly. V roce 68 byly ale velice populární po celé Americe. Byl jsem konceptem _diners {xml:lang="en"}_ téměř fascinován, a to zejména pro jeho jednoduchost.
 
 Jak _diners {xml:lang="en"}_ vlastně začaly?
 
@@ -19,13 +19,9 @@ Jak _diners {xml:lang="en"}_ vlastně začaly?
 
 ## Vznik diners podle Waltera Scotta
 
-Podle jedné teorie se vynalezení _diners {xml:lang="en"}_ přičítá Walteru Scottovi, tiskařskému sazeči z Providence.
+Podle jedné teorie se vynalezení _diners {xml:lang="en"}_ přičítá Walteru Scottovi, tiskařskému sazeči z Providence. Kolem roku 1858, když Scottovi bylo asi 17 let, si přivydělával prodejem sendvičů a kávy z košíku. To nosil zaměstnancům tiskárny na noční směně.
 
-Kolem roku 1858, když Scottovi bylo asi 17 let, si přivydělával prodejem sendvičů a kávy z košíku. Ty nosil zaměstnancům tiskárny na noční směně.
-
-Kolem roku 1872 byl jeho byznys tak lukrativní, že pověsil sazečství na hřebíček. Pořídil si koně a malý krytý vozík, který zaparkoval před tiskárnou a sendviče a kávu prodával kolemjdoucím.
-
-Aniž by to věděl, tak tím inspiroval jiné lidi k založení velice populárních jídelen zvaných _diner {xml:lang="en"}_.
+Kolem roku 1872 byl jeho byznys tak lukrativní, že pověsil sazečství na hřebíček. Pořídil si koně a malý krytý vozík, který zaparkoval před tiskárnou, a sendviče a kávu prodával kolemjdoucím. Aniž by to věděl, tak tím inspiroval jiné lidi k založení velice populárních jídelen zvaných _diner {xml:lang="en"}_.
 
 ## Vznik diners podle jídelních vozů ve vlacích
 
@@ -41,7 +37,7 @@ Jídla se podávala na pult (anglicky _counter service {xml:lang="en"}_), což t
 
 _Diners {xml:lang="en"}_ otevíraly velmi brzy ráno kvůli snídaním, které ale podávaly po celý den! Ve městech jako je Nový York, kterému se říká „město, které nikdy nespí“, jdou večer někteří lidé spát a jiní teprve vstávají a chystají se na noční směnu.
 
-Proto byly některé _diners {xml:lang="en"}_ otevřeny 24 hodin. Jsem přesvědčen, že mnohý český pan vedoucí by měl zamotanou hlavu, jak to vyřešit s [dlouhými a krátkými týdny][2].
+Proto byly některé _diners {xml:lang="en"}_ otevřeny 24 hodin denně. Jsem přesvědčen, že mnohý český pan vedoucí by měl zamotanou hlavu, jak to vyřešit s [dlouhými a krátkými týdny][2].
 
 Typické _diners {xml:lang="en"}_ byly stejně dlouhé jako vlakové jídelní vozy. Některé byly naopak velmi malé a čtverhranné, což samozřejmě někteří marketingově využili ve svém názvu. _Square {xml:lang="en"}_ totiž znamená čtverec nebo náměstí, ale také „poctivé“. _Squere diner {xml:lang="en"}_ byla tedy nejenom čtverhranná, ale údajně i „poctivá“ restaurace.
 
@@ -57,17 +53,17 @@ Naštěstí se to vyřešilo diplomatickou cestou. Američané slíbili, že ví
 
 ## Pozor na počet písmen v anglických slovech
 
-Kdysi jsem byl ředitelem hotelové školy _Hospitality Institute International {xml:lang="en"}_ na _Triton College {xml:lang="en"}_. Na _Triton College {xml:lang="en"}_ studovalo kolem 33 tisíc studentů a jenom v našem programu jsme jich měli kolem 500.
+Kdysi jsem byl ředitelem hotelové školy _Hospitality Institute International {xml:lang="en"}_ na _Triton College {xml:lang="en"}_. Studovalo tam v té době kolem 33 tisíc studentů a jenom v našem programu jsme jich měli kolem 500.
 
 Studenti museli někde jíst, a proto byla v kampusu celá řada koncesionářů, kteří nabízeli všechno možné – od hamburgerů, smažených kuřat, stánků s párky, koblihami a pizzou, až po zmrzlinu z pojízdných vozíků. _What a country! {xml:lang="en"}_
 
 Byli jsme program pohostinství a cestovního ruchu a provozovali jsme školní restauraci pro profesorský sbor. Dělali jsme i různé [cateringové](catering) akce, což byla úžasná příležitost pro naše studenty.
 
-Já jsem jeden z prvních, kdo pod hlavičkou _Hospitality {xml:lang="en"}_ prosadil výuku managementu nejenom restauračních a hotelových provozů, ale i cestovního ruchu. Byl jsem také jeden z prvních, kdo pochopil, že obě odvětví bez sebe nemohou fungovat (což mi v Česku stále nikdo nevěří). Proto jsem po několik let usiloval a schválení programu výuky managementu restaurací [rychlého občerstvení][1]. Ty jsou totiž nezanedbatelnou složkou pohostinství.
+Já jsem jeden z prvních, kdo pod hlavičkou _Hospitality {xml:lang="en"}_ prosadil výuku managementu nejenom restauračních a hotelových provozů, ale i cestovního ruchu. Byl jsem také jeden z prvních, kdo pochopil, že tato dvě odvětví bez sebe nemohou fungovat (což mi v Česku stále nikdo nevěří). Proto jsem po několik let usiloval o schválení programu výuky managementu restaurací [rychlého občerstvení][1]. Ty jsou totiž nezanedbatelnou složkou pohostinství.
 
 Zádrhel byl v mojí podmínce, že bude studentům v rámci výuky rychlého občerstvení dána možnost v některých restauracích přímo pracovat nebo je i řídit. Abych to ale zkrátil…
 
-Vy, kteří mně již znáte, tak víte, že jsem prevít. Vypracoval jsem tedy relativně obsáhlý materiál. V něm jsem na 250 stránkách dopodrobna popsal, jaký benefit by z mého programu měla škola, a hlavně mí studenti. Můj návrh ale neprošel.
+Vy, kteří mně již znáte, tak víte, že jsem prevít. Vypracoval jsem tedy relativně obsáhlý materiál. V něm jsem na 250 stránkách dopodrobna popsal, jaký benefit by z mého programu měla škola, a hlavně moji studenti. Můj návrh ale neprošel.
 
 Bylo to krátce před mým odchodem do důchodu, a tak jsem se tím moc nezabýval. Krátce po odchodu jsem se ale dozvěděl, že v komisi, která můj koncept zamítla, byla mimo jiné také jedna děkanka anglického oddělení. Ta sice pohostinství vůbec nerozuměla, ale poukázala na to, že v mém návrhu jsem slovo prádlo (anglicky _linen {xml:lang="en"}_) napsal se dvěma „n“, což je nesmysl.
 
@@ -77,4 +73,3 @@ Asi po deseti letech jsem se setkal s mým nástupcem Jeromem, což byl mimo jin
 
  [1]: mc_donalds
  [2]: kratky_a_dlouhy_tyden
-
