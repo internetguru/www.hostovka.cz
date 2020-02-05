@@ -13,6 +13,8 @@ Vsadím se, že vám na žádné škole angličtiny neřeknou co znamená _brown
 
 Tento článek není určen vyloženě studentům Hostovky, ale víceméně profesionálům. Přesněji řečeno je určen našim českým kuchařům.
 
+{id="historie"}
+
 ## Historie
 
 Já vím, že to nechcete slyšet, a také si to také nerad připomínám. Faktem ale je, že mimo krátkého období první Československé republiky, byli Češi vždy pod nějakou knůtou nebo okupací. Někteří prostě museli stále někomu lézt do zadku. Bývalo by bylo dobře, kdyby se tito lidé vyznačovali hnědými nosy.
@@ -20,6 +22,8 @@ Já vím, že to nechcete slyšet, a také si to také nerad připomínám. Fakt
 Teď tady ale máme jakousi svobodu. Řekli byste si, že do zadku už nikomu lézt nemusíme. Co se ale týká pohostinství (zejména kuchařů), tak se nesmírně mýlíte.
 
 Říká se, že člověk je největším nepřítelem třídy, ze které vzešel. Sám jsem toho živým příkladem. Například nerozumím ničemu jinému než pohostinství a jsem jeho neustálým kritikem, zejména kritikem špatných kuchařů.
+
+{id="vyvoj\_kucharu\_v\_cesku"}
 
 ## Vývoj kuchařů v Česku
 
@@ -33,6 +37,8 @@ Jsem na některé naše kuchaře pyšný, protože přes 40 let gastronomického
 
 Žádná jiná země na světě se nemůže pochlubit tolika hotelovými školami na počet hostů, kolik jich máme my. V žádné jiné zemi nejsou všichni kuchaři vyučeni s maturitou a někteří dokonce i s doktorátem. _What a [BS](bullshit) {xml:lang="en"}_. Přesto si to necháme líbit. Naši osvoboditelé nám ve všem byli vzorem, ale nikdy se nás neopovážili učit [gastronomii](gastronimie).
 
+{id="zahranicni\_vzory"}
+
 ## Zahraniční vzory
 
 Velký Gordon Ramsay (původem z Anglie), kterému teď i Češi lezou do zadku, v rozhovoru přiznal, že Anglie jako taková nikdy nikomu nemohla být vzorem. My si ho dnes přesto zveme, aby naše šéfkuchaře naučil, jak házet hrncem, jak rozbíjet talíře, a jak ponižovat a urážet své podřízené.
@@ -42,6 +48,8 @@ Ale možná, že to je to, co Češi potřebují. Již za Rakouska-Uherska se ř
 Já jsem Čech jak poleno, ale mohu se pochlubit tím, že jsem v životě nikdy nehrál druhé housle. Vím, že mi mnoho našich „odborníků“ nemůže přijít na jméno, protože se je snažím něco naučit. Myslím si ale, že k tomu mám příležitost právě proto, že jsem Čech.
 
 Nejsem sice učitel národů, jako byl Komenský, ale přestože jsem Čech, tak jsem úspěšně učil gastronomii a pohostinství v mnoha rozvojových zemích. Mohu vás ubezpečit, že jsem byl vždy respektován, protože jsem respektoval i já je.
+
+{id="vysmech\_ceskemu\_kucharskemu\_umeni"}
 
 ## Výsměch českému kuchařskému umění
 
@@ -60,3 +68,4 @@ Andrea Accordi potřeboval k tomu, aby se stal v Česku slavným jen půl roku. 
 Nakonec vám musím dát jednu radu. Nemějte strach před velkými zvířaty a „bulšitáři“. Utřete si své hnědé nosy a řekněte si, že už toho je dost. Dejte lidem to, co chtějí a co jim za jejich peníze patří – nejen v hotelích, ale i v té nejzapadlejší hospodě. Nehoňte se za hvězdami, ale za spokojeností vašich hostů.
 
 Přestaňte také blbnout s falešným vlastenectvím a snahami oživit naši „dobrou starou českou kuchyni“ nesmyslnými specialitami nebo recepty od Marie B. Svobodové z roku 1894. Učte se od každého, kdo vám může něco dát, ale nelezte nikomu do zadku!
+
