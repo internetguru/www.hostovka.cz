@@ -17,6 +17,8 @@ Jak praví německé přísloví: _„Wer eine Reise tut, der kann was erzählen
 
 Lidé mluví také o tom, s jakými památkami, přírodními krásami a pamětihodnostmi se setkali. Případně se zmíní, jaké bylo jejich ubytování. Nakonec se ale všechno stočí k jídelnímu lístku a na jídlo, neboli na [gastronomické](gastronomie) zážitky.
 
+{id="cestovani\_za\_jidlem"}
+
 ## Cestování za zážitkem z jídla
 
 Mnozí lidé, nejen Američané, jsou ochotni za zážitkem z jídla a pití jet až na kraj světa (dále než 20 km za Prahu).

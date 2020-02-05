@@ -13,7 +13,7 @@ Dá se říci, že odborné časopisy (kterých v České republice na štěstí
 
 Nevím jestli není _Chaîne des Rôtisseurs {xml:lang="fr"}_ nějakou tajnou organizací, jako jsou svobodní zednáři, ale studenti Hostovky by o tom měli přeci jenom něco vědět. Proto zkráceně popíši, co jsem se o tomto společenství dozvěděl.
 
-{id="chaine_des_rotisseurs"}
+{id="chaine\_des\_rotisseurs"}
 
 ## Francouzské společenství Chaîne des Rôtisseurs
 

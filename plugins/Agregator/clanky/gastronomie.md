@@ -13,7 +13,7 @@
 
 Pokud hovoříme o gastronomii jako o umění, tak nemůžeme opomenout gasteru. Gastera je považována za desátou múzu. Múzy (kterých bylo devět) byly bohyně umění a vědy v řecké mytologii.
 
-{short="Jídelní lístky"}
+{short="Jídelní lístky" id="jidelni\_listky"}
 
 ## Gastronomická psychologie a jídelní lístky
 
@@ -22,6 +22,8 @@ Gastronomická psychologie se nejvíce projevuje na [jídelních lístcích](pop
 Většina hostů ocení, když se z jídelního lístku mohou poučit. Také ocení, když jim jídelní lístek poskytne úplné a pravdivé informace o jídlech, která daná restaurace nabízí – aby se nedostali do trapné situace. 
 
 Restaurace by se neměly snažit hosta zaskočit jídelním lístkem a ani ho omračovat odbornými znalostmi. Proto lístek musí obsahovat informace, které mají pro hosta nějakou hodnotu a jsou srozumitelné.
+
+{id="ceska\_gastronomie"}
 
 ## Česká gastronomie
 
@@ -32,6 +34,8 @@ Když se dívám na jídelní lístky ve 20km okruhu kolem Prahy, tak (až na v�
 Je to také velká příležitost k tomu, aby si česká a slovenská gastronomie vytvořily vlastní identitu a staly se gastronomií, která bude v EU respektována.
 
 Také se u nás začíná rozvíjet tzv. [zážitková gastronomie](zazitkova_gastonomie).
+
+{id="historie\_gastronomie"}
 
 ## Historie gastronomie
 
@@ -47,7 +51,7 @@ Nicméně, když už hovoříme o gastronomii, tak bychom se měli zmínit o ně
  - [Catherine de Medici](catherine_de_medici)
  - [César Ritz](cesar_ritz)
 
-{short="Gastronomická pravidla"}
+{short="Gastronomická pravidla" id="gastronomicka\_pravidla"}
 
 ### Gastronomická pravidla v historii a současnosti
 
@@ -73,6 +77,8 @@ Když jsem zjistil, že některé národy jako například Rusové, nemají vůb
 
 Jediné, s čím jsem se nakonec smířil, jsou [gastronomické skupiny](gastronomicke_skupiny). Například v seznamu jídel bychom se bez nich nemohli vůbec orientovat. Prostě nějaký pořádek musí být.
 
+{id="globalni\_pravidla"}
+
 ### Snaha určit globální pravidla
 
 Kolem roku 1958 se Hotelový a cateringový institut Velké Británie rozhodl stanovit v gastronomickém světě jednou provždy zásady toho, co je správné a co ne. Dvanáct vysoce kvalifikovaných kuchařů bylo jmenováno do komise, která měla vypracovat kuchařský kodex. Po dvou a půl letech týdenních schůzek a nekonečných diskusí upadl tento záměr do zapomenutí.
@@ -80,6 +86,8 @@ Kolem roku 1958 se Hotelový a cateringový institut Velké Británie rozhodl st
 Tito kuchaři, kteří zastupovali celou řadu etnických kuchyní, se nemohli shodnout na jednotných zásadách. To, co je pro jednoho lahůdkou, může být pro druhého něčím odporným. Jmenujte jakékoliv jídlo určité skupiny lidí a zcela určitě najdete jinde ve světě jinou skupinou, která by toto jídlo ani nepozřela.
 
 Také například skutečnost, že francouzští kuchaři při zahušťování šťáv dávají přednost bramborovému škrobu před rýžovým, má opodstatnění jedině v tom, že bramborový škrob je ve Francii levnější. Od nepaměti je snadněji k dostání než škrob rýžový, který je naopak ze stejných důvodů oblíben u čínských kuchařů.
+
+{id="dnesni\_vyvoj"}
 
 ### Vývoj dnešní gastronomie
 
