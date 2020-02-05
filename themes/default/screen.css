@@ -646,8 +646,9 @@ ul.docinfo.nomultiple.global {
   margin: 0;
   padding: 0;
   list-style: none;
+  text-align: left;
 }
-.search ul > li {
+.search > ul > li {
   margin: 0;
   position: relative;
   display: flex;
@@ -903,4 +904,5 @@ p:after {
   font-size: 1.5em;
 }
 /***************************/
+
 
