@@ -13,6 +13,8 @@ Přes obrovskou vyjadřovací schopnost má angličtina někdy nedostatek výraz
 
 _Cruise {xml:lang="en"}_ je ale úplně jiné zvíře. Pokud jako správní Češi mermomocí chceme nalézt český ekvivalent, tak si musíme slovo _cruise {xml:lang="en"}_ blíže objasnit.
 
+{id="vyznam\_slova\_cruise"}
+
 ## Význam slova cruise
 
 Slovo _cruiser {xml:lang="en"}_ je v mnoha slovnících překládáno jako křižník. _Cruise {xml:lang="en"}_ znamená křižovat ve smyslu plavit se křížem krážem, ale také jezdit po okolí autem.
@@ -25,6 +27,8 @@ V roce 1844 velice známá britská zaoceánská lodní společnost _P&O Steam N
 
 _Bill {xml:lang="en"}_ se _P&O {xml:lang="en"}_ společnosti odměnil článkem, ve kterém nešetřil superlativy o _cruise {xml:lang="en"}_, kterou právě podnikl. Od té doby se _cruise {xml:lang="en"}_ stalo synonymem pro rekreační a někdy i okružní plavby spojené s poznáváním neznámých míst.
 
+{id="lode\_jako\_plovouci\_hotely"}
+
 ## Lodě jako plovoucí hotely
 
 _Cruise ships {xml:lang="en"}_ jsou lodě používané výhradně pro požitek narozdíl od _ocean steamers_ (jako například Titanic), které se zbývají pravidelnou lodní dopravou. Vlastně to ani nejsou lodě. Jsou to obrovské plovoucí luxusní hotely, které se předhánějí ve kvalitě a množství podávaných jídel a nápojů.
@@ -34,6 +38,8 @@ Mimo pohodlí poskytují lodě pasažérům všemožnou, téměř 24hodinovou z�
 _Cruises {xml:lang="en"}_ začínají a končí v přístavu, do kterého se lidé musí nějakým způsobem dostat. Jsou tedy velice úzce spojeny s leteckou dopravou, takže to nejsou vyloženě jenom okružní plavby. Tím se ale taková _cruise {xml:lang="en"}_ pro některé vnitrozemce prodraží.
 
 _Cruises {xml:lang="en"}_ se dělí podle regionů. Nejpopulárnější jsou Aljaška, Mexiko, Jižní Pacifik, Asie, Afrika, Evropa, Středomoří, Severní Amerika, Karibské ostrovy, Havaj, a Jižní Amerika.
+
+{id="prubeh\_plavby"}
 
 ## Průběh plavby
 
@@ -66,6 +72,8 @@ V ceně není zpravidla zahrnuto:
 
 Dovolená na lodi není jenom jídlo typu _all you can eat {xml:lang="en"}_ neboli [sněz, co stačíš](samoobsluzna_restaurace). Dnešní _cruises {xml:lang="en"}_ nabízí služby a zábavu pro pasažéry všech věků – od miminek až po seniory.
 
+{id="jak\_se\_obleci\_a\_jak\_platit"}
+
 ### Jak se obléci a jak platit
 
 Na Aljašku v zimě šortky asi potřebovat nebudete, spíše něco teplého. Během dne na lodi vám bude stačit košile nebo prostě něco pohodlného. Pro případné exkurze v přístavech budete za deštivého počasí rádi za pršiplášť. Pokud ho ale zapomenete, tak si ho budete moci koupit na lodi – zrovna tak jako deštník a milión jiných věcí.
@@ -73,6 +81,8 @@ Na Aljašku v zimě šortky asi potřebovat nebudete, spíše něco teplého. B�
 Na palubě se můžete najíst z bufetu třeba i v plavkách (nahoře bez ale zatím nepřipouští). V jídelnách v plavkách jíst nemůžete a k večeři mají pánové společenské sako (kravata zpravidla není podmínku) a dámy nějaké vkusné šaty.
 
 Nejjednodušší je platit kreditní kartou. Pro nákupy na lodi většina společností umožňuje založit lodní účet, podobně jako při ubytování v hotelech. Takže vlastně žádné peníze po kapsách nosit nemusíte.
+
+{id="prumerny\_vek\_pasazeru"}
 
 ### Průměrný věk pasažérů
 
@@ -85,3 +95,4 @@ Podobných otázek lidé kladou daleko více a lodní společnosti nebo vaše ce
 Doporučuji také uzavřít pojistku pro případ, že nebudete moci jet. Jednou jsme _cruise {xml:lang="en"}_ museli kvůli manželčině onemocnění zrušit. Měli jsme naštěstí pojistku, a tak nám všechny peníze vrátili.
 
 Šťastnou plavbu!
+
