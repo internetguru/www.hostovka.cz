@@ -11,15 +11,13 @@
 
 {class="example"}
 
-Pokud hovoříme o gastronomii jako o umění, tak nemůžeme opomenout gasteru. Gastera je považována za desátou múzu. Múzy, kterých bylo devět, byly bohyně umění a vědy v řecké mytologii.
+Pokud hovoříme o gastronomii jako o umění, tak nemůžeme opomenout gasteru. Gastera je považována za desátou múzu. Múzy (kterých bylo devět) byly bohyně umění a vědy v řecké mytologii.
 
 {short="Jídelní lístky"}
 
 ## Gastronomická psychologie a jídelní lístky
 
-Gastronomická psychologie se nejvíce projevuje na [jídelních lístcích](popis_jidel_na_jidelnich_listcich).
-
-Jídelní lístek, i když se o tom tak nemluví, musí být pro hosta nejenom informativní, ale i poučný. Ne všichni hosté jsou každodenními návštěvníky restaurací, natožpak těch luxusních.
+Gastronomická psychologie se nejvíce projevuje na [jídelních lístcích](popis_jidel_na_jidelnich_listcich). I když se o tom tak nemluví, musí být jídelní lístek pro hosta nejenom informativní, ale i poučný. Ne všichni hosté jsou každodenními návštěvníky restaurací, natožpak těch luxusních.
 
 Většina hostů ocení, když se z jídelního lístku mohou poučit. Také ocení, když jim jídelní lístek poskytne úplné a pravdivé informace o jídlech, která daná restaurace nabízí – aby se nedostali do trapné situace. 
 
@@ -37,13 +35,11 @@ Také se u nás začíná rozvíjet tzv. [zážitková gastronomie](zazitkova_ga
 
 ## Historie gastronomie
 
-Dvě z původních center ranné gastronomie byl Řím a Čína (Orient).
-
-Přestože Římané byli známi svým nepříliš vybíravým chováním při [banketech](banket), tak se o jejich jídle dá říci, že na danou dobu bylo docela sofistikované.
+Dvě z původních center rané gastronomie byl Řím a Čína (Orient). Přestože Římané byli známi svým nepříliš vybíravým chováním při [banketech](banket), tak se o jejich jídle dá říci, že na danou dobu bylo docela sofistikované.
 
 V Orientu se o plně vyvinuté gastronomii dá hovořit již od 5. století př. n. l. Válkami, obchodem a kulturní asimilací se čínská gastronomie rozšířila do Japonska, Koreje, a do větší části Jižní Asie. Evropa ale nezůstávala pozadu.
 
-Nicméně, když už hovoříme o gastronomii, tak bychom se měli zmínit o několika konkrétních gastronomech, kteří se ni zasloužili:
+Nicméně, když už hovoříme o gastronomii, tak bychom se měli zmínit o několika konkrétních gastronomech, kteří se o ni zasloužili:
 
  - [Georges Auguste Escoffier](auguste_escoffier)
  - [Marie-Antoine Carême](careme)
@@ -73,15 +69,13 @@ Navíc jsme si museli pamatovat, že se jídla podávají od lehkých k těžš�
 
 Když jsem hned po vyučení začal cestovat po světě, tak jsem si několikrát kladl otázku: „O jakém gastronomickém sledu jídel náš pan učitel Dřevikovský vlastně mluvil?“ Rozhodně ne o čínském, protože Číňané například jedí polévky až na konec, o americkém také ne, protože Američanům, jak se zdá, je to všechno jedno.
 
-Když jsem zjistil, že některé národy jako například Rusové, nemají vůbec žádný vyhraněný gastronomický sled, tak jsem z toho byl prostě už úplně vyšinutý a řekl jsem si, že je všechno nanic.
+Když jsem zjistil, že některé národy jako například Rusové, nemají vůbec žádný vyhraněný gastronomický sled, tak jsem z toho byl prostě už úplně vyšinutý a řekl jsem si, že je všechno na nic.
 
-Jediné s čím jsem se nakonec smířil jsou [gastronomické skupiny](gastronomicke_skupiny). Například v seznamu jídel bychom se bez nich nemohli vůbec orientovat. Prostě nějaký pořádek musí být.
+Jediné, s čím jsem se nakonec smířil, jsou [gastronomické skupiny](gastronomicke_skupiny). Například v seznamu jídel bychom se bez nich nemohli vůbec orientovat. Prostě nějaký pořádek musí být.
 
 ### Snaha určit globální pravidla
 
-Kolem roku 1958 se Hotelový a cateringový institut Velké Británie rozhodl stanovit v gastronomickém světě jednou provždy zásady toho, co je správné a co ne.
-
-Dvanáct vysoce kvalifikovaných kuchařů bylo jmenováno do komise, která měla vypracovat kuchařský kodex. Po dvou a půl letech týdenních schůzek a nekonečných diskusí upadl tento záměr do zapomenutí.
+Kolem roku 1958 se Hotelový a cateringový institut Velké Británie rozhodl stanovit v gastronomickém světě jednou provždy zásady toho, co je správné a co ne. Dvanáct vysoce kvalifikovaných kuchařů bylo jmenováno do komise, která měla vypracovat kuchařský kodex. Po dvou a půl letech týdenních schůzek a nekonečných diskusí upadl tento záměr do zapomenutí.
 
 Tito kuchaři, kteří zastupovali celou řadu etnických kuchyní, se nemohli shodnout na jednotných zásadách. To, co je pro jednoho lahůdkou, může být pro druhého něčím odporným. Jmenujte jakékoliv jídlo určité skupiny lidí a zcela určitě najdete jinde ve světě jinou skupinou, která by toto jídlo ani nepozřela.
 
@@ -89,9 +83,7 @@ Také například skutečnost, že francouzští kuchaři při zahušťování �
 
 ### Vývoj dnešní gastronomie
 
-Dnes je gastronomie z pohledu provozovatele pohostinské činnosti mnohem širší obor než kdysi.
-
-Moderní gastronomický odborník (tzv. [manažer kuchyně](funkce_pracovniku_v_pohostinstvi)) musí brát v úvahu globální stravovací zvyklosti.
+Dnes je gastronomie z pohledu provozovatele pohostinské činnosti mnohem širší obor než kdysi. Moderní gastronomický odborník (tzv. [manažer kuchyně](funkce_pracovniku_v_pohostinstvi)) musí brát v úvahu globální stravovací zvyklosti.
 
 Gastronomický svět se podstatně změnil od doby, kdy to byla pouze Francie, která udávala tón ve stolování a stanovovala gastronomická pravidla.
 
