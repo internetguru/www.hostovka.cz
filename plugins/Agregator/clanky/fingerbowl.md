@@ -9,6 +9,8 @@
 
 _Fingerbowl {xml:lang="en"}_ je malá nádoba naplněná vodou (někdy i s kouskem citrónu), ve které si hosté oplachují prsty. Jde o jeden z odborných výrazů, který byl kdysi v pohostinství tak běžný, že se ho nikdo ani nesnažil přeložit do češtiny.
 
+{id="zkusenost\_z\_hotelu\_coronado"}
+
 ## Zkušenost z hotelu Coronado
 
 Měli jsme u nás (v Americe) na návštěvě známou z Německa. Ta se pozastavila nad tím, že se v Hotelu _Coronado {xml:lang="en"}_, do kterého jsme ji vzali na oběd, nesetkala s takovým servisem, jako například v Mnichově.
@@ -27,6 +29,8 @@ Hlavním důvodem mé nespokojenosti bylo, že nám ke kapučínu, které podáv
 
 Naše známá se také podivovala, že nám k sendvičům nepodali misku s vodou na oplachování prstů, což by v hotelu takového typu by očekávala.
 
+{id="ruzne\_pristupy\_restauraci"}
+
 ## Různé přístupy restaurací
 
 Misky na oplachování prstů jsou z různých materiálů a mají různé tvary. Přestože se jim říká _fingerbowls {xml:lang="en"}_, tak to neznamená, že by se podávaly jen k oplachování prstů.
@@ -38,3 +42,4 @@ Pro oplachování prstů se voda něčím navoní a případně se do ní přid�
 Některé restaurace rychlého občerstvení, jako je například _KFC {xml:lang="en"}_ dávaly ke každému jídlu malé navlhčené papírové ubrousky v papírovém sáčku. Od toho se ale již také upouští, protože je málokdo používal.
 
 Dnes má (alespoň tedy v Americe) každá restaurace rychlého občerstvení záchody s teplou a studenou vodou a sušičem rukou nebo ručníky k použití zdarma. Některé rybí restaurace mají přímo v jídelně dřez s tekoucí teplou a studenou vodou a s papírovými ubrousky, kde si hosté mohou kdykoliv během stolování umýt ruce, aniž by museli jít na záchod. _What a country! {xml:lang="en"}_ 
+

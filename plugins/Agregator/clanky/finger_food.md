@@ -9,6 +9,8 @@
 
 Jedním z posláních Hostovky je připravit své studenty na jídla, se kterými se setkají při cestách do zahraničí. O rychlém občerstvení jsem něco málo již napsal. Obávám se ale, že jsem zapomněl na něco, co je Čechům velmi blízké – na sendviče. Ty se totiž normálně za rychlé občerstvení nepovažují.
 
+{id="puvod\_sendvicu"}
+
 ## Původ sendvičů
 
 Podle jedné teorie byl vynálezcem sendvičů jistý _Bill Smith {xml:lang="en"}_, majordomus anglického šlechtice jménem _John Montagu, First Earl of Sandwich {xml:lang="en"}_ (1781-1792).
@@ -20,6 +22,8 @@ Tato teorie nebyla nikdy historicky doložena. Ale existuje druhá teorie, ktero
 Jako kluk jsem totiž zbožňoval krajíc čerstvého chleba namazaný máslem nebo ještě raději škvarkovým sádlem. Největším požitkem ale bylo, když jsem si krajíc chleba mohl vzít na ulici, kde jsem s kluky hrál fotbal. Velmi často se ale stalo, že mi chleba upadl na zem a z nějakého důvodu vždycky namazanou stranou dolů.
 
 Moje maminka, která si mimo jiné věděla rady se vším, to vyřešila tak, že chleba po namazání rozkrojila a složila obě půlky dohromady. Takže když mi pak chleba upadl na zem, tak jsem ho jen oprášil a dal se jíst dál.
+
+{id="sendvice\_ve\_svete\_a\_v\_cesku"}
 
 ## Sendviče ve světě a v Česku
 
@@ -37,11 +41,15 @@ Nejbohatší muž světa _Bill Gates {xml:lang="en"}_, který rozhodně není [s
 
 Všechna jídla, jako jsou plody moře, smažená kuřata (_Kentucky Fried Chicken {xml:lang="en"}_), _Fish and Chips {xml:lang="en"}_, a další jsou _finger foods {xml:lang="en"}_. Je to ale i náš párek, langoš, opečená klobása, párek v rohlíku apod.
 
+{id="sendvice\_ve\_fancii"}
+
 ### Sendviče ve Francii
 
 Francouzská kuchyně má svoje _casse-croûte {xml:lang="fr"}_, _croque-monsieur {xml:lang="fr"}_ a _croque-madame {xml:lang="fr"}_ sendviče, se kterými jsem se tam setkal hned, jak jsem tam přišel, v roce 1945.
 
 _Croque-monsieur {xml:lang="fr"}_, a _croque-madame {xml:lang="fr"}_ jsou prachobyčejné sendviče. Francouzští kuchaři jsou ale takoví xenofobové, že by na jídelních lístcích nepřipustili cizí výraz jako je _sandwich {xml:lang="en"}_. Proto se sendviče ve Francii uvádí většinou jen jako _baguette {xml:lang="fr"}_.
+
+{id="ceske\_chlebicky"}
 
 ### České obložené chlebíčky
 
@@ -56,6 +64,8 @@ Výroba českých obložených chlebíčků je v porovnání se všemi ostatním
 Naštěstí se tradice českých obložených chlebíčků i nadále udržuje v domácnostech. S těmi profesionálními se to ale nedá srovnat hlavně co do druhů použitých surovin. Například v Nekázance jsme měli asi 150 druhů surovin, a to si málokterá domácnost může dovolit.
 
 Profesionální výroba chlebíčku má své finty a triky, a to nejen při výrobě, ale i při uchování čerstvosti. Popisovat vám je tady ale nebudu, protože Hostovka není žádná škola vaření. Místo toho vám povím více o dalších sendvičích.
+
+{id="typy\_americkych\_sendvicu"}
 
 ## Typy amerických sendvičů
 
@@ -73,6 +83,8 @@ Uzavřené sendviče jsou v Americe velmi populární. To hlavně proto, že se 
 
 Nicméně v Česku jsem se setkal i s takovými rádoby odborníky, kteří mi řekli: „Moje děti jsou na hamburgery jako diví, ale já bych se toho ani nedotknul.“ _What a [BS][2] {xml:lang="en"}_! 
 
+{id="monte\_christo\_a\_club\_sendvic"}
+
 ### Sendvič Monte Christo a Club Sendvič
 
 Další velmi oblíbený sendvič v Americe je _Monte Christo sandwich {xml:lang="en"}_. Ten je tak jednoduchý, že mě až udivuje, že jsem ho nevynalezl já.
@@ -85,11 +97,15 @@ Já vím, že mně hned někdo vytkne, že dělám reklamu, ale pokud ho chcete 
 
 V té samé restauraci dostanete i klasický americký _Club Sandwitch {xml:lang="en"}_, který je populární po celém světě. Tento sendvič se také vyznačuje jednoduchostí a rychlostí přípravy. Původně se tento sendvič dělal jen se šunkou, ale dnes se používají i pečená krůtí prsa.
 
+{id="reuben"}
+
 ### Reuben sendvič
 
 Když jsem se s tímto sendvičem v Americe setkal poprvé, tak jsem si říkal, že ho určitě vynalezl nějaký Čech. Základní surovinou tohoto sendviče je totiž žitný chléb, kyselé zelí a solené hovězí (anglicky _corned beef {xml:lang="en"}_).
 
 Je velice pikantní a podává se všude, kde se točí pivo. Divím se proto, že ho české pivnice ještě neobjevily. V restauraci Berghoff v Chicagu, kde jsem pracoval jako výkonný šéfkuchař, jsme těchto sendvičů jenom přes poledne prodali přes 400.
+
+{id="blt"}
 
 ### Teplý křupavý sendvič BLT
 
