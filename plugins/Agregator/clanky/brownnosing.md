@@ -7,7 +7,7 @@
 
 {kw="koho se to týká, Česká republika"}
 
-Vsadím se, že vám na žádné škole angličtiny neřeknou co znamená _brownnosing {xml:lang="en"}_. Dokonce to nenajdete ani v žádném slovníku idiomů. _Brown nose {xml-lang="en"}_ znamená v překladu hnědý nos. Prostě když někdo někomu leze do zadku, tak má hnědý nos a nemusím vám asi říkat od čeho.
+Vsadím se, že vám na žádné škole angličtiny neřeknou co znamená _brownnosing {xml:lang="en"}_. Dokonce to nenajdete ani v žádném slovníku idiomů. _Brown nose {xml:lang="en"}_ znamená v překladu hnědý nos. Prostě když někdo někomu leze do zadku, tak má hnědý nos a nemusím vám asi říkat od čeho.
 
 {class="important"}
 
@@ -23,7 +23,7 @@ Teď tady ale máme jakousi svobodu. Řekli byste si, že do zadku už nikomu l�
 
 Říká se, že člověk je největším nepřítelem třídy, ze které vzešel. Sám jsem toho živým příkladem. Například nerozumím ničemu jinému než pohostinství a jsem jeho neustálým kritikem, zejména kritikem špatných kuchařů.
 
-{id="vyvoj\_kucharu\_v\_cesku"}
+{id="vyvoj\_kucharu\_v_cesku"}
 
 ## Vývoj kuchařů v Česku
 
@@ -35,9 +35,9 @@ Mnozí z nich, včetně mě, mimo jiných zemí pracovali také ve Francii, něk
 
 Jsem na některé naše kuchaře pyšný, protože přes 40 let gastronomického temna dnes získávají opět respekt a uznání téměř po celém světě. Obávám se ale, že někteří z nich mají stále hnědé nosy.
 
-Žádná jiná země na světě se nemůže pochlubit tolika hotelovými školami na počet hostů, kolik jich máme my. V žádné jiné zemi nejsou všichni kuchaři vyučeni s maturitou a někteří dokonce i s doktorátem. _What a [BS](bullshit) {xml:lang="en"}_. Přesto si to necháme líbit. Naši osvoboditelé nám ve všem byli vzorem, ale nikdy se nás neopovážili učit [gastronomii](gastronimie).
+Žádná jiná země na světě se nemůže pochlubit tolika hotelovými školami na počet hostů, kolik jich máme my. V žádné jiné zemi nejsou všichni kuchaři vyučeni s maturitou a někteří dokonce i s doktorátem. _What a [BS][1] {xml:lang="en"}_ . Přesto si to necháme líbit. Naši osvoboditelé nám ve všem byli vzorem, ale nikdy se nás neopovážili učit [gastronomii][2]. 
 
-{id="zahranicni\_vzory"}
+{id="zahranicni_vzory"}
 
 ## Zahraniční vzory
 
@@ -49,11 +49,11 @@ Já jsem Čech jak poleno, ale mohu se pochlubit tím, že jsem v životě nikdy
 
 Nejsem sice učitel národů, jako byl Komenský, ale přestože jsem Čech, tak jsem úspěšně učil gastronomii a pohostinství v mnoha rozvojových zemích. Mohu vás ubezpečit, že jsem byl vždy respektován, protože jsem respektoval i já je.
 
-{id="vysmech\_ceskemu\_kucharskemu\_umeni"}
+{id="vysmech\_ceskemu\_kucharskemu_umeni"}
 
 ## Výsměch českému kuchařskému umění
 
-Nemám nic proti Andrea Accordimu, kterému byla po půlročním pobytu v Česku udělena „jeho“ již druhá [hvězda Michelinu](michelin). Podle mě je to ale nesmírná [chucpa](chucpa) a výsměch celému českému kuchařskému umění.
+Nemám nic proti Andrea Accordimu, kterému byla po půlročním pobytu v Česku udělena „jeho“ již druhá [hvězda Michelinu][3]. Podle mě je to ale nesmírná [chucpa][4] a výsměch celému českému kuchařskému umění.
 
 Česká média, která pro naše pohostinství neměla nikdy vlídné slovo, najednou kolem Michelinu tancují jak derviši. Na stránkách gastronews.cz byl 28. 3. 2008 zveřejněn článek Vladimíra Poštůlky „Může být oblíbená i restaurace v hotelu?“ To „i“ v názvu mě trochu irituje, ale to je nejspíše díky mé chabé znalosti češtiny.
 
@@ -63,9 +63,14 @@ Souhlasím také s tím, že úspěch některých hotelových restaurací je v t
 
 S čím ale nemohu souhlasit, a dokonce se za to stydím, je, že naši kuchaři něco takového připustili.
 
-Andrea Accordi potřeboval k tomu, aby se stal v Česku slavným jen půl roku. Slavný anglický kuchař Gordon Ramsay se v Česku stal slavným již po třech dnech, které tu strávil. _What a [BS](bullshit) {xml:lang="en"}_.
+Andrea Accordi potřeboval k tomu, aby se stal v Česku slavným jen půl roku. Slavný anglický kuchař Gordon Ramsay se v Česku stal slavným již po třech dnech, které tu strávil. _What a [BS][1] {xml:lang="en"}_ . 
 
 Nakonec vám musím dát jednu radu. Nemějte strach před velkými zvířaty a „bulšitáři“. Utřete si své hnědé nosy a řekněte si, že už toho je dost. Dejte lidem to, co chtějí a co jim za jejich peníze patří – nejen v hotelích, ale i v té nejzapadlejší hospodě. Nehoňte se za hvězdami, ale za spokojeností vašich hostů.
 
 Přestaňte také blbnout s falešným vlastenectvím a snahami oživit naši „dobrou starou českou kuchyni“ nesmyslnými specialitami nebo recepty od Marie B. Svobodové z roku 1894. Učte se od každého, kdo vám může něco dát, ale nelezte nikomu do zadku!
+
+ [1]: bullshit
+ [2]: gastronimie
+ [3]: michelin
+ [4]: chucpa
 
