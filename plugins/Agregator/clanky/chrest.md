@@ -13,6 +13,8 @@ Jak jsem se dozvěděl z diskuse u článku, tak chřest někteří lidé neznaj
 
 O tom, jak se chřest pěstuje vám tady psát nebudu, protože nepředpokládám, že byste ho někdy chtěli pěstovat. Recepty na jeho úpravu také vynechám. Najedete je v každé druhé kuchařské knize, nemluvě o internetu.
 
+{id="popularita\_chrestu\_ve\_svete"}
+
 ## Popularita chřestu ve světě
 
 Chřest má ve světě spoustu příznivců a znalců, kteří by vám o něm mohli udělat několikahodinovou přednášku. Jedním z nich je například můj dobrý maďarský přítel a kolega, známý jako Asparágus George, celým jménem _George Lang {xml:lang="en"}_.
@@ -26,6 +28,8 @@ Chřest se stal populární zeleninou hlavně proto, že se pěstuje v teplých 
 Festival ale není ukázkou kuchařského umění. S chřestem se totiž nedá dělat nic jiného než ho uvařit, a pak ho eventuálně atraktivním způsobem servírovat. Festival je tedy vlastně jen pro zábavu.
 
 V současnosti bydlím v Carlsbadu v Kalifornii. Festivaly tu sice nepořádáme, ale máme tady velké chřestové farmy. Chřest je tu pro nás všední zeleninou a čerstvý chřest tady máme téměř po celý rok. O Carlsbadu se říká, že je hlavním městem chřestu na světě.
+
+{id="vyber\_chrestu"}
 
 ## Výběr chřestu
 
@@ -43,6 +47,8 @@ Chřest rychle vysychá, a tak se dodává se „nastojato“, většinou podlo�
 
 Říká se mu čerstvý chřest, ale i tady v Carslbadu máte štěstí, když ho dostanete alespoň jeden den po sklizni. Tudíž tak docela čerstvý není a proto ho vaříme co nejdříve, nejlépe hned první den. V opačném případě ho dáme do druhého dne nastojato do nádoby s trochou vody, aby měl „co pít“.
 
+{id="zpusoby\_vareni"}
+
 ## Způsoby vaření
 
 Kdysi se chřest vařil zásadně nastojato ve speciálních nádobách, ale neumím si představit, jak by se takto chřest vařil pro velký [banket][4]. Takže se vaří svázaný do svazků (porcí), a to naležato v gastronádobách.
@@ -54,6 +60,8 @@ Záleží totiž na síle prýtů, a nakonec i na tom, jestli je chřest mladý 
 Pokud má chřest dřevnaté konce, tak je před vařením odříznu. Potom dám chřest do pánve s vodou, ve které ho uvařím. Nakonec vodu sliji a na chřest dám kousek másla, případně ho pokapu [citrónem][5] a šmytec, nic víc, nic míň.
 
 V některých kuchařkách se říká, že se chřest musí loupat. Už vám ale neřeknou, že je to chřest, který je přerostlý neboli příliš velký. Takový chřest bych si ale nikdy nekoupil.
+
+{id="podavani"}
 
 ## Podávání
 
