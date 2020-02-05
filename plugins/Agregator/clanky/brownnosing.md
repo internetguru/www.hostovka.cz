@@ -70,7 +70,7 @@ Nakonec vám musím dát jednu radu. Nemějte strach před velkými zvířaty a 
 Přestaňte také blbnout s falešným vlastenectvím a snahami oživit naši „dobrou starou českou kuchyni“ nesmyslnými specialitami nebo recepty od Marie B. Svobodové z roku 1894. Učte se od každého, kdo vám může něco dát, ale nelezte nikomu do zadku!
 
  [1]: bullshit
- [2]: gastronimie
+ [2]: gastronomie
  [3]: michelin
  [4]: chucpa
 
