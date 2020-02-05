@@ -13,7 +13,7 @@ Některé gastronomické slovníky uvádí _food styling {xml:lang="en"}_ v odd�
 
 _Food styling {xml:lang="en"}_ má své zásady, triky a finty. Není to ale ani tak technika, jako spíše dovednost neboli umění, které předpokládá určité [know-how](know_how). Možná se dá vyučovat, ale nedá se naučit. Buďto to ve vás je nebo na nějakou vážnou kariéru v oboru _food styling {xml:lang="en"}_ můžete zapomenout.
 
-{xml:lang="en"}
+{xml:lang="en" id="dobry\_foodstylist"}
 
 ## Co znamená být dobrý food stylist
 
@@ -25,6 +25,8 @@ _Food stylist {xml:lang="en"}_ musí umět
 vytvořit jídlo, jehož vhled si získá uznání široké veřejnosti, a může si s tím hrát třeba i celý den. _Food styling {xml:lang="en"}_ je relativně dobře placené zaměstnání a schopný _food stylist {xml:lang="en"}_ si časem může vybudovat stabilní klientelu.
 
 Dnes může v Americe schopný _food stylist {xml:lang="en"}_ vydělat od $450 do $850 za den. Musím vás ale upozornit na to, že za celoživotní povolání to považovat nemůžete. Konkurence je veliká a dnů, kdy najdete uplatnění, moc nebude.
+
+{id="spoluprace\_s\_fotografem"}
 
 ## Spolupráce s fotografem
 

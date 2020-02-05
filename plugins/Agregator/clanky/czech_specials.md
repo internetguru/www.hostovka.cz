@@ -11,6 +11,8 @@ Původně se měl projekt jmenovat _[Czech specials](http://www.czechspecials.cz
 
 Jídel k tomu máme více než dost. Jenom já sám jsem jich od různých autorů uveřejnil nejméně 250. Jen co recepty a jejich názvy přeložíme do všech cizích řečí, tak světu teprve ukážeme, zač je toho loket.
 
+{id="problem\_prekladani\_jidel"}
+
 ## Problém překládání jídel do cizích řečí
 
 Viděl jsem překlady českých specialit do angličtiny, a to je tedy počteníčko. Nebudu vám to tady komentovat, ale zmíním se jen o našem národním jídle – o svíčkové. Ta je světu prezentována jako _sirloin in cream sauce {xml:lang="en"}_.
@@ -24,6 +26,8 @@ Jiné národy se překládáním svých speciálních či tradičních receptů 
 Například [Maďaři mají svůj goulash](gulas), pörkölt, halászlé, tarhonya Dobos tortá (Dobošový dort), palacintás a jiné. Tato jídla se do jiných řečí nepředkládají a dostanete je pod těmito názvy v Německu, Americe, Pekingu nebo i v Česku.
 
 Dokonce i Rusové mají svá jídla jako například Butěrbrody, Schnitzel, [Stroganov](stroganov), [Boršč](borsc), Sirniky, Pelmeni, kterým rozumí lidé i v Americe.
+
+{id="preklady\_ceskych\_jidel"}
 
 ## Překlady českých jídel
 
