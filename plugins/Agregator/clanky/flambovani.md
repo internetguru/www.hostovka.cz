@@ -13,6 +13,8 @@ V době popularity takzvaného francouzského servisu bylo [dranžírování](je
 
 Přesto, že o technikách flambování bylo napsáno mnoho knih, tak se ani jedna z těchto technik dlouho neuchytila. V dnešní uspěchané době se praktikuje již jen v několika málo českých rádoby francouzských restauracích.
 
+{id="kdo\_by\_mel\_byt\_flambovanim\_poveren"}
+
 ## Kdo by měl být flambováním pověřen
 
 Zdá se, že v tomto směru nemají odborníci zcela jasno. Jedni tvrdí, že by flambováním měl být pověřen kuchař. Druzí zastávají názor, že by měl flambovat číšník. Proto se to v některých restauracích řeší tak, že je flambováním pověřen číšník s kuchařskou čepicí. To slouží zároveň pro pobavení hostů.
@@ -20,6 +22,8 @@ Zdá se, že v tomto směru nemají odborníci zcela jasno. Jedni tvrdí, že by
 V mnoha případech to s odborností nemá nic společného. Nicméně tomu někteří lidé říkají [zážitková gastronomie](zazitkova_gastonomie).
 
 Při flambování moučníků je situace o něco lepší, ale i zde by mělo být snahou připravovat stejný moučník pro celou společnost.
+
+{id="nevyhody\_flambovani"}
 
 ## Nevýhody flambování
 
@@ -41,6 +45,8 @@ Nevýhodou flambování totiž také je, že při větším počtu stolovníků,
 
 Podle společenského protokolu by žádný ze stolovníků neměl začít jíst dříve, než je podáno jídlo všem. Pokud je tedy několik stolovníků, a každý z nich si objedná něco jiného, tak než číšník dohotoví poslední jídlo, tak je to první už úplně studené.
 
+{id="flambovane\_palacinky\_crepes"}
+
 ## Flambované palačinky Crêpes
 
 Jedním z nejpopulárnějších flambovaných moučníků jsou flambované palačinky známé jako _Crêpes {xml:lang="fr"}_. _Crêpe {xml:lang="fr"}_ je francouzský název pro velice jemnou a tenkou palačinku ze směsi vajec, mléka, mouky, cukru a špetky soli. Pro zjemnění se do těsta někdy přidává smetana a případně koňak nebo brandy.
@@ -59,7 +65,7 @@ V roce 1951 přišel šéf _Paul {xml:lang="en"}_ s receptem, kterým se neprosl
 
 Osobně jsem banány v této restauraci ochutnal v roce 1971, tedy 20 let po jejich vynálezu. Přesto, že nejsem velkým přítelem flambování, musím říci, že byly vynikající.
 
-{id="cherry_jubilee" xml:lang="en"}
+{id="cherries_jubilee" xml:lang="en"}
 
 ## Cherries jubilee a flambované nápoje
 
