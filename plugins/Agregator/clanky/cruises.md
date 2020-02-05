@@ -27,7 +27,7 @@ V roce 1844 velice známá britská zaoceánská lodní společnost _P&O Steam N
 
 _Bill {xml:lang="en"}_ se _P&O {xml:lang="en"}_ společnosti odměnil článkem, ve kterém nešetřil superlativy o _cruise {xml:lang="en"}_, kterou právě podnikl. Od té doby se _cruise {xml:lang="en"}_ stalo synonymem pro rekreační a někdy i okružní plavby spojené s poznáváním neznámých míst.
 
-{id="lode\_jako\_plovouci\_hotely"}
+{id="lode\_jako\_plovouci_hotely"}
 
 ## Lodě jako plovoucí hotely
 
@@ -39,7 +39,7 @@ _Cruises {xml:lang="en"}_ začínají a končí v přístavu, do kterého se lid
 
 _Cruises {xml:lang="en"}_ se dělí podle regionů. Nejpopulárnější jsou Aljaška, Mexiko, Jižní Pacifik, Asie, Afrika, Evropa, Středomoří, Severní Amerika, Karibské ostrovy, Havaj, a Jižní Amerika.
 
-{id="prubeh\_plavby"}
+{id="prubeh_plavby"}
 
 ## Průběh plavby
 
@@ -49,30 +49,30 @@ Na jednom _cruise {xml:lang="en"}_ jsme seděli u stolu s manželským párem, k
 
 V ceně je zpravidla zahrnuto:
 
-  - ubytování v kabině nebo v apartmánu,
-  - doprava po moři,
-  - jídlo,
-  - dětská školka,
-  - kabaretní programy typu Broadway nebo Las Vegas,
-  - volný vstup do piano baru, nočních klubů atp.,
-  - aktivity jako například jóga a košíková,
-  - fines centrum, bazény a jacuzzi a
-  - přístavní poplatky.
+  * ubytování v kabině nebo v apartmánu,
+  * doprava po moři,
+  * jídlo,
+  * dětská školka,
+  * kabaretní programy typu Broadway nebo Las Vegas,
+  * volný vstup do piano baru, nočních klubů atp.,
+  * aktivity jako například jóga a košíková,
+  * fines centrum, bazény a jacuzzi a
+  * přístavní poplatky.
 
 V ceně není zpravidla zahrnuto:
 
-  - spropitné (které je povinné),
-  - lázeňské kůry,
-  - lihoviny,
-  - kasina,
-  - nákupy,
-  - organizované túry a aktivity na pevnině,
-  - hlídání dětí a
-  - příplatky za speciality v restauracích.
+  * spropitné (které je povinné),
+  * lázeňské kůry,
+  * lihoviny,
+  * kasina,
+  * nákupy,
+  * organizované túry a aktivity na pevnině,
+  * hlídání dětí a
+  * příplatky za speciality v restauracích.
 
-Dovolená na lodi není jenom jídlo typu _all you can eat {xml:lang="en"}_ neboli [sněz, co stačíš](samoobsluzna_restaurace). Dnešní _cruises {xml:lang="en"}_ nabízí služby a zábavu pro pasažéry všech věků – od miminek až po seniory.
+Dovolená na lodi není jenom jídlo typu _all you can eat {xml:lang="en"}_ neboli [sněz, co stačíš][1]. Dnešní _cruises {xml:lang="en"}_ nabízí služby a zábavu pro pasažéry všech věků – od miminek až po seniory.
 
-{id="jak\_se\_obleci\_a\_jak\_platit"}
+{id="jak\_se\_obleci\_a\_jak_platit"}
 
 ### Jak se obléci a jak platit
 
@@ -95,4 +95,6 @@ Podobných otázek lidé kladou daleko více a lodní společnosti nebo vaše ce
 Doporučuji také uzavřít pojistku pro případ, že nebudete moci jet. Jednou jsme _cruise {xml:lang="en"}_ museli kvůli manželčině onemocnění zrušit. Měli jsme naštěstí pojistku, a tak nám všechny peníze vrátili.
 
 Šťastnou plavbu!
+
+ [1]: samoobsluzna_restaurace
 

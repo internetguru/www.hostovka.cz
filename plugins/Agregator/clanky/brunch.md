@@ -63,18 +63,12 @@ Uvedené kombinace se liší typicky pouze v hlavním jídle a příloze. Jídla
   * neomezené množství másla, pečiva a džemu nebo medu.
 
 Vejce Benedict
-:   Dvě pošírovaná vejce s grilovanou kanadskou šunkou na toastovaném vdolku (anglicky _english muffin {xml:lang="en"}_) přelitá holandskou omáčkou.
-Filet mignon s vejcem
-:   Grilovaný steak z pravé svíčkové na krutónu z bílého chleba s vejcem, opečené brambory.
-Quiche Lorraine
-:   Porce Quiche Lorraine (cibule, paprika, slanina a gruyerský sýr, vše zapečené ve vejcích) a grilovaná rajčata.
-Frittata
-:   Vaječná smaženice se šunkou, masem, rajčaty a zeleninou, restované brambory.
-Beef Stroganov
-:   Nudličky z pravé svíčkové restované na cibuli s čerstvými žampióny, znojemskými okurkami, dušené v kyselé smetaně. Vhodná příloha jsou bramborové hranolky.
-Corned Beef Hash s vejcem
-:   Dvě sázená vejce na haši z uzeného hovězího masa s bramborami, přelitá pikantní rajčatovou omáčkou.
-Vepřové žebírko Calvados
+:   Dvě pošírovaná vejce s grilovanou kanadskou šunkou na toastovaném vdolku (anglicky _english muffin {xml:lang="en"}_) přelitá holandskou omáčkou. Filet mignon s vejcem
+:   Grilovaný steak z pravé svíčkové na krutónu z bílého chleba s vejcem, opečené brambory. Quiche Lorraine
+:   Porce Quiche Lorraine (cibule, paprika, slanina a gruyerský sýr, vše zapečené ve vejcích) a grilovaná rajčata. Frittata
+:   Vaječná smaženice se šunkou, masem, rajčaty a zeleninou, restované brambory. Beef Stroganov
+:   Nudličky z pravé svíčkové restované na cibuli s čerstvými žampióny, znojemskými okurkami, dušené v kyselé smetaně. Vhodná příloha jsou bramborové hranolky. Corned Beef Hash s vejcem
+:   Dvě sázená vejce na haši z uzeného hovězího masa s bramborami, přelitá pikantní rajčatovou omáčkou. Vepřové žebírko Calvados
 :   Grilované vepřové žebírko flambované jablečným brandy (Calvados), okořeněné skořicí, podávané s grilovaným jablkem a mrkví dušenou s rozinkami.
 
 Výše uvedené příklady nejsou americké speciality. Jsou to jídla, se kterými setkáte na jídelních lístcích mnoha mezinárodních restaurací.

@@ -11,25 +11,25 @@
 
 Hlavním posláním Hostovky je naučit své studeny rozeznat co v pohostisntví dobré a co špatné, jak dostat za své peníze co jim patří, ale také jak se v restauraci chovat aby si získali respekt u těch kteří to pohostinství provozují.
 
-Já když se to tak vezme, tak ale sedím na dvou židlích. Na jedné straně se považuji za hosta a jsem samozvaným zástupcem všech sofistikovan‎ých hostů (proto ta Hostovka), ale na druhé straně se považuji za odborníka v phostinství a proto je pro mně někdy těžké rozeznat co je správné a co ne.
+Já když se to tak vezme, tak ale sedím na dvou židlích. Na jedné straně se považuji za hosta a jsem samozvaným zástupcem všech sofistikovaných hostů (proto ta Hostovka), ale na druhé straně se považuji za odborníka v phostinství a proto je pro mně někdy těžké rozeznat co je správné a co ne.
 
 Já jsem se několikrát zmínil o tom, že ze studentů Hostovky, obrazně řečeno, udělám větší znalce pohostinství než jsou všichni ti rádoby "profesionálové" a že si tudíž nebudou muset nechat nic líbit.
 
 Také jsem se zmínil, že si mají stěžovat a na všechno, pokud se domnívají že to co jim za jejich peníze patří nedostávají,a že by prostě měli znát PRÁVA HOSTA.
 
-Pokud se t‎ýká pohostinství čtu vše co mi přijde do ruky a to jak knihy nebo magaziny, ale v poslední době téměř všechny příspěvky na internetov‎ých stránkách a to jak na těch odborných tak i na těch ostatních které se zab‎ývají gatronomií.
+Pokud se týká pohostinství čtu vše co mi přijde do ruky a to jak knihy nebo magaziny, ale v poslední době téměř všechny příspěvky na internetových stránkách a to jak na těch odborných tak i na těch ostatních které se zabývají gatronomií.
 
 Vidím tudíž, že názory na pohostinství, na to co hostům za jejich peníze patří a jaké mají práva se velice různí a to je bohužel na základě subjektivních názorů.
 
 Stížnosti na to české pohostinství hned tak neskončí což je dobře, protože doufám, že díky těm konstruktivním kritikám se to jednoho dne eventuálně zlepší.
 
-Já nakonec mám rád i když lidé kritizují mně nebo moji práci, protože se z těch kritik umím poučit a myslím si, že díky tomu jsem vlastně tam kde jsem. Musí to ale b‎‎ýt nějaká konstruktivní kritika a ne jějaký BS.
+Já nakonec mám rád i když lidé kritizují mně nebo moji práci, protože se z těch kritik umím poučit a myslím si, že díky tomu jsem vlastně tam kde jsem. Musí to ale být nějaká konstruktivní kritika a ne jějaký BS.
 
 Například v manuáledh mého konceptu STEAKGRILL, o kterém vím, že také není ještě perfektní, mám relativně obsáhlou kapitolu o tom jak stížnostem předcházet, jak rozeznávat konstruktivní či destruktivní kritiku, jak k nim přistupovat a jak je vyřízovat.
 
 Také jsem ale zjistil, že většina lidí nezná práva hosta, neví proč, kdy, komu a hlavě jak si stěžovat a proto na těchto stránkách se příležitostně pokusím to mé studenty naučit.
 
-Prozatím vám přikládám zajímav‎ý příspěvek převzatý ze stránek www.cestovní-ruch.cz kteý je potvrzením raison d\`étre Hostovky.
+Prozatím vám přikládám zajímavý příspěvek převzatý ze stránek www.cestovní-ruch.cz kteý je potvrzením raison d\`étre Hostovky.
 
 Někteří hosté totiž nejenom že neví co jim patří,ale neznají svá práva, a hlavně neznají své povinnosti.
 
@@ -39,7 +39,7 @@ CHCI SE ZEPTAT JESTLI V POHOSTINSTVÍ MUSÍM DOSTAT CO SI OBJĚDNÁM STALO SE MI
 
 Pavel H.
 
-Zatím se tam nějaká diskuse na toto téma nerozvinula, nicméně můj přítel Aleš Dočkal na to reagoval velice hodnotn‎‎ým přípěvkem ze kterého se i vy jako studenti Hostovky můžete poučit.
+Zatím se tam nějaká diskuse na toto téma nerozvinula, nicméně můj přítel Aleš Dočkal na to reagoval velice hodnotným přípěvkem ze kterého se i vy jako studenti Hostovky můžete poučit.
 
 Vážení přátelé,
 
@@ -85,7 +85,7 @@ Pivovarský dům
 
 Pivovarský klub
 
-Já považuji Aleše za odborníka a souhlasím s každ‎ým slovem které napsal a chci abyste se povšimli toho že Aleš napsal: "Nejsem jenom hospodský, ale i host" a vtom, pokud to nevíte, je tajemství jeho odbornosti.
+Já považuji Aleše za odborníka a souhlasím s každým slovem které napsal a chci abyste se povšimli toho že Aleš napsal: "Nejsem jenom hospodský, ale i host" a vtom, pokud to nevíte, je tajemství jeho odbornosti.
 
 M. Klima
 

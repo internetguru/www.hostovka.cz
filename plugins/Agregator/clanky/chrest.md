@@ -7,13 +7,13 @@
 
 {kw="gastronomie"}
 
-Na stránkách [neviditelný pes](https://neviditelnypes.lidovky.cz) jsem zcela náhodou narazil na docela [zajímavý článek o chřestu][1]. Ať již budete chřest někdy jíst nebo ne, tak byste se o něm měli něco dozvědět. Proto vám mimo odkazu na článek přikládám i pár slov o chřestu.
+Na stránkách [neviditelný pes][1] jsem zcela náhodou narazil na docela [zajímavý článek o chřestu][2]. Ať již budete chřest někdy jíst nebo ne, tak byste se o něm měli něco dozvědět. Proto vám mimo odkazu na článek přikládám i pár slov o chřestu.
 
 Jak jsem se dozvěděl z diskuse u článku, tak chřest někteří lidé neznají. To, jestli normální smrtelník ví nebo neví co je chřest, není měřítkem inteligence nebo kulturní úrovně národa. Například Američané také nevědí, co je svíčková s knedlíkem nebo cmunda, a přitom si myslí, jak jsou vzdělaní.
 
 O tom, jak se chřest pěstuje vám tady psát nebudu, protože nepředpokládám, že byste ho někdy chtěli pěstovat. Recepty na jeho úpravu také vynechám. Najedete je v každé druhé kuchařské knize, nemluvě o internetu.
 
-{id="popularita\_chrestu\_ve\_svete"}
+{id="popularita\_chrestu\_ve_svete"}
 
 ## Popularita chřestu ve světě
 
@@ -23,13 +23,13 @@ George je přední americký gastronom, který (jak doufám) je v současné dob
 
 V Evropě byl za nejlepší chřest vždy považován chřest pěstovaný v Raveně, v regionu Emilia-Romagna. Dnes se ale kvalitní chřest pěstuje i v zimních měsících ve sklenících v Ligurii. Odtud se vyváží téměř do celé Evropy.
 
-Chřest se stal populární zeleninou hlavně proto, že se pěstuje v teplých krajích po celém světě. Například největším producentem chřestu v Americe je Kalifornie, kde se ve Stoctonu již 17 let každoročně pořádá [chřestový festival][2].
+Chřest se stal populární zeleninou hlavně proto, že se pěstuje v teplých krajích po celém světě. Například největším producentem chřestu v Americe je Kalifornie, kde se ve Stoctonu již 17 let každoročně pořádá [chřestový festival][3].
 
 Festival ale není ukázkou kuchařského umění. S chřestem se totiž nedá dělat nic jiného než ho uvařit, a pak ho eventuálně atraktivním způsobem servírovat. Festival je tedy vlastně jen pro zábavu.
 
 V současnosti bydlím v Carlsbadu v Kalifornii. Festivaly tu sice nepořádáme, ale máme tady velké chřestové farmy. Chřest je tu pro nás všední zeleninou a čerstvý chřest tady máme téměř po celý rok. O Carlsbadu se říká, že je hlavním městem chřestu na světě.
 
-{id="vyber\_chrestu"}
+{id="vyber_chrestu"}
 
 ## Výběr chřestu
 
@@ -47,7 +47,7 @@ Chřest rychle vysychá, a tak se dodává se „nastojato“, většinou podlo�
 
 Říká se mu čerstvý chřest, ale i tady v Carslbadu máte štěstí, když ho dostanete alespoň jeden den po sklizni. Tudíž tak docela čerstvý není a proto ho vaříme co nejdříve, nejlépe hned první den. V opačném případě ho dáme do druhého dne nastojato do nádoby s trochou vody, aby měl „co pít“.
 
-{id="zpusoby\_vareni"}
+{id="zpusoby_vareni"}
 
 ## Způsoby vaření
 
@@ -67,15 +67,15 @@ V některých kuchařkách se říká, že se chřest musí loupat. Už vám ale
 
 [Gurmánovi][6] nebo znalci, který si nenechá vařený chřest ničím pokazit, podáváme chřest nepřevařený, vlažný, na horké chřestové misce, nejvýše přelitý rozpuštěným čerstvým máslem a s půlkou citrónu.
 
-Jinak ho můžeme podávat s holandskou omáčkou, které se v česku teď nejspíše říká žloutkovo-máslovo-citrónovo omáčka (tyto názvy omáček teď v česku letí). Můžeme ho také podávat přelitý [omáčkou Mornay][3] (což by asi byla bešamelovo-sýrová omáčka), případně zapečený pod salamandrem.
+Jinak ho můžeme podávat s holandskou omáčkou, které se v česku teď nejspíše říká žloutkovo-máslovo-citrónovo omáčka (tyto názvy omáček teď v česku letí). Můžeme ho také podávat přelitý [omáčkou Mornay][7] (což by asi byla bešamelovo-sýrová omáčka), případně zapečený pod salamandrem.
 
 Co ještě k chřestu dodat. Jedině snad to, aby se s ním vždy zacházelo, jak si zaslouží. No, a teď se už nemůžete vymlouvat, že nevíte, co to je chřest. Pokud to ale není váš šálek čaje, tak si ho neobjednávejte, protože by to byly vyhozené peníze.
 
- 
- [1]: https://neviditelnypes.lidovky.cz/spolecnost/spolecnost-ceske-nechresteni.A070515_214413_p_spolecnost_wag
- [2]: https://www.visitstockton.org/events/san-joaquin-asparagus-festival/
- [3]: besamel#syrova_omacka_mornay
+ [1]: https://neviditelnypes.lidovky.cz
+ [2]: https://neviditelnypes.lidovky.cz/spolecnost/spolecnost-ceske-nechresteni.A070515_214413_p_spolecnost_wag
+ [3]: https://www.visitstockton.org/events/san-joaquin-asparagus-festival/
  [4]: banket
  [5]: citrony
  [6]: gastronomove#gurman
+ [7]: besamel#syrova_omacka_mornay
 

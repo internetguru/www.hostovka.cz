@@ -24,7 +24,7 @@ Chtěl bych to uvést na pravou míru tím, že vám prozradím, že chateaubria
 
 Recept na chateaubriand vám na těchto stránkách dát nemohu, ale jako studentům Hostovky vám musím alespoň napsat, jak by se měl připravovat. To, abyste si mohli udělat obrázek, zda dostáváte, co vám patří, jestliže si ho v některé restauraci objednáte.
 
-{id="priprava\_steaku"}
+{id="priprava_steaku"}
 
 ## Příprava steaku
 
@@ -45,7 +45,7 @@ Osolený a opepřený steak se na pánvi nebo pod grilem prudce a dozlatova ope�
 
 Bohužel se správnou atraktivní prezentací pokrmu se dnes nesetkáme ani na některých hotelových školách. Tam se to mnohdy ještě vyučuje, jako by si mysleli, že těchto pokrmů se u nás prodává jako svíčkové na smetaně.
 
-{id="gastronomicky\_zazitek"}
+{id="gastronomicky_zazitek"}
 
 ## Gastronomický zážitek
 
@@ -61,7 +61,7 @@ Důležité například jsou již samotné ty brambory, které by měly být mou
 
 Totéž platí o žloutcích, které jednak dávají hmotě chuť a pomáhají ji držet pohromadě. Ale také se to nesmí přehánět.
 
-{id="podavani\_pokrmu"}
+{id="podavani_pokrmu"}
 
 ## Podávání pokrmu
 
@@ -86,5 +86,4 @@ Prostě kolonku s cenami zakryjte rukou a objednejte si víno takové, které ta
  [1]: /files/thumbs/clanky/chateaubriand/2-7-06-1.jpg
  [2]: /files/preview/clanky/chateaubriand/2-7-06-2.jpg
  [3]: demi-glace
-
 

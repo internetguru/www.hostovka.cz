@@ -9,7 +9,7 @@
 
 Jedním z posláních Hostovky je připravit své studenty na jídla, se kterými se setkají při cestách do zahraničí. O rychlém občerstvení jsem něco málo již napsal. Obávám se ale, že jsem zapomněl na něco, co je Čechům velmi blízké – na sendviče. Ty se totiž normálně za rychlé občerstvení nepovažují.
 
-{id="puvod\_sendvicu"}
+{id="puvod_sendvicu"}
 
 ## Původ sendvičů
 
@@ -23,7 +23,7 @@ Jako kluk jsem totiž zbožňoval krajíc čerstvého chleba namazaný máslem n
 
 Moje maminka, která si mimo jiné věděla rady se vším, to vyřešila tak, že chleba po namazání rozkrojila a složila obě půlky dohromady. Takže když mi pak chleba upadl na zem, tak jsem ho jen oprášil a dal se jíst dál.
 
-{id="sendvice\_ve\_svete\_a\_v\_cesku"}
+{id="sendvice\_ve\_svete\_a\_v_cesku"}
 
 ## Sendviče ve světě a v Česku
 
@@ -31,7 +31,7 @@ Výraz sendvič (anglicky _sandwich {xml:lang="en"}_), se dnes používá po cel
 
 _Finger food {xml:lang="en"}_ je ale v Česku zatím poměrně neznámý pojem. Není to jen protože je to anglický výraz. Je to spíše proto, že tento typ jídla je mnohými [rádoby gastronomy][1] stále zavrhován.
 
-Tito [rádoby gastronomové][1] místo toho, aby sledovali, co je dnes světový trend, tak se stále vzhlíží [v archaické francouzské gastronomii](francouzska_gastronomie). Libují si v naivních, ale líbivých popisech jídel stylem _Eduarda Pomiána {xml:lang="fr"}_ a ohrnují nos nad vším, co nezavání francouzskou kuchyní.
+Tito [rádoby gastronomové][1] místo toho, aby sledovali, co je dnes světový trend, tak se stále vzhlíží [v archaické francouzské gastronomii][2]. Libují si v naivních, ale líbivých popisech jídel stylem _Eduarda Pomiána {xml:lang="fr"}_ a ohrnují nos nad vším, co nezavání francouzskou kuchyní.
 
 Nicméně, ať se to lidem líbí nebo ne, budoucnost stravování širokých mas je v jídlech, která se dají jíst zcela neokázale, třeba i rukama. Jídla také musí odpovídat ceně použitých potravin.
 
@@ -49,7 +49,7 @@ Francouzská kuchyně má svoje _casse-croûte {xml:lang="fr"}_, _croque-monsieu
 
 _Croque-monsieur {xml:lang="fr"}_, a _croque-madame {xml:lang="fr"}_ jsou prachobyčejné sendviče. Francouzští kuchaři jsou ale takoví xenofobové, že by na jídelních lístcích nepřipustili cizí výraz jako je _sandwich {xml:lang="en"}_. Proto se sendviče ve Francii uvádí většinou jen jako _baguette {xml:lang="fr"}_.
 
-{id="ceske\_chlebicky"}
+{id="ceske_chlebicky"}
 
 ### České obložené chlebíčky
 
@@ -81,7 +81,7 @@ Uzavřené sendviče jsou v Americe velmi populární. To hlavně proto, že se 
 
 {class="example"}
 
-Nicméně v Česku jsem se setkal i s takovými rádoby odborníky, kteří mi řekli: „Moje děti jsou na hamburgery jako diví, ale já bych se toho ani nedotknul.“ _What a [BS][2] {xml:lang="en"}_! 
+Nicméně v Česku jsem se setkal i s takovými rádoby odborníky, kteří mi řekli: „Moje děti jsou na hamburgery jako diví, ale já bych se toho ani nedotknul.“ _What a [BS][3] {xml:lang="en"}_ ! 
 
 {id="monte\_christo\_a\_club\_sendvic"}
 
@@ -93,7 +93,7 @@ Recept na něj nepotřebujete. Potřebujete jen dva máslem pomazané toastové 
 
 {class="example"}
 
-Já vím, že mně hned někdo vytkne, že dělám reklamu, ale pokud ho chcete ochutnat, tak musíte zajít do [restaurace Steakgrill][3] u Roudnice nad Labem. Tam ho navíc dostanete i s vynikajícími domácími hranolky.
+Já vím, že mně hned někdo vytkne, že dělám reklamu, ale pokud ho chcete ochutnat, tak musíte zajít do [restaurace Steakgrill][4] u Roudnice nad Labem. Tam ho navíc dostanete i s vynikajícími domácími hranolky.
 
 V té samé restauraci dostanete i klasický americký _Club Sandwitch {xml:lang="en"}_, který je populární po celém světě. Tento sendvič se také vyznačuje jednoduchostí a rychlostí přípravy. Původně se tento sendvič dělal jen se šunkou, ale dnes se používají i pečená krůtí prsa.
 
@@ -124,5 +124,7 @@ Pravý americký _BLT {xml:lang="en"}_ je ale pěkný prevít, protože musí b�
 V Chicagu, kde lidé mají rádi kyselé okurky, k tomuto sendviči přidávají kyselou okurku, ale můžete k němu dát i coleslaw. Tím, že je všechno v sendviči tak křupavé, tak se s ním při jídle dost zasviníte, ale to k pravému americkému _BLT {xml:lang="en"}_ patří.
 
  [1]: /gastronomove
- [2]: /bullshit
- [3]: https://www.steakgrill.cz
+ [2]: francouzska_gastronomie
+ [3]: /bullshit
+ [4]: https://www.steakgrill.cz
+

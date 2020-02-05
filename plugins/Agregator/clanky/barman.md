@@ -13,7 +13,7 @@ Já jsem mu za to poděkoval a řekl jsem mu, aby mi ho poslal tak jako tak. Kdy
 
 Jak jste nejspíš poznali, tak jsem to napsal jen pro pobavení. Mohu ale posloužit pravdivou historkou.
 
-{id="mensi\_zlo"}
+{id="mensi_zlo"}
 
 ## Menší zlo – případová studie
 
@@ -35,7 +35,7 @@ Pokud to nevíte, tak pohostinství je neustálý boj mezi vedením a zaměstnan
 
 Když krade jen kuchař, tak to ještě není tak zlé. Horší je, když se kuchař spolčí s číšníky. V mnoha podnicích je to „normální“ a není to považováno za šizení.
 
-On to nikdo neříká moc nahlas, ale za socialismu se to řešilo tak, že se spolu se zaměstnanci scukl i soudruh vedoucí. Nedávno jsem s hrůzou zjistil, že takto v Česku postupují i někteří majitelé restaurací. Zřejmě jednají podle hesla „Když je nemůžeš přemoci, tak se s nimi spoj“, což je tedy nepředstavitelná [chucpa](chucpa).
+On to nikdo neříká moc nahlas, ale za socialismu se to řešilo tak, že se spolu se zaměstnanci scukl i soudruh vedoucí. Nedávno jsem s hrůzou zjistil, že takto v Česku postupují i někteří majitelé restaurací. Zřejmě jednají podle hesla „Když je nemůžeš přemoci, tak se s nimi spoj“, což je tedy nepředstavitelná [chucpa][1].
 
 Pokud se s vašimi zaměstnanci nechcete „šábovat“, tak vám nezbývá nic jiného než se s krádežemi smířit. Když tomu nemůžete zabránit, tak krádeže alespoň minimalizujte.
 
@@ -43,7 +43,7 @@ Pokud se s vašimi zaměstnanci nechcete „šábovat“, tak vám nezbývá nic
 
 Já mám sice na zadním hořáku již hodně dlouho úvahy o tom, jak se v pohostinství šidí a krade, a jak se tomu dá zabránit. Jejich zveřejnění ale odkládám, aby by se ti zlodějíčkové, kteří jsou zpravidla bystřejší než majitelé restaurací, ode mě nenaučili to, co ještě neumí.
 
-{id="zacleneni\_trestancu"}
+{id="zacleneni_trestancu"}
 
 ## Začlenění trestanců do společnosti
 
@@ -64,4 +64,6 @@ Jak motivační a ušlechtilá myšlenka, a přitom tak jednoduchá, že mně a�
 Tomu klukovi tudíž nezbývá nic jiného než udělat nějakou lumpárnu, nechat se zavřít a udělat si školu v kriminálu. Doufám jen, že při přijímacích zkouškách nebude dána přednost těm, kteří jsou za katrem pro podvody a krádeže jenom proto, že tím mají k pohostinství větší predisposice. Doufám, že bude dána možnost i jednomu recidivistovi, o kterém vím, že je v zásadě poctivý a který je v tom lochu jen pro znásilňování.
 
 Doufám také, že si tvůrci tohoto programu uvědomují, že za katrem nesmí být používány ostré předměty. Tudíž na kurzy vyřezávání melounů, což teď v Česku letí, mohou zapomenout.
+
+ [1]: chucpa
 

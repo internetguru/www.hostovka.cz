@@ -9,31 +9,31 @@
 
 Pokud víte, co děláte, tak se dá flambovat v zásadě cokoliv. Oblíbené jsou hořící špízy a meče. To ani nevyžaduje velké odborné znalosti a je to spíše líbivá show.
 
-V době popularity takzvaného francouzského servisu bylo [dranžírování](jevistni_kuchyne#dranzirovani_a_sotyrovani), dohotovování jídel u stolu a flambování velmi populární. Osobně sice nejsem příznivcem flambování, ale jako studenti Hostovky byste o této technice měli něco vědět.
+V době popularity takzvaného francouzského servisu bylo [dranžírování][1], dohotovování jídel u stolu a flambování velmi populární. Osobně sice nejsem příznivcem flambování, ale jako studenti Hostovky byste o této technice měli něco vědět.
 
 Přesto, že o technikách flambování bylo napsáno mnoho knih, tak se ani jedna z těchto technik dlouho neuchytila. V dnešní uspěchané době se praktikuje již jen v několika málo českých rádoby francouzských restauracích.
 
-{id="kdo\_by\_mel\_byt\_flambovanim\_poveren"}
+{id="kdo\_by\_mel\_byt\_flambovanim_poveren"}
 
 ## Kdo by měl být flambováním pověřen
 
 Zdá se, že v tomto směru nemají odborníci zcela jasno. Jedni tvrdí, že by flambováním měl být pověřen kuchař. Druzí zastávají názor, že by měl flambovat číšník. Proto se to v některých restauracích řeší tak, že je flambováním pověřen číšník s kuchařskou čepicí. To slouží zároveň pro pobavení hostů.
 
-V mnoha případech to s odborností nemá nic společného. Nicméně tomu někteří lidé říkají [zážitková gastronomie](zazitkova_gastonomie).
+V mnoha případech to s odborností nemá nic společného. Nicméně tomu někteří lidé říkají [zážitková gastronomie][2].
 
 Při flambování moučníků je situace o něco lepší, ale i zde by mělo být snahou připravovat stejný moučník pro celou společnost.
 
-{id="nevyhody\_flambovani"}
+{id="nevyhody_flambovani"}
 
 ## Nevýhody flambování
 
 Bohužel v českých restauracích, ve kterých flambování ještě praktikují, si neuvědomují, že správné flambování vyžaduje určitou zručnost a praxi. V některých restauracích flambování praktikují přesto, že s ním nemají vůbec žádné zkušenosti.
 
-Dnešní restaurace flambování nabízejí jednak proto, že si myslí, že je to moderní. Hlavně ovšem proto, aby cena použité lihoviny mohla být připočítána k jídlu, a tím zvýšen obrat. To se zdánlivě zdá být velmi výhodné, ale ve skutečnosti je pravdou pravý opak. Opravdový [gurmán](gastronomove#gurman) by si u stolu nenechal dobré jídlo flambováním zruinovat.
+Dnešní restaurace flambování nabízejí jednak proto, že si myslí, že je to moderní. Hlavně ovšem proto, aby cena použité lihoviny mohla být připočítána k jídlu, a tím zvýšen obrat. To se zdánlivě zdá být velmi výhodné, ale ve skutečnosti je pravdou pravý opak. Opravdový [gurmán][3] by si u stolu nenechal dobré jídlo flambováním zruinovat.
 
-Základním požadavkem přípravy jídel je zkrátit dobu mezi dohotovením jídla a dobou jeho podávání na minimum. Jedna z možností, která se nabízela, bylo připravovat jídlo u stolu, nebo přímo na stole. 
+Základním požadavkem přípravy jídel je zkrátit dobu mezi dohotovením jídla a dobou jeho podávání na minimum. Jedna z možností, která se nabízela, bylo připravovat jídlo u stolu, nebo přímo na stole.
 
-Flambování některých jídel (při jejich přípravě v kuchyni) má mnohdy své opodstatnění. Podle mého názoru je ale flambování u stolu jen [snobizmus](gastronomove#snob) a někdo by mě musel přesvědčit o opaku.
+Flambování některých jídel (při jejich přípravě v kuchyni) má mnohdy své opodstatnění. Podle mého názoru je ale flambování u stolu jen [snobizmus][4] a někdo by mě musel přesvědčit o opaku.
 
 Mohu vás ale ubezpečit, že ze mě nemluví ignorance. Jsem vyučený kuchařem i číšníkem a ve svém životě jsem flamboval dost jídel k tomu, abych věděl o čem mluvím.
 
@@ -72,3 +72,9 @@ Osobně jsem banány v této restauraci ochutnal v roce 1971, tedy 20 let po jej
 _Cherries jubilee {xml:lang="en"}_ jsou flambované černé třešně. Podávají se horké a pokud možno ještě hořící, položené na vanilkové zmrzlině. Je to jeden z nejjednodušších flambovaných moučníků, takže jsem je měl na jídelním lístku téměř ve všech restauracích, kde jsem pracoval.
 
 Ovocem ale flambování nekončí, flambovat se mohou i nápoje. Jedním z nejpopulárnějších flambováných nápojů je _Café Brulot {xml:lang="fr"}_. Flambované kávy jsou obzvláště populární v Jižní Americe.
+
+ [1]: jevistni_kuchyne#dranzirovani_a_sotyrovani
+ [2]: zazitkova_gastonomie
+ [3]: gastronomove#gurman
+ [4]: gastronomove#snob
+

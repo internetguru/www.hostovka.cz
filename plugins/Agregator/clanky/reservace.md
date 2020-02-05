@@ -29,7 +29,7 @@ Se jmény musíte ale být opatrní. V Americe například když si objednáte s
 
 Reservací to ale teprve začíná a tak vám postupně popíši na co si pak po příchodu jako studenti Hostovky musíte dávat pozor.
 
-V restauraci při reservaci se vás někdy zeptají na vaše telefonní číslo což ale je úplně na nic, protože když náhodou nepřijdete, tak vám stejně volat nebudou, protože sami vědí že to číslo může b‎ýt také smyšlené.
+V restauraci při reservaci se vás někdy zeptají na vaše telefonní číslo což ale je úplně na nic, protože když náhodou nepřijdete, tak vám stejně volat nebudou, protože sami vědí že to číslo může být také smyšlené.
 
 Zpravidla se ale zeptají na dobu na kterou si chcete reservaci udělat a kolik lidí bude ve vaši skupině. Některé restaruace mají tak zvané dvoje sezení, neboli že reservují stoly dejme tomu od 18:00 do 20:00 a potom od 18:00 do závěrečné hodiny a na to by vás měli upozornit.
 
@@ -47,19 +47,19 @@ Dnes většina čtenářů těchto stránek ví že se považuji za odborníka v
 
 Toto je ale jen takové mé povídání, protože stále ještě se snažím tomu českému pohostinství pomoci, nicméně je pravdou že jsem nepřítelem všech těch kteří to pohostisnství przní podobným způsobem jako v tom Cuntry Klubu ve Slaném.
 
-Já přesto, že v Česku trvale nežiji tak si myslím že jsem těch česk‎ý‎‎ch restaurací navštívil jako málo kdo a proto vím, že je dnes v Česku celá řada dobr‎ých restaurací a zaměsnanců kteří dělají svoji práci ku spokojenosti jejich hostů, ale mohu také říci, že i když ne tak otřesn‎ým způsobem, tak ale i jinými způsoby tomu pohostisntví škodí i jiní.
+Já přesto, že v Česku trvale nežiji tak si myslím že jsem těch českých restaurací navštívil jako málo kdo a proto vím, že je dnes v Česku celá řada dobrých restaurací a zaměsnanců kteří dělají svoji práci ku spokojenosti jejich hostů, ale mohu také říci, že i když ne tak otřesným způsobem, tak ale i jinými způsoby tomu pohostisntví škodí i jiní.
 
-V daném případě, jak píše autorka, se jednalo o gastroprofíky, pedagogy v pohostinství kteří tento otřesný případ eventuálně použijí při v‎ýchově, ale tragedie je že veká většina návštěvníků restauračních podniků nejsou sofistikovaní hosté a ti si prostě podobné jednání nechají líbit protože si myslí, že to tak má b‎ýt.
+V daném případě, jak píše autorka, se jednalo o gastroprofíky, pedagogy v pohostinství kteří tento otřesný případ eventuálně použijí při výchově, ale tragedie je že veká většina návštěvníků restauračních podniků nejsou sofistikovaní hosté a ti si prostě podobné jednání nechají líbit protože si myslí, že to tak má být.
 
-Proto vlastně jsem založil Hostoku, neboli jakousi univerzitu pro hosty, která mimo jiné je první škola toho druhu na světě, ve které by se měli studenti naučit b‎ýt kvalfikovanými kritiky poskytovaných restauračních a hotelov‎ých služeb a toho co jim za jejich peníze patří.
+Proto vlastně jsem založil Hostoku, neboli jakousi univerzitu pro hosty, která mimo jiné je první škola toho druhu na světě, ve které by se měli studenti naučit být kvalfikovanými kritiky poskytovaných restauračních a hotelových služeb a toho co jim za jejich peníze patří.
 
 Po přečtení tohoto případu ale vidím že ta Hostovka je něco čemu se říká: ?Too little and too late?, neboli, že je to málo, stejně tak jako je málo, že tento přpad byl popsán jen na těchto stránkách.
 
-Proto si myslím, že by podobné případy měly b‎‎ýt pratnýřovány nějakým efektnějším způsobem než nabádáním k tomu aby do toho Kanráče nikdo nechodi.
+Proto si myslím, že by podobné případy měly být pratnýřovány nějakým efektnějším způsobem než nabádáním k tomu aby do toho Kanráče nikdo nechodi.
 
-Se špatnou zkušeností s pohostistinstvím měl i president AKC ČR pan Miroslav Kubec kter‎ý‎ také říká, že před tím podnikem ve kterém tu špatnou zkušenost měl bude každého varovat.
+Se špatnou zkušeností s pohostistinstvím měl i president AKC ČR pan Miroslav Kubec který také říká, že před tím podnikem ve kterém tu špatnou zkušenost měl bude každého varovat.
 
-Já jsem kdysi sepsal několik bodů o tom co hosté nemají rái a tak teď, až mi opadne ten fofr, musím ještě sepsat vše na co by si hosté měli stěžovat, ale někdo by mi musel poradit kde to pak uveřejnit aby to oslovilo širok‎ý okruh návštěnvíků restaurací.
+Já jsem kdysi sepsal několik bodů o tom co hosté nemají rái a tak teď, až mi opadne ten fofr, musím ještě sepsat vše na co by si hosté měli stěžovat, ale někdo by mi musel poradit kde to pak uveřejnit aby to oslovilo široký okruh návštěnvíků restaurací.
 
 P.S. Jsem rád, že jsem se dozvěděl co to je ten kantráč.
 

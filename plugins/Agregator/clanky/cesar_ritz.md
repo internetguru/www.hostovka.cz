@@ -7,13 +7,16 @@
 
 {kw="kdo-kdy-kde, gastronomie, Francie, historie"}
 
-César Ritz byl génius hotelového průmyslu. Moc dobře znal důležitost historie, zásad [gastronomie](gastronomie) a dobré organizace kuchyně.
+César Ritz byl génius hotelového průmyslu. Moc dobře znal důležitost historie, zásad [gastronomie][1] a dobré organizace kuchyně.
 
 V první polovině 20. století před rokem 1914, vybudoval César Ritz na těchto základních pilířích pohostinského průmyslu velice úspěšnou kariéru.
 
-César Ritz si uvědomoval důležitost gastronomie v hotelovém průmyslu natolik, že se spojil s [Agustem Escoffiérem](auguste_escoffier), již tehdy uznávaným nejschopnějším šéfkuchařem světa.
+César Ritz si uvědomoval důležitost gastronomie v hotelovém průmyslu natolik, že se spojil s [Agustem Escoffiérem][2], již tehdy uznávaným nejschopnějším šéfkuchařem světa.
 
 Díky tomuto partnerství vznikly nejluxusnější světové hotely té doby. Také mnoho jiných světových hotelů bylo založeno na reputaci jména Ritz a Carlton a byly také synonymy kvality a vysokého stupně komfortu.
 
 Komfort, luxus, francouzská gastronomie a vysoká kvalita jídla, pití a servisu, bez ohledu na náklady. To byl standard této doby. Dnešní doba je však podstatně jiná.
+
+ [1]: gastronomie
+ [2]: auguste_escoffier
 

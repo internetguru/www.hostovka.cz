@@ -41,7 +41,7 @@ Německé názvy těch jídel jsou psány švabachem což mně osobně nedělá 
 
 Tudíž jak vážený Karle vidíte tak zdrojů informací je několik, ale v případě potřeby okamžitou odpověď pravděpodobně nenajdete. Tudíž to začíná u každého autora odborných knížek a článků aby psal tak aby mu většina čtenářů rozuměla a pokud použije nějaký cizí výraz aby ho vysvětlil.
 
-U této příležitosti se musím příznat že já v poslední době používám velké množsví anglick‎ých výrazů hlavně při popisu masitých jídel což je proto, že všechny mé informace jsou na základě amerického dělení masa které je poněkud jiné než české, nicméně všude tam kde to je možné jsem přiložil přibližný český ekvivalent.
+U této příležitosti se musím příznat že já v poslední době používám velké množsví anglických výrazů hlavně při popisu masitých jídel což je proto, že všechny mé informace jsou na základě amerického dělení masa které je poněkud jiné než české, nicméně všude tam kde to je možné jsem přiložil přibližný český ekvivalent.
 
 Já ale jak jste si povšimli používám americkou odbornou terminologii i v jiných případech. Není to ale pod vlivem mého amerického šovinismu. Nakonec i já jsem se již v mém útlém mládí učil francouzštinu která byla uznávaná jako "gastronomický" jazyk. Francouzská gastronomie, která měla svoji dobu je dnes již pasé a já jsem přesvědčen, že i Carême, Escoffier a jiní by se dnes učili anglickou odbornou terminologii bez které se dnes pomalu neobejdete ani ve Francii.
 

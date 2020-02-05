@@ -7,7 +7,7 @@
 
 {kw="jídla a jídelní lístky, Česká republika"}
 
-Původně se měl projekt jmenovat _[Czech specials](http://www.czechspecials.cz) {xml:lang="en"}_ (české speciality). Lepší název by ale byl například _Czech specialities {xml:lang="en"}_). Poté začali přidávat názvy: „Ochutnejte Českou republiku“. To se ale moc nelíbilo Moravákům, a tak Moraváci přišli s něčím podobným, což je „Ochutnejte Moravu“.
+Původně se měl projekt jmenovat _[Czech specials][1] {xml:lang="en"}_ (české speciality). Lepší název by ale byl například _Czech specialities {xml:lang="en"}_). Poté začali přidávat názvy: „Ochutnejte Českou republiku“. To se ale moc nelíbilo Moravákům, a tak Moraváci přišli s něčím podobným, což je „Ochutnejte Moravu“. 
 
 Jídel k tomu máme více než dost. Jenom já sám jsem jich od různých autorů uveřejnil nejméně 250. Jen co recepty a jejich názvy přeložíme do všech cizích řečí, tak světu teprve ukážeme, zač je toho loket.
 
@@ -23,15 +23,15 @@ Jiné národy se překládáním svých speciálních či tradičních receptů 
 
 {class="example"}
 
-Například [Maďaři mají svůj goulash](gulas), pörkölt, halászlé, tarhonya Dobos tortá (Dobošový dort), palacintás a jiné. Tato jídla se do jiných řečí nepředkládají a dostanete je pod těmito názvy v Německu, Americe, Pekingu nebo i v Česku.
+Například [Maďaři mají svůj goulash][2], pörkölt, halászlé, tarhonya Dobos tortá (Dobošový dort), palacintás a jiné. Tato jídla se do jiných řečí nepředkládají a dostanete je pod těmito názvy v Německu, Americe, Pekingu nebo i v Česku.
 
-Dokonce i Rusové mají svá jídla jako například Butěrbrody, Schnitzel, [Stroganov](stroganov), [Boršč](borsc), Sirniky, Pelmeni, kterým rozumí lidé i v Americe.
+Dokonce i Rusové mají svá jídla jako například Butěrbrody, Schnitzel, [Stroganov][3], [Boršč][4], Sirniky, Pelmeni, kterým rozumí lidé i v Americe.
 
 {id="preklady\_ceskych\_jidel"}
 
 ## Překlady českých jídel
 
-Jenomže Češi (papežtější než papež) nejsou schopni na mezinárodních lístcích prosadit ani jedno jídlo, a to ani to, o kterém si myslí, že je nejlepší na světě, kterým je svíčková. To, co na oficiálních anglických stránkách uvádí jako svíčkovou pod názvem _sirloin in cream sauce {xml:lang="en"}_, je výsměch české [gastronomii](gastronomie). Podle mě to je i podceňování gastronomických znalostí všech anglicky mluvících zemí.
+Jenomže Češi (papežtější než papež) nejsou schopni na mezinárodních lístcích prosadit ani jedno jídlo, a to ani to, o kterém si myslí, že je nejlepší na světě, kterým je svíčková. To, co na oficiálních anglických stránkách uvádí jako svíčkovou pod názvem _sirloin in cream sauce {xml:lang="en"}_, je výsměch české [gastronomii][5]. Podle mě to je i podceňování gastronomických znalostí všech anglicky mluvících zemí.
 
 Svíčková není _sirlion {xml:lang="en"}_. _Sirloin {xml:lang="en"}_ je roštěnec, ze kterého se krájí steaky nebo se peče v celku (tzv. _roastbeef {xml:lang="en"}_). Nikdy se ale nedusí na nějakém základu a nepodává se v krémové omáčce. Svíčková se kdysi připravovala z pravé svíčkové, odtud to jméno.
 
@@ -40,4 +40,10 @@ V poslední době se svíčková (a to zejména v zahraničí) dělá ze zadníh
 Já proti českým a krajovým jídlům vůbec nic nemám. Kdysi jsem měl českou restauraci v české čtvrti Chicaga Cicero, ve které byly názvy všech jídel psány česky. U každého jídla byl anglický popis a nikdo si nestěžoval.
 
 To, že celá akce _Czech specials {xml:lang="en"}_ skončí fiaskem vím již od prvního dne a dnes už nejsem sám. Co mně ale vadí nejvíce je, nakolik tím vším utrpí zbytek reputace, kterou česká kuchyně ve světě ještě má.
+
+ [1]: http://www.czechspecials.cz
+ [2]: gulas
+ [3]: stroganov
+ [4]: borsc
+ [5]: gastronomie
 

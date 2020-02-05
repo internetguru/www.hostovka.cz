@@ -23,7 +23,7 @@ Podle jedné teorie se vynalezení _diners {xml:lang="en"}_ přičítá Walteru 
 
 Kolem roku 1872 byl jeho byznys tak lukrativní, že pověsil sazečství na hřebíček. Pořídil si koně a malý krytý vozík, který zaparkoval před tiskárnou, a sendviče a kávu prodával kolemjdoucím. Aniž by to věděl, tak tím inspiroval jiné lidi k založení velice populárních jídelen zvaných _diner {xml:lang="en"}_.
 
-{id="vlakove\_vozy"}
+{id="vlakove_vozy"}
 
 ## Vznik diners podle jídelních vozů ve vlacích
 
@@ -39,7 +39,7 @@ Jídla se podávala na pult (anglicky _counter service {xml:lang="en"}_), což t
 
 _Diners {xml:lang="en"}_ otevíraly velmi brzy ráno kvůli snídaním, které ale podávaly po celý den! Ve městech jako je Nový York, kterému se říká „město, které nikdy nespí“, jdou večer někteří lidé spát a jiní teprve vstávají a chystají se na noční směnu.
 
-Proto byly některé _diners {xml:lang="en"}_ otevřeny 24 hodin denně. Jsem přesvědčen, že mnohý český pan vedoucí by měl zamotanou hlavu, jak to vyřešit s [dlouhými a krátkými týdny][2].
+Proto byly některé _diners {xml:lang="en"}_ otevřeny 24 hodin denně. Jsem přesvědčen, že mnohý český pan vedoucí by měl zamotanou hlavu, jak to vyřešit s [dlouhými a krátkými týdny][1].
 
 Typické _diners {xml:lang="en"}_ byly stejně dlouhé jako vlakové jídelní vozy. Některé byly naopak velmi malé a čtverhranné, což samozřejmě někteří marketingově využili ve svém názvu. _Square {xml:lang="en"}_ totiž znamená čtverec nebo náměstí, ale také „poctivé“. _Squere diner {xml:lang="en"}_ byla tedy nejenom čtverhranná, ale údajně i „poctivá“ restaurace.
 
@@ -55,7 +55,7 @@ Jednou to dokonce vypadalo, že Češi kvůli hamburgrárnám vyhlásí Americe 
 
 Naštěstí se to vyřešilo diplomatickou cestou. Američané slíbili, že více než 100.000 restaurací rychlého občerstvení v Česku neotevřou. Na oplátku Čechům povolili, že českých restaurací typu „Švejk“ mohou v Americe otevřít kolik chtějí.
 
-{id="pocet\_pismen"}
+{id="pocet_pismen"}
 
 ## Pozor na počet písmen v anglických slovech
 
@@ -63,9 +63,9 @@ Kdysi jsem byl ředitelem hotelové školy _Hospitality Institute International 
 
 Studenti museli někde jíst, a proto byla v kampusu celá řada koncesionářů, kteří nabízeli všechno možné – od hamburgerů, smažených kuřat, stánků s párky, koblihami a pizzou, až po zmrzlinu z pojízdných vozíků. _What a country! {xml:lang="en"}_
 
-Byli jsme program pohostinství a cestovního ruchu a provozovali jsme školní restauraci pro profesorský sbor. Dělali jsme i různé [cateringové](catering) akce, což byla úžasná příležitost pro naše studenty.
+Byli jsme program pohostinství a cestovního ruchu a provozovali jsme školní restauraci pro profesorský sbor. Dělali jsme i různé [cateringové][2] akce, což byla úžasná příležitost pro naše studenty.
 
-Já jsem jeden z prvních, kdo pod hlavičkou _Hospitality {xml:lang="en"}_ prosadil výuku managementu nejenom restauračních a hotelových provozů, ale i cestovního ruchu. Byl jsem také jeden z prvních, kdo pochopil, že tato dvě odvětví bez sebe nemohou fungovat (což mi v Česku stále nikdo nevěří). Proto jsem po několik let usiloval o schválení programu výuky managementu restaurací [rychlého občerstvení][1]. Ty jsou totiž nezanedbatelnou složkou pohostinství.
+Já jsem jeden z prvních, kdo pod hlavičkou _Hospitality {xml:lang="en"}_ prosadil výuku managementu nejenom restauračních a hotelových provozů, ale i cestovního ruchu. Byl jsem také jeden z prvních, kdo pochopil, že tato dvě odvětví bez sebe nemohou fungovat (což mi v Česku stále nikdo nevěří). Proto jsem po několik let usiloval o schválení programu výuky managementu restaurací [rychlého občerstvení][3]. Ty jsou totiž nezanedbatelnou složkou pohostinství.
 
 Zádrhel byl v mojí podmínce, že bude studentům v rámci výuky rychlého občerstvení dána možnost v některých restauracích přímo pracovat nebo je i řídit. Abych to ale zkrátil…
 
@@ -77,5 +77,7 @@ No, jenom kvůli slovu prádlo návrh zřejmě nebyl zamítnut, spíše šlo o v
 
 Asi po deseti letech jsem se setkal s mým nástupcem Jeromem, což byl mimo jiné můj bývalý student. Ten mi řekl, že asi 6 let po mém odchodu, byl můj koncept schválen. Bylo to pro mě velké zadostiučinění.
 
- [1]: mc_donalds
- [2]: kratky_a_dlouhy_tyden
+ [1]: kratky_a_dlouhy_tyden
+ [2]: catering
+ [3]: mc_donalds
+
