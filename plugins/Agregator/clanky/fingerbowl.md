@@ -1,67 +1,40 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=42.html" data-image="/files/preview/clanky/fingerbowl/general.jpg" data-type="article"}
 
-{ctime="2009-07-25" mtime="2009-07-25" id="fingerbowl" author="Michael Klíma" short="Fingerbowl" authorid="hostovka/michael_klima"}
+{ctime="2009-07-25" mtime="2020-01-05" id="fingerbowl" author="Michael Klíma" short="Fingerbowl"}
 
-# Fingerbowl
+# Oplachování prstů po jídle
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+{kw="co-kdy-kde, případová studie, Amerika"}
 
-{kw="co-kdy-kde"}
+_Fingerbowl {xml:lang="en"}_ je malá nádoba naplněná vodou (někdy i s kouskem citrónu), ve které si hosté oplachují prsty. Jde o jeden z odborných výrazů, který byl kdysi v pohostinství tak běžný, že se ho nikdo ani nesnažil přeložit do češtiny.
 
-V jedné české příručce pro číšníky jsem našel tuto definici: malá nádoba naplněná vodou (možno i kouskem citrónu), kladená na stůl, aby hosté mohli opláchnout prsty.
+## Zkušenost z hotelu Coronado
 
-Obávám se, že taková definice toho těm číšníkům moc neříká, nehledě hostům, kteří nakonec takové příručky nečtou.
+Měli jsme u nás (v Americe) na návštěvě známou z Německa. Ta se pozastavila nad tím, že se v Hotelu _Coronado {xml:lang="en"}_, do kterého jsme ji vzali na oběd, nesetkala s takovým servisem, jako například v Mnichově.
 
-Fingerbowls je jeden z odborných výrazů který byl kdysi v pohostinství tak běžný, že se nikdo ani nesnažil ho přeložit do češtiny.
+_Hotel del Coronado {xml:lang="en"}_ pravděpodobně mnozí z Vás znáte z populárního filmu Někdo to rád horké s _Marilyn Monroe {xml:lang="en"}_ v hlavní roli. V tomto hotelu, postaveném v roce 1888, se pohybuje ubytování od $350 do $2.500 za noc. Přesto mají v příštím týdnu údajně všechny pokoje obsazené.
 
-To bylo v dobách kdy se ještě nic nevědělo o nějakém fast food a finger foods a kdy mnoho lidí si v restauraci neobjednávali drůbež nebo jídla která se dala příborem jíst jen s velkými potížemi a kdy všichni hosté nebyli tak sofistikovaní aby věděli, že o finger bowl mohou číšníka požádat v případě že na to zapomněl.
+Jídla na poledním lístku nejsou kupodivu předražená. Jedli jsme v elegantní jídelně na terase s výhledem na překrásnou pláž, na kterou se _Marylin {xml:lang="en"}_ údajně chodívala slunit. To nemělo chybu.
 
-Měli jsme tady u nás (v Americe) na návštěvě jednu známou z Německa a ta se pozastavila nad tím, že v Hotelu Coronado na ostrově stejného jména do kterého jsme ji vzali na oběd se nesetkala s takovým servisem jako například v Mnichově kde v současné době bydlí.
+Nicméně servis zdaleka neodpovídal představám naší známé o servisu, který by odpovídal pověsti tohoto hotelu. Musel jsem ji dát zapravdu a musím se přiznat, jsem svoji nespokojenost vyjádřil v dopise, který jsem vedení hotelu následně poslal.
 
-Hotel Coronado Del pravděpodobně mnozí z Vás znáte z populárního filmu Někdo to rád horké s Marylin Monroe v hlavní roli.
+Jídlo bylo v zásadě v pořádku. Naše známá měla velký křehký salát s grilovanými kuřecími prsy, na kterém se v podstatě nedá nic pokazit. Já s manželkou jsme měli [Reuben sendvič](sendvice#reuben), který máme oba rádi.
 
-V tomto hotelu postaveném v roce 1888 ubytování není nic laciného a pohybuje se od  _{var="350"}_ do  _{var="2"}_.500 za noc, ale přesto v příštím týdnu mají údajně všechny pokoje obsazené.
+Sendviče byly velké s odpovídající porcí uzeného hovězího. Nebyly sice udělány podle mých představ, ale nebyly důvodem mé nespokojenosti.
 
-Jídla na poledním lístku nejsou kupodivu předražená. Jedli jme v elegantní jídelně na terase s výhledem na překrásnou pláž na které se Marylin pravděpodobně slunila, což nemělo chybu.
+Hlavním důvodem mé nespokojenosti bylo, že nám ke kapučínu, které podávali ve skle, nedali kávové lžičky. Museli jsme o ně požádat a číšník nám nakonec podal polévkové lžíce, což považuji za veliké _faux pas {xml:lang="fr"}_.
 
-Nicméně servis zdaleka neodpovídal představám naší známé o servisu který by odpovídal pověsti tohoto hotelu.
+Naše známá se také podivovala, že nám k sendvičům nepodali misku s vodou na oplachování prstů, což by v hotelu takového typu by očekávala.
 
-Musel jsem ji dát za pravdu a musím se přiznat, že jsem s ní musel souhlasit a proto jako zakladatel Hostovky jsem moji nespokojenost vyjádřil v dopise který jsme vedení hotelu poslal.
+## Různé přístupy restaurací
 
-Jídlo v zásadě bylo v pořádků. Naše známá měla velký křehký salát s grilovanými kuřecími prsy, na kterém se v zásadě nedá nic pokazit a já s manželkou jsme měli Reuben sendviče, které máme oba rádi.
+Misky na oplachování prstů jsou z různých materiálů a mají různé tvary. Přestože se jim říká _fingerbowls {xml:lang="en"}_, tak to neznamená, že by se podávaly jen k oplachování prstů.
 
-Ty sendviče byly velké, s odpovídající porcí corn beef (uzené hovězí). Nebyly udělány podle mých představ neboli že byly něco čemu se tady říká "nothing to write home about", ale nebyly důvodem mé nespokojenosti.
+V některých hogo fogo restauracích _fingerbowls {xml:lang="en"}_ podávaly spolu s ovocem, aby si host mohl ovoce v misce opláchnout. Pak ale konečně někoho napadlo, že je to blbost prví třídy, a že se ovoce má podávat již řádně omyté. Proto se od toho upustilo.
 
-Hlavním důvodem mé nespokojenosti bylo, že ku kapucínu, které podávali ve skle, nám nedali kávové lžičky, o které jsme museli požádat a číšník nám nakonec podal polévkové lžíce, což považuji za veliké faut pas.
+Pro oplachování prstů se voda něčím navoní a případně se do ní přidá plátek citrónu. To platí obzvláště po podávání humrů, [neloupaných krevetek a jiných mořských potvor](plody_more), po kterých prsty nepříjemně páchnou.
 
-Naše známá se také podivovala, že nám k těm sendvičům nepodali misku s vodou na oplachování prstů, což v hotelu takového typu by očekávala.
+Některé restaurace rychlého občerstvení, jako je například _KFC {xml:lang="en"}_ dávaly ke každému jídlu malé navlhčené papírové ubrousky v papírovém sáčku. Od toho se ale již také upouští, protože je málokdo používal.
 
-Takové misce se anglicky říká fingerbowl, což většina číšníků i v ČR ví, ale ne všichni vědí kde, kdy, jak a proč tento fingerbowl podávat a já osobně vím, že hostů kteří to vědí je ještě méně.
-
-HOSTOVKA, jak teď již víme, je pomyslná universita pro hosty a proto se o fingerbowls musím zmínit, přestože jejich používání již upadá v zapomenutí, ale absolventi HOSOTVKY budou muset vědět co to je.
-
-Za mých mladých let se vyprávěla taková líbivá historka o tom, že při jednom banketu, který pořádala jedna velice bohatá, ale již méně sofistikovaná dáma, když číšníci založili ty fingerbowls na stůl, tu vodu z té misky vypila.Maitre d', který na ten banket dohlížel nechal okamžitě všechny ty misky sklidit a nahradit jinými miskami a znovu je na sůl založili.Tentokrát ale, aby tu hostitelku nepřivedli opět do trapné situace, jí tu misku podali až nakonec. No, a podle známého rčení: "Monkey see, monkey do", což znamená co opice vidí, to opice udělá, i ta vznešená dáma věděla, na co ta miska s tou vodou vlastně je.
-
-Fingerbowls jsou z různých materiálů a mají různé tvary a přestože se jim říká fingerbowls to neznamená, že by se podávaly jen k oplachování prstů.
-
-V některých rádoby hoňo-froňo restauracích je podávají spolu s ovocem jako například s hrozny, za tím účelem aby si host mohl to ovoce v té misce opláchnout,.
-
-Pak ale konečně lidi napadlo, že je to blbost prví třídy protože takové ovoce se má podávat již řádně omyté a tak se od toho upustilo. V takovém případě se ale ta miska naplnila z poloviny obyčejnou vodou a zároveň se podával papírový ubrousek ve kterém se to ovoce osušovalo.
-
-Pro oplachování prstů se ta voda něčím navoní a případně se do ni přidá skrojek citrónu, obzvláště po podávání humrů, neloupaných krevetek a jiných mořských potvor které se jedí dnes rukami a ty potom nepříjemně páchnou.
-
-V Americe, a dnes již i v mnoha jiných zemích, vyjma některých skutečně luxusních restauracích, se s něčím takovým jako je fingerbowl nesetkáte, protože jídel, tak zvaných fingerfood která se i v té nejlepší společnosti jedí rukama je celá řada.
-
-Některé fast food (restaurace rychlého občerstvení) jako je například Kentucky Fried Chicken dávaly ku každému jídlu tak zvané WETNAPS, neboli malé navlhčené papírové ubrousky v malém pp9rov0m sáčku, kterými si hosté mohli ruce otřít, ale od toho se také již upouští protože to málo kdo používal.
-
-Dnes totiž, alespoň v Americe, každý takový fast food restaurant má záchody s teplou a studenou vodou a sušičem rukou nebo ručníky k použití zdarma. _What a country! {xml:lang="en"}_
-
-V Americe, v té gastronomicky zaostalé zemi, ze které jak někteří Češi říkají, nic dobrého nepřijde, se setkáte i s jinými užitečnými a praktickými formami mytí ruko, ale to vše je zatím přísně střežené tajemství které žákům Hostovky eventuálně někdy odhalím.
-
-Některé rybí restaurace mají například přímo v jídelně dřez s tekoucí teplou a studenou vodou a papírovými ubrousky, kde si hosté mohou kdykoliv během stolování umýt ruce aniž by museli jít na záchod. _What a country! {xml:lang="en"}_
-
-Nicméně i v takových restauracích vám na požádání přinesou fingerbowl ku stolu, ale jako absolventi HOSTOVKY byste měli vědět, kdy se hodí o fingerbowl požádat a kdy ne, abyste nevypadali jako z Huculova, nehledě k tomu,že toto všechno budete muset vědět při závěrečných zkouškách Hostovky.
-
-Proto pokud máte jakékoliv pochyby o tom kdy, kde, co a jak jíst nebo nejíst, tak neváhejte se na to zeptat. Jak dnes již víte, tak pokud se týká pohostisntví tak já mám odpověď na všechno a pokud ne, tak si prostě něco vymyslím.
-
+Dnes má (alespoň tedy v Americe) každá restaurace rychlého občerstvení záchody s teplou a studenou vodou a sušičem rukou nebo ručníky k použití zdarma. Některé rybí restaurace mají přímo v jídelně dřez s tekoucí teplou a studenou vodou a s papírovými ubrousky, kde si hosté mohou kdykoliv během stolování umýt ruce, aniž by museli jít na záchod. _What a country! {xml:lang="en"}_ 
