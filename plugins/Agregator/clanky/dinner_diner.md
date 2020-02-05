@@ -1,133 +1,75 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=255.html" data-image="/files/preview/clanky/dinner_diner/general.jpg" data-type="article"}
 
-{ctime="2007-10-04" mtime="2007-10-04" id="dinner\_diner" author="Michael Klíma" short="Dinner Diner" authorid="hostovka/michael\_klima"}
+{ctime="2007-10-04" mtime="2007-10-04" id="diner" author="Michael Klíma" short="Diner"}
 
-# Dinner Diner
+# Restaurace zvaná diner
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+{kw="koho se to týká, případová studie, Amerika"}
 
-{kw="koho se to týká"}
+_Diner {xml:lang="en"}_ byly prefabrikované restaurace populární po celé Severní Americe a dokonce i v Kanadě. Restaurace byly sestaveny v dílně, a pak převezeny na zvolené místo.
 
-Můj milý přítel Aleš Dočkal ve svém posledním příspěvku sice v dobrém úmyslu oslovuje mně osobně, čehož si vážím a nakonec i toho že mně upozornil na moji chybu, ale všechno to kolem toho dinner, diner nebo i americké gastronomie by mělo zajímat hlavně ty ostatní čtenáře a zejména ty, kteří nejsou tak pozorní čtenáři jako je Aleš a proto ten nadpis.
+Při příchodu do Ameriky jsem byl sice dobře připraven, ale na některé věci jsem koukal jako tele na nová vrata. Jednou z nich byly právě _diners {xml:lang="en"}_, o kterých jsem do té doby nic nevěděl.
 
-Úvodem bych chtěl Alešovi poděkovat že ten dinner a diner přivedl na pravou míru a všem ostatním čtenářům bych se chtěl omluvit.
+Dnes už téměř všechny _diners {xml:lang="en"}_ zanikly. V roce 68 byly ale velice populární po celé Americe. Byl jsem konceptem _diners {xml:lang="en"}_ téměř fascinován, a to zejména pro jeho jednoduchost.
 
-Jak jsem již několikrát řekl, tak já jsem půl včely a půl vola. Pracuji jako včelička a pak občas udělám nějakou volovinu.
-
-Na tu skladbu Chatanooga Choo Choo od Glen Millera si velmi dobře vzpomínám. Mně se ta skladba dokonce natolik líbila, že jedno z prvých míst které jsem po příchodu do Ameriky navštívil byla Chatanooga a myslím si, že jak Aleš správně říká v textu té písně je ten nejlepší příklad výkladu rozdílu mezi výrazy dinner a diner.
-
-Pokud budete v Americe, tak doufám, že nezapomene Chatanooga navštívit, stojí to za to.
-
-Já vím, že někteří si řeknete jedno "n" sem, jedno "n" tam, a vo co go, ale Aleš má pravdu, že jedno "n" navíc může znamenat doslova příliš moc a proto jako obyčejně vám přikládám příhodnou případovou studii?
-
-{id="linen\_nebo\_linnen"}
-
-## LINEN NEBO LINNEN
-
-Byl jsem svého času ředitelem hotelové školy Hospitality Institute International na Triton College v Rivergrove, Illinois, USA.
-
-Na Triton College studovalo kolem 33 tisíc studentů a jenom v našem programu jsme jich měli kolem 500.
-
-Všichni tito studenti museli někde jíst a proto mimo školní jídelny, která v té době byla vedena soukromou firmou, byla na tom kampusu celá řada koncesionářů kteří nabízeli všechno možné od hambugrů, smažených kuřat, stánků s párkami, koblihami a pizzou, až po zmrzlinu z pojízdných vozíků. _What a country! {xml:lang="en"}_
-
-My jsme byli program pohostinství a cestovního ruchu, provozovali jsme školní restauraci pro profesorský sbor a pro případné pasanty, ale dělali jsme i různé cateringové akce, což byla úžasná příležitost pro naše studenty, ale to bylo vše.
-
-Já jsem jeden z prvních kdo pod hlavičkou Hospitality prosadil výuku managementu nejenom restauračních a hotelových provozů, ale i cestovního ruchu protože jsem také byl jeden z prvních kdo pochopil, že ta odvětví jedno bez druhého nemůže ani existova (což mi v Česku stále nikdo nevěří), ale proto jsem po několik let také usiloval a schválení programu výuky managementu fast food restaurací které jsou toho pohostinství (Hospitality Industry) nezanedbatelnou složkou.
-
-Zádrhel byl v tom, že jsem si kladl podmínku že bude těm našim studentům v rámci výuky toho Fast Food (FF) dána možnost v některých těch fast food pracovat nebo je i manažovat a možná že lépe než někteří ti koncesionáři.
-
-Ti koncesionáři museli škole odvádět procenta z tržby, což byl nezanedbatelný příjem, ale pokud by vše co má společného s pohostinstvím býval provozoval můj program, by ty příjmy pro školu byly několika násobné což si málo kdo uvědomoval.
-
-Abych to ale zkrátil
-
-Vy kteří mně již znáte víte, že já jsem prevít a tak jsem vypracoval relativně obsáhlý materiál ve kterém jsem na 250 stránkách dopodrobna popsal jaký benefit by z toho měla škola, můj program a hlavně mí studenti, ale můj návrh neprošel.
-
-Bylo to krátce před mým odchodem do důchodu a tak jsem se tím moc nezabýval. Krátce po mém odchodu jsem se ale dozvěděl, že v té komisi, která ten můj koncept zamítla, byla mimo jiné také jedna děkanka anglického oddělení která sice pohostinství vůbec nerozuměla, ale poukázala na to, že v tom mém návrhu toho programu jsem linen, což je prádlo, napsal se dvěmi "n" neboli linnen, což tedz je nesmysl.
-
-No, jenom kvůli tomu prádlu to zřejmě zamítnuté nebylo, ale ono šlo o velice velké peníze a MONEY TALKS a tak nejspíše někdo z té komise dostal od některého toho koncesionáře "kickback", česky řečeno úplatek.
-
-Abych to ale nějak zakončil.
-
-Asi po deseti letech jsem se setkal s mým nástupcem Jeromem, což mimo jiné byl můj bývalý student, který mi řekl, že asi 6 let po mém odchodu, byl ten můj koncept, až na to linnen, schválen a že on tím pádem to provozuje do puntíku tak jak jsem to já navrhl včetně mých osnov pro výuku toho fast food.
-
-Bylo to pro mě velké zadostiučinění, ale jak je vidět tak jsem se moc nepoučil přestože rozdíl mezi dinner a diner je mi znám ode dne kdy jsem do Ameriky přišel.
-
-Já jsem se jíž zmínil o tom, že jsem byl na Ameriku dobře připraven, ale na některé věci jsem koukal jako tele na nová vrata.
-
-Jednou tou věcí byli právě ty Diners (množné číslo od diner) o kterých jsem do té doby nic nevěděl.
-
-Dnes všechny ty Diners téměř zanikly, ale v 68 roce když jsem do Ameriky přijel, byly velice populární po celé Americe.
-
-Já jsem těmi Diners byl téměř fascinován protože to bylo něco tak jednoduchého, že jsem si říkal, že kdybych do té Ameriky býval přišel o něco dříve, že bych to býval určitě vynalezl já.
-
-Z té doby si také pamatuji rčení: "Nothing can be finer than a dinner in a diner".
-
-V té době ty Diners byly prefabrikované restaurace populární po celé Severní Americe zejména v Nové Anglii; New Jersey; Long Island; Novém Yorku a jiných městech, ale dokonce i v Kanadě.
-
-Celá ta restaurace byla sestavena v nějaké dílně a pak celá převezena na zvolené místo.
-
-Jak ty Diners vlastně začaly?
+Jak _diners {xml:lang="en"}_ vlastně začaly?
 
 {id="walter_scott"}
 
-## Walter Scott
+## Vznik diners podle Waltera Scotta
 
-Podle jedné teorie původ těch Diners se přičítá Walteru Scottovi, tiskařskému sazeči z Providence, Rhode Island, USA.
+Podle jedné teorie se vynalezení _diners {xml:lang="en"}_ přičítá Walteru Scottovi, tiskařskému sazeči z Providence. Kolem roku 1858, když Scottovi bylo asi 17 let, si přivydělával prodejem sendvičů a kávy z košíku. To nosil zaměstnancům tiskárny na noční směně.
 
-Kolem roku 1858 když Scottovi bylo asi 17 let, si "na vedlejšák" přivydělával prodejem sendvičů a kávy z košíku který nosil zaměstnancům té tiskány na noční směně.
+Kolem roku 1872 byl jeho byznys tak lukrativní, že pověsil sazečství na hřebíček. Pořídil si koně a malý krytý vozík, který zaparkoval před tiskárnou, a sendviče a kávu prodával kolemjdoucím. Aniž by to věděl, tak tím inspiroval jiné lidi k založení velice populárních jídelen zvaných _diner {xml:lang="en"}_.
 
-Kolem roku 1872 ten jeho byznys byl ale tak lukrativní, že Scott pověsil to sazečství na hřebíček, pořídil si koně a malý krytý vozík který zaparkoval před tou tiskárnou a ty sanviče a kávu prodával kolemjdoucím.
+## Vznik diners podle jídelních vozů ve vlacích
 
-Tím vlastně, aniž by to věděl, inspiroval jiné k pozdějším velice populárním jídelnám zvaným Diner.
+Jiná, poněkud věrohodnější teorie, se přiklání k tomu, že _diners {xml:lang="en"}_ pocházejí z vlakových jídelních vozů.
 
-{id="jidelni\_vozy\_na_vlacich"}
+Vlakové vozy byly v 18. století velice populární, ale pro mnoho lidí nedostupné. Cestování vlakem nebylo nic levného a jíst v jídelním voze byl jakýsi luxus. Z toho vzniklo rčení: _“There is nothing finer, than a dinner in a diner” {xml:lang="en"}_, v překladu: „Není nic lepšího, než večeře v _diner {xml:lang="en"}_“.
 
-## JÍDELNÍ VOZY NA VLACÍCH
+Proto byly typické americké _diners {xml:lang="en"}_ ve větších městech většinou prefabrikované repliky vlakových jídelních vozů. V menších městech to byly malé restaurace, spíše jen jídelny, stavěné v místech se silným provozem.
 
-Jiná, poněkud věrohodnější teorie, se přiklání k tomu, že Diners mají původ v jídelních vozech na vlacích které byly v 18 století velice populární, ale mnoha lidem nedostupné, protože cestování na vlaku nebylo nic laciného a jíst v jídelním voze byl jakýsi luxus.
+Interiér, jídelní lístek, příprava a servis jídel se zdaleka nepodobaly někdejším vlakovým jídelním vozům. Jídla byla velmi jednouchá, připravovaná takzvanými kuchaři rychlého občerstvení (anglicky _short order cooks {xml:lang="en"}_), kteří nebyli vyučení, ale byli velice zruční a rychlí.
 
-Z toho vzniklo rčení: "There is nothing finer, than a dinner in a diner", čímž byly myšleny jídelní vozy na vlacích.
+Jídla se podávala na pult (anglicky _counter service {xml:lang="en"}_), což také nevyžadovalo žádnou odbornost. _What a country! {xml:lang="en"}_ Tvrdý alkohol se v _diners {xml:lang="en"}_ nepodával, nicméně pivo bylo celkem běžné.
 
-Proto také typické americké Diners ve větších městech byly většinou prefabrikované repliky vlakových jídelních vozů.
+_Diners {xml:lang="en"}_ otevíraly velmi brzy ráno kvůli snídaním, které ale podávaly po celý den! Ve městech jako je Nový York, kterému se říká „město, které nikdy nespí“, jdou večer někteří lidé spát a jiní teprve vstávají a chystají se na noční směnu.
 
-V menších městech to byly malé restaurace, spíše jen jídelny stavěné v místech silného automobilového provozu.
+Proto byly některé _diners {xml:lang="en"}_ otevřeny 24 hodin denně. Jsem přesvědčen, že mnohý český pan vedoucí by měl zamotanou hlavu, jak to vyřešit s [dlouhými a krátkými týdny][2].
 
-Interiér, jídelní lístek, příprava a servis jídel už se zdaleka nepodobaly někdejším vlakovým jídelním vozům.
+Typické _diners {xml:lang="en"}_ byly stejně dlouhé jako vlakové jídelní vozy. Některé byly naopak velmi malé a čtverhranné, což samozřejmě někteří marketingově využili ve svém názvu. _Square {xml:lang="en"}_ totiž znamená čtverec nebo náměstí, ale také „poctivé“. _Squere diner {xml:lang="en"}_ byla tedy nejenom čtverhranná, ale údajně i „poctivá“ restaurace.
 
-Jídla nebyla nějaká "family cooking" nebo nějaké "hotovky", ale velice jednouchá jídla připravovaná tak zvanými short order cooks kteří nebyli vyučení, natožpak aby měli maturitu nebo doktorát, ale byli velice zruční a rychlí.
+## Diners v České republice
 
-Jídla se podávala způsobem zvaným counter service což také nevyžadovalo žádnou odbornost a tak v mnoha případech ten short order cook ta jídla i podával. _What a country! {xml:lang="en"}_
+Díky jednoduchosti _diners {xml:lang="en"}_ jsem si myslel, že by to byl ideální systém pro mé rodné Československo.
 
-Hard liquor, neboli "tvrdé lihoviny" se v Diners nepodávaly nicméně pivo bylo v mnohých Diners běžné.
+V roce 1989 jsem se do své rodné vlasti vrátil v zastoupení jedné z největších amerických firem, která dodávala kuchyňská zařízení do větších evropských hotelů a firem jako je McDonald's, KFC, Pizza Hut, Dunkin Donut apod. Tehdy jsem se snažil myšlenku amerických _Diners {xml:lang="en"}_ několika lidem nabídnout. Kdo si to ale ještě pamatujete, tak ví, že již samotná zmínka o tom, že je něco americké stačila k tomu, aby vás lidé ukamenovali.
 
-Diners otevíraly velmi brzy ráno kvůli snídaním které ale podávaly po celý den! To je Amerika.
+Jednou to dokonce vypadalo, že Češi kvůli hamburgrárnám vyhlásí Americe válku, ale nakonec k tomu nedošlo. Ne že by se Češi Američanů báli, to ne. V tom ohledu mají Češi pro strach uděláno. Měli prostě strach z toho, že by pak nevěděli, kde všechny ty mrtvé Američany pohřbít.
 
-Totiž ve městech jako je Nový York, kterému se říká: "A city which never sleeps", večer, kdy někteří lidé jdou spát, druzí teprve vstávají a chystají se na noční směnu.
+Naštěstí se to vyřešilo diplomatickou cestou. Američané slíbili, že více než 100.000 restaurací rychlého občerstvení v Česku neotevřou. Na oplátku Čechům povolili, že českých restaurací typu „Švejk“ mohou v Americe otevřít kolik chtějí.
 
-Proto některé diners byly otevřeny 24 hodin a jsem přesvědčen, že mnohý český pan vedoucí by měl zamotanou hlavu jak to s těmi dlouhými a krátkými týdny vyřešit.
+## Pozor na počet písmen v anglických slovech
 
-Typické Diners byly dlouhé tak jako jejich modely vlakové jídelní vozy.
+Kdysi jsem byl ředitelem hotelové školy _Hospitality Institute International {xml:lang="en"}_ na _Triton College {xml:lang="en"}_. Studovalo tam v té době kolem 33 tisíc studentů a jenom v našem programu jsme jich měli kolem 500.
 
-Některé ale byly velice malé a čtverhranné což samozřejmě někteří marketingově využili ve svém názvu.
+Studenti museli někde jíst, a proto byla v kampusu celá řada koncesionářů, kteří nabízeli všechno možné – od hamburgerů, smažených kuřat, stánků s párky, koblihami a pizzou, až po zmrzlinu z pojízdných vozíků. _What a country! {xml:lang="en"}_
 
-Square totiž znamená čtverec nebo náměstí, ale také "poctivé" a SQUERE DINER byla nejenom čtverhranná, ale údajně i "poctivá" restaurace.
+Byli jsme program pohostinství a cestovního ruchu a provozovali jsme školní restauraci pro profesorský sbor. Dělali jsme i různé [cateringové](catering) akce, což byla úžasná příležitost pro naše studenty.
 
-Proč to ale všechno tak zdlouhavě popisuji.
+Já jsem jeden z prvních, kdo pod hlavičkou _Hospitality {xml:lang="en"}_ prosadil výuku managementu nejenom restauračních a hotelových provozů, ale i cestovního ruchu. Byl jsem také jeden z prvních, kdo pochopil, že tato dvě odvětví bez sebe nemohou fungovat (což mi v Česku stále nikdo nevěří). Proto jsem po několik let usiloval o schválení programu výuky managementu restaurací [rychlého občerstvení][1]. Ty jsou totiž nezanedbatelnou složkou pohostinství.
 
-Já jsem ty koncepty některých těch Diners doslova studoval a přesto, že v Americe jejich popularita díky všem těm fast food upadala, tak jsem si myslel, diky té jednoduchosti by to byl ideální systém pro mé rodné Československo.
+Zádrhel byl v mojí podmínce, že bude studentům v rámci výuky rychlého občerstvení dána možnost v některých restauracích přímo pracovat nebo je i řídit. Abych to ale zkrátil…
 
-V roce 1989 jsem se do mé vlasti vrátil v zastoupení jedné z největších amerických firem která dodávala kuchyňská zařízení do větších evropských hotelů a firmám jako je McDonald's, KFC, Pizza Hut, Dunkin Donut, apod. a u té příležitosti jsem se snažil myšlenku těch amerických diners, několika lidem nabídnout, ale kdo si to ještě pamatujete tak víte, že již samotná zmínka že něco je americké stačilo k tomu aby vás lidi ukamenovali.
+Vy, kteří mně již znáte, tak víte, že jsem prevít. Vypracoval jsem tedy relativně obsáhlý materiál. V něm jsem na 250 stránkách dopodrobna popsal, jaký benefit by z mého programu měla škola, a hlavně moji studenti. Můj návrh ale neprošel.
 
-Jeden čas to dokonce vypadalo, že Češi kvůli těm hamburgárnám vypovědí Americe válku, ale nakonec k tomu nedošlo.
+Bylo to krátce před mým odchodem do důchodu, a tak jsem se tím moc nezabýval. Krátce po odchodu jsem se ale dozvěděl, že v komisi, která můj koncept zamítla, byla mimo jiné také jedna děkanka anglického oddělení. Ta sice pohostinství vůbec nerozuměla, ale poukázala na to, že v mém návrhu jsem slovo prádlo (anglicky _linen {xml:lang="en"}_) napsal se dvěma „n“, což je nesmysl.
 
-Ne že by se Češi těch Američanů báli, to ne, v tom ohledu mají Češi pro strach uděláno, ale měli prostě strach z toho, že by pak nevěděli, kde všechny ty mrtvé Američany pohřbít.
+No, jenom kvůli slovu prádlo návrh zřejmě nebyl zamítnut, spíše šlo o velké peníze. Abych to ale nějak zakončil…
 
-Na štěstí se to vyřešilo diplomatickou cestou.
+Asi po deseti letech jsem se setkal s mým nástupcem Jeromem, což byl mimo jiné můj bývalý student. Ten mi řekl, že asi 6 let po mém odchodu, byl můj koncept schválen. Bylo to pro mě velké zadostiučinění.
 
-Američané slíbili, že víc než 100.000 těch fast food v Česku neotevřou a jako reciprocitu Čechům povolili že českých restaurací typu "Švejk" mohou v Americe otevřít kolik chtějí.
-
-Já se dnes již všemi odvětvími pohostinství nezabývám a nějakým fast food už vůbec ne, přesto, že vím že má neomezenou budoucnost a zaměřil jsem se hlavně na můj koncept Steakgrill. Ty diners ale do kategorie fast food nespadají a já si myslím že dnes by k tomu v Česku byla již doba a tak pokud byste se někdo do něčeho takového chtěl pustit tak se na mně obraťte, a já vám s tím pomohu.
-
-M. Klima
-
+ [1]: mc_donalds
+ [2]: kratky_a_dlouhy_tyden
