@@ -9,7 +9,7 @@
 
 _Diner {xml:lang="en"}_ byly prefabrikované restaurace populární po celé Severní Americe, dokonce i v Kanadě. Restaurace byly sestaveny v dílně a pak převezeny na zvolené místo.
 
-Při příchodu do Ameriky jsem na ni byl dobře připraven. Na některé věci jsem ale koukal jako tele na nová vrata. Jednou z nich byli právě _diners {xml:lang="en"}_, o kterých jsem do té doby nic nevěděl.
+Při příchodu do Ameriky jsem byl sice dobře připraven, ale na některé věci jsem koukal jako tele na nová vrata. Jednou z nich byli právě _diners {xml:lang="en"}_, o kterých jsem do té doby nic nevěděl.
 
 Dnes všechny _diners {xml:lang="en"}_ téměř zanikly. V roce 68 byly ale velice populární po celé Americe. Byl jsem konceptem _diners {xml:lang="en"}_ téměř fascinován, protože byl tak jednoduchý.
 
