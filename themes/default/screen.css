@@ -533,23 +533,23 @@ ul.docinfo.nomultiple.global {
   padding-right: 6em;
   width: 100%;
 }
-.search .navigList strong {
+.search .js-completable-navig strong {
   font-weight: 600;
 }
-.search .navigList li:before {
+.search .js-completable-navig li:before {
   font-family: "FontAwesome";
   margin-right: 0.5em;
 }
-.search .navigList .article:before {
+.search .js-completable-navig .article:before {
   content: "\f0f6";
 }
-.search .navigList .tag:before {
+.search .js-completable-navig .tag:before {
   content: "\f02b";
 }
-.search .navigList .google:before {
+.search .js-completable-navig .google:before {
   content: "\f1a0";
 }
-.search .navigList span {
+.search .js-completable-navig span {
   color: #9e9e9e;
 }
 .search ul input {
@@ -655,17 +655,17 @@ ul.docinfo.nomultiple.global {
   justify-content: flex-start;
   text-align: left;
 }
-.search .navigList {
+.search .js-completable-navig {
   width: calc(100% + 6em) !important;
   right: -6em;
   top: 3.5em;
 }
-.search .navigList li {
+.search .js-completable-navig li {
   max-width: calc(100% - 0.5em);
   display: block;
 }
 @media (max-width: 38em) {
-  .search .navigList {
+  .search .js-completable-navig {
     width: calc(100% + 11em) !important;
     right: -6em;
     top: 3.5em;
@@ -904,5 +904,4 @@ p:after {
   font-size: 1.5em;
 }
 /***************************/
-
 
