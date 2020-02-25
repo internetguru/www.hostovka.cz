@@ -40,7 +40,7 @@ n/a
 n/a
 
  [1]: /files/preview/klima.jpg
- [2]: ?clanky=zivotopis#clanky-seznam
+ [2]: ?stitek=zivotopis#clanky
  [3]: https://www.steakgrill.cz
  [4]: http://2017.hostovka.cz
 
