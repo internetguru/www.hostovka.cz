@@ -8,7 +8,7 @@
   <jsFile append="body">themes/moreable.js</jsFile>
   <jsFile append="body">themes/moreableinit.js</jsFile>
   <jsFile append="body">themes/completable-init.js</jsFile>
-  <stylesheet>lib/font-awesome/css/font-awesome.css</stylesheet>
+  <jsFile append="body">themes/fa.js</jsFile>
   
   <var id="usp">enabled</var>
   <var id="schemaorg">enabled</var>
