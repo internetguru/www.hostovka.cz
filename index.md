@@ -10,7 +10,7 @@ Snahou Hostovky je zvýšit uvědomění našich hostů v tom, co jim patří a 
 {class="figure mike"}
 
 ![Michael Dobromil Klíma][1] {class="img"}
-:   **Michael Dobromil Klíma [životopis {title="zobrazit články o životě MDK" class="tag definition-skip"}][2]** 
+:   **Michael Dobromil Klíma [<span class="fa fa-tag">i</span> životopis {title="zobrazit články o životě MDK" class="tag definition-skip"}][2]** 
 :   * 23. 6. 1928 až **†** 15. 10. 2011
 :   Zakladatel konceptu [STEAKGRILL®][3], autor článků na Hostovce. Od poloviny roku 2018 vzniká tento web jako modernizace a revize [původního webu Hostovky][4].
 
