@@ -5,6 +5,8 @@
 
 # Hoteloví poslíčci
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="ubytování, hotel"}
 
 Některé cestovní kanceláře své klienty poučí o tom, jak se mají v dané zemi chovat, o poplatcích, které budou muset zaplatit a o obvyklém spropitném. Dnes již ale hodně lidí cestuje na vlastní noze. Proto vás v tomto článku chci seznámit s výrazy, které vám v zahraničních hotelech usnadní orientaci.

@@ -5,6 +5,8 @@
 
 # Vše o nožích
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="stroje a náčiní, nože, výroba nožů, broušení, ostření, ocílka"}
 
 Lidé si myslí, že nůž je nůž, ale jen na samotné maso jich existuje tolik, že bych u toho strávil zbytek mládí, než bych vám je všechny popsal. Nožů na maso, takzvaných řeznických (anglicky _butcher's knives {xml:lang="en"}_) je nekonečná řada. To samé platí o kuchařských nožích (anglicky _chef's knives {xml:lang="en"}_), které se navíc dělí na maso syrové a maso vařené.

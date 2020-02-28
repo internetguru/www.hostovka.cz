@@ -5,7 +5,9 @@
 
 # Hotelová funkce concierge
 
-{kw="ubytování, Francie, hotely"}
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
+{kw="ubytování, Francie, hotel"}
 
 _Concierge {xml:lang="fr"}_ je ve Francii vrátný nebo domovník. V hotelu je to ale osoba, která se stará o hostovo pohodlí, a která hostům vyřizuje vše spojené s jejich pobytem. V amerických hotelech byla funkce _concierge {xml:lang="fr"}_ až do sedmdesátých let zcela neznámá.
 

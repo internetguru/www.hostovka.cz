@@ -5,6 +5,8 @@
 
 # Flambování a jeho nevýhody
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="gastronomie, Francie, Amerika, recept"}
 
 Pokud víte, co děláte, tak se dá flambovat v zásadě cokoliv. Oblíbené jsou hořící špízy a meče. To ani nevyžaduje velké odborné znalosti a je to spíše líbivá show.

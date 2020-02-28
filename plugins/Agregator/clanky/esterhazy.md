@@ -5,6 +5,8 @@
 
 # Roštěná Esterházy
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="jídla a jídelní lístky, Maďarsko, recept"}
 
 Esterházy je maďarská magnátská rodina, o které jsou zmínky již od roku 1238. Podle této rodiny byla pojmenována roštěná, hovězí pečeně, zmrzlinová bomba a několik dalších jídel.

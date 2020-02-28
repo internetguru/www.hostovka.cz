@@ -5,6 +5,8 @@
 
 # Konzervace potravin konfitováním
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="gastronomie, Francie"}
 
 _Confit {xml:lang="fr"}_ je francouzský odborný kulinářský výraz pro označení potravin, které byly ponořeny do nějaké hmoty jednak pro chuť, ale i a za účelem konzervace. Takto upravená potravina může být uskladněná po několik týdnů v chladu.

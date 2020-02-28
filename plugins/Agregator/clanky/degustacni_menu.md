@@ -5,6 +5,8 @@
 
 # Degustační menu
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="gastronomie"}
 
 Když o [gastronomii][1] už něco víte, tak poznáte, že až na nějaké výjimky jsou degustační menu dělána podle znalostí toho, kdo jídla připravuje. To je nakonec v pořádku, a tak to má být, pokud je to zkušený kuchař. Nicméně osobně nechci dělat pokusného králíka, na kterém by si kuchař třeba i s jednoletou nebo tříletou zahraniční praxi za mé peníze ověřoval své znalosti a schopnosti.

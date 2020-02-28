@@ -5,6 +5,8 @@
 
 # Cukroví marshmallows
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="jídla a jídelní lístky, cukroví, Amerika, recept"}
 
 _Marshmallows {xml:lang="en"}_ je cukroví, jenž pochází až ze starého Egypta. Dělalo z medového základu zahuštěného šťávou z kořene rostliny zvané proskurník lékařský (anglicky _marsh mallow {xml:lang="en"}_).

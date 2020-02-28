@@ -5,6 +5,8 @@
 
 # Mýtus o bakteriích
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="hygiena a sanitace"}
 
 Co to jsou bakterie to vám psát nebudu. Pokud to chcete znát definici, co jsou to bakterie, které jsou užitečné a které ne, tak se podívejte na internet. Chtěl bych se zde jen zmínit o jednom způsobu, jakým se bakterie množí.

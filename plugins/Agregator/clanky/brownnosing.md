@@ -5,6 +5,8 @@
 
 # Hnědý nos českých kuchařů
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="koho se to týká, Česká republika"}
 
 Vsadím se, že vám na žádné škole angličtiny neřeknou co znamená _brownnosing {xml:lang="en"}_. Dokonce to nenajdete ani v žádném slovníku idiomů. _Brown nose {xml:lang="en"}_ znamená v překladu hnědý nos. Prostě když někdo někomu leze do zadku, tak má hnědý nos a nemusím vám asi říkat od čeho.

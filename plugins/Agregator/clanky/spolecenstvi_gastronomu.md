@@ -5,6 +5,8 @@
 
 # Společenství gastronomů
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="gastronomie, Francie, Česká republika"}
 
 V českém odborném tisku jsem se teprve nedávno dozvěděl, že existuje české společenství gastronomů a francouzské společenství _Chaîne des Rôtisseurs {xml:lang="fr"}_.

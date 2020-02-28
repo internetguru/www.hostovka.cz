@@ -5,6 +5,8 @@
 
 # Hoppelpoppel – jídlo ze zbytků
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="jídla a jídelní lístky, Německo, recept"}
 
 _Hoppelpoppel {xml:lang="de"}_ (nebo také hoppel-poppel) je jídlo údajně německého původu. Ještě donedávna bych ale dal ruku do ohně za to, že je to české jídlo.

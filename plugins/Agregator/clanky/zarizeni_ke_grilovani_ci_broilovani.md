@@ -5,7 +5,7 @@
 
 # Zařízení ke grilování či broilování
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
 
 {kw="stroje a náčiní"}
 

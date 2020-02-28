@@ -5,6 +5,8 @@
 
 # Původ názvu pekáče GI pan
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="co-kdy-kde, Amerika"}
 
 _GI pan {xml:lang="en"}_ je označení speciálních pekáčů, dodnes používaných v amerických kuchyních. V samotné Americe ale jen velmi málo lidí zná původ tohoto názvu.

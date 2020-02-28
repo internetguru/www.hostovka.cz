@@ -5,6 +5,8 @@
 
 # Marie-Antoine Carême
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="kdo-kdy-kde, Francie, osobnost"}
 
 Carême byl nejenom vynikající kuchař, ale také to byl nejspíše první [stylista jídla][1] na světě. Pod svá díla se podepisoval jako Antoine Carême, ale jeho plné jméno bylo Marie-Antoine Carême. Narodil se 8. června 1784 v Paříži.

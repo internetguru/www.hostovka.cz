@@ -5,6 +5,8 @@
 
 # Vzhled jídel
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="gastronomie"}
 
 Toto je více méně článek pro odborníky který jsem již před několika lety napsal pro stránky Gastronews které jsou jakési rádoby odborné stránky, ale jak se zdá, tak tam to nepadlo na úrodnou půdu protože je to příliš dlouhé a čtenáři těch stránek mají rádi vše jen v kostce.

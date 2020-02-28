@@ -5,6 +5,8 @@
 
 # Kuchařské umění zvané food styling
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="gastronomie, Amerika"}
 
 _Food styling {xml:lang="en"}_ není vlastně vaření, ale patří mezi gastronomické výrazy které, zatím nemají český ekvivalent. _Food stylist {xml:lang="en"}_ umí kombinovat kuchařské umění, vědu a triky při tvorbě fotografií pro kuchařské knihy či marketing jídel a při točení gastronomických scén ve filmech.

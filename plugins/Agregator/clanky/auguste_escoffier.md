@@ -5,6 +5,8 @@
 
 # Georges Auguste Escoffier
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="kdo-kdy-kde, gastronomie, Francie, historie"}
 
 Escoffier (1847 až 1935) je král kuchařů a kuchař králů, který přišel na svět v ten pravý čas. Narodil se ve _Villeneuve-Loubet {xml:lang="fr"}_, ve městě tak malém, že vůbec nebylo uváděno na mapách.

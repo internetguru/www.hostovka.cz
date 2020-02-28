@@ -5,7 +5,7 @@
 
 # Druhy a příprava krabů
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-02-05, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
 
 {kw="jídla a jídelní lístky, recept, krabi"}
 

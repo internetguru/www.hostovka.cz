@@ -5,6 +5,8 @@
 
 # Škola či řízek Cordon Bleu
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="gastronomie, recept, škola, Francie"}
 
 Cordon Bleu může mít několik významů. V Americe si pod názvem Cordon Bleu hned každý představí telecí řízek plněný šunkou a sýrem. Cordon Bleu je ale také jedna z nejpopulárnějších francouzských kuchařských škol.

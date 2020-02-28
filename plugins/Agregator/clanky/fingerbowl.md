@@ -5,6 +5,8 @@
 
 # Oplachování prstů po jídle
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="co-kdy-kde, případová studie, Amerika"}
 
 _Fingerbowl {xml:lang="en"}_ je malá nádoba naplněná vodou (někdy i s kouskem citrónu), ve které si hosté oplachují prsty. Jde o jeden z odborných výrazů, který byl kdysi v pohostinství tak běžný, že se ho nikdo ani nesnažil přeložit do češtiny.

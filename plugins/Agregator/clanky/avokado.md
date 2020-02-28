@@ -5,6 +5,8 @@
 
 # Vše o avokádu
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="zbožíznalství, ovoce, zelenina"}
 
 Avokádo (anglicky _avocado_), je někdy označováno za tropické ovoce a jindy za zeleninu. Plody jsou kulaté, oválné nebo hruškovitého tvaru. Barva avokáda může být od jasně zelené, přes červenou, po tmavě rudou až černou.

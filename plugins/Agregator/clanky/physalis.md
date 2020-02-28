@@ -5,6 +5,8 @@
 
 # Ovoce physalis
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="zbožíznalství"}
 
 Physalis (česky mochyně) je jedno z mála ovocí, ze kterého se používá celá rostlina – plody, listy, a kořeny. Physalis se dnes velmi často objevuje na českých trzích. Přesto se ale obávám, že jen málo lidí ví, co to vlastně je, a jak physalis jíst nebo podávat.

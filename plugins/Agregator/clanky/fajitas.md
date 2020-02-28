@@ -5,6 +5,8 @@
 
 # Mexické jídlo fajitas
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="jídla a jídelní lístky, Mexiko, Amerika, recept"}
 
 Dnes je v Česku tolik mexických restaurací, že mexická jídla nejsou již nic nového. Nicméně někteří lidé by do mexické restaurace nešli jen proto, že se nechtějí ztrapnit neznalostí, jak mexické speciality jíst. Příkladem takového jídla je fajitas.

@@ -5,6 +5,8 @@
 
 # Označení výrobků ecoflower
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="co-kdy-kde, ekologie, Evropa"}
 
 _Ecoflower {xml:lang="en"}_ by se dalo do češtiny přeložit jako „ekologická květina“. Označení má své logo, které vám má pomoci poznat ekologický výrobek nebo služby.

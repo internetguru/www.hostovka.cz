@@ -5,6 +5,8 @@
 
 # Co se zaměstnanci, kteří kradou?
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="co-kdy-kde, případová studie"}
 
 Jednou mi nepřišel do práce barman. Barmanství už mi tak nejde, a tak jsem zavolal kolegu, jestli by neměl někoho k dispozici. Řekl mi, že má k dispozici Jima, který je vynikající barman. Upozornil mě ale, že Jim občas něco ukradne z kasy, rád se napije, kouří podnikové cigarety, a že je navíc homosexuál.

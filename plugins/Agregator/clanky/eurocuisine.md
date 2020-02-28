@@ -5,6 +5,8 @@
 
 # Budoucnost evropské kuchyně
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="gastronomie, Evropa"}
 
 Evropa se může pochlubit hned několika dobrými kuchyněmi, které byly založeny na historii a tradicích zemí, ve kterých vznikly.

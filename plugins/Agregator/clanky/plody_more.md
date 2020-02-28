@@ -5,6 +5,8 @@
 
 # Plody moře a krevetky
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="jídla a jídelní lístky, krevetky"}
 
 Francouzsky _Fruit de Mer {xml:lang="fr"}_, německy _Meeresfrüchte {xml:lang="de"}_, italsky _Frutti di Mare {xml:lang="it"}_. Plodům moře se někdy říká mořské ovoce, na čemž nakonec není nic špatného a každý ví čem mluvíte. Anglicky se jim říká _seafood {xml:lang="en"}_, protože když napíšete _sea food {xml:lang="en"}_, tak si lidé myslí, že jste chtěli říci _see food {xml:lang="en"}_, což by znamenalo vidět jídlo.

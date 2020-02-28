@@ -5,6 +5,8 @@
 
 # Barding neboli obalování masa tukem
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="kuchyňské techniky, maso"}
 
 Barding je výraz, který se objevuje zejména na lístcích zahraničních steakhousů. Jako studenti Hostovky bychom měli vědět, co to vlastně znamená.

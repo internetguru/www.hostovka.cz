@@ -5,6 +5,8 @@
 
 # Význam slova chucpa
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="historka, Izrael, zkušenosti"}
 
 Výraz chucpa má řadu významů, a to jak negativních, tak i pozitivních. Chucpa může znamenat odvahu nebo kuráž a opovážlivost v tom kladném slova smyslu, ale i nehoráznou opovážlivost v záporném smyslu jako je drzost či neomalenost.

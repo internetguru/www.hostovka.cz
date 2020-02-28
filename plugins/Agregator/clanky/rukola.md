@@ -5,6 +5,8 @@
 
 # Salát rukola
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="jídla a jídelní lístky, salát, recept"}
 
 Roketa setá nebo také _rukola_, je salát známý také pod výrazy _rugula_ a _rugola_ nebo pod francouzským _roquette {xml:lang="fr"}_ či anglickým _arugula {xml:lang="en"}_. Název salátu je odvozený od latinského slova _eruca {xml:lang="la"}_, což znamená druh zelí. Je to listová zelenina z rodiny _cruciférae {xml:lang="la"}_ podobná špenátu nebo řeřiše. Používá se často ve studené kuchyni k [ozdobě jídel][1].

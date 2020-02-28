@@ -5,7 +5,7 @@
 
 # Italská dochucovací omáčka aioli
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
 
 {kw="co-kdy-kde, omáčka, recept, Itálie"}
 

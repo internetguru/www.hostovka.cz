@@ -5,6 +5,8 @@
 
 # Příběh hoteliéra Ellswortha M. Statlera
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="kdo-kdy-kde, případová studie"}
 
 _Ellsworth Statler {xml:lang="en"}_ je mnohými považován za největšího hoteliéra všech dob. Ze 13letého hotelového poslíčka se bez jakéhokoliv základního natožpak odborného vzdělání stal osobností amerického hotelového průmyslu a multimilionářem.

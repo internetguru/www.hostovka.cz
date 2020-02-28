@@ -5,6 +5,8 @@
 
 # Restaurace se samoobslužným bufetem
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="gastronomie"}
 
 Způsob podávání jídel formou bufetu byl v Česku až do Sametové revoluce zcela neznámý. To bylo z více důvodů. V Česku ustálený název _all you can eat {xml:lang="en"}_ znamená „co dokážete sníst“. To samo o sobě nebylo něco, co by socialismus byl schopen zabezpečit.

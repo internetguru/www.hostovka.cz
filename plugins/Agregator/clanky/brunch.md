@@ -5,6 +5,8 @@
 
 # Pozdní snídaně neboli brunch
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="gastronomie, brunch"}
 
 Slovo brunch má svůj původ v Americe. Je to vlastně kombinace snídaně, anglicky _breakfast {xml:lang="en"}_ a oběda, anglicky _lunch {xml:lang="en"}_.

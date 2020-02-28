@@ -5,6 +5,8 @@
 
 # Chlazení studeným šokem
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="co-kdy-kde"}
 
 Studený šok, je způsob rychlého zchlazení vařených nebo blanšírovaných surovin za účelem okamžitého přerušení procesu vaření, který probíhá v surovině i po jejím vyndání z vody. V angličtině se tomuto procesu říká _cold schock {xml:lang="en"}_, v němčině _abschrecken {xml:lang="de"}_.

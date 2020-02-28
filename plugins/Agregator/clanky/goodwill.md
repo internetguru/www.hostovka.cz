@@ -5,6 +5,8 @@
 
 # Význam slova goodwill
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="gastronomie, Amerika"}
 
 Slovo _goodwill {xml:lang="en"}_ znamená v překladu dobrá vůle. _Goodwill {xml:lang="en"}_ má však mnoho dalších významů, které se v mnoha případech nedají přesně specifikovat.

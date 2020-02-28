@@ -5,6 +5,8 @@
 
 # Projekt Czech specials
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="jídla a jídelní lístky, Česká republika"}
 
 Původně se měl projekt jmenovat _[Czech specials][1] {xml:lang="en"}_ (české speciality). Lepší název by ale byl například _Czech specialities {xml:lang="en"}_). Poté začali přidávat názvy: „Ochutnejte Českou republiku“. To se ale moc nelíbilo Moravákům, a tak Moraváci přišli s něčím podobným, což je „Ochutnejte Moravu“. 

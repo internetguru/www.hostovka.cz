@@ -5,6 +5,8 @@
 
 # Geniální hoteliér César Ritz
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="kdo-kdy-kde, gastronomie, Francie, historie"}
 
 César Ritz byl génius hotelového průmyslu. Moc dobře znal důležitost historie, zásad [gastronomie][1] a dobré organizace kuchyně.

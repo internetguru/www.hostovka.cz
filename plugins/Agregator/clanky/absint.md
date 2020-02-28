@@ -5,6 +5,8 @@
 
 # Hořký likér absint
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="nápoje, koktejly"}
 
 Absint je zelený likér, k jehož přípravě se mimo jiné používá nahořklá dřevnatá rostlina [Artemisia absinthium][1] anglicky zvaná _wormwood {xml:lang="en"}_. Pro svou intenzivní anýzovou příchuť si absint vysloužil francouzský název _anisette {xml:lang="fr"}_.

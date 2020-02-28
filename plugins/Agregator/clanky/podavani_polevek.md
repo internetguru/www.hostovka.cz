@@ -5,6 +5,8 @@
 
 # Podávání polévek
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="jídla a jídelní lístky, polévky"}
 
 [Polévky][1] se typicky podávají v polévkových nebo bujónových šálcích, případně na hlubokých talířích. Někdy se také podávají v takzvaných polévkových terinách, z kterých si hosté mohou podle chuti nabrat sami.

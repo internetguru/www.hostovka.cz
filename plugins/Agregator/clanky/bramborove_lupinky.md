@@ -5,6 +5,8 @@
 
 # Bramborové lupínky
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="jídla a jídelní lístky, brambory, Francie, Amerika"}
 
 Jako světová potravina jsou brambory na druhém místě (hned za rýží). Upravují se asi mnoha různými způsoby. Jedna z nejpopulárnějších forem jsou brambory smažené ve formě [hranolků][1] nebo lupínků (chipsů).

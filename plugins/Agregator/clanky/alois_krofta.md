@@ -5,6 +5,8 @@
 
 # Architekt Alois Krofta
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="kdo-kdy-kde, hotel"}
 
 Pražský architekt Alois Krofta si ve třicátých letech otevřel hotel Alcron. Název hotelu byl odvozen ze zkratky jeho jména. Jako [šéfkuchaře][1] si najal Floriána Zimmermanna, který měl mezinárodní zkušenosti.

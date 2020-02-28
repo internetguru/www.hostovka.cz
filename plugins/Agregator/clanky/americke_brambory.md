@@ -5,6 +5,8 @@
 
 # Americké pečené brambory a hranolky
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="jídla a jídelní lístky, brambory, recept, Amerika"}
 
 V Evropě spotřeba brambor na osobu za poslední tři dekády klesá. V Americe jsou brambory ale stále hlavní přílohou jídel. Nebudu vám tady popisovat všechny způsoby úprav brambor, kterých je opravdu hodně. Hostovka není škola vaření, ale o tom, jak se brambory ve světě podávají, a jak by se měly jíst, byste měli něco vědět.

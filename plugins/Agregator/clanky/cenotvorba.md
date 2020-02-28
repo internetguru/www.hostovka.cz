@@ -5,6 +5,8 @@
 
 # Cenotvorba konceptu STEAKGRILL®
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="co-kdy-kde, jídla a jídelní lístky, pohostinství"}
 
 Cenotvorba je jedním z nejdůležitějších úkolu managementu kteréhokoliv provozu v oboru průmyslu pohostinství a cestovního ruchu. Na našich oborných a hotelových školách se cenotvorba nejspíše vyučuje. Podle mě se cenotvorba sice dá vyučovat, ale nedá se naučit.

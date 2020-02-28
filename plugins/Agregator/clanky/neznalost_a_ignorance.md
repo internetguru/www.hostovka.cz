@@ -5,7 +5,7 @@
 
 # Neznalost a ignorance
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
 
 {kw="případová studie"}
 

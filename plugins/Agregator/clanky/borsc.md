@@ -5,6 +5,8 @@
 
 # Ruská polévka boršč
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="jídla a jídelní lístky, polévky, recept, Rusko"}
 
 Boršč je ruská [polévka][1], která je považovaná za jednu z nejlepších polévek na světě. Díky tomu existuje i několik verzí polévky. Tradiční boršč je připravován z červené řepy, která se vaří v silném masitém vývaru s cibulí a se zelím, okořeněná pepřem a kmínem.

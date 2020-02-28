@@ -5,6 +5,8 @@
 
 # Důležitost propagace
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="životopis"}
 
 V Česku vám stačí titul a nějaké medaile. V Americe ale tituly nejsou a na medaile se také moc nevěří. Můžete tam být jakkoli dobří, ale pokud to nikdo neví, tak si za to nic nekoupíte. Musíte mýt neustále vidět, propagovat se a nesmíte být skromní.

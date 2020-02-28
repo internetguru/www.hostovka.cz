@@ -5,6 +5,8 @@
 
 # Ohřevná vana bain-marie
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="co-kdy-kde, Francie"}
 
 _Bain-marie {xml:lang="fr"}_ je francouzské označení pro zařízení používané nejen ve vědě a technice, ale i v kuchyni. Zařízení se v kuchyni používá pro udržování teploty potravin na požadované teplotě pod bodem varu.

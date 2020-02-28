@@ -5,6 +5,8 @@
 
 # Šéfkuchařův stůl
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="restaurace a servis, Francie"}
 
 [Šéfkuchařův][1] stůl je anglicky nazýván jako _chef‘s table {xml:lang="en"}_. V některých restauracích a hotelech ve Francii bylo, a doufám že je ještě zvykem, že před zahájením provozu všichni kuchaři, společně s šéfkuchařem, zasednou ke stolu prostřenému bílým ubrusem a společně obědvají.

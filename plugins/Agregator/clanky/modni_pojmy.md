@@ -5,7 +5,7 @@
 
 # Upoutání pozornosti módními pojmy
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-08-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
 
 {kw="jídla a jídelní lístky, snob"}
 

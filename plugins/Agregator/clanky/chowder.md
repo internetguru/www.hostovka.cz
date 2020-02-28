@@ -5,6 +5,8 @@
 
 # Husté polévky zvané chowdery
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="jídla a jídelní lístky, polévky, recept, Amerika"}
 
 Americký _chowder {xml:lang="en"}_ je hutná, hustá a velice chutná [polévka][1] připravená ze všemožných potravin upravených většinou na mléčném nebo rajčatovém základu. Může to být například kukuřičný _Corn Chowder {xml:lang="en"}_, _Manhattan {xml:lang="en"}_, _Boston {xml:lang="en"}_ nebo populární polévka z mušlí _New England Clam Chowder {xml:lang="en"}_.

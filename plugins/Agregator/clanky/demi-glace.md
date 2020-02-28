@@ -5,6 +5,8 @@
 
 # Omáčka demi-glace
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="omáčka, recept, Francie"}
 
 Demi-glace je hnědá omáčka připravená redukcí španělské omáčky, jejíž příprava od píky je dnes zcela neekonomická. Je běžně k dostání v prášku nebo jako pasta. Klasická demi-glace se vyznačuje hlavně tím, že její příprava je nepřestavitelně dlouhá. Takže mi vůbec nejde do hlavy, jak to ten [Escoffier][1] všechno stíhal.

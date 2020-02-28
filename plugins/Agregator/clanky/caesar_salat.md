@@ -5,6 +5,8 @@
 
 # Suroviny a příprava Caesar salátu
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="gastronomie"}
 
 První zajímavá věc na Caesar salátu je, že není americký, a že nemá nic společného s Juliem Caesarem. Americký název salátu _Caesar_ je chybný. Vynález tohoto salátu, kdysi populárního jen ve Spojených státech amerických, je přičítán italskému imigrantovi Livio Santinimu. Ten byl v roce 1925 kuchařem původní restaurace Caesara Cardinino v Tijuaně v Mexiku.

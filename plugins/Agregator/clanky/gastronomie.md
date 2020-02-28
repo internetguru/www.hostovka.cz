@@ -5,6 +5,8 @@
 
 # Vše o gastronomii
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="gastronomie, historie, jídla a jídelní lístky, Francie, Česká republika"}
 
 [Gastronom][1] je jakýsi puntičkářský výraz z počátku devatenáctého století, kterým se označovali experti v gastronomii. Praví znalci dobrého jídla se spokojí s názvem [gurmán][2].

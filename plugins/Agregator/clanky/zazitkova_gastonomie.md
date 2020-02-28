@@ -5,6 +5,8 @@
 
 # Zážitková gastronomie
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="gastronomie"}
 
 Zážitková gastronomie je přesně to, co napovídá její název. Podle mě to ale bohužel není úplně přesná definice.

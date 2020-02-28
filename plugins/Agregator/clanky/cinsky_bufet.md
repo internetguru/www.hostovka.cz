@@ -5,6 +5,8 @@
 
 # Čínský samoobslužný bufet
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="jídla a jídelní lístky, bufet"}
 
 Nedávno jsem v poště našel nabídku jedné čínské restaurace. Cena za polední bufet se mi zdála přijatelná. Útrata za dvě osoby včetně 15% spropitného (za to odklízení použitého nádobí) je $17, což při aktuálním kurzu dolaru (v roce 2006) odpovídá zhruba 400 Kč.

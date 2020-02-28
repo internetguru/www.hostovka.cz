@@ -5,6 +5,8 @@
 
 # Historie titulu garde manger
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="gastronomie, Francie, Amerika"}
 
 _Garde manger {xml:lang="fr"}_ býval velice respektovaný titul. _Garde {xml:lang="fr"}_ je francouzský výraz, který znamená hlídat, a _manger {xml:lang="fr"}_ jsou jídla nebo potraviny. Jedním z nejslavnějších nositelů tohoto titulu byl [Marie-Antoine Carême][1].

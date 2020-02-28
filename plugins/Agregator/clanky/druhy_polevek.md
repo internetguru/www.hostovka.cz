@@ -5,6 +5,8 @@
 
 # Druhy polévek
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="jídla a jídelní lístky, polévky, recept, Amerika, Rusko, Čína, Japonsko, Mongolsko, Francie, Bulharsko"}
 
 Téměř všechny etnické kuchyně mají skupinu jídel, která se dá nazvat jako polévky. Pokusím se zde zmínit alespoň několik nejpopulárnějších z nich předem se a omlouvám, jestli jsem některou opomenul.

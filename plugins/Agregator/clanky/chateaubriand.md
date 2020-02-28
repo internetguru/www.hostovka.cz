@@ -5,6 +5,8 @@
 
 # Proslulý francouzský pokrm chateaubriand
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="jídla a jídelní lístky"}
 
 Châteaubriand [vyslov _šatobriján_] byl francouzský státník a spisovatel, jehož nejznámější díla jsou _Memoires d'outre-tombe {xml:lang="fr"}_ (Paměti ze záhrobí), _Atala_ a _Génie du christianisme {xml:lang="fr"}_ (Duch křesťanství). Je po něm pojmenováno několik omáček a pokrmů, z nichž nejznámější je řez ze svíčkové o váze 400 až 500 gramů zvaný chateaubriandův steak nebo také jen _chateaubriand_.

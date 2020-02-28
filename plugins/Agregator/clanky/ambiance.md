@@ -5,6 +5,8 @@
 
 # Ambiance v gastronomii
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="gastronomie, Amerika, Francie"}
 
 _Ambiance {xml:lang="fr"}_ je francouzské slovo, které podle slovníku znamená okolí a ovzduší. V americkém pohostinství slovo _ambiance {xml:lang="fr"}_ ale spíše znamená celkový dojem z prostředí, zařízení a hudby. _Ambiance {xml:lang="fr"}_ ale také zahrnuje teplotu, dobrý pocit z jídla a pití, servisu a dobré nálady, neboli celkové uspokojení.

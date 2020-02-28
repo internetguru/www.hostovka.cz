@@ -5,6 +5,8 @@
 
 # Studené polévky
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="jídla a jídelní lístky, polévky, recept, Špaňelsko, Francie, Řecko"}
 
 Studené [polévky][1] si z nějakého důvodu nikdy nezískaly nějakou velkou popularitu. Některé vám tu ale pro zajímavost uvedu.

@@ -5,6 +5,8 @@
 
 # Rekreační cestování zaoceánskými loděmi
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="cestovní ruch"}
 
 Cestování zaoceánskými loděmi (anglicky _cruises {xml:lang="en"}_) se dnes stalo ideálním trávením volného času při poznávání neznámých zemí. Je určeno hlavně pro lidi, kteří jsou již na odpočinku, protože je považováno za nejméně namáhavý způsob, jak poznat svět.

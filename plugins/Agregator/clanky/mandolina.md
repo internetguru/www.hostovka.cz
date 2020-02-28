@@ -5,6 +5,8 @@
 
 # Multifunkční struhadlo kuchyňská mandolína
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="stroje a náčiní"}
 
 Mandolína je ve světě známá jako hudební nástroj, ale v gastronomii je mandolína úplně jiné zvíře. Je to jakési multifunkční struhadlo, na kterém se ručně strouhají potraviny. Strouhá se na ni podobnými pohyby, jako při hře na mandolínu, odtud ten název.

@@ -5,6 +5,8 @@
 
 # Vliv Catherine de Medici na francouzskou kuchyni
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="kdo-kdy-kde, Francie, Itálie"}
 
 Základy západní gastronomie byly položeny již v době renesance. Sňatek čtrnáctileté Kateřiny Medicejské s budoucím francouzským králem Jindřichem II. byl příležitostí vlivu sofistikované italské kuchyně na kuchyni francouzskou.

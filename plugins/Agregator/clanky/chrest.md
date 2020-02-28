@@ -5,6 +5,8 @@
 
 # Vše o chřestu
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="gastronomie"}
 
 Na stránkách [neviditelný pes][1] jsem zcela náhodou narazil na docela [zajímavý článek o chřestu][2]. Ať již budete chřest někdy jíst nebo ne, tak byste se o něm měli něco dozvědět. Proto vám mimo odkazu na článek přikládám i pár slov o chřestu.

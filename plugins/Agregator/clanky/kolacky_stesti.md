@@ -5,6 +5,8 @@
 
 # Ne až tak čínské koláčky štěstí
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="gastronomie, případová studie, Amerika, čínská restaurace"}
 
 Koláčky štěstí (anglicky _fortune cookies {xml:lang="en"}_) jsou křehké, duté pečivo vyrobené z mouky, cukru, másla, mléka a vanilky. Jsou v nich zapečené malé papírky s „čínskými moudrostmi“, předpověďmi a někdy i se šťastnými čísly.

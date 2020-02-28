@@ -5,6 +5,8 @@
 
 # Restaurace zvaná diner
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+
 {kw="koho se to týká, případová studie, Amerika"}
 
 _Diner {xml:lang="en"}_ byly prefabrikované restaurace populární po celé Severní Americe a dokonce i v Kanadě. Restaurace byly sestaveny v dílně, a pak převezeny na zvolené místo.
