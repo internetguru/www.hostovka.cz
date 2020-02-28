@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Breadcrumb>
   <var id="logo">/files/glass-martini-alt-solid.png</var>
+  <var id="reset">Výchozí filtr</var>
 <!--   <var id="homeTitle">Na domovskou stránku</var> -->
 </Breadcrumb>

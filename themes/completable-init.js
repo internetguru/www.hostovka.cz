@@ -1,6 +1,6 @@
 (function () {
   require("IGCMS.Completable", function () {
-    document.body.innerHTML += '<span data-fa-symbol="tag" class="fas fa-tag"></span><span data-fa-symbol="doc" class="far fa-file-alt"></span>'
+    document.body.insertAdjacentHTML('beforeend',  '<span data-fa-symbol="tag" class="fas fa-tag"></span><span data-fa-symbol="doc" class="far fa-file-alt"></span>')
     IGCMS.Completable.init({
       selectSelector: '#header select.completable',
       placeholder: "Co Vás zajímá? (Ctrl+Shift+F)",
@@ -20,4 +20,5 @@
     })
   })
 })()
+
 
