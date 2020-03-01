@@ -948,22 +948,22 @@ ul.docinfo.nomultiple.global {
   margin: 0;
   padding: 0 1em 3em 1em;
 }
-.share li {
-  /* margin: 0.5em 0; */
-  /* margin-right: 1em; */
-}
-.share li a svg {
-  float: left;  
+.docinfo li {
+  margin: 0.5em 0.75em 0.5em 2em;
+  position: relative;
 }
 ul.docinfo svg {
   font-size: 1.2em;
   color: #757575;
   padding: 0.1rem 0.5rem 0 0;
-  vertical-align: -0.15em;
+  position: absolute;
+  top: 0em;
+  left: -1.45em;
+  width: 1.1em !important;
+  text-align: center;
 }
-.docinfo li {
-  margin: 0.5em;
-  margin-right: 1em;
+ul.docinfo.nomultiple.global svg {
+  top: -0.1em;
 }
 @media (min-width: 30em) {
   .share,
@@ -1028,5 +1028,4 @@ p:after {
   font-size: 1.5em;
 }
 /***************************/
-
 
