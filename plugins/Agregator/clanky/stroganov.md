@@ -107,7 +107,7 @@ Mistr Rostropovič byl tak nadšený, že mě pozval ke stolu na panáka jeho os
 
 n/a
 
-{var="inputvar-pribuzne@var"}
+{var="inputvar-pribuzne"}
 
 Příbuzné články nejsou k dispozici
 
