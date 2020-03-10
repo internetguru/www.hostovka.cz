@@ -1,11 +1,9 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=30.html" data-image="/files/preview/clanky/agnes_sorel/general.jpg" data-type="article"}
 
-{ctime="2005-07-03" mtime="2005-07-03" id="agnes\_sorel" author="Michael Klíma" short="Agnès Sorel" authorid="hostovka/michael\_klima"}
+{ctime="2005-07-03" mtime="2020-03-10" id="agnes\_sorel" author="Michael Klíma"}
 
 # Agnès Sorel
-
-<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
 
 {kw="restaurace a servis"}
 
