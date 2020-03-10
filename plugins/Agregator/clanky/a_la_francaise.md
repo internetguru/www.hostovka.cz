@@ -1,11 +1,9 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=478.html" data-image="/files/preview/clanky/a\_la\_francaise/general.jpg" data-type="article"}
 
-{ctime="2009-12-24" mtime="2009-12-24" id="a\_la\_francaise" author="Michael Klíma" short="À la française" authorid="hostovka/michael_klima"}
+{ctime="2009-12-24" mtime="2020-03-10" id="a\_la\_francaise" author="Michael Klíma"}
 
 # À la française
-
-<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
 
 {kw="o čem se mluví"}
 
