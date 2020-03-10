@@ -1,11 +1,9 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=574.html" data-image="/files/preview/clanky/administrativni_pracovnik/general.jpg" data-type="article"}
 
-{ctime="2011-08-15" mtime="2011-08-15" id="administrativni\_pracovnik" author="Michael Klíma" short="Administrativní pracovník" authorid="hostovka/michael\_klima"}
+{ctime="2011-08-15" mtime="2020-03-10" id="administrativni\_pracovnik" author="Michael Klíma"}
 
 # Administrativní pracovník
-
-<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
 
 {kw="pohostinství"}
 
