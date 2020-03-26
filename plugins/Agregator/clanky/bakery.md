@@ -1,29 +1,27 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=215.html" data-image="/files/preview/clanky/bakery/general.jpg" data-type="article"}
 
-{ctime="2007-02-06" mtime="2007-02-06" id="bakery" author="Michael Klíma" short="Bakery" authorid="hostovka/michael_klima"}
+{ctime="2007-02-06" mtime="2020-03-26" id="bakery" author="Michael Klíma" short="Bakery"}
 
-# Bakery
-
-<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+# Příběh o restauraci Bakery
 
 {kw="restaurace a servis"}
 
-Já vím, že jako studenti Hostovky se možná zabýváte i myšlenkou, že po jejím absolvování byste si možná mohli otevřít restauraci a proč ne.
-
-Je totiž dokázáno, že laici, neboli lidé kteří nejsou vyučení v oboru nebo kteří nemají žádnou odbornou školu jsou většinou úspěšnější než ti tak zvaní "odborníci".
-
-Nechci vás z toho zrazovat ba naopak vám přikládám případovou studii o jednom velice úspěšném "laikovi".
-
-Podle všech pouček o podnikání v pohostinství jednou ze základních podmínek úspěšného provozování restaurace je lokalita.
-
-Nicméně doslova školním příkladem že atmosféra a ambiance je důležitější podmínkou při provozování restaurace než lokalita byl můj velmi dobrý a milý přítel pan Louis Szathmary, autor mnoha kuchařských knih, zakladatel jedné z nejúspěšnějších restaurací v Chicagu, a v celé Americe uznávaný odborník v pohostinském průmyslu.
-
 Historie otevření této restaurace je tak unikátní, že se dostala jako školní příklad do amerických odborných učebnic restauračního managementu.
 
-Szathmary, známý dnes v odborných kruzích po celé Americe jako Chef Louis, nebyl vlastně kuchař a šéfkuchař už vůbec ne.
+{class="example"}
 
-Louis byl Maďar, doktor filosofie, který po maďarských událostech v roce 1956 imigroval do Ameriky.
+Je dokázáno, že laici, lidé kteří nejsou vyučení v oboru nebo kteří nemají žádnou odbornou školu, jsou většinou úspěšnější než odborníci.
+
+Podle všech pouček o podnikání v pohostinství je jednou ze základních podmínek úspěšného provozování restaurace lokalita.
+
+## Louis Szathmary
+
+Nicméně doslova školním příkladem, že atmosféra a [ambiance](ambiance) je důležitější podmínkou při provozování restaurace než lokalita, byl můj velmi dobrý a milý přítel pan Louis Szathmary.
+
+Louis je autor mnoha kuchařských knih, zakladatel jedné z nejúspěšnějších restaurací v _Chicagu {xml:lang="en"}_. V celé Americe je uznávaný odborník v pohostinském průmyslu.
+
+Szathmary, dnes známý v odborných kruzích po celé Americe jako _Chef Louis {xml:lang="en"}_, nebyl vlastně kuchař a [šéfkuchař](kucharske_tituly#sefkuchar) už vůbec ne. Louis byl Maďar, doktor filosofie, který po maďarských událostech v roce 1956 imigroval do Ameriky.
 
 Jak mi řekl, tak neuměl moc anglicky a jeho maďarský doktorát filosofie by mu byl nanic i kdyby anglicky uměl, a jelikož neuměl nic jiného tak skončil, tak jako miliony jiných imigrantů, u mytí nádobí v restaurační kuchyni.
 
@@ -31,7 +29,7 @@ Tím ale začala jeho úspěšná kariéra v pohostinství, kterou ukončil jako
 
 Při tom mytí nádobí, když si tak sám pro sebe filozofoval, si Louis říkal, že přeci nepřišel do Ameriky mýt nádobí. Od toho dřezu viděl co masa, a hlavně steaků se v Americe spotřebuje a říkal si, že kráva není jenom samé steaky, a že ten masný kombinát, který do té restaurace ty steaky dodával, musí mít nesmírné množství masa, se kterým zřejmě nevědí co jiného dělat, než ho rozemlít na hamburgry, což je v Americe po steacích druhý největší artikl.
 
-Abych ale tu historku trochu zkrátil...
+## Začátek podnikání
 
 Luis neměl vůbec ponětí o vaření, ale znal jídlo z té druhé strany. Jako pravý Maďar uměl dobře jíst a jeho neoblíbenějším jídlem, které mu v Americe scházelo, byl dobrý maďarský guláš. Tudíž přišel s nápadem, nabídnou tomu masnému kombinátu recept na pravý maďarský guláš, který mu na cestu do Ameriky dala jeho babička. Recept se tomu masnému kombinátu líbil, protože to skutečně bylo řešení jak zpracovat všechen ten ořez ze steaků a tak podle něj začali vyrábět "Pravý maďarský guláš".
 
@@ -42,6 +40,8 @@ Toto místo bylo samozřejmě lepší než mytí nádobí, ale musíme mít na p
 Začal se tudíž zabývat myšlenkou otevřít si vlastní restauraci. Louis při svém konzultanství vydělal nějaké peníze, ale nebylo jich tolik aby mohl riskovat. Louis také nepatřil do skupiny hazardérů a do skupiny hochštaplerů už vůbec ne - Luis byl filosof - patřil spíše do skupiny eskamotérů, a tam je základ všech těch milionů které Louis během dalších 30 let ve své restauraci vydělal.
 
 Přístup k otevření jeho restaurace byl ukázkou toho nejvyššího eskamotérství takže takový Hudini byl proti němu úplný břídil.
+
+## Restaurace proti všem poučkám
 
 Na severu Chicága byla na prodej bývalá pekárna, a Louis se rozhodl ji koupit.
 
