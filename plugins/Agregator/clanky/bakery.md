@@ -3,7 +3,7 @@
 
 {ctime="2007-02-06" mtime="2020-03-26" id="bakery" author="Michael Klíma" short="Bakery"}
 
-# Příběh o restauraci Bakery
+# Příběh restaurace Bakery
 
 {kw="restaurace a servis"}
 
@@ -23,11 +23,11 @@ Louis je autor mnoha kuchařských knih, zakladatel jedné z nejúspěšnější
 
 Szathmary, dnes známý v odborných kruzích po celé Americe jako _Chef Louis {xml:lang="en"}_, nebyl vlastně kuchař a [šéfkuchař](kucharske_tituly#sefkuchar) už vůbec ne. Louis byl Maďar, doktor filosofie, který po maďarských událostech v roce 1956 imigroval do Ameriky.
 
-Jak mi řekl, tak neuměl moc anglicky a jeho maďarský doktorát filosofie by mu byl nanic i kdyby anglicky uměl, a jelikož neuměl nic jiného tak skončil, tak jako miliony jiných imigrantů, u mytí nádobí v restaurační kuchyni.
+Jak mi řekl, tak neuměl moc anglicky a jeho maďarský doktorát filosofie by mu byl nanic i kdyby anglicky uměl. Jelikož neuměl nic jiného tak skončil, tak jako miliony jiných imigrantů, u mytí nádobí v restaurační kuchyni.
 
 Tím ale začala jeho úspěšná kariéra v pohostinství, kterou ukončil jako milionář a jako jeden z nejúspěšnějších restauratérů v Americe.
 
-Při tom mytí nádobí, když si tak sám pro sebe filozofoval, si Louis říkal, že přeci nepřišel do Ameriky mýt nádobí. Od toho dřezu viděl co masa, a hlavně steaků se v Americe spotřebuje a říkal si, že kráva není jenom samé steaky, a že ten masný kombinát, který do té restaurace ty steaky dodával, musí mít nesmírné množství masa, se kterým zřejmě nevědí co jiného dělat, než ho rozemlít na hamburgry, což je v Americe po steacích druhý největší artikl.
+Při mytí nádobí, když si tak sám pro sebe filozofoval, si Louis říkal, že přeci nepřišel do Ameriky mýt nádobí. Od dřezu viděl co masa, a hlavně steaků se v Americe spotřebuje a říkal si, že kráva není jenom samé steaky, a že masný kombinát, který do restaurace steaky dodával, musí mít nesmírné množství masa, se kterým zřejmě nevědí co jiného dělat, než ho rozemlít na hamburgry, což je v Americe po steacích druhý největší artikl.
 
 ## Začátek podnikání
 
@@ -37,7 +37,7 @@ Na konzervách ve kterých se ten guláš prodávali bylo zdůrazněno jméno au
 
 Toto místo bylo samozřejmě lepší než mytí nádobí, ale musíme mít na paměti, že Louis byl filozof a proto si říkal, že proč by na tom guláši měl mít zisky ten kombinát a ne on.
 
-Začal se tudíž zabývat myšlenkou otevřít si vlastní restauraci. Louis při svém konzultanství vydělal nějaké peníze, ale nebylo jich tolik aby mohl riskovat. Louis také nepatřil do skupiny hazardérů a do skupiny hochštaplerů už vůbec ne - Luis byl filosof - patřil spíše do skupiny eskamotérů, a tam je základ všech těch milionů které Louis během dalších 30 let ve své restauraci vydělal.
+Začal se tudíž zabývat myšlenkou otevřít si vlastní restauraci. Louis při svém konzultanství vydělal nějaké peníze, ale nebylo jich tolik aby mohl riskovat. Louis také nepatřil do skupiny hazardérů a do skupiny hochštaplerů už vůbec ne. Luis byl filosof, patřil spíše do skupiny eskamotérů, a tam je základ všech těch milionů které Louis během dalších 30 let ve své restauraci vydělal.
 
 Přístup k otevření jeho restaurace byl ukázkou toho nejvyššího eskamotérství takže takový Hudini byl proti němu úplný břídil.
 
@@ -45,25 +45,25 @@ Přístup k otevření jeho restaurace byl ukázkou toho nejvyššího eskamoté
 
 Na severu Chicága byla na prodej bývalá pekárna, a Louis se rozhodl ji koupit.
 
-Ta pekárna byla téměř zadarmo, protože byla ve čtvrti, která se rapidně měnila k horšímu. V Americe totiž se relativně dobrá čtvrť může takřka přes noc změnit natolik k horšímu, že tam někteří lidé ani nevkročí. I když o tom Američané neradi mluví, tak stačí aby se do nějaké bílé čtvrtě nastěhoval jeden černoch, a většina těch bílých, kteří na to mají, se začne hned stěhovat jinam.
+Pekárna byla téměř zadarmo, protože byla ve čtvrti, která se rapidně měnila k horšímu. V Americe se totiž relativně dobrá čtvrť může takřka přes noc změnit natolik k horšímu, že tam někteří lidé ani nevkročí. I když o tom Američané neradi mluví, tak stačí aby se do nějaké bílé čtvrtě nastěhoval jeden černoch, a většina bílých, kteří na to mají, se začne hned stěhovat jinam.
 
 Důvodem nemusí ale být jenom černoši, mohou to být i Mexičané, Vietnamci nebo třeba i Češi a v poslední době i Rusové nebo i jiní "chudáci".
 
-Domorodci, nebo ti, kterým se po nevím jak dlouhém pobytu v Americe již dobře daří, často velmi rychle zapomenou na, to jak oni sami začínali, a jakmile se do jejich čtvrtě tito imigranti začnou stěhovat tak se oni začnou stěhovat jinam a s nimi i kupní síla, a dosud poměrně dobrá lokace se z obchodního hlediska stane téměř přes noc zcela nezajímavou. To je Amerika.
+Domorodci, nebo ti, kterým se po nevím jak dlouhém pobytu v Americe již dobře daří, často velmi rychle zapomenou na, to jak oni sami začínali. Jakmile se do jejich čtvrti tito imigranti začnou stěhovat, tak se oni začnou stěhovat jinam a s nimi i kupní síla, a dosud poměrně dobrá lokace se z obchodního hlediska stane téměř přes noc zcela nezajímavou. To je Amerika.
 
 Tři základní podmínky úspěchu v americkém byznyse jsou location, location a location - v češtině lokace, lokace a lokace.
 
-Proto si všichni lidé mysleli, že Louis se zbláznil, když tuto zavřenou pekárnu, která navíc byla v takto špatné čtvrti koupil. Lokace to už dobrá nebyla, parkování, což je další podmínkou úspěchu americké restaurace to nemělo žádné, a v vnější vzhled, neboli portál, o kterém se tvrdí, že je další důležitou podmínkou úspěchu, byl sice čistý ale nejmenně 30 let starý.
+Proto si všichni lidé mysleli, že Louis se zbláznil, když tuto zavřenou pekárnu, která navíc byla v takto špatné čtvrti koupil. Lokace to už dobrá nebyla, parkování, což je další podmínkou úspěchu americké restaurace to nemělo žádné. Vnější vzhled, neboli portál, o kterém se tvrdí, že je další důležitou podmínkou úspěchu, byl sice čistý ale nejmenně 30 let starý.
 
-Portál v Česku, jak víme, je to první do čeho každý český podnikatel "vrazí" peníze, i kdyby si na to měl vypůjčit.
+Portál je v Česku, jak víme, to první do čeho každý český podnikatel "vrazí" peníze, i kdyby si na to měl vypůjčit.
 
-Louis ale by si na takovou věc peníze nikdy nepůjčil, to by bylo proti jeho náboženství, a tak nechal ten portál tak jak byl. Dokonce i název který podle všech učebnic je to další co nejvíce "táhne", nechal na tom portále stejný. Na portálu bylo BAKERY což v češtině znamená pekárna a to byl další důvod, pro který si všichni odborníci mysleli, že tam lidé budou chodit jako do pekárny a ne jako do restaurace, ale ukázalo se ale, že i v tom se všichni mýlili jako ve všem ostatním.
+Louis by si ale na takovou věc peníze nikdy nepůjčil, to by bylo proti jeho náboženství. Portál proto nechal, tak jak byl. Dokonce i název který podle všech učebnic je to další co nejvíce "táhne", nechal na tom portále stejný. Na portálu bylo BAKERY což v češtině znamená pekárna a to byl další důvod, pro který si všichni odborníci mysleli, že tam lidé budou chodit jako do pekárny a ne jako do restaurace, ale ukázalo se ale, že i v tom se všichni mýlili jako ve všem ostatním.
 
-Potom došlo na vybavení a na zařízení. Vybavení ten krám, který byl relativně velký, neměl žádné. Čisté ale holé stěny, čisté ale holé podlahy a jinak nic. Louis se držel své filosofie, že krásné ženy jsou tou nejlepší dekorací každé restaurace. Louis ale také věděl, že krásné ženy jdou za dobrým jídlem jako vosy za bonbonem a proto se zaměřil na dobré jídlo a měl pravdu, protože netrvalo dlouho a restaurace se krásnými ženami jen hemžila.
+Potom došlo na vybavení a na zařízení. Vybavení krám neměl žádné. Čisté ale holé stěny, čisté ale holé podlahy a jinak nic. Louis se držel své filosofie, že krásné ženy jsou tou nejlepší dekorací každé restaurace. Louis ale také věděl, že krásné ženy jdou za dobrým jídlem jako vosy za bonbonem a proto se zaměřil na dobré jídlo a měl pravdu. Netrvalo dlouho a restaurace se krásnými ženami jen hemžila.
 
-Se zařízením to nebylo ale lepší. Vzadu, v bývalé pekařské dílně, zbyla po tom pekaři velká pekařská pec, která mu také pomohla vydělat ty peníze a které Louis později říkal "Bonanza". Bylo tam několik pracovních stolů, velký mixér, plynová stolička (na které ten pekař zřejmě vařil nějaké krémy), relativně velká fritéza, ve které nejspíše smažili koblihy, několik dřezů, a kupodivu více než dost chladicího a mrazícího prostoru než bylo potřeba. Nebylo toho moc, ale při troše eskamotérství se na tom dalo dělat mnoho věcí.
+Se zařízením to ale nebylo lepší. Vzadu, v bývalé pekařské dílně, zbyla velká pekařská pec, která mu také pomohla vydělat peníze a které Louis později říkal "Bonanza". Bylo tam několik pracovních stolů, velký mixér, plynová stolička (na které ten pekař zřejmě vařil nějaké krémy), relativně velká fritéza, ve které nejspíše smažili koblihy, několik dřezů, a kupodivu více než dost chladicího a mrazícího prostoru než bylo potřeba. Nebylo toho moc, ale při troše eskamotérství se na tom dalo dělat mnoho věcí.
 
-Jedna z pouček o zařízení restauračních kuchyní říká, (když to podám zjednodušeně,) že nejdříve musíte sestavit jídelní lístek , a pak prostě jdete, a koupíte zařízení, které k výrobě všech těch jídel budete potřebovat.
+Jedna z pouček o zařízení restauračních kuchyní říká, (když to podám zjednodušeně) že nejdříve musíte sestavit jídelní lístek, a pak prostě jdete, a koupíte zařízení, které k výrobě všech těch jídel budete potřebovat.
 
 Jiná situace ale je, když koupíte restauraci ve které je ještě dobré, a použitelné zařízení. V takovém případě, pokud nejste nějaký hochštapler a na nové zařízení nemáte, budete muset jídelní lístek přizpůsobit tomu zařízení. To ale hovoříme o zařízení normální restaurační kuchyně. Situace před kterou stál Louis byla ale úplně jiná. Louis totiž nekoupil restauraci, ale pekárnu a proto by možná mnoho českých restauračních odborníků začalo tím, že by všechno to pekařské haraburdí vyhodili, napsali by krásný a na míli dlouhý jídelní lístek, na kterém by měli všechna jídla která znají, a i ta která neznají, a začali by od píky s nákupem potřebného zařízení.
 
