@@ -1,15 +1,13 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=102.html" data-image="files/preview/clanky/bible/general.jpg" data-type="article"}
 
-{ctime="2005-11-06" mtime="2005-11-06" id="bible" author="Michael Klíma" short="Bible" authorid="hostovka/michael_klima"}
+{ctime="2005-11-06" mtime="2005-11-06" id="bible" author="Michael Klíma"}
 
-# Bible
-
-<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+# Kuchařská bible neeistuje
 
 {kw="jídla a jídelní lístky"}
 
-K tomu abyste se stali sofistikovanými hosty vám studium Hostovky stačit nebude.K tomu abyste se stali znalci jídel se sice nemusíte učit vařit, nicméně byste měli do některých dobrých kuchařek nahlédnout. To ale jsem učil i mé studenty na jedné hotelové škole v Americe kde jsem 15 let učil.
+K tomu abyste se stali sofistikovanými hosty vám studium Hostovky stačit nebude. K tomu abyste se stali znalci jídel se sice nemusíte učit vařit, nicméně byste měli do některých dobrých kuchařek nahlédnout. To ale jsem učil i mé studenty na jedné hotelové škole v Americe kde jsem 15 let učil.
 
 Moji studenti se mně ale při tom často ptali které knihy jsou dobré a které by měli číst. Při tom jsem jim tudíž dával otázku která kniha podle nich je nejpublikovanější a nejčtenější. Zajímavé je, že většina se shodovala v tom, že je to bible, a údajně proto, že ta byla přeložena téměř do všech světových jazyků.
 
