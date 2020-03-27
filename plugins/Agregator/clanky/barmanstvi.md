@@ -1,19 +1,17 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=107.html" data-og-image="/files/preview/clanky/koktejly/general.jpg" data-og-type="article"}
 
-{ctime="2005-11-12" mtime="2005-11-12" id="barmanstvi" author="Michael Klíma" short="Koktejly" authorid="hostovka/michael_klima"}
+{ctime="2005-11-12" mtime="2005-11-12" id="barmanstvi" author="Michael Klíma"}
 
-# Barmanství
+# Zkušenosti s barmanstvím
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+{kw="nápoje, případová studie"}
 
-{kw="nápoje"}
-
-Pocházím z relativně malého vojenského města kde byla jen samá kasárna a jinak nic než samá hospoda, jedna hospoda vedle druhé.
+Pocházím z relativně malého vojenského města kde byla jen samá kasárna a jinak nic než samá hospoda, jedna ospoda vedle druhé.
 
 Do jedné té hospody jsem jako kluk chodil často se džbánem tatínkovi pro pivo takže jsem vlastně již od útlého mládí měl vztah k pohostinství.
 
-Z toho džbánu jsem cestou občas upíjel tudíž jsem byl již jakýsi odborník na pivo.O něčem takovém jako koktejly jsem tehdy ale nic neslyšel a jsem přesvědčen, že to nevěděl ani jeden z těch čtyřiceti hospodských které jsme v našem městě měli.
+Z toho džbánu jsem cestou občas upíjel tudíž jsem byl již jakýsi odborník na pivo. O něčem takovém jako koktejly jsem tehdy ale nic neslyšel a jsem přesvědčen, že to nevěděl ani jeden z těch čtyřiceti hospodských které jsme v našem městě měli.
 
 Potom jsem se ale začal učit v Praze v hotelu Alcron, kde jsem teprve viděl, že přesto že jsem v pohostinství již určitou praxi měl, že do odborníka to mám ještě hodně daleko.
 
