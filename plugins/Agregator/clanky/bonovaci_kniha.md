@@ -1,11 +1,9 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=439.html" data-image="/files/preview/clanky/bonovaci_kniha/general.jpg" data-type="article"}
 
-{ctime="2009-05-20" mtime="2009-05-20" id="bonovaci\_kniha" author="Michael Klíma" short="Bonovací kniha" authorid="hostovka/michael\_klima"}
+{ctime="2009-05-20" mtime="2009-05-20" id="bonovaci\_kniha" author="Michael Klíma"}
 
 # Bonovací kniha
-
-<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
 
 {kw="pohostinství"}
 
