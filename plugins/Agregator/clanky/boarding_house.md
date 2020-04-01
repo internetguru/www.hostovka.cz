@@ -1,11 +1,9 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=178.html" data-image="files/preview/clanky/barding_house/general.jpg" data-type="article"}
 
-{ctime="2006-09-22" mtime="2006-09-22" id="boarding\_house" author="Michael Klíma" short="Boarding House" authorid="hostovka/michael\_klima"}
+{ctime="2006-09-22" mtime="2006-09-22" id="boarding\_house" author="Michael Klíma"}
 
 # Boarding House
-
-<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
 
 {kw="ubytování"}
 
