@@ -1,11 +1,9 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=570.html" data-image="/files/preview/clanky/blackdog_cantina/general.jpg" data-type="article"}
 
-{ctime="2011-07-30" mtime="2011-07-30" id="blackdog\_cantina" author="Michael Klíma" short="Blackdog cantina" authorid="hostovka/michael\_klima"}
+{ctime="2011-07-30" mtime="2011-07-30" id="blackdog\_cantina" author="Michael Klíma"}
 
 # Blackdog cantina
-
-<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
 
 {kw="o čem se mluví"}
 
