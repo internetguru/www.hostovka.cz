@@ -1,11 +1,9 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=220.html" data-image="/files/preview/clanky/bramborove_lupinky/general.jpg" data-type="article"}
 
-{ctime="2007-03-19" mtime="2007-03-19" id="bramborove\_lupinky\_2" author="Michael Klíma" short="Bramborové lupínky" authorid="hostovka/michael_klima"}
+{ctime="2007-03-19" mtime="2007-03-19" id="bramborove\_lupinky\_2" author="Michael Klíma"}
 
 # Bramborové lupínky
-
-<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
