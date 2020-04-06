@@ -25,6 +25,10 @@ Hostovi tyto brambory nesmírně chutnaly a staly se tak velmi populárními pod
 
 Dnes se ale výraz chips stal v Americe synonymem i pro lupínky vyráběné z kukuřičného těsta či z tortilly.
 
+Shodou okolností jsem před dvěmi týdny sledoval asi hodinový pořad o výrobě bramborových lupínků firmy Jays. Bylo to přímo fascinující v porovnání s tím, jak jsem se je učil dělat já, a jak se to dělá dnes.
+
+Ve výrobně pracuje asi 10 lidí, kteří zpracovávají asi 4.000 tun brambor denně, a přitom nemají žádné sklady. Brambory, tak jak je od rána obrovské náklaďáky přiváží na jednu stranu výrobny, se automaticky čistí, perou, loupou, krájí, smaží, balí do balíčků, a pak se na druhém konci výrobny nakládají do prázdných kamionů. Večer poslední zaměstnanec zhasne a je hotovo. _What a country! {xml:lang="en"}_
+
 {class="example"}
 
 Měli jsme u nás doma na návštěvě jednu známou z Německa. Ta pod pojmem _chips {xml:lang="en"}_ rozuměla hranolky kterým, se ale v Americe říká _french fries {xml:lang="en"}_. V Anglii a v Belgii se pod názvem _fish and chips {xml:lang="en"}_ rozumí smažené ryby a bramborové hranolky. V Belgii k hranolkům dostanete majonézu a v Anglii ocet nebo kečup a ve Skotsku dokonce hnědou omáčku.
