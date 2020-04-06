@@ -7,7 +7,11 @@
 
 {kw="co-kdy-kde"}
 
-Balzamikový ocet se dnes díky kreativitě kuchařů a díky tomu, že jeden kopíruje od druhého, stal nezbytným nejenom v Itálii nebo v italských restauracích, ale i v jiných dražších restauracích po celém světě. Italové používají balzamikový ocet již po celá staletí.
+Balzamikový ocet se dnes díky kreativitě kuchařů a díky tomu, že jeden kopíruje od druhého, stal nezbytným nejenom v Itálii nebo v italských restauracích, ale i v jiných dražších restauracích po celém světě. Italové používají balzamikový ocet již po celá staletí. Balzamikový ocet se dělí na červený a bílý.
+
+{class="example"}
+
+Bílý balzamikový ocet se tak moc nepoužívá, a to ani v Itálii, kde tyto octy vzniky. Je to asi proto, že bílé balzamikové octy nemohou zrát tak dlouho, jako červené a mají také poněkud jinou nasládlou chuť.
 
 Silná, slabě nasládlá chuť balzamického octu se přímo nabízí k přípravě [octových dresinků](zalivka_dresink#dresinky). Obzvláště se hodí pro ovocné saláty s čerstvým ovocem, jako jsou například maliny, jahody a broskve. Výraznost jeho chuti přesahuje chuť jeho chudšího bratrance vinného octu.
 
@@ -47,4 +51,3 @@ Nicméně je dobře ho skladovat v chladném a tmavém místě, daleko od zdroje
   * Teplota zvyšuje sladkost balzamických octů a vyvařuje jejich kyselost. Jestli tedy dáváte přednost jemné chuti, tak ho ohřejte. Naopak jestli ne, tak ho nevařte a přidávejte ho do jídla až těsně před dohotovením.
   * Lžička nebo dvě balzamického octu dokáže probudit chuť slabé polévky, omáčky nebo [dušeniny](duseni).
   * Balzamikový ocet s cukrem se dobře snoubí s čerstvým ovocem, jako jsou jahody, maliny, broskve, případně i meruňky.
-
