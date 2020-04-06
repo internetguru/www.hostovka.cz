@@ -5,9 +5,9 @@
 
 # Příběh restaurace Bakery
 
-{kw="restaurace a servis"}
+{kw="restaurace a servis, historka, Amerika"}
 
-Historie otevření této restaurace je tak unikátní, že se dostala jako školní příklad do amerických odborných učebnic restauračního managementu.
+Historie otevření restaurace Bakery je tak unikátní, že se jako školní příklad dostala do amerických odborných učebnic restauračního managementu.
 
 {class="example"}
 
@@ -27,117 +27,89 @@ Jak mi řekl, tak neuměl moc anglicky a jeho maďarský doktorát filosofie by 
 
 Tím ale začala jeho úspěšná kariéra v pohostinství, kterou ukončil jako milionář a jako jeden z nejúspěšnějších restauratérů v Americe.
 
-Při mytí nádobí, když si tak sám pro sebe filozofoval, si Louis říkal, že přeci nepřišel do Ameriky mýt nádobí. Od dřezu viděl co masa, a hlavně steaků se v Americe spotřebuje a říkal si, že kráva není jenom samé steaky, a že masný kombinát, který do restaurace steaky dodával, musí mít nesmírné množství masa, se kterým zřejmě nevědí co jiného dělat, než ho rozemlít na hamburgry, což je v Americe po steacích druhý největší artikl.
+Při mytí nádobí, když si tak sám pro sebe filozofoval, si Louis říkal, že přeci nepřišel do Ameriky mýt nádobí. Od dřezu viděl co masa, a hlavně steaků se v Americe spotřebuje a říkal si, že kráva není jenom samé steaky. Masný kombinát, který do restaurace steaky dodával, musí mít nesmírné množství masa, se kterým zřejmě nevědí co jiného dělat, než ho rozemlít na hamburgry, což je v Americe po steacích druhý největší artikl.
 
 ## Začátek podnikání
 
-Luis neměl vůbec ponětí o vaření, ale znal jídlo z té druhé strany. Jako pravý Maďar uměl dobře jíst a jeho neoblíbenějším jídlem, které mu v Americe scházelo, byl dobrý maďarský guláš. Tudíž přišel s nápadem, nabídnou tomu masnému kombinátu recept na pravý maďarský guláš, který mu na cestu do Ameriky dala jeho babička. Recept se tomu masnému kombinátu líbil, protože to skutečně bylo řešení jak zpracovat všechen ten ořez ze steaků a tak podle něj začali vyrábět "Pravý maďarský guláš".
+Luis neměl vůbec ponětí o vaření, ale znal jídlo z té druhé strany. Jako pravý Maďar uměl dobře jíst a jeho neoblíbenějším jídlem, které mu v Americe scházelo, byl dobrý maďarský guláš. Přišel tedy s nápadem, nabídnou masnému kombinátu recept na pravý maďarský guláš, který mu dala jeho babička. Recept se masnému kombinátu líbil, protože to skutečně bylo řešení jak zpracovat všechen ořez ze steaků.
 
-Na konzervách ve kterých se ten guláš prodávali bylo zdůrazněno jméno autora tohoto autentického maďarského receptu jako "Chef Louis" a to samo o sobě již táhlo. Ale i ten guláš byl dobrý, relativně laciný a tak šel jako na dračku, a Szathmarimu ten masokombinát dokonce nabídl místo konzultanta.
+Na konzervách, ve kterých guláš prodávali bylo zdůrazněno jméno autora tohoto autentického maďarského receptu jako „Chef Louis“. Guláš byl dobrý, relativně levný, a tak měl velký odbyt. Szathmarimu masokombinát dokonce nabídl místo konzultanta.
 
-Toto místo bylo samozřejmě lepší než mytí nádobí, ale musíme mít na paměti, že Louis byl filozof a proto si říkal, že proč by na tom guláši měl mít zisky ten kombinát a ne on.
+Toto místo bylo samozřejmě lepší než mytí nádobí, ale musíme mít na paměti, že Louis byl filozof. Říkal si proto, proč by na tom guláši měl mít zisky masokombinát a ne on.
 
-Začal se tudíž zabývat myšlenkou otevřít si vlastní restauraci. Louis při svém konzultanství vydělal nějaké peníze, ale nebylo jich tolik aby mohl riskovat. Louis také nepatřil do skupiny hazardérů a do skupiny hochštaplerů už vůbec ne. Luis byl filosof, patřil spíše do skupiny eskamotérů, a tam je základ všech těch milionů které Louis během dalších 30 let ve své restauraci vydělal.
+Začal se tedy zabývat myšlenkou otevřít si vlastní restauraci. Louis si při svém konzultanství vydělal nějaké peníze, ale nebylo jich tolik aby mohl riskovat. Luis byl filosof, patřil spíše do skupiny eskamotérů. V tom je základ všech milionů, které Louis během dalších let ve své restauraci vydělal.
 
-Přístup k otevření jeho restaurace byl ukázkou toho nejvyššího eskamotérství takže takový Hudini byl proti němu úplný břídil.
+{class="example"}
+
+Přístup k otevření restaurace byl ukázkou toho nejvyššího eskamotérství, takže i takový Hudini byl proti němu úplný břídil.
 
 ## Restaurace proti všem poučkám
 
-Na severu Chicága byla na prodej bývalá pekárna, a Louis se rozhodl ji koupit.
+Na severu Chicága byla na prodej bývalá pekárna, kterou se Louis rozhodl koupit. Pekárna byla téměř zadarmo, protože byla ve čtvrti, která se rapidně měnila k horšímu. 
 
-Pekárna byla téměř zadarmo, protože byla ve čtvrti, která se rapidně měnila k horšímu. V Americe se totiž relativně dobrá čtvrť může takřka přes noc změnit natolik k horšímu, že tam někteří lidé ani nevkročí. I když o tom Američané neradi mluví, tak stačí aby se do nějaké bílé čtvrtě nastěhoval jeden černoch, a většina bílých, kteří na to mají, se začne hned stěhovat jinam.
+{class="example"}
 
-Důvodem nemusí ale být jenom černoši, mohou to být i Mexičané, Vietnamci nebo třeba i Češi a v poslední době i Rusové nebo i jiní "chudáci".
+V Americe se totiž relativně dobrá čtvrť může takřka přes noc změnit natolik k horšímu, že tam někteří lidé ani nevkročí. I když o tom Američané neradi mluví, tak stačí aby se do nějaké bílé čtvrtě nastěhoval jeden černoch a většina bílých, kteří na to mají, se začne stěhovat jinam. Důvodem nemusí ale být jenom černoši, mohou to být i Mexičané, Vietnamci nebo třeba i Češi a v poslední době i Rusové nebo i další „chudáci“.
 
-Domorodci, nebo ti, kterým se po nevím jak dlouhém pobytu v Americe již dobře daří, často velmi rychle zapomenou na, to jak oni sami začínali. Jakmile se do jejich čtvrti tito imigranti začnou stěhovat, tak se oni začnou stěhovat jinam a s nimi i kupní síla, a dosud poměrně dobrá lokace se z obchodního hlediska stane téměř přes noc zcela nezajímavou. To je Amerika.
+Domorodci a ti, kterým se v Americe již dobře daří, často velmi rychle zapomenou na, jak sami začínali. Jakmile se do jejich čtvrti tito imigranti začnou stěhovat, tak utíkají pryč a s nimi i kupní síla. Dosud poměrně dobrá lokace se z obchodního hlediska stane téměř přes noc zcela nezajímavou. To je Amerika.
 
-Tři základní podmínky úspěchu v americkém byznyse jsou location, location a location - v češtině lokace, lokace a lokace.
+Tři základní podmínky úspěchu v americkém byznysu jsou lokace, lokace a lokace. Proto si všichni mysleli, že se Louis se, když tuto koupil zavřenou pekárnu, která navíc byla v takto špatné čtvrti. Lokace to už dobrá nebyla, parkování, což je další podmínkou úspěchu americké restaurace tam nebylo žádné. Vnější vzhled, neboli portál, o kterém se tvrdí, že je další důležitou podmínkou úspěchu, byl sice čistý ale nejméně 30 let starý.
 
-Proto si všichni lidé mysleli, že Louis se zbláznil, když tuto zavřenou pekárnu, která navíc byla v takto špatné čtvrti koupil. Lokace to už dobrá nebyla, parkování, což je další podmínkou úspěchu americké restaurace to nemělo žádné. Vnější vzhled, neboli portál, o kterém se tvrdí, že je další důležitou podmínkou úspěchu, byl sice čistý ale nejmenně 30 let starý.
+{class="example"}
 
-Portál je v Česku, jak víme, to první do čeho každý český podnikatel "vrazí" peníze, i kdyby si na to měl vypůjčit.
+Portál je v Česku to první, do čeho každá podnikatel „vrazí peníze“, a to i kdyby si měl půjčit.
 
-Louis by si ale na takovou věc peníze nikdy nepůjčil, to by bylo proti jeho náboženství. Portál proto nechal, tak jak byl. Dokonce i název který podle všech učebnic je to další co nejvíce "táhne", nechal na tom portále stejný. Na portálu bylo BAKERY což v češtině znamená pekárna a to byl další důvod, pro který si všichni odborníci mysleli, že tam lidé budou chodit jako do pekárny a ne jako do restaurace, ale ukázalo se ale, že i v tom se všichni mýlili jako ve všem ostatním.
+Louis by si ale na takovou věc jako peníze nikdy nepůjčil, to bylo proti jeho náboženství. Portál proto nechal, tak jak byl. Dokonce nechal stejný i název, který je podle všech učebnic to další, co nejvíce táhne. Na portálu bylo napsáno _Bakery {xml:lang="en"}_, což v češtině znamená pekárna.
 
-Potom došlo na vybavení a na zařízení. Vybavení krám neměl žádné. Čisté ale holé stěny, čisté ale holé podlahy a jinak nic. Louis se držel své filosofie, že krásné ženy jsou tou nejlepší dekorací každé restaurace. Louis ale také věděl, že krásné ženy jdou za dobrým jídlem jako vosy za bonbonem a proto se zaměřil na dobré jídlo a měl pravdu. Netrvalo dlouho a restaurace se krásnými ženami jen hemžila.
+## Zařízení kuchyně
 
-Se zařízením to ale nebylo lepší. Vzadu, v bývalé pekařské dílně, zbyla velká pekařská pec, která mu také pomohla vydělat peníze a které Louis později říkal "Bonanza". Bylo tam několik pracovních stolů, velký mixér, plynová stolička (na které ten pekař zřejmě vařil nějaké krémy), relativně velká fritéza, ve které nejspíše smažili koblihy, několik dřezů, a kupodivu více než dost chladicího a mrazícího prostoru než bylo potřeba. Nebylo toho moc, ale při troše eskamotérství se na tom dalo dělat mnoho věcí.
+Potom došlo na vybavení a na zařízení. Vybavení krám neměl žádné. Měl čisté holé stěny, čisté holé podlahy a jinak nic. Louis se držel své filosofie, že krásné ženy jsou tou nejlepší dekorací každé restaurace. Louis ale také věděl, že krásné ženy jdou za dobrým jídlem jako vosy za bonbonem. Proto se zaměřil na dobré jídlo. Netrvalo dlouho a restaurace se krásnými ženami jen hemžila.
 
-Jedna z pouček o zařízení restauračních kuchyní říká, (když to podám zjednodušeně) že nejdříve musíte sestavit jídelní lístek, a pak prostě jdete, a koupíte zařízení, které k výrobě všech těch jídel budete potřebovat.
+Se zařízením to nebylo lepší. Vzadu, v bývalé pekařské dílně, zbyla velká pec, která mu také pomohla vydělat peníze. Louis jí později říkal „Bonanza“. Bylo tam také několik pracovních stolů, velký mixér, plynová stolička, relativně velká fritéza, několik dřezů a kupodivu více než dost chladicího a mrazícího prostoru. Nebylo toho moc, ale při troše eskamotérství se s tím dalo dělat mnoho věcí.
 
-Jiná situace ale je, když koupíte restauraci ve které je ještě dobré, a použitelné zařízení. V takovém případě, pokud nejste nějaký hochštapler a na nové zařízení nemáte, budete muset jídelní lístek přizpůsobit tomu zařízení. To ale hovoříme o zařízení normální restaurační kuchyně. Situace před kterou stál Louis byla ale úplně jiná. Louis totiž nekoupil restauraci, ale pekárnu a proto by možná mnoho českých restauračních odborníků začalo tím, že by všechno to pekařské haraburdí vyhodili, napsali by krásný a na míli dlouhý jídelní lístek, na kterém by měli všechna jídla která znají, a i ta která neznají, a začali by od píky s nákupem potřebného zařízení.
+Louis zřejmě musel dokoupit ještě nějaké jiné drobné zařízení, ale to pro tento příklad také není podstatné. Mojí snahou bylo vám ukázat, že to není jen zařízení, které dělá někoho úspěšným restauratérém, ale spíše [know-how](know_how).
 
-Ne tak Chef Louis, který nebyl ani kuchař, tím méně šéfkuchař, ani odborník, ale filosof a hlavně eskamotér.
+Když jsem učíval v Chicagu hotelový management, tak jsem často studentům říkal, že restaurační management se dá sice vyučovat, ale že se nedá naučit. Restaurační management je něco, co člověk musí mít vrozené.
 
-Louis zřejmě musel dokoupit ještě nějaké jiné drobné zařízení, ale to pro tento příklad také není podstatné, protože moji snahou bylo vám ukázat, že to není jen zařízení které dělá někoho úspěšným podnikatelem, ale spíše to know how.
+Nejlepším důkazem správnosti mé teorie je vlastně Chef Louis. Louis nebyl absolventem hotelové školy ani nebyl vyučený v oboru. Ale že měl pro management restaurace vrozené vlohy se ukázalo na jeho přístupu k vybavení jídelny.
 
-Když jsem učíval v Chicagu hotelový management, tak jsem často mým studentům říkal, že restaurační management se dá sice vyučovat, ale že se nedá naučit, protože restaurační management je něco co člověk musí mít vrozené.
+## Vybavení jídelny
 
-Nejlepším důkazem správnosti mé teorie je vlastně také Chef Louis. Louis nebyl absolventem žádné hotelové školy ani nebyl vyučený v oboru, ale že pro management restaurace měl vrozené vlohy se ukázalo na jeho přístupu k vybavení jeho jídelny.
+K tomu, aby byla restaurace rentabilní Louis potřeboval jídelnu, která by měla alespoň 25 stolů (100 židlí). Koupit 25 stolů, 100 židlí a k tomu potřebné talíře, příbory a sklenice pro jedno a půl, až dvojí obsazení, není žádná maličkost.
 
-{id="jidelna\_v\_bakery"}
+Kdyby byl Louis typický český podnikatel, tak by si vše koupil na dluh. Potom by kus jídelny zabral pro svou kancelář, kterou by vybavil reprezentačním nábytkem, počítačem, faxem, velkým sejfem na peníze a vším, co každý pořádaný provozovatel české restaurace musí mít.
 
-## Jídelna v Bakery
+Jídelnu, která by tím pádem byla menší, by vybavil drahými koberci, křišťálovými lustry a pokud možno nějakými drahými uměleckými obrazy a předměty. Objednal by si ty nejlepší příbory, sklenice a nádobí s monogramem LS. Nechal by si natisknout jídelní lístky s úměrně vysokými cenami, které by dal do pěkných a nákladných desek s jeho jménem.
 
-K tomu, aby jeho restaurace byla rentabilní Louis potřeboval jídelnu která by měla alespoň 25 stolů, lépe řečeno 100 židlí, které by nejméně jeden a půlkrát obrátil.
+Louis si ale velmi rychle spočítal, že by takové vybavení musel koupit na dluh, který by splácel nejméně 10 let. V Chicagu je ale (jako všude jinde v Americe) několik obchodů, které prodávají použité restaurační zařízení.
 
-Koupit 25 stolů, 100 židlí a k tomu potřebné talíře, příbory a sklenice pro jedno a půl až dvojí obsazení není žádná maličkost.
+V těchto obchodech, které mají 5 až 6 pater nabytých vším možným restauračním vybavením a zařízením, můžete za babku nakupit zařízení ze zkrachovaných restaurací. Najdete zde všechno na co si jen můžete pomyslet. Luis se tedy vypravil do těchto obchodů.
 
-Kdyby Louis byl typický český podnikatel nebo kdyby patřil do skupiny hochštaplerů, tak by si byl vše koupil na dluh.
+Rychle ale zjistil, že mají sice všechno na co si můžete jen vzpomenout, ale že nejde sehnat vybavení stejného druhu v potřebném počtu.  To jak to vyřešil, byl právě ten trik, kterým se Louis zapsal do historie amerického pohostinství.
 
-Potom, tak jako to dělají čeští podnikatelé, by kus té jídelny zabral pro svou kancelář, kterou by vybavil representačním nábytkem, počítačem, faxem, velkým sejfem na peníze, a vším co každý přádaný provozovatel české restaurace musí mít.
+{xml:class="important"}
 
-Jídelnu, která by tím pádem byla menší, by vybavil drahými koberci, křišťálovými lustry a pokud možno nějakými drahými uměleckými obrazy a předměty.
+Louis nakoupil prostě to, co potřeboval, bez ohledu na motiv na porcelánu a na příborech. Hlavně když to bylo zachovalé a levné. Nakonec mu v obchodě zcela zadarmo dali talíře a příbory, které byly tak rozdílné, že si je nikdo nechtěl koupit.
 
-Objednal by si ty nejlepší příbory, sklenice a nádobí monogramem LS. Nechal by si natisknout jídelní lístky s úměrně vysokými cenami, které by dal do pěkných a nákladných desek s jeho jménem a byl by jak se v Americe říká "In business".
+## Slavnostní otevření restuarace
 
-Ne tak Chef Louis. Louis. Jak jsem již řekl, Louis byl žonglér a ne hochštapler. Spočítal si velmi rychle kolik jedno takové prostření stojí, a když to znásobil dvěmi sty, což byl předkládaný minimální počet kuvérů který za den potřeboval k tomu, aby vůbec mohl existovat, a připočetl k tomu cenu potřebných židlí stolů a jiného vybavení, tak viděl, že pokud by toto vybavení nakoupil nové, tak že by to muselo být na dluh, který by splácel nejméně 10 let.
+Šéf Louis byl díky svému konzultantstí již docela známá osobnost. Když se novináři a redaktoři odborných časopisů dozvěděli, že se Louis Szathmary zbláznil, a za jakých podmínek otvírá restauraci, tak se téměř všichni přišli podívat na její otevření. Měl jsem tu čest, že jsem byl také pozván a velmi si toho dodnes cením. Něco takového jste totiž v Americe ještě nemohli vidět.
 
-V Chicagu ale, jako všude jinde v Americe, je několik obchodů které prodávají second hand restaurační zařízení.
+Stoly byl sice čisté, ale prostřené bez ubrusu pouze s papírovým prostíráním. Sklenice a příbory byly „každý pes, jiná ves“, místo křišťálových váziček byly láhve od minerálky s čerstvými květinami. Židle, i když docela pohodlné, také nebyly u všech stolů stejné.
 
-V těchto obchodech které mají 5 až 6 pater nabytých vším možným restauračním vybavením a zařízením, kde můžete za babku nakupit zařízení ze zkrachovaných restaurací. Najdete zde všechno na co si jen můžete pomyslet. Luis se tedy vypravil do těchto obchodů, kterých je na jedné ulici hned asi pět, jeden vedle druhého, s tím, že tam nakoupí vše potřebné.
+Hosté u našeho stolu to ale kupodivu vyzdvihovali jako originální nápad. U některých stolů se dokonce začali sázet, komu se dříve podaří sestavit prostírání tak, aby měl stejnou alespoň sadu příborů. O konverzaci tudíž nebyla nouze.
 
-Prošel ty obchody všechny, a zjistil, že mají sice všechno na co si kdo může jen vzpomenout, a všechno relativně laciné, ale když chtěl dát dohromady 200 prostření stejného typu a k tomu při nejmenším 25 stejných stolů, a alespoň 120 stejných židlí, aby měl nějaké navíc, tak mu všude řekli, že něco takového není možné. Budete asi souhlasit s tím, že každý odborník, nebo i každý absolvent naší hotelové školy, který strávil své mládí učením se jak připravit všechny ty nádherné slavnostní tabule by to hned vzdal.
+## Trik s nápojové lístky a jídelníčky
 
-Louis, jak jsem řekl nebyl odborník, ale byl filosof. Louis sice neznal moji teorii o pastičkách na myši, ale byl si vědom toho, že má několik handicapů.
+Nezmínil jsem se ale o tom, že v Americe, pokud nemáte americkou státní příslušnost, nemůžete dostat licenci na prodej vína nebo lihovin. Zisk z prodeje lihovin je ale pětkrát až osmkrát vyšší, než zisk z prodeje jídel. Proto někteří lidé, kteří nemají naději na povolení k prodeji lihovin, se do restauračního podnikání ani nepouští.
 
-Věděl že má restauraci ve špatné čtvrti, že nemá parkoviště, ale také věděl, že žádné křišťálové sklenice, stříbrné příbory a drahé nádobí s jeho monogramem hosty, kteří jeho restauraci (pastičku na myši) eventuelně navštíví, nikdy nepřiláká zpět nic jiného než dobré jídlo.
+Louis si ale v každé situaci věděl rady a uměl každou překážku a nevýhodu obrátit ve výhodu. Vedle jeho restaurace byl obchod s lihovinami, který byl otevřený až pozdě do noci. Proto Louis místo drahých originálů vyvěsil na stěny restaurace upozornění s následujícím zněním.
 
-Luis musel prostě přijít s lepší pastičkou na myši, než mají všichni ostatní restauratéři. A v tom byl právě ten gimick kterým se Louis zapsal do historie amerického pohostinství jako jeden z nejúspěšnějších restauratérů.
+„Nepodařilo se nám zatím získat licenci na prodej vína a lihovin, ale hned vedle naší restaurace je prodejna lihovin, která má tak bohatý výběr, že tam zcela určitě najdete Váš oblíbený drink nebo víno. Nemusíte se ale obtěžovat s přinesením Vašich nápojů. Naši zaměstnanci Vám velmi ochotně drinky donesou. Za otevření láhví a zapůjčení skleniček počítáme přibližně 15 % z ceny nápojů.“
 
-{id="kazdy\_pes\_jina_ves"}
+Umíte si asi představit, kolik peněz Louis ušetřil na skladech, na manipulaci s lihovinami, na nákladech s inventurami apod. Jestli to nepovažujete za největší trik, se kterým někdo může přijít, tak už nevím co by vás mohlo více nadchnout. Možná snad jedině to, že restaurace Bakery tím pádem neměla žádné nápojové lístky, a že neměla ani jídelníčky.
 
-## Každý pes, jiná ves
+Louis totiž nezaměstnával profesionální číšníky, ale zásadně jen studenty s místní školou, kteří práci v restauraci považovali za velkou srandu. Louis totiž říkal, že když si jeho obsluhující není schopen zapamatovat těch pár jídel, které mají na jídelním lístku, tak by vlastně ani neměl studovat.
 
-Každý pes jiná ves, nebo "z nouze ctnost", se dá nazvat gimick se kterým Louis přišel.
-
-Nakoupil prostě to co potřeboval, bez ohledu na motiv na porcelánu nebo na příborech. Hlavně když to bylo zachovalé a laciné. Nakonec mu v tom obchodě, zcela zadarmo dali talíře a příbory, které byly tak rozdílné, že je nikdo nechtěl koupit, a oni vlastně byli rádi, že se jich zbavili.
-
-Šéf Louis, díky svému konzultantstí, byl v té době již docela známá osobnost, a tak když se novináři a redaktoři odborných časopisů dozvěděli, že Louis Szathmary se zbláznil, a za jakých podmínek otvírá jeho restauraci, tak se na to zahájení téměř všichni přišli podívat. Měl jsem tu čest, že jsem byl také pozván, a velmi si toho dodnes cením. Něco takového jste totiž nikdy nikde v Americe nemohli vidět.
-
-Stoly sice čisté, ale prostřené bez ubrusu pouze s papírovým prostíráním, sklenice a příbory jak jsem se již zmínil "každý pes, jiná ves", místo křišťálových váziček láhve od minerálky s čerstvými květinami, a židle, i když docela pohodlné, tak také nebyly u všech stolů stejné.
-
-Hosté u našeho stolu to ale kupodivu kvitovali jako originální nápad a u některých stolů se dokonce začali sázet komu se dříve podaří sestavit jeho prostírání tak, aby alespoň sada jeho příborů byla stejná. O konversaci tudíž nebyla nouze. Jediné co u stolů scházelo byly jídelní a nápojové lístky.
-
-Vysvětlení přišlo na tiskové konferenci, která byla součástí tohoto slavnostního otevření. Já jsem se sice zmínil o tom, že Louis byl Maďar, což nikomu z hostů nevadilo, ba naopak, protože Američané chodí rádi do etnických restaurací, kde majitel je stejné národnosti, a kupodivu je ani nezajímá, jestli majitel je kuchař nebo ne.
-
-{id="byo\_buy\_your_own"}
-
-## BYO (Buy Your Own)
-
-Nezmínil jsem se ale o tom, že v Americe, pokud nemáte americkou státní příslušnost, tak nemůžete dostat licenci na prodej vína nebo lihovin.
-
-Zisk z prodeje lihovin je ale pětkrát až osmkrát vyšší než zisk z prodeje jídel a proto někteří lidé kteří nemají naději na "Liquor Licence", neboli povolení k prodeji lihovin, se do restauračního podnikání ani nepouští.
-
-Ne tak Chef Louis. Louis, jak již teď víme byl nejenom filosof, ale i eskamotér který si v každé situaci věděl rady, a který uměl každou překážku a nevýhodu obrátit ve výhodu.
-
-Vedle jeho restaurace byl obchod s lihovinami, který byl otevřený až pozdě do noci. Proto Louis místo drahých originálů vyvěsil na stěny restaurace upozornění tohoto znění:
-
-"Nepodařilo se nám zatím získat licenci na prodej vína a lihovin, ale hned vedle naši restaurace je prodejna lihovin, která má tak bohatý výběr, že zcela určitě tam najdete Váš oblíbený drink a nebo víno. Nemusíte se ale obtěžovat sami s přinesením Vašich nápojů. Naši zaměstnanci Vám velmi ochotně vaše drinky donesou. Za otevření láhví a zapůjčení skleniček počítáme přibližně 15% z ceny Vašich nápojů".
-
-Umíte si představit kolik Louis ušetřil na skladech, na manipulaci s lihovinami, nákladech na inventury atd." Vidíte teď co jsou to ty americké bezpracné zisky o kterých jsme toho tolik slyšeli". Jestli toto nepovažujete za největší gimick se kterým někdo může přijít, tak už nevím co by vás mohlo více nadchnout. Možná snad jedině to, že Bakery neměla tím pádem žádné nápojové lístky, a že neměli ani jídelníčky.
-
-Louis totiž nezaměstnával profesionální číšníky, ale zásadně jen studenty s místní college kteří práci v jeho restauraci považovali za velkou "jundu". Louis totiž říkal, že když jeho obsluhující není schopen zapamatovat těch pár jídel které by na jídelním lístku měli, tak by vlastně ani neměl studovat na college.
-
-Tato historka není návodem k tomu, jak byste si měli zařídit vaši restauraci u nás, ale když tak sečtete všechno na čem Louis ušetřil, tak vás nepřekvapí, že v té Bakery, která bohužel již neexistuje, během 30 let její existence nadělal miliony dolarů to jedině tím, jak mi Louis důvěrně sdělil, že přišel s lepší pastičkou na myši, neboli restaurací, do které se hosté, jako myšky do pastičky, vraceli díky dobrému vnadidlu a přitom je vůbec nezajímalo je na jakém zařízení a kým bylo připraveno.
+Tato historka není návodem k tomu, jak byste si měli zařídit restauraci u nás. Když sečtete všechno na čem Louis ušetřil, tak vás nepřekvapí, že restauraci Bakery (která bohužel již neexistuje) během 30 let její existence vydělal miliony dolarů. Jak mi Louis důvěrně sdělil, tak to bylo tím, že přišel s lepší pastičkou na myši (restaurací), do které se hosté (jako myšky do pastičky) vraceli díky dobrému vnadidlu. Přitom hosty vůbec nezajímalo na jakém zařízení a kým bylo jídlo připraveno.
 
