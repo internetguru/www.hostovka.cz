@@ -9,15 +9,15 @@ Oproti mnohým jiným [cateringovým akcím](catering) jsou [bufety](bufet) plá
 
 Veškeré tabulky, které byly kdy vypracovány, jsou velice nepřesné. Spotřeba se totiž řídí složením klientely, jejich věkem, ale hlavně jejich sofistikovaností. Spotřeba se ale také řídí i denní dobou, chutí a nekonečnou řadou dalších okolností.
 
-Jedna poučka říká, že čím více jsou jídla chutnější a atraktivnější, tím více se jich spotřebuje. Naštěstí existují „triky“, jak spotřebu kontrolovat. Další zásada je, že při skončení musí bufet vypadat tak, jako kdyby se právě otevřel. Nemůžeme počítat s tím, že v okamžiku, kdy odejde poslední host, budou všechny mísy prázdné, a že nebudou žádné [zbytky](zbytky). Proto je plánování jídel pro bufet velmi nesnadný úkol.
+Jedna poučka říká, že čím více jsou jídla chutnější a atraktivnější, tím více se jich spotřebuje. Naštěstí existují „triky“, jak spotřebu kontrolovat. Další zásada je, že při skončení musí bufet vypadat tak, jako kdyby se právě otevřel. Nemůžeme počítat s tím, že v okamžiku, kdy odejde poslední host, budou všechny mísy prázdné, a že nebudeme mít žádné [zbytky](zbytky). Proto je plánování jídel pro bufet velmi nesnadný úkol.
 
-## Produktivita
+## Produktivita a efektivita
 
 Produktivita je první podmínkou rentability každého bufetu. Práce kolem bufetu není komplikovaná a nevyžaduje žádnou velkou odbornost. Proto se pro bufety a [brunche](brunch) snažíme zaměstnávat méně placené zaměstnance.
 
 {class="example"}
 
-Dokonce i k přípravě jídel v jídelně, která jsou v zásadě velice jednoduchá, je možno v krátké době zaškolit kteréhokoliv nekvalifikovaného, a tím pádem méně placeného zaměstnance.
+Dokonce i k přípravě jídel v jídelně, která jsou v zásadě velice jednoduchá, je možno v krátké době zaškolit jakéhokoliv nekvalifikovaného, a tím pádem méně placeného zaměstnance.
 
 To samé platí o doplňování jídel a nápojů a sklízení použitého nádobí, což rovněž nevyžaduje žádnou velkou odbornost. Problém v současném českém pohostinství ale je, že máme příliš mnoho rádoby vzdělaných „odborníků“, takzvaných „náčelníků“, ale nemáme žádné „indiány“.
 
@@ -25,13 +25,13 @@ To samé platí o doplňování jídel a nápojů a sklízení použitého nádo
 
 Náklady na mzdy jsou nezanedbatelnou položkou podnikového rozpočtu a jsou do značné míry rovněž ovlivněny [jídelním lístkem](jidelni_listek). Mzdy jsou také ovlivněny sortimentem jídel a následně potřebou personálu, a to jak ve výrobě, tak i v obsluze. 
 
-Mimo přípravy potravin a jejich následného vaření, mohou být všechny ostatní funkce spojené s expedicí a [prezentací jídel](prezentace_jidel) vykonávány méně kvalifikovanými (méně placenými) zaměstnanci. V Americe je to velimi přísně sledováno a zakotveno ve výrobních manuálech.
+Mimo přípravy potravin a jejich následného vaření, mohou být všechny ostatní funkce spojené s expedicí a [prezentací jídel](prezentace_jidel) vykonávány méně kvalifikovanými (méně placenými) zaměstnanci. V Americe je to velmi přísně sledováno a zakotveno ve výrobních manuálech.
 
 {class="example"}
 
-V Česku to však málokterý manažer bere v úvahu. V mnoha případech se servisem zabývá i on sám, místo toho aby se věnoval managementu a kontrole.
+V Česku to však málokterý manažer bere v úvahu. V mnoha případech se servisem zabývá i on sám, místo toho, aby se věnoval managementu a kontrole.
 
-Při servisu a pracích v jídelně, kdy každým zaměstnancem navíc, který není plně využit, náklady na mzdy neúnosně stoupají. Nechci zde ale hovořit o nákladech na mzdy kuchařů, protože u těch při přípravě jídel pro bufety produktivita vlastně stoupá.
+Při servisu a pracích v jídelně s každým zaměstnancem navíc, který není plně využit, neúnosně stoupají náklady na mzdy. Nechci zde ale hovořit o nákladech na mzdy kuchařů, protože u těch při přípravě jídel pro bufety produktivita vlastně stoupá.
 
-Je potřeba se zmínit o něčem, o čem se v odborných učebnicích nikdy nemluví. To je skutečnost, že čím více obsluhujících, tím menší podíl spropitného na každého připadá. V tomto ohledu by obsluhující sami měli mít zájem na tom, aby jich nebylo více než je potřeba k zajištění kvalitního servisu.
+Je potřeba se zmínit o něčem, o čem se v odborných učebnicích nikdy nemluví. To je skutečnost, že čím více obsluhujících, tím menší podíl spropitného. V tomto ohledu by obsluhující měli mít sami zájem na tom, aby jich nebylo více než je potřeba k zajištění kvalitního servisu.
 
