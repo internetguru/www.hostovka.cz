@@ -13,7 +13,7 @@ Garnitura se skládala z paštiček z drůbeží fáše plněných [sortýrovan�
 
 ## Omáčka Allemande
 
-_Allemande {xml:lang="fr"}_ znamená ve francouzštině německý, ale je to také název jedné z velimi populárních francouzských omáček. Vytvořil ji známý kuchař [Marie-Antoine Carême](careme). Krémová omáčka světlé barvy mu připomínala blonďaté Němce, proto ji pojmenoval _Allemande {xml:lang="fr"}_.
+_Allemande {xml:lang="fr"}_ znamená ve francouzštině německý, ale je to také název jedné z velmi populárních francouzských omáček. Vytvořil ji známý kuchař [Marie-Antoine Carême](careme). Krémová omáčka světlé barvy mu připomínala blonďaté Němce, proto ji pojmenoval _Allemande {xml:lang="fr"}_.
 
 {class="example"}
 
