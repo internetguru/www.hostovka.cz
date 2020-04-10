@@ -7,15 +7,25 @@
 
 <!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
 
-{kw="nápoje, koktejly, zkušenosti"}
+{kw="nápoje, koktejly, zkušenosti, životopis, případová studie"}
+
+Pocházím z relativně malého vojenského města, kde byla jen samá kasárna a jinak nic než samá hospoda. Do jedné takové hospody jsem jako kluk často chodil se džbánem tatínkovi pro pivo. Takže jsem vlastně již od útlého mládí měl vztah k pohostinství.
+
+Ze džbánu jsem cestou občas upíjel, tedy jsem byl jakýsi odborník na pivo. O něčem takovém, jako jsou koktejly, jsem tehdy ale nic neslyšel. Jsem přesvědčen, že o koktejlech nic nevěděl ani jeden z těch čtyřiceti hospodských.
 
 Občas jsem se díval na barmana Karla Kroupu zvaného Charlie, o kterém jsem si ve svých 14 letech myslel, že je největším barmanem na světě. Pozoroval jsem ho, když mixoval koktejly, a snil jsem o tom, že jednoho dne budu také takovým slavným barmanem jako je on. Tento sen se mi však nikdy nesplnil.
 
-{id="zkusenosti\_z\_pohledu_hosta"}
+## První zkušenosti s barmanstvím
 
-## Zkušenosti z pohledu hosta
+Potom jsem se ale začal učit v Praze v hotelu Alcron. Tam jsem teprve viděl, že i přes určitou praxi v pohostinství mám do odborníka ještě hodně daleko. To víte, koukala mi ještě sláma z bot. Byl jsem přímo fascinován se vším, s čím jsem se v hotelu setkal. Musím se přiznat, že nejvíce snad barem, který jsme tam měli.
+
+Bar byl plný lahví všemožných likérů a jiných lihovin a krásných skleniček. Skleničky jsem ale moc rád neměl, protože jsem je musel denně ručně umývat v horké vodě. 
+
+Když jsem skleničky od drinků (tehdy jsem nevěděl, že se tomu tak říká), dal do horké vody, tak všechno tak krásně vonělo. Tím jsem se k tomu barmanství nebo mixování vlastně „přičichnul“.
 
 Pohostinství se časem stalo mým koníčkem. Když jsem trochu povyrostl, tak jsem za účelem lepšího porozumění barmanství začal vymetat všechny pražské noční lokály – od pajzlů až po ty luxusní. Moje odbornost díky tomu nepředstavitelně vzrostla, a to hlavě z toho důvodu, že jsem se na barmanství naučil dívat spíše z pohledu hosta než z pohledu barmana.
+
+{class="example"}
 
 Poznal jsem celou řadu barmanů v Est baru, Barberině, Boccaciu, u 5-P, Sekt pavilonu, v Baroku, Rokoku a nevím, jak se všechny ty noční zapadáky jmenovaly a mohu vám říci, že jsem přišel na to, že všichni barmani byli většinou stejně dobří jako byl Charlie.
 
@@ -25,11 +35,13 @@ Když jsem po válce přišel do Paříže a později do Alžíru, Tunisu, Bizer
 
 ## Teoretické znalosti a vzdělání
 
-V Paříži jsem si koupil první knihu o koktejlech _Cocktails de Paris présentés par Rip. Illustrés par Paul Colin_. Moje francouzština tehdy nebyla ještě tak dobrá, abych uměl rozeznat, že všechno bylo zřejmě opsané z nějakého amerického originálu.
+V Paříži jsem si koupil první knihu o koktejlech _Cocktails de Paris présentés par Rip. Illustrés par Paul Colin {xml:lang="fr"}_. Moje francouzština tehdy nebyla ještě tak dobrá, abych uměl rozeznat, že všechno bylo zřejmě opsané z nějakého amerického originálu.
 
-Po návratu do Česka jsem si pak později koupil moji druhou barmanskou knížku od Harryho Schraemli _Das grosse Lehrbuch der Bar_ a musím říci, že jsem se studiem barmanství začal opět vážně zabývat. Dokonce jsem si udělal barmanský kurz u Harryho Reimanna, který byl v té době považován za mistra světa.
+Po návratu do Česka jsem si pak později koupil moji druhou barmanskou knížku od Harryho Schraemli _Das grosse Lehrbuch der Bar {xml:lang="de"}_ a musím říci, že jsem se studiem barmanství začal opět vážně zabývat. Dokonce jsem si udělal barmanský kurz u Harryho Reimanna, který byl v té době považován za mistra světa.
 
 Později jsem na hotelové škole v Mariánských lázních absolvoval další barmanský kurz a dalo by se tudíž předpokládat, že jsem byl dostatečně odborně vzdělaný. Musím se ale přiznat, že mimo občasného fušování do této profese jsem barmana nikdy nedělal.
+
+{class="example"}
 
 Víte, s barmanstvím je to totiž tak, že to musíte dělat nepřetržitě, a to bez ohledu na to, jestli je to v Praze, v Brně nebo v Pekingu. Barmanství má své zásady a nepsané zákony, které jsou v každém baru trochu jiné – a sice podle klientely.
 
