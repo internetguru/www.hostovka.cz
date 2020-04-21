@@ -313,12 +313,13 @@ a.tag:before,
 }
 .clanek .desc {
   flex-grow: 1;
-  margin: 0.5em 0;
-  height: 5.5em;
+  margin: 0.5em 0 0;
+  height: 7em;
   overflow: hidden;
   position: relative;
 }
 .clanek .desc.expand {
+  height: unset;
 }
 .clanek .desc.expand:after {
   height: 0;
@@ -326,15 +327,18 @@ a.tag:before,
 .clanek .desc a.expand-button {
   position: absolute;
   display: inline-block;
-  top: 4.5rem;
+  top: 3.7rem;
   left: 0;
   right: 0;
   cursor: pointer;
-  font-size: 2em;
+  /* font-size: 2em; */
   margin: 0 auto;
-  width: 3em;
-  line-height: 0;
+  width: 100%;
+  text-align: center;
+  /* line-height: 0; */
   /* vertical-align: -0.1em; */
+  background: linear-gradient(180deg, transparent, white 50%);
+  padding: 2em 0 0 0;
 }
 .extra ul {
   list-style: none;

@@ -35,6 +35,8 @@
       1: function (e, index, button) {
         var parent = e.target.parentNode;
         parent.classList.toggle("expand");
+        parent.removeChild(button)
+        /*
         if (parent.classList.contains("expand")) {
           parent.innerText = fullDescs[index];
           button.innerText = "› ‹";
@@ -44,23 +46,26 @@
           button.innerText = "‹ ›";
           button.title = "Rozbalit"
         }
-        parent.appendChild(button);
+        */
         e.preventDefault();
         return false;
       }
     }, i, button);
+    /*
     fullDescs.push(descs[i].innerText);
+    
+    descs[i].innerText = short;
+    */
     var short = shorten(descs[i].innerText, 150);
     if (short.length == descs[i].innerText.length) {
       continue;
     }
-    descs[i].innerText = short;
     button.className = "expand-button";
-    button.innerText = "‹ ›";
-    button.title = "Rozbalit"
+    button.innerText = "--- zobrazit celý popisek ---";
     descs[i].appendChild(button);
     button.addEventListener("touchend", handler, false);
     button.addEventListener("click", handler, false);
     // descs[i].title = "Rozbalit dvojklikem"
   }
 })()
+
