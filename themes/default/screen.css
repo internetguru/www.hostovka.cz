@@ -142,7 +142,9 @@ h1 + p {
   margin-right: 0;
 }
 .hdesc > div > div > p.description {
-  padding-left: 0.25em;
+  padding-left: 0.25rem;
+  font-size: 1.25em;
+  line-height: unset;
 }
 .hdesc:before,
 .hdesc:after {
@@ -311,19 +313,27 @@ a.tag:before,
 .clanek .desc {
   flex-grow: 1;
   margin: 0.5em 0;
+  height: 5.5em;
+  overflow: hidden;
+  position: relative;
 }
 .clanek .desc.expand {
-  height: auto;
 }
 .clanek .desc.expand:after {
   height: 0;
 }
 .clanek .desc a.expand-button {
+  position: absolute;
+  display: inline-block;
+  top: 4.5rem;
+  left: 0;
+  right: 0;
   cursor: pointer;
   font-size: 2em;
-  margin-left: 0.25em;
+  margin: 0 auto;
+  width: 3em;
   line-height: 0;
-  vertical-align: -0.1em;
+  /* vertical-align: -0.1em; */
 }
 .extra ul {
   list-style: none;
@@ -370,18 +380,18 @@ a.tag:before,
 }
 /***************************/
 a.tag[href]:hover svg {
-  color: #9e9e9e;
+  color: #757575;
 }
 h2 a.tag svg,
 a.tag[href^="#"] svg {
-  color: #9e9e9e;
+  color: #E0E0E0;
 }
 a.tag:not([href]) {
   border: none;
   color: inherit;
 }
 a.tag svg {
-   color: #e0e0e0;
+   color: #aeadad;
    margin-right: 0.25rem;
    padding-right: 0.1em;
    width: 100%;
@@ -1028,4 +1038,5 @@ p:after {
   font-size: 1.5em;
 }
 /***************************/
+
 
