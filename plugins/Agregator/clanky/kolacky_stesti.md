@@ -5,7 +5,7 @@
 
 # Ne až tak čínské koláčky štěstí
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-21, do not edit -->
 
 {kw="gastronomie, případová studie, Amerika, čínská restaurace"}
 

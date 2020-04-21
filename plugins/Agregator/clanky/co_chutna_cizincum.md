@@ -5,7 +5,7 @@
 
 # Psychlogie chutí a co jí lidé v zahraničí
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-21, do not edit -->
 
 {kw="etnické kuchyně, chutě, historka, případová studie, psychologie"}
 

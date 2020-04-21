@@ -5,7 +5,7 @@
 
 # Hovězí Stroganov s hranolky
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-21, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -100,16 +100,6 @@ Boršč, jak mistr Rosropovič údajně prohlásil, byl z jiného světa (anglic
 Jakmile mistr Rostropovič Stroganov dojedl, nechal si mě zavolat, a začal mě objímat jako žádný jiný host nikdy před tím. Řekl mi, že procestoval téměř celý svět, ale že nikde, včetně Sovětského svazu, neochutnal tak dobrý Stroganov. Také mi řekl, že nikde mimo Sovětského svazu, mu ho nepodali tak jak má být – a sice s hranolky.
 
 Mistr Rostropovič byl tak nadšený, že mě pozval ke stolu na panáka jeho osobní vodky. Po několika kolech, mě požádal, abych mu říkal Slavo. Tak ho nazývala jen jeho manželka a jen jeho nejbližší přátelé. On mi začal říkat Míšo, takže z toho vznikla pravá ruská družba.
-
-{var="inputvar-pribuzne_h" id="pribuzne"}
-
-## n/a
-
-n/a
-
-{var="inputvar-firstkw"}
-
-Příbuzné články nejsou k dispozici
 
  [1]: /vareni_z_polotovaru
  [2]: /kucharske_tituly#vykonny_sefkuchar
