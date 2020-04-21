@@ -61,7 +61,7 @@
       continue;
     }
     button.className = "expand-button";
-    button.innerText = "--- zobrazit celý popisek ---";
+    button.innerHTML = "<span class='fas fa-fw fa-chevron-down'/>";
     descs[i].appendChild(button);
     button.addEventListener("touchend", handler, false);
     button.addEventListener("click", handler, false);

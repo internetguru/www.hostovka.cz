@@ -327,7 +327,7 @@ a.tag:before,
 .clanek .desc a.expand-button {
   position: absolute;
   display: inline-block;
-  top: 3.7rem;
+  top: 3.8rem;
   left: 0;
   right: 0;
   cursor: pointer;
@@ -339,6 +339,23 @@ a.tag:before,
   /* vertical-align: -0.1em; */
   background: linear-gradient(180deg, transparent, white 50%);
   padding: 2em 0 0 0;
+}
+.clanek .desc a.expand-button:before {
+  content: "──────────────────────";
+  color: #c45b3a;
+  position: absolute;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  top: 2.35em;
+  font-size: 0.75em;
+}
+.clanek .desc a.expand-button svg {
+  font-size: 1.5em;
+  position: relative;
+  top: -0.25em;
+  background: white;
+  padding: 0 0.5rem;
 }
 .extra ul {
   list-style: none;
