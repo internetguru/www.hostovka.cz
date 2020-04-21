@@ -8,7 +8,7 @@
     return function (e) {
       clicks++;
       if (handlers[clicks]) {
-        handlers[clicks](e, index, button)
+        handlers[clicks](e, this, index, button)
       }
       clicks = 0;
     };
@@ -32,8 +32,8 @@
   for (var i = 0; i < descs.length; i++) {
     var button = document.createElement("a");
     var handler = multiClickHandler({
-      1: function (e, index, button) {
-        var parent = e.target.parentNode;
+      1: function (e, target, index, button) {
+        var parent = target.parentNode;
         parent.classList.toggle("expand");
         parent.removeChild(button)
         /*
