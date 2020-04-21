@@ -12,6 +12,7 @@ body {
 strong {
   font-weight: 600;
 }
+.hdesc .definition-desc a,
 a {
   color: #bf360c;
 }
