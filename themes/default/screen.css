@@ -327,7 +327,7 @@ a.tag:before,
 .clanek .desc a.expand-button {
   position: absolute;
   display: inline-block;
-  top: 3.8rem;
+  bottom: 0;
   left: 0;
   right: 0;
   cursor: pointer;
