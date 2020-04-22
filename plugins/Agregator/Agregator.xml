@@ -5,8 +5,8 @@
     <li><a title="Autor: %s" var="link@href author@title heading">n/a</a></li>
   </doclist>
 -->
-  <doclist id="stitek" path="clanky">
-    <dl class="clanek card card--shadow card--image col--3" var="doclist-new@class">
+  <doclist id="stitek" path="clanky" filter-name="top">
+    <dl class="clanek card card--shadow card--image col--3">
       <dt><a title="Zobrazit článek %s" var="link@href short@title" href="%s?usp=image"><img var="image@src heading@alt"/></a></dt>
       <dd class="date" fn="inputvar-dateformat" var="ctime">n/a</dd>
       <dd class="kw" var="kw" fn="inputvar-maketags">n/a</dd>
@@ -16,13 +16,10 @@
         <li>
           <a class="button button--simple button--simple" title="Zobrazit článek %s" var="link@href short@title" href="%s?usp=button">Přečíst</a></li>
         <li>
-          <a class="button button--simple button--img button--img-only" var="fbcommentid@href inputvar-fbcomment-title@title" href="https://www.facebook.com/pralek/posts/%s"><span class="fas fa-fw fa-comment">i</span></a>
+          <a class="button button--simple button--img button--img-only" var="link@href inputvar-fb-title@title" href="https://www.facebook.com/sharer/sharer.php?u=https://www.hostovka.cz/%s"><span class="fab fa-fw fa-facebook-f">i</span></a>
         </li>
         <li>
-          <a class="button button--simple button--img button--img-only" var="link@href inputvar-fb-title@title" href="https://www.facebook.com/sharer/sharer.php?u=https://www.pralek.cz/%s"><span class="fab fa-fw fa-facebook-f">i</span></a>
-        </li>
-        <li>
-          <a class="button button--simple button--img button--img-only" var="link@href inputvar-twitter-title@title" href="https://twitter.com/intent/tweet?text=www.pralek.cz/%s"><span class="fab fa-fw fa-twitter">i</span></a>
+          <a class="button button--simple button--img button--img-only" var="link@href inputvar-twitter-title@title" href="https://twitter.com/intent/tweet?text=www.hostovka.cz/%s"><span class="fab fa-fw fa-twitter">i</span></a>
         </li>
         <li>
           <span class="hideable hideable-hidden">
@@ -33,7 +30,6 @@
       </ul></dd>
     </dl>
   </doclist>
-
  
   <doclist id="faq" path="faq" wrapper="dl" class="hideable">
     <dt class="heading" var="heading@var">n/a</dt>
