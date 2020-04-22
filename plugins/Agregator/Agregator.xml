@@ -6,20 +6,28 @@
   </doclist>
 -->
   <doclist id="stitek" path="clanky" filter-name="top">
-    <dl class="clanek" var="doclist-new@class">
+    <dl class="clanek card card--shadow card--image col--3" var="doclist-new@class">
       <dt><a title="Zobrazit článek %s" var="link@href short@title" href="%s?usp=image"><img var="image@src heading@alt"/></a></dt>
       <dd class="date" fn="inputvar-dateformat" var="ctime">n/a</dd>
       <dd class="kw" var="kw" fn="inputvar-maketags">n/a</dd>
-      <dt class="heading"><a title="Zobrazit článek %s" var="link@href short@title heading" href="%s?usp=heading">n/a</a></dt>
+      <dt class="heading card__heading"><a title="Zobrazit článek %s" var="link@href short@title heading" href="%s?usp=heading">n/a</a></dt>
       <dd class="desc" var="desc">n/a</dd>
-      <dd class="extra"><ul>
-        <li><a title="Zobrazit článek %s" var="link@href short@title" class="button" href="%s?usp=button">Přečíst</a></li>
+      <dd class="extra"><ul class="button-list">
         <li>
-          <span class="hideable">
-            <span var="link@data-eventable-label" class="eventable" data-eventable-action="share"><span var="inputvar-link-ico"/>share</span>
+          <a class="button button--simple button--simple" title="Zobrazit článek %s" var="link@href short@title" href="%s?usp=button">Přečíst</a></li>
+        <li>
+          <a class="button button--simple button--img button--img-only" var="fbcommentid@href inputvar-fbcomment-title@title" href="https://www.facebook.com/pralek/posts/%s"><span class="fas fa-fw fa-comment">i</span></a>
+        </li>
+        <li>
+          <a class="button button--simple button--img button--img-only" var="link@href inputvar-fb-title@title" href="https://www.facebook.com/sharer/sharer.php?u=https://www.pralek.cz/%s"><span class="fab fa-fw fa-facebook-f">i</span></a>
+        </li>
+        <li>
+          <a class="button button--simple button--img button--img-only" var="link@href inputvar-twitter-title@title" href="https://twitter.com/intent/tweet?text=www.pralek.cz/%s"><span class="fab fa-fw fa-twitter">i</span></a>
+        </li>
+        <li>
+          <span class="hideable hideable-hidden">
+            <span var="link@data-eventable-label" class="eventable button button--simple button--img button--img-only" data-eventable-action="share"><span class="fas fa-fw fa-link">i</span></span>
             <span class="copyable" fn="inputvar-createlink" var="link">n/a</span>
-            <span class="fb hideable-nohide"><a var="link@href inputvar-fb-title@title" href="https://www.facebook.com/sharer/sharer.php?u=https://www.hostovka.cz/%s"><span var="inputvar-facebook-ico"/>Sdílet na facebooku</a></span>
-            <span class="twitter hideable-nohide"><a var="link@href inputvar-twitter-title@title" href="https://twitter.com/intent/tweet?text=www.hostovka.cz/%s"><span var="inputvar-twitter-ico"/>Sdílet na twitteru</a></span>
           </span>
         </li>
       </ul></dd>
