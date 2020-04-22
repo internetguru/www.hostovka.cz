@@ -1,0 +1,53 @@
+@charset 'UTF-8';
+:root {
+  --list-multiple-item-margin: 0.5rem;
+  --global-border-radius: 0.5rem;
+
+  --hdesc-dim-bg: none;
+}
+
+.part.clanky .list {
+  --global-max-width: 80rem;
+  --list-multiple-item-margin: 1rem;
+}
+.part.clanky .list > div {
+  justify-content: space-around;
+}
+.part.clanky .card {
+  max-width: 24em !important;
+  display: flex;
+  flex-direction: column;
+}
+.part.clanky .card .hideable a.hideable-switch:before {
+  all: initial;
+}
+.part.clanky .card .button-list {
+  margin: 0;
+  margin-top: 1em;
+  justify-content: space-between;
+}
+.part.clanky .card .button-list li:first-child {
+  --button-list-item-margin: 0;
+  flex-grow: 1;
+}
+.part.clanky .card .button-list li:first-child ~ li a,
+.part.clanky .card .button-list li:first-child ~ li span {
+  --button-border-radius: 10em;
+}
+.part.clanky .card .button-list span {
+  padding: 0;
+}
+.part.clanky .card .button-list span a {
+  padding: var(--button-img-only-padding);
+}
+.part.clanky .card .button-list li:first-child .button {
+  --button-padding: 1em;
+  width: auto;
+  min-width: auto;
+}
+.part.clanky .card .extra {
+  padding-bottom: 0.5em;
+}
+.part.clanky .card .desc {
+  flex-grow: 1;
+}
