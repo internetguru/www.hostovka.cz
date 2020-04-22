@@ -7,12 +7,11 @@
 
 Snahou Hostovky je zvýšit uvědomění našich hostů v tom, co jim patří a jak by se měli v restauraci chovat, aby se nedostávali do trapných situací. Takto vzdělaní hosté si u zaměstnanců v pohostinství získají daleko větší respekt.
 
-{class="figure mike"}
+{class="image-group author" data-image-group-url="/files/preview/klima.jpg"}
 
-![Michael Dobromil Klíma][1] {class="img"}
-:   **Michael Dobromil Klíma [<span class="fa fa-tag">i</span> životopis {title="zobrazit články o životě MDK" class="tag definition-skip"}][2]** 
+Michael Dobromil Klíma [<span class="fa fa-tag">i</span> životopis {title="zobrazit články o životě MDK" class="tag definition-skip"}][1]
 :   * 23. 6. 1928 až **†** 15. 10. 2011
-:   Zakladatel konceptu [STEAKGRILL®][3], autor článků na Hostovce. Od poloviny roku 2018 vzniká tento web jako modernizace a revize [původního webu Hostovky][4].
+:   Zakladatel konceptu [STEAKGRILL®][2], autor článků na Hostovce. Od poloviny roku 2018 vzniká tento web jako modernizace a revize [původního webu Hostovky][3].
 
 <q>Brzy do postele, brzy vstát, propagovat se a tvrdě pracovat!</q> 
 :   Životní krédo Mikea z originálního <q xml:lang="en">Early to bed, early to rise, work like hell and advertise!</q> . 
@@ -39,8 +38,7 @@ n/a
 
 n/a
 
- [1]: /files/preview/klima.jpg
- [2]: ?stitek=zivotopis#clanky
- [3]: https://www.steakgrill.cz
- [4]: http://2017.hostovka.cz
+ [1]: ?stitek=zivotopis#clanky
+ [2]: https://www.steakgrill.cz
+ [3]: http://2017.hostovka.cz
 
