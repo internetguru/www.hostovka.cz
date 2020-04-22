@@ -13,43 +13,57 @@
 .part.clanky .list > div {
   justify-content: center;
 }
-.part.clanky .card {
+.clanek {
+  --button-color: var(--global-color);
+  --button-svg-color: #9E9E9E;
+  --button--simple-bg: #fff;
+  --button--simple-active-bg: #E0E0E0;
   max-width: 24em !important;
   display: flex;
   flex-direction: column;
+  position: relative;
 }
-.part.clanky .card .hideable a.hideable-switch:before {
+.clanek .hideable a.hideable-switch:before {
   all: initial;
 }
-.part.clanky .card .button-list {
+.clanek .button-list {
   margin: 0;
-  margin-top: 1em;
+  margin-top: 0;
   justify-content: space-between;
 }
-.part.clanky .card .button-list li:first-child {
+.clanek .button-list li:first-child {
   --button-list-item-margin: 0;
   flex-grow: 1;
 }
-.part.clanky .card .button-list li:first-child ~ li a,
-.part.clanky .card .button-list li:first-child ~ li span {
+.clanek .button-list li:first-child ~ li a,
+.clanek .button-list li:first-child ~ li span {
   --button-border-radius: 10em;
 }
-.part.clanky .card .button-list span {
+.clanek .button-list span {
   padding: 0;
 }
-.part.clanky .card .button-list span a {
+.clanek .button-list span a {
   padding: var(--button-img-only-padding);
 }
-.part.clanky .card .button-list li:first-child .button {
+.clanek .button-list li:first-child .button {
   --button-padding: 1em;
   width: auto;
   min-width: auto;
 }
-.part.clanky .card .extra {
+.clanek .heading a {
+  border: none;  
+}
+.clanek .heading {
+  margin-top: 1em;
+}
+.clanek .extra {
   padding-bottom: 0.5em;
 }
-.part.clanky .card .desc {
+.clanek .desc {
   flex-grow: 1;
+}
+.clanek .kw {
+  margin-top: 0.75em;
 }
 .clanek .desc {
   flex-grow: 1;
@@ -74,28 +88,47 @@
   margin: 0 auto;
   width: 100%;
   text-align: center;
-  background: linear-gradient(180deg, transparent, white 50%);
+  background: linear-gradient(180deg, transparent, white 55%);
   padding: 2em 0 0 0;
 }
 .clanek .desc a.expand-button:before {
   content: "──────────────────────";
-  color: #d0d0d0;
+  color: #F5F5F5;
   position: absolute;
   left: 0;
   width: 100%;
   text-align: center;
-  top: 2.35em;
+  top: 2.45em;
   font-size: 0.75em;
 }
 .clanek .desc a.expand-button svg {
-  font-size: 1.5em;
+  font-size: 1.75em;
   position: relative;
   top: -0.25em;
-  background: #fff;
+  background: linear-gradient(180deg, transparent, white 55%);
   padding: 0 0.5rem;
-  color: #0e47a1;
+  color: #9e9e9e;
+}
+.part.clanky .clanek .date {
+  position: absolute;
+  top: 0;
+  right: 0;
+  color: white;
+  padding: 0.75em 1em;
+  background: rgba(33, 33, 33, 0.7);
+  border-radius: 0 var(--global-border-radius) 0 0;
+}
+.clanek .kw {
+  height: 1.5em;
+  overflow: hidden;
+  display: flex;
+  flex-wrap: wrap;
 }
 /************************************/
+a:not([href]) {
+  --link-color: 33, 33, 33;
+  --link-visited-color: 33, 33, 33;
+}
 a.tag {
   margin-left: 1.75em;
   position: relative;
@@ -107,6 +140,9 @@ a.tag svg {
   position: absolute;
   left: -1.2em;
   top: 0.2em;
-  color: #7986CB;
+  color: rgba(var(--link-color), 0.5);
+}
+a.tag[href^="#"] {
+  border: none;
 }
 /************************************/
