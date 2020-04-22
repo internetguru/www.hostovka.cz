@@ -12,7 +12,7 @@
     <xsl:copy>
       <xsl:apply-templates select="@* | node()"/>
       <span>
-        <a title="Aktuální filtr" class="tag nowarning"><xsl:value-of disable-output-escaping="yes" select="$agregator-current-stitek"/></a>
+        <a title="Aktuální filtr" class="tag nowarning"><span class="fas fa-tag">i</span><xsl:value-of disable-output-escaping="yes" select="$agregator-current-stitek"/></a>
       </span>
     </xsl:copy>
   </xsl:template>
