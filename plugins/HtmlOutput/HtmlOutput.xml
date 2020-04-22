@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <HtmlOutput>
-  <xslt>themes/default/h1desc.xsl</xslt>
-  <xslt>themes/delna.xsl</xslt>
-  <xslt>themes/hostovka.xsl</xslt>
-  <jsFile append="body" if-xpath="/body[contains(@class, 'agregator')]">themes/article-bg.js</jsFile>
+<!--   <jsFile append="body">themes/moreable.js</jsFile> -->
+<!--   <jsFile append="body">themes/moreableinit.js</jsFile> -->
+
+  <jsFile append="body">themes/article-bg.js</jsFile>
   <jsFile append="body">themes/expand.js</jsFile>
-  <jsFile append="body">themes/moreable.js</jsFile>
-  <jsFile append="body">themes/moreableinit.js</jsFile>
-  <jsFile append="body">themes/completable-init.js</jsFile>
-  <jsFile append="body">themes/fa.js</jsFile>
+  <jsFile append="body">themes/components/completable-init.js</jsFile>
   
+  <xslt>themes/hostovka.xsl</xslt>
+  <xslt>themes/layout/image-group.xsl</xslt>
+  
+  <stylesheet>themes/styles.css</stylesheet>
+
+  <favicon>themes/icon/Lovoo_Icon_Heart.ico</favicon>
+  
+  <var id="preserveImgSpace">enabled</var>
   <var id="usp">enabled</var>
   <var id="schemaorg">enabled</var>
 </HtmlOutput>
+
