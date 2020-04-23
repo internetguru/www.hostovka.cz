@@ -332,7 +332,7 @@
   <var id="tags-files-list">
   <form action="/" method="get" class="search">
     <ul>
-      <li><select id="completable-search" name="s" class="completable">
+      <li class="button-list"><select id="completable-search" name="s" class="completable">
 <!-- [completable] generated content, do not edit -->
 <option class="tag" value="stitky/amerika">Amerika (21 výskytů)</option>
 <option class="tag" value="stitky/ceska_republika">Česká republika (7 výskytů)</option>
