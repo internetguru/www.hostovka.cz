@@ -331,8 +331,8 @@
 
   <var id="tags-files-list">
   <form action="/" method="get" class="search">
-    <ul>
-      <li class="js-completable__wrapper"><select id="completable-search" name="s" class="completable">
+    <ul class="js-completable__wrapper">
+      <li><select id="completable-search" name="s" class="completable">
 <!-- [completable] generated content, do not edit -->
 <option class="tag" value="stitky/amerika">Amerika (21 výskytů)</option>
 <option class="tag" value="stitky/ceska_republika">Česká republika (7 výskytů)</option>
