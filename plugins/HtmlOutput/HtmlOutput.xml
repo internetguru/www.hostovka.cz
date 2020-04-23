@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <HtmlOutput>
-<!--   <jsFile append="body">themes/moreable.js</jsFile> -->
-<!--   <jsFile append="body">themes/moreableinit.js</jsFile> -->
 
   <jsFile append="body">themes/article-bg.js</jsFile>
   <jsFile append="body">themes/expand.js</jsFile>
   <jsFile append="body">themes/components/completable-init.js</jsFile>
+  <jsFile append="body">themes/moreable.js</jsFile>
+  <jsFile append="body">themes/moreableinit.js</jsFile>
   
   <xslt>themes/hostovka.xsl</xslt>
   <xslt>themes/layout/image-group.xsl</xslt>
