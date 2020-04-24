@@ -40,6 +40,9 @@
   justify-content: space-between;
   position: relative;
 }
+.extra .button-list li {
+  flex: 0 1 auto;
+}
 .extra .button-list li:first-child {
   --button-list-item-margin: 0;
   flex-grow: 1;
@@ -139,7 +142,8 @@
 }
 /************************************/
 .copyable-wrapper {
-  max-width: 100%;
+  max-width: 100vw;
+  width: max-content;
   overflow: hidden;
   background: #ffffff;
   display: flex;
@@ -193,7 +197,8 @@
   height: 1.2em;
   flex-shrink: 1;
   word-break: break-all;
-  outline: none
+  outline: none;
+  color: black;
 }
 /************************************/
 a:not([href]) {
@@ -332,6 +337,7 @@ dt label.button {
 .hdesc--top .extra .button-list {
   justify-content: flex-end;
   --button-list-item-margin: 0.5rem;
+  padding: 0;
 }
 .hdesc--top .extra .button-list li:first-child {
   all: initial;
