@@ -48,6 +48,9 @@
                 <a class="button button--simple button--img button--img-only" var="link@href inputvar-twitter-title@title" href="https://twitter.com/intent/tweet?text=www.hostovka.cz/%s"><span class="fab fa-fw fa-twitter">i</span></a>
               </li>
               <li>
+                <xsl:value-of disable-output-escaping="yes" select="$inputvar-ghedit2"/>
+              </li>
+              <li>
                 <span class="hideable hideable-hidden">
                   <span var="link@data-eventable-label" class="eventable button button--simple button--img button--img-only" data-eventable-action="share"><span class="fas fa-fw fa-link">i</span></span>
                   <span class="copyable" fn="inputvar-createlink" var="link">n/a</span>
