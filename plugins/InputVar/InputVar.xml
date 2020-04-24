@@ -17,7 +17,7 @@
   <fn id="html2md" fn="pregreplace" pattern="(.+).html" replacement="$1.md"/>
   <var id="mdfile" var="file" fn="html2md"/>
   <var id="ghedit"><a var="inputvar-mdfile@href" href="https://github.com/InternetGuru/www.hostovka.cz/edit/dev/%s"><span class="fas fa-fw fa-pencil">i</span>Navrhnout úpravy článku</a></var>
-  <var id="ghedit2"><a var="inputvar-mdfile@href" href="https://github.com/InternetGuru/www.hostovka.cz/edit/dev/%s" title="Navrhnout úpravy článku"><span class="fas fa-fw fa-pencil">i</span>Navrhnout úpravy článku</a></var>
+  <var id="ghedit2"><a class="button button--simple button--img button--img-only" var="inputvar-mdfile@href" href="https://github.com/InternetGuru/www.hostovka.cz/edit/dev/%s" title="Navrhnout úpravy článku"><span class="fas fa-fw fa-pencil">i</span>Navrhnout úpravy článku</a></var>
   <var id="fb-share"><a href="https://www.facebook.com/hostovka"><span class="fab fa-facebook-square">i</span>Sledovat Pralék na Facebooku</a></var>
 
   <var id="fbcomment-ico"><span class="fas fa-comment">i</span></var>
