@@ -210,6 +210,10 @@ dt label.button {
 .hostovka + div q {
   color: #BF360C;
 }
+#clanky {
+  text-align: center;
+  margin-bottom: 2em;
+}
 /************************************/
 #header {
   --header-bg: 0,0,0,0;
@@ -219,6 +223,9 @@ dt label.button {
   left: 0;
   z-index: 2;
   width: 100%;
+}
+#header > div {
+  max-width: 80rem;
 }
 .search ul {
   margin: 0;
