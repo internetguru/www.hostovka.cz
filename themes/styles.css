@@ -67,6 +67,9 @@
   margin-top: 0.5em;
   padding-bottom: 0.5em;
 }
+.clanek .extra {
+  padding-bottom: 0.5em;
+}
 .clanek .desc {
   flex-grow: 1;
 }
@@ -100,7 +103,7 @@
   padding: 2em 0 0 0;
 }
 .clanek .desc a.expand-button:before {
-  content: "──────────────────────"
+  content: "──────────────────────";
   color: #F5F5F5;
   position: absolute;
   left: 0;
