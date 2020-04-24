@@ -5,6 +5,10 @@
   --global-border-radius: 0.5rem;
   --hdesc-dim-bg: rgba(0,0,0,0.6);
   --footer-service-ico-color: 255, 255, 255;
+  --button-svg-color: #BF360C;
+  --button-bg: #FFCCBC;
+  --button--active-bg: #FFAB91;
+  --button--simple-active-bg: #FFAB91;
 }
 /************************************/
 .part.clanky .list {
@@ -293,6 +297,9 @@ dt label.button {
   max-width: 80rem;
 }
 .search ul {
+  --button-svg-color: #ffffff;
+  --button--active-bg: #D84315;
+  --button-bg: #FF5722;
   margin: 0;
   padding: 0;
   list-style: none;
@@ -438,14 +445,14 @@ dt label.button {
   right: -6rem;
   top: 0;
   color: #fbe9e7;
-  padding: 0 0.5rem 0 1rem;
+  padding: 0 0rem 0 0.5rem;
   font-size: 1.8em;
   outline: none;
   border-radius: 0;
   -webkit-appearance:  none;
 }
 .search button[type="submit"] svg {
-  font-size: 2.5rem;
+  font-size: 2.25rem;
 }
 @media (min-width: 63.5em) {
   .search ul button[type="submit"] {
