@@ -189,11 +189,11 @@ dt label.button {
 .hostovka + div .imgwrap {
   height: 10em;
   width: 10em;
-  margin-top: 1em;
+  margin-top: 0.9em;
   padding: 0 !important;
 }
 .hostovka + div .image-group__wrapper > div:first-child {
-  width: 10em;
+  width: 12em;
   text-align: center;
 }
 .hostovka + div dd {
