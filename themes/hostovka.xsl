@@ -16,6 +16,20 @@
       </span>
     </xsl:copy>
   </xsl:template>
+
+  <xsl:template match="//*[contains(@class, 'example')]">
+    <xsl:copy>
+      <span class="fas fa-fw fa-lightbulb">i</span>
+      <xsl:apply-templates select="@* | node()"/>
+    </xsl:copy>
+  </xsl:template>
+  <xsl:template match="//*[contains(@class, 'important')]">
+    <xsl:copy>
+      <span class="fas fa-fw fa-exclamation-triangle">i</span>
+      <xsl:apply-templates select="@* | node()"/>
+    </xsl:copy>
+  </xsl:template>
+  
   <!-- 
 
   
