@@ -9,6 +9,7 @@
   --button-bg: #FFCCBC;
   --button--active-bg: #FFAB91;
   --button--simple-active-bg: #FFAB91;
+  --part-vertical-padding: 4rem;
 }
 /************************************/
 .part.clanky .list {
