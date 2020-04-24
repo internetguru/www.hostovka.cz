@@ -40,31 +40,22 @@
         <!--<xsl:copy-of select="following-sibling::*[name() = 'ul'][contains(@class, 'docinfo')][contains(@class, 'global')]"/>-->
         <xsl:if test="/body[contains(@class, 'agregator')]">
           <div class="extra">
-            <span class="hideable">
-              <span class="eventable"><xsl:value-of disable-output-escaping="yes" select="$inputvar-link-ico"/>Získat odkaz na článek</span>
-              <span class="copyable" fn="inputvar-createlink">
-                <xsl:value-of disable-output-escaping="yes" select="$link"/>
-              </span>
-              <span class="fb hideable-nohide">
-              <xsl:element name="a">
-                <xsl:attribute name="href">https://www.facebook.com/sharer/sharer.php?u=https://www.hostovka.cz/<xsl:value-of disable-output-escaping="yes" select="$link"/></xsl:attribute>
-                <xsl:attribute name="title"><xsl:value-of disable-output-escaping="yes" select="$inputvar-fb-title"/></xsl:attribute>
-                <xsl:value-of disable-output-escaping="yes" select="$inputvar-facebook-ico"/>
-                Sdílet na Facebooku
-              </xsl:element>
-              </span>
-              <span class="twitter hideable-nohide">
-              <xsl:element name="a">
-                <xsl:attribute name="href">https://twitter.com/intent/tweet?text=www.hostovka.cz/<xsl:value-of disable-output-escaping="yes" select="$link"/></xsl:attribute>
-                <xsl:attribute name="title"><xsl:value-of disable-output-escaping="yes" select="$inputvar-twitter-title"/></xsl:attribute>
-                <xsl:value-of disable-output-escaping="yes" select="$inputvar-twitter-ico"/>
-                Sdílet na Twitteru
-              </xsl:element>         
-              </span>
-              <span class="edit hideable-nohide">
-              <xsl:value-of disable-output-escaping="yes" select="$inputvar-ghedit2"/>
-              </span>
-            </span>
+            <ul class="button-list">
+              <li>
+                <a class="button button--simple button--simple" title="Zobrazit článek %s" var="link@href short@title" href="%s?usp=button">Přečíst</a></li>
+              <li>
+                <a class="button button--simple button--img button--img-only" var="link@href inputvar-fb-title@title" href="https://www.facebook.com/sharer/sharer.php?u=https://www.hostovka.cz/%s"><span class="fab fa-fw fa-facebook-f">i</span></a>
+              </li>
+              <li>
+                <a class="button button--simple button--img button--img-only" var="link@href inputvar-twitter-title@title" href="https://twitter.com/intent/tweet?text=www.hostovka.cz/%s"><span class="fab fa-fw fa-twitter">i</span></a>
+              </li>
+              <li>
+                <span class="hideable hideable-hidden">
+                  <span var="link@data-eventable-label" class="eventable button button--simple button--img button--img-only" data-eventable-action="share"><span class="fas fa-fw fa-link">i</span></span>
+                  <span class="copyable" fn="inputvar-createlink" var="link">n/a</span>
+                </span>
+              </li>
+            </ul>
           </div>
         </xsl:if>
       </xsl:element>
