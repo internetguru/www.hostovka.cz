@@ -21,8 +21,8 @@
     </ul>
   </var>
 
-  <var modifyonly="modifyonly" id="modified"><span class="far fa-calendar-edit">i</span>Datum revize: <span var="mtime" fn="inputvar-dateformat">n/a</span></var>
-  <var modifyonly="modifyonly" id="part_created"><span class="fas fa-calendar-alt">i</span>Tato část byla vytvořena dne <span fn="inputvar-dateformat" var="ctime">n/a</span></var>
-  <var modifyonly="modifyonly" id="part_modified"><span class="far fa-calendar-edit">i</span>Tato část byla upravena dne <span fn="inputvar-dateformat" var="mtime">n/a</span></var>
+  <var modifyonly="modifyonly" id="modified"><span class="far fa-fw fa-calendar-edit">i</span>Datum revize: <span var="mtime" fn="inputvar-dateformat">n/a</span></var>
+  <var modifyonly="modifyonly" id="part_created"><span class="fas fa-fw fa-calendar-alt">i</span>Tato část byla vytvořena dne <span fn="inputvar-dateformat" var="ctime">n/a</span></var>
+  <var modifyonly="modifyonly" id="part_modified"><span class="far fa-fw fa-calendar-edit">i</span>Tato část byla upravena dne <span fn="inputvar-dateformat" var="mtime">n/a</span></var>
  
 </DocInfo>
