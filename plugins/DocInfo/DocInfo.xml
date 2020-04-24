@@ -7,10 +7,10 @@
       <li var="modified">n/a</li>
     </ul>
     <ul class="docinfo share nomultiple button-list">
-      <li><a var="source@href"><span class="fas fa-fw fa-external-link-square">i</span>Zobrazit článek na původním webu Hostovky</a></li>
-      <li><a var="link@href" fn="inputvar-createfblink@href"><span class="fab fa-fw fa-facebook-f">i</span>Sdílet na Facebooku</a></li>
-      <li><a var="link@href" fn="inputvar-createtwitterlink@href"><span class="fab fa-fw fa-twitter">i</span>Sdílet na Twitteru</a></li>
-      <li><a href="#" var="inputvar-ghedit">n/a</a></li>
+      <li><a class="button button--img button--img-inline" var="source@href"><span class="fas fa-fw fa-external-link-square">i</span>Zobrazit článek na původním webu Hostovky</a></li>
+      <li><a class="button button--img button--img-inline" var="link@href" fn="inputvar-createfblink@href"><span class="fab fa-fw fa-facebook-f">i</span>Sdílet na Facebooku</a></li>
+      <li><a class="button button--img button--img-inline" var="link@href" fn="inputvar-createtwitterlink@href"><span class="fab fa-fw fa-twitter">i</span>Sdílet na Twitteru</a></li>
+      <li><a class="button button--img button--img-inline" href="#" var="inputvar-ghedit">n/a</a></li>
     </ul>
   </var>
   
