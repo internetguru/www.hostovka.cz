@@ -4,6 +4,7 @@
   --list-multiple-item-margin: 0.5rem;
   --global-border-radius: 0.5rem;
   --hdesc-dim-bg: rgba(0,0,0,0.6);
+  --footer-service-ico-color: 255, 255, 255;
 }
 /************************************/
 .part.clanky .list {
@@ -37,6 +38,7 @@
   margin: 0;
   margin-top: 0;
   justify-content: space-between;
+  position: relative;
 }
 .extra .button-list li:first-child {
   --button-list-item-margin: 0;
@@ -134,6 +136,64 @@
   overflow: hidden;
   display: flex;
   flex-wrap: wrap;
+}
+/************************************/
+.copyable-wrapper {
+  max-width: 100%;
+  overflow: hidden;
+  background: #ffffff;
+  display: flex;
+  justify-content: space-between;
+  border-radius: .3rem;
+  align-items: center;
+}
+.extra .copyable-wrapper {
+  position: absolute;
+  right: 0;
+  top: -2.7rem;
+  line-height: 110%;
+  text-align: left;
+}
+.clanek .copyable-wrapper {
+  width: 100%;
+  box-shadow: var(--shadow-2);
+}
+.hdesc .copyable-wrapper {
+  top: -2.4rem
+}
+.copyable-wrapper > span:first-child {
+  order: 2;
+  font-size: 1.2em;
+  background: #e0e0e0;
+  padding: .1em .2em .2em .2em;
+  border-radius: 0 .3rem .3rem 0;
+  flex-shrink: 0;
+  height: 2em;
+  line-height: 1.6;
+}
+.copyable-wrapper > span:first-child button {
+  padding: .1em 0!important;
+  height: 2em;
+  width: 2em;
+  border-radius: 0;
+  overflow: hidden;
+  background: none;
+  color: transparent;
+  border: none;
+}
+.hdesc .copyable-wrapper > span:first-child button {
+  padding: .3em
+}
+.copyable-wrapper > span:first-child button svg {
+  color: #424242 !important
+}
+.copyable-wrapper>span:first-child+span {
+  padding: 0 .5em;
+  overflow: hidden;
+  height: 1.2em;
+  flex-shrink: 1;
+  word-break: break-all;
+  outline: none
 }
 /************************************/
 a:not([href]) {
