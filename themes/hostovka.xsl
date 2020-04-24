@@ -31,7 +31,8 @@
       <xsl:apply-templates select="node()"/>
     </xsl:copy>
   </xsl:template>
-  
+
+<!--
   <xsl:template match="div[ol[contains(@class, 'otazky')]]">
     <xsl:copy-of select="."/>
     <h2 id="docinfo" class="hide">Informace o článku</h2>
