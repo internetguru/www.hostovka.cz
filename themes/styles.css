@@ -266,11 +266,19 @@ dt label.button {
 .hostovka + div .imgwrap {
   height: 10em;
   width: 10em;
-  margin-top: 0.9em;
+  margin-top: 0.5em;
   padding: 0 !important;
 }
 .hostovka + div .image-group__wrapper > div:first-child {
   width: 12em;
+  text-align: center;
+}
+.hostovka + div .list-wrapper--multiple > div {
+  justify-content: center;
+}
+.hostovka + div .list-wrapper--multiple > div > dl:last-child {
+  padding-top: 2em;
+  padding-bottom: 2em;
   text-align: center;
 }
 .hostovka + div dd {
