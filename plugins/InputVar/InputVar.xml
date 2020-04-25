@@ -2,8 +2,7 @@
 <InputVar>
 <!--   <var id="service_plain">Rostoucí weby, www.rostouciweby.cz</var> -->
 <!--   <var id="service_html"><a href="http://www.rostouciweby.cz">Rostoucí weby</a></var> -->
-  <var id="odkazy_h">Související články</var>
-  <var id="odkazy_desc">Článek ve svém textu odkazuje následující zdroje (v uvedeném pořadí). Zdroje danou problematiku rozvádějí či zmiňují v dalších souvislostech.</var>
+  <var id="pribuzne_h">Související články</var>
   
   <var id="twitter-title">Sdílet na Twitteru</var>
   <var id="fb-title">Sdílet na Facebooku</var>
@@ -42,6 +41,10 @@
   <var id="strippedkws" fn="stripkws" var="kw" />
   <var id="articlemeta"><div class="meta"><span var="author">n/a</span> na téma <span var="inputvar-strippedkws" fn="inputvar-headertags">n/a</span> z <span fn="inputvar-dateformat" var="ctime">n/a</span></div></var>
 
+  <fn id="stripkws" fn="pregreplace" pattern="^((:?[^,]+,){0,1}[^,]+).*" replacement="doclist-\1" />
+  <var id="realation" fn="makedoclist" var="kw" />
+  
+  
   <fn id="maketags" fn="sequence">
     <call>makeelements</call>
     <call>replacenames</call>
