@@ -101,13 +101,13 @@ Jakmile mistr Rostropovič Stroganov dojedl, nechal si mě zavolat, a začal mě
 
 Mistr Rostropovič byl tak nadšený, že mě pozval ke stolu na panáka jeho osobní vodky. Po několika kolech, mě požádal, abych mu říkal Slavo. Tak ho nazývala jen jeho manželka a jen jeho nejbližší přátelé. On mi začal říkat Míšo, takže z toho vznikla pravá ruská družba.
 
-{id="dalsi"}
+{id="dalsi" var="inputvar-odkazy_h"}
 
-## Příbuzné články
+## n/a
 
 n/a
 
-{var="inputvar-relation@var"}
+{var="inputvar-relation"}
 
 Příbuzné články nejsou k dispozici
 
