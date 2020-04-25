@@ -7,7 +7,7 @@
 
 <!-- generated attribute kw by user_udpatekw.sh on 2020-04-21, do not edit -->
 
-{kw="jídla a jídelní lístky"}
+{kw="gastronomie"}
 
 Se Stroganovem jsem se poprvé setkal v Moskvě kolem roku 1954. Od té doby jsem ho jedl jak v Sovětském svazu, tak i jinde ve světě. Stroganov byl vynalezen dvorním kuchařem carského dvora Sergejem Stroganovem za vlády ruské carevny Kateřiny Veliké.
 
@@ -101,13 +101,13 @@ Jakmile mistr Rostropovič Stroganov dojedl, nechal si mě zavolat, a začal mě
 
 Mistr Rostropovič byl tak nadšený, že mě pozval ke stolu na panáka jeho osobní vodky. Po několika kolech, mě požádal, abych mu říkal Slavo. Tak ho nazývala jen jeho manželka a jen jeho nejbližší přátelé. On mi začal říkat Míšo, takže z toho vznikla pravá ruská družba.
 
-{id="dalsi" var="inputvar-odkazy_h"}
+{id="dalsi" var="inputvar-pribuzne_h"}
 
 ## n/a
 
 n/a
 
-{var="kw"}
+{var="inputvar-relation@var"}
 
 Příbuzné články nejsou k dispozici
 
