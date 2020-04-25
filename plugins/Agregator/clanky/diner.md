@@ -5,7 +5,7 @@
 
 # Restaurace zvaná diner
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-21, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
 
 {kw="koho se to týká, případová studie, Amerika"}
 

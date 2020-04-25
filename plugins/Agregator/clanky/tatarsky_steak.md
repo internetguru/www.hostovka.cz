@@ -5,7 +5,7 @@
 
 # Tatarský steak trochu jinak
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-21, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
