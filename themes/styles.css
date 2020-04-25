@@ -5,22 +5,25 @@
   --global-border-radius: 0.5rem;
   --hdesc-dim-bg: rgba(0,0,0,0.6);
   --footer-service-ico-color: 255, 255, 255;
-  --button-svg-color: #BF360C;
+  --button-svg-color: #FF5722;
   --button-bg: #FFCCBC;
   --button--active-bg: #FFAB91;
   --button--simple-active-bg: #FFAB91;
   --part-vertical-padding: 4rem;
+  --part-odd-bg: #FAFAFA;
 }
 /************************************/
+.part.dalsi .list,
 .part.clanky .list {
   --global-max-width: 80rem;
   --list-multiple-item-margin: 1rem;
 }
+.part.dalsi .list > div,
 .part.clanky .list > div {
   justify-content: center;
 }
 .clanek {
-  max-width: 24em !important;
+  max-width: 22em !important;
   display: flex;
   flex-direction: column;
   position: relative;
@@ -253,11 +256,11 @@ dt label.button {
   display: flex;
   flex-wrap: wrap;
 }
-.clanky .list-wrapper--multiple .moreable-linkwrapper.button-list {
+.moreable-linkwrapper.button-list {
   width: 100%;
   padding: 3em 0 0 0;
 }
-.clanky .list-wrapper--multiple .moreable-linkwrapper .button span {
+.moreable-linkwrapper .button span {
   margin-left: 0.25em;
 }
 /************************************/
@@ -515,12 +518,15 @@ dt label.button {
   max-width: var(--global-max-width);
   margin: var(--global-vertical-margin) auto;
 }
-.agregator #content > .list-wrapper--multiple:last-child {
+.agregator #content .docinfo-wrap {
+  padding-top: var(--part-vertical-padding);
+}
+.agregator #content .docinfo-wrap .list-wrapper--multiple {
   max-width: var(--global-max-width);
-  margin: 0 auto 3em auto;
+  margin: 0 auto;
   padding: 0;
 }
-.agregator #content > .list-wrapper--multiple:last-child .button-list {
+.agregator #content .docinfo-wrap .button-list {
   --list-margin-left: 0.5rem;
   justify-content: left;
 }
@@ -540,13 +546,13 @@ dt label.button {
   min-height: 3.5em;
 }
 .important {
-  background: #FFCDD2;
+  background: #FFE0B2;
 }
 .example {
-  background: #C5CAE9;
+  background: #E8EAF6;
 }
 .important svg {
-  color: #E57373;
+  color: #FB8C00;
 }
 .example svg {
   color: #3F51B5;
