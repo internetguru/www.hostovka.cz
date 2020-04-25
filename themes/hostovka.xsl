@@ -34,14 +34,11 @@
 
 
   <xsl:template match="div[contains(@class, 'dalsi')]">
-    <h2 id="docinfo" class="hide">Informace o článku</h2>
-    <xsl:copy-of select="//ul[@class = 'docinfo nomultiple global button-list']"/>
-    <xsl:copy-of select="//ul[@class = 'docinfo share nomultiple button-list']"/>
+    <xsl:copy-of select="//div[@id='content']/div[@class='list list-wrapper--multiple'][last()]"/>
     <xsl:copy-of select="."/>
   </xsl:template>
   
-  <xsl:template match="//ul[@class = 'docinfo nomultiple global button-list']"/>
-  <xsl:template match="//ul[@class = 'docinfo share nomultiple button-list']"/>
+  <xsl:template match="//div[@id='content']/div[@class='list list-wrapper--multiple'][last()]"/>
   
   <xsl:template match="node()|@*">
     <xsl:copy>
