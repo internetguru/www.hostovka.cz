@@ -41,7 +41,7 @@
   <var id="strippedkws" fn="stripkws" var="kw" />
   <var id="articlemeta"><div class="meta"><span var="author">n/a</span> na téma <span var="inputvar-strippedkws" fn="inputvar-headertags">n/a</span> z <span fn="inputvar-dateformat" var="ctime">n/a</span></div></var>
 
-  <fn id="doclistprefix" fn="pregreplace" pattern="^.*$" replacement="doclist-\0" />
+  <fn id="doclistprefix" fn="pregreplace" pattern="^([^,]+).*" replacement="doclist-\1" />
   <fn id="makedoclist" fn="sequence">
     <call>normalize</call>
     <call>doclistprefix</call>
@@ -58,6 +58,32 @@
   
   <fn id="normalize" fn="replace">
 <!-- [normalize] generated content, do not edit -->
+    <data name="Amerika">amerika</data>
+    <data name="Česká republika">ceska_republika</data>
+    <data name="co-kdy-kde">co-kdy-kde</data>
+    <data name="etika">etika</data>
+    <data name="etnické kuchyně">etnicke_kuchyne</data>
+    <data name="Francie">francie</data>
+    <data name="gastronomie">gastronomie</data>
+    <data name="historka">historka</data>
+    <data name="hygiena a sanitace">hygiena_a_sanitace</data>
+    <data name="jídla a jídelní lístky">jidla_a_jidelni_listky</data>
+    <data name="kdo-kdy-kde">kdo-kdy-kde</data>
+    <data name="koho se to týká">koho_se_to_tyka</data>
+    <data name="konzulting">konzulting</data>
+    <data name="kuchyňské techniky">kuchynske_techniky</data>
+    <data name="nápoje">napoje</data>
+    <data name="o čem se mluví">o_cem_se_mluvi</data>
+    <data name="o čem se nemluví">o_cem_se_nemluvi</data>
+    <data name="omáčka">omacka</data>
+    <data name="pohostinství">pohostinstvi</data>
+    <data name="polévky">polevky</data>
+    <data name="případová studie">pripadova_studie</data>
+    <data name="recept">recept</data>
+    <data name="restaurace a servis">restaurace_a_servis</data>
+    <data name="ubytování">ubytovani</data>
+    <data name="zbožíznalství">zboziznalstvi</data>
+    <data name="životopis">zivotopis</data>
     <data name="Amerika">amerika</data>
     <data name="Česká republika">ceska_republika</data>
     <data name="co-kdy-kde">co-kdy-kde</data>
