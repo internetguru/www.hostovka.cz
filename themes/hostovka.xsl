@@ -34,7 +34,7 @@
 
 
   <xsl:template match="div[contains(@class, 'dalsi')]">
-    <div class="part">
+    <div class="part docinfo-wrap">
       <xsl:copy-of select="//div[@id='content']/div[@class='list list-wrapper--multiple'][last()]"/>
     </div>
     <xsl:copy-of select="."/>
