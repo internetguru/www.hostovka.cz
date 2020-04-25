@@ -580,7 +580,8 @@ li.important, li.example {
   padding: 1rem;
   font-size: 1rem;
   margin: 0;
-  background: #FFECB3;
+  background: #FFF8E1;
   border-radius: var(--global-border-radius);
+  box-shadow: var(--shadow-2)
 }
 /************************************/
