@@ -32,17 +32,16 @@
     </xsl:copy>
   </xsl:template>
 
-<!--
-  <xsl:template match="div[ol[contains(@class, 'otazky')]]">
-    <xsl:copy-of select="."/>
+
+  <xsl:template match="div[contains(@class, 'dalsi')]">
     <h2 id="docinfo" class="hide">Informace o článku</h2>
     <xsl:copy-of select="//ul[@class = 'docinfo nomultiple global']"/>
     <xsl:copy-of select="//ul[@class = 'share nomultiple']"/>
+    <xsl:copy-of select="."/>
   </xsl:template>
   
   <xsl:template match="//ul[@class = 'docinfo nomultiple global']"/>
   <xsl:template match="//ul[@class = 'share nomultiple']"/>
--->
   
   <xsl:template match="node()|@*">
     <xsl:copy>
