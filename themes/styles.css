@@ -576,3 +576,10 @@ li.important, li.example {
   vertical-align: -0.25em;
 }
 /************************************/
+#content .definition-desc {
+  padding: 0.75rem;
+  font-size: 1rem;
+  margin: 0;
+  background: #FFECB3;
+}
+/************************************/
