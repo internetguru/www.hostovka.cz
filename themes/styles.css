@@ -3,12 +3,13 @@
 :root {
   --list-multiple-item-margin: 0.5rem;
   --global-border-radius: 0.5rem;
+  --line-height: 1.5;
   --hdesc-dim-bg: rgba(0,0,0,0.6);
   --footer-service-ico-color: 255, 255, 255;
-  --button-svg-color: #FF5722;
-  --button-bg: #FFCCBC;
-  --button--active-bg: #FFAB91;
-  --button--simple-active-bg: #FFAB91;
+  --button-svg-color: #F57C00;
+  --button-bg: #FFE0B2;
+  --button--active-bg: #FFB74D;
+  --button--simple-active-bg: #FFB74D;
   --part-vertical-padding: 4rem;
   --part-odd-bg: #FAFAFA;
 }
@@ -367,10 +368,12 @@ dt label.button {
   display: none;
 }
 .hdesc--top {
-  --link-color: 255, 255, 255;
-  --link-visited-color: 255, 255, 255;
   color: white;
   padding-top: 7em;
+}
+.hdesc--top a:not(.definition-href) {
+  --link-color: 255, 255, 255;
+  --link-visited-color: 255, 255, 255;
 }
 .hdesc--top .description {
   font-size: 1.2em;
@@ -563,7 +566,7 @@ dt label.button {
 }
 /************************************/
 .important, .example {
-  max-width: calc(var(--global-max-width) - 2rem) !important;
+  max-width: calc(var(--global-max-width) - 12rem) !important;
   list-style: none;
   position: relative;
   padding: 1em;
@@ -594,13 +597,22 @@ li.important, li.example {
   font-size: 1.5em
 }
 /************************************/
-.docinfo.global:first-child {
+.docinfo {
   --button-list-item-margin: 1.5em;
 }
-.docinfo.global:first-child svg {
+.docinfo svg {
   font-size: 1.5em;
   margin-right: 0.25em;
   vertical-align: -0.25em;
+}
+.docinfo.share svg {
+  position: absolute;
+  top: 0;
+  left: -1.5em;
+}
+.docinfo.share li {
+  position: relative;
+  margin-left: 2.5em;
 }
 /************************************/
 #content .definition-desc {
@@ -612,3 +624,7 @@ li.important, li.example {
   box-shadow: var(--shadow-2)
 }
 /************************************/
+li {
+  margin-top: 0.15em;
+  margin-bottom: 0.15em;
+}
