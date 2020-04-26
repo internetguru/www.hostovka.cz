@@ -134,7 +134,7 @@
   padding: 0 0.5rem;
   color: #9e9e9e;
 }
-.part.clanky .clanek .date {
+.clanek .date {
   position: absolute;
   top: 0;
   right: 0;
@@ -597,10 +597,10 @@ li.important, li.example {
   font-size: 1.5em
 }
 /************************************/
-.docinfo {
+.part.docinfo-wrap {
   --button-list-item-margin: 1.5em;
 }
-.docinfo svg {
+.part.docinfo-wrap svg {
   font-size: 1.5em;
   margin-right: 0.25em;
   vertical-align: -0.25em;
