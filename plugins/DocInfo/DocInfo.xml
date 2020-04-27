@@ -11,7 +11,7 @@
       <li><a var="link@href" fn="inputvar-createfblink@href"><span class="fab fa-fw fa-facebook-f">i</span>Sdílet na Facebooku</a></li>
       <li><a var="link@href" fn="inputvar-createtwitterlink@href"><span class="fab fa-fw fa-twitter">i</span>Sdílet na Twitteru</a></li>
       <li><a href="#" var="inputvar-ghedit">n/a</a></li>
-      <li><a href="#content" class="button__print"><span class="fas fa-fw fa-print">i</span></a>Vytisknout</li>
+      <li><a href="#content" class="button__print"><span class="fas fa-fw fa-print">i</span>Vytisknout</a></li>
     </ul>
   </var>
   
