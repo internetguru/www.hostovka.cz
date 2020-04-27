@@ -324,6 +324,9 @@ dt label.button {
 #clanky .tag {
   white-space: nowrap;
 }
+.agregator .part h2 {
+  padding-top: 1.2em;
+}
 /************************************/
 #header {
   --header-bg: 0,0,0,0;
