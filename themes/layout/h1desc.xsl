@@ -42,7 +42,7 @@
           <div class="extra">
             <ul class="button-list">
               <li>
-                <a class="print button button--simple button--img button--img-only" var="inputvar-print-title@title"><span class="fas fa-fw fa-print">i</span></a>
+                <a class="button__print button button--simple button--img button--img-only" var="inputvar-print-title@title"><span class="fas fa-fw fa-print">i</span></a>
               </li>
               <li>
                 <a class="button button--simple button--img button--img-only" var="link@href inputvar-fb-title@title" href="https://www.facebook.com/sharer/sharer.php?u=https://www.hostovka.cz/%s"><span class="fab fa-fw fa-facebook-f">i</span></a>
