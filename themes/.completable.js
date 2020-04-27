@@ -4,9 +4,11 @@
 
     var GlobalConfig = {}
     GlobalConfig.ns = "js-completable"
-    GlobalConfig.inputClass = GlobalConfig.ns + "-input"
-    GlobalConfig.labelClass = GlobalConfig.ns + "-wrapper"
-    GlobalConfig.naviglistClass = GlobalConfig.ns + "-navig"
+    GlobalConfig.inputClass = GlobalConfig.ns + "__input"
+    GlobalConfig.labelClass = GlobalConfig.ns + "__wrapper"
+    GlobalConfig.naviglistClass = GlobalConfig.ns + "__navig"
+    GlobalConfig.itemClass = GlobalConfig.ns + "__item"
+    GlobalConfig.activeItemClass = GlobalConfig.ns + "__item--active"
     GlobalConfig.defaultLabel = "Select file "
 
     var Completable = function () {
@@ -28,7 +30,7 @@
           sendOnEmpty: false,
           expandOnFocus: false,
           appendValue: true,
-          limitItems: 15,
+          itemsLimit: 15,
           decorateListItem: function (itemValue) { return itemValue },
           undecorateListItem: function (itemValue) {
             // remove tags by default
@@ -109,15 +111,11 @@
           clickCount++;
           if (clickCount === 1) {
             singleClickTimer = setTimeout(function() {
-              clickCount = 0
+              clickCount = 0;
             }, 400);
           } else if (clickCount === 2) {
             clearTimeout(singleClickTimer)
             clickCount = 0
-            if (open) {
-              closeNavig()
-              return
-            }
             openNavig()
           }
         },
@@ -195,7 +193,7 @@
           updateSize()
           clearNavig()
           open = true
-          list.classList.add("active")
+          list.classList.add(GlobalConfig.activeItemClass)
           if (updateFiles) {
             update(Config.files)
           }
@@ -210,7 +208,7 @@
           focused = false
           open = false
           list.style.height = "0em"
-          list.classList.remove("active")
+          list.classList.remove(GlobalConfig.activeItemClass)
         },
         scrollParentToChild = function (parent, child) {
           // Where is the parent on page
@@ -231,7 +229,7 @@
           }
         },
         setActiveList = function () {
-          list.childNodes[active].classList.add("active")
+          list.childNodes[active].classList.add(GlobalConfig.activeItemClass)
           scrollParentToChild(list, list.childNodes[active])
           if (!list.childNodes[active].classList.contains(Config.sendFormClass)) {
             // navig.value = list.childNodes[active].dataset.val.replace(/<br>/g, " - ")
@@ -266,7 +264,7 @@
                 openNavig()
               }
               if (typeof list.childNodes[active] !== "undefined") {
-                list.childNodes[active].classList.remove("active")
+                list.childNodes[active].classList.remove(GlobalConfig.activeItemClass)
               }
               if (active == -1) {
                 active = list.childNodes.length
@@ -284,7 +282,7 @@
                 openNavig()
               }
               if (typeof list.childNodes[active] !== "undefined") {
-                list.childNodes[active].classList.remove("active")
+                list.childNodes[active].classList.remove(GlobalConfig.activeItemClass)
               }
               if (active == list.childNodes.length) {
                 active = -1
@@ -303,6 +301,10 @@
           }
         },
         inputText = function (event) {
+          if (key == 46) {
+            clearSelection()
+            return
+          }
           clearNavig()
           openNavig(false)
           var targetNavig = !event ? navig : event.target || event.srcElement
@@ -388,7 +390,6 @@
           if (!value) {
             pattern = false
           }
-          var inserted = 0
           for (var i = 0; i < arr.length; i++) {
             // allways add sendForm item
             if (Config.sendFormText && arr[i].class == Config.sendFormClass) {
@@ -398,7 +399,6 @@
             var r = doFilter(arr[i], value, pattern)
             if (typeof r != "undefined") {
               fs.push(r)
-              inserted++
             }
           }
           // If there is only one result and it is same as input then show all
@@ -451,7 +451,7 @@
         },
         update = function (fs) {
           var first = true
-          for (var i = 0; i < Math.min(fs.length, Config.limitItems); i++) {
+          for (var i = 0; i < Math.min(fs.length, Config.itemsLimit); i++) {
             // selection
             if (first
               && navig.value.length
@@ -470,7 +470,7 @@
             }
             var li = document.createElement("li")
             li.innerHTML = fs[i].val
-            li.className = fs[i].class
+            li.className = GlobalConfig.itemClass + " " + fs[i].class
             li.dataset.path = fs[i].path
             li.dataset.val = fs[i].defaultVal
             li.onmousemove = (function () {
@@ -566,19 +566,6 @@
               origElm: null
             })
           }
-          if (!cssApended) {
-            cssApended = true
-            var css = '/* completable.js */'
-              + '.' + GlobalConfig.inputClass + ' { width: 35em; max-width: 100%; }'
-              + '.' + GlobalConfig.labelClass + ' { position: relative; display: inline-block; }'
-              + '.' + GlobalConfig.naviglistClass + ' { display: block; overflow-y: auto; position: absolute; background: white; z-index: 100; /*width: 25em; max-width: 100%;*/ margin: 0; padding: 0; list-style: none; box-shadow: 0 0.1em 0.1em 0 rgba(0,0,0,.14), 0 0.15em 0.05em -0.1em rgba(0,0,0,.12), 0 0.05em 0.25em 0 rgba(0,0,0,.2); }'
-              + '.' + GlobalConfig.naviglistClass + ' li { margin: 0; padding: 0.25em 0.5em; }'
-              + '.' + GlobalConfig.naviglistClass + ' li:hover { background: #eee; cursor: pointer; }'
-              + '.' + GlobalConfig.naviglistClass + ' li.active { background: #ddd; }'
-              + '.' + GlobalConfig.naviglistClass + ' li.disabled.active,'
-              + '.' + GlobalConfig.naviglistClass + ' ul.navigList li.disabled:hover { background: #bbb; }'
-            IGCMS.appendStyle(css)
-          }
           initStructure()
           window.setTimeout(function () {
             initEvents()
@@ -589,10 +576,10 @@
       }
     }
 
-    CompletableIniter = function () {
+    var CompletableIniter = function () {
       return {
         init: function (cfg) {
-          instance = new Completable
+          var instance = new Completable
           instance.init(cfg)
         }
       }
@@ -602,4 +589,3 @@
     IGCMS.Completable = new CompletableIniter
   })
 })(window)
-
