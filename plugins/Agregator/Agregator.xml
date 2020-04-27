@@ -61,7 +61,7 @@
   <doclist id="hygiena_a_sanitace" kw="hygiena a sanitace" for="stitek" doclist="stitek" />
 <doclist id="hygiena_a_sanitace-print" kw="hygiena a sanitace" doclist="print" />
   <doclist id="jidla_a_jidelni_listky" kw="jídla a jídelní lístky" for="stitek" doclist="stitek" />
-<doclist id="jidla_a_jidelni_listky-print" kw="jídla a jídelní lístky" doclist="print" />
+<doclist id="print-jidla_a_jidelni_listky" kw="jídla a jídelní lístky" doclist="print" />
   <doclist id="kdo-kdy-kde" kw="kdo-kdy-kde" for="stitek" doclist="stitek" />
 <doclist id="kdo-kdy-kde-print" kw="kdo-kdy-kde" doclist="print" />
   <doclist id="koho_se_to_tyka" kw="koho se to týká" for="stitek" doclist="stitek" />
