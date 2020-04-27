@@ -57,6 +57,7 @@
   flex-grow: 1;
 }
 .extra .button-list li:first-child ~ li a,
+.extra .button-list li:first-child ~ li button,
 .extra .button-list li:first-child ~ li span {
   --button-border-radius: 10em;
 }
@@ -117,7 +118,7 @@
   padding: 2em 0 0 0;
 }
 .clanek .desc a.expand-button:before {
-  content: "──────────────────────";
+  content: "â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€";
   color: #F5F5F5;
   position: absolute;
   left: 0;
@@ -628,3 +629,51 @@ li {
   margin-top: 0.15em;
   margin-bottom: 0.15em;
 }
+/************************************/
+@media print {
+  :root {
+    --part-vertical-padding: 1em;
+    --part-odd-bg: none;
+  }
+  #header {
+    display: none;
+  }
+  .hdesc--top {
+    padding: 0 !important;
+  }
+  .print {
+    display: block !important;
+  }
+  .taglist,
+  .filter .button,
+  .linklist-href,
+  .moreable-linkwrapper,
+  .docinfo.share,
+  .hdesc--top .extra {
+    display: none !important;
+  }
+  .clanky .list-wrapper--multiple div,
+  .dalsi .list-wrapper--multiple div {
+    display: block;
+  }
+  .clanky .list-wrapper--multiple dl:not(.taglist),
+  .dalsi .list-wrapper--multiple dl {
+    display: list-item !important;
+    padding: 0;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    max-width: unset !important;
+  }
+  .clanky .list-wrapper--multiple dl > *:not(.print),
+  .dalsi .list-wrapper--multiple dl > *:not(.print) {
+    display: none;
+  }
+  .clanky .list-wrapper--multiple dl .print,
+  .dalsi .list-wrapper--multiple dl .print {
+    padding: 0;
+  }
+  .meta {
+    padding: 0 1em;
+  }
+}
+/************************************/
