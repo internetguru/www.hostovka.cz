@@ -6,6 +6,7 @@
   <jsFile append="body">themes/components/completable-init.js</jsFile>
   <jsFile append="body">themes/moreable.js</jsFile>
   <jsFile append="body">themes/moreableinit.js</jsFile>
+  <jsFile append="body">themes/print.js</jsFile>
   
   <xslt>themes/hostovka.xsl</xslt>
   <xslt>themes/layout/image-group.xsl</xslt>
