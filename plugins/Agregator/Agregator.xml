@@ -30,6 +30,9 @@
       </ul></dd>
     </dl>
   </doclist>
+  <doclist id="print" path="clanky" filter-name="top" wrapper="ul">
+    <li><span var="heading">n/a</span>, <span var="link">n/a</span></li>
+  </doclist>
  
   <doclist id="faq" path="faq" wrapper="dl" class="hideable">
     <dt class="heading" var="heading@var">n/a</dt>
