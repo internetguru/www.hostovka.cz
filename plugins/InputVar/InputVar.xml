@@ -46,7 +46,7 @@
     <call>normalize</call>
     <call>doclistprefix</call>
   </fn>
-  <fn id="doclistprefix2" fn="pregreplace" pattern="^([^,]+).*" replacement="doclist-\1-print" />
+  <fn id="doclistprefix2" fn="pregreplace" pattern="^([^,]+).*" replacement="doclist-print-\1" />
   <fn id="makedoclist2" fn="sequence">
     <call>normalize</call>
     <call>doclistprefix2</call>
