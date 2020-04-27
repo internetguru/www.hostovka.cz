@@ -46,7 +46,13 @@
     <call>normalize</call>
     <call>doclistprefix</call>
   </fn>
+  <fn id="doclistprefix2" fn="pregreplace" pattern="^([^,]+).*" replacement="doclist-\1-print" />
+  <fn id="makedoclist2" fn="sequence">
+    <call>normalize</call>
+    <call>doclistprefix2</call>
+  </fn>
   <var id="relation" fn="makedoclist" var="kw"/>
+  <var id="relationprint" fn="makedoclist2" var="kw"/>
   
   <fn id="maketags" fn="sequence">
     <call>makeelements</call>
