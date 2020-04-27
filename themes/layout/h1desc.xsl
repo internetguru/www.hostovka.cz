@@ -51,7 +51,7 @@
                 <xsl:value-of disable-output-escaping="yes" select="$inputvar-ghedit2"/>
               </li>
               <li>
-                <button class="button__print button button--simple button--img button--img-only eventable" data-eventable-category="print" var="inputvar-print-title@title"><span class="fas fa-fw fa-print">i</span></button>
+                <button class="button__print button button--simple button--img button--img-only" var="inputvar-print-title@title"><span class="fas fa-fw fa-print">i</span></button>
               </li>
               <li>
                 <span class="hideable hideable-hidden">
