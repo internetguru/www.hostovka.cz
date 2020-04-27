@@ -639,6 +639,10 @@ li {
 }
 /************************************/
 @media print {
+  @page {
+    size: auto;
+    margin: 21mm 20mm;
+  }
   :root {
     --part-vertical-padding: 1em;
     --part-odd-bg: none;
