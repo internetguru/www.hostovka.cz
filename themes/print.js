@@ -6,4 +6,11 @@
       event.preventDefault()
     })
   })
+  window.addEventListener("beforeprint", (event) => {
+    try {
+      require("IGCMS.Eventable", () => {
+        IGCMS.Eventable.sendGAEvent("print", "1", "1")
+      })
+    } catch (exception) {}
+  })
 })()
