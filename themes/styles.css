@@ -304,6 +304,7 @@ h2 label.button {
   cursor: pointer;
   margin-left: 1.5em;
   vertical-align: 0.35em;
+  min-width: 7em;
 }
 dt label.button {
   margin-left: 1em;
