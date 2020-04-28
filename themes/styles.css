@@ -408,7 +408,10 @@ dt label.button {
   white-space: nowrap;
 }
 .agregator .part h2 {
-  padding-top: 1.2em;
+  padding-top: 0.5em;
+}
+.agregator .part.dalsi h2 {
+  padding-top: 1.5em;
 }
 /************************************/
 #header {
