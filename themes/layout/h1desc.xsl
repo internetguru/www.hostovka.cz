@@ -42,7 +42,13 @@
           <div class="extra">
             <ul class="button-list">
               <li>
-                <a class="button button--simple button--img button--img-only" var="link@href inputvar-fb-title@title" href="https://www.facebook.com/sharer/sharer.php?u=https://www.hostovka.cz/%s"><span class="fab fa-fw fa-facebook-square">i</span></a>
+                <xsl:element name="a">
+                  <xsl:attribute name="href">https://www.facebook.com/sharer/sharer.php?u=https://www.hostovka.cz/<xsl:value-of disable-output-escaping="yes" select="$link"/></xsl:attribute>
+                  <xsl:attribute name="title"><xsl:value-of disable-output-escaping="yes" select="$inputvar-fb-title"/></xsl:attribute>
+                  <xsl:attribute name="class">button button--simple button--img button--img-only</xsl:attribute>
+                  <xsl:value-of disable-output-escaping="yes" select="$inputvar-fbcomment-ico"/>
+                  <span class="fab fa-fw fa-facebook-square">i</span>
+                </xsl:element>   
               </li>
               <li>
                 <a class="button button--simple button--img button--img-only" var="link@href inputvar-twitter-title@title" href="https://twitter.com/intent/tweet?text=www.hostovka.cz/%s"><span class="fab fa-fw fa-twitter">i</span></a>
