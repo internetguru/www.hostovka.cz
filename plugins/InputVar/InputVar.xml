@@ -39,7 +39,7 @@
     <data name="#clanky">&amp;amp;amp;usp=taglist#clanky</data>
   </fn>
   <var id="strippedkws" fn="stripkws" var="kw" />
-  <var id="articlemeta"><div class="meta"><span var="author">n/a</span> na téma <span var="inputvar-strippedkws" fn="inputvar-headertags">n/a</span> z <span fn="inputvar-dateformat" var="ctime">n/a</span></div></var>
+  <var id="articlemeta"><div class="meta"><span var="author">n/a</span> na téma<span var="inputvar-strippedkws" fn="inputvar-headertags">n/a</span> z <span fn="inputvar-dateformat" var="ctime">n/a</span></div></var>
 
   <fn id="doclistprefix" fn="pregreplace" pattern="^([^,]+).*" replacement="doclist-\1" />
   <fn id="makedoclist" fn="sequence">
