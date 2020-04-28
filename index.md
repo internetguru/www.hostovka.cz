@@ -30,13 +30,9 @@ n/a
 
 n/a
 
-{id="faq" class="hide"}
+<!--     <h id="faq" class="hide">FAQ</h> -->
 
-## FAQ
-
-{class="hide"}
-
-n/a
+<!--     <desc class="hide">n/a</desc> -->
 
  [1]: ?stitek=zivotopis#clanky
  [2]: https://www.steakgrill.cz
