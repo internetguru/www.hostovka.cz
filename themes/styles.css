@@ -379,7 +379,7 @@ dt label.button {
 .hostovka + div dd q {
   color: #BF360C;
 }
-.author dd {
+.author dt + dd {
   font-size: 1.2em;
 }
 .author dd svg {
