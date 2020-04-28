@@ -8,10 +8,10 @@
   --hdesc-dim-bg: rgba(0,0,0,0.6);
   --footer-service-ico-color: 255, 255, 255;
   --button-svg-color: #ffffff;
-  --button--active-bg: #D84315;
-  --button-bg: #BF360C;
+  --button--active-bg: #F4511E;
+  --button-bg: #cc441d;
   --button-color: #fff;
-  --button--simple-active-bg: #BF360C;
+  --button--simple-active-bg: #cc441d;
   --part-vertical-padding: 4rem;
   --part-odd-bg: none;
   --hdesc-top-p-max-width: 38em;
@@ -297,7 +297,7 @@ a.tag[href^="#"] {
 }
 /************************************/ 
 .button {
-  /* font-size: 1rem; */
+  font-size: 1rem;
 }
 dt label.button,
 h2 label.button {
@@ -369,6 +369,7 @@ dt label.button {
   padding-top: 3em;
   padding-bottom: 2em;
   text-align: center;
+  max-width: 33em;
 }
 .hostovka + div dd {
   margin: 0.5em 0;
@@ -429,7 +430,7 @@ dt label.button {
 .search ul {
   --button-svg-color: #ffffff;
   --button--active-bg: #E64A19;
-  --button-bg: #D84315;
+  --button-bg: #cc441d;
   margin: 0;
   padding: 0;
   list-style: none;
