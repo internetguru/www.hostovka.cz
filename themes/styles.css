@@ -65,6 +65,105 @@
   --button--simple-active-bg: #616161;
 }
 .extra .hideable a.hideable-switch:before {
+  -webkit-animation: none 0s ease 0s 1 normal none running;
+          animation: none 0s ease 0s 1 normal none running;
+  -webkit-backface-visibility: visible;
+          backface-visibility: visible;
+  background: transparent none repeat 0 0 / auto auto padding-box border-box scroll;
+  border: medium none currentColor;
+  border-collapse: separate;
+  -o-border-image: none;
+     border-image: none;
+  border-radius: 0;
+  border-spacing: 0;
+  bottom: auto;
+  box-shadow: none;
+  box-sizing: content-box;
+  caption-side: top;
+  clear: none;
+  clip: auto;
+  color: #000;
+  -moz-columns: auto;
+       columns: auto;
+  -moz-column-count: auto;
+       column-count: auto;
+  -moz-column-fill: balance;
+       column-fill: balance;
+  grid-column-gap: normal;
+  -moz-column-gap: normal;
+       column-gap: normal;
+  -moz-column-rule: medium none currentColor;
+       column-rule: medium none currentColor;
+  -moz-column-span: 1;
+       column-span: 1;
+  -moz-column-width: auto;
+       column-width: auto;
+  content: normal;
+  counter-increment: none;
+  counter-reset: none;
+  cursor: auto;
+  direction: ltr;
+  display: inline;
+  empty-cells: show;
+  float: none;
+  font-family: serif;
+  font-size: medium;
+  font-style: normal;
+  font-feature-settings: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  line-height: normal;
+  height: auto;
+  -webkit-hyphens: none;
+      -ms-hyphens: none;
+          hyphens: none;
+  left: auto;
+  letter-spacing: normal;
+  list-style: disc outside none;
+  margin: 0;
+  max-height: none;
+  max-width: none;
+  min-height: 0;
+  min-width: 0;
+  opacity: 1;
+  orphans: 2;
+  outline: medium none invert;
+  overflow: visible;
+  overflow-x: visible;
+  overflow-y: visible;
+  padding: 0;
+  page-break-after: auto;
+  page-break-before: auto;
+  page-break-inside: auto;
+  perspective: none;
+  perspective-origin: 50% 50%;
+  position: static;
+  right: auto;
+  -moz-tab-size: 8;
+    -o-tab-size: 8;
+       tab-size: 8;
+  table-layout: auto;
+  text-align: left;
+  -moz-text-align-last: auto;
+       text-align-last: auto;
+  text-decoration: none;
+  text-indent: 0;
+  text-shadow: none;
+  text-transform: none;
+  top: auto;
+  transform: none;
+  transform-origin: 50% 50% 0;
+  transform-style: flat;
+  transition: none 0s ease 0s;
+  unicode-bidi: normal;
+  vertical-align: baseline;
+  visibility: visible;
+  white-space: normal;
+  widows: 2;
+  width: auto;
+  word-spacing: normal;
+  z-index: auto;
   all: initial;
 }
 .extra .button-list {
@@ -160,7 +259,7 @@
   padding: 2em 0 0 0;
 }
 .clanek .desc a.expand-button:before {
-  content: "──────────────────────";
+  content: "â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€";
   color: #F5F5F5;
   position: absolute;
   left: 0;
@@ -216,11 +315,14 @@
 /************************************/
 .copyable-wrapper {
   max-width: 100vw;
+  width: -webkit-max-content;
+  width: -moz-max-content;
   width: max-content;
   overflow: hidden;
   background: #ffffff;
   display: flex;
   justify-content: space-between;
+  border-radius: 0.5rem;
   border-radius: var(--global-border-radius);
   align-items: center;
 }
@@ -469,6 +571,105 @@ dt label.button {
   margin-right: 1em;
 }
 .hdesc--top .extra .button-list li:first-child {
+  -webkit-animation: none 0s ease 0s 1 normal none running;
+          animation: none 0s ease 0s 1 normal none running;
+  -webkit-backface-visibility: visible;
+          backface-visibility: visible;
+  background: transparent none repeat 0 0 / auto auto padding-box border-box scroll;
+  border: medium none currentColor;
+  border-collapse: separate;
+  -o-border-image: none;
+     border-image: none;
+  border-radius: 0;
+  border-spacing: 0;
+  bottom: auto;
+  box-shadow: none;
+  box-sizing: content-box;
+  caption-side: top;
+  clear: none;
+  clip: auto;
+  color: #000;
+  -moz-columns: auto;
+       columns: auto;
+  -moz-column-count: auto;
+       column-count: auto;
+  -moz-column-fill: balance;
+       column-fill: balance;
+  grid-column-gap: normal;
+  -moz-column-gap: normal;
+       column-gap: normal;
+  -moz-column-rule: medium none currentColor;
+       column-rule: medium none currentColor;
+  -moz-column-span: 1;
+       column-span: 1;
+  -moz-column-width: auto;
+       column-width: auto;
+  content: normal;
+  counter-increment: none;
+  counter-reset: none;
+  cursor: auto;
+  direction: ltr;
+  display: inline;
+  empty-cells: show;
+  float: none;
+  font-family: serif;
+  font-size: medium;
+  font-style: normal;
+  font-feature-settings: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  line-height: normal;
+  height: auto;
+  -webkit-hyphens: none;
+      -ms-hyphens: none;
+          hyphens: none;
+  left: auto;
+  letter-spacing: normal;
+  list-style: disc outside none;
+  margin: 0;
+  max-height: none;
+  max-width: none;
+  min-height: 0;
+  min-width: 0;
+  opacity: 1;
+  orphans: 2;
+  outline: medium none invert;
+  overflow: visible;
+  overflow-x: visible;
+  overflow-y: visible;
+  padding: 0;
+  page-break-after: auto;
+  page-break-before: auto;
+  page-break-inside: auto;
+  perspective: none;
+  perspective-origin: 50% 50%;
+  position: static;
+  right: auto;
+  -moz-tab-size: 8;
+    -o-tab-size: 8;
+       tab-size: 8;
+  table-layout: auto;
+  text-align: left;
+  -moz-text-align-last: auto;
+       text-align-last: auto;
+  text-decoration: none;
+  text-indent: 0;
+  text-shadow: none;
+  text-transform: none;
+  top: auto;
+  transform: none;
+  transform-origin: 50% 50% 0;
+  transform-style: flat;
+  transition: none 0s ease 0s;
+  unicode-bidi: normal;
+  vertical-align: baseline;
+  visibility: visible;
+  white-space: normal;
+  widows: 2;
+  width: auto;
+  word-spacing: normal;
+  z-index: auto;
   all: initial;
   margin: 0.25rem;
 }
@@ -516,6 +717,7 @@ dt label.button {
   max-width: 100%;
   border-radius: 0;
   -webkit-appearance: none;
+  border-radius: 0 0 0 0.5rem;
   border-radius: 0 0 0 var(--global-border-radius);
   border: thin solid rgba(255, 255, 255, 0.32);
   border-top: none;
@@ -554,8 +756,32 @@ dt label.button {
     margin-left: -5em;
   }
 }
+.search ul .js-completable__input::-webkit-input-placeholder {
+  color: #fff;
+}
+.search ul .js-completable__input::-moz-placeholder {
+  color: #fff;
+}
+.search ul .js-completable__input:-ms-input-placeholder {
+  color: #fff;
+}
+.search ul .js-completable__input::-ms-input-placeholder {
+  color: #fff;
+}
 .search ul .js-completable__input::placeholder {
   color: #fff;
+}
+.search ul .js-completable__input:focus::-webkit-input-placeholder {
+  color: #555;
+}
+.search ul .js-completable__input:focus::-moz-placeholder {
+  color: #555;
+}
+.search ul .js-completable__input:focus:-ms-input-placeholder {
+  color: #555;
+}
+.search ul .js-completable__input:focus::-ms-input-placeholder {
+  color: #555;
 }
 .search ul .js-completable__input:focus::placeholder {
   color: #555;
@@ -582,6 +808,7 @@ dt label.button {
 }
 @media (min-width: 82em) {
   .search ul button[type="submit"] {
+    border-radius: 0 0 0.5rem 0;
     border-radius: 0 0 var(--global-border-radius) 0;
   }
 }
@@ -625,14 +852,18 @@ dt label.button {
 }
 /************************************/
 .agregator .hdesc--top + div:not(.section) {
+  padding: 4rem 0;
   padding: var(--part-vertical-padding) 0;
+  background: #FAFAFA;
   background: var(--part-odd-bg);
 }
 .agregator .hdesc--top + div:not(.section) > * {
   max-width: var(--global-max-width);
+  margin: 1.5rem auto;
   margin: var(--global-vertical-margin) auto;
 }
 .agregator #content .docinfo-wrap {
+  padding-top: 4rem;
   padding-top: var(--part-vertical-padding);
 }
 .agregator #content .docinfo-wrap .list-wrapper--multiple {
@@ -647,6 +878,7 @@ dt label.button {
 .agregator .hdesc__desc-wrapper p {
   font-size: 1.2em;
   margin-top: 0;
+  margin-bottom: calc(2.5 * 1.5rem);
   margin-bottom: calc(2.5 * var(--global-vertical-margin));
 }
 /************************************/
@@ -658,6 +890,7 @@ dt label.button {
   padding: 1em;
   padding-left: 3.25rem;
   margin: 0 auto;
+  border-radius: 0.5rem;
   border-radius: var(--global-border-radius);
   min-height: 3.5em;
   box-shadow: var(--shadow-1);
@@ -708,6 +941,7 @@ li.important, li.example {
   margin-left: 2.5em;
 }
 .part.dalsi {
+  background: #FAFAFA;
   background: var(--part-odd-bg)
 }
 /************************************/
@@ -716,6 +950,7 @@ li.important, li.example {
   font-size: 1rem;
   margin: 0;
   background: #FFF8E1;
+  border-radius: 0.5rem;
   border-radius: var(--global-border-radius);
   box-shadow: var(--shadow-2)
 }
