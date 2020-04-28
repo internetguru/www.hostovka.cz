@@ -62,7 +62,7 @@
               </li>
               <li>
                 <xsl:element name="button">
-                  <xsl:attribute name="title"><xsl:value-of disable-output-escaping="yes" select="$inputvar-print-title"/></xsl:attribute>
+                  <xsl:attribute name="title">Vytisknout článek</xsl:attribute>
                   <xsl:attribute name="class">button__print button button--simple button--img button--img-only eventable</xsl:attribute>
                   <xsl:attribute name="data-eventable-category">print-header</xsl:attribute>
                   <span class="fas fa-fw fa-print">i</span>
