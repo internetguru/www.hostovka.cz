@@ -14,7 +14,7 @@ Michael Dobromil Klíma [<span class="fa fa-tag">i</span> životopis {title="zob
 :   Zakladatel konceptu [STEAKGRILL®][2], autor článků na Hostovce. Od poloviny roku 2018 vzniká tento web jako modernizace a revize [původního webu Hostovky][3].
 
 <q>Brzy do postele, brzy vstát, propagovat se a tvrdě pracovat!</q> {class="card__heading"}
-:   Životní krédo Mikea z originálního <q xml:lang="en">Early to bed, early to rise, work like hell and advertise!</q> . 
+:   Životní krédo Mikea z originálního <q xml:lang="en">Early to bed, early to rise, work like hell and advertise!</q> 
 
 {id="clanky" short="Články" class="filter"}
 
