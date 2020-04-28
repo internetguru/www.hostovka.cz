@@ -765,6 +765,9 @@ li {
   margin-left: 0;
   margin-top: 0.5em;
 }
+.footer-menu__item--service svg {
+  top: -0.05em;
+}
 /************************************/
 @media print {
   @page {
