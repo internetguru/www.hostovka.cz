@@ -536,7 +536,7 @@ dt label.button {
   border: 0;
   outline: none;
   padding: 0.5em 1em;
-  background: rgba(255, 255, 255, 0.22);
+  background: rgba(85, 85, 85, 0.59);
   transition: all .1s ease-in-out;
   width: 100%;
   max-width: 100%;
