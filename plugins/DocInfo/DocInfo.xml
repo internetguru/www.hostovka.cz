@@ -8,7 +8,7 @@
     </ul>
     <ul class="docinfo share nomultiple button-list">
       <li><a var="source@href"><span class="fas fa-fw fa-external-link-square">i</span>Článek na původním webu Hostovky</a></li>
-      <li><a var="link@href" fn="inputvar-createfblink@href"><span class="fab fa-fw fa-facebook-f">i</span>Sdílet na Facebooku</a></li>
+      <li><a var="link@href" fn="inputvar-createfblink@href"><span class="fab fa-fw fa-facebook-square">i</span>Sdílet na Facebooku</a></li>
       <li><a var="link@href" fn="inputvar-createtwitterlink@href"><span class="fab fa-fw fa-twitter">i</span>Sdílet na Twitteru</a></li>
       <li><a href="#" var="inputvar-ghedit">n/a</a></li>
       <li><a href="#content" class="button__print eventable" data-eventable-category="print-footer"><span class="fas fa-fw fa-print">i</span>Vytisknout stránku</a></li>
