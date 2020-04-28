@@ -359,6 +359,9 @@ dt label.button {
     /* width: 31em; */
   } 
 }
+.hostovka + div .group {
+  width: 100%;
+}
 .hostovka + div .image-group__wrapper > div:first-child {
   width: 12em;
   text-align: center;
