@@ -9,11 +9,11 @@
 
 Agnès Sorel (1410–1450) byla milenka francouzského krále Karla VII. Měla významný vliv na krále a snažila o snížení bídy a mizérie v zemi. Je po ní pojmenována garnitura (soubor jídel a doplňků) pro drůbež a jateční masa.
 
-Garnitura se skládala z paštiček z drůbeží fáše plněných [sortýrovanými](sotyrovani) žampiony obloženými kulatými plátky uzeného jazyka a lanýži. K drůbeži se navíc přidávala omáčka _Allemande {xml:lang="fr"}_.
+Garnitura se skládala z paštik z drůbeží fáše plněných [sortýrovanými](sotyrovani) žampiony obloženými kulatými plátky uzeného jazyka a lanýži. K drůbeži se navíc přidávala omáčka _Allemande {xml:lang="fr"}_.
 
 ## Omáčka Allemande
 
-_Allemande {xml:lang="fr"}_ znamená ve francouzštině německý, ale je to také název jedné z velmi populárních francouzských omáček. Vytvořil ji známý kuchař [Marie-Antoine Carême](careme). Krémová omáčka světlé barvy mu připomínala blonďaté Němce, proto ji pojmenoval _Allemande {xml:lang="fr"}_.
+_Allemande {xml:lang="fr"}_ znamená ve francouzštině _německý_, ale je to také název jedné z velmi populárních francouzských omáček. Vytvořil ji známý kuchař [Marie-Antoine Carême](careme). Krémová omáčka světlé barvy mu připomínala blonďaté Němce, proto ji pojmenoval _Allemande {xml:lang="fr"}_.
 
 {class="example"}
 
