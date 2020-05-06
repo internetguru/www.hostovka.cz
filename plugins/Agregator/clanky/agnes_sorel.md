@@ -3,7 +3,7 @@
 
 {ctime="2005-07-03" mtime="2020-03-10" id="agnes\_sorel" author="Michael Klíma" short="Agnès Sorel"}
 
-# Přínos Agnès Sorel – garnitura pro drůbež a jateční masa
+# Drůbeží garnitura Agnès Sorel
 
 {kw="restaurace a servis, omáčka"}
 
