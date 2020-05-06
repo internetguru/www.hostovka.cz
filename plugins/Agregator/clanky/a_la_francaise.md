@@ -21,7 +21,7 @@ Jak vyjít s nízkým platem a rostoucími cenami potravin se ve Francii stalo c
 
 Sektor restaurací byl letos ve Francii svědkem třetího nejvyššího počtu bankrotů, hned po stavebním průmyslu. Čas, který Francouzi tráví v restauracích, se také zkracuje. V roce 1975 trval oběd v restauraci průměrně půldruhé hodiny, do roku 2005 se zkrátil na 32 minut.
 
-Jean Guillaume, majitel brasserie Le Bouquet na Haussmannově bulváru v módní podnikatelské osmé čtvrti v Paříži, konstatoval: „Zákazníci, kteří přišli na oběd, si dávali hlavní jídlo, dezert, kávu a láhev vína. Dnes si dají jen hlavní jídlo, vodu z kohoutku. Ze 75 zákazníků, které tu máme dnes v poledne, si nedal víno ani jediný. Je to konec tradice francouzských obědů…” Hned vedle v ulici však byla u pekařství v poledne fronta na bagety z obchodu, až daleko ven na ulici.
+Jean Guillaume, majitel brasserie Le Bouquet na Haussmannově bulváru v módní podnikatelské osmé čtvrti v Paříži, konstatoval: „Zákazníci, kteří přišli na oběd, si dávali hlavní jídlo, dezert, kávu a láhev vína. Dnes si dají jen hlavní jídlo, vodu z kohoutku. Ze 75 zákazníků, které tu máme dnes v poledne, si nedal víno ani jediný. Je to konec tradice francouzských obědů…” Hned vedle v ulici však byla u pekařství v poledne fronta na bagety z obchodu, až daleko na ulici.
 
 ## Porovnání se situací v Česku
 
@@ -33,5 +33,5 @@ Sice nejsem Nostradamus, ale dovoluji si k mým předpovědím přidat další. 
 
 Mohu se pochlubit také dalším prvenstvím, a to je uvedení do provozu mého ojedinělého [konceptu STEAKGRILL®](https://www.steakgrill.cz/), který jsem si prozřetelně nechal registrovat. Dnes po jeho čtyřletém provozu, kdy mnohé restaurace zavírají, jsem velice pyšný na to, že je můj koncept tak úspěšný. Jsem ale hlavně pyšný na [Jardu Honzajka](https://www.steakgrill.cz/#jaroslav_honzajk), který dal tomuto konceptu život.
 
-Mám také další unikátní koncept _Fusion Cuisin by Assemly Cooking™ {xml:lang="en"}_, který se od konceptu STEAKGRILL® podstatně liší. Ten se ukazuje být ideální pro mnohé skomírající české restaurace.
+Mám také další unikátní koncept _Fusion Cuisin by Assemly Cooking™ {xml:lang="en"}_, který se od konceptu STEAKGRILL® podstatně liší. Ukazuje se být ideální pro mnohé skomírající české restaurace.
 
