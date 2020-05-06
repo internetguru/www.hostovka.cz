@@ -5,7 +5,7 @@
 
 # Ekonomika samoobslužných bufetů
 
-Oproti mnohým jiným [cateringovým akcím](catering) jsou [bufety](bufet) plánovány provozovatelem. Potřebné množství jídel a pití, které hosté mohou v dané době na [samoobslužném bufetu](samoobsluzna_restaurace) zkonzumovat má podstatný vliv na ekonomiku neboli na rentabilitu bufetu, na potřebný počet a sortiment jídel a následně i na cenu.
+Oproti mnohým jiným [cateringovým akcím](catering) jsou [bufety](bufet) plánovány provozovatelem. Potřebné množství jídel a pití, které hosté mohou v dané době na [samoobslužném bufetu](samoobsluzna_restaurace) zkonzumovat, má podstatný vliv na ekonomiku neboli na rentabilitu bufetu, na potřebný počet a sortiment jídel a následně i na cenu.
 
 Veškeré tabulky, které byly kdy vypracovány, jsou velice nepřesné. Spotřeba se totiž řídí složením klientely, jejich věkem, ale hlavně jejich sofistikovaností. Spotřeba se ale také řídí i denní dobou, chutí a nekonečnou řadou dalších okolností.
 
@@ -25,7 +25,7 @@ To samé platí o doplňování jídel a nápojů a sklízení použitého nádo
 
 Náklady na mzdy jsou nezanedbatelnou položkou podnikového rozpočtu a jsou do značné míry rovněž ovlivněny [jídelním lístkem](jidelni_listek). Mzdy jsou také ovlivněny sortimentem jídel a následně potřebou personálu, a to jak ve výrobě, tak i v obsluze. 
 
-Mimo přípravy potravin a jejich následného vaření, mohou být všechny ostatní funkce spojené s expedicí a [prezentací jídel](prezentace_jidel) vykonávány méně kvalifikovanými (méně placenými) zaměstnanci. V Americe je to velmi přísně sledováno a zakotveno ve výrobních manuálech.
+Mimo přípravy potravin a jejich následného vaření mohou být všechny ostatní funkce spojené s expedicí a [prezentací jídel](prezentace_jidel) vykonávány méně kvalifikovanými (méně placenými) zaměstnanci. V Americe je to velmi přísně sledováno a zakotveno ve výrobních manuálech.
 
 {class="example"}
 
@@ -34,4 +34,3 @@ V Česku to však málokterý manažer bere v úvahu. V mnoha případech se ser
 Při servisu a pracích v jídelně s každým zaměstnancem navíc, který není plně využit, neúnosně stoupají náklady na mzdy. Nechci zde ale hovořit o nákladech na mzdy kuchařů, protože u těch při přípravě jídel pro bufety produktivita vlastně stoupá.
 
 Je potřeba se zmínit o něčem, o čem se v odborných učebnicích nikdy nemluví. To je skutečnost, že čím více obsluhujících, tím menší podíl spropitného. V tomto ohledu by obsluhující měli mít sami zájem na tom, aby jich nebylo více než je potřeba k zajištění kvalitního servisu.
-
