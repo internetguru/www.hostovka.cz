@@ -23,7 +23,7 @@ Privátní domy se v Anglii zachovaly dodnes, i když se poněkud zmodernizovaly
 
 Tento typ ubytování byl nahrazen _B&B {xml:lang="en"}_. To je zkratka pro _bed and breakfast {xml:lang="en"}_ (postel a snídaně), což poněkud přesněji vyjadřuje jejich poslání.
 
-Ubytování se nabízí v různých kategoriích – od těch nejjednodušších až po ty luxusní, které jsou mnohdy dražší než hotely. Tento typ ubytování je oblíben u rodin z dětmi, protože mají jakési soukromí, narozdíl od typického hotelového života.
+Ubytování se nabízí v různých kategoriích – od těch nejjednodušších až po ty luxusní, které jsou mnohdy dražší než hotely. Tento typ ubytování je oblíben u rodin s dětmi, protože mají jakési soukromí, na rozdíl od typického hotelového života.
 
 Na Havaji, kde je ubytování relativně drahé, je tento způsob oblíbený u pracovníků v hotelích a u sezónních pracovníků. Koncept _B&B {xml:lang="en"}_ nebo ekvivalent britských _boarding houses {xml:lang="en"}_, je rozšířený po celém světě (i když mnohdy pod jiným názvem).
 
@@ -31,9 +31,8 @@ Na Havaji, kde je ubytování relativně drahé, je tento způsob oblíbený u p
 
 Například japonské _minshuku {xml:lang="ja"}_, jsou téměř stejné jako jiné _B&B {xml:lang="en"}_, ale vyznačují se pověstnou až chorobnou péčí o čistotu a hygienu.
 
-Oproti tomu v Česku, v té porevoluční euforii a při nedostatku ubytování hlavně v Praze, lidem prošlo všechno možné. Lidé, kteří nikdy (mimo svého bytu) v žádném _B&B {xml:lang="en"}_ nebyli a nikdy nespali v žádném pořádném hotelu v zahraničí, šířili do světa naši představu o kultuře bydlení.
+Oproti tomu v Česku v té porevoluční euforii a při nedostatku ubytování (hlavně v Praze) lidem prošlo všechno možné. Lidé, kteří nikdy v žádném _B&B {xml:lang="en"}_ nebyli a nikdy nespali v žádném pořádném hotelu v zahraničí, šířili do světa naši představu o kultuře bydlení.
 
 Někteří sice nevěděli, co jejich hostům za jejich peníze patří, ala na druhou stranu na výpadovkách na Německo jste se setkali (a možná ještě setkáte), že za příplatek dostanete k snídani ještě masáž. V takovém případě by měli mít na domě buď červenou lucernu anebo k tomu _B&B {xml:lang="en"}_ přidat ještě jedno B nebo ještě lépe P (pro německý _Puff {xml:lang="de"}_).
 
 Já vím, že by mě hned někdo mohl napadnout, že urážím Čechy, a tak musím dodat, že byly a jsou výjimky. Jako studentům Hostovky jsem vám o tom ale musel napsat.
-
