@@ -21,7 +21,7 @@ Zásada [konceptu STEAGRILL®][1] – dát hostům to, co chtějí a co jim za j
 
 Cena, jak dnes již víme, je součet cen potravin, zboží a materiálu s připočtením ostatních nákladů, případně DPH a marže. Ta obsahuje jednak [goodwill][2], ale i zasloužený zisk.
 
-Toto je ta nejjednodušší (tak říkajíc technická) část tvorby cen, která je podrobně popsána v příslušné části našeho Provozního manuálu. Ale pak přijde umění odhadnout kdo, nebo kolik našich hostů si naše ceny může dovolit a to opakovaně.
+Toto je ta nejjednodušší (tak říkajíc technická) část tvorby cen, která je podrobně popsána v příslušné části našeho Provozního manuálu. Ale pak přijde umění odhadnout kdo nebo kolik našich hostů si naše ceny může dovolit a to opakovaně.
 
 {id="navysovani_cen"}
 
