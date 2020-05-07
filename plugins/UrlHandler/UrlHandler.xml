@@ -36,6 +36,7 @@
   <redir link="buffety_naklady_na_mzdy">ekonomika_bufetu</redir>
   <redir link="bramborove_lupinky">chipsy</redir>
   <redir link="bramborove_lupinky_2">chipsy</redir>
+  <redir link="bonovaci_kniha">ucetnictvi</redir>
   
   <redir parName="s" parValueMatch="stitky/([^/]+)">/?usp=navig&amp;stitek=$1#clanky</redir>
   <redir parName='s' parValueMatch='clanky/([^/]+)'>$1?usp=navig</redir>
