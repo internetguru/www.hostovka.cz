@@ -13,11 +13,13 @@ Nejsem příliš zběhlý v historii účetnictví, ale vím, že účetnictví 
 
 Eminentní zájem mít evidenci o tom, co komu patří, má stát. Ten musí dostat své, ať se děje, co se děje. V Česku se to asi neděje, ale v Americe neodborným managementem, obchodem v obchodě, rozkrádáním, šizením podnikatelů ze strany zaměstnanců a zkreslenými údaji o tržbách uniká státu podle odhadů zhruba asi 18 až 22 % na daních.
 
-Spolu s účetnictvím se vyvíjely techniky kontrol. S technikami kontrol se vyvíjely i techniky, jak tyto kontroly oblafnout. Historicky je známo, že ještě dříve, než se státní orgány naučily, jak nové techniky uplatňovat, tak techniky, jak je oblafnout, byly už používány v plné míře. 
+Spolu s účetnictvím se vyvíjely techniky kontrol. S technikami kontrol se vyvíjely i techniky, jak tyto kontroly oblafnout. Historicky je známo, že ještě dříve, než se státní orgány naučily, jak nové techniky uplatňovat, tak techniky, jak je oblafnout, byly už používány v plné míře.
 
 Již jsem se několikrát zmínil o tom, že nerozumím ničemu jiném než pohostinství. Nepovažuji to ale za handicap. Pohostinství je totiž jeden z oborů národního hospodářství, který se dá jen velmi těžko kontrolovat. To je asi důvod, proč se nikdo z vládních orgánů (nejenom v Česku) kontrolou v pohostinství nechce zabývat. Přitom ale bez kontroly se profesionální pohostinství provozovat nedá. Mohu vám říci, že jsem měl vždy pověst „dobrého hospodáře na svém pracovišti“, a to jen díky tomu, že věřím na kontrolu hospodaření.
 
 Základními údaji při hospodaření v pohostinství jsou nákup a tržby a konečným údajem je čistý zisk. Když se to řekne laicky, tak stát nemá zájem jen na čistém zisku, ze kterého eventuálně, když to dobře dopadne, dostane daň.
+
+{id="druhy_kontrol"}
 
 ## Druhy kontrol
 
@@ -30,7 +32,7 @@ Kontrola v pohostinství je ale v zásadě dvojí:
 
 My bychom se měli zajímat o tu druhou formu kontroly, a to je ta kontrola vnitropodniková.
 
-{short="Bonovací kniha"}
+{id="bonovaci_kniha" short="Bonovací kniha"}
 
 ## Vnitropodniková kontrola a bonovací kniha
 
@@ -41,6 +43,8 @@ Předmětem diskuze je bonovací kniha. No, já nevím, ale pokud finanční ú�
 Já vás to učit nemohu, ale způsobů machinací s bonovací knihou je celá řada. Pochybuji, že je inspektoři finančního úřadu znají všechny. V zásadě je třeba odhadnout, kdo chce koho oblafnout.
 
 Provozovatel pohostinství, který má zájem kontrolovat zaměstnance, má podle jednoho mého přikázání, které říká „nikomu nevěř, a to ani sobě“, musí mít mimo bonovací knihy ještě nějaký další systém kontroly. Jak jsem ale řekl již úvodem, tak přijít s něčím, co skutečně plní funkci kontroly, je velice těžké.
+
+{id="dalsi_kontroly"}
 
 ## Korálkový systém a další typy kontrol
 
@@ -59,3 +63,4 @@ n/a
 {var="inputvar-relation@var"}
 
 Příbuzné články nejsou k dispozici
+
