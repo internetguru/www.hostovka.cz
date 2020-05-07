@@ -1,45 +1,52 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=178.html" data-image="files/preview/clanky/barding_house/general.jpg" data-type="article"}
 
-{ctime="2006-09-22" mtime="2006-09-22" id="boarding\_house" author="Michael Klíma" short="Boarding House" authorid="hostovka/michael\_klima"}
+{ctime="2006-09-22" mtime="2006-09-22" id="boarding\_house" author="Michael Klíma" short="Boarding house"}
 
-# Boarding House
+# Boarding house – ubytování v privátních domech
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+{kw="ubytování, Amerika, Anglie"}
 
-{kw="ubytování"}
+_Boarding house {xml:lang="en"}_ znamená ubytování v privátních domech. Někdy to je na delší dobu, dokonce i na několik let, něco podobného jako u nás podnájem.
 
-Ve Spojených státech se Boarding house kdysi také někdy nazýval "rooming house", nebo také "lodging" house, ale všechny tyto výrazy v tom původním poslání upadají v zapomenutí. "Board" má v angličtině několik významů a jeden z nich je strava, tudíž v tom názvu Boarding house se o ubytování nemluví.
+Ve Spojených státech se _boarding house {xml:lang="en"}_ kdysi nazýval jako _rooming house {xml:lang="en"}_ nebo také jako _lodging house {xml:lang="en"}_. Všechny tyto výrazy v Americe (v původním poslání) ale upadají v zapomenutí. Jsou původem z Anglie, kde se dodnes běžné používají.
 
-Stejné množství významů má slovo "room", a v tomto případě znamená pokoj, neboli ubytování, a to samé platí ale o "lodging" neboli ubytování.
+Koupelny či umývárny byly společné, stejně tak jako toalety. Společné bylo i stravování. což byla ve většině případů jen snídaně, ale mnohdy i oběd nebo i celodenní strava.
 
-Všechny tyto výrazy přišly do Ameriky z Anglie, kde se dodnes běžné používají. Bylo to ubytování v privátních domech a to někdy na delší dobu, někdy i na několik let, něco podobného jako u nás podnájem.
+V Anglii tyto domy většinou spravovaly ženy (anglicky _boarding ladies {xml:lang="en"}_). Ty ve většině případů při delší době ubytování poskytovaly i praní prádla, což bývalo i u nás součástí podnájmu. Podobně se některým našim podnájmům tehdy říkalo „s mýdlem“, což ale mělo i jiný význam, který tady popisovat nemohu.
 
-Koupelny či umývárny byly společné stejně tak jako toalety a společné bylo i stravování což ve většině případů byla jen snídaně, ale mnohdy i oběd nebo i celodenní strava.
+V privátních domech se jedlo ve společné jídelně a jídlo se podávalo na mísách takzvaným rodinným způsobem (anglicky _family style {xml:lang="en"}_). Mísy se pokládaly doprostřed stolu, ze kterých si hosté brali jídla sami. Tento způsob se zachoval v některých amerických restauracích dodnes a používá se většinou při svatbách nebo podobných rodinných příležitostech.
 
-V Anglii tyto domy většinou spravovaly ženy, "boarding ladies" které ve většině případů při delší době ubytování poskytovaly i praní prádla což bývalo i u nás součástí podnájmu, podobně jako někdejší naše podnájmy kterým se tehdy říkalo "s mýdlem", což ale mělo i jiný význam, který tady popisovat nemohu.
+Privátní domy se v Anglii zachovaly dodnes, i když se poněkud zmodernizovaly. Dá se říci, že u některých lidí jsou stále ještě oblíbené. V Americe se dnes pod názvem _bording houses {xml:lang="en"}_ většinou rozumí ubytovny pro studenty, kde je jim mimo ubytování a stravování věnována pečovatelská péče podobně jako na našich internátech.
 
-V boarding houses se jedlo ve společné jídelně a jídlo se podávalo tak zvaným "family style" neboli rodinným způsobem na mísách které se zakládaly doprostřed stolu, ze kterých si hosté (borders) brali jídla sami, kterýžto způsob se zachoval v některých amerických restauracích dodnes a používá se většinou při svatbách nebo podobných rodinných příležitostech.
+{id="ubytovani_bb"}
 
-Boarding houses se v Anglii zachovaly dodnes, i když se poněkud zmodernizovaly, a dá se říci že u některých lidí jsou stále ještě oblíbené.
+## Ubytování B&B
 
-V Americe se dnes pod názvem Bording houses většinou rozumí ubytovny pro studenty kde je jim mimo ubytování a stravování věnována pečovatelská péče podobně jako na našich internátech.
+Tento typ ubytování byl nahrazen _B&B {xml:lang="en"}_. To je zkratka pro _bed and breakfast {xml:lang="en"}_ (postel a snídaně), což poněkud přesněji vyjadřuje jejich poslání.
 
-Pro ostatní boarders ale tento typ ubytování v privátě byl nahrazen B&B, což je zkratka pro Bed and Breakfast (postel a snídaně) což poněkud přesněji vyjadřuje jejich poslání.
+Ubytování se nabízí v různých kategoriích – od těch nejjednodušších až po ty luxusní, které jsou mnohdy dražší než hotely. Tento typ ubytování je oblíben u rodin s dětmi, protože mají jakési soukromí, na rozdíl od typického hotelového života.
 
-Nabízejí se v různých kategoriích od těch nejjednodušších až po ty luxusní, které jsou mnohdy dražší než některé hotely. Jsou oblíbeny u rodin z dětmi, protož mají jakési soukromí od typického hotelového života, nebo u některých bohatých lidí kterým jdou hotely na nervy.
+Na Havaji, kde je ubytování relativně drahé, je tento způsob oblíbený u pracovníků v hotelích a u sezónních pracovníků. Koncept _B&B {xml:lang="en"}_ nebo ekvivalent britských _boarding houses {xml:lang="en"}_, je rozšířený po celém světě (i když mnohdy pod jiným názvem).
 
-Na Hawaji, kde ubytování je relativně drahé, je tento způsob oblíbený u pracovníků v hotelích a u sezónních pracovníků.
+{id="ve_svete"}
 
-Koncept B&B nebo ekvivalent britských boarding houses, je rozšířený po celém světě i když mnohdy pod jiným názvem.
+## Privátní domy ve světě
 
-Například japonské minshuku, jsou téměř stejné jako jiné B&B, ale vyznačují se pověstnou až chorobnou péčí o čistotu a hygienu. Američani si v zásadě na hygienu také potrpí a někteří se sprchují až dvakrát denně, ale v některých zemích kdyby jim to občasné mytí nenařizovalo jejich náboženství by se nemyli třeba i celý rok.
+Například japonské _minshuku {xml:lang="ja"}_, jsou téměř stejné jako jiné _B&B {xml:lang="en"}_, ale vyznačují se pověstnou až chorobnou péčí o čistotu a hygienu.
 
-Proto Japonci jsou při vybírání svých "boarders" dosti opatrní.
+Oproti tomu v Česku v té porevoluční euforii a při nedostatku ubytování (hlavně v Praze) lidem prošlo všechno možné. Lidé, kteří nikdy v žádném _B&B {xml:lang="en"}_ nebyli a nikdy nespali v žádném pořádném hotelu v zahraničí, šířili do světa naši představu o kultuře bydlení.
 
-Oproti tomu v Česku v té porevoluční euforii a při tom nedostatku ubytování hlavně v Praze, lidem prošlo všechno možné. Prostě lidé kteří nikdy mimo svého bytu v žádném B&B, natožpak v nějakém pořádném hotelu v zahraničí nikdy nespali šířili do světa naši představu o kultuře bydlení.
+Někteří sice nevěděli, co jejich hostům za jejich peníze patří, ala na druhou stranu na výpadovkách na Německo jste se setkali (a možná ještě setkáte), že za příplatek dostanete k snídani ještě masáž. V takovém případě by měli mít na domě buď červenou lucernu anebo k tomu _B&B {xml:lang="en"}_ přidat ještě jedno B nebo ještě lépe P (pro německý _Puff {xml:lang="de"}_).
 
-Někteří sice nevěděli co jejich hostům za jejich peníze patří, ala na druhé straně, na výpadovkách na Německo jste se setkali (a možná ještě setkáte) že za příplatek dostanete k té snídani ještě masáž. V takovém případě by měli mít na domě buď červenou lucernu a nebo k tomu B&B přidat ještě jedno B, nebo ještě lépe P (pro německý Puff).
+Já vím, že by mě hned někdo mohl napadnout, že urážím Čechy, a tak musím dodat, že byly a jsou výjimky. Jako studentům Hostovky jsem vám o tom ale musel napsat.
 
-Já vím, že by mně hned někdo mohl napadnout, že urážím Čechy a tak musím hned dodat, že byly a jsou výjimky, ale musel jsem vám jako studentům Hostovky toto napsat.
+{id="dalsi" var="inputvar-pribuzne_h"}
 
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
