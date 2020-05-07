@@ -1,21 +1,23 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=50.html" data-image="/files/preview/clanky/chipsy/general.jpg" data-type="article"}
 
-{ctime="2005-07-29" mtime="2019-11-07" id="bramborove_lupinky" author="Michael Klíma" short="Bramborové lupínky"}
+{ctime="2005-07-29" mtime="2019-11-07" id="chipsy" author="Michael Klíma" short="Chipsy"}
 
-# Bramborové lupínky
+# Bramborové lupínky neboli chipsy
 
 <!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
 
 {kw="jídla a jídelní lístky, brambory, Francie, Amerika"}
 
-Jako světová potravina jsou brambory na druhém místě (hned za rýží). Upravují se asi mnoha různými způsoby. Jedna z nejpopulárnějších forem jsou brambory smažené ve formě [hranolků][1] nebo lupínků (chipsů).
+Jako světová potravina jsou brambory na druhém místě hned za rýží. Upravují se asi mnoha různými způsoby. Jedna z nejpopulárnějších forem jsou brambory smažené ve formě [hranolků][1] nebo lupínků (chipsů).
 
 {class="example"}
 
 Francouzi mají pro některé úpravy brambor specifické názvy, které byly po dlouhá léta používány na mezinárodních lístcích. O těch se ale nechci moc zmiňovat, protože již pomalu upadají v zapomenutí.
 
-Bramborové lupínky Francouzi od nepaměti nazývají _pommes chips {xml:lang="fr"}_. O jejich vynalezení se ale ucházejí i Američané, kteří tvrdí, že bramborové lupínky byly vynalezeny v Americe v létě roku 1853.
+## Vynález chipsů
+
+Bramborové lupínky Francouzi odnepaměti nazývají _pommes chips {xml:lang="fr"}_. O jejich vynalezení se ale ucházejí i Američané, kteří tvrdí, že bramborové lupínky byly vynalezeny v Americe v létě roku 1853.
 
 V té době byl Američan _George Crum {xml:lang="en"}_ byl zaměstnán jako vedoucí v elegantním resortu na jezeře _Moon Lake {xml:lang="en"}_ v _Saratoga Sprinte {xml:lang="en"}_ ve státě _New York {xml:lang="en"}_. Bramborové hranolky tam byly připravovány typickým francouzským způsobem a říkalo se jim _french fried potatoes {xml:lang="en"}_, zkráceně _french fries {xml:lang="en"}_.
 
@@ -25,9 +27,14 @@ Hostovi tyto brambory nesmírně chutnaly a staly se tak velmi populárními pod
 
 Dnes se ale výraz chips stal v Americe synonymem i pro lupínky vyráběné z kukuřičného těsta či z tortilly.
 
+## Výroba chipsů
+
+Shodou okolností jsem před dvěma týdny sledoval asi hodinový pořad o výrobě bramborových lupínků firmy Jays. Bylo to přímo fascinující v porovnání s tím, jak jsem se je učil dělat já, a jak se to dělá dnes.
+
+Ve výrobně pracuje asi 10 lidí, kteří zpracovávají asi 4.000 tun brambor denně, a přitom nemají žádné sklady. Brambory, tak jak je od rána obrovské náklaďáky přiváží na jednu stranu výrobny, se automaticky čistí, perou, loupou, krájí, smaží, balí do balíčků, a pak se na druhém konci výrobny nakládají do prázdných kamionů. Večer poslední zaměstnanec zhasne a je hotovo. _What a country! {xml:lang="en"}_
+
 {class="example"}
 
 Měli jsme u nás doma na návštěvě jednu známou z Německa. Ta pod pojmem _chips {xml:lang="en"}_ rozuměla hranolky kterým, se ale v Americe říká _french fries {xml:lang="en"}_. V Anglii a v Belgii se pod názvem _fish and chips {xml:lang="en"}_ rozumí smažené ryby a bramborové hranolky. V Belgii k hranolkům dostanete majonézu a v Anglii ocet nebo kečup a ve Skotsku dokonce hnědou omáčku.
 
  [1]: /americke_brambory#bramborove_hranolky
-
