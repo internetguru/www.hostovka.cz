@@ -21,7 +21,7 @@ _Hotel del Coronado {xml:lang="en"}_ pravděpodobně mnozí z Vás znáte z popu
 
 Jídla na poledním lístku nejsou kupodivu předražená. Jedli jsme v elegantní jídelně na terase s výhledem na překrásnou pláž, na kterou se _Marylin {xml:lang="en"}_ údajně chodívala slunit. To nemělo chybu.
 
-Nicméně servis zdaleka neodpovídal představám naší známé o servisu, který by odpovídal pověsti tohoto hotelu. Musel jsem ji dát zapravdu a musím se přiznat, jsem svoji nespokojenost vyjádřil v dopise, který jsem vedení hotelu následně poslal.
+Nicméně servis zdaleka neodpovídal představám naší známé o servisu, který by odpovídal pověsti tohoto hotelu. Musel jsem ji dát zapravdu a musím se přiznat, že jsem svoji nespokojenost vyjádřil v dopise, který jsem vedení hotelu následně poslal.
 
 Jídlo bylo v zásadě v pořádku. Naše známá měla velký křehký salát s grilovanými kuřecími prsy, na kterém se v podstatě nedá nic pokazit. Já s manželkou jsme měli [Reuben sendvič][1], který máme oba rádi.
 
@@ -29,7 +29,7 @@ Sendviče byly velké s odpovídající porcí uzeného hovězího. Nebyly sice 
 
 Hlavním důvodem mé nespokojenosti bylo, že nám ke kapučínu, které podávali ve skle, nedali kávové lžičky. Museli jsme o ně požádat a číšník nám nakonec podal polévkové lžíce, což považuji za veliké _faux pas {xml:lang="fr"}_.
 
-Naše známá se také podivovala, že nám k sendvičům nepodali misku s vodou na oplachování prstů, což by v hotelu takového typu by očekávala.
+Naše známá se také podivovala, že nám k sendvičům nepodali misku s vodou na oplachování prstů, což by v hotelu takového typu očekávala.
 
 {id="ruzne\_pristupy\_restauraci"}
 
