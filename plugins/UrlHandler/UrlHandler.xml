@@ -37,7 +37,7 @@
   <redir link="bramborove_lupinky">chipsy</redir>
   <redir link="bramborove_lupinky_2">chipsy</redir>
   <redir link="bonovaci_kniha">ucetnictvi</redir>
-  <redir link="bible">kucharky</redir>
+  <redir link="bible">kucharske_knihy</redir>
   
   <redir parName="s" parValueMatch="stitky/([^/]+)">/?usp=navig&amp;stitek=$1#clanky</redir>
   <redir parName='s' parValueMatch='clanky/([^/]+)'>$1?usp=navig</redir>
