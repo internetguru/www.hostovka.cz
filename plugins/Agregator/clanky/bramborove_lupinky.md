@@ -5,8 +5,6 @@
 
 # Bramborové lupínky neboli chipsy
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
-
 {kw="jídla a jídelní lístky, brambory, Francie, Amerika"}
 
 Jako světová potravina jsou brambory na druhém místě hned za rýží. Upravují se asi mnoha různými způsoby. Jedna z nejpopulárnějších forem jsou brambory smažené ve formě [hranolků][1] nebo lupínků (chipsů).
@@ -14,6 +12,8 @@ Jako světová potravina jsou brambory na druhém místě hned za rýží. Uprav
 {class="example"}
 
 Francouzi mají pro některé úpravy brambor specifické názvy, které byly po dlouhá léta používány na mezinárodních lístcích. O těch se ale nechci moc zmiňovat, protože již pomalu upadají v zapomenutí.
+
+{id="vynalez_chipsu"}
 
 ## Vynález chipsů
 
@@ -27,6 +27,8 @@ Hostovi tyto brambory nesmírně chutnaly a staly se tak velmi populárními pod
 
 Dnes se ale výraz chips stal v Americe synonymem i pro lupínky vyráběné z kukuřičného těsta či z tortilly.
 
+{id="vyroba"}
+
 ## Výroba chipsů
 
 Shodou okolností jsem před dvěma týdny sledoval asi hodinový pořad o výrobě bramborových lupínků firmy Jays. Bylo to přímo fascinující v porovnání s tím, jak jsem se je učil dělat já, a jak se to dělá dnes.
@@ -37,4 +39,15 @@ Ve výrobně pracuje asi 10 lidí, kteří zpracovávají asi 4.000 tun brambor 
 
 Měli jsme u nás doma na návštěvě jednu známou z Německa. Ta pod pojmem _chips {xml:lang="en"}_ rozuměla hranolky kterým, se ale v Americe říká _french fries {xml:lang="en"}_. V Anglii a v Belgii se pod názvem _fish and chips {xml:lang="en"}_ rozumí smažené ryby a bramborové hranolky. V Belgii k hranolkům dostanete majonézu a v Anglii ocet nebo kečup a ve Skotsku dokonce hnědou omáčku.
 
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
  [1]: /americke_brambory#bramborove_hranolky
+
