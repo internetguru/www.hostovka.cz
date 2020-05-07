@@ -5,7 +5,7 @@
 
 # Proč chodí lidé do restaurací
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="restaurace a servis"}
 
@@ -86,4 +86,14 @@ Pointa
 Jednak jsem na té polévce pro ty hajzlíky utratil všechno mé kapsné a s manželkou jsme pak dva dny jedli drůbeží polévku a ještě mi zbylo zeleniny že jsem nevěděl co s tím. Nakonec ale abychom nejedli stále to samé jsem koupil hovězí žebra a udělal jsem z těch žeber téměř to samé s tím rozdílem. že jsem je musel vařit asi 3 hodiny.
 
 Tudíž vidíte, že vařit některá jídla doma se nevyplatí a je lepší si zajít na ně do restaurace kde to máte bez práce, nemáte žádné zbytky a navíc nemusíte mýt nádobí.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

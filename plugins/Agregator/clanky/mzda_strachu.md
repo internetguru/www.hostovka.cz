@@ -5,7 +5,7 @@
 
 # Mzda strachu
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="hygiena a sanitace"}
 
@@ -40,4 +40,14 @@ Měl jsem v té kuchyni ale naši podnikovou hygieničku, která celý den nedě
 Tudíž pokud se týká jídel na letadlech, tak žádné velké obavy pro nedostatečnou hygienu si dělat nemůsíte, ale restaurace jsou úplně jiné zvíře a já vím o čem mluvím, protože jsem v několika restaracích nejenom jedl, ale i pracoval.
 
 Já vím, že každá restaurace si nemůže dovolit podnikovou hygieničku, ale hygiena, bezpečnost a nezávadnost podávaných jídel je tak důležitá a proto každá restaurace by měla mít jednoho zaměstnance který zásady hygieny průběžně sleduje a kontroluje.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

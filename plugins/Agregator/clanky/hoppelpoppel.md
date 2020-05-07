@@ -5,7 +5,7 @@
 
 # Hoppelpoppel – jídlo ze zbytků
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="jídla a jídelní lístky, Německo, recept"}
 
@@ -20,6 +20,16 @@ Kdyby v jídle nebyly knedlíky, tak bych skoro řekl, že se podobá čínském
 Ještě více mě vždy ale mátlo to, že některé restaurace uváděly _Hoppelpoppel {xml:lang="de"}_ mezi vaječnými jídly a některé pražské vinárny a bary ho dokonce uváděly mezi [minutkami][1].
 
 Ať je tomu jakkoliv, přimlouval bych se za to, aby (díky knedlíkům) bylo toto jídlo pasováno na českou národní specialitu. Přál bych si, aby bylo na jídelních lístcích uváděno někde nahoře, aby si ho každý hned všimnul.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: /minutky
 

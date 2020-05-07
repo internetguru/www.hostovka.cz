@@ -5,7 +5,7 @@
 
 # Jak číst jídelní lístky
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="jídla a jídelní lístky, minutky, chuťovky"}
 
@@ -79,6 +79,16 @@ Crudités nemusí být jen zelenina. Například se můžeme setkat také s ovoc
 V západních restauracích _crudités_ na jídelním lístků nenajdete. Většinou vám je přinesou ke stolu bez požádání, na talířích nebo na mísách, spolu s takzvaným dipem. Dip je pikantní omáčka, do které se chuťovky namáčí. Je zvykem, že jsou v ceně jídla, tedy za ně neplatíte nic navíc.
 
 V našich restauracích by se chuťovkám mělo říkat něco jako _chyták_ nebo _nemilé překvapení_. Při placení vám totiž započítají nestydatou cenu za to, že jste si „zobli“ z mandlí, oříšků nebo pistácií, které byly na stole ještě předtím, než jste přišli. Tento ubohý a primitivní způsob šizení hostů je jen ukázkou toho, jak zoufalí někteří naši restauratéři mohou být. Jako studenti Hostovky byste si takové chování neměli nechat líbit.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: /modni_pojmy
 

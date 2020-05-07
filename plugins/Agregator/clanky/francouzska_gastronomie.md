@@ -5,7 +5,7 @@
 
 # Úskalí francouzské gastronomie
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="etnické kuchyně, gastronomie, Francie"}
 
@@ -64,6 +64,16 @@ Paříž, která se vždy mohla chlubit dobrými jídly a gastronomií, se kvůl
 Musíte ale hledat domácí kuchyni _(francouzsky cuisine bourgeoise)_. S tou se dnes ve Francii setkáte už jen v malých městech nebo na vesnicích, kde jsou ceny relativně přijatelné. V těchto místech se také ještě setkáte s pověstnou francouzskou úslužností a pohostinností. Obzvláště když pozdravíte „Bonjour“ – byť s českým přízvukem.
 
 Mimo francouzštiny jsem také dost dlouho studoval francouzskou gastronomii, takže vím, co si objednat a co mohu za své peníze očekávat. Chce to ale také praktickou zkušenost s francouzskými jídly. To ale stojí peníze, a to nemluvím o francouzských vínech nebo o koňaku, který mám tak rád.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: /gastronomove#snob
 

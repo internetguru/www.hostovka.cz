@@ -5,7 +5,7 @@
 
 # Kuchařina
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="gastronomie"}
 
@@ -36,4 +36,14 @@ Jak to vypadá, tak co nevidět každý druhý Čech bude absolventem nějaké h
 Mně také nikdo nemůže namluvit, že těch několik úspěšných a schopných kuchařů v tom 20km gastromickém okruhu kolem Prahy jsou národní standard.
 
 Prostě podle mně největší kuchařské umění je dát lidem to co chtějí.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

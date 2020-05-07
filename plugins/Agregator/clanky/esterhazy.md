@@ -5,7 +5,7 @@
 
 # Roštěná Esterházy
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="jídla a jídelní lístky, Maďarsko, recept"}
 
@@ -31,6 +31,16 @@ Sice jsem se zařekl, že na Hostovce recepty nikdy nikomu dávat nebudu, ale č
   6. Posléze omáčku rozšleháme ponorným mixerem a přidáme do ni na nudličky (julienne) krájenou zeleninu, na nudličky krájené kyselé okurky a kapary.
 
 Roštěnky podáváme na horkém talíři, přelité horkou omáčkou a ozdobené jemně sekanou zelenou petrželkou. Ideální příloha je maďarská tarhonya, vařené široké nudle nebo vařené brambory.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: /gastronomie
  [2]: /a_la

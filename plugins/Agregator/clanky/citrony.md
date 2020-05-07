@@ -5,7 +5,7 @@
 
 # Citróny
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="zbožíznalství"}
 
@@ -102,6 +102,16 @@ Jeden průměrný citrón dá jednu lžíci citrónové kůry (anglicky _lemon z
 {class="example"}
 
 Pokud potřebujete jen několik kapek citrónové šťávy, tak stačí kůru citrónu propíchnout párátkem a šťávu vymačkat. K uchování citrónu pak stačí vpíchnout párátko do stejného otvoru, citrón dát do plastikového sáčku a uložit v lednici.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: https://books.google.com/books?id=2ZtMAQAAMAAJ&lpg=PA3087&ots=yCc1RK3bQK&dq=usa%20lemon%20sizes%20252%2C%20300%2C%20360%2C%20432%2C%20490%2C%20a%20588&hl=cs&pg=PA3087#v=onepage&q=usa%20lemon%20sizes%20252,%20300,%20360,%20432,%20490,%20a%20588
 

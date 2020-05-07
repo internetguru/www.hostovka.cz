@@ -5,7 +5,7 @@
 
 # Rezervace a čekání na stůl
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="restaurace a servis"}
 
@@ -20,4 +20,14 @@ I při dobré organizaci se ale může stát, že rezervovaný stůl není při 
 Pokud čekáte neúměrně dlouho, tak vám v některých restauracích nabídnou drink zdarma, ale moc se na to nespoléhejte.
 
 Jako studenti Hostovky nebo jako sofistikovaní hosté, byste měli vědět, že když se váš stůl uvolní, tak by vám obsluha měla nedopité drinky přenést k novému stolu. To abyste si drinky ke stolu nesli sami nepatří zrovna k nejlepšímu bontonu.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

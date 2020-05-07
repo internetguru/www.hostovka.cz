@@ -5,7 +5,7 @@
 
 # Catering
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="gastronomie, případová studie, banket, catering"}
 
@@ -90,6 +90,16 @@ Velké americké firmy, univerzity nebo organizace na to mají svá speciální 
 Není nic neobvyklého, že organizace, která má pobočky ve všech státech Ameriky, pořádá některé akce na Havaji nebo dokonce v Tichomoří či v Evropě. Některé tyto akce trvají několik dní. Plánovači musí zabezpečit nejenom pracovní program, ale i zábavu a využití volného času, ale hlavně jídlo a občerstvení.
 
 Funkce plánovače je velmi dobře placená. Navíc z ní plynou benefity jako je cestování, pobyt v hotelích či resortech, které musí napřed navštívit – a samozřejmě dobré jídlo a dobré pití. Tato funkce předpokládá dokonalou znalost cateringu a spadá do takzvané kongresové turistiky.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: /sendvice
  [2]: /chucpa

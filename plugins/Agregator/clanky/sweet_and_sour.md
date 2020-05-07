@@ -5,7 +5,7 @@
 
 # Sweet and Sour
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="co-kdy-kde"}
 
@@ -22,4 +22,14 @@ Receptů na čínskou sweet and sour omáčku je nekonečná řada a většina a
 Čínské restaurace v západních zemích podávají krevetky, kuře nebo vepřové maso které se po obalení škrobem usmaží a přelévají sladko-kyselou omáčkou která mnohdy obsahuje ananas, zeleninu jako zelené, červené či žluté papriky, případně cibuli.
 
 Variace sladko-kyselých omáček jsou dnes velmi často používány při barbecuování či grilování.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

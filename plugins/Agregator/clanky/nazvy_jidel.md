@@ -5,7 +5,7 @@
 
 # Názvy jídel
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -66,4 +66,14 @@ Při tvorbě nových názvů musíme však být opatrní a nesmíme je tvořit n
 Totéž by se dalo říci o komolení některých názvů. Například Tatarský biftek, kterému doma můžeme říkat "tatar" bez velkého T, nebo tatarák, by na jídelním lístku měl být uváděn pod jeho klasickým názvem.
 
 Poslání Hostovky je snaha vychovat ze svých studentů sofistikované návštěvníky restauračních provozů jak u nás tak i v zahraničí. Proto se já, a doufám i jiní, pokusíme na těchto stránkách popsat význam některých názvů jídel se kterými se na mezinárodních lístcích studenti Hostovky setkají.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

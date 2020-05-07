@@ -5,7 +5,7 @@
 
 # Stravovací zvyklosti
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="gastronomie"}
 
@@ -210,4 +210,14 @@ Stravovací zvyklosti a chutě jsou důležitým faktorem při tvorbě jídelní
 Při tvorbě restauračních jídelních lístků musíme mít na mysli tradice, chutě a stravovací zvyklosti klientely které jsou naše jídelní lístky určeny.
 
 Stravovací zvyklosti a tradice některých národů a etnických skupin se vyvinuly ze základních surovinových možností. Tyto zvyklosti a tradice byly do značné míry ovlivněny stupněm znalosti správné výživy a případně náboženskými a jinými zásadami. Dnes ale tyto tradice a dokonce i některá náboženská omezení, která v zásadě nebyla nic jiného než jakási gastronomická pravidla, která vycházela z tehdejších znalostí o správné výživě, upadají v zapomenutí.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

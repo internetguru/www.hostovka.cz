@@ -5,7 +5,7 @@
 
 # Důležitost etnických kuchyní
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="etnické kuchyně, jídla a jídelní lístky, Amerika, Česká republika"}
 
@@ -70,6 +70,16 @@ Pokud ale hovořím o české gastronomii, tak nemám na mysli krajové či regi
 Snaha tyto speciality vnutit dnešní restaurační klientele v naději, že zachrání upadající české pohostinství, je něco, čemu se říká _too little and too late {xml:lang="en"}_ (moc málo a moc pozdě). Snaha nalákat zahraniční klientelu programy jako je například _[Czech Specials][3] {xml:lang="en"}_ je velice naivní. 
 
 Věřte mi, že jediné, co v pohostinství platí, je dát lidem to, co chtějí.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: gastronomie
  [2]: francouzska_gastronomie

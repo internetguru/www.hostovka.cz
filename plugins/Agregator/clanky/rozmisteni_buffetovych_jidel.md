@@ -5,7 +5,7 @@
 
 # Psychologie rozmístění buffetových jídel
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="o čem se nemluví"}
 
@@ -16,4 +16,14 @@ Jídla jsou na těchto pultech rozmístěna v souladu s určitými gastronomick�
 Při rozmístění jídel na pultech větší důležitost než znalost gastronomie, je znalost psychologiie. Totiž i když se o tom nemluví, tak na jedné straně chceme dát hostům to co chtěj, ale na druhé straně jenom to co jim za jejich peníze patří, nic více-nice méně.
 
 V důsledku toho dáváme na bufety menší talíře, protože host může navštívit ten pult kolikrát chce tak jako tak, ale těmi malými talíři mu to tak trochu zkomplikujeme. Do popředí dáváme tak zvané fillers, neboli hmotné saláty a laciná jídla, kterými si host zaplní svůj talíř tak, že když dojde k těm dražším jídlům, což jsou většinou drahá masa a ryby, hostu moc místa na talíři již nezbývá.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

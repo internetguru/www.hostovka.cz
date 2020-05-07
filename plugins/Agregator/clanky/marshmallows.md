@@ -5,7 +5,7 @@
 
 # Cukroví marshmallows
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="jídla a jídelní lístky, cukroví, Amerika, recept"}
 
@@ -39,4 +39,14 @@ Pokud byste si chtěli _marshmallows {xml:lang="en"}_ někdy udělat sami, tak v
  12. Kostičky obalíme práškovým cukrem, aby se nelepily.
 
 Pokud se vám _marshmallow {xml:lang="en"}_ povedlo, tak ho můžete dělat na kšeft. Pokud ne, tak to vyhoďte a pokuste se o to znovu.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

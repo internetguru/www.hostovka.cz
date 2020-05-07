@@ -5,7 +5,7 @@
 
 # Služby
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="pohostinství"}
 
@@ -24,4 +24,14 @@ Teď najednou, dvacet let po Sametové revoluci, jsme si ale uvědomili, že s t
 Podle mě to nezachráníme ani dvaceti hvězdami Michelinu a ani někdejšími, kdysi populárními, ale dnes již archaickými jídly v podobě Czech specials. Záchrana českého pohostinství podle mě je v pojetí moderní gastronomie, ve službách, a v umění dát dnešnímu hostu to co chce a co mu za jeho peníze patří včetně dobrých služeb.
 
 Proto bych se přimlouval, aby toto století bylo v českém pohostinství vyhlášeno jako „STOLETÍ SLUŽEB“.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

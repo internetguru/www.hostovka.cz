@@ -5,7 +5,7 @@
 
 # Košer
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="gastronomie"}
 
@@ -58,4 +58,14 @@ Konec té historky je, že jsme měli kulaté banketní stoly pro deset osob, ta
 Pointa té historky je, že nemusíte být Číňané k tomu abyste mohli připravit dobré čínské jídlo, nebo ho mohli jíst. Obdobně také nemusíte být židé abyste připravil podle košer zásad dobré židovské jídlo, ale musíte mít po ruce rabína, aby vám ho požehnal, protože jinak by to jídlo nebylo košer, ale můžete mi věřit, že to jestli to jídlo bylo požehnané nebo ne, na jeho kvalitě nic nemění.
 
 Shalom, M. Klima
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

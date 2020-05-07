@@ -5,7 +5,7 @@
 
 # Gastronomické skupiny na českých lístcích
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -67,4 +67,14 @@ To ale platí i o těch jídel na objednávku. Tam zase když vidíte že jich m
 Také když mají na lístku více než tři polévky, z nichž dvě jsou třeba již při otevření přeškrtnuté, tak vidíte, že něco v té restauraci nehraje. No a když navíc z té obrovské nabídky jídel jsou některá také již přeškrtnutá, tak byste se měli sebrat a jít někam jinam.
 
 No, a teď jako obyčejně mi někdo napíše, že urážímm české kuchaře, ale " Who cares!",já jim prostě nedám pokoj dokud se nepolepší.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

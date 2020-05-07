@@ -5,7 +5,7 @@
 
 # Hořký likér absint
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="nápoje, koktejly"}
 
@@ -34,6 +34,16 @@ Na přelomu století byly však u absintu zjištěny účinky škodlivé lidské
 Švýcarské úřady v roce 1910 prodej absintu rovněž zakázaly. To sice po známém soudním procesu sedláka Jana Landfreje, který údajně pod vlivem absintu zavraždil manželku a své děti.
 
 Ve Spojených státech amerických přišel zákaz prodeje absintu v platnost také v roce 1910. Zde byl absint nahrazen likéry s anýzovou příchutí jako je Ojen vyráběný ve Španělsku, a v roce 1934 likérem Herbsaint, který vyráběl v Novém Orleansu lékárník J. Marion Legendre.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: https://en.wikipedia.org/wiki/Artemisia_absinthium
 

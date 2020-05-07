@@ -5,7 +5,7 @@
 
 # Steaky 2
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -150,4 +150,14 @@ Podobným způsobem připravujeme SIRLOIN STEAK AU POIVRE. Viz. podnikové kalku
 Jedním naším tajemstvím je že několik kuliček zeleného pepře mírně rozmáčkneme, čímž omáčka dostane lepší chuť.
 
 Někdy peppersteaky flambujeme koňakem, ale to také nikomu neříkejte protože to je naše tajemství.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

@@ -5,7 +5,7 @@
 
 # Názvy kuchyňských technik
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="kuchyňské techniky"}
 
@@ -22,4 +22,14 @@ Já jsem již několikrát zdůraznil, že jako hosté nemusíme sice umět vař
 V sekci KUCHYŇSKÉ TECHNIKY se budeme postupně zabývat kuchyňskými technikami se o kterých se na jídelních lístcích běžně mluví, ale které jsou jen velmi zřídka jsou blíže objasněny.
 
 Pokud se s nějakým takovým výrazem na jídelních lístcích setkáte tak uděláte službu nejenom sobě, ale i mnoha jiným návštěvníkům restaurací kteří se stále ještě stydí zeptat pokud něco neví, když nás na takový výraz upozorníte.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

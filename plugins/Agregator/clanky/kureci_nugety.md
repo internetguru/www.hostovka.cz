@@ -5,7 +5,7 @@
 
 # Zrození a vývoj kuřecích nuget
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -60,6 +60,16 @@ V Česku jsou údajně lidé, kterým výrobky McDonald nechutnají nebo jim ned
 Islámské náboženství, podobně jako židovské, nedovoluje mimo plodů moře konzumaci masa zvířat, která nebyla zabita způsobem „zabiha“. S narůstající populaci muslimů není dnes v Americe již žádný problém nalézt řezníka, který prodává halal maso. Restaurací, které by z takového masa vařily, je ale stále ještě málo, a proto muslimové dávají přednost domácí kuchyni a do restaurací chodí jen velmi málo.
 
 Tyto nové halal McNugety dávají tudíž muslimům příležitost ochutnat něco, co není jen dalším rychlým občerstvením. Dostanou se tak k jídlu, které mohou jíst společně se svými nemuslimskými sousedy.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: jednohubky
  [2]: http://2017.hostovka.cz/soubor/28-8-06-1.JPG

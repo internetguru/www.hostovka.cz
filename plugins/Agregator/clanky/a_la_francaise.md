@@ -5,6 +5,8 @@
 
 # Úpadek tradičních francouzských restaurací
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
+
 {kw="o čem se mluví, Francie"}
 
 Jak jsem se dočetl na internetu, tak jen za první tři měsíce v r. 2009 zbankrotovalo ve Francii asi 3.000 restaurací, kaváren a barů. Počet francouzských restaurací, které zbankrotovaly, stoupl ve srovnání s loňskem o 25 % a počet kaváren, které byly nuceny zavřít, stoupl o 56 %.
@@ -25,17 +27,17 @@ Sektor restaurací byl letos ve Francii svědkem třetího nejvyššího počtu 
 
 Jean Guillaume, majitel brasserie Le Bouquet na Haussmannově bulváru v módní podnikatelské osmé čtvrti v Paříži, konstatoval: „Zákazníci, kteří přišli na oběd, si dávali hlavní jídlo, dezert, kávu a láhev vína. Dnes si dají jen hlavní jídlo, vodu z kohoutku. Ze 75 zákazníků, které tu máme dnes v poledne, si nedal víno ani jediný. Je to konec tradice francouzských obědů…” Hned vedle v ulici však byla u pekařství v poledne fronta na bagety z obchodu, až daleko na ulici.
 
-{id="porovnani_s_cr"}
+{id="porovnani\_s\_cr"}
 
 ## Porovnání se situací v Česku
 
-No a vy si myslíte, že je to v Česku jiné? Ve velkých mezinárodních hotelích, ve kterých se na restaurace doplácí, to ještě nějaký čas vydrží. Věřte mi ale, že dnes by to v Česku dlouho nevydržel ani [César Ritz](cesar_ritz) spolu s [Augustem Escoffierem](auguste_escoffier).
+No a vy si myslíte, že je to v Česku jiné? Ve velkých mezinárodních hotelích, ve kterých se na restaurace doplácí, to ještě nějaký čas vydrží. Věřte mi ale, že dnes by to v Česku dlouho nevydržel ani [César Ritz][1] spolu s [Augustem Escoffierem][2].
 
 {class="important"}
 
-Sice nejsem Nostradamus, ale dovoluji si k mým předpovědím přidat další. Pokud Češi nezmění charakter českého pohostinství, a hlavně úroveň odborného školství, tak přes veškeru snahu toho hnutí [slow food](slow_food) vyřadí stále rychleji rostoucí restaurace rychlého občerstvení. Také si nedám upřít právo na prvenství v užívání mého hesla: „Dejte lidem to, co chtějí, a co jim za jejich peníze patří.“ V tom je podle mě tajemství úspěchu provozování dnešního pohostinství.
+Sice nejsem Nostradamus, ale dovoluji si k mým předpovědím přidat další. Pokud Češi nezmění charakter českého pohostinství, a hlavně úroveň odborného školství, tak přes veškeru snahu toho hnutí [slow food][3] vyřadí stále rychleji rostoucí restaurace rychlého občerstvení. Také si nedám upřít právo na prvenství v užívání mého hesla: „Dejte lidem to, co chtějí, a co jim za jejich peníze patří.“ V tom je podle mě tajemství úspěchu provozování dnešního pohostinství.
 
-Mohu se pochlubit také dalším prvenstvím, a to je uvedení do provozu mého ojedinělého [konceptu STEAKGRILL®](https://www.steakgrill.cz/), který jsem si prozřetelně nechal registrovat. Dnes po jeho čtyřletém provozu, kdy mnohé restaurace zavírají, jsem velice pyšný na to, že je můj koncept tak úspěšný. Jsem ale hlavně pyšný na [Jardu Honzajka](https://www.steakgrill.cz/#jaroslav_honzajk), který dal tomuto konceptu život.
+Mohu se pochlubit také dalším prvenstvím, a to je uvedení do provozu mého ojedinělého [konceptu STEAKGRILL®][4], který jsem si prozřetelně nechal registrovat. Dnes po jeho čtyřletém provozu, kdy mnohé restaurace zavírají, jsem velice pyšný na to, že je můj koncept tak úspěšný. Jsem ale hlavně pyšný na [Jardu Honzajka][5], který dal tomuto konceptu život.
 
 Mám také další unikátní koncept _Fusion Cuisin by Assemly Cooking™ {xml:lang="en"}_, který se od konceptu STEAKGRILL® podstatně liší. Ukazuje se být ideální pro mnohé skomírající české restaurace.
 
@@ -48,3 +50,10 @@ n/a
 {var="inputvar-relation@var"}
 
 Příbuzné články nejsou k dispozici
+
+ [1]: cesar_ritz
+ [2]: auguste_escoffier
+ [3]: slow_food
+ [4]: https://www.steakgrill.cz/
+ [5]: https://www.steakgrill.cz/#jaroslav_honzajk
+

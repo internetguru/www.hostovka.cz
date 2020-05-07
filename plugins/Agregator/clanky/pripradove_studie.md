@@ -5,7 +5,7 @@
 
 # Případové studie
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="koho se to týká"}
 
@@ -24,4 +24,14 @@ Pod vlivem jejich přesvědčení: ?všechno vím, všechno znám a nikdo mně n
 Já naopak při mé patnáctileté praxi ve výuce na hotelové škole v Chicagu jsem případové studie studoval a používal velice často, a mohu říci že byly nejúčinnějším prostředkem jak některé osvědčené techniky managementu mým studentům přiblížit.
 
 Hostovka není školou managementu restauračních provozů nicméně vy jako studenti Hostovky byste měli vědět co dělá některé restaurace úspěšnými, a naopak co je důvodem jejich neúspěchu, a proto v mých příspěvcích s případovými studiemi se setkáte velice často.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

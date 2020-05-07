@@ -5,7 +5,7 @@
 
 # Podnikání v pohostinství
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="gastronomie"}
 
@@ -287,4 +287,14 @@ Musitíte ale vědět co hosté nemají rádi, musíte umět dát lidem to co ch
 Bylo to sice velké riziko, ale ukázalo se, že jsem vsadil na správného koně. Můj protežé, Jaroslav Honzajk, majitel velice úspěšného kncetptu STEAGRILL je dnes pro své odborné znalsti již respektovaným odborníkem který je schopen poradit i jiným, tak pokud potřebujete pomoc s vašim případným záměrem, tak se na něj obraťte na: honzajk@honzajk.cz, Tel.: + 420 777 72 73 62
 
 Jarda se ale drží mého kréda, že když Váš záměr má předpoklady úspěchu že Vám ho pomůže přivézt k úspěšnému konci a pokud ne, že Vám ho za pár korun rozmluví.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

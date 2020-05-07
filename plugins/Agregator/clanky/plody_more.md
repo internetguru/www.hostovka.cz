@@ -5,7 +5,7 @@
 
 # Plody moře a krevetky
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="jídla a jídelní lístky, krevetky"}
 
@@ -141,6 +141,16 @@ Tyto ocásky přichází na trh většinou mrazené a po rozmrazení je manipula
 Vařené, loupané a odžilněné ocásky jsou z uvedených druhů nejdražší, protože je v ceně zakalkulováno nejenom jejich loupání ale i vaření. Pro domácnost jsou tyto ocásky zcela neekonomické, protože cenový rozdíl mezi ocásky a neloupanými syrovými ocásky je markantní.
 
 Ve velkých restauračních provozech, kde náklady na mzdy jsou rozhodujícím faktorem, a ve kterých používají vařených ocásků velké množství, se ale vyplatí tyto ocásky kupovat. Představují úsporu času jak čištěním, tak i vařením. Nezanedbatelnou úsporou je i úspora místa pro skladování.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: /krabi
  [2]: /musle

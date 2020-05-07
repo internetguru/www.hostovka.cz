@@ -5,7 +5,7 @@
 
 # Spojení více druhů kuchyní
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="kuchyňské techniky"}
 
@@ -34,6 +34,16 @@ Aniž bych o tom věděl, tak jsem byl vlivu spojené kuchyně vystaven už v do
 Šéfkuchařem hotelu byl pan Florian Zimmermann, jeden z vynikajících českých kuchařů. Na lístku tedy byla jak česká, tak díky Zimmermanově praxi ve Francii i francouzská jídla. Zimmermanna si do Alcronu majitel hotelu pan Alois Krofta přivezl z Ameriky. I když se o tom také oficiálně nemluvilo, tak byla na lístku i jídla jiných různých kuchyní, se kterými se Zimmermann v Americe seznámil.
 
 Já jsem si to tehdy ani neuvědomoval, ale zkušenosti z dob učení byly dalším podnětem ke studiu etnických kuchyní. Krátce po vyučení jsem odešel za praxí do Francie. Později jsem se seznámil s čínskou, vietnamskou a dokonce i s ruskou kuchyní. Ve spojené kuchyni jsem se pak zdokonalil v 70. letech v Americe a používal ji dále po celém světě.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: francouzska_gastronomie
 

@@ -5,7 +5,7 @@
 
 # Gravlax
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="kuchyňské techniky"}
 
@@ -66,4 +66,14 @@ Plátky (20-30 gramů) se pak vějířovitě rozloží na studený talíř, posy
 ## Gravlax omáčka
 
 Gravlax omáčka se připraví z hořčice do které se zvolna přilévá olivový olej jako při přípravě majonézy. Zhoustlá hořčice se rozředí bílým vinným octem na tekutou omáčku, do které se přidá med nebo cukr, sůl, drcený černý pepř a jemně sekaný kopr.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

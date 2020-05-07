@@ -5,7 +5,7 @@
 
 # Ambrosia
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="co-kdy-kde"}
 
@@ -14,4 +14,14 @@
 Nektar znamená „nesmrtelný“ a proto Bozi na Olympu ho pili k zabezpečení nesmrtelnosti. Nektar dával ale sílu a krásu i smrtelným, kteří se jeho pitím bohům přibližovali.
 
 Na jídelních nebo nápojových lístcích musíte být ale opatrní, pod názvem Ambrosie, něteři restauratéři kteří to neznají, nabí všechno možné.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

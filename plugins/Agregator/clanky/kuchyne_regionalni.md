@@ -5,7 +5,7 @@
 
 # Kuchyně regionální
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="gastronomie"}
 
@@ -26,4 +26,14 @@ Můj přítel Tonda Nestával, tehdejší šéfkuchař Čedoku sestavil knížku
 No a teď si představte co díky tomu humbuku s těmi CZECH SPECIALS těc regionálních jídel vzniklo v Česku.
 
 Tudíž pokud si dnes nějakou tu krajovou či regionální specialtu objednáte, tak ale nějaké autentičnosti moc nevěřte. To ale neznamená, že nemůže taková specialita být dobrá či lepší než podle původního receptu.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

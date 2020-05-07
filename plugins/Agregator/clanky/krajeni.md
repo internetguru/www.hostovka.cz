@@ -5,7 +5,7 @@
 
 # Způsoby krájení potravin
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="gastronomie, krájení, Čína"}
 
@@ -96,6 +96,16 @@ Jemně sekané _mo_
 :   Jak již bylo řečeno, čínská kuchyně nepoužívá mlýnky na maso. Kde je v předpisech maso mleté, tam by ho čínský kuchař nasekal nožem. Maso nejdříve nakrájíme na plátky _pchien_ a potom je nožem velmi jemně nasekáme.
 :   Čínští kuchaři doporučují: „Máte-li dojem, že je maso již dosti jemně nasekané, sekejte ho ještě jednou tak dlouho“. {class="important"}
 :   Pro přípravu mletého masa ale neváhejte použít mlýnek na maso nebo mixér.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: hulky
 

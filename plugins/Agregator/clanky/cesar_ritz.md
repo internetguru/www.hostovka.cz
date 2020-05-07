@@ -5,7 +5,7 @@
 
 # Geniální hoteliér César Ritz
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="kdo-kdy-kde, gastronomie, Francie, historie"}
 
@@ -18,6 +18,16 @@ César Ritz si uvědomoval důležitost gastronomie v hotelovém průmyslu natol
 Díky tomuto partnerství vznikly nejluxusnější světové hotely té doby. Také mnoho jiných světových hotelů bylo založeno na reputaci jména Ritz a Carlton a byly také synonymy kvality a vysokého stupně komfortu.
 
 Komfort, luxus, francouzská gastronomie a vysoká kvalita jídla, pití a servisu, bez ohledu na náklady. To byl standard této doby. Dnešní doba je však podstatně jiná.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: gastronomie
  [2]: auguste_escoffier

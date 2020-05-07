@@ -5,7 +5,7 @@
 
 # Pravda na jídelním lístku
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -18,4 +18,14 @@ Tento zákon se vztahuje i na zneužití vžitých nebo obecně chápaných (tř
 Někteří lidé, jako například Muslimové nebo Židé nesmějí totiž jíst vepřové maso z náboženských důvodů. Indové například nesmějí z náboženských důvodů hovězí, a je nesmírné množství lidí kteří se musí vyvarovat určitých potravin ze zdravotních důvodů. Tento zákon také nedovoluje zneužívat výrazy jako „čerstvý“, „domácí“, „zdravotní“, „organicky pěstovaný“, „nezávadný“, „dietní“ a pod. Stejný zákon doporučuje aby restaurace na jídelním lístku pravdivě uváděly způsob přípravy jídel. Tudíž smažená jídla musí být označena jako smažená, u restovaných jídel se doporučuje uvádět jaký tuk byl použit a podobně. Uvádět na jídelním lístku, že některé jídlo bylo upravené na másle, a připravit ho na margarinu, nebo na jiném tuku je přinejmenším šizení.
 
 Někteří restauratéři, kteří uváděli na lístku, že všechny jejich ryby jsou čerstvé, a přitom používali ryby zmrazené, už byli za toto pokutováni. Američtí podnikatelé si ale vědí rady se vším, a proto není již nic neobvyklého, že se dnes na americkém jídelním lístku setkáte z výrazem jako „čerstvě zmrazené“, což je pravdivé označení pokrmů a potravin které byly zmrazené a případně rozmrazené.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

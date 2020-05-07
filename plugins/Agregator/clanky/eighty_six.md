@@ -5,7 +5,7 @@
 
 # Eighty six
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="co-kdy-kde"}
 
@@ -26,4 +26,14 @@ Jedna nejvěrohodnější teorie je: „86“ A Professional expression (slang),
 V restauraci Delmonico v Novém Yorku měli na přelomu století na jídelním lístku 85 jídel. Podle těch čísel byla v kuchyni ta jídla objednávána a když se některé jídlo vyprodalo, jako například hamburger, tak kuchaři napsali na tabuli: „HAMBURGER 86“.
 
 Toto ale není nic nového, protože i v Česku když se například vyprodala svíčková, tak na tabuli se česky napsalo: „Svíčková AUS“.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

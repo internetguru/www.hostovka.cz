@@ -5,7 +5,7 @@
 
 # Pití vína a jeho vliv na zdraví
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="nápoje"}
 
@@ -62,4 +62,14 @@ Tudíž abych to nějak zakončil. Nenechte si od nikoho nic radit, ani ode mě 
 Já sice nekouřím, ale piji víno denně, ale já také denně cvičím a plavu, a moje doktorka mi při mé poslední prohlídce řekla, že když se budu o mé tělo i nadále tak starat, že mi vydrží až do smrti.
 
 Pokud s mými úvahami nesouhlasíte, tak neváhejte vyjádřit Váš názor, případně mi položte Vaše otázky.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

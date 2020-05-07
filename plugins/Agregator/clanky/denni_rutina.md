@@ -5,7 +5,7 @@
 
 # Moje denní rutina
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="životopis"}
 
@@ -39,6 +39,16 @@ Po snídani jdu zpátky k mému sporáku a vařím, až se ze mně kouří. Mám
 Chodím minimálně jednou týdně do místní městské knihovny která je relativně dobře fundovaná. Jinak ale čerpám hodně z mé vlastní multilinguální odborné knihovny, která sice není jako knihovna kterou jsem zanechal v Česku (asi 1700 knih), a kterou pak soudruzi rozkradli, nicméně je pro mě mimo internetu tím největším zdrojem informací.
 
 Příležitostně učím na místní college, abych nevyšel z té rutiny učení, ale v zásadě se dá říci, že mimo doby kdy jsem někde na cestách, což díky našemu válečnému stavu teď není tak často, tak od rána do večera do 22 hodin stále něco „vařím“ nebo „peču“ na mém sporáku. To je při střízlivém odhadu 12 až 14 hodin denně, a jelikož pracuji většinou 7 dnů v týdnu, tak je to zhruba 90 hodin týdně × 52 neboli 4.680 hodin za rok. No, já to ale trochu přeháním, protože někdy si dám po obědě dvacet a někdy jsem také na cestách.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: /files/clanky/michael_klima/obr36.jpg
 

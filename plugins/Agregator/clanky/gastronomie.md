@@ -5,7 +5,7 @@
 
 # Vše o gastronomii
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="gastronomie, historie, jídla a jídelní lístky, Francie, Česká republika"}
 
@@ -104,6 +104,16 @@ Neopodstatněná kritika způsobu používání příborů Američany, kteří s
 {class="example"}
 
 Například to, že některé národy jedí rukama nebo jídelními hůlkami, nic neubírá na kultuře jejich gastronomie.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: gastronomove
  [2]: gastronomove#gurman

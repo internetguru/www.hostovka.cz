@@ -5,7 +5,7 @@
 
 # Příběh hoteliéra Ellswortha M. Statlera
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="kdo-kdy-kde, případová studie"}
 
@@ -58,6 +58,16 @@ Statler pak otevřel podobné hotely v Bostonu, Cleavlandu, Detritu a Novém Yor
 V roce 1950 byl hotelovým průmyslem prohlášen za největšího odborníka, který nejvíce přispěl k rozvoji amerického hotelového průmyslu. 27. října 1954 řetězec Statler koupil _Conrad Hilton {xml:lang="en"}_ za $111.000.000.
 
 Statlerovo vzdělání skončilo ve druhé třídě základní školy, ale pro vzdělání měl veliký respekt. V jeho závěti byly stanoveny podmínky pro založení Stalerovy nadace, jejíž hlavním dědicem se stala _The School of Hotel Administration at Cornell University, Ithaca, N. Y. {xml:lang="en"}_. S velkými částkami bylo pamatováno ale i na jiné školy a university.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: /poslicci#bell_boy
  [2]: /samoobsluzna_restaurace

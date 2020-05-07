@@ -5,7 +5,7 @@
 
 # No Problem
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="případová studie"}
 
@@ -28,4 +28,14 @@ Načež mi Linda řekla něco co nikdy nezapomenu a co jsem vlastně převzal ja
 Linda mi řekla, že to co já vidím jako problémy pro ni vlastně problémy nejsou, protože to je bohužel skutečnost ve které žije.
 
 Linda mi ale řekla, že si uvědomila, že takto dále žít nemůže a proto že na každý zdánlivý problém se musí dívat jako na úkol který musí vyřešit.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

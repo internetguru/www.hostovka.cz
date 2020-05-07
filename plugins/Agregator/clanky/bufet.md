@@ -5,7 +5,7 @@
 
 # Restaurace se samoobslužným bufetem
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="gastronomie"}
 
@@ -34,6 +34,16 @@ Další forma, která v Česku není ještě tak známá, je _all you can eat fa
 Mimoto existuje ještě několik forem pro které (jak někteří čeští odborníci říkají) české pohostinství ještě nedorostlo. A tak vám je podrobně popisovat nebudu. Spočívají např. v tom, že některá potravina se způsobem _all you can eat {xml:lang="en"}_, vedle jídel na jídelním lístku, nabízí v určitý den za zvýhodněnou cenu. Jedná se například o drůbež (zpravidla kuřata nebo krůty) nebo ryby, případně plody moře.
 
 To má z pohledu restauratéra také svá specifika. Vám jako studentům Hostovky mohu jen říci, že až k tomu české pohostinství doroste, tak to bude velice výhodné pro každého, kdo nabízenou potravinu má rád.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: samoobsluzna_restaurace
  [2]: know_how

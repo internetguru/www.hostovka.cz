@@ -5,7 +5,7 @@
 
 # Degustační menu
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="gastronomie"}
 
@@ -34,6 +34,16 @@ Degustační menu nebývá nic levného, protože neplatíte jenom za hodnotu po
 To víte, o obyčejnou vodu si říci nemůžete, to byste se hned deklasovali. Takže, i když vynecháte aperitiv, tak si musíte od místního zkušeného someliéra nechat doporučit vhodné víno, které vás může stát pěti až desetinásobek jídla. Ale to patří k věci, abyste o tom mohli mezi vašimi přáteli mluvit jako o [zážitku][4], což se dnes v Česku nosí.
 
 Nakonec nezapomeňte, že v takové restauraci je téměř povinností dát odpovídající spropitné. _Bon Appétit! {xml:lang="fr"}_
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: gastronomie
  [2]: gastronomove#gurman

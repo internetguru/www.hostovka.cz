@@ -5,7 +5,7 @@
 
 # Flambování a jeho nevýhody
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="gastronomie, Francie, Amerika, recept"}
 
@@ -74,6 +74,16 @@ Osobně jsem banány v této restauraci ochutnal v roce 1971, tedy 20 let po jej
 _Cherries jubilee {xml:lang="en"}_ jsou flambované černé třešně. Podávají se horké a pokud možno ještě hořící, položené na vanilkové zmrzlině. Je to jeden z nejjednodušších flambovaných moučníků, takže jsem je měl na jídelním lístku téměř ve všech restauracích, kde jsem pracoval.
 
 Ovocem ale flambování nekončí, flambovat se mohou i nápoje. Jedním z nejpopulárnějších flambováných nápojů je _Café Brulot {xml:lang="fr"}_. Flambované kávy jsou obzvláště populární v Jižní Americe.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: jevistni_kuchyne#dranzirovani_a_sotyrovani
  [2]: zazitkova_gastonomie

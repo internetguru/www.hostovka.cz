@@ -5,7 +5,7 @@
 
 # Polévka bujabéza a její příprava
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="jídla a jídelní lístky, polévky, recept, ryby, mořské plody, Francie"}
 
@@ -69,4 +69,14 @@ Rouille, nazývaný v češtině jako „růj“, je přídavek, chcete-li dochu
 Růj připravíme tak, že všechny suroviny, mimo vývaru a oleje posekáme v mixéru. Potom pomalu přidáváme vývar, než získáme hladkou pastu. Pastu pak rozředíme olejem, který při pomalé rychlosti přidáváme v tenkém proudu, jako při přípravě majonézy.
 
 Růj přidáváme do polévky asi 10 minut před dohotovením, aby se rozvařila strouhanka. V některých případech růj podáváme zvlášť.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

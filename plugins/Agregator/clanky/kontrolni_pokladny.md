@@ -5,7 +5,7 @@
 
 # Kontrolní pokladny
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="koho se to týká"}
 
@@ -264,4 +264,14 @@ Ve hře jsou ale podle mě jen čtyři hráči: podnikatelé (v tomto případě
 K tomu by se dala ještě přičíst obchodní inspekce která s tím bude také mít plné ruce práce. Tudíž by mně zajímalo, pro koho z těch hráčů je ten odklad zvedení pokladen radostnou zprávou a proč.
 
 Mike
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

@@ -5,7 +5,7 @@
 
 # Význam slova banket a banketní
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="gastronomie, banket"}
 
@@ -64,6 +64,16 @@ Výběr menu pro větší akce je téměř ve všech případech svěřen jedné
 Při větších akcích je hlavním ukazatelem především cena. Dalším požadavkem je uspokojit chutě všech stolujících. Tudíž by vhodné menu měl vybírat někdo, kdo má o jídle a nápojích nějaké znalosti, a kdo ví, která jídla nejspíše uspokojí většinu stolovníků. Volba menu pro lidi, u kterých známe preference v jídlech (příbuzní, rodinní příslušníci, spolupracovníci), není již tak těžký úkol.
 
 Při výběru menu pro stovky a tisíce lidí je nejlepší si nechat poradit od odborníků. To jsou zpravidla pracovníci cateringového oddělení podniku, ve kterém akci objednáváte.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: doplnky
 

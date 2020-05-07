@@ -5,7 +5,7 @@
 
 # Dohotovování jídel u stolu
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="kuchyňské techniky"}
 
@@ -64,4 +64,14 @@ Každá tato polévka chutná jinak, jednak podle použitých surovin, ale hlavn
 U tohoto jídla je nutno opět připomenout, že použití klasického čínského nádobí není podmínkou. Speciální originální čínský hrnec zvaný mongolský kotlík je dosti nákladnou záležitostí. Náčiní, které třeba máme na švýcarské nebo burgundské fondue, které se tomuto způsobu podobá, postačí jen tehdy, je-li nádoba na fondue dostatečně velká. Nicméně starý železňák, který máme ještě po babičce, a elektrický vařič nám udělají stejnou službu.
 
 Toto je z části přidáno z mé kdysi velice populární kniny "Čínská kuchyně" kterou pokud se mi ozve nějaký nakladatel znovu upravím a vydám.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

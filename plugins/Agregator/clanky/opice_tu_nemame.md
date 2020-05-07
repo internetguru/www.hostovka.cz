@@ -5,7 +5,7 @@
 
 # Opice tu nemáme
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="gastronomie"}
 
@@ -124,4 +124,14 @@ Oba tyto segmenty se však musí stejnoměrně rozvíjet k jejich oboustranné s
 Z výše uvedeného případu vidím, že host skutečně nemá vždy pravdu a že studenti hostovky se mají ještě hodně co učit aby věděli kdy pochválit a kdy kritizovat.
 
 Již jsem se zmínil, že Aleš Dočkal je můj ?nepřítel?, nicméně to neubírá nic na tom, že ho považuji za odborníka na svém místě a tak s ním musím na sto procent souhlasit.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

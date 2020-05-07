@@ -5,7 +5,7 @@
 
 # Kuchařské knihy 2
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="co-kdy-kde"}
 
@@ -54,4 +54,14 @@ No, od té doby uplynulo hodně vody a kuchařských knížek, a lepších, jsem
 Tudíž pokud skutečně jste znalci gastronomie a věříte tomu, že by to mohla být vaše bible, tak si ji kupte a pak mi příležitostně můžete napsat, co jste podle té knížky uvařili.
 
 Hodně úspěchů!
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

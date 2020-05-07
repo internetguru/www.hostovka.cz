@@ -5,7 +5,7 @@
 
 # Husté polévky zvané chowdery
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="jídla a jídelní lístky, polévky, recept, Amerika"}
 
@@ -62,6 +62,16 @@ V Americe, což vám asi bude připadat neuvěřitelné, se zbytky jídel nevyha
 Druhý den se zbytky zahřejí na předepsanou teplotu a dají se do výdejní linky jako specialita za sníženou cenu. Menší zbytky ryb se uloží do mrazáku, někdy až do dalšího pátku, kdy se přidávají do rybích polévek.
 
 Přišel jsem s nápadem nashromáždit denní zbytky ryb, na kterých nebylo nic špatného a v pátek z nich udělat krémovou rybí polévku. Aby se lépe prodávala navrhoval jsem jí nazvat jako chowder. Chowder Klíma by asi moc neupoutal, a tak jsme ho nazvali podle jména komplexu jako _Hartford Fisherman's Chowder {xml:lang="en"}_.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: /druhy_polevek
  [2]: /kucharske_tituly#vykonny_sefkuchar

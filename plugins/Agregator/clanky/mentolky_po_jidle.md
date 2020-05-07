@@ -5,7 +5,7 @@
 
 # Bonbóny pro osvěžení dechu po jídle
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="etika"}
 
@@ -33,6 +33,16 @@ Z prodeje _friandises_ a tzv. _after dinner mints_ se stal velký byznys. Stejn�
 Možná že si říkáte, jak je možné, že američtí restauratéři dávají tolik věcí zadarmo? Je to jednoduché. Někteří hosté si bonbónů vezmou plnou hrst, ale někteří si nevezmou vůbec. Nehledě na to, že mentolky podávané zadarmo většinou za moc nestojí.
 
 Osobně jsem podávání mentolek po jídle doporučil Jardovi Honzajkovi, majiteli [restaurace Steakgrill][4]. Jak jsem se ale následně dozvěděl, tak to ocenilo jen velmi málo hostů. Někteří hosté dokonce ani neznali jejich pravý účel.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: http://2017.hostovka.cz/soubor/22-5-06-1.jpg
  [2]: http://2017.hostovka.cz/soubor/22-5-06-2.jpg

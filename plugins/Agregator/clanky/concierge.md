@@ -5,7 +5,7 @@
 
 # Hotelová funkce concierge
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="ubytování, Francie, hotel"}
 
@@ -16,4 +16,14 @@ Při výuce hotelového managementu jsem studentům funkci _concierge {xml:lang=
 {class="example"}
 
 Například když chce host v milánském hotelu lístky do milánské opery, která je třeba na rok dopředu vyprodaná, tak se obrátí se na _concierge {xml:lang="fr"}_. Ten se ho jen zeptá, kolik lístků chce a ve které řadě. Když host chce doprovod, tak se jen ho zeptá, jestli to má být blondýna nebo bruneta, jaké má mít míry přes prsa a jak má být stará. Neboli schopný _concierge {xml:lang="fr"}_ dokáže přinést modré z nebe.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

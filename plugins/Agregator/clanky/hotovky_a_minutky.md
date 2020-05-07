@@ -5,7 +5,7 @@
 
 # Hotovky a minutky v českých restauracích
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="jídla a jídelní lístky, hotovky, minutky, obloha"}
 
@@ -96,6 +96,16 @@ Můj [koncept restaurace][1] hotovky přímo nevylučuje, ale na české poměry
 Na jednoduchém stálém jídelním lístku je výběr populárních specialit mezinárodní kuchyně, včetně sendvičů a salátových talířů připravovaných na objednávku. Hotovky, měnící se každý den, jsou nabízeny jako speciality, vyrábějící se v takovém množství, které se denně prodá.
 
 O tom, že uvedený koncept má předpoklady růstu a popularity svědčí především to, že se většina hostů opakovaně vrací, a že hosté odcházejí spokojení – ať s cenou či kvalitou.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: https://www.steakgrill.cz/o_nas#koncept
 

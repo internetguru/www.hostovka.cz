@@ -5,7 +5,7 @@
 
 # Franchising
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="pohostinství"}
 
@@ -146,4 +146,14 @@ XXX
 Pokud s mými teoriemi v mé úvaze nesouhlasíte, tak neváhejte vyjádřit Váš názor, případně mi položte Vaše otázky. Pokud se týká pohostinství, tak mám odpověď na všechno a pokud ne, tak si prostě něco vymyslím.
 
 KDO SE NEPTÁ, NIC SE NEDOZVÍ!
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

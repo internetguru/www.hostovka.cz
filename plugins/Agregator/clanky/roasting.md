@@ -5,7 +5,7 @@
 
 # Roasting
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="kuchyňské techniky"}
 
@@ -32,4 +32,14 @@ Pokud se týká výrazu pečení na českých jídelních lístcích, tak tam ta
 Například napsat, že něco je pečené na grilu je z odborného hlediska velice nepřesné. Buď je něco pečené a nebo je to grilované. Viz. grilování.
 
 Rozdíl v názvech jednotlivých kuchařských technik buď neznají ani nekteré kuchařské školy a kuchařské instituty. Jeden z nich nebízel kurz grilování a pak na tam na grilu ty potraviny pekli.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

@@ -5,7 +5,7 @@
 
 # Pracovní a firemní obědy
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="restaurace a servis, menu, obědy, podnikání, grazing, jídelní lístek"}
 
@@ -52,6 +52,16 @@ _Grazing {xml:lang="en"}_ se dá do češtiny přeložit jako pastva nebo krmen�
 {class="example"}
 
 Tyto podniky nabízejí jak [sendviče][2], plněné [bramborové slupky][3] nebo [smažená kuřecí křidélka][4].
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: /jidelni_listek
  [2]: /sendvice

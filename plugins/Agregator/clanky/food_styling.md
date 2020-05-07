@@ -5,7 +5,7 @@
 
 # Kuchařské umění zvané food styling
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="gastronomie, Amerika"}
 
@@ -36,6 +36,16 @@ _Food stylist {xml:lang="en"}_ nejčastěji pracuje s fotografem, který se na f
 Současné fotografie jídel jsou zaměřeny na jídlo samotné. Nejsou zaměřené na „zátiší“ nebo na nádobí, na kterém je jídlo prezentované, ledaže je to účel.
 
 Problém v České republice je, že každý chce být mistrem ve všem. Dnešní fotograf, který se specializuje na fotografii jídel, by se měl zaměřit na potřebné techniky fotografování a _food styling {xml:lang="en"}_ by měl přenechat. Obdobně by se _food stylist {xml:lang="en"}_ neměl snažit nahrazovat profesionálního fotografa.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: gastronomie
  [2]: know_how

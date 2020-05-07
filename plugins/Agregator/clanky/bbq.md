@@ -5,7 +5,7 @@
 
 # Barbecue
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="restaurace a servis, grilování, maso, Amerika, Francie"}
 
@@ -34,6 +34,16 @@ _Barbecue {xml:lang="en"}_ omáček existuje nekonečná řada. Obsahují různ�
 Zdrojem tepla při grilování může být dřevěné uhlí, zemní plyn nebo propan butan. Potraviny jsou grilovány na roštu, na rožni nebo v grilovacích kleštích, které musí být naprosto čisté.
 
 Během grilování se do potravin nepíchá. Na _barbecue {xml:lang="en"}_ se grilování změní v okamžiku, kdy potravinu začneme potírat _barbecue {xml:lang="en"}_ omáčkou. Některé potraviny jsou v této omáčce [marinovány][1] krátce před tepelnou úpravou.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: /tenderizovani#marinovani
 

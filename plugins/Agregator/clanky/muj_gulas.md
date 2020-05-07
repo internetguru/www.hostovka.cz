@@ -5,7 +5,7 @@
 
 # Můj guláš
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -44,4 +44,14 @@ Ve čtvrtek většinou ten guláš měl nejenom štych, ale byl již tak trochu 
 No a v pátek se ještě přidáním několika ostrých papriček dal udělat Mexický guláš, atd., ale já vám zase všechna má tajemství vyzradit nemohu a tak vám přesné receptury na ty zbývající dny nedám. Nicméně vidíte, že si můžete poradit.
 
 Tudíž jestli máte nějaké vaše triky kterými by se ta EU dala oblafnout, tak mi je neváhejte napsat.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

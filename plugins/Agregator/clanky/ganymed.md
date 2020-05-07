@@ -5,7 +5,7 @@
 
 # Ganymed
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="kdo-kdy-kde"}
 
@@ -14,4 +14,14 @@ V řecké mytologii Ganymed byl velice pohledný mladík z Troje, kterého Zeus 
 V české historii pohostinství to byl klub číšníků kteří se zabývali výchovou nových adeptů číšnického povolání a osvětou v pohostinství.
 
 Je škoda že tento klub upadl v zapomenutí protože dnes při obrodě českého pohostinství by takový klub mohl mít velký vliv na zlepšení práce našich číšníků.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

@@ -5,7 +5,7 @@
 
 # Pařížské Anna brambory
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="jídla a jídelní lístky, brambory, Francie, recept"}
 
@@ -18,6 +18,16 @@ Mnoho slavných žen jménem Anna bylo určitě poctěno vědomím, že brambory
   3. Následně brambory dozlatova upečeme v horké troubě.
 
 Anna brambory si získaly větší popularitu než měla _Anna Deslions {xml:lang="fr"}_. Její popularita zanikla díky popularitě mnohých dalších kolegyň, ale brambory pojmenované podle ní se ještě dodnes objevují na jídelních lístcích mnoha mezinárodních restauracích. Díky jejich oblibě se připravují i pro [bankety][1] nebo jiné společenské akce.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: /banket
 

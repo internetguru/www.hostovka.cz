@@ -5,7 +5,7 @@
 
 # Označení výrobků ecoflower
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="co-kdy-kde, ekologie, Evropa"}
 
@@ -16,4 +16,14 @@ _Ecoflower {xml:lang="en"}_ je dobrovolný systém vytvořený v roce 1992 evrop
 Podle odhadů expertů, do tohoto systému spadá v Evropě 30 % všech výrobků a služeb. Evropské označení _ecoflower {xml:lang="en"}_ je uznávané ve všech zemích EU, v Norsku, Lucembursku a na Islandu.
 
 _Ecoflower {xml:lang="en"}_ je ušlechtilé hnutí podobné americkému hnutí za organické pěstování potravin. Bohužel se již našly organizace, které si z tohoto označení udělaly lukrativní byznys tím, že „udělují“ povolení toto logo používat.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

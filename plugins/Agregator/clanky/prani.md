@@ -5,7 +5,7 @@
 
 # Přání
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="koho se to týká"}
 
@@ -37,4 +37,14 @@ Je to v angličtině, protože by se to jinak nerýmovalo, ale v zásadě se v t
 Já se na všechna ta náboženství totiž dívám jako na každý jiný byznys. Když se totiž na tom tak zamýšlím, tak vidím, že každému tomu náboženství se nejedná o nic jiného než o peníze, ale já jsem také „money hungry“ a proto si často říkám, že jsem asi ve špatném byznyse. Máte ponětí, kde bych už byl, kdybych všechnu moji energii a umění býval věnoval náboženství spíše než tomu zatracenému pohostinství. Nicméně ale ještě mám nějakou naději. Všechna ta náboženství jak víme, byla totiž vždy založena jedním člověkem, takže to chce jen nějaký nápad, přijít s lepší pastičkou na myši, a mít dobrý a přesvědčivý marketing.
 
 Jak ale víte, tak já jsem liberál a věřím, že každý máme svoji pravdu. Tudíž Vám Vaši víru neberu, ale přeji Vám Happy Hanukah, dlouhý Ramadan, příjemné prožití svátků Vánočních a hodně zdraví a peněz v novém roce. Já totiž věřím také tomu, že je lepší být zdravý a bohatý než chudý a nemocný. K tomu ke všemu ale potřebujete hlavně štěstí. Na Titaniku totiž byli všichni zdraví a bohatí, ale někteří neměli štěstí a tak to nepřežili. Také Vám přeji, aby Vám Váš Bůh splnil všechna Vaše přání a dal Vám vše, co Vám patří.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

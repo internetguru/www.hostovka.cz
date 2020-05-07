@@ -5,7 +5,7 @@
 
 # Druhy smažení
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="kuchyňské techniky"}
 
@@ -20,4 +20,14 @@ U smažení se rozlišuje, v jakém množství tuku byl pokrm usmažen. Zálež�
 U smažení také rozlišujeme, zda byla potravina obalena moukou, trojbalem, nebo jestli byla namočena v těstíčku. Potraviny obalené trojbalem (anglicky _braded_) se dají smažit dokonce i v konvektomatu nebo jenom v troubě, což ovšem nemám moc rád. Výjimku tvoří obalovaná kuřata a ryby, kterým se pak ale říká pečená (anglicky _baked_).
 
 Teď už jako studenti Hostovky víte, že pokud smažení není na jídelním lístku přesně specifikováno, tak byste se na to měli zeptat obsluhy a doufat, že to ví.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

@@ -5,7 +5,7 @@
 
 # Ruská polévka boršč
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="jídla a jídelní lístky, polévky, recept, Rusko"}
 
@@ -131,6 +131,16 @@ Postup přípravy:
   4. Pak přidáme vařené fazole a třený česnek, zahustíme světlou jíškou a dalších 15 minut povaříme.
   5. Nakonec vložíme do polévky připravené knedlíčky, podušenou řepu, na plátky nakrájenou šunku a krátce povaříme.
   6. Smetanu podáváme zvlášť.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: /druhy_polevek
 

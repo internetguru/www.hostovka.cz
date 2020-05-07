@@ -5,7 +5,7 @@
 
 # Co hosté nemají rádi
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="restaurace a servis"}
 
@@ -116,4 +116,14 @@ Když po zanechání spropitného se nikdo nenamáhá za to poděkovat protože 
 Když při odchodu z podniku nikdo hostovi nepoděkuje za návštěvu a ani mu neřekne "Na shledanou".
 
 Takových věcí které hostům vadí je více tudíž pokud víte o dalším nešvaru, tak se neostýchejte o tom na těchto stránkách napsat.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

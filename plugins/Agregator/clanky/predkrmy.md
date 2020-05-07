@@ -5,7 +5,7 @@
 
 # Předkrmy
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -70,4 +70,14 @@ Brušety, které jsou jakousi obdobou našich relativně pracných obložených 
 Jsou to 3 na šikmo ukrojené krajíčky veky které opečeme na oleji dozlatova. Po opečení každý krajíček pomázneme lehce hořčicí (nejlépe kremžskou) a na každý dáme tenký 20-30 gramový plátek pečené vepřové panenky, navrch dáme tenký plátek nivy nebo vašeho oblíbeného sýra, a zapečeme pod salamandrem.
 
 Tyto "piggies", neboli "malá prsátka" se mohou ale podávat jako "tapas".
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

@@ -5,7 +5,7 @@
 
 # Mexický flan
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="etnické kuchyně"}
 
@@ -30,4 +30,14 @@ Suroviny:
   * 8 rozšlehaných vajec,
   * 1 lžička vanilkové tresti,
   * špetka soli.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

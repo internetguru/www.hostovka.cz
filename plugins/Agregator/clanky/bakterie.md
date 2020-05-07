@@ -5,7 +5,7 @@
 
 # Mýtus o bakteriích
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="hygiena a sanitace"}
 
@@ -16,4 +16,14 @@ Když jdou maminky s dětmi na záchod, tak v domnění, že záchody jsou nejv�
 {class="important"}
 
 Málokdo ale ví, že v porovnání se záchodovým prkénkem a se zadky lidí, mají ruce, obličeje, a dokonce i holohlavé hlavy (o těch vlasatých ani nemluvě) bakterií daleko více. Proto mi vadí, když si kuchaři při vaření otírají rukou upocené obličeje, škrábou se všude možně a pak stejnými prsty ochutnávají jídla a olizují si je.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

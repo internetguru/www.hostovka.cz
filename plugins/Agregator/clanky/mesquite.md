@@ -5,7 +5,7 @@
 
 # Mesquite
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="co-kdy-kde"}
 
@@ -16,4 +16,14 @@ Každé dřevo ovšem není pro grilování vhodné. Dřevo se dnes ku grilován
 Popularita grilů na dřevěné uhlí upadá a místo dřevěného uhlí se požívají lávové kameny. V poslední době i tyto grily byly překonány plynovými grily u kterých lávové kaneny byly nahrazeny speciálními rošty a zářiči.
 
 Nicméně i na některých těchto grilech můžeme použít piliny vonných dřev.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

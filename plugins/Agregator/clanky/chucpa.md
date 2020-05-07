@@ -5,7 +5,7 @@
 
 # Význam slova chucpa
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="historka, Izrael, zkušenosti"}
 
@@ -32,4 +32,14 @@ Ačkoli se jazyky učím relativně lehce, tak nejhorší pro mě bylo jejich ps
 Měl jsem ale dobrou učitelku a sice manželku mého přítele, prvního tajemníka izraelského vyslanectví v Praze, Karola Yarona. Tudíž co vám mám povídat. Když jsem se asi po půldruhém roce hebrejštinu jakž takž naučil, tak jsem to místo nakonec nedostal, což tedy byla také chucpa.
 
 Největší chucpa ale byla, když jsem příchodem do Ameriky zjistil, že Američané (tedy i ti gójové) výraz chucpa používají relativně správně.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

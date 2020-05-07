@@ -5,7 +5,7 @@
 
 # Používání klubových talířů
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="restaurace a servis"}
 
@@ -66,6 +66,16 @@ Zapomeňme také na to, jestli se mají sklízet po prvním chodu, tak jak to m�
 Zamysleme se ale nad tím, kolik mimo jejich ceny, půjčovného nebo ztrát opotřebováním, rozbitím nebo rozkradením (mimo Česka a Slovenska, kde se nekrade) stojí manipulace s nimi. Klubové talíře (nebo prkénka) by se totiž měly po každém použití umýt, a mimo doby provozu někde uskladnit. Také by se měly na stůl dávat až před servisem, a ne je nechávat na stolech po několik dní nebo týdnů, což je mnohde běžná praxe. Z pohledu logistiky je s nimi prostě velké množství manipulace.
 
 Závěrem s ohledem na některé mé kritiky musím zdůraznit, že vše, co jsem o klubových talířích napsal, jsou moje osobní poznatky a mé osobní názory.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: http://2017.hostovka.cz/soubor/05-07-07-2.JPG
  [2]: http://2017.hostovka.cz/soubor/05-07-07-3.JPG

@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-image="/files/preview/clanky/michael\_klima\_zivotopis/preview.jpg" data-type="article" data-source="http://2017.hostovka.cz/nekolik-slov-o-mikovi-a-jeho-aktivitach.php" data-top="7"}
 
-{ctime="2008-07-07" id="michael\_klima\_zivotopis" author="Michael Klíma"}
+{ctime="2008-07-07" mtime="2008-07-07" id="michael\_klima\_zivotopis" author="Michael Klíma"}
 
 # Život Mikea Dobromila Klímy
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-27, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="životopis"}
 

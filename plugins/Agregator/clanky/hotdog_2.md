@@ -5,7 +5,7 @@
 
 # Hotdog 2
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="gastronomie"}
 
@@ -248,4 +248,14 @@ Ale mohu vás ubezpečit, že ten druhý student s tím steakhousem si počínal
 Popis hospodaření toho studenta s tím stekhousem vám tady popisovat nebudu, mohu vám ale říci, že bylo o mnoho výnosnější.
 
 Já vím, že vy jako studenti Hostovky nemáte v úmyslu v pohostinství podnikat, ale pokud byste si mně najali jako konzultanta, tak něco takového jako hot dog stand, pokud by to nebylo na takovém místě jako je například Václavák, bych vám za pár šupů stejně asi rozmluvil.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

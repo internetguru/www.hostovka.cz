@@ -5,7 +5,7 @@
 
 # Šizení
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="o čem se mluví"}
 
@@ -114,4 +114,14 @@ No dnes, kdybych měl dvě kozy a soused jenom jednu, tak se bude denně modlit,
 Chtěl bych proto závěrem udělat prohlášení:
 
 Pokud v některé té restauaci nedostanete za své peníze to co vám patří, nebo pokud mi prokážete, že jste byli ošizeni, tak vám Vaši útratu já osoně vrátím.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

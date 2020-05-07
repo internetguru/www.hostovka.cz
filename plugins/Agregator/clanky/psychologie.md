@@ -5,7 +5,7 @@
 
 # Psychologie
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="gastronomie"}
 
@@ -58,4 +58,14 @@ Prostě vše dopadlo jak pan Švimberský předpovídal včetně toho tuzéru, a
 P.S, Ta jídla a ty nápoje nebyla možná přesně taková jak je popisuji, protože po tolika letech si to přesně nepamauji, ale jinak ta historka je pravdivá.
 
 Michael Klima
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

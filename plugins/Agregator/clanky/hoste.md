@@ -5,7 +5,7 @@
 
 # Hosté
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="gastronomie"}
 
@@ -88,4 +88,14 @@ Pivovarský klub
 Já považuji Aleše za odborníka a souhlasím s každým slovem které napsal a chci abyste se povšimli toho že Aleš napsal: "Nejsem jenom hospodský, ale i host" a vtom, pokud to nevíte, je tajemství jeho odbornosti.
 
 M. Klima
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

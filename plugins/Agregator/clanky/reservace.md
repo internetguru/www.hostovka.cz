@@ -5,7 +5,7 @@
 
 # Reservace
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="restaurace a servis"}
 
@@ -62,4 +62,14 @@ Se špatnou zkušeností s pohostistinstvím měl i president AKC ČR pan Mirosl
 Já jsem kdysi sepsal několik bodů o tom co hosté nemají rái a tak teď, až mi opadne ten fofr, musím ještě sepsat vše na co by si hosté měli stěžovat, ale někdo by mi musel poradit kde to pak uveřejnit aby to oslovilo široký okruh návštěnvíků restaurací.
 
 P.S. Jsem rád, že jsem se dozvěděl co to je ten kantráč.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

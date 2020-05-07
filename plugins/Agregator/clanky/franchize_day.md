@@ -5,7 +5,7 @@
 
 # Franchize Day
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="pohostinství"}
 
@@ -150,4 +150,14 @@ No, jak už mně ale Vítku znáš, tak víš, že je málo věcí které v tom 
 Závěrem jenom tolik, že jsem autorem dvou velice inovativních a do jisté míry unikátních restauračních konceptů, z nichž jeden již po čtyři roky velice dobře funguje.
 
 Uvažoval jsem to nabídnout jako franchizu, ale po všech těch horror stories, které jsem slyšel jak od některých českých franchisorů, tak i franchísantů, jsem si to rozmyslel. Tím bych vás ale od franchizingu v pohostinství nechtěl zrazovat, ba naopak. Opravte mně, pokud se mýlím, ale já si myslím, že obzvláště od těch amerických franchizingů, se české pohostinství hodně naučilo, a že nakonec je to jediný způsob jak to upadající české pohostinství zachránit.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

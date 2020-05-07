@@ -5,7 +5,7 @@
 
 # Tequila
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="nápoje"}
 
@@ -73,6 +73,16 @@ Během jednoho takového setkání v době vánoc, Margarita udělala její drin
 Ukázalo se, že Cointreau dalo drinku tu správnou sladkost a že tequila, bez pochyby ten nejpopulárnější nápoj v Mexiku, se velmi dobře snoubila s Cointrem.
 
 Netrvalo dlouho, a Margarita se objevila na nápojovém lístku restaurace na letišti v Acapulcu, a pak už to šlo jako lavina, a dnes se Margarita připravuje z tequily a Cointreau v různých poměrech a presentacích.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: http://2017.hostovka.cz/soubor/03-11-06-2.JPG
 

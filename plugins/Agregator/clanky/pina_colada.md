@@ -5,7 +5,7 @@
 
 # Piña Colada
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="nápoje"}
 
@@ -76,4 +76,14 @@ Jak vidíte, tak fantazii se meze nekladou, tudíž v Česku se co nevidět setk
 Se švestkami, lépe řečeno se slivovicí musíte ale být opatrní.
 
 V současné době totiž v Americe probíhají debaty o vzniku člověka, ale žádný neví že člověk je vlastně ze švestky. Ze švestky je totiž slivovice, ze slivovice je opice, a z opice je člověk.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

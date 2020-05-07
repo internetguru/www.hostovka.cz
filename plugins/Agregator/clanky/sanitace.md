@@ -5,7 +5,7 @@
 
 # Sanitace
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="hygiena a sanitace"}
 
@@ -88,4 +88,14 @@ Nemyslím si, že studenti Hostovky by měli převzít kontrolu všech těch kri
 Já osobně si myslím, že jedním řešením by bylo, kdyby se všechna jídla připravovala před zraky hostů v tak zvaných "Stage Kitchens" neboli jevištních kuchyních. Tato myšlenka není nic nového a takové restaurace existují již i u nás, ale zatím je to málo a trochu pozdě.
 
 Čistota takových restaurací se dá vizuálně kontrolovat i samotnými hosty a to by měl být trend tohoto století.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

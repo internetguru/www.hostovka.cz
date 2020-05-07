@@ -5,7 +5,7 @@
 
 # Historka o novém koření
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="kdo-kdy-kde, koření, historka"}
 
@@ -22,4 +22,14 @@ Asi po deseti minutách jsem se vrátil k Jessusovi, který měl na svém pracov
 Vypadalo to, jako když chce Jessus tu skřínku vyčistit, a tak jsem se ho zeptal, co to vlastně dělá. Jessus mi řekl, abych neměl starosti, že přeci umí číst a že mám v tom receptu jasně napsáno, že se k jeho přípravě má použít _allspice_.
 
 Nu, ukázalo se, že Jessusova angličtina přeci jenom nebyla tak dobrá. Jinak by věděl, že _allspice_, psáno dohromady, je nové koření. Všechno koření by se muselo napsat zvlášť jako _all spice_.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

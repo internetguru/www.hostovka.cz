@@ -5,7 +5,7 @@
 
 # Výraz à la na českých lístcích
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="gastronomie, Česká republika, Francie, jídla a jídelní lístky, historka"}
 
@@ -76,6 +76,16 @@ Kuchaři připravující jídla tímto způsobem byli v Česku označováni jako
 Pro mě byla popularita minutek něco nepochopitelného, než jsem přišel na to, že jsou oblíbené jen z nedůvěry k hotovkám. U těch totiž není někdy jasné, z čeho byly připravené. A už vůbec se nedá zjistit, zda jsou čerstvé.
 
 Dlouho jsem také nevěděl, proč každá minutka musí mít na talíři takzvanou [oblohu][13]. A dosud nechápu, proč se minutky v Čechách podávají na studených talířích. Zdá se ale, že to většině hostů nevadí, neboť si na to prostě nestěžují.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: nazvy_jidel
  [2]: jidelni_listek

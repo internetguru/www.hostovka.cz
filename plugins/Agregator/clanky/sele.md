@@ -5,7 +5,7 @@
 
 # Sele
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -149,4 +149,14 @@ Pečené nebo grilované sele, pokud ho chcete karvrovat před zraky hostů je t
 Já vím, že se zase někdo najde kdo řekne, že kecám, ale věřte mi, že jsem se těch selat napekl stovky ale to karvrování a ta výtěžnost je různá od selete k seleti.
 
 Z toho všeho vyplývá že by vám mělo zbýt asi tak 6000 gramů upotřebitelného masa, ale to je jen velice naivní představa, protože při sebe zručnějším karvrování zbude spousta neupotřebitelného ořezu.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

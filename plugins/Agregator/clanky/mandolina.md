@@ -5,7 +5,7 @@
 
 # Multifunkční struhadlo kuchyňská mandolína
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="stroje a náčiní"}
 
@@ -20,6 +20,16 @@ S oblibou jsem mandolínu používal pro krájení gaufrette brambor, což jsou 
 Dnešní mandolíny se oproti těm původním, používaným téměř před sto lety, moc nezměnily. Dnes se akorát vyrábí z nerezu nebo plastů.
 
 Asi před čtyřmi lety jsem se v jedné restauraci na Nilu v Cairu seznámil s egyptským [šéfkuchařem][1] Mustafou, který se mi pochlubil dřevěnou mandolínou. Ta byla údajně stará více než padesát let. Jestli tedy doma nějakou mandolínu máte, tak si ji važte, protože vám bude sloužit ještě po mnoha letech.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: /kucharske_tituly#sefkuchar
 

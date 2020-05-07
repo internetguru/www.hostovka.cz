@@ -5,7 +5,7 @@
 
 # Neznalost a ignorance
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="případová studie"}
 
@@ -42,4 +42,14 @@ Chce to také prověřit, jestli někteří současní instruktoři, učitelé �
 Ale co bych se do toho míchal já. Doufejme spíše, že teď díky Hostovce její studenti toho budou vědět o pohostinství více než ti někteří kteří ho provozují, že budou vědět co jim za jejich peníze patří a že to budou v našich pohostinských podnicích vyžadovat.
 
 Doufejme také že konečně i rodiče těch studentů kteří dnes ztrácí čas a utrácí peníze jen za tituly nebo bezcenná vysvědčení svých dětí si uvědomí, že k tomu aby se jejich děti v životě uživily budou potřebovat hlavně ten know how a proto si budou muset velmi dobře uvážit na kterou školu své dítě dají.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

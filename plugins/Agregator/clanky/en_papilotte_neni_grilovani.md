@@ -5,7 +5,7 @@
 
 # En papilotte není grilování
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="kuchyňské techniky"}
 
@@ -30,4 +30,14 @@ Pokud se ale hovoří o grilování, tak se jedná o přípravu jídla přímým
 Jídla "en papilotte", neboli v pergamenu, kdysi připravovaná v troubě, na grilu připravovat nelze, protože by se ten pergamen spálil, nicméně jídla v alobalu, na grilu připravována být mohou.
 
 To ale z odborného hlediska není grilování, nýbrž spíše dušení protože v tom alobalu se ta jídla „dusí“ buď v marinádě nebo nějaké jiné tekutině, takže tato technika se dá použít pro mnoho potravin, ale pro steaky, pokud je chceme nazývat grilované, v žádném případě ne .
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

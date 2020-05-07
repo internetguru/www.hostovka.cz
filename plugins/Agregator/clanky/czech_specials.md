@@ -5,7 +5,7 @@
 
 # Projekt Czech specials
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="jídla a jídelní lístky, Česká republika"}
 
@@ -42,6 +42,16 @@ V poslední době se svíčková (a to zejména v zahraničí) dělá ze zadníh
 Já proti českým a krajovým jídlům vůbec nic nemám. Kdysi jsem měl českou restauraci v české čtvrti Chicaga Cicero, ve které byly názvy všech jídel psány česky. U každého jídla byl anglický popis a nikdo si nestěžoval.
 
 To, že celá akce _Czech specials {xml:lang="en"}_ skončí fiaskem vím již od prvního dne a dnes už nejsem sám. Co mně ale vadí nejvíce je, nakolik tím vším utrpí zbytek reputace, kterou česká kuchyně ve světě ještě má.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: http://www.czechspecials.cz
  [2]: gulas

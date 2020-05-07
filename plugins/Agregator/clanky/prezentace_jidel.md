@@ -5,7 +5,7 @@
 
 # Důležitost prezentace jídel
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="gastronomie, prezentace, talíře"}
 
@@ -100,6 +100,16 @@ To samé se dá říci o podávání jídel ve velkých polévkových talíříc
 Dnes to ale nejsou jen talíře, na kterých se jídla podávají. I když to hygienici neradi vidí (a mnohdy s nimi souhlasím), tak je čím dále více populární podávání teplých jídel na dřevěných prkénkách. Že by to ale bylo estetické nebo dokonce praktické se ale říci nedá.
 
 Hygieničtější a atraktivnější podávání jídel než na dřevěných prkénkách je na litinových pánvičkách (anglicky zvaných _cast iron {xml:lang="en"}_ nebo _sizzler plates {xml:lang="en"}_). Když se takové jídlo podává na stůl, tak stále ještě syčí a prská. Tím získává atraktivní vizuální vjem, který je doplněn vůní.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: /jevistni_kuchyne
  [2]: /careme

@@ -5,7 +5,7 @@
 
 # Michelin
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="gastronomie"}
 
@@ -16,4 +16,14 @@ Nemohu sice posoudit, jestli Standa na nějakou hvězdu Michelinu již má, ale 
 Já oproti tomu, přestože jsem také Čech, jsem nepředstavitelně namyšlený a proto si myslím, že bych na nějakou tu hvězdu možná měl, ale myslím si také, že po tom co o tom Michelinu vím, což jsem napsal v mém článku HVĚZDY MICHELINU, bych jim ji hodil na hlavu.
 
 Já jsem ale z hlouby duše přesvědčen, že někteří naši kuchaři si dnes již zaslouží ta nejvyžší mezinárodní ocenění a opravte mně pokud se mýlím, ale myslím si že ten zprofanovaný Michelin k tomu nepotřebují.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

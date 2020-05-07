@@ -5,7 +5,7 @@
 
 # Jednohubky pro pobavení huby
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="co-kdy-kde, jednohubka, předkrm"}
 
@@ -28,4 +28,14 @@ V rodinách se jednohubky podávají jen při mimořádných příležitostech. 
 Při dnešní demokracii je i v gastronomii povoleno všechno, co není vyloženě zakázáno. Takže pod pojmem jednohubky se můžete setkat se vším možným.
 
 Proto do této skupiny patří i _dipy_. To jsou husté pikantní omáčky nebo dresinky, do kterých se namáčí kousky zeleniny _(crudités)_, případně krutóny _(crackers)_ nebo čipsy. Patří sem i španělské _tapas_, které restaurace nabízejí většinou jako pozornost podniku.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

@@ -5,7 +5,7 @@
 
 # Hoteloví poslíčci
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="ubytování, hotel"}
 
@@ -48,4 +48,14 @@ _Bell boy {xml:lang="en"}_ (česky bagážista) odnáší do hostova pokoje jeho
 Zpravidla hosta seznámí s ovládáním televize, případně telefonu, ukáže mu, jak se zatahují žaluzie, jak se ovládá klimatizační zařízení, na přání přinese hostovi led apod.
 
 Tento _bell boy {xml:lang="en"}_ zpravidla očekává spropitné, což málo lidí ví. Ještě méně lidí ví, kolik by takové spropitné mělo být. Většinou se to řídí počtem zavazadel, ale není to pravidlem. Spíše se výše spropitného řídí místními zvyklostmi a typem hotelu.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

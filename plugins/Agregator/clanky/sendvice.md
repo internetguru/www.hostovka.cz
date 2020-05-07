@@ -5,7 +5,7 @@
 
 # Původ a typy sendvičů
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="jídla a jídelní lístky, sendvič, Amerika, Francie, Česká republika, chlebíčky, recept"}
 
@@ -124,6 +124,16 @@ Pravý americký _BLT {xml:lang="en"}_ je ale pěkný prevít, protože musí b�
 {class="example"}
 
 V Chicagu, kde lidé mají rádi kyselé okurky, k tomuto sendviči přidávají kyselou okurku, ale můžete k němu dát i coleslaw. Tím, že je všechno v sendviči tak křupavé, tak se s ním při jídle dost zasviníte, ale to k pravému americkému _BLT {xml:lang="en"}_ patří.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: /gastronomove
  [2]: francouzska_gastronomie

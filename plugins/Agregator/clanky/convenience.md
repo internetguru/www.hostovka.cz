@@ -5,7 +5,7 @@
 
 # Convenience
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="případová studie"}
 
@@ -42,4 +42,14 @@ Nicméně tak jako jsou rozdíly v cenách tak jsou a budu rozdíly ve znalosti 
 Naštěstí je tady teď HOSTOVKA, pomyslná universita pro hosty, která bez pomoci něčeho takového jako je Michelin, pomůže jejím studentům orientovat se v tom co je dobré a co je špatné, co je cenově přijatelné a co je předražené, neboli že pomůže celkovému zlepšení pohostinství.
 
 Je ale na studentech Hostovky aby na stávající nedostatky poukazovali a domáhali se toho co jim za jejich peníze patří.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

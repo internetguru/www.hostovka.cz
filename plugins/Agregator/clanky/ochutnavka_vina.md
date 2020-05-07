@@ -5,7 +5,7 @@
 
 # Ochutnávka vína
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="nápoje"}
 
@@ -478,5 +478,15 @@ n/a
   * zrání vína - soubor chemických a fyzikálních procesů, vedoucích ke změně barvy, vůně a chuti vína
   * zvadlé víno - víno za vrcholem kvality, doba zrání byla překročena, víno má příchuť stařiny a jeho další vývoj povede ke zhoršování kvality
   * ženské víno - víno jemné harmonické vůně a chuti, s hedvábnou strukturou a exkluzivním stylem; nezaměňovat se sladkým vínem
-  * živé víno - mladé, ještě nevyčleněné, se zbytky oxidu uhličitého
+  * živé víno - mladé, ještě nevyčleněné, se zbytky oxidu uhličitého 
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

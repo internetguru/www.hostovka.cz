@@ -5,7 +5,7 @@
 
 # Technika dušení ve světě
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="kuchyňské techniky, marináda"}
 
@@ -38,4 +38,14 @@ Marináda, mořidlo, pajc nebo bajc _(od německého Beize)_ a lák, jsou prost�
 Dnes se dlouhé marinování zavrhuje. Nicméně marinování drůbeže či ryb po dobu 10 až 15 minut může znatelně zlepšit chuť. Puristé to ale také zavrhují. Říkají, že ryba má chutnat a být cítit po rybě, a že jakékoliv zasahování do přírodních chutí a vůní je proti zdravému rozumu.
 
 Při cestách na východ nebo do Orientu, se ale s marinovanými potravinami setkáte velmi často. Mohu vám z vlastní praxe říci, že bez marinády by tam jídla nebyla tak dobrá.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

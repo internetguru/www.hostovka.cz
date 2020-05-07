@@ -5,7 +5,7 @@
 
 # Krátký a dlouhý týden
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="případová studie"}
 
@@ -144,4 +144,14 @@ U mladých zaměstnanců tyto velké mezery mezi prací způsobují, že díky p
 Výše uvedené příspěvky mně přesvědčily jen o tom, že mimo samotné provozovatele pohostinství jsou nejvíce škodní hosté a proto jsem se s vámi jako se studenty Hostovky musel o ně podělit.
 
 Teď, po tom, kdy jsem se dozvěděl jak ty dlouhé a krátké týdny fungují, se také neostýchám říci, že jsou tou největší brzdou rozvoje a zkvalitnění českého pohostinství.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

@@ -5,7 +5,7 @@
 
 # Proč nechodí lidé do restaurací
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="restaurace a servis"}
 
@@ -65,4 +65,14 @@ Podnikatel nevytváří hodnoty jen pro uspokojení vlastních, ať již moráln
 Tudíž při vaši příští návštěvě některé restaurace se spíše snažte odhadnout kolik v té ceně je za tu přidanou hodnotu, což může být i vybavení restaurace a celková ambiánce a neunáhlujte se v tom abyste domnívali, že vás vyloženě šidí.
 
 No, a když na některou restauraci nemáte, tak tam prostě nechoďte.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

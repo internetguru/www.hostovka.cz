@@ -5,7 +5,7 @@
 
 # Rekreační cestování zaoceánskými loděmi
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="cestovní ruch"}
 
@@ -97,6 +97,16 @@ Podobných otázek lidé kladou daleko více a lodní společnosti nebo vaše ce
 Doporučuji také uzavřít pojistku pro případ, že nebudete moci jet. Jednou jsme _cruise {xml:lang="en"}_ museli kvůli manželčině onemocnění zrušit. Měli jsme naštěstí pojistku, a tak nám všechny peníze vrátili.
 
 Šťastnou plavbu!
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: samoobsluzna_restaurace
 

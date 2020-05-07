@@ -5,7 +5,7 @@
 
 # Ovoce physalis
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="zbožíznalství"}
 
@@ -20,4 +20,14 @@ Physalis si dlouho držel místo v přírodní medicíně v tropických zemích,
 Plod o velikosti hroznového vína se skrývá za suchou slupkou. Je lesklý a trochu lepkavý s velice příjemnou vůní, takže nakonec neodoláte a ochutnáte ho. Slupka slouží k tomu, abychom ji mohli uchopit mezi prsty a pohodlněji plod jíst.
 
 Physalis vás překvapí fantastickou unikátní chutí, takže si říkáte, proč jste ho už dávno neochutnali. Ovoce je pevné, šťavnaté a sladké s překvapující kyselostí. Pro upřesnění tohoto popisu musím říci, že to není nezapomenutelná chuť, jako například chuť ananasu nebo pomeranče.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

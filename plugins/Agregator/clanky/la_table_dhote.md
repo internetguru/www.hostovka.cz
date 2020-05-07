@@ -5,7 +5,7 @@
 
 # La table d'hote
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="gastronomie"}
 
@@ -14,4 +14,14 @@ Ve volném překladu to znamená stůl hostitele, ale přesná definice není dn
 Většina mezinárodních gastronomických slovníků pod la table d'hote uvádí:
 
 Společná tabule pro hosty hotelu nebo restaurace; jako je například společné jídlo v Boarding House.Nabídka kompletního menu vybraného hostitelem nabízena za jednotnou cenu; někdy označovaná jako prix fixe; něco podobného jako MENU.Tudíž table d? hote se podstatně liší od společné rodinné večeře nebo party na účet hostitele, ale velice se podobá banketu.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

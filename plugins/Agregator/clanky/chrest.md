@@ -5,7 +5,7 @@
 
 # Vše o chřestu
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="gastronomie"}
 
@@ -72,6 +72,16 @@ V některých kuchařkách se říká, že se chřest musí loupat. Už vám ale
 Jinak ho můžeme podávat s holandskou omáčkou, které se v česku teď nejspíše říká žloutkovo-máslovo-citrónovo omáčka (tyto názvy omáček teď v česku letí). Můžeme ho také podávat přelitý [omáčkou Mornay][7] (což by asi byla bešamelovo-sýrová omáčka), případně zapečený pod salamandrem.
 
 Co ještě k chřestu dodat. Jedině snad to, aby se s ním vždy zacházelo, jak si zaslouží. No, a teď se už nemůžete vymlouvat, že nevíte, co to je chřest. Pokud to ale není váš šálek čaje, tak si ho neobjednávejte, protože by to byly vyhozené peníze.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: https://neviditelnypes.lidovky.cz
  [2]: https://neviditelnypes.lidovky.cz/spolecnost/spolecnost-ceske-nechresteni.A070515_214413_p_spolecnost_wag

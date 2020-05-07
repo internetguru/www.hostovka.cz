@@ -5,7 +5,7 @@
 
 # Čínský samoobslužný bufet
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="jídla a jídelní lístky, bufet"}
 
@@ -54,6 +54,16 @@ Můj největší kompliment restauraci je, když jim slíbím, že se k nim rád
 Musím také říci, že politika této restaurace je v plném souladu s mou teorií nabídnout hostům to, co chtějí, a to v takovém výběru, že obrazně řečeno nevědí, co si vybrat dříve. A hlavně za cenu, která takovému množství a kvalitě odpovídá.
 
 Zajímalo by mě ale, kolik by takový bufet stál v kterémkoliv městě v Čechách. Téměř všechny suroviny, které jsem na tom bufetu viděl, jsou dnes v Čechách již běžně k dostání. Čínská kuchyně dnes už také není nic, co by naši kuchaři neuměli připravit. Největší problém by asi byl potřebný počet hostů.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: /hulky
  [2]: /zalivka_dresink#dresinky

@@ -5,7 +5,7 @@
 
 # Ohřevná vana bain-marie
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="co-kdy-kde, Francie"}
 
@@ -16,4 +16,14 @@ _Bain-marie {xml:lang="fr"}_ se liší tvarem a velikostí. V českých kuchyní
 {class="example"}
 
 Dnes jsou vany nahrazovány teplými výdejními pulty s gastro nádobami, případně jinými zařízeními. Osobně ale na vanu nedám dopustit. Hodí se například, když potřebujete uvařit celého velkého lososa.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

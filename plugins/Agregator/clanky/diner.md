@@ -5,7 +5,7 @@
 
 # Restaurace zvaná diner
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="koho se to týká, případová studie, Amerika"}
 
@@ -78,6 +78,16 @@ Bylo to krátce před mým odchodem do důchodu, a tak jsem se tím moc nezabýv
 No, jenom kvůli slovu prádlo návrh zřejmě nebyl zamítnut, spíše šlo o velké peníze. Abych to ale nějak zakončil…
 
 Asi po deseti letech jsem se setkal s mým nástupcem Jeromem, což byl mimo jiné můj bývalý student. Ten mi řekl, že asi 6 let po mém odchodu, byl můj koncept schválen. Bylo to pro mě velké zadostiučinění.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: kratky_a_dlouhy_tyden
  [2]: catering

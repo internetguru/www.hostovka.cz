@@ -5,7 +5,7 @@
 
 # Upoutání pozornosti módními pojmy
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="jídla a jídelní lístky, snob"}
 
@@ -30,6 +30,16 @@ Zašlo to dokonce tak daleko, že někteří kuchaři už ve svých receptech ne
 Na jídelních lístcích některých českých (rádoby francouzských) restaurací, se dnes setkáte s jídly a výrazy, jako _crusta_, _fond_, _wasabi_, _carpaccio_, _confit_, _tatarák z lososa_ (přestože Tataři neměli ani tušení, co to takový losos je), _foie gras_, _pinie_ (což by měla být piniová jádra) nebo _bramborové pyré_ (místo obyčejně znějící bramborové kaše).
 
 Stejně tak narazíte na kuchařské techniky jako _sotýrovat_, _konfinovat_ (což česky znamená konzervovat) a setkáte se s mnoha dalšími nepravdami, kravinami a výrazy, které nejsou jasné ani některým kuchařům, natožpak hostům. Tyto všechny výrazy souvisí hlavně s cenou, což uspokojuje zejména [restaurační snoby][1].
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: /gastronomove#snob
 

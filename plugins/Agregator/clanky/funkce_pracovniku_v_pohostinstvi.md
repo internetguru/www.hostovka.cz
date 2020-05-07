@@ -5,7 +5,7 @@
 
 # Funkce pracovníků v pohostinství
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="o čem se nemluví"}
 
@@ -65,4 +65,14 @@ Jeden způsob ohodnocení, který se nabízí, je zkouška ze znalostí potřebn
 Ve Spojených Státech studenti středních či vysokých škol získávají kredity za úspěšné dokončení jednotlivých kurzů. Stát, nebo příslušná instituce zpravidla stanoví počet kreditů potřebných k získání potvrzení o složení závěrečné zkoušky z daného předmětu či profese.
 
 Výňatek z připravovaného semináře „HODNOCENÍ ODBORNÝCH ZNALOSTÍ ZAMĚSTNANCŮ V POHOSTINSTVÍ POMOCÍ KREDITŮ PRO JEDNODLIVÉ FUNKCE“ Komentáře vítány!
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

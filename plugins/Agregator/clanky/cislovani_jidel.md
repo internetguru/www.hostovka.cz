@@ -5,7 +5,7 @@
 
 # Číslování jídel na jídelních lístcích
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="gastronomie"}
 
@@ -60,4 +60,14 @@ V tomto okamžiku vám asi došlo, že jsem si věc trochu usnadnil tím, že js
 Poslední trojčíslí je reservováno pro čísla jednotlivých receptů. Tři čísla myslím bohatě stačí, protože asi nikdy nebudete mít více než 999 jídel v určité gastronomické skupině.
 
 Toto vše ale píši jen pro zajímavost než pro nějaké okamžité praktické použití protože v tom případě se musíte držet toho amerického KISS (Keep It Simple Stupid), neboli – drž se jednoduchosti hlupáku.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

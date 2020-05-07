@@ -5,6 +5,8 @@
 
 # Ekonomika samoobslužných bufetů
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
+
 {kw="konzulting"}
 
 Oproti mnohým jiným [cateringovým akcím][1] jsou [bufety][2] plánovány provozovatelem. Potřebné množství jídel a pití, které hosté mohou v dané době na [samoobslužném bufetu][3] zkonzumovat, má podstatný vliv na ekonomiku neboli na rentabilitu bufetu, na potřebný počet a sortiment jídel a následně i na cenu.

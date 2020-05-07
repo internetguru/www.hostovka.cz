@@ -5,7 +5,7 @@
 
 # Na zámku a v podzámčí
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="o čem se mluví"}
 
@@ -76,4 +76,14 @@ Mimo jiné ty cherry tomatoes byly přezrálé a tak akorát na vyhození.
 No, a celkově musím prostě říci, že zakončení našeho víkendu bylo skutečně nezapomenutelné.
 
 A picture is worth thousand of words, a proto moje originální stížnost byla doplněna několika fotografiemi jako důkaz, ale na těchto stránkách fotografie nelze uveřejňovat. Závěrem jen tolik, že lituji každého kdo se nechá na to Chateau nachytat.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

@@ -5,7 +5,7 @@
 
 # Buffety náklady na mzdy
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="o čem se mluví"}
 
@@ -18,4 +18,14 @@ V Česku však málokterý manažer toto bere v úvahu a v mnoha případech se 
 Příkladem mohou být cateringové funkce jako jsou například bufety. Nechci zde hovořit o nákladech na mzdy kuchařů, protože u těch při přípravě jídel pro bufety produktivita vlastně stoupá, ale při servisu a pracích v jídelně, kdy každým zaměstnancem navíc, který není plně využit, náklady na mzdy neúnosně stoupají.
 
 Zde je totiž potřeba se zmínit o něčem, o čem se v odborných učebnicích nikdy nemluví, a to je skutečnost, že čím více obsluhujících, tím menší podíl spropitného ze společného trónu na každého připadá. V tom ohledu by obsluhující sami měli mít zájem na tom, aby jich nebylo více, než je potřeba k zajištění kvalitního servisu.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

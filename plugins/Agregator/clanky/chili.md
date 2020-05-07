@@ -5,7 +5,7 @@
 
 # Recept na vítězné chili
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="jídla a jídelní lístky, historka, recept, Amerika, Mexiko"}
 
@@ -112,6 +112,16 @@ Na jídelním lístku konceptu [Steakgrill][1] nazýváme chili jako _texaské_.
 Držíme se standardních podnikových receptů a žádný kuchař nesmí množství masa v chili svévolně měnit.
 
 Naše chili je také natolik syté, že se může podávat jako malé hlavní jídlo. Jak jsem se ale již několikrát zmínil, tak jedno přikázání mého náboženství je „nikomu nevěř“. Takže až pojedete kolem Roudnice, tak se v restauraci zastavte, abyste viděli že nekecám.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: https://www.steakgrill.cz
 

@@ -5,7 +5,7 @@
 
 # Cestovní turistický průvodce neboli bedekr
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="co-kdy-kde, průvodce, kuchařské čepice"}
 
@@ -58,6 +58,16 @@ Pokutování je například i v Kazachstánu. Tam jsem se setkal s tím, že mí
 Abych vám řekl pravdu, tak na hvězdičky také nevěřím. Nevěřil jsem hvězdě na Kremlu a nevěřím ani hvězdičkám na hotelech. Jak víte, tak si jich na svůj hotel může dát každý kolik chce.
 
 Jediné hvězdy, kterým věřím, jsou hvězdy na nebi. Nevěřím ale tomu, že příznivá konstelace hvězd má vliv na kvalitu jídla, nápojů a servisu. Proto k označení kvality jídel a servisu a případně cen budu ještě hodně dlouho pomyslně používat naše bývalé cenové skupiny.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: /gastronomove#gurman
  [2]: /kucharske_tituly#sefkuchar

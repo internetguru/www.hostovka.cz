@@ -5,7 +5,7 @@
 
 # Kalkulace
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="konzulting"}
 
@@ -14,4 +14,14 @@ V České republice, jak již řečeno, jsou vlastní kalkulace nařízené zák
 Bez ohledu na to jestli jsou kalkulace nařízené nebo ne, je třeba si uvědomit, že jsou velice důležitý nástroj kontroly hospodaření a měly by být vypracovány hned po vypracování receptur.
 
 Nenaslouchejte šarlatánům, raďte se s odborníky!
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

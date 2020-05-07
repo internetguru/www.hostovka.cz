@@ -5,7 +5,7 @@
 
 # Svíčková atd.
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="pohostinství"}
 
@@ -120,4 +120,14 @@ Já mám například rád bejlik a šoulet, ale to nejsou regionální, ale nár
 Já mám také rád domácí škvarky ať již zalité do sádla nebo ne, a to je snad porto, že jsem Čech, ale to je jak nejdále projev mého češství či vlastenectví sahá.
 
 Na mně ale nedejte. Czech Specials budou možná deklarovány jako památky UNESCO a co já vím, možná, že až se v zahraničí prostřednictvím agentury CzechTourism lidé o nich dozvědí, tak k nám budou opět houfně jezdit a restaurace zase budou mít na dveřích cedulky: „Máme skupiny“.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

@@ -5,7 +5,7 @@
 
 # Food Cost
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="kdo-kdy-kde"}
 
@@ -20,4 +20,14 @@ V drahých či luxusních restauracích, které používají drahé potraviny, F
 V americkém pohostinství FC je zaklínadlo, kterému je ale věnována nezasloužená pozornost. FC podobně jako Labor cost (LC) je do značné míry ovlivňován odborným ekonomickým zpracování potravin a celkovým know how.
 
 Vytvoření ideálního FC pro zabezpečení dobrého hospodářského výsleku není tak jednoduché jak se zdá, což je dobře, protože to by do toho pohostinství skutečně fušoval kde kdo. Tvorbou ideálního FC se bude zabývat jeden z připravovaných seminářů výchovného střediska STEAKGRILLEDU™.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

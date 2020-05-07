@@ -5,7 +5,7 @@
 
 # Steamship round
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -24,4 +24,14 @@ Správně upečený steamship round musí být kolem kosti rare, neboli téměř
 K dokonalému upečení celé kýty musí být již nějaké zkušenosti a to samé se dá říci o její krájení (carving).
 
 Já jsem jich během mé praxe v Americe upekl a nakrájel několik set a tak se do jisté míry považuji za odborníka, ale Hostovka není nějaká škola vaření a tak nepředpokládám, že byste se do pečení steamship roundu chtěli pustit, tak vám to popisovat nebudu, ale jako studenti Hostovky byste měli vědět co to je pro případ, že byste někdy jeli do Ameriky kde byste ho měli ochutnat.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

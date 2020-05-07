@@ -5,7 +5,7 @@
 
 # Garbage
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="gastronomie"}
 
@@ -42,4 +42,14 @@ Garbage ale může být i mluva nebo i nějaký ucelený slovní projev a samoz�
 Garbage se v českém pohostinství nepoužívá, ale vzpomenete si na mně, že dříve nebo později bude toto slovo běžné jako například B.S. Nebude to přes noc, ale za několik let americké výrazy v pohostinství zcela nahradí ty gastronomické výrazy francouzské které byly ještě donedávna preferovány.
 
 Tudíž mi nenadávejte, že ty americké výrazy občs používám, protože vám to v budoucnu možná příjde whod.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

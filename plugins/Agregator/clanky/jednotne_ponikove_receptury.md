@@ -5,7 +5,7 @@
 
 # Tvorba jednotných podnikových receptur
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="konzulting"}
 
@@ -54,4 +54,14 @@ Všechny RC potraviny jsou v recepturách uváděny v gramech, tudíž i tekutin
 ## VÁHY A MNOŽSTVÍ KOŘENÍ
 
 Jídla kořeníme podle chutě, tudíž váhy koření uváděné v recepturách jsou ve většině případů jen informativní, a slouží zejména jen pro výpočet kalkulace. Některá koření můžeme podle místních zvyků zcela vynechat , a nebo nahradit místním populárním kořením, a to vždy jen podle chuti většiny vašich hostů.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

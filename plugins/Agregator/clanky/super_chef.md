@@ -5,7 +5,7 @@
 
 # Super chef
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="gastronomie"}
 
@@ -78,4 +78,14 @@ Náklady na mzdy budou neustále stoupat, ale díky moderním technologiím ve v
 Konkurence bude nemilosrdná a proto produktivita, snižování nákladů a zvyšování zisku budou hlavní základní zákony manažování kuchyně.
 
 Enyky, benyky - a kdo na to nebude připraven - ten půjde z kola ven!
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

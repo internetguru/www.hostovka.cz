@@ -1,25 +1,27 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=30.html" data-image="/files/preview/clanky/agnes_sorel/general.jpg" data-type="article"}
 
-{ctime="2005-07-03" mtime="2020-03-10" id="agnes\_sorel" author="Michael Klíma" short="Agnès Sorel"}
+{ctime="2005-07-03" mtime="2020-03-10" id="agnes_sorel" author="Michael Klíma" short="Agnès Sorel"}
 
 # Drůbeží garnitura Agnès Sorel
+
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="restaurace a servis, omáčka"}
 
 Agnès Sorel (1410–1450) byla milenka francouzského krále Karla VII. Měla významný vliv na krále a snažila o snížení bídy a mizérie v zemi. Je po ní pojmenována garnitura (soubor jídel a doplňků) pro drůbež a jateční masa.
 
-Garnitura se skládala z paštik z drůbeží fáše plněných [sortýrovanými](sotyrovani) žampiony obloženými kulatými plátky uzeného jazyka a lanýži. K drůbeži se navíc přidávala omáčka _Allemande {xml:lang="fr"}_.
+Garnitura se skládala z paštik z drůbeží fáše plněných [sortýrovanými][1] žampiony obloženými kulatými plátky uzeného jazyka a lanýži. K drůbeži se navíc přidávala omáčka _Allemande {xml:lang="fr"}_.
 
 {id="omacka_allemande"}
 
 ## Omáčka Allemande
 
-_Allemande {xml:lang="fr"}_ znamená ve francouzštině _německý_, ale je to také název jedné z velmi populárních francouzských omáček. Vytvořil ji známý kuchař [Marie-Antoine Carême](careme). Krémová omáčka světlé barvy mu připomínala blonďaté Němce, proto ji pojmenoval _Allemande {xml:lang="fr"}_.
+_Allemande {xml:lang="fr"}_ znamená ve francouzštině _německý_, ale je to také název jedné z velmi populárních francouzských omáček. Vytvořil ji známý kuchař [Marie-Antoine Carême][2]. Krémová omáčka světlé barvy mu připomínala blonďaté Němce, proto ji pojmenoval _Allemande {xml:lang="fr"}_.
 
 {class="example"}
 
-Název omáčky byl ale proti mysli mnoha tehdejších francouzských kuchařů. Dokonce i král všech kuchařů a kuchař všech králů [Escoffier](auguste_escoffier) se pokusil změnit germánské jméno této již tak slavné omáčky na _Sauce Blonde {xml:lang="fr"}_ nebo _Sauce Parisienne {xml:lang="fr"}_. Její originální název ale přežil.
+Název omáčky byl ale proti mysli mnoha tehdejších francouzských kuchařů. Dokonce i král všech kuchařů a kuchař všech králů [Escoffier][3] se pokusil změnit germánské jméno této již tak slavné omáčky na _Sauce Blonde {xml:lang="fr"}_ nebo _Sauce Parisienne {xml:lang="fr"}_. Její originální název ale přežil.
 
 Postup přípravy omáčky je jednoduchý. Ne příliš husté _velouté {xml:lang="fr"}_ zjemníme a částečně zahustíme žloutky a smetanou. Tomu se francouzsky říká _liaison {xml:lang="fr"}_.
 
@@ -40,4 +42,8 @@ n/a
 {var="inputvar-relation@var"}
 
 Příbuzné články nejsou k dispozici
+
+ [1]: sotyrovani
+ [2]: careme
+ [3]: auguste_escoffier
 

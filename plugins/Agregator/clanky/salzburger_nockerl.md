@@ -5,7 +5,7 @@
 
 # Salzburger Nockerl
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -33,4 +33,14 @@ Z bílků při občasném přidávání cukru ušleháme tuhý sníh. Dřevěnou
 Před podáváním posypeme práškovým cukrem.
 
 Já jsem ty noky od té doby dělal několikrát a i když nerad, tak se musím přiznat, že tak jako jsou ty na tom obrázku se mi nikdy nepovedly.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

@@ -5,7 +5,7 @@
 
 # Celebrity
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="gastronomie"}
 
@@ -74,4 +74,14 @@ Dokonce i Matthie Mioche ve svém čánku "Kuchař - povolání budoucnosti?" uv
 Je sice možné, že toto by mohlo být některým mladým kuchařům pobídkou k tomu aby získali potřebné vzdělání k zaměsnání v těch hotelích se 3 až 5*, ale něko by mě musel přesvědčit o tom že toto vzdělání na našich školách s těmi archaickými programy získají.
 
 No, to mé lamentování ale moc nepomůže a bohužel to nikam nevede, a ten trend těch celebrit bych vlastně ani neměnil, ale považuji za moji povinnost Vás jako studenty Hostovky naučit rozeznávat kdo jsou to ti dobří kuchaři, i když ne třeba vojevůdci v těch velkých kuchyních, a kdo jsou to ti promoteři, falešné celebrity a šarlatáni.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

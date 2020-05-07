@@ -5,7 +5,7 @@
 
 # Vše o nožích
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="stroje a náčiní, nože, výroba nožů, broušení, ostření, ocílka"}
 
@@ -97,4 +97,14 @@ Ocílku po použití zbavíme malých ocelových částic, které se na ni běhe
 V Česku doufám ještě platí pravidlo, že kudla a manželka se nepůjčuje. Proto, pokud já si pamatuji, tak každý pořádný kuchař má vlastní nože, které si sám brousí a sám myje. Nože má uložené buď v krabici na nářadí, nebo v něčem čemu se česky říká futrál na vercajk.
 
 Ideální k uložení nožů jsou dřevěné špalky, ve kterých se neničí a ve kterých o nich máte stále přehled. Praktické jsou také magnetické držáky umístěné v blízkosti pracoviště.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

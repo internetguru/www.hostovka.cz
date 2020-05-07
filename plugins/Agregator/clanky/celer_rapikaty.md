@@ -5,7 +5,7 @@
 
 # Jak vybrat a podávat řapíkatý celer
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="zbožíznalství, recept, zelenina"}
 
@@ -80,6 +80,16 @@ V Americe je syrový celer také nezbytnou součástí nejpopulárnějšího př
   4. Do středu dáme koktejlovou omáčku.
 
 Celer má také využití při přípravě některých koktejlů jako přírodní míchátko. Například velice populární koktejl _Bloody Mary_ by bez míchátka z celeru nebyl úplný. V tomto případě se ke koktejlu míchátko přikusuje.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: /jednohubky
  [2]: /zalivka_dresink#zalivka

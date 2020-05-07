@@ -5,7 +5,7 @@
 
 # Steaky
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -214,4 +214,14 @@ Nicméně se dá říci, že je to nezapomenutelná zkušenost obzvláště kdy�
 K tomu si ale přičtěte 10% spropitného, malý poplatek za šatnu a vidíte, že můj přítel Bohouš by to z jeho penze šéfkuchaře denně dělat nemohl.
 
 Jak jsem již řekl,tak já ale do zkušenosti s jídlem jsem zvyklý investovat peníze a tak si nesěžuji. Já se totiž velice málo kdy ptám na to kolik některá jídla stojí, protože když se musíte ptát na tu cenu, tak si to nejspíše stejně asi nemůžte dovoalit.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

@@ -5,7 +5,7 @@
 
 # Georges Auguste Escoffier
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="kdo-kdy-kde, gastronomie, Francie, historie"}
 
@@ -16,6 +16,16 @@ Dnes je díky tomuto malému muži, ale velkému kuchaři, jeho rodné město v�
 Escoffier psal a publikoval nesmírné množství kuchařských knížek. Dnes je to s odstupem času až neuvěřitelné, už jen při pomyšlení, že to bylo při jeho práci [šéfkuchaře][1] a bez psacího stroje nebo počítače.
 
 Mnoho kuchařů a autorů kuchařek do jeho děl ještě dnes nahlíží pro reference, na čemž není nic špatného. Horší jsou ty případy, kdy někteří Escoffierovy recepty opisují v nezměněné formě a naivně si myslí, že je použijí v praxi.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: kucharske_tituly#sefkuchar
 

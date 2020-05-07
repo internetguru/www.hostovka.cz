@@ -5,7 +5,7 @@
 
 # Význam slova goodwill
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="gastronomie, Amerika"}
 
@@ -18,4 +18,14 @@ _Goodwill philosophy {xml:lang="en"}_ jsou rady nebo rozhodnutí dělané v dobr
 Osobně jsem například v Americe v Chicagu několik let pracoval jako dobrovolník pro _Goodwill Industries {xml:lang="en"}_. To je organizace, která sbírá staré upotřebitelné předměty, šatstvo apod., které pak po vyčistění či opravě prodává a výtěžek dále věnuje na charitu.
 
 Do skupiny _goodwill {xml:lang="en"}_ patří například i americká dobrovolná organizace, která pomáhá rozvojovým zemím svými službami a radami (_Inernational Executive Service Corps {xml:lang="en"}_). Pro ni jsem rovněž několik let pracoval jako dobrovolník.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

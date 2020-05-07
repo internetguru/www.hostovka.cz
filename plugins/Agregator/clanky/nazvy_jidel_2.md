@@ -5,7 +5,7 @@
 
 # Názvy jídel 2
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -110,4 +110,14 @@ Podává se s rýží nebo se širokým nudlemi, zřídka však s bramborem.
 Toto vám vážení studenti při vašich cestách do zahraničí doufám pomůže orientovat se v těch názvech steaků.
 
 Steaků je nekonečná řada, ale při svých cestách do zahraničí se přesvědčíte, že oproti Česku nebo Slovensku, kde ještě donedávna mnoho lidí vůbec nevědělo co pravý steak vlastně je, a kde teď nevědí co by s těmi staky dělali, jsou všechny dělány velice jednosuše podle jakýchsi nepsaných zákonů.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

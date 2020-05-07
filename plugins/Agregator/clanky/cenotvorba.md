@@ -5,7 +5,7 @@
 
 # Cenotvorba konceptu STEAKGRILL®
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="co-kdy-kde, jídla a jídelní lístky, pohostinství"}
 
@@ -40,6 +40,16 @@ V [konceptu STEAGRILL®][1] spočívá tvorba cen v umění rozeznat, jaké ceny
 Proto nám nějaké restaurace ohodnocené hvězdičkami Michelinu nevadí. Jen houšť. Čím více lidí takové restaurace navštíví, tím více bude těch, kteří pak kvalitu našich jídel, nápojů a služeb ocení.
 
 Sofistikovaný host také velmi dobře ví, že žádná restaurace se nevyhne nutnosti své ceny občas zvýšit. To je vlastně ještě větší umění než ty původní ceny stanovit. Navyšování cen se nedá popsat tím českým způsobem v kostce, a proto se tím zabývá zvláštní kapitola Manuálu provozu.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: https://www.steakgrill.cz
  [2]: goodwill

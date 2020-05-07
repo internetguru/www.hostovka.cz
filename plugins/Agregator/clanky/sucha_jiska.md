@@ -5,7 +5,7 @@
 
 # Suchá jíška
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="co-kdy-kde"}
 
@@ -16,4 +16,14 @@ Suchou jíšku můžeme připravit zcela bez tuku a to tak, že na plechu, v mí
 Tuk stanovený receptem, je více méně otázkou preference. Nejčastěji používanými tuky je máslo, margarin, sádlo a případně lůj. Máslo má sice nejlepší chuť, ale velmi rychle se přepaluje a proto ho používáme většinou jen k přípravě světlé jíšky kterou zahušťujeme bílé omáčky a polévky. Stejnou službu nám ale udělá i margarin. Sádlo se přepaluje méně, ale k zahuštění některých jídel se nehodí stejně tak jako lůj který dává jídlům charakteristickou a někdy nežádoucí chuť.
 
 Dobře usmažená jíška nepodléhá rychle zkáze a proto ji můžeme skladovat při pokojové teplotě i několik dní. Uskladněním v ledničce nebo v mrazáku jíška ztuhne, což ale na její zahušťovací schopnosti nic nezmění, takže po nastrouhání ji můžeme použít jako jíšku čerstvou. Pokrmy zahuštěné takovou jíškou se musí vařit nejméně 30 minut, aby se jíška dobře rozvařila. Viz. Omáčky.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

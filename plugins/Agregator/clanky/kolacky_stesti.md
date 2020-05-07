@@ -5,7 +5,7 @@
 
 # Ne až tak čínské koláčky štěstí
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="gastronomie, případová studie, Amerika, čínská restaurace"}
 
@@ -40,6 +40,16 @@ Nejdříve si mě pozvali do Ruzyně, kde mě vyslýchali nějací jiní odborn�
 Mohu vám říci, že jsem se už viděl na Sibiři, protože se nedali přesvědčit, že nejsem americký špión. Nakonec se mě ale zeptali, kdo je to ten Saša v Americe. V tu chvíli mi došlo, že jsou to koláčky štěstí, které mi Saša popisoval. Oni je ale ti volové rozmlátili na moučku, a tak mě to hned nenapadlo. Všechno jsem jim pak vysvětlil, a když pak moučku podrobili nejspíše chemickému rozboru a nic nenašli, tak mi uvěřili.
 
 No, jak vidíte, tak mi byly koláčky štěstí málem osudné. Pokaždé, když nějaký rozlousknu, tak si na tu historku hned vzpomenu.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: /gastronomove#gurman
  [2]: http://www.totalita.cz/vysvetlivky/ptp.php

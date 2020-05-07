@@ -5,7 +5,7 @@
 
 # Buffety produktivita
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="o čem se mluví"}
 
@@ -16,4 +16,14 @@ Dokonce i k přípravě jídel v jídelně, která jsou v zásadě velice jednod
 To samé platí o doplňování jídel a nápojů a sklízení použitého nádobí což rovněž nevyžaduje žádnou velkou odbornost.
 
 Problém v současném českém pohostinství ale je že máme příliš mnoho rádoby vzdělaných „odborníků“, tak zvaných „náčelníků“, ale žádné „indiány“.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

@@ -5,7 +5,7 @@
 
 # Původ názvu pekáče GI pan
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="co-kdy-kde, Amerika"}
 
@@ -16,4 +16,14 @@ Po příchodu do Ameriky jsem sice věděl, že je _GI pan {xml:lang="en"}_ velk
 Tudíž jsem se dále vyptával, až jsem v jedné kuchyni v Chicagu narazil na kuchaře, který byl o něco starší než já a který mi konečně řekl to, co jsem chtěl slyšet.
 
 _GI {xml:lang="en"}_ je zkratka pro _gouvernement issue {xml:lang="en"}_. Touto zkratkou je označováno vše, co se v americké armádě „fasuje“ neboli vydává. Patři tam tedy i pekáče do kuchyně.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

@@ -5,11 +5,21 @@
 
 # Drahá pomoc
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="cestovní ruch"}
 
 U silnice stojí auto s otevřenou kapotou, nejede mu to. Zastaví kolem jedoucí vůz a řidič se zeptá:“Mohu vám nějak pomoci, já jsem profesionální automechanik“. „Ale ano, já vám to rád zaplatím“, říká ten pán s tím porouchaným autem. Ten mechanik se podívá pod tu kapotu, na něco tam sáhne a říká:“Tak to nahoďte“,a ono to naskočí vše je v pořádku. Kolik vám dlužím zeptá se ten řič“? „Sto korun odvětí ten mechanik“,“Sto korun?, vy jste se zbláznil, vždyť vám to trvalo jen několik vteřin.“ Mechanik se ohnul opět pod tu kapotu, něco tam zašťoural a říká: „To je O.K. máte to zase tak jak to bylo“, sedl do svého auta a odjel.
 
 Kéž bych něco podobného mohl udělat klientu, kterému pomohu otevřít úspěšnou restauraci, ale který se pak zdráhá zaplatit dohodnutý honorář a myslí, že to mělo být za svačinu.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

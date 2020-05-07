@@ -5,7 +5,7 @@
 
 # Vše, co sníš a nikoli co odneseš
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="gastronomie, bufet, pozdní snídaně"}
 
@@ -43,6 +43,16 @@ V Americe tomu říkají, že „jedí jako kobylky“ _(anglicky “they eat li
 Proto některé restaurace v Americe u takových bufetů uvádí „co dokážete sníst, nikoli co si dokážete vzít domů“ _(anglicky “all you can eat, but not all you can take home”)_. Z toho je vidět, že je to všude stejné, a proto nevěšte hlavu.
 
 Jediné řešení nevhodného chování hostů v samoobslužné restauraci je studium tvorby bufetů, psychologie prodeje, eventuálně studium Hostovky. K tomuto článku je také k dispozici [případová studie][1], kde je ukázáno, jak jsem se s tímto problémem vypořádal já.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: http://2017.hostovka.cz/clanek.php?clanek=137.html
 

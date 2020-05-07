@@ -5,7 +5,7 @@
 
 # Společenství gastronomů
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="gastronomie, Francie, Česká republika"}
 
@@ -30,6 +30,16 @@ Tehdy bylo znovu oficiálně ustanoveno společenství _Chaîne des Rôtisseurs 
 Dnes je společenství _Chaîne des Rôtisseurs {xml:lang="fr"}_ nejstarší a největší [gastronomickou][1] organizací na světě. Více než 80.000 osob se každoročně zúčastňuje aktivit této organizace, z čehož je 7.000 členů v Americe. Hlavní štáb tohoto řetězce sídlí v Paříži. V Americe má tento řetězec přibližně 140 poboček a celonárodní kancelář je v Novém Yorku.
 
 Řetězec _Chaîne des Rôtisseurs {xml:lang="fr"}_ se od ostatních organizací odlišuje důrazem na vyrovnané členství amatéru a profesionálů v hotelovém a restauračním průmyslu dodávajících potraviny, víno a zařízení. Dále se odlišuje vyrovnaným členstvím odborníků v obsluze, instruktorů, autorů kuchařských a odborných knížek, stejně tak jako amatérů a sofistikovaných návštěvníků restaurací (hostů), kteří nalézají uspokojení v dobrém jídle, pití a dobré společnosti.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: gastronomie
 

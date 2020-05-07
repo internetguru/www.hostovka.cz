@@ -5,6 +5,8 @@
 
 # Dobrá kuchařská kniha
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
+
 {kw="jídla a jídelní lístky, kuchařka"}
 
 K tomu, abyste se stali sofistikovanými hosty, vám studium Hostovky stačit nebude. K tomu, abyste se stali znalci jídel, se sice nemusíte učit vařit, nicméně byste měli nahlédnout do některých dobrých kuchařek. To jsem učil i své studenty na jedné hotelové škole v Americe.

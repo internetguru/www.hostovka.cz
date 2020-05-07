@@ -5,7 +5,7 @@
 
 # Vliv Catherine de Medici na francouzskou kuchyni
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="kdo-kdy-kde, Francie, Itálie"}
 
@@ -14,6 +14,16 @@ Základy západní gastronomie byly položeny již v době renesance. Sňatek č
 Kateřina s sebou (mimo dobrých mravů) přinesla také mnohé lahůdky, které byly v renesanční Itálii běžné. Jednalo se například o brzlík, lanýže, srdíčka [artyčoků][1], drůbeží knedlíčky, zmrzlinu a perníčky _Catherine de Medici {xml:lang="it"}_.
 
 Francouzská kuchyně byla později zdokonalena za vlády Ludvíka XIV., XV., a XVI. Svého vrcholu dosáhla vrcholu za doby [Carêma][2], který byl prvním významným cukrářem francouzské kuchyně.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: /artycoky
  [2]: /careme

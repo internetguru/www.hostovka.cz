@@ -5,7 +5,7 @@
 
 # Hostovka
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="gastronomie"}
 
@@ -52,4 +52,14 @@ Po skončení studia Hostovky budete velice sofistikovanými hosty a budete mít
 Hostovka je otev5ena otázkám a příspěvkům na téma z oboru gastronomie, pohostisntví a cestovního ruchu.
 
 Studenti hostovky se za svá jména nestydí a proto se vždy podepisují svým jménem.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

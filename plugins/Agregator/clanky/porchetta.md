@@ -5,7 +5,7 @@
 
 # Porchetta
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -26,4 +26,14 @@ Zampetti OriginaliTM
 Zampeti které se dá připravit o mnoho snadněji než kdysi tak populární zampone, se připravuje ve speciální peci. Tajemství spočívá také hlavně ve způsobu kořenění.
 
 Výše uvedené výrobky pravděpodobně na českém trhu ještě nejsou ale při oblibě které se vepřové maso na českém stole těší nebude asi dlouho trvat než někdo něco podobného začne vyrábět.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

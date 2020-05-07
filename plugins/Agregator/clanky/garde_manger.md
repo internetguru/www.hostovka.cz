@@ -5,7 +5,7 @@
 
 # Historie titulu garde manger
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="gastronomie, Francie, Amerika"}
 
@@ -28,6 +28,16 @@ Titul _garde manger {xml:lang="fr"}_ zaslouží také tesaři z ledu, másla, s�
 {class="example"}
 
 V Americe také vznikl obor zvaný [food styling][2], do kterého se řadí specialisté, kteří se zabývají estetickou či uměleckou úpravou jídel, tabulí a bufetů.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: /careme
  [2]: /food_styling

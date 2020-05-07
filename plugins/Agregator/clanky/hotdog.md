@@ -5,7 +5,7 @@
 
 # Hotdog
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="gastronomie"}
 
@@ -40,4 +40,14 @@ Horké uzeniny při těchto výstavách šly velmi dobře na odbyt, ale mnoho z�
 Tato skutečnost byla rovněž mezníkem při vzniku amerického convenient food. Convenience je překládáno do češtiny jako výhoda, pohodlí a vymoženost a convenient je překládáno jako vhodný nebo výhodný, a to je to, co convenient food vlastně je.
 
 Od doby zavedení hot dogů do amerického pohostinství uplynulo hodně doby a byly jich prodány miliardy a z prodeje hot dogů se stala úplná věda ale pro naši potřebu nám postačí vědět, že párek nemusí být podáván v páru ale že podstatné je, aby byl "horký jako pes".
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

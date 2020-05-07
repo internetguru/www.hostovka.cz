@@ -5,7 +5,7 @@
 
 # Tenderizování
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="kuchyňské techniky"}
 
@@ -179,4 +179,14 @@ Musím ale dodat, že na rozdíl od Savarina do toho nezahrnuji jen mé soukmeno
 Na rozdíl od Savarina se tímto koníčkem zabývám již asi 60 let a mám o tom písemné poznámky, a v poslední době jako doklad i fotografie.
 
 Nu, a byl bych velký pokrytec kdybych neřekl, že podle mě je na světě mnoho lidí kteří nevědí jak jíst steaky "comme il faut", ale o tom zase někdy jindy.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

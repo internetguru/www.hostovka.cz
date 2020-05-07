@@ -5,7 +5,7 @@
 
 # Sotýrování
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="co-kdy-kde"}
 
@@ -28,4 +28,14 @@ Sortýrování probíhá velmi rychle. Velký důraz se ale klade na mise-en- pl
 Jídlům zvaným sauté se podobají jídla zvaná ragoût od kterých se ale liší tím, že před přidáním vývaru nebo šťávy nejsou zaprášená moukou. Místo toho se před dokončením přidá nějaká zahuštěná tekutina.
 
 S oběmi těmito výrazy se běžně setkáte na českých jídelních lístcích a proto jako studenti Hostovky byste jejich význam měli znát protože v mnoha případech ti co ty lístky píší nebo lépe řečeno opisuji, nemají mnohdy ani ponětí o čem mluví.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

@@ -5,7 +5,7 @@
 
 # Jídelní lístek
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -76,4 +76,14 @@ V současné době probíhá diskuse o návratu tradice kdysi tak známého čes
 Dnes, sedmnáct let po zavedení tržního hospodářství je zřejmé, že bez pomoci hostů, jako nejdůležitější složky která se na pohostinství podílí, se české pohostinství se současnými problémy nevypořádá a proto bycom se na stránkách HOSTOVKY s touto problematikou měli intezivně zabývat.
 
 Vyzývat studenty Hostovky k tomu aby bojkotovali restarace které ku změnám v mezinárdní gastronomii nepřehlíží by nebylo ode mně moc etické, nehledě k tomu, že díky mým kritikám mám na hlavě másla už dost, ale myslím si, že by studenti Hostovky měli svoji nespokojenost vyjadřovat.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

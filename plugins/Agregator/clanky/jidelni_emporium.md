@@ -5,7 +5,7 @@
 
 # Koncept jídelního emporia
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="co-kdy-kde"}
 
@@ -42,4 +42,14 @@ Nevýhody u tohoto konceptu v zásadě nejsou. Například skutečnost, že jedn
 Největší výhodou z pohledu provozovatele je podle mě velmi jednoduchá likvidace jednotky, která nevykazuje předpokládané tržby a její nahrazení jednotkou jinou.
 
 Zas tak jednoduché to ale není. Každá jednotka musí mít vypracovaný podrobný manuál, ve kterém je přesně stanoven každý krok a každý detail pracovního postupu. Tomu se v Americe říká, že vše musí být _idiot proof {xml:lang="en"}_, neboli že po krátkém zacvičení může práci vykonávat kdekdo. Vypracování takového manuálu vyžaduje nejenom odborné znalosti a čas, ale i zkušenost.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

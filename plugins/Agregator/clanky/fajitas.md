@@ -5,7 +5,7 @@
 
 # Mexické jídlo fajitas
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="jídla a jídelní lístky, Mexiko, Amerika, recept"}
 
@@ -40,6 +40,16 @@ Podle jedné pověsti, fajitas vznikly v Americe ve státě Texas. Bohatí ranč
 Mexičtí dělníci na farmách, kteří toto maso dostávali zadarmo, si ho grilovali na dřevě z kaktusů. Grilované steaky krájeli na dlouhé kousky a dávali si je do tortill.
 
 Později se přišlo na to, že maso je podstatně lepší, jestliže se marinuje v pikantní marinádě. Netrvalo dlouho a pojídání těchto steaků v tortillách se stalo obecnou praxí a fajitas byly na světě.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: /bramborove_lupinky
 

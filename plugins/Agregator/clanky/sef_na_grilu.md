@@ -5,7 +5,7 @@
 
 # Šéf na grilu
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="o čem se mluví"}
 
@@ -24,4 +24,14 @@ Je takové rčení, že grilovat se dá téměř všechno, čehož se tedy pan P
 Ale je možné, že se pletu a že se vám podaří podle uvedených receptů některá jídla připravit. Jedna taková zásada grilování steaků, kterou pan Pohlreich absolutně nerespektuje je, že steaky se před grilováním z mnoha důvodů nesolí a nekoření. Oproti tomu si ale libuje v relativně neznámém koření a dochucovacích prostředcích. Dal jsem si s tím práci a udělal jsem si seznam všeho koření a dochucovacích prostředků, které budete k těm jeho receptům potřebovat. Je jich asi 127, z nichž od některých budete potřebovat jen špetku, ale na špetky vám to koření nikde neprodají, a tak o by mě ale zajímalo kolik budete muset investovat do všeho toho koření které budete muset nakoupit a co uděláte s těmi zbytky.
 
 Tudíž závěrem jenom tolik, že se mi ani nechce věřit, že tu knihu pan Pohlreich napsal sám, už jenom proto, že v té knize je velká reklama kečupu, který z každé kuchyně pan Pohlreich vyhazuje.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

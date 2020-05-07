@@ -5,6 +5,8 @@
 
 # Lesk a bída mystery shopping služeb
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
+
 {kw="koho se to týká"}
 
 _Mystery shopping {xml:lang="en"}_ má v zásadě odhalit, zda zákazník v pohostinství dostává to, co mu patří. Hlavně má odhalit, zda jsou zákazníci šizeni některými zaměstnanci daného podniku.

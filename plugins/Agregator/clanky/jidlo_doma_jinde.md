@@ -5,7 +5,7 @@
 
 # Doma jez co máš a jinde co ti dají
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="gastronomie"}
 
@@ -78,4 +78,14 @@ No a teď se ale nemůžete divit, že já jsem všemi těmi technikami rychlé 
 Nemám ale na mysli jen výše zmíněné řetězce fast food, ale i restaurace, u nás známé jako "zážitkové", ve kterých tím hlavním zážitkem jsou jídla která se sice připravují moderními rychlými technikami, ale ve kterých je host může vychutnat v příjemném prostředí spolu s jeho oblíbeným pivem nebo vínem.
 
 Takovými restauracemi jsou dnes na západě tak zvané STEAKHOUSES, neboli restaurace ve kterých se připravují hlavně steaky a proto jsem vypracoval koncept typického amerického STEAKHOUSE, který ale je přizpůsoben možnostem evropského a východoevropského trhu který vám příležitostně popíši.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

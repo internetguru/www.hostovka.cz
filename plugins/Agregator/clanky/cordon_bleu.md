@@ -5,7 +5,7 @@
 
 # Škola či řízek Cordon Bleu
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="gastronomie, recept, škola, Francie"}
 
@@ -95,6 +95,16 @@ Pokud nemáme dostatečně velké řízky, použijeme dvojnásobný počet menš
 Závěrem se musím zmínit o tom, že v Česku se tento steak někdy objevuje pod názvem „Gordon Bleu“, což není korektní. Zase takovou vědu bych z toho ale také nedělal, pokud je pod názvem krátce popsáno, oč se jedná.
 
 Pokud ale chcete ochutnat relativně dobrý řízek Cordon Bleu a jiná mezinárodně populární jídla připravovaná na objednávku z čerstvých prvotřídních místně dosažitelných potravin podle mých vyzkoušených receptů, tak mohu doporučit moje dítě [restauraci Steakgrill][3] v Račiněvsi u Roudnice.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: /tenderizovani
  [2]: /zdobeni

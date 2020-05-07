@@ -5,7 +5,7 @@
 
 # Americké pohostinství
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="o čem se mluví"}
 
@@ -64,4 +64,14 @@ No a to jídlo zvané Diner Sampler (ještě že umím anglicky), mohu popsat je
 Říká se: „Moučník dobrý všechno dobré“, ale že by ty Brownies byly nějaké obsession, pokud víte co to je, se nedá říci už jenom proto, že to nebyly brownies, a to samé se dá říci o tom Cheese Cake u kterého nevěřím, že je Home Made, leda, že by to byl nějaký Home for Retarded Chefs.
 
 Můj celkový verdikt je, že když něco neumíte, tak byste měli jít od toho.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

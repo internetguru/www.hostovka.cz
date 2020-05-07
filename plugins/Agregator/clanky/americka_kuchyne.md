@@ -5,7 +5,7 @@
 
 # Americká kuchyně
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="gastronomie"}
 
@@ -182,4 +182,14 @@ Tudíž to že by Američané chtěli riskovat a ochutnat tak zvané Czech Speic
 Když ho pozvete na svíčkovou na smetaně, která byla Asociací kuchřů a cukrářů zvolena jako národní jídlo, tak vám ji eventuálně ze slušnosti pochválí, ale o tom, že by si ji potom sám někdy objednal, vellice pochybuji.
 
 Tudíž s Američany o jíslw moc nediskutujte a nic je neučte, dejte jim to co chtějí, což jsou mezinárodně populární jídla kterékoliv kuchyně.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

@@ -5,7 +5,7 @@
 
 # Konzervace potravin konfitováním
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="gastronomie, Francie"}
 
@@ -28,4 +28,14 @@ Konfit je na českých jídelních lístcích všech rádoby lepších restaurac
 ## Ovocné konfity
 
 Ovocné konfity neboli kandované ovoce (celé ovoce, nebo jeho kousky) je konzervováno v cukru. Ovoce musí být zcela nasáklé cukrem. Malé ovoce, jako jsou třešně kandujeme celé, zatímco velké ovoce, jako například melouny krájíme na menší kousky.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

@@ -5,7 +5,7 @@
 
 # Raison d´etre Steakgrillu
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="restaurace a servis"}
 
@@ -56,4 +56,14 @@ HOSTOVKU k dnešnímu dni (1.1.2008) otevřelo 1042383 lídí z nichž velká v�
 Připravil jsem proto seznam podmínek pro kvalifikované hodnocení úrovně kvality služeb restaruací, které případným zájemcům jakýoliv audit nebo hodnocení usnadní.
 
 Tento seznam bude během několika dni na těchto stránkách ku stažení.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

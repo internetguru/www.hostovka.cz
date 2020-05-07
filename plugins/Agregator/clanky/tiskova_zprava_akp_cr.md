@@ -5,7 +5,7 @@
 
 # Tisková zpráva APK ČR
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="konzulting"}
 
@@ -25,4 +25,14 @@ Nedostatečné odborné znalosti provozovatelů a zaměstnanců v průmyslu poho
   * Poskytovat členům odborné kreditní vzdělávací kurzy, jakož i informační, konzultační a poradenské služby,
   * certifikací členů docílit zvýšení autority a prestiže konzultantů v oboru pohostinství a cestovního ruchu jako celku,
   * navazovat vztahy s obdobnými konzultačními asociacemi, odbornými institucemi, živnostenskými a cechovními společenstvy doma i v zahraničí k výměně zkušeností,
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

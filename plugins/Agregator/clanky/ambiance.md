@@ -5,7 +5,7 @@
 
 # Ambiance v gastronomii
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="gastronomie, Amerika, Francie"}
 
@@ -18,6 +18,16 @@ _Ambiance {xml:lang="fr"}_ jsou ale i jiná specifika, jako je například ojedi
 I když jsou dnešní návštěvníci restaurací daleko sofistikovanějšími hosty, než byli před Sametovou revolucí, tak se přesto najdou i tací, kteří omylem vejdou do nestandardní restaurace a domáhají se jídel, na které jsou zvyklí a které třeba i znají. Pokud taková jídla restaurace nemá, tak se jejich neuspokojení obrátí v nepodložené stížnosti či pomluvy.
 
 Jak dnes již víte, tak se jak na těchto stránkách, tak i v jiných mediích snažím české hosty poučit v tom, co mohou v jednotlivých typech pohostinských provozů očekávat a co jim za jejich peníze patří. Bohužel to chce ale čas.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: bakery
  [2]: know_how

@@ -5,7 +5,7 @@
 
 # Omáčka demi-glace
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="omáčka, recept, Francie"}
 
@@ -61,6 +61,16 @@ Zelenina nemusí být loupaná, ale musí být dobře očištěná a opraná. Po
 Na horkém přepuštěném másle, případně oleji, orestujeme zbytky šunky a slaniny, přidáme zeleninu a koření a restujeme na požadovanou barvu. Čím tmavší _mirepoix {xml:lang="fr"}_, tím tmavší bude váš pokrm či omáčka.
 
 _Mirepoix {xml:lang="fr"}_ určený k pozdějšímu použití můžeme rozdělit na menší dávky a zmrazit do dalšího použití.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: auguste_escoffier
 

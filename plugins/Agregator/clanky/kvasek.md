@@ -5,7 +5,7 @@
 
 # Kvásek
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="co-kdy-kde"}
 
@@ -14,4 +14,14 @@ Kvásek je zahušťovací prostředek z hladké mouky a malého množství vody 
 Obzvláště kvásek připravený z vody, neobsahuje žádný tuk, tudíž má podstatně menší kalorickou hodnotu než jíška. Nevýhodou je, že oproti pokrmům zahuštěným jíškou, ve které mouka je již z části uvařená, se pokrm zahuštěný kváskem musí vařit nejméně 30 minut, případně o něco déle, aby se chuť mouky vyvařila.
 
 Zbylý kvásek je výborné lepidlo na lepení tapet.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

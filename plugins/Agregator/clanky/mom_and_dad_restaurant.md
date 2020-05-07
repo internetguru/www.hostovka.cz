@@ -5,7 +5,7 @@
 
 # Mom and Dad Restaurant
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="koho se to týká"}
 
@@ -62,4 +62,14 @@ V tom horším případě je ta Vaše restaurace sice stále plná ale na každ�
 Závěrem tudíž všem kteří máte nějakou restauraci která Vám jakž takž běží mohu říci že je lepší holub v hrsti nežli vrabec na střeše a tak pokud na to nemáte ani čas ani peníze a ani ten know how, tak se do nějakého Stekhousu nepouštějte.
 
 M. Klima
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

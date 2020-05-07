@@ -5,7 +5,7 @@
 
 # Marie-Antoine Carême
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="kdo-kdy-kde, Francie, osobnost"}
 
@@ -30,6 +30,16 @@ Carême byl pro mě již od útlého mládí modelem v tom smyslu, že podobně 
 Carême byl první, kdo omezil dosud obrovská menu pouze na polévku, pečeni se zeleninou, pošírovanou rybu, pečenou drůbež, salát, zákusky a dezert. Carême byl také první, kdo začal zjednodušování [jídelních lístků][2], ale byl to jeho velký obdivovatel \[Escoffier\]\[escoffier_auguste\], kdo koncem devatenáctého století přivedl tyto zkrácené [jídelní lístky][2] do praxe.
 
 Carêmovo jméno žije v knihách, které napsal, a v mimořádných jídlech, která vytvořil. Je uznáván jako největší kuchař všech dob a zároveň je znám také jako jeden z nejvznětlivějších. Ale když byli králové, princové a věhlasní státníci ochotni bojovat za to, aby si Carêma ve své kuchyni udrželi, tak komu záleželo na jeho vznětlivosti. Když umíral, tak se údajně posadil na posteli a zakřičel: „Zamíchejte s tím kastrolem!“
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: food_styling
  [2]: /jidelni_listek

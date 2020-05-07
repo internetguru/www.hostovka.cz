@@ -5,7 +5,7 @@
 
 # Na letadlech
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -112,4 +112,14 @@ No přeci kuřecí kuře nebo hovězí hovězí. Tudíž nějakou gastronomickou
 Prostě dnes tu stewardku může dělat kde kdo a ani na to nemusí vidět.
 
 Na letadle nemůžete dostat žádnou dietu. Letadlo není nějaká létající nemocnice, ale při bookování vašeho letu si ale můžete objednat zvláštní jídlo jako je například vegetářské, košer, hindu, buddhistické, muslimské apod.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

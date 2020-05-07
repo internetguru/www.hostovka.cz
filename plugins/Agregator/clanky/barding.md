@@ -5,7 +5,7 @@
 
 # Barding neboli obalování masa tukem
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="kuchyňské techniky, maso"}
 
@@ -18,4 +18,14 @@ Masa, která nejsou dostatečně tučná nebo nemají dostatečné mramorování
 Pokrývání masa tenkými plátky tuku se zabraňuje jeho spálení nebo vysušení na povrchu. Tento tuk se během grilování či pečení vypeče, ale masu zůstává lepší chuť.
 
 Je tedy až trestuhodné, když někteří naši kuchaři z masa určeného k pečení nebo k přípravě steaků „opižlají“ i ten poslední kousek tuku.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

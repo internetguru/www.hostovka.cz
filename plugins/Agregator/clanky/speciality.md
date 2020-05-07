@@ -5,7 +5,7 @@
 
 # Speciality podniku
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -259,6 +259,16 @@ Vložení se dá řešit několika technikami, z nichž jedna jsou speciální �
 Tyto vložky by měly být stejně úhledné jako je samotný lístek, a neměly by jídla na lístku zakrývat (leda že je to úmyslem). Vložka by měla být do lístku vkládána tak, aby při každém jeho otevření nevypadla. V zásadě každý z těchto způsobů umožňuje dělat rychlé změny ve výběru specialit, rychlé změny v cenách nebo jejich popisů.
 
 Případně jsou speciality napsané na samostatných kartách a zasunují se do zářezů na jídelním lístku. Každá taková karta má na druhé straně číslo příslušné receptury a kalkulace. V obou případech jde o velkou úsporu.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: /jidelni_listek
  [2]: /a_la

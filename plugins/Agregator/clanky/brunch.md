@@ -5,7 +5,7 @@
 
 # Pozdní snídaně neboli brunch
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="gastronomie, brunch"}
 
@@ -247,6 +247,16 @@ Pečivo prezentujeme na odděleném stole v košících. Přikládáme k němu k
 Moučníky a jiné sladkosti jsou na brunchích oblíbeným artiklem. Moučníky však musí být podávány v malých porcích. Hosté totiž rádi ochutnávají více druhů.
 
 Hosté ale dokáží z moučníků docela rychle udělat pěkný masakr. Proto je i zde ideální, když můžeme moučníky připravovat na objednávku před zraky hostů.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: /mc_donalds
  [2]: /jednohubky#druhy_jednohubek

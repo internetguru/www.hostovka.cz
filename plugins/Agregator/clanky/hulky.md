@@ -5,7 +5,7 @@
 
 # Jídelní hůlky
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="gastronomie, jídelní hůlky, Čína"}
 
@@ -53,4 +53,14 @@ Japonci vyráběli hůlky většinou ze dřeva. Japonci byli také první, kdo v
   * Pokud jste hůlky měli již v ústech, tak k podání jídel ze společné mísy použijte druhý konec hůlek.
 
 Pokud hůlky nepoužíváme, pokládáme je před sebe na jakési podložky (anglicky _chopsticks rest {xml:lang="en"}_), na kterých hůlky leží – tak aby se nepotřísnil ubrus. Kobylky pro odkládání použitých hůlek se vyrábí v několika variantách. Většinou jsou z levných materiálů, protože si je hosté rádi berou jako suvenýr. V domácnostech mohou být ale i stříbrné.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

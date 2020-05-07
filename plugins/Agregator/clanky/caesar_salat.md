@@ -5,7 +5,7 @@
 
 # Suroviny a příprava Caesar salátu
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="gastronomie"}
 
@@ -67,6 +67,16 @@ Plánováním akce se asi 4 měsíce dopředu zabývalo více než 120 studentů
 V Tijuaně je přes den velmi horko, a proto většina přípravných prací probíhala v noci před prezentací. Muselo se nakrájet 1.200 hlávek salátu, na minutu povařit 1.200 vajec a přidat je k ostatním surovinám dresinku. Dresink mimo jiné obsahoval 75,7 litrů olivového oleje, 53,2 kg citrónů, a 99,9 kilogramů strouhaného parmazánu.
 
 Z rodiny Santini bohužel nebyl nikdo přítomen. Na míchání salátu dorazil Alex Caesar Cardini III. a zástupci vlády, kteří museli potvrdit délku salátové mísy, váhy surovin a celkovou identitu této významné akce.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: /files/thumbs/clanky/caesar_salat/04-06-07-5.JPG
  [2]: /files/thumbs/clanky/caesar_salat/04-06-07-6.JPG

@@ -5,7 +5,7 @@
 
 # Hnědý nos českých kuchařů
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="koho se to týká, Česká republika"}
 
@@ -70,6 +70,16 @@ Andrea Accordi potřeboval k tomu, aby se stal v Česku slavným jen půl roku. 
 Nakonec vám musím dát jednu radu. Nemějte strach před velkými zvířaty a „bulšitáři“. Utřete si své hnědé nosy a řekněte si, že už toho je dost. Dejte lidem to, co chtějí a co jim za jejich peníze patří – nejen v hotelích, ale i v té nejzapadlejší hospodě. Nehoňte se za hvězdami, ale za spokojeností vašich hostů.
 
 Přestaňte také blbnout s falešným vlastenectvím a snahami oživit naši „dobrou starou českou kuchyni“ nesmyslnými specialitami nebo recepty od Marie B. Svobodové z roku 1894. Učte se od každého, kdo vám může něco dát, ale nelezte nikomu do zadku!
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: bullshit
  [2]: gastronomie

@@ -5,7 +5,7 @@
 
 # Divoká rýže
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="zbožíznalství"}
 
@@ -16,4 +16,14 @@ Tato rýže je velice pracně ručně sklízena místními Indiány podle insdi�
 Je velice populární a proto některé restaurace pod názvem divoká rýže podávají bílou rýži s smichanou s divokou rýží v poměru asi 2:8.
 
 Divoká rýže, pokud je spráíně uvařená se velice navaří takže z jednoho kilogramu syrové rýže můžete získat 40 až 48 šálků vařené což je asi tak 80 až 90 porcí.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

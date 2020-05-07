@@ -5,7 +5,7 @@
 
 # Druhy a příprava krabů
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="jídla a jídelní lístky, recept, krabi"}
 
@@ -52,4 +52,14 @@ Pojídání krabů, hlavně těch velkých, není žádná věda. Po skončení 
 Ve většině restaurací vám vanu sice nepřinesou, ale podávají kraby s už rozdrcenými klepety. Někteří labužníci dávají přednost tomu, že si klepeta rozlousknou sami. V tom případě vám podají louskáček na klepeta a případně i malý bryndáček, abyste si nepotřísnili kravatu.
 
 Skladování krabů je jednoduché. Živé kraby přikryjeme vlhkou utěrkou a uložíme v chladném místě kde nám vydrží až 12 hodin. Dříve než je začneme vařit, tak se přesvědčíme, zda se ještě hýbou (zda jsou živí). Vařit mrtvé kraby je dosti riskantní byznys. Nakonec i vaření krabi by se měli spotřebovat ten den, kdy byli uvařeni.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

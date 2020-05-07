@@ -5,7 +5,7 @@
 
 # Důležitost propagace
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="životopis"}
 
@@ -32,4 +32,14 @@ My Religious Philosophy
 :   He never has asked, if I’m Protestant, Catholic or Jew.
 
 Já například nerozumím ničemu jinému než pohostinství. Nejsem ještě první na světě, ale pracuji na tom a už jsem sakramentsky blízko. Člověk musí být zatraceně dobrý, aby byl lepší, než jsem já. Tolik o mé skromnosti.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

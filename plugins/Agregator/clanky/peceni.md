@@ -5,7 +5,7 @@
 
 # Pečení
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="kuchyňské techniky"}
 
@@ -60,4 +60,14 @@ Lososa en Papillote můžete ochutnat v restauraci STEAKGRILL popsané na těcht
 ## Pomalé pečení
 
 Pomalé pečení, anglicky slow roasting metod se poučívá hlavně u větších kusů masa jako je například prime rib nebo steamship round. Účel je snížit ztráty vypčením na minimum. Při několika kilogramech masa to není ani tak rozhodujicí ale při pečení dejme tomu 50 prime ribů to představuj nezanedbatelnou úsporu.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

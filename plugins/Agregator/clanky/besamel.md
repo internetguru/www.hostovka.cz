@@ -5,7 +5,7 @@
 
 # Omáčka bešamel a její varianty
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="jídla a jídelní lístky, omáčka, recept"}
 
@@ -94,4 +94,14 @@ Příprava omáčky je jednoduchá:
 {class="example"}
 
 Kdysi bylo běžné omáčku mornay zjemňovat žloutkem a smetanou _(anglicky liaison)_. Omáčka byla sice jemnější, ale měla nesmírné množství kalorií. Dnes už se od této praxe upouští.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

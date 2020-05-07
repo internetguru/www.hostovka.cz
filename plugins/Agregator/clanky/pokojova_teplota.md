@@ -5,7 +5,7 @@
 
 # Pokojová teplota
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="gastronomie"}
 
@@ -22,4 +22,14 @@ Na to bohužel někteří autoři, lépe řečeno opisovači či překladatelé 
 Například červené víno, keré podle všech vžitých pravidel má být podávané při pokojové teplotě, je napříkla v Kalifornii v mnoha případech podáváno chlazené a to samé se dá říci o teplotě piva. _What a country! {xml:lang="en"}_
 
 Neboli i zde platí americké přísloví "In Rome, do as the Romans do".
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

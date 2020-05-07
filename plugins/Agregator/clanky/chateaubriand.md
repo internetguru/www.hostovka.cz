@@ -5,7 +5,7 @@
 
 # Proslulý francouzský pokrm chateaubriand
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -84,6 +84,16 @@ Na druhé straně jsou ale hosté (např. absolventi Hostovky), kteří vědí, 
 Podle mého gastronomického náboženství byste k němu měli pít červené víno a na každý pád takové, které vám nejlépe chutná. Neměli byste na něm moc šetřit. Když už vydáváte hříšné peníze za chateaubriand, tak si můžete dovolit hřešit i na víně.
 
 Prostě kolonku s cenami zakryjte rukou a objednejte si víno takové, které také denně nepijete. Dobrou chuť!
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: /files/thumbs/clanky/chateaubriand/2-7-06-1.jpg
  [2]: /files/preview/clanky/chateaubriand/2-7-06-2.jpg

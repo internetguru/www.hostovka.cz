@@ -5,7 +5,7 @@
 
 # Prime Rib
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -492,4 +492,14 @@ Jsou ale také lidé kterým naopak vadí, že dnes 15 let po té Sametové revo
 Těmto lidem ale já moc nepomohu. Mohu jim jedině poradit, aby se i v Česku tvrdě domáhali toho co jim za jejich peníze patří.
 
 Mohu jim ale říci, aby byli trpěliví. Já ty primeriby zatím jen popisuji, ale pevně věřím, že v restauracích konceptu STAKTGRILL büdou jednoho dne k dostání a pak zanimy do zahraničí již nebudou muset jezdit.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

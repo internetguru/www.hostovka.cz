@@ -5,7 +5,7 @@
 
 # Liquid smoke
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="co-kdy-kde"}
 
@@ -22,4 +22,14 @@ Ano, já používám anglické gastronomické výrazy a sice proto, že angličt
 Liquid smoke je ale úplně jiné zvíře. Něco takového bych v mých receptech nikdy nepoužil. Liquid smoke se v Americe používá do tak zvaných "rádoby uzenin", neboli do masných výrobků které se neudí a dá se jim jen uzená vůně a chuť.
 
 Ale budiž, to je při průmyslové výrobě, ale 99% lidí při domácí nebo restaurační přípravě jídel ten tekutý kouř neumí používat a takové výroby jsou pak spíše odporné než přitažlivé.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

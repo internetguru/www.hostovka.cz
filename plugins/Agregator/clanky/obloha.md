@@ -5,7 +5,7 @@
 
 # Obloha
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -195,4 +195,14 @@ Snad jen to, že toto jsou informace jen pro Vás protože jste se na to ptal a 
 Studentům Hostovky, kteří jak předpokládám že to dočetli až dokonce, mohu ale doporučit, aby si v Česku před jídlem místo předkrmu nedávali něco jako malý salát, což mám rád já místo překrmu, protože jr o nšco co vám pak přidají teměř ku každému jídlu jako oblohu.
 
 Pokud se překrmů týká, tak o těch vám zde také něco napíši jen co mi zde opadne ten fofr.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

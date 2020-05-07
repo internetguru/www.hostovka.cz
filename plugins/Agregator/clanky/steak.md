@@ -5,7 +5,7 @@
 
 # Co je to steak
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="jídla a jídelní lístky, steak, telecí, hovězí"}
 
@@ -88,6 +88,16 @@ n/a
 {var="doclist-faq"}
 
 Seznam příbuzných dotazů není k dispozici
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: http://2017.hostovka.cz/soubor/27-09-06-5.JPG
  [2]: http://2017.hostovka.cz/soubor/27-09-06-6.JPG

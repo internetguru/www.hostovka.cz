@@ -5,7 +5,7 @@
 
 # Bullshit a špatná mluva
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="co-kdy-kde, Amerika"}
 
@@ -40,6 +40,16 @@ Pro dokonalé porozumění každého cizího jazyka musíte znát i význam těc
 Již jsem se někde zmínil, že přestože jsem měl nějakou _Kinderstube {xml:lang="de"}_ (česky výchovu), tak první kniha, kterou jsem si po příchodu do Ameriky koupil, byla Kompletní kniha etikety od Amy Vanderbilt. To, abych náhodou neudělal nějaké faux pas.
 
 Nicméně jsem si někdy připadal velice trapně, když jsem použil nějaký výraz nevhodně, nebo když jsem některým _four letter words {xml:lang="en"}_ nerozuměl. Proto hned druhá kniha, kterou jse si v Americe koupil, byl slovník _Four letter words {xml:lang="en"}_. Tam byla slova, která sice v žádném školním slovníku nenajdete, ale bez kterých se neobejdete.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: chucpa
 

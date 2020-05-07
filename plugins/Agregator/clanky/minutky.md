@@ -5,7 +5,7 @@
 
 # Minutky
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="co-kdy-kde"}
 
@@ -22,4 +22,14 @@ Nakonec i většina jídel označených jako "fast food" je připravena tímto z
 Kuchaři připravující jídla tímto způsobem byli v Česku označováni jako minutkáři a ironie je, že v mnoha případech byly lépe placeni než kuchaři připravující tak zvané hotovky, které potřebovaly delší dobu přípravy a daleko větší odbornost.
 
 Dnes právě díky restauracím zvaným "fast food" se ukázalo, že většinu těchto "minutek" může po krátkém zaškolení připravovat kde kdo, aniž by byl vyučen. Já například mám ty nejlepší zkušenosti s moji technikou "ASSEMBLY COOKING" kterou již několik let používám při výuce a tréniku neodborníků v mnoha zemích a těžko mně někdo může přesvědčit, že tato technika nemá budoucnost. Prostě moje zásada je, učit lidi lacino a rychle jen to co potřebují k výkonu svého zaměsnání, nic méně - nic více a zatím mám po celém světě ty nejlepší výsledky.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

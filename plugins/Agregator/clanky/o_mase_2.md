@@ -5,7 +5,7 @@
 
 # O mase 2
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -178,4 +178,14 @@ Châteaubriand se v každém případě musí dranžírovat, neboli porcovat u s
 Servírující musí mít na paměti, že ani častí návštěvníci restaurací (anglicky restaurant goers) nejedí každý den a někteří hosté, a těch je většina, se s tímto jídlem setkávají poprvé.
 
 Kolem toho šatobriándu a těch ostatních steaků z hovězího masa je toho o mnoho více, ale já jsem vám jako studentům Hostovky toho napsal jen tolik abyste si udělali představy co byste za vaše peníze mohli dostat.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

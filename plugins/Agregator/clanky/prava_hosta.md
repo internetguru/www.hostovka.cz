@@ -5,7 +5,7 @@
 
 # Práva hosta
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="restaurace a servis"}
 
@@ -48,4 +48,14 @@ Mnozí také o mnoho více cestují a navíc jim kdysi jejich cestovní kancelá
 Tudíž zahraniční turista ví, co má a co nemá jíst, co má pít, na co má nárok a na co ne, kolik za to budou muset asi zaplatit, a také něco velice důležitého a to je ? kolik by měli dát spropitného.
 
 V současné době těch zahraničních turistů v na3em konceptu sice moc nemáme, ale zásadou našeho konceptu je jednat se všemi hosty stejné, ale přesto v kapitole KLIENTELA naleznete informace o tom jak s našimi zahraničními hosty jednat.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

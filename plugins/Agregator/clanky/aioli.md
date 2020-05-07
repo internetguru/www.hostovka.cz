@@ -5,7 +5,7 @@
 
 # Italská dochucovací omáčka aioli
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="co-kdy-kde, omáčka, recept, Itálie"}
 
@@ -27,4 +27,14 @@ Aioli je vlastně česnekem ochucená majonéza. Existují ale její různé dru
 {class="important"}
 
 Omáčka se podává při pokojové teplotě, ale měla by být uchována v lednici.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

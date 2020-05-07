@@ -5,7 +5,7 @@
 
 # Salsa
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -124,4 +124,14 @@ Domněnky jsou, že cilantro bylo jednou z prvních rostlin pěstovaných v Seve
 O cilantru byly zmínky v thébských lékařských papyrosech psaných 1552 před n.l. a rostl v babylonských visutých zahradách. Staří Židé přidávali cilantro do rituálního koření používaného při Passover.
 
 Řečtí lékaři cilantro přičítali léčivé účinky.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

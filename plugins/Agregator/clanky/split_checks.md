@@ -5,7 +5,7 @@
 
 # Split Checks
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="restaurace a servis"}
 
@@ -54,4 +54,14 @@ Obsluhujicí v hodnou formou všem hostům poděkuje za jejich návštěvu a po�
 Při vracení peněz na větší bankovku podrží inkasujicí tuto bankvku viditelně v levé ruce, pravou rukou vráti hostu napřed mince a potom teprve bankovky a dá hostu možnost si vrácené peníze přepočítat. Potom teprve bankovku kterou host platil uloží do pokladny nebo do kasírtašky.
 
 Dalo by se přdpokládat, že tyto a podobné zásady obsluhy a péče o hosta se naši obsluhujicí naučili na školách na kterch studovali, ale jak vážení studenti vidíte, tak asi nezbude nic jiného než aby si každá restaurace své zaměsnance vychovala podle toho co jejich hosté chtějí a na co mají za své peníze právo.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

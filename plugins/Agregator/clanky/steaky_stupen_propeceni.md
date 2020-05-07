@@ -5,7 +5,7 @@
 
 # Steaky stupeň propečení
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="kuchyňské techniky"}
 
@@ -103,4 +103,14 @@ Dobu grilování určuje:
   * Zda steaky byly tenderizovány
   * Typ tepelného zdroje
   * Vzdálenost steaku od tepelného zdroje
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

@@ -5,7 +5,7 @@
 
 # Gastronomové
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="gastronomie, gastronom, gurmet, gurmán, labužník, snob, host"}
 
@@ -102,6 +102,16 @@ Jedno z populárních rčení v americkém restauračním byznysu říká, že �
 V Česku díky 40 letům gastronomického temna bohužel uvědomělých hostů moc nemáme. Hostů, kteří by věděli, jaké mají přání a co jim za jejich peníze patři je velice málo.
 
 Nauka gastronomie, chování v restauracích a společenského chování vůbec musí začít v rodině a ve škole, ale také v každé restauraci. Je například doslova nezodpovědné, když restaurace uvádí na jídelním lístku jídla bez jejich patřičného popisu.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: /modni_pojmy
 

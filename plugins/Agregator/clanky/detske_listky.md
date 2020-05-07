@@ -5,7 +5,7 @@
 
 # Dětské jídelní lístky
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="jídla a jídelní lístky, děti, případová studie"}
 
@@ -96,6 +96,16 @@ Nedávno jsme byli s mými vnoučaty v jedné relativně populární italské re
 V našem případě, než ty makarony donesli, tak se ti moji „hajzlíci“ samozřejmě narvali chlebem, máslem a preclíkama, které tam měli v košíčku na stole. Bohužel servírka místo makaronů přinesla těstovinové mušličky, které se podávají buď jen s máslem, rajčatovou nebo masovou omáčku ragú. Tudíž se jich moji gurmáni ani nedotkli.
 
 Servírka, jak je tomu v Americe zvykem, se za chvilku přišla zeptat, jestli je vše v pořádku. Podle mě nebyla moc inteligentní, protože mohla vidět, že se děti toho jídla ani nedotkly. Řekl jsem jí, že to v pořádku není. Načež tomu ta „jídlonoška“ dala korunu tím, že místo aby se omluvila a nabídla dětem něco jiného, tak řekla, že to u nich pod tímto názvem takto podávají.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: /jidelni_listek
 

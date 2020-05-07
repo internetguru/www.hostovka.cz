@@ -5,7 +5,7 @@
 
 # Pravý původ guláše
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="jídla a jídelní lístky, guláš, Maďarsko"}
 
@@ -53,6 +53,16 @@ Takové povídačky, že se po 3 hodinách každá hotovka musí vyhodit, ať si
 Musím se ale přiznat, že jsem v Americe všechny „české“ guláše také s úspěchem dělal. Musel jsem ale každý z nich vařit denně čerstvý, protože americké maso je tak kvalitní, že by se po druhém ohřátí úplně rozpadlo.
 
 Jestli máte také nějaké triky, kterými by se EU dala oblafnout, tak mi je neváhejte napsat. Dejte lidem to, co chtějí a co jim patří!
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: /duseni
  [2]: /chucpa

@@ -5,7 +5,7 @@
 
 # Popis jídel na jídelních lístcích
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -98,4 +98,14 @@ Pokud je to možné bychom jídla na českých jídelních lístcích, měli uv�
 Jídlo, jako například Prime rib a Yorkshire pudding, se nedá do češtiny přeložit, protože prime rib jsou hovězí žebra prvé jakosti (prime), a Yorkshire pudding není vlastně puding, ale speciální vaječné těsto pečené v horkém omastku ve kterém nasufluje tak, že téměř ztřínásobí svůj objem.
 
 Toto, ale mnoho jiného na toto téma se budte moci dozvědět při připravovaném semináři "TORBA JÍDELNÍCH LÍSTKŮ".
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

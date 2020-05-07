@@ -5,7 +5,7 @@
 
 # Gastronomické výrazy
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="gastronomie"}
 
@@ -48,4 +48,14 @@ Já ale jak jste si povšimli používám americkou odbornou terminologii i v ji
 Není to ale také jen s ohledem na odborníky. Nakonec i většina sofistikovaných hostů se dnes lépe orientuje v anglicky psaných jídelních lístcích spíše než v těch francouzských.
 
 M. Klima
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

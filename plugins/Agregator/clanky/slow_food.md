@@ -5,7 +5,7 @@
 
 # Slow food
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="gastronomie"}
 
@@ -60,4 +60,14 @@ Již jsem také někde napsal, že drahé a luxusní restaurace budou existovat 
 Všechno je to o penězích, tudíž přesto, že jsem přesvědčen že české hotelové školy se problematikou Fast a Slow Food, tak i problematikou tvorby cen zabývají tak z toho mraku hned tak pršet nebude.
 
 Já připravuji pro Českou republiku seminář TVORBA RECEPTŮ A KALKULACÍ, ve kterém stěžejní motiv je logistika, cenotvorba a ekonomika, ale musím se přiznat že i RYCHLOST, RYCHLST, a RYCHLOST.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

@@ -5,7 +5,7 @@
 
 # Steaky preference
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="kuchyňské techniky"}
 
@@ -118,4 +118,14 @@ To víte, díky té grillmanii grillmanem je v Česku dnes již kde kdo, ale vě
 Udělat jakž takž dobrý steak z amerického masa na správném zařízení není vlastně moc velké kuchařské umění, a není to vlastně ani žádné vaření, ale udělat dobrý steak z masa které je v současné době na Českém trhu k dostání je skutečně veké umění a já vím o čem mluvím.
 
 Já jsem totiž téměř denně ve styku s Jardou Honzajkem, majitelm restaruace STEAKGRILL, kterého považuji na našeho nejzkušenějšího grilmana a ten by vám o české steakovém mase mohl povídat hodiny a hodiny.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

@@ -5,6 +5,8 @@
 
 # Výroba a použití balzamikového octa
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
+
 {kw="co-kdy-kde"}
 
 Balzamikový ocet se dnes díky kreativitě kuchařů a díky tomu, že jeden kopíruje od druhého, stal nezbytným nejenom v Itálii nebo v italských restauracích, ale i v jiných dražších restauracích po celém světě. Italové používají balzamikový ocet již po celá staletí. Balzamikový ocet se dělí na červený a bílý.
@@ -13,7 +15,7 @@ Balzamikový ocet se dnes díky kreativitě kuchařů a díky tomu, že jeden ko
 
 Bílý balzamikový ocet se tak moc nepoužívá, a to ani v Itálii, kde tyto octy vzniky. Je to asi proto, že bílé balzamikové octy nemohou zrát tak dlouho, jako červené a mají také poněkud jinou nasládlou chuť.
 
-Silná, slabě nasládlá chuť balzamikového octa se přímo nabízí k přípravě [octových dresinků](zalivka_dresink#dresinky). Obzvláště se hodí pro ovocné saláty s čerstvým ovocem, jako jsou například maliny, jahody a broskve. Výraznost jeho chuti přesahuje chuť jeho chudšího bratrance vinného octa.
+Silná, slabě nasládlá chuť balzamikového octa se přímo nabízí k přípravě [octových dresinků][1]. Obzvláště se hodí pro ovocné saláty s čerstvým ovocem, jako jsou například maliny, jahody a broskve. Výraznost jeho chuti přesahuje chuť jeho chudšího bratrance vinného octa.
 
 Dříve než se ale pustíte do přípravy tisíců dresinků s balzamikovým octem, tak byste se o něm měli něco dozvědět.
 
@@ -51,7 +53,7 @@ Nicméně je dobře ho skladovat v chladném a tmavém místě, daleko od zdroje
   * Pro marinování používáme balzamikový ocet jen zřídka, a to jen po velmi krátkou dobu.
   * Pokud jste alergičtí na sulfáty, tak si ověřte nálepku. Ne všechny balzamikové octy je obsahují, ale některé levnější druhy ano.
   * Teplota zvyšuje sladkost balzamikových octů a vyvařuje jejich kyselost. Jestli tedy dáváte přednost jemné chuti, tak ho ohřejte. Naopak jestli ne, tak ho nevařte a přidávejte ho do jídla až těsně před dohotovením.
-  * Lžička nebo dvě balzamikového octa dokáže probudit chuť slabé polévky, omáčky nebo [dušeniny](duseni).
+  * Lžička nebo dvě balzamikového octa dokáže probudit chuť slabé polévky, omáčky nebo [dušeniny][2].
   * Balzamikový ocet s cukrem se dobře snoubí s čerstvým ovocem, jako jsou jahody, maliny, broskve, případně i meruňky.
 
 {id="dalsi" var="inputvar-pribuzne_h"}
@@ -63,4 +65,7 @@ n/a
 {var="inputvar-relation@var"}
 
 Příbuzné články nejsou k dispozici
+
+ [1]: zalivka_dresink#dresinky
+ [2]: duseni
 

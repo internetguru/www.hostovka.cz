@@ -5,7 +5,7 @@
 
 # Studené polévky
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="jídla a jídelní lístky, polévky, recept, Špaňelsko, Francie, Řecko"}
 
@@ -48,6 +48,16 @@ Je to jednoduchá polévka z vařeného pórku a brambor, která se ve francouzs
 Pokud jste byli v Řecku a neochutnali jste řecké [citróny][2] nebo polévku avgolemono, tak toho o Řecku moc nevíte. Citróny se v řecké kuchyni přidávají do všeho a polévka není výjimkou.
 
 Polévka avgolemono, je tak jednoduchá, že vám zde ani nebudu uvádět recept. Je to silný hovězí nebo drůbeží vývar, do kterého jsou přešlehány žloutky s citrónovou šťávou. Tato polévka je tak populární, že se objevuje na jídelních lístcích mnoha mezinárodních restaurací. Podává se horká, ale v létě i studená.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: /druhy_polevek
  [2]: /citrony

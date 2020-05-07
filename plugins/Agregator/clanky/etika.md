@@ -5,7 +5,7 @@
 
 # Etika
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="etika"}
 
@@ -62,4 +62,14 @@ Tu Hostovku spravuji ale já, a tak pokud Vaše dotazy, příspěvky nebo kritik
 S pozdravem
 
 M. Klima
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

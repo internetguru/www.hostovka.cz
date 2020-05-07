@@ -5,7 +5,7 @@
 
 # České pohostinství
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="gastronomie"}
 
@@ -48,4 +48,14 @@ Nakonec i za socializmu naše rodná strana a vláda poslala jednoho soudruha na
 Já jen doufám, že ti naši kuchaři, kteří se eventuálně ze zahraničí vrátí, budou schopni se o své zkušenosti podělit s těmi mladšími a že pomohou zlepšit naše odobrné školství protože ať si říká kdo chce co chce, tak v tom je zakopaný ten pes.
 
 Doufám, že z nich vyrostou novodobé modely které nahradí ty zprofanované které ze zoufalství dnes máme. Doufám také, že přestanou už blbnout s tou Magdalenou Dobromilou Rettigovou a že zabrání tomu, aby ji naši "odborníci" nahradili někým takovým jako je M.B. Svobodová.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

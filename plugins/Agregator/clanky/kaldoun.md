@@ -5,7 +5,7 @@
 
 # Kaldoun
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -36,4 +36,14 @@ Tatínek totiž z celé té husy měl totiž ta játra nejraději. Co to je pât
 No, a jak maminka pekla tu husu a co jsme s ní pak dělali vám napíši až někdy jindy.
 
 Apropó, pokud chcete ochutnat kaldoun podle receptu mé babičky tak musíte jít do restaurace Steakgrill v Račiněvsi u Roudnice.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

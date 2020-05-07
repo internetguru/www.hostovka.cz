@@ -5,7 +5,7 @@
 
 # Neznámé potraviny
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="gastronomie"}
 
@@ -22,4 +22,14 @@ Teď si k tomu přičtěte všechny ty francouzské výrazy ve kterých si někt
 Naštěstí je tady teď Hostovka na které se význam těchto výrazů většinou dozvíte.
 
 Mám-li ale být upřímný tak to není řešení protože tím se situace jídelních lístků neřeší a proto mně udivuje, že v Česku, ani na Slovensku není nějaká odborná organizace která by se takovými problémy zabývala.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

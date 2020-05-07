@@ -5,7 +5,7 @@
 
 # Shrimp de Jonghe
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -32,4 +32,14 @@ Jediné co k tomu můžete přidat je citrón ale ne nějaký "terč" jak je v �
 Také ta graténka (shirred egg dish) by měla být bílá porcelánová, ale já bohužel doma jinou než nerezovou nemám.
 
 Vy se s tím doma asi dělat nebudete, ale během několika dnů, jakmile dodělají testy, budete moci tuto lahůdku ochutnat v restauraci STEAKGRILL v Račiněvsi.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

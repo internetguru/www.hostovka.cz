@@ -5,7 +5,7 @@
 
 # Dress Code
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="restaurace a servis"}
 
@@ -110,4 +110,14 @@ Já v současné době pracuji na Dress Code pro můj koncept STEAKGRILL a mohu 
 Jelikož ale máme teď tu demkracii tak případný uchazeč o místo v našem konceptu, který s tím nesouhlasí, prostě v našem konceptu ani nenastoupí.
 
 No, a pokud se týká vás jako studentů hostovky, tak vám mohu říci, že i když nejste oblečeni jak se sluší a patří, tak vás ve většině restaruací nejspíše obslouží, ale pokud si chcete získat nějaký respekt tak nevystupujte moc z řady.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

@@ -5,7 +5,7 @@
 
 # Češi nečtou
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="pohostinství"}
 
@@ -74,4 +74,14 @@ Proč to ale takto popisuji. Česká media se předhání v popisování všech 
 Co mi ale vadí, že ani jeden z těch reportérů nezajde do těch bezejmenných českých vesnických hospod, o kterých se nikde nemluví. Vadí mi, že jim nikdo ani nepoděkuje za to, že si huntují zdraví v tom zakouřeném prostředí, ve kterém musí celý den poslouchat to hulákání těch hostů, a to mlácení do stolu těch karbaníků. Že jim nikdo nepoděkuje za to, že pomáhají lidem překlenout dobu od výplaty k výplatě bezúročnými půjčkami, apod.
 
 Já vím, že k tomu, aby někdo dostal uznání nějaké organizace, že napřed musí být jejím členem, který platí příspěvky, ale myslím si, že města a obce, by měly mít tu iniciativu ocenit dobrou práci restauračních podniků a v jejich regionech, včetně těch bezejmenných hospod, které nejsou nikde organizovaně a místo fotografie pana Pohlreicha, jim dávat například fotografii pana starosty.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

@@ -5,7 +5,7 @@
 
 # Odborníci v pohostinství
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="pohostinství"}
 
@@ -29,4 +29,14 @@ Pan Dr. Maurer také neuvádí, podle jakých kriterií byly ty restaurace hodno
   * 18 bodů Essensia, Mandarin Oriental
 
 Některé z těchto restaurací znám a proto se nedivím že měly relativně neuspokojivé recenze uveřejněné buď v Lidových, nebo Hospodářských novinách a mám je zkopírované, a tak mi ten výběr nepřipadá tak docela košer a stejně pochybný mi připadá ten výběr těch „odborníků“. Na každý pád to udělalo velkou kaňku na kredibilitě pana doktora Maurera.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

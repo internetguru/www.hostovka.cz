@@ -5,7 +5,7 @@
 
 # Americké pečené brambory a hranolky
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="jídla a jídelní lístky, brambory, recept, Amerika"}
 
@@ -98,4 +98,14 @@ Dalším druh amerických brambor jsou bramborové hranolky, anglicky _french fr
 Největší restaurační řetězec na světě McDonald's si svoji popularitu nevybudoval na hamburgerech, ale na bramborových hranolkách. Jejich hranolky se vyznačují nejenom vynikající technikou smažení, ale i tím, jak jsou tenké.
 
 Jediné, co mi na hranolkách z McDonald's vadí je, že nejsou připravovány z čerstvých brambor. Takto je připravuje zatím pouze populární kalifornský řetězec In-N-Out Burger. Pokud pojedete do Kalifornie, tak se tam musíte zastavit.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

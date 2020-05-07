@@ -5,7 +5,7 @@
 
 # Co se zaměstnanci, kteří kradou?
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="co-kdy-kde, případová studie"}
 
@@ -66,6 +66,16 @@ Jak motivační a ušlechtilá myšlenka, a přitom tak jednoduchá, že mně a�
 Tomu klukovi tudíž nezbývá nic jiného než udělat nějakou lumpárnu, nechat se zavřít a udělat si školu v kriminálu. Doufám jen, že při přijímacích zkouškách nebude dána přednost těm, kteří jsou za katrem pro podvody a krádeže jenom proto, že tím mají k pohostinství větší predisposice. Doufám, že bude dána možnost i jednomu recidivistovi, o kterém vím, že je v zásadě poctivý a který je v tom lochu jen pro znásilňování.
 
 Doufám také, že si tvůrci tohoto programu uvědomují, že za katrem nesmí být používány ostré předměty. Tudíž na kurzy vyřezávání melounů, což teď v Česku letí, mohou zapomenout.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: chucpa
 

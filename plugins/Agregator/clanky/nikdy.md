@@ -5,7 +5,7 @@
 
 # Nikdy
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="hygiena a sanitace"}
 
@@ -102,4 +102,14 @@ Následně udělá zápis o charakteru stížnosti do kterého napíše teplotu 
 Závěrem Vám vážená Jarčo musím jménem všech studentů Hostovky poděkvat, prože podobné příspěvky pomáhají úroveň našeho pohostisntví zlepšit.
 
 Jedno co musím ale dodat, že podobné případy nejsou úmyslné, ale z hrubé nedbalsti a to se dá zlepšit.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

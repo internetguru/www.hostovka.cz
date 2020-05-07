@@ -5,7 +5,7 @@
 
 # Vepřová panenka parmentier
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -50,4 +50,14 @@ Bramboráky byly v té době v Americe velice populární a dušené červené n
 Barbaru jsem samozřejmě pozval s jejím manželem na večeří do jedné exklusivní restaurace kde nám ten PORK TENDERLOIN STEAK PARMETNIÉRE připravili a mohu vám říci že byl stejně dobrý jako bych ho udělal já.
 
 Pokud chcete ten steak ochutnat, tak máte tu možnost v restauraci STEKGRILL? v Račiněvsi u Roudnice kde ho podle mého názoru také dělají tak jako bych ho dělal já.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

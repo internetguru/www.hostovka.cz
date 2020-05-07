@@ -5,7 +5,7 @@
 
 # Kuchyně domácí
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="gastronomie"}
 
@@ -54,4 +54,14 @@ Velká lednice, velký mrazák, mikrovlnka, grill a případně nějaká rotiser
 Nu, a jelikož dříve nebo později jak všechno špatné tak i všechno dobré se z té zatracené Ameriky dostane k nám, tak můžeme očekávat relativně dobrou budoucnost pro všechny typy restauračních provozů a obzvláště restaurací jako je ta naše.
 
 O zařízení naší kuchyně se dořtete v manuálu technického oddělení.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

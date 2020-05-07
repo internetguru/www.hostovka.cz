@@ -5,7 +5,7 @@
 
 # Doplňky zpříjemňující hostův pobyt
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="ubytování, vybavení, doplňky"}
 
@@ -68,4 +68,14 @@ Některé hotely pod jejich doplňky uvádí i jiné služby, což je vícemén�
   * žehlička na kalhoty,
   * kávovar,
   * servis na pokoji.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

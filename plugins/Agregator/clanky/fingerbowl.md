@@ -5,7 +5,7 @@
 
 # Oplachování prstů po jídle
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="co-kdy-kde, případová studie, Amerika"}
 
@@ -44,6 +44,16 @@ Pro oplachování prstů se voda něčím navoní a případně se do ní přid�
 Některé restaurace rychlého občerstvení, jako je například _KFC {xml:lang="en"}_ dávaly ke každému jídlu malé navlhčené papírové ubrousky v papírovém sáčku. Od toho se ale již také upouští, protože je málokdo používal.
 
 Dnes má (alespoň tedy v Americe) každá restaurace rychlého občerstvení záchody s teplou a studenou vodou a sušičem rukou nebo ručníky k použití zdarma. Některé rybí restaurace mají přímo v jídelně dřez s tekoucí teplou a studenou vodou a s papírovými ubrousky, kde si hosté mohou kdykoliv během stolování umýt ruce, aniž by museli jít na záchod. _What a country! {xml:lang="en"}_
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: sendvice#reuben
  [2]: plody_more

@@ -5,7 +5,7 @@
 
 # Tatarský biftek
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -62,4 +62,14 @@ Tatarský biftek se na českých jídelních listcích uvádí mezi předkrmy. A
 V Americe se také dělá buď na 6 uncí což je 170.1g nebo na 4 unce což je 113.4 g, ale tam je to o něčem jiném. Každým gramem masa se cena toho "tataráku" navyšuje, což není dobře, nehledě k tomu, že lidé se tím "naperou", a pak si již nic jiného nedají.
 
 Podle mně 80g masa spolu s tím žloutkem a ostatními přísadami by mělo stačit a spíše k tomu přidat nějakou vhodnou ozdobu (ne oblohu).
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

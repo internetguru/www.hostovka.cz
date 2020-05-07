@@ -5,6 +5,8 @@
 
 # Příběh restaurace Bakery
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
+
 {kw="restaurace a servis, historka, Amerika"}
 
 Podle všech pouček o podnikání v pohostinství je jednou ze základních podmínek úspěšného provozování restaurace lokalita. Nicméně doslova učebnicovým příkladem, že atmosféra a [ambiance][1] je důležitější podmínkou při provozování restaurace než lokalita, byl můj velmi dobrý a milý přítel pan Louis Szathmary.

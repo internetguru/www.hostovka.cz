@@ -5,7 +5,7 @@
 
 # Prezentace jídel před zraky hostů
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="gastronomie, prezentace"}
 
@@ -38,6 +38,16 @@ Na [brunchích][3] se dranžíruje například pečené hovězí nebo vepřové 
 Mnohdy se dranžér nachází až na konci bufetové linky, což má praktický, lépe řečeno psychologický a ekonomický důvod. Host, který prochází kolem bufetové linky si na talíř nandá napřed porcovanou drůbež, dušeniny, ryby, těstovinová a zeleninová jídla a případně přílohy. V době, kdy dojde k dranžérovi, nemá na maso již téměř žádné místo.
 
 [Sotýrování][4] (od francouzského _sauté {xml:lang="fr"}_), je odborný slang. Je to takzvané smažení nebo přehazování v pánvi.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: /prezentace_jidel
  [2]: /modni_pojmy

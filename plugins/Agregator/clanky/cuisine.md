@@ -5,7 +5,7 @@
 
 # Cuisine
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="gastronomie"}
 
@@ -42,4 +42,14 @@ Tím se dostáváme k tradiční české kuchyni, která když se to tak vezme s
 V součané době probíhá velká diskuze o zachování tradic české kuchyně ale já si nejsem jist, že to je to co vlastně chceme.
 
 Doba je dnes jiná. Surovinové možnosti jsou tak říkajíce neomezené, technologie také tak a tudíž nezbývá než přijít s nějakou novou českou kuchyni založenou sice na tradicích, ale která by se oprostila od těch těžkých a pracných jídel a která by si získala oblibu a popularitu i když ne mezinárodní, tak alespoň u současné evropské klientely.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

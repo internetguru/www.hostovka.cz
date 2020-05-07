@@ -5,7 +5,7 @@
 
 # Druhy polévek
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="jídla a jídelní lístky, polévky, recept, Amerika, Rusko, Čína, Japonsko, Mongolsko, Francie, Bulharsko"}
 
@@ -90,6 +90,16 @@ Většina ramen nudlí se dělá z obilné mouky, soli, vody a kansui, což je d
 _Soupwich {xml:lang="en"}_ je jedno z mála typicky amerických jídel. Je to kombinace sendviče a polévky, ve většině případů podává jako hlavní jídlo, a to zejména v poledne.
 
 Mnoho lidí si v poledne objedná buď jen polévku anebo sendvič. Jednou ale přišel někdo s nápadem nabízet kombinací polévky a vybraných sendvičů za zvýhodněnou cenu. To se velmi rychle ujalo, takže tuto kombinaci nabízí většina restaurací ve městech v místech kancelářských budov.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: /borsc
  [2]: /chowder
