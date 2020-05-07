@@ -34,6 +34,7 @@
   <redir link="polevky">druhy_polevek</redir>
   <redir link="chowdery">chowder</redir>
   <redir link="buffety_produktivita">ekonomika_bufetu</redir>
+  <redir link="buffety_naklady_na_mzdy">ekonomika_bufetu</redir>
   
   <redir parName="s" parValueMatch="stitky/([^/]+)">/?usp=navig&amp;stitek=$1#clanky</redir>
   <redir parName='s' parValueMatch='clanky/([^/]+)'>$1?usp=navig</redir>
