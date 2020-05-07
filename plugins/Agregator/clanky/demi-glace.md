@@ -27,7 +27,7 @@ Zaprvé budete potřebovat:
   * 4 šálky silného hovězího vývaru,
   * ½ šálku suchého sherry.
 
-Vše pomalu vaříme až do vyvaření (redukování) na polovinu objemu. Zredukovanou omáčku scedíme a uložíme do vodní lázně nebo do nádoby zvané double boiler, přidáme suché sherry, a omáčku držíme na teple až do doby spotřeby.
+Vše pomalu vaříme až do vyvaření (redukování) na polovinu objemu. Zredukovanou omáčku scedíme a uložíme do vodní lázně nebo do nádoby zvané double boiler, přidáme suché sherry a omáčku držíme na teple až do doby spotřeby.
 
 Hnědá omáčka _(Sauce Espagnole) {xml:lang="fr"}_
 
@@ -43,7 +43,7 @@ Postup
 
   1. V pánvi se silným dnem zahřejeme tuk. Přidáme 1 šálek _mirepoix {xml:lang="fr"}_ (níže).
   2. Jakmile začne hnědnout přidáme ½ šálku mouky, a mícháme až do zhnědnutí, a přidáme 8 šálků vývaru.
-  3. Vaříme zvolna asi 2 až 2,5 hodiny nebo až do vyvaření na polovinu objemu. Příležitostně zamícháme a odtučníme tuk který vystoupí napovrch (anglicky _to skim fat {xml:lang="en"}_).
+  3. Vaříme zvolna asi 2 až 2,5 hodiny nebo až do vyvaření na polovinu objemu. Příležitostně zamícháme a odtučníme tuk, který vystoupí napovrch (anglicky _to skim fat {xml:lang="en"}_).
   4. Omáčku přecedíme a občas zamícháme abychom zabránili utvoření škraloupu.
   5. Omáčka by měla mít asi stejnou hustotu jako smetana.
   6. Dochutíme solí a pepřem.
