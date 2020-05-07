@@ -29,7 +29,10 @@
   margin-top: 0.5em;
   margin-bottom: 0.5em;
 }
-.section > div:first-child.part {
+.agregator .hdesc--top + div:not(.section) {
+  padding-bottom: 0 !important;
+}
+.agregator .part:first-child {
   padding-top: var(--part-vertical-padding);
 }
 .part.dalsi .list,
