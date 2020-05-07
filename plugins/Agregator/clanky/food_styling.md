@@ -23,7 +23,7 @@ Není pochyb o tom, že by _food stylist {xml:lang="en"}_ měl mít znalosti kuc
 
 Základní rozdíl mezi _garde manger {xml:lang="fr"}_ a _food stylist {xml:lang="en"}_ je, že _garde manger {xml:lang="fr"}_ pracuje s jedlými surovinami a jeho výtvory musí být nejenom jedlé a atraktivní, ale i chutné. Kdežto _food stylist_ pracuje mnohdy se surovinami, které jsou nepoživatelné.
 
-_Food stylist {xml:lang="en"}_ musí umět vytvořit jídlo, jehož vhled si získá uznání široké veřejnosti, a může si s tím hrát třeba i celý den. _Food styling {xml:lang="en"}_ je relativně dobře placené zaměstnání a schopný _food stylist {xml:lang="en"}_ si časem může vybudovat stabilní klientelu.
+_Food stylist {xml:lang="en"}_ musí umět vytvořit jídlo, jehož vzhled si získá uznání široké veřejnosti, a může si s tím hrát třeba i celý den. _Food styling {xml:lang="en"}_ je relativně dobře placené zaměstnání a schopný _food stylist {xml:lang="en"}_ si časem může vybudovat stabilní klientelu.
 
 Dnes může v Americe schopný _food stylist {xml:lang="en"}_ vydělat od $450 do $850 za den. Musím vás ale upozornit na to, že za celoživotní povolání to považovat nemůžete. Konkurence je veliká a dnů, kdy najdete uplatnění, moc nebude.
 
