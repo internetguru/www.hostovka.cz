@@ -41,6 +41,7 @@
   <redir link="barmanstvi">koktejly</redir>
   <redir link="balsamicky_ocet">balzamikovy_ocet</redir>
   <redir link="bily_balsamicky_ocet">balzamikovy_ocet</redir>
+  <redir link="a_la_francaise">francouzske_restaurace</redir>
   
   <redir parName="s" parValueMatch="stitky/([^/]+)">/?usp=navig&amp;stitek=$1#clanky</redir>
   <redir parName='s' parValueMatch='clanky/([^/]+)'>$1?usp=navig</redir>
