@@ -19,6 +19,8 @@ V privátních domech se jedlo ve společné jídelně a jídlo se podávalo na 
 
 Privátní domy se v Anglii zachovaly dodnes, i když se poněkud zmodernizovaly. Dá se říci, že u některých lidí jsou stále ještě oblíbené. V Americe se dnes pod názvem _bording houses {xml:lang="en"}_ většinou rozumí ubytovny pro studenty, kde je jim mimo ubytování a stravování věnována pečovatelská péče podobně jako na našich internátech.
 
+{id="ubytovani_bb"}
+
 ## Ubytování B&B
 
 Tento typ ubytování byl nahrazen _B&B {xml:lang="en"}_. To je zkratka pro _bed and breakfast {xml:lang="en"}_ (postel a snídaně), což poněkud přesněji vyjadřuje jejich poslání.
@@ -26,6 +28,8 @@ Tento typ ubytování byl nahrazen _B&B {xml:lang="en"}_. To je zkratka pro _bed
 Ubytování se nabízí v různých kategoriích – od těch nejjednodušších až po ty luxusní, které jsou mnohdy dražší než hotely. Tento typ ubytování je oblíben u rodin s dětmi, protože mají jakési soukromí, na rozdíl od typického hotelového života.
 
 Na Havaji, kde je ubytování relativně drahé, je tento způsob oblíbený u pracovníků v hotelích a u sezónních pracovníků. Koncept _B&B {xml:lang="en"}_ nebo ekvivalent britských _boarding houses {xml:lang="en"}_, je rozšířený po celém světě (i když mnohdy pod jiným názvem).
+
+{id="ve_svete"}
 
 ## Privátní domy ve světě
 
@@ -36,3 +40,13 @@ Oproti tomu v Česku v té porevoluční euforii a při nedostatku ubytování (
 Někteří sice nevěděli, co jejich hostům za jejich peníze patří, ala na druhou stranu na výpadovkách na Německo jste se setkali (a možná ještě setkáte), že za příplatek dostanete k snídani ještě masáž. V takovém případě by měli mít na domě buď červenou lucernu anebo k tomu _B&B {xml:lang="en"}_ přidat ještě jedno B nebo ještě lépe P (pro německý _Puff {xml:lang="de"}_).
 
 Já vím, že by mě hned někdo mohl napadnout, že urážím Čechy, a tak musím dodat, že byly a jsou výjimky. Jako studentům Hostovky jsem vám o tom ale musel napsat.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
