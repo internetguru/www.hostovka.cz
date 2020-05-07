@@ -31,7 +31,7 @@ Z pohledu hosta nám stačí vědět, že tento způsob nabídky má několik fo
 
 Další forma, která v Česku není ještě tak známá, je _all you can eat family style {xml:lang="en"}_. Zde se určitý druh jídel přináší ke stolu na mísách, ze kterých si hosté berou neomezené množství jídla podle chuti.
 
-Mimoto existuje ještě několik forem pro které (jak někteří čeští odborníci říkají) české pohostinství ještě nedorostlo. A tak vám je podrobně popisovat nebudu. Spočívají např. v tom, že některá potravina se způsobem _all you can eat {xml:lang="en"}_, vedle jídel na jídelním lístku, nabízí v určitý den za zvýhodněnou cenu. Jedná se například o drůbež (zpravidla kuřata nebo krůty) nebo ryby, případně plody moře.
+Mimoto existuje ještě několik forem, pro které (jak někteří čeští odborníci říkají) české pohostinství ještě nedorostlo. A tak vám je podrobně popisovat nebudu. Spočívají např. v tom, že některá potravina se způsobem _all you can eat {xml:lang="en"}_, vedle jídel na jídelním lístku, nabízí v určitý den za zvýhodněnou cenu. Jedná se například o drůbež (zpravidla kuřata nebo krůty) nebo ryby, případně plody moře.
 
 To má z pohledu restauratéra také svá specifika. Vám jako studentům Hostovky mohu jen říci, že až k tomu české pohostinství doroste, tak to bude velice výhodné pro každého, kdo nabízenou potravinu má rád.
 
