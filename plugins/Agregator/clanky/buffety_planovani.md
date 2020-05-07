@@ -34,3 +34,14 @@ V Česku to však málokterý manažer bere v úvahu. V mnoha případech se ser
 Při servisu a pracích v jídelně s každým zaměstnancem navíc, který není plně využit, neúnosně stoupají náklady na mzdy. Nechci zde ale hovořit o nákladech na mzdy kuchařů, protože u těch při přípravě jídel pro bufety produktivita vlastně stoupá.
 
 Je potřeba se zmínit o něčem, o čem se v odborných učebnicích nikdy nemluví. To je skutečnost, že čím více obsluhujících, tím menší podíl spropitného. V tomto ohledu by obsluhující měli mít sami zájem na tom, aby jich nebylo více než je potřeba k zajištění kvalitního servisu.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
