@@ -7,7 +7,7 @@
 
 {kw="restaurace a servis, historka, Amerika"}
 
-Podle všech pouček o podnikání v pohostinství je jednou ze základních podmínek úspěšného provozování restaurace lokalita. Nicméně doslova učebnicovým příkladem, že atmosféra a [ambiance](ambiance) je důležitější podmínkou při provozování restaurace než lokalita, byl můj velmi dobrý a milý přítel pan Louis Szathmary.
+Podle všech pouček o podnikání v pohostinství je jednou ze základních podmínek úspěšného provozování restaurace lokalita. Nicméně doslova učebnicovým příkladem, že atmosféra a [ambiance][1] je důležitější podmínkou při provozování restaurace než lokalita, byl můj velmi dobrý a milý přítel pan Louis Szathmary.
 
 {class="example"}
 
@@ -19,7 +19,7 @@ Historie otevření restaurace Bakery je tak unikátní, že se dostala do ameri
 
 Louis je autor mnoha kuchařských knih a zakladatel jedné z nejúspěšnějších restaurací v _Chicagu {xml:lang="en"}_. V celé Americe je uznávaný odborník v pohostinském průmyslu.
 
-Szathmary, dnes známý v odborných kruzích po celé Americe jako _Chef Louis {xml:lang="en"}_, nebyl vlastně kuchař a už vůbec to nebyl [šéfkuchař](kucharske_tituly#sefkuchar). Louis byl Maďar, doktor filosofie, který po maďarských událostech v roce 1956 emigroval do Ameriky.
+Szathmary, dnes známý v odborných kruzích po celé Americe jako _Chef Louis {xml:lang="en"}_, nebyl vlastně kuchař a už vůbec to nebyl [šéfkuchař][2]. Louis byl Maďar, doktor filosofie, který po maďarských událostech v roce 1956 emigroval do Ameriky.
 
 Jak mi řekl, tak neuměl moc anglicky a jeho maďarský doktorát filosofie mu byl na nic. Jelikož neuměl nic jiného tak skončil (stejně jako miliony jiných imigrantů) u mytí nádobí v restaurační kuchyni. Tím ale začala jeho úspěšná kariéra v pohostinství, kterou ukončil jako milionář, a to jako jeden z nejúspěšnějších restauratérů v Americe.
 
@@ -41,11 +41,11 @@ Začal se tedy zabývat myšlenkou otevřít si vlastní restauraci. Louis si ko
 
 Přístup k otevření restaurace byl ukázkou toho nejvyššího eskamotérství, takže i takový Houdini byl proti Louisovi úplný břídil.
 
-{id="proti_vsem_pouckam"}
+{id="proti\_vsem\_pouckam"}
 
 ## Restaurace proti všem poučkám
 
-Na severu Chicága byla na prodej bývalá pekárna, kterou se Louis rozhodl koupit. Pekárna byla téměř zadarmo, protože byla ve čtvrti, která se rapidně měnila k horšímu. 
+Na severu Chicága byla na prodej bývalá pekárna, kterou se Louis rozhodl koupit. Pekárna byla téměř zadarmo, protože byla ve čtvrti, která se rapidně měnila k horšímu.
 
 {class="example"}
 
@@ -69,7 +69,7 @@ Potom došlo na vybavení a na zařízení. Vybavení ten objekt neměl žádné
 
 Vzadu v bývalé pekařské dílně zbyla velká pec, která mu také pomohla vydělat peníze. Louis jí později říkal „Bonanza“. Bylo tam také několik pracovních stolů, velký mixér, plynová stolička, relativně velká fritéza, několik dřezů a kupodivu více než dost chladicího a mrazícího prostoru. Nebylo toho moc, ale při troše eskamotérství se s tím dalo dělat mnoho věcí.
 
-Louis zřejmě musel dokoupit ještě nějaké jiné drobné zařízení, ale to pro tento příklad není podstatné. Mojí snahou vám bylo ukázat, že to není jen zařízení, které dělá někoho úspěšným restauratérem, ale spíše [know-how](know_how).
+Louis zřejmě musel dokoupit ještě nějaké jiné drobné zařízení, ale to pro tento příklad není podstatné. Mojí snahou vám bylo ukázat, že to není jen zařízení, které dělá někoho úspěšným restauratérem, ale spíše [know-how][3].
 
 Když jsem učíval v Chicagu hotelový management, tak jsem často studentům říkal, že restaurační management se dá sice vyučovat, ale že se nedá naučit. Restaurační management je něco, co člověk musí mít vrozené. Nejlepším důkazem správnosti mé teorie je vlastně Chef Louis. Louis nebyl absolventem hotelové školy ani nebyl vyučený v oboru. Ale že měl pro management restaurace vrozené vlohy se ukázalo na jeho přístupu k vybavení jídelny.
 
@@ -89,7 +89,7 @@ V těchto obchodech, které mají 5 až 6 pater nabytých vším možným restau
 
 Rychle ale zjistil, že mají sice všechno, na co si můžete jen vzpomenout, ale že nejde sehnat vybavení stejného druhu v potřebném počtu. To, jak to vyřešil, byl právě ten trik, kterým se Louis zapsal do historie amerického pohostinství.
 
-{xml:class="important"}
+{class="important"}
 
 Louis nakoupil prostě to, co potřeboval, bez ohledu na motiv na porcelánu a na příborech. Hlavně když to bylo zachovalé a levné. Nakonec mu v obchodě zcela zadarmo dali talíře a příbory, které byly tak rozdílné, že si je nikdo nechtěl koupit.
 
@@ -103,7 +103,7 @@ Stoly byl sice čisté, ale prostřené bez ubrusu pouze s papírovým prostír�
 
 Hosté u našeho stolu to ale kupodivu vyzdvihovali jako originální nápad. U některých stolů se dokonce začali sázet, komu se dříve podaří sestavit si prostírání tak, aby měl stejnou alespoň sadu příborů. O konverzaci tudíž nebyla nouze.
 
-{id="trik_s_listky"}
+{id="trik\_s\_listky"}
 
 ## Trik s nápojovými lístky a jídelníčky
 
@@ -128,4 +128,8 @@ n/a
 {var="inputvar-relation@var"}
 
 Příbuzné články nejsou k dispozici
+
+ [1]: ambiance
+ [2]: kucharske_tituly#sefkuchar
+ [3]: know_how
 
