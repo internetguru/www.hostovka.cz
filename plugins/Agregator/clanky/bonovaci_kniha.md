@@ -49,3 +49,13 @@ Kdysi k oblafnutí berňáku, používaly některé restaurace (a hlavně výče
 Korálky měly různé barvy, takže například pivo byl kulatý korálek červený, malé pivo mělo čtverhranný korálek žlutý, jinou barvu mělo černé pivo apod. Byl to velice běžný a jednoduchý systém, podle kterého denní tržbu znal jen restauratér a nikdo jiný.
 
 Podobných systémů bylo několik, jako například čárkování. Žádný z nich nebyl perfektní, protože se daly všelijakými způsoby obcházet. Dnes se ale zdá, že nejlepší systém je kontrolní pokladna s fiskální pamětí. Byli byste ale hodně naivní, pokud byste si mysleli, že ani ta se oblafnout nedá.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici

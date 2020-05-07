@@ -1,0 +1,118 @@
+@charset 'UTF-8';
+.button {
+  background: var(--button-bg);
+  border: none;
+  border-radius: var(--button-border-radius);
+  color: var(--button-color);
+  display: inline-flex;
+  font-size: 0.875rem;
+  font-weight: var(--button-font-weight);
+  justify-content: center;
+  letter-spacing: 0.0892857143em;
+  min-width: 8em;
+  padding: var(--button-padding);
+  text-transform: uppercase;
+  transition: var(--button-transition);
+}
+.button[href],
+.button[href]:visited {
+  border: none;
+  color: rgb(var(--button-color));
+}
+.button:hover,
+.button:active,
+.button:focus {
+  background: var(--button--active-bg);
+  outline: 0 none;
+}
+.button--shadow {
+  background: var(--buttom-shadow-bg);
+  box-shadow: var(--buttom-shadow-shadow);
+}
+.button--shadow:hover,
+.button--shadow:active,
+.button--shadow:focus {
+  background: var(--buttom-shadow-active-bg);
+  box-shadow: var(--buttom-shadow-active-shadow);
+}
+.button--simple {
+  background: var(--button--simple-bg);
+}
+.button--simple:hover,
+.button--simple:active,
+.button--simple:focus {
+  background: var(--button--simple-active-bg);
+}
+.button--border,
+.button--border[href],
+.button--border[href]:visited {
+  background: var(--button--border-bg);
+  border: var(--button--border-border);
+}
+.button--border:hover,
+.button--border[href]:hover,
+.button--border[href]:visited:hover,
+.button--border:active,
+.button--border[href]:active,
+.button--border[href]:visited:active,
+.button--border:focus,
+.button--border[href]:focus,
+.button--border[href]:visited:focus {
+  background: var(--button--border-active-bg);
+  border: var(--button--border-active-border);
+}
+.button-list,
+.paragraph > .button-list {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  list-style: none;
+  margin: var(--button-list-margin);
+}
+.button-list li {
+  flex: 0 1 var(--button-max-width);
+  margin: calc(var(--button-list-item-margin) / 2);
+}
+.button-list li a {
+  width: 100%;
+}
+.button--img {
+  display: inline-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.button--img svg {
+  color: var(--button-svg-color);
+  flex: 0 1 100%;
+  font-size: 3rem;
+  margin-bottom: .25em;
+}
+.button--img-inline {
+  align-items: center;
+  flex-wrap: nowrap;
+  padding: var(--button-img-inline-padding);
+}
+.button--img-inline svg {
+  color: var(--button-svg-color);
+  flex: 0 0 auto;
+  font-size: 2em;
+  margin: 0;
+  margin-right: 0.25em;
+}
+.button-list .button--img-only,
+.button--img-only {
+  min-width: unset;
+  padding: var(--button-img-only-padding);
+}
+.button--img-only svg {
+  flex: 0 0 auto;
+  margin: 0;
+  font-size: 1.5rem;
+  height: 1.8rem;
+}
+@media all and (min-width: 27em) {
+  .button-list li {
+    flex: 0 1 auto;
+  }
+}
