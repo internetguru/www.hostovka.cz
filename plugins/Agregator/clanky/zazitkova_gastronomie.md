@@ -15,7 +15,7 @@ Dnes se tento termín často skloňuje v českém odborném tisku. Obávám se a
 
 Jak praví německé přísloví: _„Wer eine Reise tut, der kann was erzählen!“ {xml:lang="de"}_, česky: _„Kdo cestuje, ten má co vyprávět.“_
 
-Lidé mluví také o tom, s jakými památkami, přírodními krásami a pamětihodnostmi se setkali. Případně se zmíní, jaké bylo jejich ubytování. Nakonec se ale všechno stočí k jídelnímu lístku a na jídlo, neboli na [gastronomické][1] zážitky.
+Lidé mluví také o tom s jakými památkami, přírodními krásami a pamětihodnostmi se setkali. Případně se zmíní, jaké bylo jejich ubytování. Nakonec se ale všechno stočí k jídelnímu lístku a na jídlo, neboli na [gastronomické][1] zážitky.
 
 {id="cestovani\_za\_jidlem"}
 
