@@ -11,7 +11,7 @@
 
 Cestování zaoceánskými loděmi (anglicky _cruises {xml:lang="en"}_) se dnes stalo ideálním trávením volného času při poznávání neznámých zemí. Je určeno hlavně pro lidi, kteří jsou již na odpočinku, protože je považováno za nejméně namáhavý způsob, jak poznat svět.
 
-Přes obrovskou vyjadřovací schopnost má angličtina někdy nedostatek výrazů, a proto má tolik idiomů. Američané si s tím ale hlavu moc nelámou, a pokud na něco nemají vlastní výraz, tak použijí vžitý výraz z některé cizí řeči.
+Přes obrovskou vyjadřovací schopnost má angličtina někdy nedostatek výrazů, a proto má tolik idiomů. Američané si s tím ale hlavu moc nelámou a pokud na něco nemají vlastní výraz, tak použijí vžitý výraz z některé cizí řeči.
 
 _Cruise {xml:lang="en"}_ je ale úplně jiné zvíře. Pokud jako správní Češi mermomocí chceme nalézt český ekvivalent, tak si musíme slovo _cruise {xml:lang="en"}_ blíže objasnit.
 
@@ -47,7 +47,7 @@ _Cruises {xml:lang="en"}_ se dělí podle regionů. Nejpopulárnější jsou Alj
 
 Výhoda _cruises {xml:lang="en"}_ spočívá v tom, že vám umožní navštívit několik různých míst za jednu cenu bez nějakého dlouhého plánování a reservací hotelů. V okamžiku, kdy se nalodíte, vám začíná nezapomenutelná zahraniční dovolená. Cena se řídí hlavně délkou cesty, volbou kabiny a jejího komfortu. Cesta může být dlouhá od 3 do 14 dnů, někdy i více.
 
-Na jednom _cruise {xml:lang="en"}_ jsme seděli u stolu s manželským párem, kteří byli již na 15 podobných _cruises {xml:lang="en"}_ a na jenom, který dokonce trval tři měsíce. Jsou ale i delší. Komfort je různý, hlavně podle společnosti, kterých je asi 17 a podle lodi, kterých je asi 180.
+Na jednom _cruise {xml:lang="en"}_ jsme seděli u stolu s manželským párem, kteří byli již na 15 podobných _cruises {xml:lang="en"}_ a na jednom, který dokonce trval tři měsíce. Jsou ale i delší. Komfort je různý, hlavně podle společnosti, kterých je asi 17 a podle lodi, kterých je asi 180.
 
 V ceně je zpravidla zahrnuto:
 
