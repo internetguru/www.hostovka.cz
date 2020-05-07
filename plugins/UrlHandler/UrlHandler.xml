@@ -25,7 +25,6 @@
   <redir link="bedekry">bedekr</redir>
   <redir link="fajity">fajitas</redir>
   <redir link="chovani_v_hotelu">poslicci</redir>
-  <redir link="chipsy">bramborove_lupinky</redir>
   <redir link="gi_pans">gi_pan</redir>
   <redir link="garde_manager">garde_manger</redir>
   <redir link="confit">konfitovani</redir>
@@ -33,6 +32,13 @@
   <redir link="cile_kucharu">kucharske_umeni</redir>
   <redir link="polevky">druhy_polevek</redir>
   <redir link="chowdery">chowder</redir>
+  <redir link="buffety_produktivita">ekonomika_bufetu</redir>
+  <redir link="buffety_naklady_na_mzdy">ekonomika_bufetu</redir>
+  <redir link="bramborove_lupinky">chipsy</redir>
+  <redir link="bramborove_lupinky_2">chipsy</redir>
+  <redir link="bonovaci_kniha">ucetnictvi</redir>
+  <redir link="bible">kucharske_knihy</redir>
+  <redir link="barmanstvi">koktejly</redir>
   
   <redir parName="s" parValueMatch="stitky/([^/]+)">/?usp=navig&amp;stitek=$1#clanky</redir>
   <redir parName='s' parValueMatch='clanky/([^/]+)'>$1?usp=navig</redir>

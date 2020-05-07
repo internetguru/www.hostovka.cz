@@ -5,7 +5,7 @@
 
 # Hovězí Stroganov s hranolky
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -101,13 +101,13 @@ Jakmile mistr Rostropovič Stroganov dojedl, nechal si mě zavolat, a začal mě
 
 Mistr Rostropovič byl tak nadšený, že mě pozval ke stolu na panáka jeho osobní vodky. Po několika kolech, mě požádal, abych mu říkal Slavo. Tak ho nazývala jen jeho manželka a jen jeho nejbližší přátelé. On mi začal říkat Míšo, takže z toho vznikla pravá ruská družba.
 
-{var="inputvar-pribuzne_h" id="pribuzne"}
+{id="dalsi" var="inputvar-pribuzne_h"}
 
 ## n/a
 
 n/a
 
-{var="inputvar-firstkw"}
+{var="inputvar-relation@var"}
 
 Příbuzné články nejsou k dispozici
 

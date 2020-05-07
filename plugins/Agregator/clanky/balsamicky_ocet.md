@@ -17,6 +17,8 @@ Silná, slabě nasládlá chuť balzamikového octa se přímo nabízí k příp
 
 Dříve než se ale pustíte do přípravy tisíců dresinků s balzamikovým octem, tak byste se o něm měli něco dozvědět.
 
+{id="vyroba"}
+
 ## Výroba balzamikového octa
 
 V prvé řadě, balzamikový ocet svou cenou vysoce překračuje nejdražší vína nebo koňaky. Jak ale mohl prach obyčejný ocet takových cen dosáhnout? Asi tak před 900 lety byl tento ocet vyráběn vinaři v italském regionu Modena jako tonik. Byl dáván jako pozornost důležitým osobnostem.
@@ -37,6 +39,8 @@ Každý rok jde do prodeje téměř 12.000 litrů balzamikového octa. Ocet star
 
 Ať už ale používáme balzamikový ocet drahý nebo levný, tak platí jedna zásada, a sice čím méně, tím lépe. Mnozí kuchaři jídlo nadměrným množstvím tohoto octa doslova zničí. Tak jako u všeho, musíte v používání balzamikového octa získat potřebnou praxi.
 
+{id="pouzivani"}
+
 ## Používání a skladování balzamikového octa
 
 Balzamikový ocet může být v originálním sudu nebo láhvi skladován donekonečna. Okysličování v otevřené láhvi není problémem a nikterak neovlivní jeho kvalitu.
@@ -50,3 +54,12 @@ Nicméně je dobře ho skladovat v chladném a tmavém místě, daleko od zdroje
   * Lžička nebo dvě balzamikového octa dokáže probudit chuť slabé polévky, omáčky nebo [dušeniny](duseni).
   * Balzamikový ocet s cukrem se dobře snoubí s čerstvým ovocem, jako jsou jahody, maliny, broskve, případně i meruňky.
 
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
