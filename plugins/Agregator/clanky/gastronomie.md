@@ -85,7 +85,7 @@ Jediné, s čím jsem se nakonec smířil, jsou [gastronomické skupiny][16]. Na
 
 Kolem roku 1958 se Hotelový a cateringový institut Velké Británie rozhodl stanovit v gastronomickém světě jednou provždy zásady toho, co je správné a co ne. Dvanáct vysoce kvalifikovaných kuchařů bylo jmenováno do komise, která měla vypracovat kuchařský kodex. Po dvou a půl letech týdenních schůzek a nekonečných diskusí upadl tento záměr do zapomenutí.
 
-Tito kuchaři, kteří zastupovali celou řadu etnických kuchyní, se nemohli shodnout na jednotných zásadách. To, co je pro jednoho lahůdkou, může být pro druhého něčím odporným. Jmenujte jakékoliv jídlo určité skupiny lidí a zcela určitě najdete jinde ve světě jinou skupinou, která by toto jídlo ani nepozřela.
+Tito kuchaři, kteří zastupovali celou řadu etnických kuchyní, se nemohli shodnout na jednotných zásadách. To, co je pro jednoho lahůdkou, může být pro druhého něčím odporným. Jmenujte jakékoliv jídlo určité skupiny lidí a zcela určitě najdete jinde ve světě jinou skupinu, která by toto jídlo ani nepozřela.
 
 Také například skutečnost, že francouzští kuchaři při zahušťování šťáv dávají přednost bramborovému škrobu před rýžovým, má opodstatnění jedině v tom, že bramborový škrob je ve Francii levnější. Od nepaměti je snadněji k dostání než škrob rýžový, který je naopak ze stejných důvodů oblíben u čínských kuchařů.
 
