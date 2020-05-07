@@ -17,7 +17,7 @@
 
 Nikde jinde na světe se nesetkáte s tolika neznámými názvy jídel jako v České republice. Jedná se namátkou o [Stroganov][3], Wellington, [Clam Chowder][4], Welsh rarebit, [Quiche][5], [Bouillabaisse][6], Raclette, Šašlik, Shish-kebab, Boršč, Šoulet nebo Kashulet, [Ragoût][7], Curry, apod. Na mezinárodních lístcích se sice vyskytují, nicméně se zdá, že čeští gastronomové v používání cizích [gastronomických][8] výrazů mají primát.
 
-Nejsou to jen názvy jídel, ale i jiné francouzské gastronomické výrazy, ve kterých si čeští [gastronomové][9] libují. Nejvíce zneužívaný, jak se zdá, je výraz „à la“, což znamená na způsob, nebo podle.
+Nejsou to jen názvy jídel, ale i jiné francouzské gastronomické výrazy, ve kterých si čeští [gastronomové][9] libují. Nejvíce zneužívaný, jak se zdá, je výraz „à la“, což znamená na způsob nebo podle.
 
 {id="prilohy\_na\_listcich"}
 
@@ -25,9 +25,9 @@ Nejsou to jen názvy jídel, ale i jiné francouzské gastronomické výrazy, ve
 
 Termín _à la carte {xml:lang="fr"}_ vyjadřuje, že jídla, přílohy a doplňky jsou účtovány zvlášť. Má to své výhody i nevýhody jak pro hosty, tak i pro restauratéry.
 
-Pro hosty mají oddělené přílohy tu výhodu, že si může objednat jen hlavní chod bez přílohy. Přílohu si případně může objednat zvlášť podle vlastního výběru. Pro provozovatele mají samostatné přílohy výhodu přesnější kontroly porcí a lepší kontrolu spotřeby materiálu.
+Pro hosta mají oddělené přílohy tu výhodu, že si může objednat jen hlavní chod bez přílohy. Přílohu si případně může objednat zvlášť podle vlastního výběru. Pro provozovatele mají samostatné přílohy výhodu přesnější kontroly porcí a lepší kontrolu spotřeby materiálu.
 
-Oproti tomu stojí způsob _table d'hôte {xml:lang="fr"}_, kdy jsou jídla nabízena ve formě celého menu. Lidé dnes čím dál víc sledují nejenom co jedí, ale také kolik toho jedí, a kolik to stojí. A proto si způsob _à la carte {xml:lang="fr"}_ získává stále větší oblibu. Nicméně mnoho restaurací nabízí na svých lístcích jídla obojím způsobem.
+Oproti tomu stojí způsob _table d'hôte {xml:lang="fr"}_, kdy jsou jídla nabízena ve formě celého menu. Lidé dnes čím dál víc sledují nejenom co jedí, ale také kolik toho jedí a kolik to stojí. A proto si způsob _à la carte {xml:lang="fr"}_ získává stále větší oblibu. Nicméně mnoho restaurací nabízí na svých lístcích jídla obojím způsobem.
 
 {id="jidlo\_podle\_sefa"}
 
@@ -35,7 +35,7 @@ Oproti tomu stojí způsob _table d'hôte {xml:lang="fr"}_, kdy jsou jídla nab�
 
 Označení _à la chef {xml:lang="fr"}_ znamená podle šéfa kuchyně. Na jídelních lístcích se používá pro jídlo nebo specialitu, která je sice populární pod svým klasickým názvem, ale která byla připravena šéfkuchařovým osobitým způsobem. To bývá někdy označováno také jako _signature dish {xml:lang="en"}_.
 
-Označení _à la maison {xml:lang="fr"}_ či také _de la maison {xml:lang="fr"}_, nebo pouze _maison {xml:lang="fr"}_ (jako například _pâté maison {xml:lang="en"}_) znamená na domácí způsob nebo podle domu. Domem se rozumí kuchyně dané restaurace. Německý ekvivalent je _nach Hausart {xml:lang="de"}_, španělsky _del meson {xml:lang="es"}_ a v angličtině nejčastěji _home made {xml:lang="en"}_.
+Označení _à la maison {xml:lang="fr"}_, či také _de la maison {xml:lang="fr"}_ nebo pouze _maison {xml:lang="fr"}_ (jako například _pâté maison {xml:lang="en"}_) znamená na domácí způsob nebo podle domu. Domem se rozumí kuchyně dané restaurace. Německý ekvivalent je _nach Hausart {xml:lang="de"}_, španělsky _del meson {xml:lang="es"}_ a v angličtině nejčastěji _home made {xml:lang="en"}_.
 
 Musím vás ale upozornit na to, že to nemá nic společného s označením domácí kuchyně, anglicky zvané _Home cooking {xml:lang="en"}_ nebo ve francouzštině _cuisine bourgeoise {xml:lang="fr"}_. Domácí kuchyně je nejvíce zneužívané označení typu kuchyně. Ve většině případů není toto označení pravdivé, což je dobře. V restauraci přeci nechceme, aby nám někdo připravoval jídlo tak, jak se to dělá doma. V restauraci očekáváme o něco větší profesionalitu.
 
@@ -55,7 +55,7 @@ Závin nebo štrúdl _à la mode {xml:lang="fr"}_, na amerických lístcích vel
 
 ## Jídla na objednávku
 
-Označení jídla _à la minute {xml:lang="fr"}_ znamená na objednávku. Německy _auf Bestellung {xml:lang="de"}_, anglicky _to order {xml:lang="en"}_, nebo _made to order {xml:lang="en"}_. Od výrazu _à la minute {xml:lang="fr"}_ byly odvozeny u nás tak dobře známé [minutky][10], které jsou podle mě rovněž zprofanované.
+Označení jídla _à la minute {xml:lang="fr"}_ znamená na objednávku. Německy _auf Bestellung {xml:lang="de"}_, anglicky _to order {xml:lang="en"}_ nebo _made to order {xml:lang="en"}_. Od výrazu _à la minute {xml:lang="fr"}_ byly odvozeny u nás tak dobře známé [minutky][10], které jsou podle mě rovněž zprofanované.
 
 {class="example"}
 
