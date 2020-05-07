@@ -11,7 +11,7 @@
 
 Esterházy je maďarská magnátská rodina, o které jsou zmínky již od roku 1238. Podle této rodiny byla pojmenována roštěná, hovězí pečeně, zmrzlinová bomba a několik dalších jídel.
 
-Jméno Esterházy se velice často objevovalo na jídelních lístcích už za Rakousko-Uherska, během první republiky, a ještě nějaký čas po druhé světové válce (což byly pro [gastronomii][1] zlaté časy). Objevovalo se nejenom v Maďarsku, Rakousku, ale i v Česku, a hlavně na Slovensku.
+Jméno Esterházy se velice často objevovalo na jídelních lístcích už za Rakousko-Uherska během první republiky a ještě nějaký čas po druhé světové válce (což byly pro [gastronomii][1] zlaté časy). Objevovalo se nejenom v Maďarsku, Rakousku, ale i v Česku a hlavně na Slovensku.
 
 Za socialismu z českých a slovenský jídelních lístků jméno Esterházy vymizelo jako buržoazní přežitek. Z lístků ale také vymizely například roštěnky [à la][2] Esterházy. To bylo ale také proto, že díky relativně špatné kvalitě hovězího masa se dříve věřilo, že roštěnky musí být připravovány jedině z roštěnce.
 
@@ -26,7 +26,7 @@ Sice jsem se zařekl, že na Hostovce recepty nikdy nikomu dávat nebudu, ale č
   1. Roštěnky o váze 100–150 g, propícháme Jaccard tenderizérem, osolíme, opepříme čerstvě drceným pepřem, nasekáme šlachovitý okraj, dobře je pomoučníme a na přepuštěném másle je z obou stran opečeme.
   2. Opečené roštěnky dáme do kastrolu se silným dnem na osmahnutý zeleninový základ, přidáme nové koření, celý pepř, bobkový list a [citrónovou][3] kůru, zalijeme horkým vývarem a dusíme pod pokličkou do změknutí. Mouka, kterou jsme roštěnky poprášili, by v zásadě měla stačit k zahuštění omáčky.
   3. Po změknutí roštěnky vyjmeme a dáme je na teplo.
-  4. Základ ještě trochu zahustíme ne příliš hustým kváskem z kyselé smetany, a necháme alespoň 30 minut povařit.
+  4. Základ ještě trochu zahustíme ne příliš hustým kváskem z kyselé smetany a necháme alespoň 30 minut povařit.
   5. Přidáme citrónovou šťávu, bílé víno a omáčku přivedeme opět do varu.
   6. Posléze omáčku rozšleháme ponorným mixerem a přidáme do ni na nudličky (julienne) krájenou zeleninu, na nudličky krájené kyselé okurky a kapary.
 
