@@ -19,7 +19,7 @@ Tento článek není určen vyloženě studentům Hostovky, ale víceméně prof
 
 ## Historie
 
-Já vím, že to nechcete slyšet, a také si to také nerad připomínám. Faktem ale je, že mimo krátkého období první Československé republiky, byli Češi vždy pod nějakou knůtou nebo okupací. Někteří prostě museli stále někomu lézt do zadku. Bývalo by bylo dobře, kdyby se tito lidé vyznačovali hnědými nosy.
+Já vím, že to nechcete slyšet, a také si to nerad připomínám. Faktem ale je, že mimo krátkého období první Československé republiky, byli Češi vždy pod nějakou knůtou nebo okupací. Někteří prostě museli stále někomu lézt do zadku. Bývalo by bylo dobře, kdyby se tito lidé vyznačovali hnědými nosy.
 
 Teď tady ale máme jakousi svobodu. Řekli byste si, že do zadku už nikomu lézt nemusíme. Co se ale týká pohostinství (zejména kuchařů), tak se nesmírně mýlíte.
 
