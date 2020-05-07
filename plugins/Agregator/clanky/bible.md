@@ -15,6 +15,8 @@ Zajímavé je, že většina se shodovala v tom, že je to bible. Údajně je to
 
 Když jsem se studentů zeptal, kolik mají doma kuchařek, tak se většina shodovala v tom, že jich doma mají nespočet, a to nemluvili o odborných učebnicích vaření, které si díky studiu na hotelové škole už také zakoupili. Že by všechny ty kuchařky četli, tak jako někteří lidé čtou bibli, se nedá říci. Nicméně někteří přiznali, že si v kuchařkách někdy listují i před spaním. To si ale myslím, že byl u studentů jen [BS](bullshit), protože to říkali, jen aby mi udělali radost.
 
+{id="obrazkove_recepty"}
+
 ## Obrázkové recepty
 
 Jedno pořekadlo říká, že obrázek poví více než tisíc slov. To si nakonec uvědomili i vydavatelé biblí pro děti, které jsou dnes doplněny líbivými barevnými obrázky. Na to se ale také spoléhají i vydavatelé dnešních kuchařek. Dá se říci, že kuchařská kniha bez líbivých barevných obrázků dnes nemá téměř žádnou šanci.
@@ -24,6 +26,8 @@ Jedno pořekadlo říká, že obrázek poví více než tisíc slov. To si nakon
 Mnohý zkušený nebo profesionální kuchař k přípravě jídla nic jiného než jeho barevný obrázek ani nepotřebuje. Jak ale víme, barevné obrázky jsou stále ještě nákladné, a tak si podle názvu budeme recepty volit ještě hodně dlouho.
 
 Problém je ale v tom, že recepty a kuchařské knihy dnes píše kdekdo. Přitom málokterý z autorů ví, že jsou jakési nepsané zákony, které začínají již názvem receptu, aby měl každý možnost ověřit jeho autentičnost, případně původ.
+
+{id="styl_a_opisovani_receptu"}
 
 ## Styl a opisování receptů
 
@@ -37,3 +41,12 @@ Největší [chucpa](chucpa) je, že většina autorů opisuje jeden od druhého
 
 Proto se budete muset připravit na to, že ne všechny knihy, které jsou u nás dnes na trhu jsou dobré. Studiem Hostovky se ale časem naučíte ty dobré rozeznávat.
 
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
