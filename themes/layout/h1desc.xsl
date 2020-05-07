@@ -22,7 +22,7 @@
     <xsl:element name="div">
       <xsl:attribute name="class">
         <xsl:value-of select="@id"/>
-        <xsl:text> hdesc</xsl:text>
+        <xsl:text> hdesc hdesc--top</xsl:text>
       </xsl:attribute>
       <xsl:element name="div">
         <xsl:if test="/body[contains(@class, 'agregator')]">
@@ -34,37 +34,49 @@
             <xsl:value-of select="."/>
           </xsl:element>
         </xsl:element>
-        <div>
+        <div class="hdesc__desc-wrapper">
           <xsl:copy-of select="following-sibling::*[1][name() = 'p'][contains(@class, 'description')]"/>
         </div>
         <!--<xsl:copy-of select="following-sibling::*[name() = 'ul'][contains(@class, 'docinfo')][contains(@class, 'global')]"/>-->
         <xsl:if test="/body[contains(@class, 'agregator')]">
           <div class="extra">
-            <span class="hideable">
-              <span class="eventable"><xsl:value-of disable-output-escaping="yes" select="$inputvar-link-ico"/>Získat odkaz na článek</span>
-              <span class="copyable" fn="inputvar-createlink">
-                <xsl:value-of disable-output-escaping="yes" select="$link"/>
-              </span>
-              <span class="fb hideable-nohide">
-              <xsl:element name="a">
-                <xsl:attribute name="href">https://www.facebook.com/sharer/sharer.php?u=https://www.hostovka.cz/<xsl:value-of disable-output-escaping="yes" select="$link"/></xsl:attribute>
-                <xsl:attribute name="title"><xsl:value-of disable-output-escaping="yes" select="$inputvar-fb-title"/></xsl:attribute>
-                <xsl:value-of disable-output-escaping="yes" select="$inputvar-facebook-ico"/>
-                Sdílet na Facebooku
-              </xsl:element>
-              </span>
-              <span class="twitter hideable-nohide">
-              <xsl:element name="a">
-                <xsl:attribute name="href">https://twitter.com/intent/tweet?text=www.hostovka.cz/<xsl:value-of disable-output-escaping="yes" select="$link"/></xsl:attribute>
-                <xsl:attribute name="title"><xsl:value-of disable-output-escaping="yes" select="$inputvar-twitter-title"/></xsl:attribute>
-                <xsl:value-of disable-output-escaping="yes" select="$inputvar-twitter-ico"/>
-                Sdílet na Twitteru
-              </xsl:element>         
-              </span>
-              <span class="edit hideable-nohide">
-              <xsl:value-of disable-output-escaping="yes" select="$inputvar-ghedit2"/>
-              </span>
-            </span>
+            <ul class="button-list">
+              <li>
+                <xsl:element name="a">
+                  <xsl:attribute name="href">https://www.facebook.com/sharer/sharer.php?u=https://www.hostovka.cz/<xsl:value-of disable-output-escaping="yes" select="$link"/></xsl:attribute>
+                  <xsl:attribute name="title"><xsl:value-of disable-output-escaping="yes" select="$inputvar-fb-title"/></xsl:attribute>
+                  <xsl:attribute name="class">button button--simple button--img button--img-only</xsl:attribute>
+                  <span class="fab fa-fw fa-facebook-square">i</span>
+                </xsl:element>
+              </li>
+              <li>
+                <xsl:element name="a">
+                  <xsl:attribute name="href">https://twitter.com/intent/tweet?text=www.hostovka.cz/<xsl:value-of disable-output-escaping="yes" select="$link"/></xsl:attribute>
+                  <xsl:attribute name="title"><xsl:value-of disable-output-escaping="yes" select="$inputvar-twitter-title"/></xsl:attribute>
+                  <xsl:attribute name="class">button button--simple button--img button--img-only</xsl:attribute>
+                  <span class="fab fa-fw fa-twitter">i</span>
+                </xsl:element>
+              </li>
+              <li>
+                <xsl:value-of disable-output-escaping="yes" select="$inputvar-ghedit2"/>
+              </li>
+              <li>
+                <xsl:element name="button">
+                  <xsl:attribute name="title">Vytisknout článek</xsl:attribute>
+                  <xsl:attribute name="class">button__print button button--simple button--img button--img-only eventable</xsl:attribute>
+                  <xsl:attribute name="data-eventable-category">print-header</xsl:attribute>
+                  <span class="fas fa-fw fa-print">i</span>
+                </xsl:element>
+              </li>
+              <li>
+                <span class="hideable hideable-hidden">
+                  <span class="eventable button button--simple button--img button--img-only" data-eventable-action="share"><span class="fas fa-fw fa-link">i</span></span>
+                  <span class="copyable" fn="inputvar-createlink">
+                    <xsl:value-of disable-output-escaping="yes" select="$link"/>
+                  </span>
+                </span>
+              </li>
+            </ul>
           </div>
         </xsl:if>
       </xsl:element>
