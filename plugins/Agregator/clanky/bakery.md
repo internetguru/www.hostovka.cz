@@ -13,6 +13,8 @@ Podle všech pouček o podnikání v pohostinství je jednou ze základních pod
 
 Historie otevření restaurace Bakery je tak unikátní, že se dostala do amerických odborných učebnic restauračního managementu. Je dokázáno, že lidé, kteří nejsou vyučení v oboru nebo kteří nemají žádnou odbornou školu, jsou v podnikání většinou úspěšnější než odborníci.
 
+{id="louis"}
+
 ## Louis Szathmary
 
 Louis je autor mnoha kuchařských knih a zakladatel jedné z nejúspěšnějších restaurací v _Chicagu {xml:lang="en"}_. V celé Americe je uznávaný odborník v pohostinském průmyslu.
@@ -22,6 +24,8 @@ Szathmary, dnes známý v odborných kruzích po celé Americe jako _Chef Louis 
 Jak mi řekl, tak neuměl moc anglicky a jeho maďarský doktorát filosofie mu byl na nic. Jelikož neuměl nic jiného tak skončil (stejně jako miliony jiných imigrantů) u mytí nádobí v restaurační kuchyni. Tím ale začala jeho úspěšná kariéra v pohostinství, kterou ukončil jako milionář, a to jako jeden z nejúspěšnějších restauratérů v Americe.
 
 Při mytí nádobí si Louis říkal, že přeci nepřišel do Ameriky mýt nádobí. Od dřezu viděl, kolik masa – a to hlavně steaků – se v Americe spotřebuje. Říkal si, že kráva není jenom samé steaky. Masokombinát, který do restaurace steaky dodával, musí mít nesmírné množství masa, se kterým zřejmě nevědí, co jiného dělat než ho rozemlít na hamburgry. Ty jsou totiž v Americe po steacích druhý největší artikl.
+
+{id="zacatek_podnikani"}
 
 ## Začátek podnikání
 
@@ -36,6 +40,8 @@ Začal se tedy zabývat myšlenkou otevřít si vlastní restauraci. Louis si ko
 {class="example"}
 
 Přístup k otevření restaurace byl ukázkou toho nejvyššího eskamotérství, takže i takový Houdini byl proti Louisovi úplný břídil.
+
+{id="proti_vsem_pouckam"}
 
 ## Restaurace proti všem poučkám
 
@@ -55,6 +61,8 @@ Portál je v Česku to první, do čeho každá podnikatel „vrazí peníze“,
 
 Louis by si ale na takovou věc jako peníze nikdy nepůjčil, to bylo proti jeho náboženství. Portál proto nechal tak jak byl. Dokonce nechal stejný i název, který je podle všech učebnic to další, co nejvíce táhne. Na portálu bylo napsáno _Bakery {xml:lang="en"}_, což v češtině znamená pekárna.
 
+{id="zarizeni_kuchyne"}
+
 ## Zařízení kuchyně
 
 Potom došlo na vybavení a na zařízení. Vybavení ten objekt neměl žádné. Měl čisté holé stěny, čisté holé podlahy a jinak nic. Louis se držel své filosofie, že krásné ženy jsou tou nejlepší dekorací každé restaurace. Louis ale také věděl, že krásné ženy jdou za dobrým jídlem jako vosy za bonbonem. Proto se zaměřil na dobré jídlo. Netrvalo dlouho a restaurace se krásnými ženami jen hemžila.
@@ -64,6 +72,8 @@ Vzadu v bývalé pekařské dílně zbyla velká pec, která mu také pomohla vy
 Louis zřejmě musel dokoupit ještě nějaké jiné drobné zařízení, ale to pro tento příklad není podstatné. Mojí snahou vám bylo ukázat, že to není jen zařízení, které dělá někoho úspěšným restauratérem, ale spíše [know-how](know_how).
 
 Když jsem učíval v Chicagu hotelový management, tak jsem často studentům říkal, že restaurační management se dá sice vyučovat, ale že se nedá naučit. Restaurační management je něco, co člověk musí mít vrozené. Nejlepším důkazem správnosti mé teorie je vlastně Chef Louis. Louis nebyl absolventem hotelové školy ani nebyl vyučený v oboru. Ale že měl pro management restaurace vrozené vlohy se ukázalo na jeho přístupu k vybavení jídelny.
+
+{id="vybaveni_jidelny"}
 
 ## Vybavení jídelny
 
@@ -83,6 +93,8 @@ Rychle ale zjistil, že mají sice všechno, na co si můžete jen vzpomenout, a
 
 Louis nakoupil prostě to, co potřeboval, bez ohledu na motiv na porcelánu a na příborech. Hlavně když to bylo zachovalé a levné. Nakonec mu v obchodě zcela zadarmo dali talíře a příbory, které byly tak rozdílné, že si je nikdo nechtěl koupit.
 
+{id="slavnostni_otevreni"}
+
 ## Slavnostní otevření restaurace
 
 Šéf Louis byl díky své konzultační činnosti již docela známá osobnost. Když se novináři a redaktoři odborných časopisů dozvěděli, že se Louis Szathmary zbláznil, a za jakých podmínek otvírá restauraci, tak se téměř všichni přišli podívat. Měl jsem tu čest, že jsem byl také pozván a velmi si toho dodnes cením. Něco takového jste totiž v Americe ještě nemohli vidět.
@@ -90,6 +102,8 @@ Louis nakoupil prostě to, co potřeboval, bez ohledu na motiv na porcelánu a n
 Stoly byl sice čisté, ale prostřené bez ubrusu pouze s papírovým prostíráním. Sklenice a příbory byly „každý pes jiná ves“, místo křišťálových váziček byly láhve od minerálky s čerstvými květinami. Židle, i když docela pohodlné, také nebyly u všech stolů stejné.
 
 Hosté u našeho stolu to ale kupodivu vyzdvihovali jako originální nápad. U některých stolů se dokonce začali sázet, komu se dříve podaří sestavit si prostírání tak, aby měl stejnou alespoň sadu příborů. O konverzaci tudíž nebyla nouze.
+
+{id="trik_s_listky"}
 
 ## Trik s nápojovými lístky a jídelníčky
 
@@ -104,4 +118,14 @@ Umíte si asi představit, kolik peněz Louis ušetřil na skladech, na manipula
 Louis totiž nezaměstnával profesionální číšníky, ale zásadně jen studenty s místní školou, kteří práci v restauraci považovali za velkou srandu. Louis totiž říkal, že když si jeho obsluhující není schopen zapamatovat těch pár jídel, které mají na jídelním lístku, tak by vlastně ani neměl studovat.
 
 Tato historka není návodem k tomu, jak byste si měli zařídit restauraci u nás. Když sečtete všechno, na čem Louis ušetřil, tak vás nepřekvapí, že restaurace Bakery (která bohužel již neexistuje) během 30 let své existence vydělala miliony dolarů. Jak mi Louis důvěrně sdělil, tak to bylo tím, že přišel s lepší pastičkou na myši (restaurací), do které se hosté (jako myšky do pastičky) vraceli díky dobrému vnadidlu. Přitom hosty vůbec nezajímalo, na jakém zařízení a kým bylo jídlo připraveno.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
