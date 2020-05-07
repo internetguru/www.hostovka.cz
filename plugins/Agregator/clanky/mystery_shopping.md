@@ -91,5 +91,15 @@ Opravte mě, pokud se mýlím, ale podle mě je _mystery shopping {xml:lang="en"
 
 Podle mě je to tak, že se vlk nažral a koza zůstala celá. _Mystery shoppers {xml:lang="en"}_ si uspokojí ego, případně si uleví od závisti a restauratér zaplatí firmě patřičný poplatek a všichni jsou šťastní. Nechci ale, abyste mé názory chápali tak, že vás od záměru založit si další _mystery shopping {xml:lang="en"}_ firmu odrazuji. Možná, že přijdete s něčím, co uspokojí jak podnikatele, tak i zákazníky či hosty.
 
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
  [1]: chucpa
 
