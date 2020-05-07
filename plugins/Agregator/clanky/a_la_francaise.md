@@ -9,7 +9,7 @@
 
 {kw="o čem se mluví, Francie"}
 
-Jak jsem se dočetl na internetu, tak jen za první tři měsíce v r. 2009 zbankrotovalo ve Francii asi 3.000 restaurací, kaváren a barů. Počet francouzských restaurací, které zbankrotovaly, stoupl ve srovnání s loňskem o 25 % a počet kaváren, které byly nuceny zavřít, stoupl o 56 %.
+Jak jsem se dočetl na internetu, tak jen za první tři měsíce v r. 2009 zbankrotovalo ve Francii asi 3.000 restaurací, kaváren a barů. Počet francouzských restaurací, které zbankrotovaly, stoupl ve srovnání s loňskem o 25 % a počet kaváren, které byly nuceny zavřít, stoupl o 56 %.
 
 {class="example"}
 
