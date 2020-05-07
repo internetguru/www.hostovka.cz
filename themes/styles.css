@@ -29,6 +29,9 @@
   margin-top: 0.5em;
   margin-bottom: 0.5em;
 }
+.section > div:first-child.part {
+  padding-top: var(--part-vertical-padding);
+}
 .part.dalsi .list,
 .part.clanky .list {
   --global-max-width: 80rem;
@@ -160,7 +163,7 @@
   padding: 2em 0 0 0;
 }
 .clanek .desc a.expand-button:before {
-  content: "──────────────────────";
+  content: "â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€";
   color: #BDBDBD;
   position: absolute;
   left: 0;
@@ -823,3 +826,4 @@ li {
   }
 }
 /************************************/
+
