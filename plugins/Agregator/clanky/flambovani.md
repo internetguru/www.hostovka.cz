@@ -31,9 +31,9 @@ Při flambování moučníků je situace o něco lepší, ale i zde by mělo bý
 
 Bohužel v českých restauracích, ve kterých flambování ještě praktikují, si neuvědomují, že správné flambování vyžaduje určitou zručnost a praxi. V některých restauracích flambování praktikují přesto, že s ním nemají vůbec žádné zkušenosti.
 
-Dnešní restaurace flambování nabízejí jednak proto, že si myslí, že je to moderní. Hlavně ovšem proto, aby cena použité lihoviny mohla být připočítána k jídlu, a tím zvýšen obrat. To se zdánlivě zdá být velmi výhodné, ale ve skutečnosti je pravdou pravý opak. Opravdový [gurmán][3] by si u stolu nenechal dobré jídlo flambováním zruinovat.
+Dnešní restaurace flambování nabízejí jednak proto, že si myslí, že je to moderní. Hlavně ovšem proto, aby cena použité lihoviny mohla být připočítána k jídlu a tím zvýšen obrat. To se zdánlivě zdá být velmi výhodné, ale ve skutečnosti je pravdou pravý opak. Opravdový [gurmán][3] by si u stolu nenechal dobré jídlo flambováním zruinovat.
 
-Základním požadavkem přípravy jídel je zkrátit dobu mezi dohotovením jídla a dobou jeho podávání na minimum. Jedna z možností, která se nabízela, bylo připravovat jídlo u stolu, nebo přímo na stole.
+Základním požadavkem přípravy jídel je zkrátit dobu mezi dohotovením jídla a dobou jeho podávání na minimum. Jedna z možností, která se nabízela, bylo připravovat jídlo u stolu nebo přímo na stole.
 
 Flambování některých jídel (při jejich přípravě v kuchyni) má mnohdy své opodstatnění. Podle mého názoru je ale flambování u stolu jen [snobizmus][4] a někdo by mě musel přesvědčit o opaku.
 
@@ -45,7 +45,7 @@ Pokud obsluhující neví co dělá, tak se flambováním doba od výroby jídla
 
 Nevýhodou flambování totiž také je, že při větším počtu stolovníků, z nichž si každý objednal jiné flambované jídlo, se servis značně zpomalí. To na kvalitě jídel také moc nepřidá.
 
-Podle společenského protokolu by žádný ze stolovníků neměl začít jíst dříve, než je podáno jídlo všem. Pokud je tedy několik stolovníků, a každý z nich si objedná něco jiného, tak než číšník dohotoví poslední jídlo, tak je to první už úplně studené.
+Podle společenského protokolu by žádný ze stolovníků neměl začít jíst dříve, než je podáno jídlo všem. Pokud je tedy několik stolovníků a každý z nich si objedná něco jiného, tak než číšník dohotoví poslední jídlo, tak je to první už úplně studené.
 
 {id="flambovane\_palacinky\_crepes"}
 
@@ -63,7 +63,7 @@ Flambování palačinek je jakýsi obřad, který je zakončen vzplanutím alkoh
 
 V padesátých letech byl _New Orleans {xml:lang="en"}_ hlavní přístav, kterým byly do Ameriky dováženy banány z Jižní Ameriky. _Owen Edward Brennan {xml:lang="en"}_, majitel velmi populární restaurace, vybídl svého talentovaného šéfkuchaře _Paula Blanné {xml:lang="fr"}_ k vytvoření nové banánové kreace.
 
-V roce 1951 přišel šéf _Paul {xml:lang="en"}_ s receptem, kterým se neproslavil jen on, ale i restaurace _Brennan {xml:lang="en"}_, a kde se teď flambuje 16 kg banánů denně.
+V roce 1951 přišel šéf _Paul {xml:lang="en"}_ s receptem, kterým se neproslavil jen on, ale i restaurace _Brennan {xml:lang="en"}_, kde se teď flambuje 16 kg banánů denně.
 
 Osobně jsem banány v této restauraci ochutnal v roce 1971, tedy 20 let po jejich vynálezu. Přesto, že nejsem velkým přítelem flambování, musím říci, že byly vynikající.
 
