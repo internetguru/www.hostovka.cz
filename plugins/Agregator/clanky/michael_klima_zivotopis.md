@@ -1,15 +1,15 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-image="/files/preview/clanky/michael\_klima\_zivotopis/preview.jpg" data-type="article" data-source="http://2017.hostovka.cz/nekolik-slov-o-mikovi-a-jeho-aktivitach.php" data-top="7"}
 
-{ctime="2008-07-07" mtime="2008-12-11" id="michael\_klima\_zivotopis" author="Michael Klíma"}
+{ctime="2008-07-07" id="michael\_klima\_zivotopis" author="Michael Klíma"}
 
-# Životopis
+# Život Mikea Dobromila Klímy
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-02-28, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-04-27, do not edit -->
 
 {kw="životopis"}
 
-Michael Dobromil Klíma (dále jen „MDK“) narozený v roce 1928 v Československu, je nyní občanem Spojených států amerických, ale srdcem a duší je stále Čech
+Michael Dobromil Klíma (dále také „MDK“) narozený v roce 1928 v Československu, je nyní občanem Spojených států amerických, ale srdcem a duší je stále Čech.
 
 Vyučený v roce 1945 kuchařem a číšníkem v hotelu Alcron v Praze, pod legendárním šéfem a noblesou mezi kuchaři Florianem Zimmermanem, absolvent Státní Hotelové školy v Mariánských Lázních, je v paměti starší generace pracovníků v pohostinství jako přední gastronomický odborník, publicista, autor několika kuchařských knížek a letor několika odborných kurzů.
 
@@ -80,6 +80,16 @@ Byl také dlouholetým členem Catering Executives Association, což je organiza
 
 ![Členství v České a Slovenské asociaci kuchařů a cukrářů][8] 
 :   Členství v České a Slovenské asociaci kuchařů a cukrářů
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: /files/thumbs/clanky/michael_klima/obr3.jpg
  [2]: /files/thumbs/clanky/michael_klima/obr4.jpg

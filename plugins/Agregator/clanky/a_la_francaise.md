@@ -13,6 +13,8 @@ Jak jsem se dočetl na internetu, tak jen za první tři měsíce v r. 2009 zban
 
 Slavný restaurační kritik listu Figaro Francois Simon tento týden napsal, že nová spotřebitelská šetřivost Francouzů změnila stravovací zvyklosti celého národa a přivedla majitele restaurací na pokraj katastrofy. Zákazníci v restauracích si dnes už nedávají tradiční aperitiv, předkrmy, nekupují si víno ani kávu a v závěru večera společně sní jeden dezert.
 
+{id="zmena_zvyklosti"}
+
 ## Změna zvyklostí
 
 Restauratérům to už jde na nervy. V jedné restauraci nedaleko Lyonského nádraží v Paříži (jak píše francouzský kritik) vyhodil zoufalý majitel restaurace dvojici zákazníků, protože si odmítla dát předkrm. Restaurační řetězec Hippopotamus nyní nabízí slevy pro stálé zákazníky a mimořádně levné nabídky hamburgerů. Úředníci si stále častěji k obědu kupují bagetu či předpřipravená jídla ze supermarketů.
@@ -22,6 +24,8 @@ Jak vyjít s nízkým platem a rostoucími cenami potravin se ve Francii stalo c
 Sektor restaurací byl letos ve Francii svědkem třetího nejvyššího počtu bankrotů, hned po stavebním průmyslu. Čas, který Francouzi tráví v restauracích, se také zkracuje. V roce 1975 trval oběd v restauraci průměrně půldruhé hodiny, do roku 2005 se zkrátil na 32 minut.
 
 Jean Guillaume, majitel brasserie Le Bouquet na Haussmannově bulváru v módní podnikatelské osmé čtvrti v Paříži, konstatoval: „Zákazníci, kteří přišli na oběd, si dávali hlavní jídlo, dezert, kávu a láhev vína. Dnes si dají jen hlavní jídlo, vodu z kohoutku. Ze 75 zákazníků, které tu máme dnes v poledne, si nedal víno ani jediný. Je to konec tradice francouzských obědů…” Hned vedle v ulici však byla u pekařství v poledne fronta na bagety z obchodu, až daleko na ulici.
+
+{id="porovnani_s_cr"}
 
 ## Porovnání se situací v Česku
 
@@ -35,3 +39,12 @@ Mohu se pochlubit také dalším prvenstvím, a to je uvedení do provozu mého 
 
 Mám také další unikátní koncept _Fusion Cuisin by Assemly Cooking™ {xml:lang="en"}_, který se od konceptu STEAKGRILL® podstatně liší. Ukazuje se být ideální pro mnohé skomírající české restaurace.
 
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
