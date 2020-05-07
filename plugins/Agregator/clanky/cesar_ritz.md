@@ -11,7 +11,7 @@
 
 César Ritz byl génius hotelového průmyslu. Moc dobře znal důležitost historie, zásad [gastronomie][1] a dobré organizace kuchyně.
 
-V první polovině 20. století před rokem 1914, vybudoval César Ritz na těchto základních pilířích pohostinského průmyslu velice úspěšnou kariéru.
+V první polovině 20. století, před rokem 1914, vybudoval César Ritz na těchto základních pilířích pohostinského průmyslu velice úspěšnou kariéru.
 
 César Ritz si uvědomoval důležitost gastronomie v hotelovém průmyslu natolik, že se spojil s [Agustem Escoffiérem][2], již tehdy uznávaným nejschopnějším šéfkuchařem světa.
 
