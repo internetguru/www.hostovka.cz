@@ -5,7 +5,7 @@
 
 # Ústřice
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -103,4 +103,14 @@ osminky citrónu
 :   12
 
 Troubu předehřejeme na 190°C. Ústřice opatrně otevřeme, vlastní šťávu zachytíme a dáme stranou. Vrchní lasturu odstraníme, ústřice oddělíme od spodní, hlubší lastury ke které jsou přirostlé, a dáme stranou. Spodní lastury opereme a ústřice do lastur vrátíme. Strouhanou housku smícháme s jemně sekanou petrželkou, solí a cayenským pepřem. Směs rozdělíme stejnoměrně na připravené ústřice, pokapeme zachycenou šťávou, posypeme parmazánem, pokapeme máslem a pečeme v předehřáté troubě dozlatova. Podáváme velmi horké s citrónem nakrájeným na osminky.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

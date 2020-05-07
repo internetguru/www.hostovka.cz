@@ -5,7 +5,7 @@
 
 # Zatracený krabí život
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -188,4 +188,14 @@ Za zmínku také stojí, že pivo se ku krabům také moc nehodí, to si dávejt
 Jsou lidé, a dá se říci, že docela sofistikovaní hosté, kteří ku krabům pijí červené víno, ale podle mě ideální je nějaké suché bílé víno, ale pokud vínu moc nerozumíte, tak si nechte poradit od odborníka, což někdy může být i místní someliér. Když už jste utratili ty hříšné peníze za toho kraba, tak na tom víně moc nešetřete.
 
 Pro ty studenty kteří o krabech toho chtějí vědět více přikládám anatomii kraba, ale do češtiny si to musíte přeložit již sami.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

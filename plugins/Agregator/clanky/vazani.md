@@ -5,7 +5,7 @@
 
 # Vázání
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="kuchyňské techniky"}
 
@@ -26,4 +26,14 @@ To vám zde píši ale jenom proto, abyste věděli jak se to dělá, nicméně 
 No, a i když tyto stránky nejsou nějaká škola vaření, tak pro případ, že byste si nějakou omáčku či polévku vázali, vás musím upozornit na to, že se pak omáčka nesmí již vařit, protože by se srazila, čemuž se v odborné hantýrce říká, že se zdrcla. 
 
 Sražená omáčka se dá sice napravit, ale jako studentům Hostovky by vám mělo stačit to co jsme si o vázání zatím řekli.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

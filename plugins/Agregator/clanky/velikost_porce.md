@@ -5,7 +5,7 @@
 
 # Správná velikost porce
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -108,6 +108,16 @@ Vařená rýže, těstoviny, knedlíky (jako příloha)
 {class="example"}
 
 V případě, že si host objedná k jídlu dva druhy zeleniny nebo například dva druhy knedlíků, podáváme dvě poloviční porce. Váhy porcí upravujeme podle místních zvyklostí a nesmíme se bát vybočit ze stereotypu stogramových až třistagramových porcí, a začít podávat některé pokrmy ve váze 170, nebo 220 g apod.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: /tvorba_cen
 

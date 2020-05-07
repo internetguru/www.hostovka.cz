@@ -5,7 +5,7 @@
 
 # Vykosťování
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="kuchyňské techniky"}
 
@@ -26,4 +26,14 @@ U nás ale se s něčím takovým zatím nesetkáme. Jednak těžko dostanete t�
 Ve většině lepších restaurací vám toho pstruha sice vykostí, ale já bych si mého pstruha vykosťovat nenechal protože i když ten číšník je zručný tak pokud jste u stolu dva nebo i více, tak v té době než toho vašeho pstruha dostanete tak je studený.
 
 Já vím, že se mi hned někdo ozve s tím, že v jejich restauraci se to stát nemůže protože toho pstruha přihřejí na stolním vařiči, ale já prostě bych si ho raději vykostil sám.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

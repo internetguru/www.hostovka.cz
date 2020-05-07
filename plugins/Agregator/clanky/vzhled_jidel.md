@@ -5,7 +5,7 @@
 
 # Vzhled jídel
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="gastronomie"}
 
@@ -170,4 +170,14 @@ Velikost talířů je různá podle toho zda se na nich podává předkrm, hlavn
 Zkuste však stejné množství salátu podávat na vychlazeném velkém talíři a budete překvapení, že vizuálně nejenom, že ta porce bude vypadat větší, ale bude i estetičtější.
 
 Toto je ale jen malá ukázka toho jak je možno presentaci jídel zjednodušit.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

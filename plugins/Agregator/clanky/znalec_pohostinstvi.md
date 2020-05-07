@@ -5,7 +5,7 @@
 
 # Kdo je lepším znalcem pohostinství
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="gastronomie"}
 
@@ -43,6 +43,16 @@ Já jsem si toho nesmírně vážil protože jsem tak rozšiřoval můj odborný
 V té době se v restauracích dávali zápalky, které jsem si schovával jednak proto, abych si pamatoval ve které restauraci jsem již byl a také proto, že na nich zpravidla bylo číslo té restaurace pro případ, že jsem tam chtěl jít znovu.
 
 Některé ty restaurace díky zákazu kouření později již zápalky nedávaly tak jako tak a proto jsem tu celou sbírku vyhodil. Nicméně jsem si některé ty zápalky schoval na památku, a jelikož již koňak nepiji tak často, tak jsem je dal do mé napoleónky ve které se doufám nevznítí.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: http://2017.hostovka.cz/soubor/9-7-06-1.JPG
 

@@ -5,7 +5,7 @@
 
 # Zážitková gastronomie
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="gastronomie"}
 
@@ -36,6 +36,16 @@ Někdo je ochoten za zážitek z jídla dát „poslední korunu“ (nebo dolar)
 Je dokázáno, že někteří hobby kuchaři ve svých teoretických znalostech o mezinárodní gastronomii předčí mnohé odborníky z povolání. Je to z jednoduchého důvodu a sice, že si ve většině případů mohou dovolit navštěvovat více restaurací než lidé, kteří v nich pracují.
 
 Na západě návštěva některých luxusních restaurací stojí $100 na osobu a více. V některých případech k tomu musíte přičíst riziko, že zážitek nebude odpovídat ceně.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: gastronomie
  [2]: spolecenstvi_gastronomu#chaine_des_rotisseurs

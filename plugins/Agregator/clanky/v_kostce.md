@@ -5,7 +5,7 @@
 
 # V kostce
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="gastronomie"}
 
@@ -34,4 +34,14 @@ Já jsem se za mlada také musel učit věci které jsem za celý život nikdy n
 Tudíž musím těmto mým kritikům v kostce napsat, že prostě mé příspěvky nesmí číst, ale nechtěl bych aby je jakýmkoliv způsobem krátili.
 
 Vrátit se na předchozí stránku
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

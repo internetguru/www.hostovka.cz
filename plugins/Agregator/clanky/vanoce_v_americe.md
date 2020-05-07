@@ -5,7 +5,7 @@
 
 # Vánoce u nás a v Americe
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="gastronomie, Vánoce, recept"}
 
@@ -90,6 +90,16 @@ Glazura se nedá ničím pokazit a nekladou se u ní meze fantazii, takže do n�
   5. Plátky šunky přeléváme teplou glazurou s ovocem.
 
 Vhodná příloha k pečené šunce jsou v Americe sladké brambory v jakékoliv formě nebo bramborová kaše. Jako druhou přílohu můžeme podávat krémový špenát nebo dušený hrášek.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: /thanksgiving
  [2]: /peceni

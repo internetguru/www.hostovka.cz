@@ -5,7 +5,7 @@
 
 # Vdolky u nás a v Americe
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="jídla a jídelní lístky, recept, historka"}
 
@@ -80,6 +80,16 @@ Toto jsem s ním dělal asi tak 3 nebo 4 dny, a pak jsem jednou přišel do prá
 Samozřejmě, že jsem mu to dovolil, ale ne jenom to. Musím říci, že José nakonec omáčku dělal lépe než já, a tak jsem z něj udělal kuchaře. Ukázalo se, že to bylo velice dobré rozhodnutí. Během několika dalších týdnů José zvládl další oddělení. Nevím, co se s ním stalo po mém odchodu, ale kdybych tam býval zůstal, tak jsem přesvědčen, že by se určitě vypracoval na mého zástupce.
 
 Sice nejsem učitel národů jako byl Komenský, ale za léta praxe jsem téměř po celém světě vychoval stovky, ne-li tisíce dobrých kuchařů, na které dnes mohu být pyšný.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: /kucharske_tituly#vykonny_sefkuchar
 

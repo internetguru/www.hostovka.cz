@@ -5,7 +5,7 @@
 
 # U nás si nikdo nestěžuje
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="o čem se mluví"}
 
@@ -42,4 +42,14 @@ No, kdysi na učňovských školách se způsob vyúčtování s hostem učil ji
 Já vím, že bych s tou Amerikou neměl již unavovat, a že mi to stejně nikdo nevěří, ale v Americe, v některých privátních klubech ceny na jídelních listcích vůbec nemají, protože říkají, že když se musíte ptát na cenu, že si to nejspíše stejně nemůžete dovolit. Ale i v některých „nóbl“ restauracích jídelní lístek s cenami dostane jen hostitel, a jeho hosté mají lístky bez cen, aby se nemuseli žinýrovat si vybrat jídlo podle své chuti. Nemějte ale obavy, v Česku něco takového hned tak nebude.
 
 Pan Karpíšek , zakladatel Ambiente teď otevřel českou restauraci v Novém Yorku, kde určitě bude propagivat ty Czsch specials, ale jen doufám, že nebude propagovat ty české služby a že tam bude mít místní americké nevyučené servírky a číšníky protože s těmi českými by si dobrou reputaci asi neudělal.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

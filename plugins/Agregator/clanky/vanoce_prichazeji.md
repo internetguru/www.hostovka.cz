@@ -5,7 +5,7 @@
 
 # Vánoce přicházejí
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="gastronomie"}
 
@@ -49,4 +49,14 @@ Nicméně ale ještě mám nějakou naději. Všechna ta náboženství jak vím
 Jak ale víte, tak já jsem liberál a věřím, že každý máme svoji pravdu. Tudíž Vám Vaši víru neberu ale přesto Vám přeji Happy Chanukah, dlouhý Ramadan, příjemné prožití svátků Vánočních nebo Kvanzaa, a hodně zdraví a peněz v novém roce.
 
 Já totiž věřím také tomu, že je lepší být zdravý a bohatý než chudý a nemocný. Také Vám přeji, aby Vám Váš Bůh splnil všechna Vaše přání a dal Vám to co Vám patří.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

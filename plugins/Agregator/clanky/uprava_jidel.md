@@ -5,7 +5,7 @@
 
 # Úprava jídel
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="kuchyňské techniky"}
 
@@ -26,4 +26,14 @@ Musíme ale být opatrní abychom z našich kuchařů nevytvořily primadony. To
 Z toho plyne poučení, že nikdy netvoříme jídelní lístek kolem schopností jen několika našich zaměstnanců a obdobně od našich „laciných“ kuchařů neočekáváme nějaké zázraky.
 
 You get what you paid for.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

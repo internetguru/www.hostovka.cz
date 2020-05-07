@@ -5,7 +5,7 @@
 
 # Vaření z polotovarů v moderní kuchyni
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="kuchyňské techniky, polotovary, komponenty"}
 
@@ -48,4 +48,14 @@ Dohotovení jídel sestavením jejich polotovarů není nic nového. Čínská, 
 Pracoval jsem v Americe v mnoha velkých luxusních restauracích podávajících stovky jídel, ve kterých jsem kolikrát neměl ani jednoho vyučeného kuchaře. Přežil jsem jedině proto, že jsem měl dobré přesné a jednoduché recepty, a že jsem jako jeden z prvních techniku vaření z polotovarů používal.
 
 Dnes mi to zatím moc lidí nevěří, ale na mé předpovědi již mnohokrát došlo. Chtěl bych tedy, aby byl dokumentován můj výrok, že typická česká kuchyně založená na pracných a neefektivních metodách přípravy jídel má odzvoněno, a že moderní česká kuchyně se bez nějaké formy sestavování polotovarů již neobejde. Neboli, že vznikne jakési české rychlé občerstvení _(fast food)_.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

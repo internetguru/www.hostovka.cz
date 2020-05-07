@@ -5,7 +5,7 @@
 
 # Tepelné úpravy potravin
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="kuchyňské techniky"}
 
@@ -70,6 +70,16 @@ Další kuchařské techniky, o kterých v některých našich učebnicích nen�
   * [vaření z polotovarů][3] (_assembly cooking_),
   * [food styling][4],
   * stage cooking apod.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: /duseni
  [2]: /peceni

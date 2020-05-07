@@ -5,7 +5,7 @@
 
 # Zbytky
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="pohostinství"}
 
@@ -50,4 +50,14 @@ CATERING PRO KAŽDÉHO od:
 MICHAEL KLIMA CEC, CCE,
 
 Certified Executive Chef, Certified Culinary Educator, Certified Hospitality Industry Consultant, Professor Emeritus Triton College, Illinois, USA, člen Syndikátu novinářů ČR, Freelance Writer, čestný člen AKC ČR od 1989
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

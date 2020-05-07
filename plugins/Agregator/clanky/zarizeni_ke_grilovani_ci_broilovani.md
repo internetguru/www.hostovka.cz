@@ -5,7 +5,7 @@
 
 # Zařízení ke grilování či broilování
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="stroje a náčiní"}
 
@@ -34,4 +34,14 @@ Rozdíl mezi grilem a gridlem jsem mým studentům vždycky vysvětloval jako ro
 No, a obdobně na grilu můžeme grilovat kuřata, ryby a steaky, ale lívance nebo sázené vejce na něm neuděláme kdybychom se zbláznili. Gril totiž, podobně jako ta klec na ptáky je mřížka, pak nic, pak zase mřížka a nic, a tak dále. A to je ten problém protože těma nicama to těsto nebo ty vejce také protečou. Potom ale přišel nějaký chytrý pán, který si řekl, že pokud nemáme grill, že ty steaky se dají dělat i na obyčejné hladké plotně, nebo v horké troubě, ale je s tím velký svinčík protože ten vypečený tuk nemá kam odtékat.
 
 Tudíž vynalezl hladkou a někdy i vrubovanou desku která je vyhřívaná zespoda, a která je mírně nakloněná takže ten tuk může ztékat do jímky na jejím konci. Ten pán se nejspíše jmenoval Griddl, a tak se tomu forichtungu dnes říká griddl.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

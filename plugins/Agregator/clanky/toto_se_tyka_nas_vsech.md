@@ -5,7 +5,7 @@
 
 # Toto se týká nás všech
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="koho se to týká"}
 
@@ -64,4 +64,14 @@ A pointa?
 Prostě ta svoboda a demokracie kterou dnes i v Česku máme je také pro každého a proto jako hosté máme právo na to, aby nás obsluhovali a v kuchyni aby jídla připravovali zaměstnanci kteří nějaké zásady dodržují.
 
 Mimo těch práv máme ale také nějaké povinnosti a proto máme povinnost na extrémní nedodržování daných zásad upozorňovat.No a pokud se týká těch inspektorů školní inspekce, tak těm bych vzal jejich kanceláře a vyhnal bych je do ?terénu?, aby nedodržování těch případných zásad kontrolovali.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

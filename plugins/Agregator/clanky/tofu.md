@@ -5,7 +5,7 @@
 
 # Tofu
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="co-kdy-kde"}
 
@@ -14,4 +14,14 @@ Tofu, je jídlo které pochází z Číny a které ještě před několika málo
 Vyrábí se srážením sojového mléka se sádrou (případně jinými prostředky). Tofu se snadno snoubí s mnoha potravinami a je oblíben jak ve slané tak i sladké formě.
 
 Jeho obliba je hlavně v jednoduchosti přípravy v takzvaném assembly cooking.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

@@ -5,7 +5,7 @@
 
 # Valet parking
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="restaurace a servis"}
 
@@ -34,4 +34,14 @@ Díky nesčíslným soudním procesům, které většina restaurací měla, vzni
 To je ale proč vám o tom píši. Vstupem do Evropského společenství bude v průmyslu pohostinství a cestovního ruchu více takových profesí ku kterým budou potřeba nejenom znalosti, ale bohužel i nějaký glejt.
 
 Na našich hotelových školách se baleťactví neučí, ale myslím si, že dříve nebo později se najde organizace která se bude zabývat kurzy pro všechny profese které s průmyslem pohostinství a cestovního ruchu souvisí takže může dojít ku vzniku svazu českých baleťáků.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

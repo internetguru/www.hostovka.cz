@@ -5,7 +5,7 @@
 
 # Rozdíl a příprava zálivky a dresinku
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -108,4 +108,14 @@ Kupované (komerčně vyráběné) dresinky se sice hodí, ale v restauracích s
 Kuchaři v restauracích by měli své dresinky připravovat podle chuti hostů, a ne podle své vlastní.
 
 Opravte mě, pokud se mýlím, ale spousta kuchařů ví o dresincích jen velmi málo. To, že dělají dresinky podle své chuti, mně osobně nic neříká. Některé dresinky se hodí pro těstovinové saláty, jiné pro masité či rybí saláty, jiné pro saláty ovocné nebo zeleninové. Proto mám rád, když restaurace nabízí několik populárních, třeba i kupovaných dresinků.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

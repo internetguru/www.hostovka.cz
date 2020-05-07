@@ -5,7 +5,7 @@
 
 # Z kuchařiny ctnost
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="gastronomie"}
 
@@ -22,4 +22,14 @@ No, a tou marinádou tomu opravdu dal na prdel. Za prvé ta hulvátsky nakrájen
 Těch blbostí, jako obyčejně, bylo ale více, jako například jeho technika kontroly propečení steaků podle dotyku na dlaní jeho ruky. Prostě celkově se dá říci, že bez těch jeho obligátních hlášek a sprostých výrazů to bylo velice nudné, o grilování mimo těch blbostí nic světoborného nikomu vlastně neřekl, takže si myslím, že to po tom pořadu „Na nože“, byl další propadák.
 
 Příspěvky oponentů na těchto stránkách rád uveřejním.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

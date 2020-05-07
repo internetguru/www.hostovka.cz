@@ -5,7 +5,7 @@
 
 # Tvorba cen
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="konzulting"}
 
@@ -20,4 +20,14 @@ Tvorba cen není jen otázkou vysoké odbornosti, praxe a zkušenosti, ale i zna
 Největší podíl na potenciálním trhu má ten kdo nabídne nejlepší jídla a nápoje za nejvýhodnější ceny.
 
 Ve výše uvedené definici jsem kdysi místo „nejvýhodnější“ měl výraz nejnižší. Během praxe se však ukázalo, že nejnižší ceny nemusí být ty nejvýhodnější a to ani pro hosta ani pro restauratéra. Pokud bychom například hovořili o soukromých klubech, ve kterých někdy nemají na jídelních lístcích vůbec žádné ceny uvedeny, nebo o restauracích ve kterých mají ceny jen na lístcích, které předkládají jen pánům, tak, aby se dámy nemusely žinýrovat si objednat něco drahého, bychom si uvědomili jak velkou důležitost má psychologie jako součást obchodní filozofie. Vedení velmi dobře ví kolik je které jídlo stojí neboli kolik je jejich food cost a jakou které jídlo má ideální prodejní hodnotu protože na všechny jídla má vytvořené své vlastní kalkulace, avšak mnohdy takové ceny „zvýhodní“, aby zvýšili obrat, což je také jedna technika o které bude řeč v tomto semináři.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

@@ -5,6 +5,8 @@
 
 # Účetnictví v pohostinství
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
+
 {kw="pohostinství, management"}
 
 Nejsem příliš zběhlý v historii účetnictví, ale vím, že účetnictví je staré více než 5.000 let. Také vím, že je to (zjednodušeně řečeno) evidence toho, co komu patří.
@@ -44,7 +46,7 @@ Já vás to učit nemohu, ale způsobů machinací s bonovací knihou je celá �
 
 Provozovatel pohostinství, který má zájem kontrolovat zaměstnance, má podle jednoho mého přikázání, které říká „nikomu nevěř, a to ani sobě“, musí mít mimo bonovací knihy ještě nějaký další systém kontroly. Jak jsem ale řekl již úvodem, tak přijít s něčím, co skutečně plní funkci kontroly, je velice těžké.
 
-{id="dalsi_kontroly"}
+{id="koralkovy_system"}
 
 ## Korálkový systém a další typy kontrol
 

@@ -5,7 +5,7 @@
 
 # Zkratky na jídelních lístcích
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -22,4 +22,14 @@ S tou stručností se to však nesmí přehánět. Na našich jídelních lístc
 Občas se v odborném tisku objeví kritika jazykové přesnosti jídelních lístků, ale zkratky na jídelních lístcích jsou úplně jiné zvíře a já jsem překvapen, že žádný z těch puristů je zatím tento nešvar nikdy nekritizoval.
 
 Je to podle mně zmatek zkratek a pokud se naši hosté v těchto značkách nevyznají, tak to není díky jejich nedostatečné inteligence, ale nedostatek inteligence jejich tvůrců.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

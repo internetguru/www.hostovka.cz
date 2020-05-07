@@ -5,7 +5,7 @@
 
 # Trendy vývoje českého pohostinství
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="gastronomie"}
 
@@ -200,4 +200,14 @@ Většina prognostiků se ale shoduje v tom, že budoucnost pohostinství se bud
       2. Zvýšenými požadavky na hospodářský výsledek neboli zisk.
 
 Zodpovědné plánování úkolů, schopnost rychle reagovat na změny, umění rychle vyhodnocovat informace, rychlost, kvalita služeb a uspokojení potřeb a přání hostů, budou základními podmínkami úspěchu podnikání v pohostinství v příštím století. Tyto podmínky bude možné zvládnout jedině novými formami managementu jak restaurací tak i kuchyní.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 

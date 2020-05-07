@@ -5,7 +5,7 @@
 
 # Zrání hovězího masa
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-04-25, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="kuchyňské techniky"}
 
@@ -64,6 +64,16 @@ Doba zrání masa je otázka osobní preference. Někteří lidé dají přednos
 V restauracích většina hostů dává přednost masu uzrálému, za což jsou ochotni zaplatit i něco navíc. Problém je v tom, že se stupeň zralosti masa dá zjistit jedině velice složitým testem zvaným _Warner-Bratzler shear force test_, který se v Česku hned tak používat nebude.
 
 Zrání masa nesmíme zaměňovat s [marinováním][1] o kterém si povíme později.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: /duseni#marinada
 
