@@ -33,3 +33,12 @@ Předpokladem pro úspěšný výkon povolání jsou administrativní dovednosti
  
 Nejbližším nadřízeným pracovníkem je zpravidla ředitel nebo vedoucí gastronomického provozu. Výše uvedené povinnosti by měly být zakotveny v příslušných manuálech a každý administrativní pracovník všech větších provozů by měl být certifikován.
 
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
