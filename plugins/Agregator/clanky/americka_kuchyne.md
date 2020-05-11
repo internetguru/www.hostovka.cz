@@ -1,15 +1,15 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=110.html" data-image="files/preview/clanky/americka_kuchyne/general.jpg" data-type="article"}
 
-{ctime="2005-11-16" mtime="2005-11-16" id="americka\_kuchyne" author="Michael Klíma" short="Americká kuchyně" authorid="hostovka/michael\_klima"}
+{ctime="2005-11-16" mtime="2020-04-30" id="americka\_kuchyne" author="Michael Klíma" short="TODO"}
 
-# Americká kuchyně
+# TODO Americká kuchyně
 
 <!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="gastronomie"}
 
-Americká kuchyně, když to řeknu zjednodušeně, je kukuřice, krocani a apple páj, ale když chcete vědět co Američané jedí dnes, tak k seznamu všech steaků s pečenými bramborami si připište seznam jídel všech etnických kuchyní které na světě existují, a to jsou jídla, která ve vylepšené formě připravená z prvotřídních amerických surovin, Američané jedí dnes.
+Americká kuchyně je zjednodušeně kukuřice, krocani a jablečný koláč. Jesli ale chcete vědět, co Američané dnes jedí, tak si k seznamu  steaků s pečenými bramborami připište seznam jídel všech etnických kuchyní světa.
 
 {id="americke_pohostinstvi"}
 
@@ -32,64 +32,6 @@ Tomuto trendu odpovídá i architektonické řešení kuchyní a hlavně výdejn
 Tam, kde příprava jídle probíhá v odbytové části je toto pracoviště jakousi bariérou nebo spojovacím článkem mezi kuchyní a jídelnou.
 
 V mnoha velkých podnicích v Americe, si obsluhující mimo jejich "side jobs" (mimořádné práce) sami vaří kávu, nabírají si sami pečivo, polévky, saláty, crudités, zmrzlinu a čepují si sami mléko a nealkoholické nápoje, což nejenom představuje nesmírnou úsporu na mzdách kuchařů, ale do jisté míry zjednodušuje a zrychluje obsluhu, to ale evropským restauratérům ještě nedošlo.
-
-{id="pripadova\_studie\_americke_servirky"}
-
-## Případová studie – americké servírky
-
-Krátce po sametové revoluci, když jsem byl v Evropě v zastoupení americké firmy Blodgett, jsem vozil do Ameriky na 5ti či 6ti denní školení skupiny českých, ruských, polských, maďarských a jiných techniků z post-komunistických zemí, kteří měli naše zařízení servisovat. Pro všechny to bylo zároveň první seznámení s Amerikou a americkým pohostinstvím.
-
-Stalo se, že se skupinou pěti českých inženýrů které jsem do Ameriky přivezl na odborné školení, jsme jednou dorazili do hotelu v Atlantě kolem půlnoci. Byli jsme po té cestě unaveni a tak jsem navrhl, abychom se šli ještě někam najíst a občerstvit. Páni inženýři na mně koukali udiveně, protože nechtěli věřit, že bychom po půlnoci ještě někde dostali něco pořádného k jídlu nebo pití.
-
-Vedle hotelu byla restaurace známého amerického řetězce Denny's. Tyto restaurace, které jsou roztroušeny po celé Americe, jsou otevřeny 24 hodin denně a tak jsem je tam vzal na první seznámení s jednoduchou americkou gastronomií.
-
-U vchodu nás uvítala hosteska, a zeptala se kde bychom chtěli sedět. My jsme žádnou preferenci neměli a tak nás usadila ku stolu pro 6 osob, podala nám jídelní lístky a řekla nám, že Margret se nás hned ujme.
-
-Servírka, která se objevila během několika okamžiků se s úsměvem na rtech se skutečně představila jako Margret ( což se v Česku ještě nedělá) a řekla že bude naší servírkou.
-
-To byl samozřejmě první okamžik kdy páni inženýři byli šokováni. Hosté se v takovém případě nepředstavují, ale já jsem se představil jako Mike a řekl jsem Margret, že moji partneři jsou Češi, z nichž někteří anglicky neumí a každého jsem představil jménem jako Franta, Karel, Jirka, Petr a Riša.
-
-Margret vzala objednávku na nápoje a odešla. Mezitím se moji partneři pustili do tuny pečiva a másla které Mrgret při svém příchodu na stůl založila, a já jsem jim při tom pomohl s výběrem jídel, protože v Americe se s českými mutacemi jídelních lístků zatím nesetkáte.
-
-Margret, když se vrátila, tak aniž by se někoho na něco ptala, tak před každého s úsměvem na rtech postavila nápoj který si objednal se slovy: "Here you are Franta, Karel, či Ríša", a při tom se opět na každého mile usmála.
-
-Moji partneři byli šokovaní nejenom tím, že o půlnoci stále směje, ale i proto, že v Česku si někteří číšníci s maturitou ani u dvou lidí nepamatují co si kdo objenal, ale Margret si to všechno pamatovala včetně jejich jmen. _What a country! {xml:lang="en"}_
-
-No, to ale byl jen začátek. Margret potom od každého vzala objednávku jídla které šla předat do kuchyně.
-
-Nemusím vám asi říkat, že když Margret přinesla ta jídla, se ta scéna opakovala, neboli že s úsměvem na rtech každému dala to co si objednal, přičemž neopomněla říci: "Enjoy your meal Franta, Karel", atd.
-
-No, to na ty Čechy, přestože to byli samí vzdělaní inženýři, bylo trošku moc. Ale musím to trochu zkrátit...
-
-Druhý den jsme museli brzy vstát a tak jsme na snídani zašli opět k Denny's. U vchodu nás pozdravila stejná hosteska, která zřejmě nastoupila službu o půlnoci.
-
-Na nic se neptala a posadila nás rovnou ku stolu u kterého jsem seděli při večeř a samozřejmě, kde se vzala, tu se vzala, se objevila i Margret a s úsměvem na rtech, protože nás považovala již za své přátele řekla:"Hi guys", což je něco jako: "Ahoj kluci". Potom se opakovala podobná scéna jako při naši minulé návštěvě, včetně toho že si Margret pamatovala všechna naše jména.
-
-No, tím ale moje historka nekončí. S podobným jednáním servírek se páni inženýři setkali všude během jejich amerického pobytu, a tak po několika dnech mi z cela vážnou tváří řekli, že si myslí, že všechny ty servírky na ně "letí" protože se na ně v jednom kuse smějí.
-
-Já jsem jim nechtěl kazit radost a tak jsem jim neřekl, že se stejně smály i na ty Maďary, Poláky a Rusy které jsem do Ameriky přivážel již před nimi a které jsem také babysitoval.
-
-{id="americane"}
-
-## Američané
-
-Díky velikosti Ameriky, díky tisícům vynikajících univerzit a díky milionům informací které jsou dnes Američanům zdarma dostupné, je v Americe tolik vzdělaných lidí, že ti kteří Američany obviňují z nevzdělanosti, nemají ani potuchy. Oproti Čechům, kteří se spokojí třeba i s malým platem, jenom když mají titul, si Američané na tituly moc nepotrpí. Titul inženýr se v Americe nepoužívá, protože inženýr je každý mechanik nebo domovník, a přestože PhD. je oficiální název několika typů doktorů, tak titul doktor (Dr), mimo k označení doktora medicíny, se používá velmi zřídka.
-
-Jak to bude se vzdělaností v České republice až vzdělání zadarmo nebude, mi není jasné. Socialistický sen o tom, že co Čech, to ne muzikant, ale doktor, inženýr, magistr nebo kandidát věd, se bohužel asi již neuskuteční, leda že by znovu otevřeli Střešovickou Sorbonu.
-
-Američanům se také často předhazuje jejich hrubé a někdy neomalené chování. Ta hrubost má zřejmě co společného s hrubými podmínkami prvních amerických osadníků, což se někdy zveličuje v těch kovbojkách, a ta neomalenost je podle mně vlastní každému velkému národu. O Američanech se také říká, že jsou nevychovaní, s čímž do jisté míry souhlasím. Američané, i ti potomci bohatých plantážníků, nemají totiž žádnou Kidnerstube, protože nebyli vychování francouzskými guvernantkami, ale bývalými černými otrokyněmi, takže co od nich chcete. Na druhé straně se ale nedá říci že dnešní vzdělaní Američané chování nemají. Američan totiž je v zásadě ohleduplný, stále se na každého usmívá, za vše tisíckrát děkuje, a umí ocenit každou službu nebo laskavost kterou mu prokážete. Američan se Vás několikrát za den zeptá How are you, což je společenská fráze, ale mně se to líbí, protože když stokrát denně někomu odpovím, že se mám dobře, tak tomu nakonec i věřím. S něčím takovým, aby Vám Američan neposlal thank you note, neboli písemné poděkování když ho pozvete na večeři, nebo aby Vám neřekl jak to vše bylo dobré, se nesetkáte; a aby Vám neodpověděl na dopis či e-mail, nebo nepoděkoval za radu kterou jste mu na jeho dotaz poskytli, to už vůbec ne.
-
-Odborné vzdělání je v Americe ale úplně jiné zvíře. Američané se v zásadě učí, když to řeknu zjednodušeně, jen to co mohou nějak zpeněžit. Americký kreditní systém ve výuce, který mimo jiné budou konečně používat i na některých vysokých školách v ČR, například umožňuje, aby někdo, kdo třeba nemá dostatek bystrosti, inteligence, času a nebo i finančních prostředků, vystudoval například medicínu i když mu to trvá třeba i 30 let. _What a country! {xml:lang="en"}_
-
-Američané se také stále něco učí. Američan když ví, že k výkonu jeho zaměstnání bude potřebovat znalost výpočetní techniky, tak jde do nějakého kurzu ve kterém se to, třeba i po několikerých pokusech, nakonec naučí. Na druhé straně by Američan však neztrácel čas studiem Marxismu-Leninismu, leda že by byl přesvědčen, že investice do toho studia se mu vrátí. Proto například dnes spousta Američanů studuje japonštinu, čínštinu, ruštinu a v poslední době i arabštinu, a těm kteří pracují v Česku také nedělá potíže se tu češtinu naučit. Ze stejného důvodu i já, když jsem po příchodu do Ameriky zjistil že počítače jsou "in", a že bez toho nebudu jednoho dne moci existovat, jsem si na univerzitě v Indianě udělal vysokou se vznešeným názvem Computer Applied Science in Hospitality Industry, což mi vždy pomohlo dostat lepší zaměstnání.
-
-K tomu Vám musím napsat jednu velice zajímavou historku:
-
-Asi tak v 74 letech Rooseveltova univerzita v Chicagu inzerovala v novinách, že nabízí dvouletý program hotelového manažmentu, který absolventům zaručuje minimální příjem 40.000 ročně. V těch letech to byly velké peníze a o manažery hotelů byl velký zájem, a tak o studenty neměli nouzi. Stalo se však, že jeden absolvent nemohl po dobu více než jednoho roku sehnat zaměstnání (alespoň ne za 40.000) a jelikož v Americe soudí každý každého, a tak tento student tuto univerzitu zažaloval, svoji při vyhrál, a škola mu musela zaplatit nejenom ušlý zisk za dobu studií, ale i ušlý zisk v době nezaměstnanosti, což dělalo asi 200.000.
-
-Je sice pravdou, že ten student nemohl sehnat zaměstnání spíše proto že byl černý, než proto, že by nebyla poptávka po absolventech zmíněné univerzity, ale to na věci nic nemění.
-
-{id="jak\_jedi\_americane"}
 
 ## Jak jedí Američané
 
