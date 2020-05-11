@@ -1,9 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=61.html" data-image="/files/preview/clanky/zazitkova_gastonomie/general.jpg" data-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=61.html" data-image="/files/preview/clanky/gastonomie/general.jpg" data-type="article"}
 
 {ctime="2005-08-11" mtime="2020-01-05" id="zazitkova_gastonomie" author="Michael Klíma"}
 
 # Zážitková gastronomie
+
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
 
 {kw="gastronomie"}
 
@@ -15,7 +17,7 @@ Dnes se tento termín často skloňuje v českém odborném tisku. Obávám se a
 
 Jak praví německé přísloví: _„Wer eine Reise tut, der kann was erzählen!“ {xml:lang="de"}_, česky: _„Kdo cestuje, ten má co vyprávět.“_
 
-Lidé mluví také o tom s jakými památkami, přírodními krásami a pamětihodnostmi se setkali. Případně se zmíní, jaké bylo jejich ubytování. Nakonec se ale všechno stočí k jídelnímu lístku a na jídlo, neboli na [gastronomické][1] zážitky.
+Lidé mluví také o tom, s jakými památkami, přírodními krásami a pamětihodnostmi se setkali. Případně se zmíní, jaké bylo jejich ubytování. Nakonec se ale všechno stočí k jídelnímu lístku a na jídlo, neboli na [gastronomické][1] zážitky.
 
 {id="cestovani\_za\_jidlem"}
 
@@ -34,6 +36,16 @@ Někdo je ochoten za zážitek z jídla dát „poslední korunu“ (nebo dolar)
 Je dokázáno, že někteří hobby kuchaři ve svých teoretických znalostech o mezinárodní gastronomii předčí mnohé odborníky z povolání. Je to z jednoduchého důvodu a sice, že si ve většině případů mohou dovolit navštěvovat více restaurací než lidé, kteří v nich pracují.
 
 Na západě návštěva některých luxusních restaurací stojí $100 na osobu a více. V některých případech k tomu musíte přičíst riziko, že zážitek nebude odpovídat ceně.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
 
  [1]: gastronomie
  [2]: spolecenstvi_gastronomu#chaine_des_rotisseurs
