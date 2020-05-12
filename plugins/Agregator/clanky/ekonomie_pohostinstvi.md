@@ -12,13 +12,11 @@ Skupiny zaměstnanců za pultem (anglicky _counter {xml:lang="en"}_ nebo _founta
 
 ## Platy vs. povinnosti
 
-V roce 1975 zaujímali mladiství asi 30 % všech uvedených zaměstnání a ženy asi 70 %. Podle americké restaurační asociace NRA, je jedna třetina zaměstnanců v pohostinském průmyslu studenti, z nichž 50 % jsou studenti vyšších škol. Ti ve většině případů pracují za minimální mzdu.
+V roce 1975 zaujímali mladiství asi 30 % všech uvedených zaměstnání a ženy asi 70 %. Podle americké restaurační asociace NRA je jedna třetina zaměstnanců v pohostinském průmyslu tvořena studenty, z nichž polovina studenty vyšších škol. Ti ve většině případů pracují za minimální mzdu.
 
 Ze všech zaměstnanců v americkém restauračním a hotelovém průmyslu jsou nejlépe placeni [šéfkuchaři](kucharske_tituly#sefkuchar), které dnes velké hotelové společnosti nahrazují [manažery kuchyní](super_chef). Ale i ostatní kuchaři jsou relativně lépe placeni než obsluhující personál, protože jsou považováni za kvalifikované síly.
 
-Číšníci a servírky, u kterých se počítá, že hlavní část jejich příjmů je obslužné, či spropitné (anglicky _tip {xml:lang="en"}_), jsou placeni nejméně.
-
-Z toho pramení snaha amerických manažerů pověřit obsluhující personál pracemi, které jsou v jiných zemích pracemi kuchařů.
+Číšníci a servírky, u kterých se počítá, že hlavní část jejich příjmů je obslužné, či spropitné (anglicky _tip {xml:lang="en"}_), jsou placeni nejméně. Z toho pramení snaha amerických manažerů pověřit obsluhující personál pracemi, které jsou v jiných zemích pracemi kuchařů.
 
 {class="example"}
 
@@ -26,7 +24,7 @@ Američtí kuchaři například sice dají jídla na [horké talíře](hotovky_a
 
 ## Snižování nákladů na mzdy
 
-Trend globálního pohostinství je nejenom snaha zkrátit cestu jídel od místa výroby do místa jejich konzumace, ale i vizuální kontrola přípravy těchto jídel přímo hostem. Také, i když se o tom moc nemluví, je snaha snížit náklady na mzdy.
+Trendem globálního pohostinství je nejenom snaha zkrátit cestu jídel od místa výroby do místa jejich konzumace, ale i vizuální kontrola přípravy těchto jídel přímo hostem. Také, i když se o tom moc nemluví, je snaha snížit náklady na mzdy.
 
 Tyto snahy nejsou nic nového. Nakonec vaření jídel přímo u stolu mělo stejný účel. Tento systém se ale moc neosvědčil, protože to nesmírně zpomalilo obsluhu.
 
