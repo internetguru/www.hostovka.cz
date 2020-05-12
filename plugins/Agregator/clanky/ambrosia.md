@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=397.html" data-image="/files/preview/clanky/ambrosia/general.jpg" data-type="article"}
 
-{ctime="2009-04-13" mtime="2009-04-13" id="ambrosia" author="Michael Klíma" short="Ambrosia" authorid="hostovka/michael_klima"}
+{ctime="2009-04-13" mtime="2020-04-30" id="ambrosia" author="Michael Klíma" short="Ambrosia" authorid="hostovka/michael_klima"}
 
 # Ambrosia
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-12, do not edit -->
 
 {kw="co-kdy-kde"}
 

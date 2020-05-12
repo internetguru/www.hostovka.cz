@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=413.html" data-image="/files/preview/clanky/balsamicky_ocet/general.jpg" data-type="article"}
 
-{ctime="2009-04-20" mtime="2009-04-20" id="balzamikovy_ocet" short="Balzamikový ocet" author="Michael Klíma"}
+{ctime="2009-04-20" mtime="2020-04-30" id="balzamikovy_ocet" short="Balzamikový ocet" author="Michael Klíma"}
 
 # Výroba a použití balzamikového octa
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-12, do not edit -->
 
 {kw="co-kdy-kde"}
 

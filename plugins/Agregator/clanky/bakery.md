@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=215.html" data-image="/files/preview/clanky/bakery/general.jpg" data-type="article"}
 
-{ctime="2007-02-06" mtime="2020-03-26" id="bakery" author="Michael Klíma" short="Restaurace Bakery"}
+{ctime="2007-02-06" mtime="2020-04-30" id="bakery" author="Michael Klíma" short="Restaurace Bakery"}
 
 # Příběh restaurace Bakery
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-12, do not edit -->
 
 {kw="restaurace a servis, historka, Amerika"}
 

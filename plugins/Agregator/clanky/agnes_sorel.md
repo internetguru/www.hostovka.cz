@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=30.html" data-image="/files/preview/clanky/agnes_sorel/general.jpg" data-type="article"}
 
-{ctime="2005-07-03" mtime="2020-03-10" id="agnes_sorel" author="Michael Klíma" short="Agnès Sorel"}
+{ctime="2005-07-03" mtime="2020-04-30" id="agnes_sorel" author="Michael Klíma" short="Agnès Sorel"}
 
 # Drůbeží garnitura Agnès Sorel
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-12, do not edit -->
 
 {kw="restaurace a servis, omáčka"}
 
