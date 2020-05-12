@@ -17,21 +17,17 @@ Ti, kteří Američany obviňují z nevzdělanosti, nemají vůbec potuchy. Nejs
 
 Titul inženýr se v Americe nepoužívá, protože inženýr je každý mechanik nebo domovník. Přestože PhD. je oficiální název několika typů doktorů, tak se titul doktor (mimo označení doktora medicíny) používá jen velmi zřídka.
 
-Není mi moc jasné, jak to bude se vzdělaností v České republice, až vzdělání zadarmo nebude. Socialistický sen o tom, že co Čech, to ne muzikant, ale doktor, inženýr, magistr nebo kandidát věd, se bohužel asi již neuskuteční. Leda že by znovu otevřeli Střešovickou Sorbonu.
+Není mi moc jasné, jak to bude se vzdělaností v České republice, až vzdělání nebude zadarmo. Socialistický sen o tom, že co Čech, to ne muzikant, ale doktor, inženýr, magistr nebo kandidát věd, se bohužel asi již neuskuteční. Leda že by znovu otevřeli Střešovickou Sorbonu.
 
 ## Americký přístup ke vzdělání
 
-Američané se stále něco učí. Když Američan ví, že k výkonu v zaměstnání bude potřebovat znalost výpočetní techniky, tak jde do nějakého kurzu, ve kterém se to nakonec naučí.
+Američané se neustále něco učí. Když Američan ví, že k výkonu v zaměstnání bude potřebovat znalost výpočetní techniky, tak jde do nějakého kurzu, ve kterém se to naučí.
 
-Na druhou stranu by Američan neztrácel čas studiem marxismu-leninismu. To leda, že by byl přesvědčen, že se mu investice do tohoto studia vrátí.
+Proto dnes spousta Američanů studuje například japonštinu, čínštinu, ruštinu a v poslední době i arabštinu. Těm, kteří pracují v Česku, také nedělá potíže se naučit češtinu. Na druhou stranu by Američan neztrácel čas studiem marxismu-leninizmu. To leda, že by byl přesvědčen, že se mu investice do tohoto studia vrátí.
 
 {class="example"}
 
-Proto dnes spousta Američanů studuje například japonštinu, čínštinu, ruštinu a v poslední době i arabštinu. Těm, kteří pracují v Česku, také nedělá potíže se naučit češtinu.
-
-Například já, když jsem po příchodu do Ameriky zjistil že jsou počítače na vzestupu, a že bez nich nebudu moci jednoho dne existovat, jsem si na univerzitě v Indianě udělal vysokou se vznešeným názvem _Computer Applied Science in Hospitality Industry {xml:lang="en"}_. Toto rozhodnutí mi vždy pomohlo dostat lepší zaměstnání.
-
-K tomu Vám musím napsat jednu velice zajímavou historku.
+Když jsem po příchodu do Ameriky zjistil, že jsou počítače na vzestupu, a že bez nich nebudu moci jednoho dne existovat, vystudoval jsem univerzitu v Indianě se vznešeným názvem _Computer Applied Science in Hospitality Industry {xml:lang="en"}_. Toto rozhodnutí mi vždy pomohlo dostat lepší zaměstnání. K tomu Vám musím napsat jednu velice zajímavou historku.
 
 ## Pozor, co inzerujete v reklamě
 
