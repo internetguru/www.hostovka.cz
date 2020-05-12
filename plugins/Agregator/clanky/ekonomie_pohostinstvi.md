@@ -10,25 +10,31 @@ Asi 29 % ze všech zaměstnanců v americkém pohostinství jsou nevyučení č�
 
 Skupiny zaměstnanců za pultem (anglicky _counter {xml:lang="en"}_ nebo _fountain workers {xml:lang="en"}_) tvoří asi 5 %. Majitelé a manažeři pak tvoří asi jednu pětinu všech zaměstnanců v tomto průmyslu. Čím to tedy je, že je americké pohostinství nejúspěšnější na světě?
 
-V roce 1975 zaujímali mladiství asi 30 % všech těchto zaměstnání a ženy asi 70 %. Podle americké restaurační asociace NRA, jedna třetina zaměstnanců v pohostinském průmyslu jsou studenti, z nichž 50 % jsou studenti vyšších škol. Ti ve většině případů pracují za minimální mzdu.
+## Platy vs. povinnosti
 
-Ze všech zaměstnanců v americkém restauračním a hotelovém průmyslu jsou nejlépe placeni [šéfkuchaři](TODO), které dnes velké hotelové společnosti nahrazují [manažery kuchyní](TODO). Ale i ostatní kuchaři jsou relativně lépe placeni než obsluhující personál, protože jsou považováni za kvalifikované síly.
+V roce 1975 zaujímali mladiství asi 30 % všech uvedených zaměstnání a ženy asi 70 %. Podle americké restaurační asociace NRA, je jedna třetina zaměstnanců v pohostinském průmyslu studenti, z nichž 50 % jsou studenti vyšších škol. Ti ve většině případů pracují za minimální mzdu.
+
+Ze všech zaměstnanců v americkém restauračním a hotelovém průmyslu jsou nejlépe placeni [šéfkuchaři](kucharske_tituly#sefkuchar), které dnes velké hotelové společnosti nahrazují [manažery kuchyní](super_chef). Ale i ostatní kuchaři jsou relativně lépe placeni než obsluhující personál, protože jsou považováni za kvalifikované síly.
 
 Číšníci a servírky, u kterých se počítá, že hlavní část jejich příjmů je obslužné, či spropitné (anglicky _tip {xml:lang="en"}_), jsou placeni nejméně.
 
-Z toho pramení snaha amerických manažerů pověřit obsluhující pracemi, které jsou v jiných zemích pracemi kuchařů. Američtí kuchaři například sice dají jídla na [horké talíře](TODO), ale [ozdobu](TODO) nebo někdy i přílohu musí v mnoha restauracích na talíř přidat obsluhující. Ten, jak již bylo řečeno, je méně placený, čímž restaurace šetří velké částky na mzdách.
+Z toho pramení snaha amerických manažerů pověřit obsluhující personál pracemi, které jsou v jiných zemích pracemi kuchařů.
 
-Trend globálního pohostinství je nejenom snaha zkrátit cestu jídel od místa výroby do místa jejich konzumace, ale i vizuální kontrola přípravy těchto jídel přímo hostem, ale také, i když se o tom moc nemluví, snaha snížit náklady na mzdy.
+{class="example"}
 
-Tyto snahy nejsou nic nového. Nakonec tableside coking, neboli vaření jídel u stolu mělo ten samý účel. Tento systém se moc neosvědčil, protože to nesmírně zpomalilo obsluhu. Příprava těchto jídle byla prováděna obsluhujícími kteří sice byli méně placeni, ale kteří ve většině případů neměli potřebné kuchařské znalosti, tudíž i kvalita jídel byla v zásadě horší než u jídel připravených přímo v kuchyni. Od table side cooking ve kterém si v česku v některých restaracích libují i když většinou nevědí co dělaljí, se v Americe již zcela upoustilo.
+Američtí kuchaři například sice dají jídla na [horké talíře](hotovky_a_minutky#obloha_studente_talire_v_americe), ale ozdobu nebo někdy i přílohu musí v mnoha restauracích na talíř přidat obsluhující. Ten, jak již bylo řečeno, je méně placený, čímž restaurace šetří velké částky na mzdách.
 
-Flambování jídel bylo něco podobného. V tomto případě jídlo připravené v kuchyni je před hosty dohotoveno flambováním. Není ale žádným tajemstvím, že obliba flambování má hodně co společného se snobismem. Flambování bylo dražší o cenu potřebné lihoviny a o náklady s tím spojené a přitom nelze dokázat, že toto flambování v jídelně kvalitu flambovaného jídla zlepšilo ba naopak. Opravdový gurmán by si nenechal tímto způsobem své jídlo pokazit. Jestliže některé jídlo vyžaduje flambování příslušnou lihovinou, tak to má udělat kvalifikovaný kuchař při jeho přípravě přímo v kuchyni. Proto jsou v Americe dnes tak populární restaurace se zasklenými kuchyněmi, nebo tak zvnými "stage kitchen" do kterých je vidět, nebo restaurace kde celá výroba jídel probíhá přímo v jídelně.
+## Snižování nákladů na mzdy
 
-Tomuto trendu odpovídá i architektonické řešení kuchyní a hlavně výdejního prostoru. Pracoviště obsluhy, u nás zvané ofis, a v Americe waiter's station, je všude tam, kde kuchyně je oddělena od odbytových prostorů, více méně součástí kuchyně.
+Trend globálního pohostinství je nejenom snaha zkrátit cestu jídel od místa výroby do místa jejich konzumace, ale i vizuální kontrola přípravy těchto jídel přímo hostem. Také, i když se o tom moc nemluví, je snaha snížit náklady na mzdy.
 
-Tam, kde příprava jídle probíhá v odbytové části je toto pracoviště jakousi bariérou nebo spojovacím článkem mezi kuchyní a jídelnou.
+Tyto snahy nejsou nic nového. Nakonec vaření jídel přímo u stolu mělo stejný účel. Tento systém se ale moc neosvědčil, protože to nesmírně zpomalilo obsluhu.
 
-V mnoha velkých podnicích v Americe, si obsluhující mimo jejich "side jobs" (mimořádné práce) sami vaří kávu, nabírají si sami pečivo, polévky, saláty, crudités, zmrzlinu a čepují si sami mléko a nealkoholické nápoje, což nejenom představuje nesmírnou úsporu na mzdách kuchařů, ale do jisté míry zjednodušuje a zrychluje obsluhu, to ale evropským restauratérům ještě nedošlo.
+Příprava těchto jídel byla prováděna obsluhujícími, kteří sice byli méně placeni, ale kteří ve většině případů neměli potřebné kuchařské znalosti. Proto se od toho v Americe již zcela upoustilo. Něco podobného je [flambování](flambovani) jídel přímo před hosty.
+
+Těmto trendům odpovídá i architektonické řešení kuchyní, hlavně výdejního prostoru. Pracoviště obsluhy je víceméně součástí kuchyně. Tam, kde příprava jídle probíhá v odbytové části, je toto pracoviště jakousi bariérou nebo spojovacím článkem mezi kuchyní a jídelnou.
+
+V mnoha velkých podnicích v Americe, obsluhující také sami vaří kávu, nabírají sami pečivo, polévky, saláty, crudités, zmrzlinu a čepují sami mléko a nealkoholické nápoje. To představuje nejenom nesmírnou úsporu na mzdách kuchařů, ale do jisté míry to také zjednodušuje a zrychluje obsluhu.
 
 {id="dalsi" var="inputvar-pribuzne_h"}
 

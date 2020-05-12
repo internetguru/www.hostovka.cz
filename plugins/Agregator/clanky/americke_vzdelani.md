@@ -11,35 +11,37 @@ Ti, kteří Američany obviňují z nevzdělanosti, nemají vůbec potuchy. Nejs
 
 ## Tituly
 
-Češi se spokojí třeba i s malým platem, hlavně ale když mají titul. Američané si oproti tomu na tituly moc nepotrpí. Američané se v zásadě učí, když to řeknu zjednodušeně, jen to co mohou nějak zpeněžit.
+Češi se spokojí třeba i s malým platem, hlavně ale když mají titul. Američané si oproti tomu na tituly moc nepotrpí. Když to řeknu zjednodušeně, tak se Američané v zásadě učí učí jen to, co mohou nějak zpeněžit.
 
-Titul inženýr se v Americe nepoužívá, protože inženýr je každý mechanik nebo domovník. Přestože PhD. je oficiální název několika typů doktorů, tak se titul doktor (mimo označení doktora medicíny) se používá velmi zřídka.
+{class="important"}
 
-Jak to bude se vzdělaností v České republice až vzdělání zadarmo nebude, mi není moc jasné. Socialistický sen o tom, že co Čech, to ne muzikant, ale doktor, inženýr, magistr nebo kandidát věd, se bohužel asi již neuskuteční. Leda že by znovu otevřeli Střešovickou Sorbonu.
+Titul inženýr se v Americe nepoužívá, protože inženýr je každý mechanik nebo domovník. Přestože PhD. je oficiální název několika typů doktorů, tak se titul doktor (mimo označení doktora medicíny) používá jen velmi zřídka.
+
+Není mi moc jasné, jak to bude se vzdělaností v České republice, až vzdělání zadarmo nebude. Socialistický sen o tom, že co Čech, to ne muzikant, ale doktor, inženýr, magistr nebo kandidát věd, se bohužel asi již neuskuteční. Leda že by znovu otevřeli Střešovickou Sorbonu.
 
 ## Americký přístup ke vzdělání
 
-Američané se také stále něco učí. Američan když ví, že k výkonu jeho zaměstnání bude potřebovat znalost výpočetní techniky, tak jde do nějakého kurzu ve kterém se to, třeba i po několikerých pokusech, nakonec naučí.
+Američané se stále něco učí. Když Američan ví, že k výkonu v zaměstnání bude potřebovat znalost výpočetní techniky, tak jde do nějakého kurzu, ve kterém se to nakonec naučí.
 
-Na druhou stranu by Američan neztrácel čas studiem Marxismu-Leninismu, leda že by byl přesvědčen, že se mu investice do toho studia vrátí.
+Na druhou stranu by Američan neztrácel čas studiem marxismu-leninismu. To leda, že by byl přesvědčen, že se mu investice do tohoto studia vrátí.
 
 {class="example"}
 
-Proto například dnes spousta Američanů studuje japonštinu, čínštinu, ruštinu a v poslední době i arabštinu, a těm kteří pracují v Česku také nedělá potíže se tu češtinu naučit.
+Proto dnes spousta Američanů studuje například japonštinu, čínštinu, ruštinu a v poslední době i arabštinu. Těm, kteří pracují v Česku, také nedělá potíže se naučit češtinu.
 
-Ze stejného důvodu i já, když jsem po příchodu do Ameriky zjistil že počítače jsou "in", a že bez toho nebudu jednoho dne moci existovat, jsem si na univerzitě v Indianě udělal vysokou se vznešeným názvem Computer Applied Science in Hospitality Industry, což mi vždy pomohlo dostat lepší zaměstnání.
+Například já, když jsem po příchodu do Ameriky zjistil že jsou počítače na vzestupu, a že bez nich nebudu moci jednoho dne existovat, jsem si na univerzitě v Indianě udělal vysokou se vznešeným názvem _Computer Applied Science in Hospitality Industry {xml:lang="en"}_. Toto rozhodnutí mi vždy pomohlo dostat lepší zaměstnání.
 
 K tomu Vám musím napsat jednu velice zajímavou historku.
 
-##
+## Pozor co inzerujete v reklamě
 
-Asi tak v 74 letech Rooseveltova univerzita v Chicagu inzerovala v novinách, že nabízí dvouletý program hotelového manažmentu, který absolventům zaručuje minimální příjem $40.000 ročně.
+Asi tak v 70. letech Rooseveltova univerzita v Chicagu inzerovala v novinách, že nabízí dvouletý program hotelového managementu. Tento program absolventům zaručoval minimální příjem $40.000 ročně.
 
-V těch letech to byly velké peníze a o manažery hotelů byl velký zájem, a tak o studenty neměli nouzi. Stalo se však, že jeden absolvent nemohl po dobu více než jednoho roku sehnat zaměstnání (alespoň ne za $40.000).
+Tehdy to byly velké peníze a o manažery hotelů byl velký zájem, a tak o studenty neměli nouzi. Stalo se však, že jeden absolvent nemohl po dobu více než jednoho roku sehnat zaměstnání (alespoň ne za $40.000).
 
-Jelikož v Americe soudí každý každého, a tak tento student tuto univerzitu zažaloval, svoji při vyhrál. Škola mu musela zaplatit nejenom ušlý zisk za dobu studií, ale i ušlý zisk v době nezaměstnanosti, což dělalo asi $200.000.
+Jelikož v Americe soudí každý každého, tak tento student univerzitu zažaloval a vyhrál. Škola mu musela zaplatit nejenom ušlý zisk za dobu studií, ale i ušlý zisk v době nezaměstnanosti, což dělalo asi $200.000.
 
-Je sice pravdou, že ten student nemohl sehnat zaměstnání spíše proto že byl černý, než proto, že by nebyla poptávka po absolventech zmíněné univerzity, ale to na věci nic nemění.
+Je sice pravdou, že student nemohl sehnat zaměstnání spíše proto že byl černý, než proto, že by nebyla poptávka po absolventech zmíněné univerzity. To na věci ale nic nemění.
 
 {id="dalsi" var="inputvar-pribuzne_h"}
 
