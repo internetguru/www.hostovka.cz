@@ -1,6 +1,7 @@
+
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=110.html" data-image="files/preview/clanky/americka_kuchyne/general.jpg" data-type="article"}
 
-{ctime="2005-11-16" mtime="2020-04-30" id="jak_jedi_americane" author="Michael Klíma" short="Jak jedí Američané"}
+{ctime="2005-11-16" mtime="2020-04-30" id="jak\_jedi\_americane" author="Michael Klíma" short="Jak jedí Američané"}
 
 # Jak se doopravdy chovají Američané u stolu
 
@@ -9,6 +10,8 @@
 Evropané jsou natolik inteligentní, že vědí, že některé národy jedí hůlkami nebo jen lžící a rukama. Je tedy zajímavé, že se pozastavují nad tím, jak jedí Američané.
 
 Stoly jsou v průměrné americké restauraci prostřené stejným způsobem jako všude jinde ve světě. Američan si před jídlem položí na kolena plátěný ubrousek. Příbor při jídle drží zcela normálně, vidličku v levé a nůž v pravé ruce.
+
+{id="pribory"}
 
 ## Používání příborů
 
@@ -19,6 +22,8 @@ Po odkrojení několika soust masa, Američan odloží nůž na pravý okraj tal
 Jídla, která nepotřebují být krájena nožem, Američan jí jenom vidličkou, kterou v tom případě drží také v pravé ruce. Jídlo si na vidličku eventuálně přisunuje chlebem. Američané většinou přišli z kultivovaných zemí, ve kterých se jí „normálně“. Existuje hned několik teorií, proč si tento způsob jídla osvojili.
 
 Podle jedné teorie, když první osadníci Ameriky cestovali krytými vozy, tak museli být neustále ve střehu proti útoku Indiánů nebo banditů. Proto museli mít jednu ruku stále volnou, aby do ní mohli v případě potřeby rychle uchopit zbraň. Nemohu říci, do jaké míry je tato teorie pravdivá, ale jakousi logiku to má.
+
+{id="chovani"}
 
 ## Kultivované chování
 
@@ -37,3 +42,4 @@ n/a
 {var="inputvar-relation@var"}
 
 Příbuzné články nejsou k dispozici
+

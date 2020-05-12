@@ -1,3 +1,4 @@
+
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=110.html" data-image="files/preview/clanky/americka_kuchyne/general.jpg" data-type="article"}
 
 {ctime="2005-11-16" mtime="2020-04-30" id="americky_turista" author="Michael Klíma" short="Americký turista"}
@@ -10,6 +11,8 @@ U Američanů, kteří navštěvují Českou republiku, se mi moc nechce použí
 
 Prostě si jako turistu představuji někoho, kdo za málo peněz chce poznat velký kus světa. Neberte to ale tak, že tyto turisty znevažuji, právě naopak. Není na tom totiž nic špatného ani ponižujícího. Nakonec já jsem se tak také nacestoval spousty kilometrů. Takovýchto turistů bychom si měli vážit, jako každého jiného hosta.
 
+{id="definice"}
+
 ## Jak vypadá americký turista
 
 Američané se ale od těchto turistů poněkud liší. Oni k nám totiž většinou nepřichází jako výše popsaní turisté. Pokud nedokáží přeplavat oceán, musí připlout buď zaoceánskou lodí nebo přiletět letadlem. To již samo o sobě představuje značný výdaj. Ale nejedná se jen o výdaje za dopravu.
@@ -20,6 +23,8 @@ Američané k nám také nemohou přijet jen tak na večeři a pak jít do opery
 
 Nelze se proto divit, že za své dolary chtějí dostat, když nic jiného, alespoň slušné zacházení. Tak jak Američany znám, tak je většina spokojená s málem. To je hlavně úsměv, dobré pivo nebo víno, přičemž některým postačí i naše minerálka. Je jim jedno, jestli víno číšník nalévá zleva nebo zprava, a jestli přitom má ruku za zády.
 
+{id="zvyklosti"}
+
 ## Zvyklosti z Ameriky
 
 Doma Američan ví, že se může v kterékoliv restauraci s rychlým občerstvením najíst za 2 až 3 dolary, a že mu za tyto peníze v některé restauraci dají i neomezené množství soft drinků. Jediné, co ještě může očekávat je úsměv prodavačky, jednoduché ale absolutně čisté prostředí, včetně sociálních zařízení, a to je vše.
@@ -28,13 +33,15 @@ Doma Američan ví, že se může v kterékoliv restauraci s rychlým občerstve
 
 To ale už znáte z těch několika podniků rychlého občerstvení u nás. Těm vlastně vděčíme za to, že se několik našich mladých lidí již naučilo, jak jednat se zákazníkem.
 
-Američan také ví, že když si připlatí takových 5 až 6 dolarů, tak mu v restauraci se stolovým zařízením a obsluhou nabídnou větší výběr jídel a nápojů. Obsluha, i když velice příjemná, bude o něco pomalejší. Jak zasedne ke stolu, tak mu přinesou kopec housek a másla (v ceně hlavního jídla), případně i nějaké [crudités](jednohubky) a zadarmo mu nalijí velkou sklenici vody s ledem.
+Američan také ví, že když si připlatí takových 5 až 6 dolarů, tak mu v restauraci se stolovým zařízením a obsluhou nabídnou větší výběr jídel a nápojů. Obsluha, i když velice příjemná, bude o něco pomalejší. Jak zasedne ke stolu, tak mu přinesou kopec housek a másla (v ceně hlavního jídla), případně i nějaké [crudités][1] a zadarmo mu nalijí velkou sklenici vody s ledem.
 
 Jakmile mu donesou jídlo, tak se ho donekonečna budou ptát, jak mu to chutná a jestli pro něj náhodou nemohou ještě něco udělat, jako například jestli nechce více pečiva nebo másla atd.
 
 Jídlo bude dobré, bude ho více než dost, a tak si vlastně nemá nač stěžovat. Nicméně když odchází, tak se ho při placení manažer ještě pro jistotu zeptá, jestli bylo vše v pořádku a požádá ho, aby přišel zas.
 
 No, a to samé ve své naivitě Američan očekává i u nás. Jedno ale vím, že není zase tak naivní, že by v naší restauraci očekával ty samé služby a kvalitu jídel, kterou dostane v Americe v těch typických dražších restauracích.
+
+{id="vcr"}
 
 ## Americká naivita při návštěvě českých restaurací
 
@@ -61,3 +68,6 @@ n/a
 {var="inputvar-relation@var"}
 
 Příbuzné články nejsou k dispozici
+
+ [1]: jednohubky
+
