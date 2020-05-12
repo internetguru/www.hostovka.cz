@@ -30,7 +30,7 @@ Trend globálního pohostinství je nejenom snaha zkrátit cestu jídel od míst
 
 Tyto snahy nejsou nic nového. Nakonec vaření jídel přímo u stolu mělo stejný účel. Tento systém se ale moc neosvědčil, protože to nesmírně zpomalilo obsluhu.
 
-Příprava těchto jídel byla prováděna obsluhujícími, kteří sice byli méně placeni, ale kteří ve většině případů neměli potřebné kuchařské znalosti. Proto se od toho v Americe již zcela upoustilo. Něco podobného je [flambování](flambovani) jídel přímo před hosty.
+Příprava těchto jídel byla prováděna obsluhujícími, kteří sice byli méně placeni, ale kteří ve většině případů neměli potřebné kuchařské znalosti. Proto se od toho v Americe již zcela upustilo. Něco podobného je [flambování](flambovani) jídel přímo před hosty.
 
 Těmto trendům odpovídá i architektonické řešení kuchyní, hlavně výdejního prostoru. Pracoviště obsluhy je víceméně součástí kuchyně. Tam, kde příprava jídle probíhá v odbytové části, je toto pracoviště jakousi bariérou nebo spojovacím článkem mezi kuchyní a jídelnou.
 

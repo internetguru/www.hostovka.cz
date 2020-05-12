@@ -11,7 +11,7 @@ Ti, kteří Američany obviňují z nevzdělanosti, nemají vůbec potuchy. Nejs
 
 ## Tituly
 
-Češi se spokojí třeba i s malým platem, hlavně ale když mají titul. Američané si oproti tomu na tituly moc nepotrpí. Když to řeknu zjednodušeně, tak se Američané v zásadě učí učí jen to, co mohou nějak zpeněžit.
+Češi se spokojí třeba i s malým platem, hlavně ale když mají titul. Američané si oproti tomu na tituly moc nepotrpí. Když to řeknu zjednodušeně, tak se Američané v zásadě učí jen to, co mohou nějak zpeněžit.
 
 {class="important"}
 
@@ -33,7 +33,7 @@ Například já, když jsem po příchodu do Ameriky zjistil že jsou počítač
 
 K tomu Vám musím napsat jednu velice zajímavou historku.
 
-## Pozor co inzerujete v reklamě
+## Pozor, co inzerujete v reklamě
 
 Asi tak v 70. letech Rooseveltova univerzita v Chicagu inzerovala v novinách, že nabízí dvouletý program hotelového managementu. Tento program absolventům zaručoval minimální příjem $40.000 ročně.
 
@@ -41,7 +41,7 @@ Tehdy to byly velké peníze a o manažery hotelů byl velký zájem, a tak o st
 
 Jelikož v Americe soudí každý každého, tak tento student univerzitu zažaloval a vyhrál. Škola mu musela zaplatit nejenom ušlý zisk za dobu studií, ale i ušlý zisk v době nezaměstnanosti, což dělalo asi $200.000.
 
-Je sice pravdou, že student nemohl sehnat zaměstnání spíše proto že byl černý, než proto, že by nebyla poptávka po absolventech zmíněné univerzity. To na věci ale nic nemění.
+Je sice pravdou, že student nemohl sehnat zaměstnání spíše proto že byl černý než proto, že by nebyla poptávka po absolventech zmíněné univerzity. To na věci ale nic nemění.
 
 {id="dalsi" var="inputvar-pribuzne_h"}
 

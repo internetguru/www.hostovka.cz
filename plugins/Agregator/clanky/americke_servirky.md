@@ -27,7 +27,7 @@ No, to byl ale jenom začátek. Margret potom vzala objednávku jídla a šla ji
 
 Druhý den jsme museli brzy vstát, a tak jsme na snídani zašli opět k _Denny's {xml:lang="en"}_. U vchodu nás pozdravila stejná hosteska, která zřejmě nastoupila službu o půlnoci.
 
-Na nic se neptala a posadila nás rovnou ke stolu, u kterého jsem seděli při večeři. Samozřejmě se objevila i Margret a s úsměvem na rtech, řekla _“hi guys” {xml:lang="en"}._ To je něco jako „ahoj kluci.“ Potom se opakovala podobná scéna, jako při naší minulé návštěvě, a to včetně toho, že si Margret pamatovala všechna naše jména.
+Na nic se neptala a posadila nás rovnou ke stolu, u kterého jsme seděli při večeři. Samozřejmě se objevila i Margret a s úsměvem na rtech, řekla _“hi guys” {xml:lang="en"}._ To je něco jako „ahoj kluci.“ Potom se opakovala podobná scéna, jako při naší minulé návštěvě, a to včetně toho, že si Margret pamatovala všechna naše jména.
 
 No, tím ale moje historka nekončí. S podobným jednáním servírek se páni inženýři během pobytu setkali všude po Americe. Po několika dnech mi se zcela vážnou tváří řekli, že si myslí, že po nich všechny ty servírky „letí“, protože se na ně v jednom kuse smějí.
 

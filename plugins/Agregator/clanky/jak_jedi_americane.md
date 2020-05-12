@@ -18,7 +18,7 @@ Po odkrojení několika soust masa, Američan odloží nůž na pravý okraj tal
 
 Jídla, která nepotřebují být krájena nožem, Američan jí jenom vidličkou, kterou v tom případě drží také v pravé ruce. Jídlo si na vidličku eventuálně přisunuje chlebem.
 
-Je několik teorií proč Američané, kteří většinou přišli z kultivovaných zemí, ve kterých se jí normálně, si tento způso jídla osvojili.
+Je několik teorií proč Američané, kteří většinou přišli z kultivovaných zemí, ve kterých se jí normálně, si tento způsob jídla osvojili.
 
 Podle jedné teorie, když první osadníci Ameriky cestovali krytými vozy, tak museli být neustále ve střehu proti útoku Indiánů nebo banditů. Proto museli mít jednu ruku stále volnou, aby do ní mohli v případě potřeby rychle uchopit zbraň. Nemohu říci, do jaké míry je tato teorie pravdivá, ale jakási logika v ní je.
 
@@ -26,7 +26,7 @@ Podle jedné teorie, když první osadníci Ameriky cestovali krytými vozy, tak
 
 Nemusíte mít obavy, že by se Američané neuměli chovat u stolu. Nicméně jsou výjimky, tak jako i u nás.
 
-Od doby, kdy jsem se začal učit, mám takového koníčka. Pozoruji lidi, jak a co jedí, pijí, a jak se celkově chovají ve společnosti. Mohu vám říci, že za 70 let praxe v pohostinství jsem viděl už všechno možné i nemožné. Musím vám také říci, že jestli si myslíte, že Američané nevědí co je etiketa stolování, tak jste ještě nic neviděli.
+Od doby, kdy jsem se začal učit, mám takového koníčka. Pozoruji lidi, jak a co jedí, pijí, a jak se celkově chovají ve společnosti. Mohu vám říci, že za 70 let praxe v pohostinství jsem viděl už všechno možné i nemožné. Musím vám také říci, že jestli si myslíte, že Američané nevědí, co je etiketa stolování, tak jste ještě nic neviděli.
 
 V Americe jsem například poznal, že tam jsou lidé, kteří se v restauracích umí chovat kulturněji než kdekoliv jinde na světě.
 
