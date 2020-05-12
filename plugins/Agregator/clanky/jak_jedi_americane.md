@@ -5,6 +5,8 @@
 
 # Jak se doopravdy chovají Američané u stolu
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-12, do not edit -->
+
 {kw="jídla a jídelní lístky, Amerika, etiketa"}
 
 Evropané jsou natolik inteligentní, že vědí, že některé národy jedí hůlkami nebo jen lžící a rukama. Je tedy zajímavé, že se pozastavují nad tím, jak jedí Američané.

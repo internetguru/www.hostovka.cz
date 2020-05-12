@@ -5,6 +5,8 @@
 
 # Vzdělání v Americe
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-12, do not edit -->
+
 {kw="Amerika"}
 
 Ti, kteří Američany obviňují z nevzdělanosti, nemají vůbec potuchy. Nejspíše nevědí, že je v Americe tisíce vynikajících univerzit, nehledě na informace, které jsou dnes Američanům dostupné zdarma.

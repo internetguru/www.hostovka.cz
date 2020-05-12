@@ -5,6 +5,8 @@
 
 # Ekonomie amerického pohostinství
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-12, do not edit -->
+
 {kw="gastronomie, Amerika"}
 
 Asi 29 % ze všech zaměstnanců v americkém pohostinství jsou nevyučení číšníci a servírky. Zaměstnanci v kuchyni (anglicky _cooks {xml:lang="en"}_) a kuchaři (anglicky _chefs {xml:lang="en"}_), kteří také nejsou většinou vyučení, tvoří 15 % z celku.

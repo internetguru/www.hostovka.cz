@@ -5,6 +5,8 @@
 
 # Stravovací zvyklosti Američanů
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-12, do not edit -->
+
 {kw="gastronomie"}
 
 Americká kuchyně je zjednodušeně řečeno kukuřice, krocani a jablečný koláč. Jestli ale chcete vědět, co Američané jedí dnes, tak si k seznamu steaků s pečenými bramborami připište seznam jídel všech etnických kuchyní světa.

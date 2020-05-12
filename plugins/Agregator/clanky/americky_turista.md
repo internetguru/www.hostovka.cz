@@ -5,6 +5,8 @@
 
 # Potřeby amerických turistů
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-12, do not edit -->
+
 {kw="Amerika, gastronomie"}
 
 U Američanů, kteří navštěvují Českou republiku, se mi moc nechce používat označení turista. Já vím, že nemám asi pravdu, ale turistu si představuji jako někoho s batohem na zádech, obutého do pohorek, který přespává ve stanu nebo v autě.

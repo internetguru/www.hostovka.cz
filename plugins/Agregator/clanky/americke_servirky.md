@@ -5,9 +5,11 @@
 
 # Usměvavé americké servírky
 
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-12, do not edit -->
+
 {kw="případová studie, Amerika, gastronomie"}
 
-Krátce po sametové revoluci jsem v Evropě pracoval v zastoupení americké firmy Blodgett. Vozil jsem do Ameriky na několikadenní školení skupiny techniků z post-komunistických zemí, kteří měli servisovat naše zařízení. Pro všechny tyto techniky (partnery) to bylo zároveň první seznámení s Amerikou a s [americkým pohostinstvím](americka_kuchyne).
+Krátce po sametové revoluci jsem v Evropě pracoval v zastoupení americké firmy Blodgett. Vozil jsem do Ameriky na několikadenní školení skupiny techniků z post-komunistických zemí, kteří měli servisovat naše zařízení. Pro všechny tyto techniky (partnery) to bylo zároveň první seznámení s Amerikou a s [americkým pohostinstvím][1].
 
 Jednou jsme se skupinou pěti českých inženýrů kolem půlnoci dorazili do hotelu v Atlantě. Byli jsme docela unavení, a tak jsem navrhl, abychom se šli ještě někam najíst a občerstvit. Páni inženýři se na mě udiveně koukali, protože nechtěli věřit tomu, že bychom po půlnoci ještě někde dostali něco pořádného k jídlu nebo k pití.
 
@@ -17,7 +19,7 @@ U vchodu nás uvítala hosteska a zeptala se, kde bychom chtěli sedět. Neměli
 
 To byl samozřejmě první okamžik, kdy byli páni inženýři šokováni. Hosté se v takovém případě nepředstavují, ale já jsem se představil jako Mike. Řekl jsem Margret, že moji partneři jsou Češi, z nichž někteří neumí anglicky. Každého jsem představil jménem, jako například Franta, Karel a Ríša.
 
-Margret vzala objednávku na nápoje a odešla. Mezitím se moji partneři pustili do tuny pečiva a másla, které Margret při příchodu položila na stůl. Já jsem jim mezi tím pomohl s výběrem jídel, protože v Americe se s českými mutacemi [jídelních lístků](jidelni_listek) zatím nesetkáte.
+Margret vzala objednávku na nápoje a odešla. Mezitím se moji partneři pustili do tuny pečiva a másla, které Margret při příchodu položila na stůl. Já jsem jim mezi tím pomohl s výběrem jídel, protože v Americe se s českými mutacemi [jídelních lístků][2] zatím nesetkáte.
 
 Jakmile se Margret vrátila, tak aniž by se někoho na něco ptala, před každého s úsměvem na rtech postavila nápoj, se slovy: _“Here you are Franta, Karel and Ríša.” {xml:lang="en"}_
 
@@ -42,3 +44,7 @@ n/a
 {var="inputvar-relation@var"}
 
 Příbuzné články nejsou k dispozici
+
+ [1]: americka_kuchyne
+ [2]: jidelni_listek
+
