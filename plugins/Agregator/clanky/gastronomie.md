@@ -5,7 +5,7 @@
 
 # Vše o gastronomii
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-12, do not edit -->
 
 {kw="gastronomie, historie, jídla a jídelní lístky, Francie, Česká republika"}
 

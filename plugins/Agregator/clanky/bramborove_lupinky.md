@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=50.html" data-image="/files/preview/clanky/chipsy/general.jpg" data-type="article"}
 
-{ctime="2005-07-29" mtime="2019-11-07" id="chipsy" author="Michael Klíma" short="Chipsy"}
+{ctime="2005-07-29" mtime="2020-04-30" id="chipsy" author="Michael Klíma" short="Chipsy"}
 
 # Bramborové lupínky neboli chipsy
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-12, do not edit -->
 
 {kw="jídla a jídelní lístky, brambory, Francie, Amerika"}
 

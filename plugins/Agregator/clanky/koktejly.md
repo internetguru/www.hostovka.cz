@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=107.html" data-image="/files/preview/clanky/koktejly/general.jpg" data-type="article"}
 
-{ctime="2005-11-12" mtime="2019-02-19" id="koktejly" author="Michael Klíma" short="Koktejly"}
+{ctime="2005-11-12" mtime="2020-04-30" id="koktejly" author="Michael Klíma" short="Koktejly"}
 
 # Koktejly a barmanství
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-12, do not edit -->
 
 {kw="nápoje, koktejly, zkušenosti"}
 

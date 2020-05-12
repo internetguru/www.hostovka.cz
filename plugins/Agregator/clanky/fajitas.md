@@ -5,7 +5,7 @@
 
 # Mexické jídlo fajitas
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-12, do not edit -->
 
 {kw="jídla a jídelní lístky, Mexiko, Amerika, recept"}
 
@@ -51,5 +51,5 @@ n/a
 
 Příbuzné články nejsou k dispozici
 
- [1]: /bramborove_lupinky
+ [1]: /chipsy
 

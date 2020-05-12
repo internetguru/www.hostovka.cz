@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=478.html" data-image="/files/preview/clanky/a\_la\_francaise/general.jpg" data-type="article"}
 
-{ctime="2009-12-24" mtime="2020-03-10" id="francouzske_restaurace" author="Michael Klíma" short="Francouzské restaurace"}
+{ctime="2009-12-24" mtime="2020-04-30" id="francouzske_restaurace" author="Michael Klíma" short="Francouzské restaurace"}
 
 # Úpadek tradičních francouzských restaurací
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-12, do not edit -->
 
 {kw="o čem se mluví, Francie"}
 

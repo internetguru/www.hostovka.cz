@@ -5,7 +5,7 @@
 
 # Pití vína a jeho vliv na zdraví
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-12, do not edit -->
 
 {kw="nápoje"}
 

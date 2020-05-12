@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=102.html" data-image="files/preview/clanky/bible/general.jpg" data-type="article"}
 
-{ctime="2005-11-06" mtime="2005-11-06" id="kucharske_knihy" short="Kuchařky" author="Michael Klíma"}
+{ctime="2005-11-06" mtime="2020-04-30" id="kucharske_knihy" short="Kuchařky" author="Michael Klíma"}
 
 # Dobrá kuchařská kniha
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-12, do not edit -->
 
 {kw="jídla a jídelní lístky, kuchařka"}
 

@@ -5,7 +5,7 @@
 
 # Pracovní a firemní obědy
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-12, do not edit -->
 
 {kw="restaurace a servis, menu, obědy, podnikání, grazing, jídelní lístek"}
 
@@ -65,6 +65,6 @@ Příbuzné články nejsou k dispozici
 
  [1]: /jidelni_listek
  [2]: /sendvice
- [3]: /bramborove_lupinky
+ [3]: /chipsy
  [4]: /kureci_kridelka
 

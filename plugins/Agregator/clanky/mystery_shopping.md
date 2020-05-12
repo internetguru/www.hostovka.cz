@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=325.html" data-image="/files/preview/clanky/mystery_shopping/general.jpg" data-type="article"}
 
-{ctime="2008-05-18" mtime="2020-04-08" id="mystery_shopping" short="Mystery shopping" author="Michael Klíma"}
+{ctime="2008-05-18" mtime="2020-04-30" id="mystery_shopping" short="Mystery shopping" author="Michael Klíma"}
 
 # Lesk a bída mystery shopping služeb
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-12, do not edit -->
 
 {kw="koho se to týká"}
 

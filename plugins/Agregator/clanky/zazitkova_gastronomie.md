@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=61.html" data-image="/files/preview/clanky/gastonomie/general.jpg" data-type="article"}
 
-{ctime="2005-08-11" mtime="2020-01-05" id="zazitkova_gastonomie" author="Michael Klíma"}
+{ctime="2005-08-11" mtime="2020-01-05" id="zazitkova_gastronomie" author="Michael Klíma"}
 
 # Zážitková gastronomie
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-12, do not edit -->
 
 {kw="gastronomie"}
 

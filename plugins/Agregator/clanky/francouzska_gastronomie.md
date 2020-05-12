@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=164.html" data-image="/files/preview/clanky/dovolena\_ve\_francii/general.jpg" data-type="article"}
 
-{ctime="2006-07-16" mtime="2018-12-18" id="francouzska_gastronomie" author="Michael Klíma" short="Francouzská gastronomie"}
+{ctime="2006-07-16" mtime="2019-01-18" id="francouzska_gastronomie" author="Michael Klíma" short="Francouzská gastronomie"}
 
 # Úskalí francouzské gastronomie
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-12, do not edit -->
 
 {kw="etnické kuchyně, gastronomie, Francie"}
 

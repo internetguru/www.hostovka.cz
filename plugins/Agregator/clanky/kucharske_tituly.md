@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=535.html" data-image="/files/preview/clanky/chef/general.jpg" data-type="article"}
 
-{ctime="2010-09-24" mtime="2018-12-16" id="kucharske_tituly" author="Michael Klíma" short="Kuchařské tituly"}
+{ctime="2010-09-24" mtime="2019-01-18" id="kucharske_tituly" author="Michael Klíma" short="Kuchařské tituly"}
 
 # Mezinárodní kuchařské tituly
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-05-07, do not edit -->
+<!-- generated attribute kw by user_udpatekw.sh on 2020-05-12, do not edit -->
 
 {kw="gastronomie"}
 
