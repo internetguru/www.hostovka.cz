@@ -21,17 +21,17 @@ Margret vzala objednávku na nápoje a odešla. Mezitím se moji partneři pusti
 
 Jakmile se Margret vrátila, tak aniž by se někoho na něco ptala, před každého s úsměvem na rtech postavila nápoj, se slovy: _“Here you are Franta, Karel and Ríša.” {xml:lang="en"}_
 
-Moji partneři byli šokovaní nejenom tím, že se servírka o půlnoci stále směje, ale i proto, že v Česku si někteří číšníci s maturitou ani u dvou lidí nepamatují co si kdo objenal. Margret si ale všechno pamatovala, včetně jejich jmen. _What a country! {xml:lang="en"}_
+Moji partneři byli šokovaní nejenom tím, že se servírka o půlnoci stále usmívá, ale i proto, že v Česku si někteří číšníci s maturitou ani u dvou lidí nepamatují, co si kdo objednal. Margret si ale všechno pamatovala, včetně jejich jmen. _What a country! {xml:lang="en"}_
 
 No, to byl ale jenom začátek. Margret potom vzala objednávku jídla a šla ji předat do kuchyně. Nemusím vám asi říkat, že když Margret jídla přinesla, tak se scéna opakovala.
 
 Druhý den jsme museli brzy vstát, a tak jsme na snídani zašli opět k _Denny's {xml:lang="en"}_. U vchodu nás pozdravila stejná hosteska, která zřejmě nastoupila službu o půlnoci.
 
-Na nic se neptala a posadila nás rovnou ke stolu, u kterého jsme seděli při večeři. Samozřejmě se objevila i Margret a s úsměvem na rtech, řekla _“hi guys” {xml:lang="en"}._ To je něco jako „ahoj kluci.“ Potom se opakovala podobná scéna, jako při naší minulé návštěvě, a to včetně toho, že si Margret pamatovala všechna naše jména.
+Na nic se neptala a posadila nás rovnou ke stolu, u kterého jsme seděli při večeři. Samozřejmě se objevila i Margret a s úsměvem na rtech, řekla _“Hi guys” {xml:lang="en"}._ To je něco jako „Ahoj kluci.“ Potom se opakovala podobná scéna, jako při naší minulé návštěvě, a to včetně toho, že si Margret pamatovala všechna naše jména.
 
-No, tím ale moje historka nekončí. S podobným jednáním servírek se páni inženýři během pobytu setkali všude po Americe. Po několika dnech mi se zcela vážnou tváří řekli, že si myslí, že po nich všechny ty servírky „letí“, protože se na ně v jednom kuse smějí.
+No, tím ale moje historka nekončí. S podobným jednáním servírek se páni inženýři během pobytu setkali všude po Americe. Po několika dnech mi se zcela vážnou tváří řekli, že si myslí, že po nich všechny ty servírky „letí“, protože se na ně v jednom kuse usmívají.
 
-Nechtěl jsem jim kazit radost, a tak jsem jim neřekl, že se stejně smály i na Maďary, Poláky a Rusy, které jsem do Ameriky přivážel již před nimi.
+Nechtěl jsem jim kazit radost, a tak jsem jim neřekl, že se úplně stejně usmívaly i na Maďary, Poláky a Rusy, které jsem do Ameriky přivážel již před nimi.
 
 {id="dalsi" var="inputvar-pribuzne_h"}
 
