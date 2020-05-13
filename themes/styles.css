@@ -163,6 +163,7 @@
   width: 100%;
   text-align: center;
   background: linear-gradient(180deg, transparent, white 55%);
+  background: -webkit-linear-gradient(top, rgba(255,255,255,0.001) 0%, #fff 5%, #fff 100%);
   padding: 2em 0 0 0;
 }
 .clanek .desc a.expand-button:before {
@@ -829,4 +830,5 @@ li {
   }
 }
 /************************************/
+
 
