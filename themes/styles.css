@@ -742,14 +742,28 @@ li.important, li.example {
   margin-right: 0.25em;
   vertical-align: -0.25em;
 }
-.docinfo.share svg {
+.docinfo.share a:not(.fb):not(.twitter) svg {
   position: absolute;
   top: 0;
   left: -1.5em;
 }
-.docinfo.share li {
+.docinfo.share li:not(:nth-child(1)):not(:nth-child(2)) {
   position: relative;
   margin-left: 2.75em;
+}
+.docinfo.share a.fb {
+  --button-bg: #1877F2;
+  --button--active-bg: #1051a6;
+  color: white;
+}
+.docinfo.share a.twitter {
+  --button-bg: #2586c1;
+  --button--active-bg: #236790;
+  color: white;
+}
+.docinfo.share a.fb svg,
+.docinfo.share a.twitter svg {
+  color: white !important;
 }
 .part.clanky,
 .part.dalsi {
