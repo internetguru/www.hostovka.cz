@@ -107,6 +107,8 @@
 }
 .extra li svg {
   font-size: 1.2rem;
+  position: relative;
+  top: -0.1rem;
 }
 .extra .button-list span {
   padding: 0;
