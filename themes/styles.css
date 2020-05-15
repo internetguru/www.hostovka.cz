@@ -60,7 +60,8 @@
   --button--simple-active-bg: #FF5722;  
 }
 .clanek .button:hover,
-.clanek .button:active {
+.clanek .button:active,
+.clanek .button:focus {
   color: white;
   --button-color: #ffffff;
   --button-svg-color: #ffffff;
