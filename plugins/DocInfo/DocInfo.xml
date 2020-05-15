@@ -6,14 +6,14 @@
       <li><span class="fas fa-fw fa-calendar-alt">i</span>Datum vytvoření: <span var="ctime" fn="inputvar-dateformat">n/a</span></li>
       <li var="modified">n/a</li>
     </ul>
-    <ul class="docinfo social nomultiple button-list">
-      <li><a var="link@href" fn="inputvar-createfblink@href" class="button button--img button--img-inline fb"><span class="fab fa-fw fa-facebook-square">i</span>Sdílet na Facebooku</a></li>
-      <li><a var="link@href" fn="inputvar-createtwitterlink@href" class="button button--img button--img-inline twitter"><span class="fab fa-fw fa-twitter">i</span>Sdílet na Twitteru</a></li>
-    </ul>
     <ul class="docinfo share nomultiple button-list">
       <li><a var="source@href"><span class="far fa-fw fa-globe">i</span>Článek na původním webu Hostovky</a></li>
       <li><a href="#" var="inputvar-ghedit">n/a</a></li>
       <li><a href="#content" class="button__print eventable" data-eventable-category="print-footer"><span class="fas fa-fw fa-print">i</span>Vytisknout stránku</a></li>
+    </ul>
+    <ul class="docinfo social nomultiple button-list">
+      <li><a var="link@href" fn="inputvar-createfblink@href" class="button button--img button--img-inline fb"><span class="fab fa-fw fa-facebook-square">i</span>Sdílet na Facebooku</a></li>
+      <li><a var="link@href" fn="inputvar-createtwitterlink@href" class="button button--img button--img-inline twitter"><span class="fab fa-fw fa-twitter">i</span>Sdílet na Twitteru</a></li>
     </ul>
   </var>
   
