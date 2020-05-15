@@ -12,8 +12,8 @@
       <li><a href="#content" class="button__print eventable" data-eventable-category="print-footer"><span class="fas fa-fw fa-print">i</span>Vytisknout stránku</a></li>
     </ul>
     <ul class="docinfo social nomultiple button-list">
-      <li><a var="link@href" fn="inputvar-createfblink@href" class="button button--img button--img-inline fb"><span class="fab fa-fw fa-facebook-square">i</span>Sdílet na Facebooku</a></li>
-      <li><a var="link@href" fn="inputvar-createtwitterlink@href" class="button button--img button--img-inline twitter"><span class="fab fa-fw fa-twitter">i</span>Sdílet na Twitteru</a></li>
+      <li><a target="popup" var="link@href" fn="inputvar-createfblink@href" class="button button--img button--img-inline fb"><span class="fab fa-fw fa-facebook-square">i</span>Sdílet na Facebooku</a></li>
+      <li><a target="popup" var="link@href" fn="inputvar-createtwitterlink@href" class="button button--img button--img-inline twitter"><span class="fab fa-fw fa-twitter">i</span>Sdílet na Twitteru</a></li>
     </ul>
   </var>
   
