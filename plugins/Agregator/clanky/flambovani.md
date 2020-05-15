@@ -86,7 +86,7 @@ n/a
 Příbuzné články nejsou k dispozici
 
  [1]: jevistni_kuchyne#dranzirovani_a_sotyrovani
- [2]: zazitkova_gastonomie
+ [2]: zazitkova_gastronomie
  [3]: gastronomove#gurman
  [4]: gastronomove#snob
 

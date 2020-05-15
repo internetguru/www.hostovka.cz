@@ -118,7 +118,7 @@ Příbuzné články nejsou k dispozici
  [1]: gastronomove
  [2]: gastronomove#gurman
  [3]: popis_jidel_na_jidelnich_listcich
- [4]: zazitkova_gastonomie
+ [4]: zazitkova_gastronomie
  [5]: banket
  [6]: auguste_escoffier
  [7]: careme
