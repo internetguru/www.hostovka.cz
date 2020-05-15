@@ -48,5 +48,5 @@ Příbuzné články nejsou k dispozici
  [1]: gastronomie
  [2]: gastronomove#gurman
  [3]: ambiance
- [4]: zazitkova_gastonomie
+ [4]: zazitkova_gastronomie
 
