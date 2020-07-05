@@ -5,7 +5,7 @@
 
 # Hotovky a minutky v českých restauracích
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-05-12, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-07-05, do not edit -->
 
 {kw="jídla a jídelní lístky, hotovky, minutky, obloha"}
 

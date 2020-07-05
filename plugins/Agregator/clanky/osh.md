@@ -5,7 +5,7 @@
 
 # Organizace pro bezpečné a zdravé pracovní podmínky OSH
 
-<!-- generated attribute kw by user_udpatekw.sh on 2020-05-12, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2020-07-05, do not edit -->
 
 {kw="hygiena a sanitace, Evropa"}
 
