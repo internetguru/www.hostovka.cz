@@ -61,6 +61,14 @@
                 </xsl:element>
               </li>
               <li>
+                <span class="hideable hideable-hidden">
+                  <span class="eventable button button--simple button--img button--img-only" data-eventable-action="share"><span class="fas fa-fw fa-link">i</span></span>
+                  <span class="copyable" fn="inputvar-createlink">
+                    <xsl:value-of disable-output-escaping="yes" select="$link"/>
+                  </span>
+                </span>
+              </li>
+              <li>
                 <xsl:value-of disable-output-escaping="yes" select="$inputvar-ghedit2"/>
               </li>
               <li>
@@ -70,14 +78,6 @@
                   <xsl:attribute name="data-eventable-category">print-header</xsl:attribute>
                   <span class="fas fa-fw fa-print">i</span>
                 </xsl:element>
-              </li>
-              <li>
-                <span class="hideable hideable-hidden">
-                  <span class="eventable button button--simple button--img button--img-only" data-eventable-action="share"><span class="fas fa-fw fa-link">i</span></span>
-                  <span class="copyable" fn="inputvar-createlink">
-                    <xsl:value-of disable-output-escaping="yes" select="$link"/>
-                  </span>
-                </span>
               </li>
             </ul>
           </div>
