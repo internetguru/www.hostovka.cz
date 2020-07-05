@@ -374,8 +374,7 @@ h1 {
 .clanek .date {
   position: absolute;
   top: -0.25em;
-  rig
-  ht: 0;
+  right: 0;
   color: white;
   padding: 0em 1em;
   z-index: 2;
