@@ -53,11 +53,11 @@
             })
           }
           wrapper = document.createElement("div")
-          wrapper.className = "moreable-linkwrapper button-list"
+          wrapper.className = "moreable-linkwrapper"
           var moreLink = document.createElement("button")
           moreLink.textContent = Config.moreText
           moreLink.addEventListener("click", showMore, false)
-          moreLink.className = "eventable button"
+          moreLink.className = "eventable button button--simple"
           moreLink.setAttribute('data-eventable-action', 'moreable')
           moreLink.setAttribute('data-eventable-label', Config.moreText)
           try {
