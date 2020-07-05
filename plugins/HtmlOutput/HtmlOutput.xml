@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <HtmlOutput>
-
+  <jsFile id="js10" append="body" priority="2" async="false">themes/igcms.js</jsFile>
+  
   <jsFile append="body">themes/article-bg.js</jsFile>
   <jsFile append="body">themes/expand.js</jsFile>
   <jsFile append="body">themes/components/completable-init.js</jsFile>
