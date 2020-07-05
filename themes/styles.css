@@ -1214,7 +1214,7 @@ li {
   height: 1em;
   vertical-align: -.125em;
 }
-body #scrolltop span {
+body .scrolltopable span {
   font-size: 2rem;
   display: flex;
   justify-content: center;
