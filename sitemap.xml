@@ -1,1463 +1,1451 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://dev.hostovka.cz/</loc>
+    <loc>http://beta.hostovka.cz/</loc>
+    <lastmod>2020-05-07T10:29:22+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/kuchynske_techniky_a_listky</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/francouzska_cibulova_polevka</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/host_bar</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/concierge</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/garbage</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/osh</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/spolecenstvi_gastronomu</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/smazeni</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/kritika_a_pochvaly</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/flambovani</loc>
+    <lastmod>2020-05-15T14:58:58+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/doplnky</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/peceni</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/eurocuisine</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/demi-glace</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/banket</loc>
+    <lastmod>2020-05-12T23:37:56+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/kucharske_tituly</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/zkratky_na_listcich</loc>
+    <lastmod>2020-05-12T23:37:51+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/gravlax</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/gastronomicke_vyrazy</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/proc_lide_chodi_do_restauraci</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/velka_huba</loc>
+    <lastmod>2020-05-12T23:37:51+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/open_bar</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/cesi_nectou</loc>
+    <lastmod>2020-05-12T23:37:56+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/cruises</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/sucha_jiska</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/funkce_pracovniku_v_pohostinstvi</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/obloha</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/jidelni_listek</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/management_by_menu</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/artycoky</loc>
+    <lastmod>2020-05-12T23:37:56+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/americka_kuchyne</loc>
+    <lastmod>2020-05-12T23:37:56+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/cinsky_bufet</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/bedekr</loc>
+    <lastmod>2020-05-12T23:37:56+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/chefs_table</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/avokado</loc>
+    <lastmod>2020-05-12T23:37:56+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/zatraceny_krabi_zivot</loc>
+    <lastmod>2020-05-12T23:37:51+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/jidelni_emporium</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/krajeni</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/ce_hoste_nemaji_radi</loc>
+    <lastmod>2020-05-12T23:37:56+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/divoka_ryze</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/a_la</loc>
+    <lastmod>2020-05-12T23:37:56+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/poslicci</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/mandolina</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/alaska</loc>
+    <lastmod>2020-05-12T23:37:56+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/tatarsky_biftek</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/svickova_atd</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/kucharske_umeni</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/rent_a_chef</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/nezname_potraviny</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/svoboda_slova</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/fingerbowl</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/kvasek</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/sofistikovany_host</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/mom_and_dad_restaurant</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/gastronomy</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/soucasny_stav_ceskeho_pohostinstvi</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/catering_2</loc>
+    <lastmod>2020-05-12T23:37:56+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/side_jobs</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/duvody_neuspechu_ceskych_restauraci</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/celer_rapikaty</loc>
+    <lastmod>2020-05-12T23:37:56+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/modni_pojmy</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/technologie_pohostinstvi</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/jahody</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/citrony</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/prepustene_maslo</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/finger_food_4</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/sef_na_grilu</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/pokojova_teplota</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/zalivka_dresink</loc>
+    <lastmod>2020-05-12T23:37:51+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/zkusenosti_ze_sveta</loc>
+    <lastmod>2020-05-12T23:37:51+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/uprava_jidel</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/kucharky</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/americke_vzdelani</loc>
+    <lastmod>2020-05-12T23:37:56+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/gulas</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/catering</loc>
+    <lastmod>2020-05-12T23:37:56+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/brunch</loc>
+    <lastmod>2020-05-12T23:37:56+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/franchize_day</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/kritika</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/chowder</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/etnicke_kuchyne</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/prezentace_jidel</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/speciality</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/vzhled_jidel</loc>
+    <lastmod>2020-05-12T23:37:51+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/stredomorsky_za_dobrou_cenu</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/o_mase_2</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/tenderizovani</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/spolecenske_funkce</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/sanitace</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/liquid_smoke</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/piti_vina_a_zdravi</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/parmentier</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/osobnosti</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/caesar_salat</loc>
+    <lastmod>2020-05-12T23:37:56+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/marshmallows</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/v_kostce</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/cteni_listku</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/esterhazy</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/francois_pierre</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/supervision</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/velikost_porce</loc>
+    <lastmod>2020-05-12T23:37:51+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/americke_servirky</loc>
+    <lastmod>2020-05-12T23:37:56+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/la_table_dhote</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/jidlo_doma_jinde</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/anna_brambory</loc>
+    <lastmod>2020-05-12T23:37:56+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/pina_colada</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/diner</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/pracovni_obedy</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/denni_rutina</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/host</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/vyhlaska_107</loc>
+    <lastmod>2020-05-12T23:37:51+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/porchetta</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/kuchyne_regionalni</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/prime_rib</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/francouzska_gastronomie</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/management</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/tofu</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/zazitkova_gastronomie</loc>
+    <lastmod>2020-05-12T23:37:51+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/vazani</loc>
+    <lastmod>2020-05-12T23:37:51+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/draha_pomoc</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/studeny_sok</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/jednohubky</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/agnes_sorel</loc>
+    <lastmod>2020-05-12T23:37:56+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/psychologie</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/cekani_na_stul</loc>
+    <lastmod>2020-05-12T23:37:56+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/prani</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/salzburger_nockerl</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/ekonomie_kuchynskych_technik</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/spojena_kuchyne</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/cesko</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/vnitrni_teplota_steaku</loc>
+    <lastmod>2020-05-12T23:37:51+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/roasting</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/split_checks</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/u_nas_si_nikdo_nestezuje</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/koser</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/shrimp_de_jonghe</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/steamship_round</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/kde_je_zakopany_pes</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/ekonomika_bufetu</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/physalis</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/sizeni</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/rocky_mountains_oysters</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/borsc</loc>
+    <lastmod>2020-05-12T23:37:56+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/hulky</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/bakery</loc>
+    <lastmod>2020-05-12T23:37:56+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/fajitas</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/sendvice</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/zarizeni_ke_grilovani_ci_broilovani</loc>
+    <lastmod>2020-05-12T23:37:51+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/kucharina</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/plody_more</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/nove_koreni</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/boarding_house</loc>
+    <lastmod>2020-05-12T23:37:56+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/americky_turista</loc>
+    <lastmod>2020-05-12T23:37:56+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/vareni</loc>
+    <lastmod>2020-05-12T23:37:51+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/stroganov</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/samoobsluzna_restaurace</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/etika</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/kucharske_knihy</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/know_how</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/pravda_na_listku</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/ceske_pohostinstvi</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/hotchpotch</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/z_kuchariny_ctnost</loc>
+    <lastmod>2020-05-12T23:37:51+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/pochoutky_s_ocasem</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/spravne_spatne</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/zbytky</loc>
+    <lastmod>2020-05-12T23:37:51+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/agrodolce</loc>
+    <lastmod>2020-05-12T23:37:56+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/catherine_de_medici</loc>
+    <lastmod>2020-05-12T23:37:56+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/vdolky</loc>
+    <lastmod>2020-05-12T23:37:51+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/cuisine</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/no_host_bar</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/mexicky_flan</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/franchising</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/kaldoun</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/muj_gulas</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/la_merde</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/no_problem</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/administrativni_pracovnik</loc>
+    <lastmod>2020-05-12T23:37:56+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/na_zamku_a_v_podzamci</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/bujabeza</loc>
+    <lastmod>2020-05-12T23:37:56+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/co_chutna_cizincum</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/ellsworth_statler</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/bbq</loc>
+    <lastmod>2020-05-12T23:37:56+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/aioli</loc>
+    <lastmod>2020-05-12T23:37:56+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/steaky_stupen_propeceni</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/bullshit</loc>
+    <lastmod>2020-05-12T23:37:56+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/hotdog</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/kureci_kridelka</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/gastronomove</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/sotyrovani</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/logistika</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/nazvy_jidel</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/alois_krofta</loc>
+    <lastmod>2020-05-12T23:37:56+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/pompano_en_papillote</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/dress_code</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/propagace</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/chili</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/druhy_polevek</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/prani_a_naroky_hostu</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/service_charge</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/podavani_jidel_pri_bezpecne_teplote</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/priprava_jidel_v_jidelne</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/ganymed</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/hospoda_new_york_propadak</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/mc_donalds</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/nikdy</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/ucetnictvi</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/sluzby</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/mystery_shopping</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/goodwill</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/zrani</loc>
+    <lastmod>2020-05-12T23:37:51+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/rukola</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/znalec_pohostinstvi</loc>
+    <lastmod>2020-05-12T23:37:51+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/cesar_ritz</loc>
+    <lastmod>2020-05-12T23:37:56+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/ceska_gastronomie</loc>
+    <lastmod>2020-05-12T23:37:56+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://beta.hostovka.cz/gastronomie</loc>
     <lastmod>1970-01-01T01:00:00+01:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/kuchynske_techniky_a_listky</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/chrest</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/francouzska_cibulova_polevka</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/steak</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/host_bar</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/neznalost_a_ignorance</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/concierge</loc>
-    <lastmod>2020-04-27T10:58:14+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/sele</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/garbage</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/hoppelpoppel</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/osh</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/tvorba_cen</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/spolecenstvi_gastronomu</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/food_cost</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/smazeni</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/nazvy_jidel_2</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/kritika_a_pochvaly</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/studene_polevky</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/flambovani</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/degustacni_menu</loc>
+    <lastmod>2020-05-15T14:58:35+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/doplnky</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/steaky</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/peceni</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/convenience</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/bramborove_lupinky_2</loc>
-    <lastmod>2020-04-27T10:58:14+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/konfitovani</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/eurocuisine</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/balzamikovy_ocet</loc>
+    <lastmod>2020-05-12T23:37:56+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/demi-glace</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/opice_tu_nemame</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/banket</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/podnikani_v_pohostinstvi</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/kucharske_tituly</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/ecoflower</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/zkratky_na_listcich</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/popis_jidel_na_jidelnich_listcich</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/gravlax</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/kuchyne_domaci</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/gastronomicke_vyrazy</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/mzda_strachu</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/proc_lide_chodi_do_restauraci</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/slow_food</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/velka_huba</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/grily</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/zazitkova_gastonomie</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/mentolky_po_jidle</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/open_bar</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/pripradove_studie</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/cesi_nectou</loc>
-    <lastmod>2020-04-27T10:58:14+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/kucharske_knihy_2</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/cruises</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/klubove_talire</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/sucha_jiska</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/who_cares_about_the_czech_specials</loc>
+    <lastmod>2020-05-12T23:37:51+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/funkce_pracovniku_v_pohostinstvi</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/vykostovani</loc>
+    <lastmod>2020-05-12T23:37:51+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/obloha</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/super_chef</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/jidelni_listek</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/povinnosti_obsluhy</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/management_by_menu</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/koktejly</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/aemono</loc>
-    <lastmod>2020-04-27T10:58:14+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/md_retigova</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/artycoky</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/kniha_prani_a_stiznosti</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/americka_kuchyne</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/jak_varit_bez_kuchare</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/cinsky_bufet</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/gi_pan</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/bedekr</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/tatarsky_steak</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/chefs_table</loc>
-    <lastmod>2020-04-27T10:58:14+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/vanoce_prichazeji</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/avokado</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/tiskova_zprava_akp_cr</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/zatraceny_krabi_zivot</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/polotovary</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/jidelni_emporium</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/cash_bar</loc>
+    <lastmod>2020-05-12T23:37:56+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/krajeni</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/vareni_z_polotovaru</loc>
+    <lastmod>2020-05-12T23:37:51+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/ce_hoste_nemaji_radi</loc>
-    <lastmod>2020-04-27T10:58:14+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/bufet</loc>
+    <lastmod>2020-05-12T23:37:56+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/divoka_ryze</loc>
-    <lastmod>2020-04-27T10:58:14+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/novinky_v_pohostinstvi</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/a_la</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/en_papilotte_neni_grilovani</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/poslicci</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/paratka</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/mandolina</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/mb_svobodova</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/alaska</loc>
-    <lastmod>2020-04-27T10:58:14+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/zahranicni_kuchyne</loc>
+    <lastmod>2020-05-12T23:37:51+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/tatarsky_biftek</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/proc_lide_nechodi_do_restauraci</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/svickova_atd</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/dohotovovani_jidel_u_stolu</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/kucharske_umeni</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/kratky_a_dlouhy_tyden_2</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/rent_a_chef</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/rozmisteni_buffetovych_jidel</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/nezname_potraviny</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/toto_se_tyka_nas_vsech</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/svoboda_slova</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/stravovaci_zvyklosti</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/fingerbowl</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/zbytky2</loc>
+    <lastmod>2020-05-12T23:37:51+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/kvasek</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/steaky_2</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/sofistikovany_host</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/food_styling</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/mom_and_dad_restaurant</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/pot_luck</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/gastronomy</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/musle</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/soucasny_stav_ceskeho_pohostinstvi</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/cislovani_jidel</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/catering_2</loc>
-    <lastmod>2020-04-27T10:58:14+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/krabi</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/side_jobs</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/trendy_vyvoje_ceskeho_pohostinstvi</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/duvody_neuspechu_ceskych_restauraci</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/besamel</loc>
+    <lastmod>2020-05-12T23:37:56+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/celer_rapikaty</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/careme</loc>
+    <lastmod>2020-05-12T23:37:56+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/modni_pojmy</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/po_narod</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/technologie_pohostinstvi</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/raison_detre_steakgrillu</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/jahody</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/bakterie</loc>
+    <lastmod>2020-05-12T23:37:56+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/citrony</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/nazvy_kuchynskych_technik</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/prepustene_maslo</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/steaky_preference</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/finger_food_4</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/o_mase</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/sef_na_grilu</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/eighty_six</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/pokojova_teplota</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/chateaubriand</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/zalivka_dresink</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/ty_jsi_vlastne_nic_neudelal</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/zkusenosti_ze_sveta</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/hostovka_1</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/uprava_jidel</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/kureci_nugety</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/kucharky</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/aspik</loc>
+    <lastmod>2020-05-12T23:37:56+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/gulas</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/minutky</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/catering</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/vanoce_v_americe</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/brunch</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/cerstva_ryba</loc>
+    <lastmod>2020-05-12T23:37:56+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/franchize_day</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/prava_hosta</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/kritika</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/chipsy</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/chowder</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/predkrmy</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/etnicke_kuchyne</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/jak_si_vybrat_z_listku</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/prezentace_jidel</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/salatove_bary</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/speciality</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/barding</loc>
+    <lastmod>2020-05-12T23:37:56+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/vzhled_jidel</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/kratky_a_dlouhy_tyden</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/stredomorsky_za_dobrou_cenu</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/czech_specials</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/o_mase_2</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/kradeze</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/tenderizovani</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/sacher_eduard</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/spolecenske_funkce</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/slevy</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/sanitace</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/valet_parking</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/liquid_smoke</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/kolik_reci_umis</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/piti_vina_a_zdravi</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/martini</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/parmentier</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/kontrolni_pokladny</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/osobnosti</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/jednotne_ponikove_receptury</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/caesar_salat</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/marbling</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/marshmallows</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/ochutnavka_vina</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/v_kostce</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/na_letadlech</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/cteni_listku</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/kradeze_v_kuchyni</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/esterhazy</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/gastronomicke_skupiny</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/francois_pierre</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/absint</loc>
+    <lastmod>2020-05-12T23:37:56+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/supervision</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/hoste</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/velikost_porce</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/zdobeni</loc>
+    <lastmod>2020-05-12T23:37:51+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/la_table_dhote</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/francouzske_restaurace</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/jidlo_doma_jinde</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/brownnosing</loc>
+    <lastmod>2020-05-12T23:37:56+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/anna_brambory</loc>
-    <lastmod>2020-04-27T10:58:14+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/duseni</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/buffety_naklady_na_mzdy</loc>
-    <lastmod>2020-04-27T10:58:14+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/michael_klima_zivotopis</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/pina_colada</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/jevistni_kuchyne</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/diner</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/reservace</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/pracovni_obedy</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/uroven_pohostinstvi</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/denni_rutina</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/garde_manger</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/host</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/americke_brambory</loc>
+    <lastmod>2020-05-12T23:37:56+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/vyhlaska_107</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/americke_pohostinstvi</loc>
+    <lastmod>2020-05-12T23:37:56+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/porchetta</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/cordon_bleu</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/kuchyne_regionalni</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/blackdog_cantina</loc>
+    <lastmod>2020-05-12T23:37:56+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/prime_rib</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/nazvy_jidel_3</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/francouzska_gastronomie</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/ekonomie_pohostinstvi</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/management</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/auguste_escoffier</loc>
+    <lastmod>2020-05-12T23:37:56+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/tofu</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/jak_jedi_americane</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/vazani</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/ambiance</loc>
+    <lastmod>2020-05-12T23:37:56+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/draha_pomoc</loc>
-    <lastmod>2020-04-27T10:58:14+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/tequila</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/studeny_sok</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/super_chef_2</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/jednohubky</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/noze</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/agnes_sorel</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/thanksgiving</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/psychologie</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/stiznost_melikana</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/cekani_na_stul</loc>
-    <lastmod>2020-04-27T10:58:14+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/mesquite</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/prani</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/podavani_polevek</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/salzburger_nockerl</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/stiznosti</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/ekonomie_kuchynskych_technik</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/ceska_kuchyne</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/spojena_kuchyne</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/kolacky_stesti</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/cesko</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/michelin</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/vnitrni_teplota_steaku</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/odbornici_v_pohostinstvi</loc>
+    <lastmod>2020-05-12T23:37:53+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/roasting</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/celebrity</loc>
+    <lastmod>2020-05-12T23:37:56+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/split_checks</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/dedeckova_hospoda</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/u_nas_si_nikdo_nestezuje</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/salsa</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/koser</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/ustrice</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/shrimp_de_jonghe</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/bahmi_goreng</loc>
+    <lastmod>2020-05-12T23:37:56+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/steamship_round</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/detske_listky</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/kde_je_zakopany_pes</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/grilovani</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/buffety_planovani</loc>
-    <lastmod>2020-04-27T10:58:14+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/chucpa</loc>
+    <lastmod>2020-05-12T23:37:55+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/physalis</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/hotovky_a_minutky</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/sizeni</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/sweet_and_sour</loc>
+    <lastmod>2020-05-12T23:37:52+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/rocky_mountains_oysters</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/hotdog_2</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/borsc</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/bain_marie</loc>
+    <lastmod>2020-05-12T23:37:56+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/barmanstvi</loc>
-    <lastmod>2020-04-27T10:58:14+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/kalkulace</loc>
+    <lastmod>2020-05-12T23:37:54+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/hulky</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
+    <loc>http://beta.hostovka.cz/cenotvorba</loc>
+    <lastmod>2020-05-12T23:37:56+02:00</lastmod>
   </url>
   <url>
-    <loc>http://dev.hostovka.cz/bakery</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/fajitas</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/sendvice</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/zarizeni_ke_grilovani_ci_broilovani</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/kucharina</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/plody_more</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/nove_koreni</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/ambrosia</loc>
-    <lastmod>2020-04-27T10:58:14+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/boarding_house</loc>
-    <lastmod>2020-04-27T10:58:14+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/vareni</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/stroganov</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/samoobsluzna_restaurace</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/etika</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/bible</loc>
-    <lastmod>2020-04-27T10:58:14+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/know_how</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/pravda_na_listku</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/ceske_pohostinstvi</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/hotchpotch</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/z_kuchariny_ctnost</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/pochoutky_s_ocasem</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/spravne_spatne</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/zbytky</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/agrodolce</loc>
-    <lastmod>2020-04-27T10:58:14+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/catherine_de_medici</loc>
-    <lastmod>2020-04-27T10:58:14+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/vdolky</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/cuisine</loc>
-    <lastmod>2020-04-27T10:58:14+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/no_host_bar</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/mexicky_flan</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/franchising</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/bily_balsamicky_ocet</loc>
-    <lastmod>2020-04-27T10:58:14+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/kaldoun</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/muj_gulas</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/la_merde</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/no_problem</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/administrativni_pracovnik</loc>
-    <lastmod>2020-04-27T10:58:14+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/na_zamku_a_v_podzamci</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/bujabeza</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/co_chutna_cizincum</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/ellsworth_statler</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/bbq</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/aioli</loc>
-    <lastmod>2020-04-27T10:58:14+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/steaky_stupen_propeceni</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/bullshit</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/hotdog</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/kureci_kridelka</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/gastronomove</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/sotyrovani</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/logistika</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/buffety_produktivita</loc>
-    <lastmod>2020-04-27T10:58:14+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/nazvy_jidel</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/alois_krofta</loc>
-    <lastmod>2020-04-27T10:58:14+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/pompano_en_papillote</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/dress_code</loc>
-    <lastmod>2020-04-27T10:58:14+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/propagace</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/chili</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/druhy_polevek</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/prani_a_naroky_hostu</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/service_charge</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/podavani_jidel_pri_bezpecne_teplote</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/priprava_jidel_v_jidelne</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/ganymed</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/hospoda_new_york_propadak</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/mc_donalds</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/nikdy</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/bonovaci_kniha</loc>
-    <lastmod>2020-04-27T10:58:14+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/sluzby</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/mystery_shopping</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/goodwill</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/zrani</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/rukola</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/znalec_pohostinstvi</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/cesar_ritz</loc>
-    <lastmod>2020-04-27T10:58:14+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/ceska_gastronomie</loc>
-    <lastmod>2020-04-27T10:58:14+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/gastronomie</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/chrest</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/steak</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/neznalost_a_ignorance</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/sele</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/hoppelpoppel</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/tvorba_cen</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/food_cost</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/nazvy_jidel_2</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/studene_polevky</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/degustacni_menu</loc>
-    <lastmod>2020-04-27T10:58:14+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/steaky</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/convenience</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/konfitovani</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/balsamicky_ocet</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/opice_tu_nemame</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/podnikani_v_pohostinstvi</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/ecoflower</loc>
-    <lastmod>2020-04-27T10:58:14+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/popis_jidel_na_jidelnich_listcich</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/kuchyne_domaci</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/mzda_strachu</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/slow_food</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/grily</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/mentolky_po_jidle</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/pripradove_studie</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/kucharske_knihy_2</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/klubove_talire</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/who_cares_about_the_czech_specials</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/vykostovani</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/super_chef</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/povinnosti_obsluhy</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/koktejly</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/md_retigova</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/kniha_prani_a_stiznosti</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/jak_varit_bez_kuchare</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/alemande</loc>
-    <lastmod>2020-04-27T10:58:14+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/gi_pan</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/tatarsky_steak</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/vanoce_prichazeji</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/tiskova_zprava_akp_cr</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/polotovary</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/cash_bar</loc>
-    <lastmod>2020-04-27T10:58:14+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/vareni_z_polotovaru</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/bufet</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/novinky_v_pohostinstvi</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/en_papilotte_neni_grilovani</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/paratka</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/mb_svobodova</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/zahranicni_kuchyne</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/proc_lide_nechodi_do_restauraci</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/dohotovovani_jidel_u_stolu</loc>
-    <lastmod>2020-04-27T10:58:14+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/kratky_a_dlouhy_tyden_2</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/rozmisteni_buffetovych_jidel</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/toto_se_tyka_nas_vsech</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/stravovaci_zvyklosti</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/zbytky2</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/steaky_2</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/food_styling</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/pot_luck</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/musle</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/cislovani_jidel</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/krabi</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/trendy_vyvoje_ceskeho_pohostinstvi</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/besamel</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/careme</loc>
-    <lastmod>2020-04-27T10:58:14+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/po_narod</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/raison_detre_steakgrillu</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/bakterie</loc>
-    <lastmod>2020-04-27T10:58:14+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/nazvy_kuchynskych_technik</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/steaky_preference</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/o_mase</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/eighty_six</loc>
-    <lastmod>2020-04-27T10:58:14+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/chateaubriand</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/ty_jsi_vlastne_nic_neudelal</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/hostovka_1</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/kureci_nugety</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/aspik</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/minutky</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/vanoce_v_americe</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/cerstva_ryba</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/prava_hosta</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/bramborove_lupinky</loc>
-    <lastmod>2020-04-27T10:58:14+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/predkrmy</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/jak_si_vybrat_z_listku</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/salatove_bary</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/barding</loc>
-    <lastmod>2020-04-27T10:58:14+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/kratky_a_dlouhy_tyden</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/czech_specials</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/kradeze</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/sacher_eduard</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/slevy</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/valet_parking</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/kolik_reci_umis</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/martini</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/kontrolni_pokladny</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/jednotne_ponikove_receptury</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/marbling</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/ochutnavka_vina</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/na_letadlech</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/kradeze_v_kuchyni</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/gastronomicke_skupiny</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/absint</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/hoste</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/zdobeni</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/a_la_francaise</loc>
-    <lastmod>2020-04-27T10:58:14+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/brownnosing</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/duseni</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/michael_klima_zivotopis</loc>
-    <lastmod>2020-04-28T10:57:16+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/jevistni_kuchyne</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/reservace</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/uroven_pohostinstvi</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/garde_manger</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/americke_brambory</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/americke_pohostinstvi</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/cordon_bleu</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/blackdog_cantina</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/nazvy_jidel_3</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/auguste_escoffier</loc>
-    <lastmod>2020-04-27T10:58:14+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/ambiance</loc>
-    <lastmod>2020-04-27T10:58:14+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/tequila</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/super_chef_2</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/noze</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/thanksgiving</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/stiznost_melikana</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/mesquite</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/podavani_polevek</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/stiznosti</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/ceska_kuchyne</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/kolacky_stesti</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/michelin</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/odbornici_v_pohostinstvi</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/celebrity</loc>
-    <lastmod>2020-04-27T10:58:14+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/dedeckova_hospoda</loc>
-    <lastmod>2020-04-27T10:58:14+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/salsa</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/ustrice</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/bahmi_goreng</loc>
-    <lastmod>2020-04-27T10:58:14+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/detske_listky</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/grilovani</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/chucpa</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/hotovky_a_minutky</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/sweet_and_sour</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/hotdog_2</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/bain_marie</loc>
-    <lastmod>2020-04-27T10:58:14+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/kalkulace</loc>
-    <lastmod>2020-04-27T10:58:15+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/cenotvorba</loc>
-    <lastmod>2020-04-27T10:57:05+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://dev.hostovka.cz/faq/faq1</loc>
+    <loc>http://beta.hostovka.cz/faq/faq1</loc>
     <lastmod>2019-11-09T07:28:17+01:00</lastmod>
   </url>
 </urlset>
