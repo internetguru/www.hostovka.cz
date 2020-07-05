@@ -5,7 +5,7 @@
       selectSelector: '#header select.completable',
       placeholder: "Co Vás zajímá? (Ctrl+Shift+F)",
       defaultChangeText: "Vyhledat",
-      filterSelector: ".filter",
+      // filterSelector: ".filter",
       sendFormText: "Hledat na Google",
       sendFormClass: "google",
       keyboardShortcut: "ctrl+shift+f",
@@ -13,12 +13,11 @@
       submitOnClick: true,
       decorateListItem: function (itemValue) {
         return itemValue
-          .replace(/(.*výskytů.*)/, "<svg class='svg-inline--fa fa-w-14'><use xlink:href='#tag'></use></svg>$1")
+          .replace(/(.*\d+ výskyt(?:ů|y).*)/, "<svg class='svg-inline--fa fa-w-14'><use xlink:href='#tag'></use></svg>$1")
           .replace(/(^[^<]+$)/, "<svg class='svg-inline--fa fa-w-14'><use xlink:href='#doc'></use></svg>$1")
-          .replace(/([^ ]+)$/, "</br><span class='fp-secondary'>$1</span>")
+          .replace(/ - (.*)$/, "</br><span class='fp-secondary'>$1</span>")
       },
     })
   })
 })()
-
 
