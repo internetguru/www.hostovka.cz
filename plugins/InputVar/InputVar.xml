@@ -26,7 +26,7 @@
   <var id="edit-ico"><span class="fas fa-pencil">i</span></var>
   
   <fn id="headertags" fn="sequence">
-    <call>stripkws</call>
+<!--     <call>stripkws</call> -->
     <call>makeelements</call>
     <call>replacenames</call>
     <call>adduspheader</call>
