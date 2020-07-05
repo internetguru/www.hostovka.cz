@@ -2,9 +2,10 @@
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
   <xsl:param name="breadcrumb" select="''"/>
+  <xsl:param name="cms-link" select="''"/>
 
   <xsl:template match="/body">
-    <body>
+    <body data-link="{$cms-link}">
       <xsl:copy-of select="@*"/>
       <div id="header">
         <div>
