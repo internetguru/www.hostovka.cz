@@ -20,14 +20,14 @@
   <xsl:template match="//*[contains(@class, 'example')]">
     <xsl:copy>
       <xsl:apply-templates select="@*"/>
-      <span class="fas fa-fw fa-lightbulb">i</span>
+      <span class="fas fa-fw fa-info">i</span>
       <xsl:apply-templates select="node()"/>
     </xsl:copy>
   </xsl:template>
   <xsl:template match="//*[contains(@class, 'important')]">
     <xsl:copy>
       <xsl:apply-templates select="@*"/>
-      <span class="fas fa-fw fa-exclamation-triangle">i</span>
+      <span class="fas fa-fw fa-exclamation">i</span>
       <xsl:apply-templates select="node()"/>
     </xsl:copy>
   </xsl:template>
