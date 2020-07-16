@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=211.html" data-image="/files/preview/clanky/proc\_lide\_chodi\_do\_restauraci/general.jpg" data-type="article"}
 
-{ctime="2007-01-21" mtime="2007-01-21" id="proc\_lide\_chodi\_do\_restauraci" author="Michael Klíma" short="Proč chodí lidé do restaurací" authorid="hostovka/michael_klima"}
+{data-top="916" ctime="2007-01-21" mtime="2007-01-21" id="proc\_lide\_chodi\_do\_restauraci" author="Michael Klíma" short="Proč chodí lidé do restaurací" authorid="hostovka/michael_klima"}
 
 # Proč chodí lidé do restaurací
 

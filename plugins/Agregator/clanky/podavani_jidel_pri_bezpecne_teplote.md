@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=88.html" data-image="/files/preview/clanky/podavani\_jidel\_pri\_bezpecne\_teplote/general.jpg" data-type="article"}
 
-{ctime="2005-10-30" mtime="2005-10-30" id="podavani\_jidel\_pri\_bezpecne\_teplote" author="Michael Klíma" short="Podávání jídel při bezpečné teplotě" authorid="hostovka/michael_klima"}
+{data-top="943" ctime="2005-10-30" mtime="2005-10-30" id="podavani\_jidel\_pri\_bezpecne\_teplote" author="Michael Klíma" short="Podávání jídel při bezpečné teplotě" authorid="hostovka/michael_klima"}
 
 # Podávání jídel při bezpečné teplotě
 

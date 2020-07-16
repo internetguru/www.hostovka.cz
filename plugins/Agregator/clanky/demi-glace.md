@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=202.html" data-image="/files/preview/clanky/demi-glace/general.jpg" data-type="article"}
 
-{ctime="2006-12-22" mtime="2020-01-05" id="demi-glace" author="Michael Klíma" short="Demi-glace"}
+{data-top="911" ctime="2006-12-22" mtime="2020-01-05" id="demi-glace" author="Michael Klíma" short="Demi-glace"}
 
 # Omáčka demi-glace
 

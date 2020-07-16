@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=520.html" data-image="/files/preview/clanky/pravda\_na\_listku/general.jpg" data-type="article"}
 
-{ctime="2010-04-16" mtime="2010-04-16" id="pravda\_na\_listku" author="Michael Klíma" short="Pravda na lístku" authorid="hostovka/michael_klima"}
+{data-top="913" ctime="2010-04-16" mtime="2010-04-16" id="pravda\_na\_listku" author="Michael Klíma" short="Pravda na lístku" authorid="hostovka/michael_klima"}
 
 # Pravda na jídelním lístku
 

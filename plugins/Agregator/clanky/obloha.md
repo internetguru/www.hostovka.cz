@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=124.html" data-image="files/preview/clanky/obloha/preview.jpg" data-type="article" data-top="9"}
 
-{ctime="2005-12-09" mtime="2005-12-09" id="obloha" author="Michael Klíma" authorid="hostovka/michael_klima"}
+{data-top="988" ctime="2005-12-09" mtime="2005-12-09" id="obloha" author="Michael Klíma" authorid="hostovka/michael_klima"}
 
 # Obloha
 

@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=125.html" data-image="/files/preview/clanky/flambovani/general.jpg" data-type="article"}
 
-{ctime="2005-12-12" mtime="2020-01-05" id="flambovani" author="Michael Klíma"}
+{data-top="939" ctime="2005-12-12" mtime="2020-01-05" id="flambovani" author="Michael Klíma"}
 
 # Flambování a jeho nevýhody
 

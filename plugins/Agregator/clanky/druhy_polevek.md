@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=315.html" data-image="/files/preview/clanky/polevky/general.jpg" data-type="article"}
 
-{ctime="2008-05-01" mtime="2019-10-16" id="druhy_polevek" author="Michael Klíma" short="Druhy polévek"}
+{data-top="959" ctime="2008-05-01" mtime="2019-10-16" id="druhy_polevek" author="Michael Klíma" short="Druhy polévek"}
 
 # Druhy polévek
 

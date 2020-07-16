@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=136.html" data-image="/files/preview/clanky/muj_gulas/general.jpg" data-type="article"}
 
-{ctime="2006-02-06" mtime="2006-02-06" id="muj\_gulas" author="Michael Klíma" short="Můj guláš" authorid="hostovka/michael\_klima"}
+{data-top="910" ctime="2006-02-06" mtime="2006-02-06" id="muj\_gulas" author="Michael Klíma" short="Můj guláš" authorid="hostovka/michael\_klima"}
 
 # Můj guláš
 

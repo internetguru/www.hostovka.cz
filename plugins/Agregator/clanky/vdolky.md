@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=254.html" data-image="/files/preview/clanky/vdolky/general.jpg" data-type="article"}
 
-{ctime="2007-09-30" mtime="2019-03-11" id="vdolky" author="Michael Klíma" short="Vdolky"}
+{data-top="945" ctime="2007-09-30" mtime="2019-03-11" id="vdolky" author="Michael Klíma" short="Vdolky"}
 
 # Vdolky u nás a v Americe
 

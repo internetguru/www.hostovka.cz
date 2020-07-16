@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=346.html" data-image="/files/preview/clanky/prezentace_jidel/general.jpg" data-type="article"}
 
-{ctime="2008-07-05" mtime="2019-05-26" id="prezentace_jidel" author="Michael Klíma" short="Prezentace jídel"}
+{data-top="936" ctime="2008-07-05" mtime="2019-05-26" id="prezentace_jidel" author="Michael Klíma" short="Prezentace jídel"}
 
 # Důležitost prezentace jídel
 

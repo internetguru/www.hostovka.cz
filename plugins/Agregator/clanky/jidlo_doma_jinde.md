@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=189.html" data-image="/files/preview/clanky/jidlo\_doma\_jinde/general.jpg" data-type="article"}
 
-{ctime="2006-11-10" mtime="2006-11-10" id="jidlo\_doma\_jinde" author="Michael Klíma" short="Jídlo doma a jinde" authorid="hostovka/michael_klima"}
+{data-top="934" ctime="2006-11-10" mtime="2006-11-10" id="jidlo\_doma\_jinde" author="Michael Klíma" short="Jídlo doma a jinde" authorid="hostovka/michael_klima"}
 
 # Doma jez co máš a jinde co ti dají
 

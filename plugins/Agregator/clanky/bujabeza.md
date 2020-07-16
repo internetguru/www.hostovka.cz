@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=190.html" data-image="/files/preview/clanky/bujabeza/general.jpg" data-type="article"}
 
-{ctime="2006-11-20" mtime="2019-03-28" id="bujabeza" author="Michael Klíma" short="Bujabéza"}
+{data-top="958" ctime="2006-11-20" mtime="2019-03-28" id="bujabeza" author="Michael Klíma" short="Bujabéza"}
 
 # Polévka bujabéza a její příprava
 

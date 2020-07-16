@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=172.html" data-image="/files/preview/clanky/finger_food/general.jpg" data-type="article"}
 
-{ctime="2006-09-07" mtime="2019-08-20" id="sendvice" author="Michael Klíma" short="Sendviče"}
+{data-top="960" ctime="2006-09-07" mtime="2019-08-20" id="sendvice" author="Michael Klíma" short="Sendviče"}
 
 # Původ a typy sendvičů
 

@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=127.html" data-image="/files/preview/clanky/physalis/general.jpg" data-type="article"}
 
-{ctime="2005-12-22" mtime="2005-12-22" id="physalis" author="Michael Klíma" short="Physalis" authorid="hostovka/michael_klima"}
+{data-top="967" ctime="2005-12-22" mtime="2005-12-22" id="physalis" author="Michael Klíma" short="Physalis" authorid="hostovka/michael_klima"}
 
 # Ovoce physalis
 

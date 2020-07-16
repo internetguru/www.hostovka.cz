@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=176.html" data-image="/files/preview/clanky/stravovaci_zvyklosti/general.jpg" data-type="article"}
 
-{ctime="2006-09-17" mtime="2006-09-17" id="stravovaci\_zvyklosti" author="Michael Klíma" short="Stravovací zvyklosti" authorid="hostovka/michael\_klima"}
+{data-top="976" ctime="2006-09-17" mtime="2006-09-17" id="stravovaci\_zvyklosti" author="Michael Klíma" short="Stravovací zvyklosti" authorid="hostovka/michael\_klima"}
 
 # Stravovací zvyklosti
 

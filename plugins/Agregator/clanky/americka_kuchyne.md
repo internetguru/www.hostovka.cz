@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=110.html" data-image="files/preview/clanky/americka_kuchyne/general.jpg" data-type="article"}
 
-{ctime="2005-11-16" mtime="2020-04-30" id="americka_kuchyne" author="Michael Klíma" short="Americká kuchyně"}
+{data-top="938" ctime="2005-11-16" mtime="2020-04-30" id="americka_kuchyne" author="Michael Klíma" short="Americká kuchyně"}
 
 # Stravovací zvyklosti Američanů
 

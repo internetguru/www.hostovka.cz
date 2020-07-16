@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=439.html" data-image="/files/preview/clanky/bonovaci_kniha/general.jpg" data-type="article"}
 
-{ctime="2009-05-20" mtime="2020-04-30" id="ucetnictvi" short="Účetnictví" author="Michael Klíma"}
+{data-top="907" ctime="2009-05-20" mtime="2020-04-30" id="ucetnictvi" short="Účetnictví" author="Michael Klíma"}
 
 # Účetnictví v pohostinství
 

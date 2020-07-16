@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=138.html" data-image="/files/preview/clanky/martini/general.jpg" data-type="article"}
 
-{ctime="2006-02-27" mtime="2019-02-19" id="martini" author="Michael Klíma" short="Koktejl Martini"}
+{data-top="950" ctime="2006-02-27" mtime="2019-02-19" id="martini" author="Michael Klíma" short="Koktejl Martini"}
 
 # Historie koktejlu Martini
 

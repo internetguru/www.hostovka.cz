@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=587.html" data-image="/files/preview/clanky/tvorba_cen/general.jpg" data-type="article"}
 
-{ctime="2011-09-19" mtime="2019-02-27" id="tvorba\_cen" author="Michael Klíma" short="Tvorba cen" authorid="hostovka/michael\_klima"}
+{data-top="996" ctime="2011-09-19" mtime="2019-02-27" id="tvorba\_cen" author="Michael Klíma" short="Tvorba cen" authorid="hostovka/michael\_klima"}
 
 # Tvorba cen
 

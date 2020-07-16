@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=53.html" data-image="/files/preview/clanky/jidelni_listek/general.jpg" data-type="article"}
 
-{ctime="2005-07-29" mtime="2005-07-29" id="jidelni\_listek" author="Michael Klíma" short="Jídelní lístek" authorid="hostovka/michael\_klima"}
+{data-top="941" ctime="2005-07-29" mtime="2005-07-29" id="jidelni\_listek" author="Michael Klíma" short="Jídelní lístek" authorid="hostovka/michael\_klima"}
 
 # Jídelní lístek
 

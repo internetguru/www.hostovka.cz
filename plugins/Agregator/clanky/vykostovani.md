@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=69.html" data-image="/files/preview/clanky/vykostovani/general.jpg" data-type="article"}
 
-{ctime="2005-08-29" mtime="2005-08-29" id="vykostovani" author="Michael Klíma" short="Vykosťování" authorid="hostovka/michael_klima"}
+{data-top="932" ctime="2005-08-29" mtime="2005-08-29" id="vykostovani" author="Michael Klíma" short="Vykosťování" authorid="hostovka/michael_klima"}
 
 # Vykosťování
 

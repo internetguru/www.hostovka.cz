@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=154.html" data-image="/files/preview/clanky/hotovky/general.jpg" data-type="article"}
 
-{ctime="2006-06-08" mtime="2019-01-18" id="hotovky\_a\_minutky" short="Hotovky a minutky" author="Michael Klíma"}
+{data-top="986" ctime="2006-06-08" mtime="2019-01-18" id="hotovky\_a\_minutky" short="Hotovky a minutky" author="Michael Klíma"}
 
 # Hotovky a minutky v českých restauracích
 

@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=219.html" data-image="/files/preview/clanky/sotyrovani/general.jpg" data-type="article"}
 
-{ctime="2007-03-14" mtime="2007-03-14" id="sotyrovani" author="Michael Klíma" short="Sotýrování" authorid="hostovka/michael_klima"}
+{data-top="973" ctime="2007-03-14" mtime="2007-03-14" id="sotyrovani" author="Michael Klíma" short="Sotýrování" authorid="hostovka/michael_klima"}
 
 # Sotýrování
 

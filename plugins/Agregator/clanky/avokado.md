@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=209.html" data-image="/files/preview/clanky/avokado/general.jpg" data-type="article"}
 
-{ctime="2007-01-27" mtime="2019-03-28" id="avokado" author="Michael Klíma" short="Avokádo"}
+{data-top="931" ctime="2007-01-27" mtime="2019-03-28" id="avokado" author="Michael Klíma" short="Avokádo"}
 
 # Vše o avokádu
 

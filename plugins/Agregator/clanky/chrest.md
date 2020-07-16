@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=234.html" data-image="/files/preview/clanky/chrest/general.jpg" data-type="article"}
 
-{ctime="2007-05-17" mtime="2020-01-05" id="chrest" author="Michael Klíma" short="Chřest"}
+{data-top="908" ctime="2007-05-17" mtime="2020-01-05" id="chrest" author="Michael Klíma" short="Chřest"}
 
 # Vše o chřestu
 

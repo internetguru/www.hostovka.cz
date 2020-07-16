@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=409.html" data-image="/files/preview/clanky/svickova_atd/general.jpg" data-type="article"}
 
-{ctime="2009-04-19" mtime="2009-04-19" id="svickova\_atd" author="Michael Klíma" short="Svíčková atd." authorid="hostovka/michael\_klima"}
+{data-top="942" ctime="2009-04-19" mtime="2009-04-19" id="svickova\_atd" author="Michael Klíma" short="Svíčková atd." authorid="hostovka/michael\_klima"}
 
 # Svíčková atd.
 

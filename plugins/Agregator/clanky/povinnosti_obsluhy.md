@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=169.html" data-image="/files/preview/clanky/povinnosti_obsluhy/general.jpg" data-type="article"}
 
-{ctime="2006-08-22" mtime="2006-08-22" id="povinnosti\_obsluhy" author="Michael Klíma" short="Povinnosti obsluhy" authorid="hostovka/michael\_klima"}
+{data-top="952" ctime="2006-08-22" mtime="2006-08-22" id="povinnosti\_obsluhy" author="Michael Klíma" short="Povinnosti obsluhy" authorid="hostovka/michael\_klima"}
 
 # Základní povinnosti obsluhy
 

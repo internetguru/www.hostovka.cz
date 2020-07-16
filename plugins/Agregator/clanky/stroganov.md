@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=126.html" data-image="files/preview/clanky/stroganov/preview.jpg" data-type="article" data-top="8"}
 
-{ctime="2005-12-21" mtime="2019-02-27" id="stroganov" short="Stroganov" author="Michael Klíma"}
+{data-top="992" ctime="2005-12-21" mtime="2019-02-27" id="stroganov" short="Stroganov" author="Michael Klíma"}
 
 # Hovězí Stroganov s hranolky
 

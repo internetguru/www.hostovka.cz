@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=205.html" data-image="/files/preview/clanky/dohotovovani\_jidel\_u_stolu/general.jpg" data-type="article"}
 
-{ctime="2006-12-30" mtime="2006-12-30" id="dohotovovani\_jidel\_u\_stolu" author="Michael Klíma" short="Dohotovování jídel u stolu" authorid="hostovka/michael\_klima"}
+{data-top="968" ctime="2006-12-30" mtime="2006-12-30" id="dohotovovani\_jidel\_u\_stolu" author="Michael Klíma" short="Dohotovování jídel u stolu" authorid="hostovka/michael\_klima"}
 
 # Dohotovování jídel u stolu
 

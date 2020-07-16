@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-image="/files/preview/clanky/kratky\_a\_dlouhy_tyden/preview.jpg" data-type="article" data-source="http://2017.hostovka.cz/clanek.php?clanek=155" data-top="6"}
 
-{ctime="2006-06-18" mtime="2006-06-18" id="kratky\_a\_dlouhy\_tyden" author="Michael Klíma" authorid="hostovka/michael\_klima"}
+{data-top="993" ctime="2006-06-18" mtime="2006-06-18" id="kratky\_a\_dlouhy\_tyden" author="Michael Klíma" authorid="hostovka/michael\_klima"}
 
 # Krátký a dlouhý týden
 
