@@ -139,7 +139,7 @@ h1 {
 .part.dalsi .hdesc + .list.list-wrapper--single,
 .part.dalsi .list.list-wrapper--multiple,
 .part.clanky .list.list-wrapper--multiple {
-  --global-max-width: 80rem;
+  --global-max-width: 82rem;
   --list-multiple-item-margin: 1rem;
   padding-left: 0;
   padding-right: 0;
