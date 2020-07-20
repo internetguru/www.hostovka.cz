@@ -556,7 +556,7 @@
   
   <var id="taglist">
     <dl class="list--nomultiple">
-      <dt class="filter">Nejčetnější kategorie článků</dt>
+      <dt class="filter">Zobrazit články podle štítku</dt>
       <dd>
 <!-- [taglist] generated content, do not edit -->
     <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=Amerika" href="href=Amerika"><span class="fas fa-tag">i</span>Amerika</a>
