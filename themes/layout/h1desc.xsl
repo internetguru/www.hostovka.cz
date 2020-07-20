@@ -38,7 +38,6 @@
           <xsl:copy-of select="following-sibling::*[1][name() = 'p'][contains(@class, 'description')]"/>
         </div>
         <xsl:copy-of select="//div[@id='content']/div[@class='list list-wrapper--multiple'][last()][preceding-sibling::*[name() = 'body'][not(@data-link = '/')]]"/>
-        <xsl:copy-of select="following-sibling::*[name() = 'ul'][contains(@class, 'docinfo')][contains(@class, 'global')]"/>
         <xsl:if test="/body[contains(@class, 'agregator')]">
           <div class="extra">
             <ul class="button-list">
