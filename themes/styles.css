@@ -1128,7 +1128,7 @@ li.example:before {
   padding-top: 1.5em;
 }
 .part.dalsi h2 {
-  border-top: thin solid #c8c8c8;
+  /* border-top: thin solid #c8c8c8; */
   display: flex;
   flex-wrap: wrap;
   align-items: center;
