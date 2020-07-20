@@ -112,7 +112,10 @@ h1 {
   margin-right: 0.75rem;
 }
 .part:not(.docinfo):not(.dalsi):not(.o_praleku):not(.clanky):not(.upozorneni) .list > ul:not(.button-list) > li:before {
-  content: "●";
+  content: "•";
+  font-size: 2.5em;
+  line-height: 0;
+  vertical-align: -0.5rem;
 }
 .important,
 .example,
@@ -1114,14 +1117,7 @@ li.example:before {
 .part.dotace {
   padding-bottom: 2em;
 }
-.hdesc.o_praleku + div {
-  padding: 1em 0 2em 0;
-  max-width: none;
-}
-.hdesc.o_praleku + div,
-.part.o_praleku,
 .part.dotace,
-.part.clanky,
 .part.dalsi,
 .part.sponzoring,
 .part.dalsi {
@@ -1224,6 +1220,19 @@ body .scrolltopable span {
 .agregator .figure {
   width: 15em;
   max-width: 100% !important;
+}
+/************************************/
+.hdesc--top.hostovka + div {
+  padding-top: 3em;
+  padding-bottom: 1em;
+  background: #F5F5F5;
+}
+.hdesc--top.hostovka + div .imgwrap,
+.hdesc--top.hostovka + div .card {
+  background: none;
+}
+.hdesc--top.hostovka + div img {
+  border-radius: 100%;
 }
 /************************************/
 @media print {
