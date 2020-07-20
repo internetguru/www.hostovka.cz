@@ -1248,7 +1248,7 @@ body .scrolltopable span {
     display: none;
   }
   .hdesc--top {
-    padding: 0 !important;
+    /* padding: 0 !important; */
   }
   .print {
     display: block !important;
