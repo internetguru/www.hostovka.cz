@@ -555,7 +555,7 @@
   </fn>
   
   <var id="taglist">
-    <dl>
+    <dl class="list--nomultiple">
       <dt class="filter">Nejčetnější kategorie článků</dt>
       <dd>
 <!-- [taglist] generated content, do not edit -->
