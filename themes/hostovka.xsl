@@ -33,7 +33,7 @@
   </xsl:template>
 
 
-  <xsl:template match="div[contains(@class, 'dalsi')]">
+  <xsl:template match="div[@class='part dalsi']">
     <div class="part docinfo-wrap">
       <xsl:copy-of select="//div[@id='content']/div[@class='list list-wrapper--multiple'][last()]"/>
     </div>
