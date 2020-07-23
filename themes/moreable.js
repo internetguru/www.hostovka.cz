@@ -22,6 +22,9 @@
           if (countedHiddenLength - Config.displayStep - Config.displayMin < 0) {
             displayCount = hiddenItems.length
           }
+          if (event) {
+            event.currentTarget.blur()
+          }
           var showed = 0
           while (showed != displayCount && hiddenItems.length != 0) {
             var item = hiddenItems.shift()
