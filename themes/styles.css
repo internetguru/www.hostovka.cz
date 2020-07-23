@@ -1225,7 +1225,13 @@ body .scrolltopable span {
 .hdesc--top.hostovka + div {
   padding-top: 3em;
   padding-bottom: 1em;
+  max-width: none;
   background: #F5F5F5;
+}
+.hdesc--top.hostovka + div > div {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 44em;
 }
 .hdesc--top.hostovka + div .imgwrap,
 .hdesc--top.hostovka + div .card {
