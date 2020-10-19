@@ -20,7 +20,7 @@
   <var id="fb-share"><a href="https://www.facebook.com/hostovka"><span class="fab fa-facebook-square">i</span>Sledovat Pralék na Facebooku</a></var>
 
   <var id="articlebuttons">
-    <li><a class="button button--simple button--img button--img-only fbcomment" var="fbcommentid@href" fn="inputvar-createcommentlink@href"><span class="fab fa-fw fa-facebook">i</span>Diskutovat článek</a></li>
+    <li>x</li>
     
   </var>
   
