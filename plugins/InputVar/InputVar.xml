@@ -22,7 +22,7 @@
   <var id="articlebuttons">
     <li>
       <span class="hideable hideable-hidden" data-hideable-close-on-ext="true">
-        <span class="eventable button button--simple button--img button--img-only" data-eventable-action="share"><span class="fab fa-fw fa-share-alt">i</span> Sdílet článek</span>
+        <span class="eventable button button--simple button--img button--img-only" data-eventable-action="share"><span class="fas fa-fw fa-share-alt">i</span> Sdílet článek</span>
         <ul>
           <li><a onclick='return !window.open(this.href, "Facebook", "width=750,height=500")' var="link@href" fn="inputvar-createfblink@href" class="button button--simple button--img button--img-inline"><span class="fab fa-fw fa-facebook-square">i</span>Sdílet na Facebooku</a></li>
           <li><a onclick='return !window.open(this.href, "Twitter", "width=750,height=500")' var="link@href" fn="inputvar-createtwitterlink@href" class="button button--simple button--img button--img-inline"><span class="fab fa-fw fa-twitter">i</span>Sdílet na Twitteru</a></li>
