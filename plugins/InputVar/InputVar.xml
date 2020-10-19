@@ -19,7 +19,7 @@
   <var id="ghedit2"><a class="button button--simple button--img button--img-only" var="inputvar-mdfile@href" href="https://github.com/InternetGuru/www.hostovka.cz/edit/dev/%s" title="Navrhnout úpravy článku"><span class="fas fa-fw fa-pencil">i</span> Upravit článek</a></var>
   <var id="fb-share"><a href="https://www.facebook.com/hostovka"><span class="fab fa-facebook-square">i</span>Sledovat Pralék na Facebooku</a></var>
 
-  <var id="articlebuttons">
+  <var id="articlebuttonsx">
     <li><a class="button button--simple button--img button--img-only fbcomment" var="fbcommentid@href" fn="inputvar-createcommentlink@href"><span class="fab fa-fw fa-facebook">i</span>Diskutovat článek</a></li>
     <li>
       <span class="hideable hideable-hidden" data-hideable-close-on-ext="true">
