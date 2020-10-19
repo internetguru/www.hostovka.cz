@@ -7,7 +7,7 @@
       <li var="modified">n/a</li>
     </ul>
     <ul class="docinfo share nomultiple button-list">
-      <li><a var="source@href" class="eventable button button--simple button--img button--img-only"><span class="far fa-fw fa-globe">i</span>Článek na původním webu Hostovky</a></li>
+      <li><a var="source@href" class="eventable button button--simple button--img button--img-only"><span class="far fa-fw fa-globe">i</span>Původní článek</a></li>
       <li id="docinfoshare">n/a</li>
     </ul>
   </var>
