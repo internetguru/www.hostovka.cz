@@ -196,6 +196,14 @@ Studentům Hostovky, kteří jak předpokládám že to dočetli až dokonce, mo
 
 Pokud se překrmů týká, tak o těch vám zde také něco napíši jen co mi zde opadne ten fofr.
 
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
+
 {id="dalsi" var="inputvar-pribuzne_h"}
 
 ## n/a
@@ -205,4 +213,12 @@ n/a
 {var="inputvar-relation@var"}
 
 Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

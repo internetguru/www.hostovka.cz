@@ -67,6 +67,14 @@ Naštěstí se tradice českých obložených chlebíčků i nadále udržuje v 
 
 Profesionální výroba chlebíčku má své finty a triky, a to nejen při výrobě, ale i při uchování čerstvosti. Popisovat vám je tady ale nebudu, protože Hostovka není žádná škola vaření. Místo toho vám povím více o dalších sendvičích.
 
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
+
 {id="typy\_americkych\_sendvicu"}
 
 ## Typy amerických sendvičů
@@ -125,6 +133,14 @@ Pravý americký _BLT {xml:lang="en"}_ je ale pěkný prevít, protože musí b�
 
 V Chicagu, kde lidé mají rádi kyselé okurky, k tomuto sendviči přidávají kyselou okurku, ale můžete k němu dát i coleslaw. Tím, že je všechno v sendviči tak křupavé, tak se s ním při jídle dost zasviníte, ale to k pravému americkému _BLT {xml:lang="en"}_ patří.
 
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
+
 {id="dalsi" var="inputvar-pribuzne_h"}
 
 ## n/a
@@ -134,6 +150,14 @@ n/a
 {var="inputvar-relation@var"}
 
 Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 
  [1]: /gastronomove
  [2]: francouzska_gastronomie

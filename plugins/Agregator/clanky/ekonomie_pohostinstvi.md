@@ -51,6 +51,14 @@ n/a
 
 Příbuzné články nejsou k dispozici
 
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
+
  [1]: kucharske_tituly#sefkuchar
  [2]: super_chef
  [3]: hotovky_a_minutky#obloha_studente_talire_v_americe

@@ -113,5 +113,13 @@ n/a
 
 Příbuzné články nejsou k dispozici
 
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
+
  [1]: https://books.google.com/books?id=2ZtMAQAAMAAJ&lpg=PA3087&ots=yCc1RK3bQK&dq=usa%20lemon%20sizes%20252%2C%20300%2C%20360%2C%20432%2C%20490%2C%20a%20588&hl=cs&pg=PA3087#v=onepage&q=usa%20lemon%20sizes%20252,%20300,%20360,%20432,%20490,%20a%20588
 

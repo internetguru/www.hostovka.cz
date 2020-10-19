@@ -129,6 +129,14 @@ Jedna z mých zásad tvorby jídelních lístků je nestavět ho na odborných z
 
 Proto některé restaurace dávají přednost uvádět tyto speciality bez uvedení šéfova jména pod hlavičkou _šéf doporučuje_, _šéfova specialita_, _[À la][2] Chef_ apod. 
 
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
+
 {id="nrodn\_krajov\_a\_regionln\_speciality"}
 
 ## Národní, krajové a regionální speciality
@@ -269,6 +277,14 @@ n/a
 {var="inputvar-relation@var"}
 
 Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 
  [1]: /jidelni_listek
  [2]: /a_la

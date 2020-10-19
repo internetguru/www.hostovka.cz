@@ -61,6 +61,14 @@ n/a
 
 Příbuzné články nejsou k dispozici
 
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
+
  [1]: http://2017.hostovka.cz/soubor/9-7-06-3.JPG
  [2]: http://2017.hostovka.cz/soubor/9-7-06-5.JPG
 

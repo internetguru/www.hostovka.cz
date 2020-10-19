@@ -109,6 +109,14 @@ Kuchaři v restauracích by měli své dresinky připravovat podle chuti hostů,
 
 Opravte mě, pokud se mýlím, ale spousta kuchařů ví o dresincích jen velmi málo. To, že dělají dresinky podle své chuti, mně osobně nic neříká. Některé dresinky se hodí pro těstovinové saláty, jiné pro masité či rybí saláty, jiné pro saláty ovocné nebo zeleninové. Proto mám rád, když restaurace nabízí několik populárních, třeba i kupovaných dresinků.
 
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
+
 {id="dalsi" var="inputvar-pribuzne_h"}
 
 ## n/a
@@ -118,4 +126,12 @@ n/a
 {var="inputvar-relation@var"}
 
 Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

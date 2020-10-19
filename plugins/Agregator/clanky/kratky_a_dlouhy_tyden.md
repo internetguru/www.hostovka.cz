@@ -116,6 +116,14 @@ V případě, jak ty uvádíš (a je to tak i tady na hotelu), je nutné oficiá
 
 Ovšem nedělej si iluzi, dle zákoníku práce se pracuje opravdu málokde a naprostá většina fyzických osob (majitelů a provozovatelů) se prostě se zaměstnanci dohodne bez ohledu na délku směny!
 
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
+
 {id="zaver"}
 
 ## Závěr
@@ -154,4 +162,12 @@ n/a
 {var="inputvar-relation@var"}
 
 Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

@@ -41,6 +41,14 @@ Pak jsem nazdvihl obě postranní chlopně a odstranil jsem houbovité žebroví
 
 Příprava krabů na grilu je nejenom jednoduchá, ale velice rychlá. Předpokládám, že ve většině případů budete používat hlavně kraby zmražené a již očištěné. Pokud byste ale chtěli použít kraby čerstvé, tak je musíte zabít a očistit a pak je teprve můžete marinovat v níže popsané marinádě.
 
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
+
 {id="pojidani\_a\_skladovani_krabu"}
 
 ## Pojídání a skladování krabů
@@ -62,4 +70,12 @@ n/a
 {var="inputvar-relation@var"}
 
 Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

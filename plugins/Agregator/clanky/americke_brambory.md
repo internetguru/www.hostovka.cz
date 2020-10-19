@@ -73,6 +73,14 @@ Předpokládejme, že po odečtení ostatních nákladů mají na každé brambo
 
 Pokud takovouto speciální pec restaurace nemá, tak je nejjednodušší brambory péct v jakékoliv troubě na teplotu nejméně 204 °C. Při této teplotě se průměrně velké brambory upečou během 50 minut.
 
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
+
 {id="recept\_na\_americke\_pecene\_brambory"}
 
 ## Recept na americké pečené brambory
@@ -108,4 +116,12 @@ n/a
 {var="inputvar-relation@var"}
 
 Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

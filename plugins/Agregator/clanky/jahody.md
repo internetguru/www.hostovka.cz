@@ -102,6 +102,14 @@ Na jednu porci budeme potřebovat asi 100 gramu očištěných čerstvých jahod
 
 V dostatečně velké pánvi rozpustíme máslo. Přidáme hnědý cukr a umícháme do hladka. Přidáme oříšky, skořici a muškátový oříšek. Vaříme do hladka. Přidáme jahody a krátce povaříme. Jahody sundáme z ohně, přidáme jahodový likér a rum. Pánev přihneme ku plameni a necháme vznítit. Hořící jahody rychle pomícháme a přidáme na zmrzlinu kterou jsme si předem připravili.
 
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
+
 {id="dalsi" var="inputvar-pribuzne_h"}
 
 ## n/a
@@ -111,6 +119,14 @@ n/a
 {var="inputvar-relation@var"}
 
 Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 
  [1]: http://2017.hostovka.cz/soubor/21-04-06-2.JPG
  [2]: http://2017.hostovka.cz/soubor/21-04-06-3.JPG

@@ -35,6 +35,14 @@ n/a
 
 Příbuzné články nejsou k dispozici
 
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
+
  [1]: /zdobeni
  [2]: /zalivka_dresink#dresinky
  [3]: /zalivka_dresink#zalivka

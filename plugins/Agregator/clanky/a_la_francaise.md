@@ -51,6 +51,14 @@ n/a
 
 Příbuzné články nejsou k dispozici
 
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
+
  [1]: cesar_ritz
  [2]: auguste_escoffier
  [3]: slow_food

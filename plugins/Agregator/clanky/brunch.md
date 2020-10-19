@@ -190,6 +190,14 @@ Výběr několika populárních suchých obilovin bývá na pultech v individuá
 
 Na velkých bufetových brunchích se setkáte s džusy v chladicích dávkovačích nebo vířičích. Na malých bufetech jsou zpravidla podávány ve džbánech na ledu. V blízkosti džusů by měly být sklenky o obsahu 1 až 1,5 dl.
 
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
+
 {id="hlavni\_tepla\_jidla\_a\_prilohy"}
 
 ## Hlavní teplá jídla a přílohy
@@ -213,6 +221,14 @@ Vaječná jídla nesmí chybět na žádném brunchi. Mohu vám ale říci, že 
 Zezelenání míchaných vajec se dá částečně zabránit tím, že do nich přimícháme malé množství citrónové šťávy. Tím sice zachováme jejich barvu, ale pokud to trochu přeženeme, tak narušíme jejich chuť.
 
 Stejný prevít jsou i vejce vařená ve skořápce, která také velmi rychle vystydnou. Pokud je to tedy jenom trochu možné, připravujeme vaječná jídla, jako jsou míchaná vejce a omelety přímo v jídelně, což je mimo také velmi atraktivní.
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 
 {id="tepla\_jidla\_z_drubeze"}
 
@@ -257,6 +273,14 @@ n/a
 {var="inputvar-relation@var"}
 
 Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 
  [1]: /mc_donalds
  [2]: /jednohubky#druhy_jednohubek

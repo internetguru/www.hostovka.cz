@@ -71,6 +71,14 @@ n/a
 
 Příbuzné články nejsou k dispozici
 
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
+
  [1]: jednohubky
  [2]: http://2017.hostovka.cz/soubor/28-8-06-1.JPG
  [3]: https://en.wikipedia.org/wiki/Individual_Quick_Freezing

@@ -98,6 +98,14 @@ Doporučuji také uzavřít pojistku pro případ, že nebudete moci jet. Jednou
 
 Šťastnou plavbu!
 
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
+
 {id="dalsi" var="inputvar-pribuzne_h"}
 
 ## n/a
@@ -107,6 +115,14 @@ n/a
 {var="inputvar-relation@var"}
 
 Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 
  [1]: samoobsluzna_restaurace
 

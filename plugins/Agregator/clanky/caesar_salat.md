@@ -78,6 +78,14 @@ n/a
 
 Příbuzné články nejsou k dispozici
 
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
+
  [1]: /files/thumbs/clanky/caesar_salat/04-06-07-5.JPG
  [2]: /files/thumbs/clanky/caesar_salat/04-06-07-6.JPG
  [3]: /files/thumbs/clanky/caesar_salat/04-06-07-7.JPG

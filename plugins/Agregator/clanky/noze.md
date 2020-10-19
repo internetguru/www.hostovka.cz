@@ -86,6 +86,14 @@ Ocílek je několik druhů, a to většinou ocelových, ale existují i ocílky 
   3. Kořen nože nasadíme na špičku ocílky a při mírném tlaku nůž vedeme proti ostří na konec ocílky tak, abychom skončili u špičky nože.
   4. Tento postup opakujeme na druhé straně ostří.
 
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
+
 {id="pe\_o\_noe\_a\_nad"}
 
 ## Péče o nože a nářadí
@@ -107,4 +115,12 @@ n/a
 {var="inputvar-relation@var"}
 
 Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 
