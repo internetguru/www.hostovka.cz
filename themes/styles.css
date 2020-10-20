@@ -1478,10 +1478,10 @@ div.part.internetguru:before {
   border-radius: 100%;	
   background-size: 55%;	
 }	
-div.part.internetguru:before {	
-  background: url("/files/book.png") 50% 54% #eaf6ff no-repeat;	
-  background-size: 53%;	
-  border-radius: 100%;	
+div.part.internetguru:before {
+  background: url("/files/book.png") 50% 54% #eaf6ff no-repeat;
+  background-size: 53%;
+  border-radius: 100%;
 }	
 div.part.internetguru {	
   padding-bottom: 6em;	
