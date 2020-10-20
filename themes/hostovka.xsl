@@ -17,6 +17,27 @@
     </xsl:copy>
   </xsl:template>
 
+  <xsl:template match="//body/div/div[contains(@class, 'section')]">
+    <xsl:copy>
+      <xsl:apply-templates select="@* | node()"/>
+      <div class="part internetguru">
+        <h2 id="ebook">Nová elektronická kniha</h2>
+        <p class="description">Chystáme se vydat e-book se články tohoto webu. Získáte tím všechny články autora do své oblíbené čtečky. Koupí e-booku navíc podpoříte autora a další rozvoj tohoto webu.</p>
+        <ol class="list--ico">
+          <li><span class="fas fa-fw fa-check">i</span>E-book pro všechny druhy čteček plus formát PDF.</li>
+          <li><span class="fas fa-fw fa-check">i</span>Automatické aktualizace a přidávání nových článků!</li>
+          <li><span class="fas fa-fw fa-check">i</span>Zajímá Vás e-book? <label for="mce-EMAIL">Nechte se informovat.</label></li>
+        </ol>
+        <form action="https://pralek.us17.list-manage.com/subscribe/post?u=2e9033b7fc4e6eab54229d768&amp;id=5049faf784" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form">
+          <div>
+          <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="josef.novak@seznam.cz" required="required"/>
+            <button type="submit" name="subscribe" id="mc-embedded-subscribe" class="button button--simple button--img button--img-inline"><span class="fas fa-fw fa-plus">i</span>Informujte mě</button>
+          </div>
+        </form>
+      </div>
+    </xsl:copy>
+  </xsl:template>
+  
   <xsl:template match="//*[contains(@class, 'example')]">
     <xsl:copy>
       <xsl:apply-templates select="@*"/>
