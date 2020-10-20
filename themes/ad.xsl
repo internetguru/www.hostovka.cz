@@ -7,8 +7,9 @@
   
   <xsl:template match="/body[contains(@class, 'agregator')]//div[contains(@class, 'part')][last() - position() &gt; 4][position() mod 3 = 2]//h2">
     <xsl:variable name="rand"><xsl:value-of select="floor(math:random()*6) + 1" /></xsl:variable>
+    [!!]
 <!--     <xsl:if test="math:random() &lt; 0.3"> -->
-<!--     <xsl:if test="$cms-server = ''"> -->
+    <xsl:if test="$cms-server = ''">
       <div class="list"><ul class="ad">
         <xsl:choose>
           <xsl:when test="$rand = 0">
@@ -41,7 +42,7 @@
           </xsl:when>
         </xsl:choose>
       </ul></div>
-<!--     </xsl:if> -->
+    </xsl:if>
 <!--     </xsl:if> -->
     <xsl:copy>
       <xsl:apply-templates select="node()|@*"/>
