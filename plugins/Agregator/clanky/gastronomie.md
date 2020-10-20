@@ -105,6 +105,14 @@ Neopodstatněná kritika způsobu používání příborů Američany, kteří s
 
 Například to, že některé národy jedí rukama nebo jídelními hůlkami, nic neubírá na kultuře jejich gastronomie.
 
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
+
 {id="dalsi" var="inputvar-pribuzne_h"}
 
 ## n/a
@@ -114,6 +122,14 @@ n/a
 {var="inputvar-relation@var"}
 
 Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 
  [1]: gastronomove
  [2]: gastronomove#gurman

@@ -157,6 +157,14 @@ V Kalifornii je populární hot dog na špízu v bagetě s americkým sýrem.
 
 Na to si ale každý dá ty "trimmings" podle své chutě.
 
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
+
 {id="price_club"}
 
 ## PRICE CLUB
@@ -258,4 +266,12 @@ n/a
 {var="inputvar-relation@var"}
 
 Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

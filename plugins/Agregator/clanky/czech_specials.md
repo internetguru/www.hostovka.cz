@@ -53,6 +53,14 @@ n/a
 
 Příbuzné články nejsou k dispozici
 
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
+
  [1]: http://www.czechspecials.cz
  [2]: gulas
  [3]: stroganov

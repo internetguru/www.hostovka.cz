@@ -81,6 +81,14 @@ n/a
 
 Příbuzné články nejsou k dispozici
 
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
+
  [1]: /duseni
  [2]: /peceni
  [3]: /vareni_z_polotovaru

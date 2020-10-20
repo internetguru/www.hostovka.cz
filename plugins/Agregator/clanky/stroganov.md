@@ -81,6 +81,14 @@ Použité technice se říká [vaření z polotovarů][1] (anglicky _assembly co
   6. Nakonec pokrm ochutíme citrónovou šťávou.
   7. Před podáváním každou porci ozdobíme lžící husté kyselé smetany a posypeme přiměřeným množstvím na nudličky krájených okurek.
 
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
+
 {id="jak\_jsem\_v\_americe\_varil\_stroganov\_pro_rostropovice"}
 
 ## Jak jsem v Americe vařil Stroganov pro Rostropoviče
@@ -110,6 +118,14 @@ n/a
 {var="inputvar-relation@var"}
 
 Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 
  [1]: /vareni_z_polotovaru
  [2]: /kucharske_tituly#vykonny_sefkuchar

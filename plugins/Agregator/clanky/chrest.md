@@ -83,6 +83,14 @@ n/a
 
 Příbuzné články nejsou k dispozici
 
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
+
  [1]: https://neviditelnypes.lidovky.cz
  [2]: https://neviditelnypes.lidovky.cz/spolecnost/spolecnost-ceske-nechresteni.A070515_214413_p_spolecnost_wag
  [3]: https://www.visitstockton.org/events/san-joaquin-asparagus-festival/

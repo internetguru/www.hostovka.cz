@@ -142,6 +142,14 @@ Vařené, loupané a odžilněné ocásky jsou z uvedených druhů nejdražší,
 
 Ve velkých restauračních provozech, kde náklady na mzdy jsou rozhodujícím faktorem, a ve kterých používají vařených ocásků velké množství, se ale vyplatí tyto ocásky kupovat. Představují úsporu času jak čištěním, tak i vařením. Nezanedbatelnou úsporou je i úspora místa pro skladování.
 
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
+
 {id="dalsi" var="inputvar-pribuzne_h"}
 
 ## n/a
@@ -151,6 +159,14 @@ n/a
 {var="inputvar-relation@var"}
 
 Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 
  [1]: /krabi
  [2]: /musle

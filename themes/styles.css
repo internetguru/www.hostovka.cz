@@ -126,6 +126,131 @@ h1 {
   margin-left: 0;
   margin-right: 0;
 }
+/************************************/	
+body:not(.admin) .copyable__wrapper {
+  font-family: var(--font-family);
+  overflow: hidden;	
+}	
+body:not(.admin) .extra .copyable__wrapper {	
+  text-align: left;	
+  display: none;	
+}	
+body:not(.admin) .docinfo .copyable__wrapper,	
+body:not(.admin) .extra .hideable-nohide .copyable__wrapper {	
+  display: block;	
+  padding: 0em 0.5em 0 1em;	
+}	
+body:not(.admin) .docinfo .copyable__wrapper > span:first-child button,	
+body:not(.admin) .hdesc .copyable__wrapper > span:first-child button {	
+  padding: 0;	
+  width: 100% !important;	
+  border: none;	
+  background: none;	
+  text-align: left;	
+  outline: none;	
+  height: auto;	
+  padding-top: 0.5em;	
+  color: #757575 !important;	
+}	
+body:not(.admin) .copyable__wrapper > span:first-child button svg {	
+  color: #616161 !important;	
+  margin: 0 0.4em 0 0.25em !important;	
+}	
+body:not(.admin) .copyable__wrapper>span:first-child+span {	
+  padding: 0.2em 0;	
+  white-space: nowrap;	
+  /* display: none; */	
+  display: block;	
+  overflow-x: auto;	
+  max-width: calc(100% - 0.5em);	
+  border-bottom: thin solid #ccc;	
+}	
+body:not(.admin) .copyable__heading {
+  font-family: var(--font-family);
+  position: absolute;	
+  top: 0;	
+  left: 0;	
+  padding: 1rem 0 0 1.5rem !important;	
+  font-size: 1.5em;
+}	
+body:not(.admin) .copyable__close {	
+  position: absolute;	
+  top: 0;	
+  right: 0;	
+  width: 2rem;	
+  height: 2rem;	
+  display: flex;	
+  justify-content: center;	
+  align-items: center;	
+  border-radius: 100%;	
+  margin: 0.75rem 0.5rem;	
+  cursor: pointer;	
+  font-size: 1.5em;	
+  transition: var(--button-transition);	
+  color: #757575;	
+}	
+body:not(.admin) .copyable__close:hover {	
+  background: #F44336;	
+  color: white;	
+}
+.docinfo.share li span > ul,	
+.hdesc--top .extra .button-list ul {
+  list-style: none;
+  width: 100%;
+  max-width: 20em;
+  position: fixed;
+  z-index: 3;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  height: fit-content;
+  background: white;
+  border-radius: var(--global-border-radius);
+  padding: 3.7em 0.5em 1.3em 0.5em;
+  box-shadow: 0 0 0 100em rgba(0, 0, 0, 0.7);
+  box-shadow: 0 0 0 100vmax rgba(0, 0, 0, 0.7);
+}	
+#content .hdesc--top .extra .button-list .hideable-hidden ul {	
+  display: none;	
+}	
+.docinfo.share li span > ul li,	
+#content .hdesc--top .extra .button-list ul li {	
+  margin: 0;	
+}	
+.docinfo.share li span > ul li .button,	
+#content .hdesc--top .extra .button-list ul li .button {
+  --button--simple-bg: 255,255,255;	
+  --button-svg-color: rgb(66,66,66);	
+  width: max-content !important;	
+  border-radius: var(--global-border-radius);	
+  justify-content: flex-start;	
+  align-items: center;	
+  font-family: var(--font-family);
+  padding: 0.5rem;	
+  padding-right: 0.75rem;	
+  margin: 0.2em 0.25em;	
+}	
+.docinfo.share li span > ul li .button svg {	
+  font-size: 2em;	
+}	
+.docinfo.share li span > ul li,	
+#content .hdesc--top .extra .button-list ul li {	
+  width: 100%;	
+  display: block;	
+  text-align: left;	
+}	
+.docinfo.share li span > ul li .button svg,	
+#content .hdesc--top .extra .button-list ul li .button svg {	
+  /* margin: 0 0.5em 0 0.25em; */	
+}	
+.docinfo.share li span > ul li .button svg.fa-copy,	
+#content .hdesc--top .extra .button-list ul li .button svg.fa-copy {	
+  font-size: 1rem;	
+  margin-right: 0.65em;	
+  margin-left: 0.5em;	
+}
 /************************************/
 .hdesc h1 {
   margin-top: 0.5em;
@@ -240,43 +365,55 @@ h1 {
   justify-content: flex-end;
   position: relative;
 }
+.extra .button-list > li {	
+  flex: 0 0 auto !important;	
+  margin-left: 0 !important;	
+}	
 .extra .button-list li {
-  flex: 0 1 auto;
-  margin-left: 0 !important;
-}
-.extra .button-list li:first-child {
   --button-list-item-margin: 0;
   flex-grow: 1;
 }
-.extra .button-list li:first-child ~ li a,
-.extra .button-list li:first-child ~ li button,
-.extra .button-list li:first-child ~ li span {
-  --button-border-radius: 10em;
-}
-.extra .button-list li:first-child ~ li {
+.extra .button-list li a,	
+.extra .button-list li button,	
+.extra .button-list li span {	
+  --button-border-radius: 10em;	
+  display: flex;	
+  flex-wrap: wrap;	
+}	
+.extra .button-list li {
   text-align: center;
 }
-.hdesc--top .extra li:first-child svg,
+.hdesc--top .extra li svg,
 .clanek .extra li:first-child + li svg {
   /* font-size: 0.75rem; */
 }
-.hdesc--top .extra li a,
-.hdesc--top .extra li button,
-.clanek .extra li:first-child ~ li a,
-.clanek .extra li:first-child ~ li button {
-  width: 3rem !important;
-  height: 3rem;
-}
-.extra li svg {
-  font-size: 1.2rem;
-  width: 1.5rem;
-}
-.extra .button-list span {
-  padding: 0;
-}
-.extra .button-list span a {
-  padding: var(--button-img-only-padding);
-}
+.extra li .button--img-only.fbcomment > svg {	
+  width: 1.5em;	
+  left: 0;	
+}	
+.hdesc--top .extra li .button--img-only {	
+  width: 3rem !important;	
+  height: 3rem;	
+  overflow: hidden;	
+}	
+.extra li .button--img-only > svg,	
+.extra li .button--img-only .hideable-switch svg {	
+  font-size: 1.2rem;	
+  width: 1.5rem;	
+  display: block !important;	
+  position: relative;	
+  left: 0.05em;	
+  margin-bottom: 0.5em;	
+}	
+.extra li svg.fa-share-alt {	
+  font-size: 1.2em;	
+}	
+.extra .button-list span {	
+  padding: 0;	
+}	
+.extra .button-list span a {	
+  padding: var(--button-img-only-padding);	
+}	
 .extra .button-list li:first-child .button {
   --button-padding: 1em;
   width: auto;
@@ -998,29 +1135,30 @@ body:not(.agregator) .hdesc--top label {
   }
 }
 /************************************/
-.agregator #content .part.docinfo-wrap {
-  padding-top: var(--part-vertical-padding);
-}
-.agregator #content .part.docinfo-wrap .list-wrapper--multiple {
-  max-width: var(--global-max-width);
-  margin: 0 auto;
-  padding: 0;
-}
-.button-list--ico {
-  --button-list-item-margin: 1.5em;
-  padding: 0;
-  margin-top: 0;
-  margin-bottom: 0;
-}
-.button-list--ico li:not(.donation) svg,
-.agregator #content .part.docinfo-wrap svg {
-  color: #616161;
+.agregator #content .part.docinfo-wrap {	
+  padding-top: var(--part-vertical-padding);	
+}	
+.agregator #content .part.docinfo-wrap .list-wrapper--multiple {	
+  max-width: var(--global-max-width);	
+  margin: 0 auto;	
+  padding: 0;	
+}	
+.button-list--ico {	
+  --button-list-item-margin: 1.5em;	
+  padding: 0;	
+  margin-top: 0;	
+  margin-bottom: 0;	
+}	
+.button-list--ico li:not(.donation):not(.ebook) svg,	
+.agregator #content .docinfo.global svg,	
+.agregator #content .part.docinfo-wrap .button--img-only svg {	
+  color: #616161;	
   text-align: center;
-}
-.button-list--ico,
-.agregator #content .part.docinfo-wrap .button-list {
-  --list-margin-left: 0.5rem;
-  justify-content: left;
+}	
+.button-list--ico,	
+.agregator #content .part.docinfo-wrap .button-list {	
+  --list-margin-left: 0.5rem;	
+  justify-content: left;	
 }
 .agregator .hdesc__desc-wrapper p {
   font-size: 1.2rem;
@@ -1074,46 +1212,6 @@ li.example:before {
   font-size: 1.25em;
 }
 /************************************/
-.part.docinfo-wrap {
-  --button-list-item-margin: 1.5em;
-  background: none;
-  padding-top: 0 !important;
-}
-.part.docinfo-wrap > div {
-  border-top: thin solid #E0E0E0;
-  padding-top: 3em !important;
-}
-.button-list--ico li:not(.donation) svg,
-.part.docinfo-wrap svg {
-  font-size: 1.6em;
-  margin-right: 0.25em;
-  vertical-align: -0.25em;
-}
-.button-list--ico li:not(.donation) svg,
-.docinfo.share a:not(.fb):not(.twitter) svg {
-  position: absolute;
-  top: 0;
-  left: -1.5em;
-}
-.button-list--ico li:not(.donation),
-.docinfo.share li {
-  position: relative;
-  margin-left: 2.75em;
-}
-.docinfo.social a.fb {
-  --button-bg: #1160c6;
-  --button--active-bg: #0b3f84;
-  color: white;
-}
-.docinfo.social a.twitter {
-  --button-bg: #1a76ad;
-  --button--active-bg: #165276;
-  color: white;
-}
-.docinfo.social a.fb svg,
-.docinfo.social a.twitter svg {
-  color: white !important;
-}
 .part.dotace {
   padding-bottom: 2em;
 }
@@ -1141,6 +1239,104 @@ li.example:before {
 }
 .part.faq {
   display: none;
+}
+/************************************/
+.part.docinfo-wrap {	
+  --button-list-item-margin: 1.5em;	
+  background: none;	
+  padding-top: 0 !important;	
+}	
+.part.docinfo-wrap > div {	
+  border-top: thin solid #E0E0E0;	
+  padding-top: 3em !important;	
+  padding-bottom: 2em !important;	
+}	
+.button-list--ico li:not(.donation):not(.ebook) svg,	
+.part.docinfo-wrap svg {	
+  font-size: 1.6em;	
+  margin-right: 0.25em;	
+  vertical-align: -0.25em;	
+}	
+.button-list--ico li:not(.donation):not(.ebook) svg,	
+.docinfo.share button svg,	
+.docinfo.share .button--img-only svg {	
+  position: absolute;	
+  top: 0.25em;	
+  left: -1.5em;	
+  margin-right: 0;
+}	
+.docinfo.share .button--img-only svg {	
+  font-size: 1.35em;	
+  left: -2.3rem;	
+  top: -0.1rem !important;	
+}	
+.button-list--ico li:not(.donation):not(.ebook) svg {	
+  top: 0;	
+}	
+.button-list--ico li:not(.donation):not(.ebook),	
+.docinfo.share > li {	
+  position: relative;	
+  margin-left: 2.75em;	
+  max-width: 12.5em;	
+}	
+.docinfo.share > li a {	
+  width: auto;	
+}	
+.hdesc.o_praleku + div {	
+  padding: 1em 0 2em 0;	
+  max-width: none;	
+}	
+.hdesc.o_praleku + div,	
+.part.o_praleku,	
+.part.dotace,	
+.part.clanky,	
+.part.odkazy,	
+.part.sponzoring {	
+  background: #f5f5f5;	
+}	
+.part.dotace h2,	
+.part.odkazy h2 {	
+  padding-top: 1.5em;	
+}	
+.part.odkazy h2 {	
+  border-top: thin solid #c8c8c8;	
+  display: flex;	
+  flex-wrap: wrap;	
+  align-items: center;	
+}	
+.part.odkazy {	
+  padding-bottom: 3em;	
+}	
+.part.sponzoring .button-list {	
+  justify-content: left;	
+}	
+.docinfo.share li .button svg {	
+  top: 0;	
+}	
+.docinfo.share .hideable > .button {	
+  padding: 0;	
+  color: rgb(var(--global-color));	
+  background: none !important;	
+}	
+.docinfo.share li button,	
+.docinfo.share li .button--img-only[href],	
+.docinfo.share li .button--img-only[href]:visited,	
+.docinfo.share li .hideable-switch {	
+  text-transform: none;	
+  font-size: 1rem;	
+  letter-spacing: var(--global-letter-spacing);	
+  color: var(--link-color) !important;	
+  border-bottom: thin solid rgb(var(--global-color)) !important;	
+  padding: 0;	
+  border-radius: 0;	
+  background: none !important;	
+  font-weight: normal;
+}	
+.docinfo.share li .hideable-switch:before {	
+  display: none;	
+}	
+.docinfo.share .copyable__button {	
+  border: none !important;	
 }
 /************************************/
 #content a.definition {

@@ -84,6 +84,14 @@ Obě metody zrání mají své přednosti a dávají kvalitnější maso. Rozdí
 
 Vzhledem že podmínky potřebné k bezpečnému zrání, se v domácnosti nemohou zabezpečit, tak zrání v domácích podmínkách se nedoporučuje.
 
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
+
 {id="b\_mechanicke\_tenderizovani"}
 
 ## B. MECHANICKÉ TENDERIZOVÁNÍ
@@ -136,6 +144,14 @@ Z této poznámky by bylo možno usuzovat, že "v daném případě" 24 hodin by
 
 Navíc by mně tedy zajímalo i co je to ten správný a nesprávný proces marinování.
 
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
+
 {id="d\_tenderizovani\_prirodnimi_stavami"}
 
 ## D. TENDERIZOVÁNÍ PŘÍRODNÍMI ŠŤÁVAMI
@@ -180,6 +196,14 @@ Na rozdíl od Savarina se tímto koníčkem zabývám již asi 60 let a mám o t
 
 Nu, a byl bych velký pokrytec kdybych neřekl, že podle mě je na světě mnoho lidí kteří nevědí jak jíst steaky "comme il faut", ale o tom zase někdy jindy.
 
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
+
 {id="dalsi" var="inputvar-pribuzne_h"}
 
 ## n/a
@@ -189,4 +213,12 @@ n/a
 {var="inputvar-relation@var"}
 
 Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

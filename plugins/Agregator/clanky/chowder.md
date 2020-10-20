@@ -73,6 +73,14 @@ n/a
 
 Příbuzné články nejsou k dispozici
 
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
+
  [1]: /druhy_polevek
  [2]: /kucharske_tituly#vykonny_sefkuchar
 

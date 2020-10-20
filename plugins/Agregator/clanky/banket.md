@@ -65,6 +65,14 @@ Při větších akcích je hlavním ukazatelem především cena. Dalším poža
 
 Při výběru menu pro stovky a tisíce lidí je nejlepší si nechat poradit od odborníků. To jsou zpravidla pracovníci cateringového oddělení podniku, ve kterém akci objednáváte.
 
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
+
 {id="dalsi" var="inputvar-pribuzne_h"}
 
 ## n/a
@@ -74,6 +82,14 @@ n/a
 {var="inputvar-relation@var"}
 
 Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 
  [1]: doplnky
 

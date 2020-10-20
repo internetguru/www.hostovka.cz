@@ -31,6 +31,7 @@
           expandOnFocus: false,
           appendValue: false,
           itemsLimit: 15,
+          sendForm: true,
           decorateListItem: function (itemValue) { return itemValue },
           undecorateListItem: function (itemValue) {
             // remove tags by default
@@ -237,6 +238,10 @@
           if (Config.onSend) {
             Config.onSend(navig, currentFile, closeNavig)
           }
+          if (!Config.sendForm) {
+            event.preventDefault()
+            return false
+          }
         },
         openNavig = function (updateFiles) {
           updateFiles = typeof updateFiles === 'undefined' ? true : updateFiles
@@ -299,7 +304,7 @@
               }
               submitEvent = new Event('fillValEvent')
               navig.dispatchEvent(submitEvent)
-              if (!Config.submitOnEnter) {
+              if (!Config.submitOnEnter || !Config.sendForm) {
                 event.preventDefault()
               }
               break
@@ -563,7 +568,7 @@
                   submitEvent = new Event('fillValEvent')
                   localNavig.dispatchEvent(submitEvent)
                 }
-                if (Config.submitOnClick) {
+                if (Config.submitOnClick && Config.sendForm) {
                   localNavig.form.submit()
                 }
                 event.stopPropagation()

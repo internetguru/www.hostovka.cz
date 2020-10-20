@@ -156,6 +156,14 @@ n/a
 
 Příbuzné články nejsou k dispozici
 
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
+
  [1]: /files/thumbs/clanky/michael_klima/obr12.jpg
  [2]: /files/thumbs/clanky/michael_klima/obr14.jpg
  [3]: /files/thumbs/clanky/michael_klima/obr16.jpg

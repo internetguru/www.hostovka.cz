@@ -131,6 +131,14 @@ n/a
 
 Příbuzné články nejsou k dispozici
 
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
+
  [1]: ambiance
  [2]: kucharske_tituly#sefkuchar
  [3]: know_how

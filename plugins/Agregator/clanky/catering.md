@@ -91,6 +91,14 @@ Není nic neobvyklého, že organizace, která má pobočky ve všech státech A
 
 Funkce plánovače je velmi dobře placená. Navíc z ní plynou benefity jako je cestování, pobyt v hotelích či resortech, které musí napřed navštívit – a samozřejmě dobré jídlo a dobré pití. Tato funkce předpokládá dokonalou znalost cateringu a spadá do takzvané kongresové turistiky.
 
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
+
 {id="dalsi" var="inputvar-pribuzne_h"}
 
 ## n/a
@@ -100,6 +108,14 @@ n/a
 {var="inputvar-relation@var"}
 
 Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 
  [1]: /sendvice
  [2]: /chucpa

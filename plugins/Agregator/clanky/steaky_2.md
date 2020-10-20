@@ -103,6 +103,14 @@ Typický Steak Au Poivre by měl být suchý, nicméně v mnoha zemích, a např
 
 Taktéž v Německu se setkáte s tím, že Pfeffersteak mit schwarzem geschroteten Pfeffer je přelitý s demi-glace do kterého byla přimíchána smetana.
 
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
+
 {id="steak\_na\_pepri"}
 
 ## Steak na pepři
@@ -151,6 +159,14 @@ Jedním naším tajemstvím je že několik kuliček zeleného pepře mírně ro
 
 Někdy peppersteaky flambujeme koňakem, ale to také nikomu neříkejte protože to je naše tajemství.
 
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
+
 {id="dalsi" var="inputvar-pribuzne_h"}
 
 ## n/a
@@ -160,4 +176,12 @@ n/a
 {var="inputvar-relation@var"}
 
 Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

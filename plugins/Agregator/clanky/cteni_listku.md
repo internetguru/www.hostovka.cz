@@ -58,6 +58,14 @@ Hamburger, který je příkladným reprezentantem jídel na objednávku, se při
 
 Jídla na objednávku se dnes připravují i z těch nejlevnějších surovin, jako jsou například zelenina, vejce, těstoviny a uzeniny. Do jaké skupiny jídel zařazují čeští restauratéři tyto „minutky“?
 
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
+
 {id="priprava_minutek"}
 
 ## Příprava minutek
@@ -89,6 +97,14 @@ n/a
 {var="inputvar-relation@var"}
 
 Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 
  [1]: /modni_pojmy
 

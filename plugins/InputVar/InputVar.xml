@@ -15,10 +15,29 @@
   
   <fn id="html2md" fn="pregreplace" pattern="(.+).html" replacement="$1.md"/>
   <var id="mdfile" var="file" fn="html2md"/>
-  <var id="ghedit"><a var="inputvar-mdfile@href" href="https://github.com/InternetGuru/www.hostovka.cz/edit/dev/%s"><span class="fas fa-fw fa-pencil">i</span>Navrhnout úpravy článku</a></var>
-  <var id="ghedit2"><a class="button button--simple button--img button--img-only" var="inputvar-mdfile@href" href="https://github.com/InternetGuru/www.hostovka.cz/edit/dev/%s" title="Navrhnout úpravy článku"><span class="fas fa-fw fa-pencil">i</span></a></var>
+  <var id="ghedit"><a var="inputvar-mdfile@href" href="https://github.com/InternetGuru/www.hostovka.cz/edit/dev/%s"><span class="fas fa-fw fa-pencil">i</span>Upravit článek</a></var>
+  <var id="ghedit2"><a class="button button--simple button--img button--img-only" var="inputvar-mdfile@href" href="https://github.com/InternetGuru/www.hostovka.cz/edit/dev/%s" title="Navrhnout úpravy článku"><span class="fas fa-fw fa-pencil">i</span> Upravit článek</a></var>
   <var id="fb-share"><a href="https://www.facebook.com/hostovka"><span class="fab fa-facebook-square">i</span>Sledovat Pralék na Facebooku</a></var>
 
+  <var id="articlebuttons">
+    <li>
+      <span class="hideable hideable-hidden" data-hideable-close-on-ext="true">
+        <span class="eventable button button--simple button--img button--img-only" data-eventable-action="share"><span class="fas fa-fw fa-share-alt">i</span> Sdílet článek</span>
+        <ul>
+          <li><a onclick='return !window.open(this.href, "Facebook", "width=750,height=500")' var="link@href" fn="inputvar-createfblink@href" class="button button--simple button--img button--img-inline"><span class="fab fa-fw fa-facebook-square">i</span>Sdílet na Facebooku</a></li>
+          <li><a onclick='return !window.open(this.href, "Twitter", "width=750,height=500")' var="link@href" fn="inputvar-createtwitterlink@href" class="button button--simple button--img button--img-inline"><span class="fab fa-fw fa-twitter">i</span>Sdílet na Twitteru</a></li>
+          <li>
+            <span class="copyable__heading">Možnosti sdílení</span>
+            <span class="copyable__close" onclick='IGCMS.Hideable.toggleElement(this.parentNode.parentNode.parentNode.getElementsByTagName("a")[0])'>×</span>
+            <span class="copyable" fn="inputvar-createlink" var="link">n/a</span>
+          </li>
+        </ul>
+      </span>
+    </li>
+    <li><span var="inputvar-ghedit2">n/a</span></li>
+    <li><button data-eventable-category="print-header" title="Vytisknout článek" class="button__print button button--simple button--img button--img-only eventable"><span class="fas fa-fw fa-print">i</span>Vytisknout článek</button></li>
+  </var>
+  
   <var id="fbcomment-ico"><span class="fas fa-comment">i</span></var>
   <var id="facebook-ico"><span class="fab fa-facebook-f">i</span></var>
   <var id="twitter-ico"><span class="fab fa-twitter">i</span></var>

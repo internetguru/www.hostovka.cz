@@ -101,6 +101,14 @@ V Mexiku takové chili vaří na mírném ohni hodiny a hodiny, někdy i celý d
 
 V Mexiku se chili, které je s masem říká _chili con carne_ (chili s masem). Musíte to ale brát s rezervou. Maso bylo v Mexiku vždy relativně drahé, obzvláště hovězí. Masa tedy v pravém mexickém chili nikdy moc nebylo.
 
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
+
 {id="chili\_v\_konceptu_steakgrill"}
 
 ## Chili v konceptu Steakgrill
@@ -122,6 +130,14 @@ n/a
 {var="inputvar-relation@var"}
 
 Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 
  [1]: https://www.steakgrill.cz
 
