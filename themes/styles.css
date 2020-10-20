@@ -127,6 +127,27 @@ h1 {
   margin-right: 0;
 }
 /************************************/	
+.ad {
+  padding: 1em;
+  background: #ECEFF1;
+  border-radius: .5rem;
+  border-radius: var(--global-border-radius)
+}
+.ad li {
+  margin-left: 0;
+  font-size: 1.2em;
+  color: #020303
+}
+.ad li:first-child {
+  margin-bottom: 1em
+}
+.ad li:last-child {
+  text-align: right
+}
+.ad li:before {
+  display: none!important
+}
+/************************************/	
 body:not(.admin) .copyable__wrapper {
   font-family: var(--font-family);
   overflow: hidden;	
@@ -1436,6 +1457,84 @@ body .scrolltopable span {
 .hdesc--top.hostovka + div img {
   border-radius: 100%;
 }
+/************************************/
+div.part.internetguru .button-list,	
+div.part.upozorneni .button-list {	
+  justify-content: left;	
+}	
+div.part.upozorneni,	
+div.part.internetguru {	
+  padding-top: 2em;	
+  padding-bottom: 2em;	
+}	
+div.part.upozorneni:before,	
+div.part.internetguru:before {	
+  content: "";	
+  display: block;	
+  margin: 0em auto 2em auto;	
+  width: 12em;	
+  height: 12em;	
+  background: #FFF3E0 url("/files/envelope-solid.png") 50% 50% no-repeat;	
+  border-radius: 100%;	
+  background-size: 55%;	
+}	
+div.part.internetguru:before {	
+  background: url("/files/book.png") 50% 54% #eaf6ff no-repeat;	
+  background-size: 53%;	
+  border-radius: 100%;	
+}	
+div.part.internetguru {	
+  padding-bottom: 6em;	
+}	
+div.part.internetguru form {	
+  padding: var(--global-horizontal-padding);	
+  padding-top: 2em;	
+}	
+div.part.internetguru form div button {	
+  flex-shrink: 0;	
+  margin-top: 1em;	
+  padding-left: 0;	
+}	
+div.part.internetguru form div input {	
+  border: none;	
+  border-radius: 0;	
+  margin-right: 0.75em;	
+  border-bottom: thin solid #9E9E9E;	
+  max-width: 15em;	
+  --input-padding: 1em 0.5em;	
+}	
+@media all and (min-width: 28em) {	
+  div.part.internetguru form div {	
+    display: flex;	
+  }	
+  div.part.internetguru form div button {	
+    flex-shrink: 0;	
+    margin-top: 0;	
+    padding-left: 1em;	
+  }	
+}	
+@media all and (min-width: 42em) {	
+  div.part.internetguru .button-list,	
+  div.part.upozorneni .button-list {	
+    justify-content: flex-start;	
+  }	
+  div.part.upozorneni,	
+  div.part.internetguru {	
+    max-width: 55em;	
+    margin: 0 auto;	
+  }	
+  div.part.upozorneni > *,	
+  div.part.internetguru > * {	
+    width: 65%;	
+    margin-left: 0 !important;	
+  }	
+  div.part.upozorneni:before,	
+  div.part.internetguru:before {	
+    float: right;	
+    margin-right: 2em;	
+    margin-top: 4em;	
+  }	
+}	
 /************************************/
 @media print {
   @page {
