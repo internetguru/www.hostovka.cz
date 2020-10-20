@@ -11,6 +11,7 @@
   
   <xslt>themes/hostovka.xsl</xslt>
   <xslt>themes/hostovka2.xsl</xslt>
+  <xslt>themes/ad.xsl</xslt>
   <xslt>themes/layout/image-group.xsl</xslt>
   
   <stylesheet>themes/styles.css</stylesheet>
