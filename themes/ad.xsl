@@ -16,7 +16,7 @@
             <li><a href="#ebook" class="button button--simple button--img button--img-inline"><span class="fas fa-fw fa-atlas">i</span> Chci e-book</a></li>
           </xsl:when>
           <xsl:when test="$rand = 1">
-            <li>Koupí e-booku podpoříte autora a další rozvoj tohoto webu.</li>
+            <li>Koupí e-booku podpoříte další rozvoj tohoto webu.</li>
             <li><a href="#ebook" class="button button--simple button--img button--img-inline"><span class="fas fa-fw fa-atlas">i</span> Koupit e-book</a></li>
           </xsl:when>
           <xsl:when test="$rand = 2">
@@ -28,12 +28,12 @@
             <li><a href="#ebook" class="button button--simple button--img button--img-inline"><span class="fas fa-fw fa-atlas">i</span> Objednat e-book</a></li>
           </xsl:when>
           <xsl:when test="$rand = 4">
-            <li>Koupí e-booku potěšíte svého známého a také autora článků.</li>
+            <li>Koupí e-booku potěšíte svého známého a také sponzora webu.</li>
             <li><a href="#ebook" class="button button--simple button--img button--img-inline"><span class="fas fa-fw fa-atlas">i</span> Potěšit známého</a></li>
           </xsl:when>
           <xsl:when test="$rand = 5">
-            <li>Líbí se Vám naše články a chcete podpořit autora koupí e-booku?</li>
-            <li><a href="#ebook" class="button button--simple button--img button--img-inline"><span class="fas fa-fw fa-atlas">i</span> Podpořit autora</a></li>
+            <li>Líbí se Vám naše články a chcete podpořit tento web koupí e-booku?</li>
+            <li><a href="#ebook" class="button button--simple button--img button--img-inline"><span class="fas fa-fw fa-atlas">i</span> Podpořit web</a></li>
           </xsl:when>
           <xsl:when test="$rand = 6">
             <li>Zajímá Vás nová elektronická kniha jako sborník článků tohoto webu?</li>
