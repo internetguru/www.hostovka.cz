@@ -28,7 +28,7 @@
           <li><span class="fas fa-fw fa-check">i</span>Automatické aktualizace a přidávání nových článků!</li>
           <li><span class="fas fa-fw fa-check">i</span>Zajímá Vás e-book? <label for="mce-EMAIL">Nechte se informovat!</label></li>
         </ol>
-        <form action="https://pralek.us17.list-manage.com/subscribe/post?u=2e9033b7fc4e6eab54229d768&amp;id=5049faf784" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form">
+        <form action="https://hostovka.us2.list-manage.com/subscribe/post?u=5971b7be214389f4b2b105300&amp;id=f5d1b64499" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form">
           <div>
           <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="josef.novak@seznam.cz" required="required"/>
             <button type="submit" name="subscribe" id="mc-embedded-subscribe" class="button button--simple button--img button--img-inline"><span class="fas fa-fw fa-plus">i</span>Informujte mě</button>
