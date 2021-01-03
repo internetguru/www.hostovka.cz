@@ -67,7 +67,7 @@ Totéž platí o žloutcích, které jednak dávají hmotě chuť a pomáhají j
 
 ## Podávání pokrmu
 
-Steak se kdysi porcoval (dranžíroval) na servírovacím stolku (keridonu) přímo u stolu. To vyžadovalo jistou zkušenost a profesionálnost. Toto umění tzv. _dranžéra_ ale už bohužel zaniklo, takže na to dnes můžete již zapomenout.
+Steak se kdysi porcoval <a>(dranžíroval) {var="definition-dranzirovani"}</a> na servírovacím stolku <a>(keridonu) {var="definition-keridon"}</a> přímo u stolu. To vyžadovalo jistou zkušenost a profesionálnost. Toto umění tzv. _dranžéra_ ale už bohužel zaniklo, takže na to dnes můžete již zapomenout.
 
 Steak má dva konce neboli _end cuts {xml:lang="en"}_, které jsou poněkud propečenější než střední část. Pro každou osobu dranžér ukrojil ze steaku 3 plátky masa, z čehož dva (podle hostovy preference propečenosti) položil na levou stranu horkého talíře. Na pravou stranu pak přidal zeleninu podle výběru.
 
