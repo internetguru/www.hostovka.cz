@@ -85,7 +85,7 @@ T-bone steak má své jméno odvozené od kosti ve tvaru písmene T, která jím
 
 n/a
 
-{var="doclist-faq"}
+{var="doclist-faq_steak"}
 
 Seznam příbuzných dotazů není k dispozici
 
