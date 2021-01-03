@@ -161,11 +161,11 @@ Medailónky jak jejich název napovídá jsou menší než turneda. Podávají s
 
 ## Châteaubriand
 
-Châteaubriand, česky šatobriand, byl pojmenován po velkém francouzském spisovateli a státníku Châteaubriandovi, avšak jídlo, tak jak je popsáno níže vytvořil slavný francouzský kuchař Montmireil.
+Châteaubriand, česky šatobriand, byl pojmenován po velkém francouzském spisovateli a státníku Châteaubriandovi, avšak jídlo, tak jak je popsáno níže vytvořil slavný francouzský kuchař <a>Montmireil {var="definition-montmireil"}</a>.
 
 Châteaubriand se připravuje ze střední svíčkové o váze nejméně 400 gramů (dvojité filé), čímž je toto jídlo také poměrně drahé. Jeho cena je však relativní, protože se připravuje nejméně pro 2 osoby a v ceně jsou zahrnuty všechny přílohy a celý showmanship podávání tohoto pokrmu který, pokud je správně presentovaný, je nezapomenutelným gastronomickým zážitkem.
 
-Bohužel se správnou atraktivní presentaci châteaubriandu se setkáme možná již jen na hotelových školách, kde se to zřejmě ještě vyučuje, ale v mnoha restauracích, včetně těch rádoby "francouzských" je ta presentace mnohdy pod úroveň, a pan Montmireil se určitě obrací v hrobě.
+Bohužel se správnou atraktivní presentaci châteaubriandu se setkáme možná již jen na hotelových školách, kde se to zřejmě ještě vyučuje, ale v mnoha restauracích, včetně těch rádoby "francouzských" je ta presentace mnohdy pod úroveň, a pan <a>Montmireil {var="definition-montmireil"}</a> se určitě obrací v hrobě.
 
 Hlavním gastronomickým zážitkem je samotný châteaubriand který musí být opečený nebo grilovaný přesně na požadovaný stupeň vnitřní teploty (většinou medium rare, 71°C.)
 
