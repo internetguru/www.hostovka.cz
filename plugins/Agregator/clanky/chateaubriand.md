@@ -51,7 +51,7 @@ Bohužel se správnou atraktivní prezentací pokrmu se dnes nesetkáme ani na n
 
 ## Gastronomický zážitek
 
-Hlavním gastronomickým zážitkem je samotný chateaubriand. Podává se zásadně na horké míse v celku a zpravidla na soklu z bílého chleba a obložený nejméně třemi druhy v páře vařené barevné zeleniny jako je květák, karotka a hrášek, zelené fazolky, brokolice, bruselské kapustičky apod.
+Hlavním gastronomickým zážitkem je samotný chateaubriand. Podává se zásadně na horké míse v celku a zpravidla na <a>soklu {var="definition-sokl"}</a> z bílého chleba a obložený nejméně třemi druhy v páře vařené barevné zeleniny jako je květák, karotka a hrášek, zelené fazolky, brokolice, bruselské kapustičky apod.
 
 Mimo zeleniny by s ním měly být podávány alespoň dva druhy brambor, jako například _pommes château {xml:lang="fr"}_ nebo _pommes Parisienne {xml:lang="fr"}_. V každém případě však s bramborami francouzsky zvanými _pommes duchesse {xml:lang="fr"}_, které se ozdobně nastříkají po okraji mísy a opekou dozlatova pod grilem. Tím vytváří jedlý okraj zvaný bordura neboli rám celému obrazu tohoto velice atraktivního jídla.
 
