@@ -15,9 +15,9 @@ Tomuto byly kdysi vyškoleni kuchaři případně číšníci, a tak zvaní carv
 
 Toto, pokud to bylo provedeno odborně, bylo jakýmsi zpestřením stolování v restauracích vyšších cenových skupin a bylo to velice nóbl.
 
-V moderní gastronomii se ale od dranšírování u stolů v restauraci upouští.
+V moderní gastronomii se ale od <a>dranšírování {var="definition-dranzirovani"}</a> u stolů v restauraci upouští.
 
-Při velkých bufetech je dranšírování velkých kusů masa či drůbeže stále ještě populární jednak proto, že je to velice atraktivní. ale také z ekonomických důvodů.
+Při velkých bufetech je <a>dranšírování {var="definition-dranzirovani"}</a> velkých kusů masa či drůbeže stále ještě populární jednak proto, že je to velice atraktivní. ale také z ekonomických důvodů.
 
 V Americe si dnes můžete objednat čerstvé pstruhy již vykostěné a to třeba i 5 tisíc kusů a všechny budou o váze vaši specifikace třeba i 283,5 gramů.
 
