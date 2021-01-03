@@ -13,7 +13,7 @@
     Config.hrefClass = Config.ns + "--href"
     Config.dataHrefTitleAttr = "data-" + Config.ns + "-href-title"
     Config.titlePrefix = "Článek: " // e.g. "Article: "
-    Config.copyFromParent = ".part.odkazy .list > div" // e.g. .part.odkazy .list > div
+    Config.copyFromParent = "" // e.g. .part.odkazy .list > div
     Config.css = '/* deginition.js */' +
       '.' + Config.hiddenClass + ' {' +
       '  display: none;' +
