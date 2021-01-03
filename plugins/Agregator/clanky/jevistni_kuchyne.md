@@ -29,11 +29,11 @@ Na [brunchích][3] jsou takto podávané hlavně lívance připravované na grid
 
 ## Dranžírování a sotýrování
 
-Typickou technikou jevištní kuchyně je dranžírování (anglicky _carving {xml:lang="en"}_). Pečená masa nebo drůbež se dranžírují (krájí) na porce dle přání hostů. To je jednak velmi atraktivní, ale také i praktické, protože se tím předchází zbytečným zbytkům.
+Typickou technikou jevištní kuchyně je <a>dranžírování {var="definition-dranzirovani"}</a> (anglicky _carving {xml:lang="en"}_). Pečená masa nebo drůbež se <a>dranžírují {var="definition-dranzirovani"}</a> (krájí) na porce dle přání hostů. To je jednak velmi atraktivní, ale také i praktické, protože se tím předchází zbytečným zbytkům.
 
 {class="example"}
 
-Na [brunchích][3] se dranžíruje například pečené hovězí nebo vepřové maso, celá krůta nebo krůtí prso, pečená šunka, skopová kýta, ale i velká ryba.
+Na [brunchích][3] se <a>dranžíruje {var="definition-dranzirovani"}</a> například pečené hovězí nebo vepřové maso, celá krůta nebo krůtí prso, pečená šunka, skopová kýta, ale i velká ryba.
 
 Mnohdy se dranžér nachází až na konci bufetové linky, což má praktický, lépe řečeno psychologický a ekonomický důvod. Host, který prochází kolem bufetové linky si na talíř nandá napřed porcovanou drůbež, dušeniny, ryby, těstovinová a zeleninová jídla a případně přílohy. V době, kdy dojde k dranžérovi, nemá na maso již téměř žádné místo.
 
