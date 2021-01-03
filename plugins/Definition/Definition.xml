@@ -1,4 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Definition>
   <var id="global">enabled</var>
+
+  <def id="gueridon"
+     class="definition"
+     title="Malý servírovací stolek"
+     href="https://cs.wikipedia.org/wiki/Gu%C3%A9ridon"
+     data-definition-href-title="Termín guéridon na Wikipedii"
+     data-definition-desc="Guéridon je název malého servírovacího stolku používaného při francouzském servisu. Na rozdíl od němého služebníka (německy zvaného Stumme Diener) je stabilní. Tento malý stolek je zpravidla nižší než jídelní stůl. Používá se pro odkládání nádobí, při flambování nebo dranžírování." />
+
+  <def id="demi-glace"
+     class="definition"
+     title="Základní hnědá omáčka"
+     data-definition-desc="Demi-glace je hnědá omáčka připravená redukcí španělské omáčky. Někteří výrobci prodávají demi-glace v prášku nebo formou pasty." />
+
+  <def id="montmireil"
+     class="definition"
+     title="Francouzský kuchař"
+     data-definition-desc="Populární francouzský kuchař, který působil na přelomu 19. a 20. století. Dlouhá léta byl kuchařem francouzského státníka a spisovatele Chateaubrianda. Mimo jiných jídel byl tvůrcem timbálu z krocana Montmireil. Do historie vstoupil dvojitým grilovaným steakem který po svém zaměstnavateli nazval Chateaubriand." />
+
+  <def id="sokl"
+     class="definition"
+     title="Podložka pod pokrmy"
+     data-definition-desc="Sokl je odborný kuchařský výraz, kterým se označuje podložka pod pokrmy se dvěma zásadními účely. Ten první je, aby byla hlavní potravina na talíři nebo na míse vyvýšena a aby se podpořil vizuální dojem její velikosti. Druhý účel je, aby potraviny neležely ve vlastní šťávě, která z nich vyvěrá. Například u steaků má sokl tuto šťávu vsáknout. Sokl musí být z jedlého materiálu, jako je rýže nebo bramborová kaše, ale nejčastěji je to krutón z bílého nebo černého chleba." />
+
+  <def id="pommes_chateau"
+     class="definition"
+     title="Zámecké brambry"
+     data-definition-desc="Pommes ve francouzštině znamená brambory a château znamená zámek, dohromady zámecké brambory. Jsou to loupané okrájené brambory do tvaru poněkud větších oliv než je u pommes olivettes. Za mých mladých let někteří kuchaři trvali na tom, že každá ta oliva musela mít sedm stran. Dnes můžete být rádi, když se olivám alespoň trochu podobají." />
+
+  <def id="pommes_parisienne"
+     class="definition"
+     title="Pařížské brambory"
+     data-definition-desc="Pommes Parisienne, česky pařížské brambory, jsou malé kulaté brambory vykrajované z velkých brambor vypichovačem. Podávají se buď jen vařené, nebo blanžírované a osmahnuté na másle. Při jejich úpravě musíme být velice opatrní, protože se snadno převaří." />
+
+  <def id="bordura"
+     class="definition"
+     title="Obruba"
+     data-definition-desc="Francouzský výraz bordure a anglicky výraz border v češtině znamená hranice nebo obruba. V kuchyni se tento výraz používá pro ozdobné ohraničení talířů, mís nebo i jídel, zpravidla bramborovou hmotou, stříkanou cukrářským sáčkem." />
+
+  <def id="pommes_duchesse"
+     class="definition"
+     title="Brambory podle vévodkyně"
+     data-definition-desc="Pommes duchesse, v překladu brambory podle vévodkyně, jsou vařené, scezené brambory propasírované lisem na brambory, okořeněné a ušlehané s máslem, případně s přidáním vaječných žloutků. Používají se k přípravě kroket, bordur, nebo se stříkají cukrářským sáčkem do různých tvarů. Případně se jimi pokrývají různé pokrmy před zapékáním." />
+
+  <def id="dransirovani"
+     class="definition"
+     title="Vykosťování a porcování před zraky hostů"
+     data-definition-desc="Dranžírování, je odborné vykosťování a porcování mas, ryb a drůbeže někdy prováděné přímo před zraky hostů. Dranžírování u stolu v jídelně se již téměř nepoužívá. Je totiž potřeba jistá odbornost, která se nedá naučit jen tak v nějakém kurzu. Dranžér v kuchyni, zpravidla řezník, si musí na sebe vydělat zručným bouráním a porcováním masa, drůbeže a ryb. Dnes, kdy většina potřebných potravin přichází na trh upravená se dranžírování v kuchyni vůbec nevyplatí." />
+
+  <def id="keridon"
+     class="definition"
+     title="Malý stolek"
+     data-definition-desc="Keridón nebo také gueridón, je malý stolek používaný v restauracích se složitým servisem. Používá se pro usnadnění servisu při dranžírování nebo pro odkládání nádobí." />
 </Definition>
