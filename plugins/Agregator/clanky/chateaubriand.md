@@ -22,7 +22,7 @@ Když se to tak vezme, tak nakonec o tolik nejde. Restaurací, které chateaubri
 
 Horší je, že na základě špatných nebo nedostačujících informací dělá každá restaurace chateaubriand podle svých představ, a ty jsou podle mě spíše _zum abgewöhnen {xml:lang="de"}_. Neboli že když si takový chateaubriand někdo dá, tak ho ani nenapadne si ho ještě někdy objednat.
 
-Chtěl bych to uvést na pravou míru tím, že vám prozradím, že chateaubriand není přímo steak. Pojem chateaubriand se vztahuje k receptu a celkové úpravě pokrmu. Navíc chateaubriand byl sice pojmenován po jmenované osobnosti, avšak jídlo samotné vytvořil slavný francouzský kuchař Montmireil.
+Chtěl bych to uvést na pravou míru tím, že vám prozradím, že chateaubriand není přímo steak. Pojem chateaubriand se vztahuje k receptu a celkové úpravě pokrmu. Navíc chateaubriand byl sice pojmenován po jmenované osobnosti, avšak jídlo samotné vytvořil slavný francouzský kuchař <a>Montmireil {var="definition-montmireil"}</a>.
 
 Recept na chateaubriand vám na těchto stránkách dát nemohu, ale jako studentům Hostovky vám musím alespoň napsat, jak by se měl připravovat. To, abyste si mohli udělat obrázek, zda dostáváte, co vám patří, jestliže si ho v některé restauraci objednáte.
 
@@ -32,7 +32,7 @@ Recept na chateaubriand vám na těchto stránkách dát nemohu, ale jako studen
 
 Steak se připravuje ze střední části pravé svíčkové anglicky zvané _beef tenderloin {xml:lang="en"}_ o váze nejméně 400 gramů (dvojité filé). Tím pádem je jídlo poměrně drahé. Zruční kuchaři jsou schopni z celé svíčkové udělat dvě nebo i více porcí. Ještě větší umění je však tyto steaky prodat.
 
-Jeho cena je však relativní, protože se připravuje nejméně pro 2 osoby a v ceně je zahrnuty všechny přílohy a celý showmanship podávání tohoto pokrmu který. Ten, pokud je správně prezentovaný, je nezapomenutelným gastronomickým zážitkem. Přesto ale v mnoha restauracích, včetně těch rádoby francouzských je prezentace mnohdy pod úroveň a pan Montmireil se určitě obrací v hrobě.
+Jeho cena je však relativní, protože se připravuje nejméně pro 2 osoby a v ceně je zahrnuty všechny přílohy a celý showmanship podávání tohoto pokrmu který. Ten, pokud je správně prezentovaný, je nezapomenutelným gastronomickým zážitkem. Přesto ale v mnoha restauracích, včetně těch rádoby francouzských je prezentace mnohdy pod úroveň a pan <a>Montmireil {var="definition-montmireil"}</a> se určitě obrací v hrobě.
 
 {class="figure"}
 
