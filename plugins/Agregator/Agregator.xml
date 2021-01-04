@@ -20,10 +20,12 @@
     </dl>
   </doclist>
  
-  <doclist id="faq" path="faq" wrapper="dl" class="hideable">
-    <dt class="faq__heading" var="heading@var">n/a</dt>
-    <dd class="faq__question" var="question@var">n/a</dd>
-    <dd class="faq__answer" var="answer@var">n/a</dd>
+  <doclist id="faq" path="faq">
+    <dl class="hideable">
+      <dt class="faq__heading" var="heading">n/a</dt>
+      <dd class="faq__question" var="question">n/a</dd>
+      <dd class="faq__answer" var="answer">n/a</dd>
+    </dl>
   </doclist>
   <doclist id="faq_steak" kw="steak" doclist="faq"/>
 
