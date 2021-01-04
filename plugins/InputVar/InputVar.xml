@@ -79,6 +79,15 @@
     <call>replacenames</call>
     <call>addusptaglist</call>
   </fn>
+
+  <fn id="faqprefix" fn="pregreplace" pattern="^" replacement="doclist-faq_" />
+  <fn id="faqprefix2" fn="pregreplace" pattern=", " replacement=" doclist-faq_" />
+
+  <fn id="makefaqdoclist" fn="sequence">
+    <call>normalize</call>
+    <call>faqprefix</call>
+    <call>faqprefix2</call>
+  </fn>
   
   <fn id="makeelements" fn="pregreplace" pattern="([a-zA-Z0-9áčďéěíňóřšťůúýžÁČĎÉĚÍŇÓŘŠŤŮÚÝŽ _-]+)(:?, )?" replacement="&#x3C;a href='href=\1' title='title=\1' class='tag nohash' data-local-title='Na začátek seznamu' &#x3E;&#x3C;span class='fas fa-tag'&#x3E;i&#x3C;/span&#x3E;\1&#x3C;/a&#x3E;" />
   
