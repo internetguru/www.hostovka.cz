@@ -27,7 +27,7 @@
       <dd class="faq__answer" var="answer">n/a</dd>
     </dl>
   </doclist>
-  <doclist id="faq_steak" kw="steak" doclist="faq"/>
+  <doclist id="faq_steak" kw="steak" path="faq" doclist="faq"/>
 
 <!-- [doclist] generated content, do not edit -->
   <doclist id="amerika" kw="Amerika" for="stitek" doclist="stitek" />
