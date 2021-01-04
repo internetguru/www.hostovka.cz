@@ -5,7 +5,7 @@
 
 # Kde v Česku dostanu opravdové steaky??
 
-{kw="jidla\_a\_jidelni_listky"}
+{kw="jídla a jídelní lístky"}
 
 n/a
 
