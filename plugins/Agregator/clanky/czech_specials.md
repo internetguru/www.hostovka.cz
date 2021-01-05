@@ -43,6 +43,18 @@ Já proti českým a krajovým jídlům vůbec nic nemám. Kdysi jsem měl česk
 
 To, že celá akce _Czech specials {xml:lang="en"}_ skončí fiaskem vím již od prvního dne a dnes už nejsem sám. Co mně ale vadí nejvíce je, nakolik tím vším utrpí zbytek reputace, kterou česká kuchyně ve světě ještě má.
 
+{var="inputvar-faq_h" id="dotazy"}
+
+## n/a
+
+{var="inputvar-faq_desc"}
+
+n/a
+
+{var="inputvar-faqs@var"}
+
+Seznam příbuzných dotazů není k dispozici
+
 {id="dalsi" var="inputvar-pribuzne_h"}
 
 ## n/a
