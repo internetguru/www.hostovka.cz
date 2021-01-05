@@ -1540,6 +1540,7 @@ div.part.internetguru form div input {
   background: #f5f5f5;
   padding: var(--card-padding) !important;
   border-radius: var(--global-border-radius);
+  width: 100%;
 }
 .faq > * {
   margin-left: 0;
@@ -1547,6 +1548,7 @@ div.part.internetguru form div input {
 .faq__heading a {
   color: var(--global-color);
   font-size: 1.2em;
+  display: block;
 }
 .faq__question,
 .faq__answer {
