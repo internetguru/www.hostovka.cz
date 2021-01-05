@@ -1616,7 +1616,10 @@ div.part.internetguru form div input {
   .linklist-href,
   .moreable-linkwrapper,
   .docinfo.share,
-  .hdesc--top .extra {
+  .hdesc--top .extra,
+  #mc-embedded-subscribe-form,
+  #content .list-wrapper--multiple dl:nth-child(10) ~ dl,
+  .part.dalsi .list-wrapper--single {
     display: none !important;
   }
   div.part.upozorneni,
@@ -1666,7 +1669,6 @@ div.part.internetguru form div input {
   #footer {
     padding-top: 0;
     background: none;
-    border-top: thin solid;
   }
   #footer .footer-menu__item:nth-child(4) {
     display: none;
