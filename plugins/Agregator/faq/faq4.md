@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" data-question="Vážený pane Klímo, dobrý den. Můžete mi prosím poradit, kde najdu na internetu návod na kalkulace pro výrobu pizzy, respektive receptury (složení). Přeji Vám mnoho zdraví a přeji hezký den." data-answer="Vážený Milane, jestli něco najdete na internetu si nejsem jist, ale všechny informace, které žádáte jsem podrobně popsal ve svojí knížce italská kuchyně, která byla vydána nakladatelstvím Grada v Praze. Zkuste to tam sehnat."}
 
-{id="faq4" author="InternetGuru" ctime="2021-01-05T12:28:15+01:00"}
+{id="faq4" author="InternetGuru" ctime="2021-01-05T13:40:59+01:00"}
 
 # Kde najdu kalkulace na výrobu pizzy?
 
