@@ -87,8 +87,6 @@ n/a
 
 Seznam příbuzných dotazů není k dispozici
 
-<!--     <p var="doclist-faq_steak doclist-faq_jidla_a_jidelni_listky">Seznam příbuzných dotazů není k dispozici</p> -->
-
 {id="dalsi" var="inputvar-pribuzne_h"}
 
 ## n/a
