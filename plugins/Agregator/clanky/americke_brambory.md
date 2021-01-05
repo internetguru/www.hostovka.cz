@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=173.html" data-image="/files/preview/clanky/americke_brambory/general.jpg" data-type="article"}
 
-{data-top="965" ctime="2006-09-07" mtime="2019-03-28" id="americke_brambory" author="Michael Klíma" short="Americké brambory"}
+{ctime="2006-09-07" mtime="2019-03-28" data-top="965" id="americke_brambory" author="Michael Klíma" short="Americké brambory"}
 
 # Americké pečené brambory a hranolky
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-07-05, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="jídla a jídelní lístky, brambory, recept, Amerika"}
 

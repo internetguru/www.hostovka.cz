@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=167.html" data-image="/files/preview/clanky/aspik/general.jpg" data-type="article"}
 
-{data-top="972" ctime="2006-08-07" mtime="2018-12-06" id="aspik" author="Michael Klíma" short="Aspik"}
+{ctime="2006-08-07" mtime="2018-12-06" data-top="972" id="aspik" author="Michael Klíma" short="Aspik"}
 
 # Podstata a využití aspiku
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-07-05, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="jídla a jídelní lístky, aspik, želatina, Carême"}
 
