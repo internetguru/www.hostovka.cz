@@ -235,6 +235,9 @@ body:not(.admin) .copyable__close:hover {
 }	
 #content .hdesc--top .extra .button-list .hideable-hidden ul {	
   display: none;	
+}
+#content .hideable-hidden ul {
+  display: none;
 }	
 .docinfo.share li span > ul li,	
 #content .hdesc--top .extra .button-list ul li {	
@@ -400,7 +403,13 @@ body:not(.admin) .copyable__close:hover {
   --button-border-radius: 10em;	
   display: flex;	
   flex-wrap: wrap;	
-}	
+}
+.card .extra .button-list li a {
+  --button-border-radius: 0.5em;	
+}
+.card .extra .button-list li {
+  flex-grow: 0;
+}
 .extra .button-list li {
   text-align: center;
 }
@@ -542,7 +551,7 @@ body:not(.admin) .copyable__close:hover {
   pointer-events: none;
 }
 .clanek .kw {
-  height: 1.5em;
+  height: 1.75em;
   overflow: hidden;
   display: flex;
   flex-wrap: wrap;
@@ -929,6 +938,9 @@ body:not(.agregator) .hdesc--top label {
 }
 .extra .button-list li:last-child {
   margin-right: 0 !important;
+}
+.card .extra .button-list li:last-child {
+  margin-right: auto !important;
 }
 .hdesc--top .extra .button-list li:first-child .button {
   border-radius: 100%;
