@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=234.html" data-image="/files/preview/clanky/chrest/general.jpg" data-type="article"}
 
-{data-top="908" ctime="2007-05-17" mtime="2020-01-05" id="chrest" author="Michael Klíma" short="Chřest"}
+{ctime="2007-05-17" mtime="2020-01-05" data-top="908" id="chrest" author="Michael Klíma" short="Chřest"}
 
 # Vše o chřestu
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-07-05, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="gastronomie"}
 

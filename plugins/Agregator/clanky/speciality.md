@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=156.html" data-image="/files/preview/clanky/speciality/general.jpg" data-type="article"}
 
-{data-top="923" ctime="2006-06-26" mtime="2019-05-27" id="speciality" author="Michael Klíma" short="Speciality"}
+{ctime="2006-06-26" mtime="2019-05-27" data-top="923" id="speciality" author="Michael Klíma" short="Speciality"}
 
 # Speciality podniku
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-07-05, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 

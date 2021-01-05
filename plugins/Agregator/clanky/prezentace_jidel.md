@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=346.html" data-image="/files/preview/clanky/prezentace_jidel/general.jpg" data-type="article"}
 
-{data-top="936" ctime="2008-07-05" mtime="2019-05-26" id="prezentace_jidel" author="Michael Klíma" short="Prezentace jídel"}
+{ctime="2008-07-05" mtime="2019-05-26" data-top="936" id="prezentace_jidel" author="Michael Klíma" short="Prezentace jídel"}
 
 # Důležitost prezentace jídel
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-07-05, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="gastronomie, prezentace, talíře"}
 

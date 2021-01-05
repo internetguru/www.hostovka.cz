@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=210.html" data-image="/files/preview/clanky/dresink/general.jpg" data-type="article"}
 
-{data-top="978" ctime="2007-01-13" mtime="2019-01-18" id="zalivka_dresink" author="Michael Klíma" short="Zálivka a dresink"}
+{ctime="2007-01-13" mtime="2019-01-18" data-top="978" id="zalivka_dresink" author="Michael Klíma" short="Zálivka a dresink"}
 
 # Rozdíl a příprava zálivky a dresinku
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-07-05, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 

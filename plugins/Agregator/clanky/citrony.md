@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=248.html" data-image="/files/preview/clanky/citrony/general.jpg" data-type="article"}
 
-{data-top="997" ctime="2007-08-29" mtime="2019-03-29" id="citrony" author="Michael Klíma" short="Citróny"}
+{ctime="2007-08-29" mtime="2019-03-29" data-top="997" id="citrony" author="Michael Klíma" short="Citróny"}
 
 # Citróny
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-07-05, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="zbožíznalství"}
 

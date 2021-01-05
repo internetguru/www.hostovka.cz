@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=61.html" data-image="/files/preview/clanky/gastonomie/general.jpg" data-type="article"}
 
-{data-top="925" ctime="2005-08-11" mtime="2020-01-05" id="gastronomie" author="Michael Klíma" short="Gastronomie"}
+{ctime="2005-08-11" mtime="2020-01-05" data-top="925" id="gastronomie" author="Michael Klíma" short="Gastronomie"}
 
 # Vše o gastronomii
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-07-05, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="gastronomie, historie, jídla a jídelní lístky, Francie, Česká republika"}
 

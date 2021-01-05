@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=392.html" data-image="files/preview/clanky/food_cost/general.jpg" data-type="article"}
 
-{data-top="974" ctime="2009-04-09" mtime="2009-04-09" id="food\_cost" author="Michael Klíma" short="Food Cost" authorid="hostovka/michael\_klima"}
+{ctime="2009-04-09" mtime="2009-04-09" data-top="974" id="food\_cost" author="Michael Klíma" short="Food Cost" authorid="hostovka/michael\_klima"}
 
 # Food Cost
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-07-05, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="kdo-kdy-kde"}
 

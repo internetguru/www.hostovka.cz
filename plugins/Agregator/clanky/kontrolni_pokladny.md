@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=246.html" data-image="/files/preview/clanky/kontrolni_pokladny/general.jpg" data-type="article"}
 
-{data-top="944" ctime="2007-08-21" mtime="2007-08-21" id="kontrolni\_pokladny" author="Michael Klíma" short="Kontrolní pokladny" authorid="hostovka/michael\_klima"}
+{ctime="2007-08-21" mtime="2007-08-21" data-top="944" id="kontrolni\_pokladny" author="Michael Klíma" short="Kontrolní pokladny" authorid="hostovka/michael\_klima"}
 
 # Kontrolní pokladny
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-07-05, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="koho se to týká"}
 

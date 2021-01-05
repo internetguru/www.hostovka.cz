@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=242.html" data-image="/files/preview/clanky/klubove_talire/general.jpg" data-type="article"}
 
-{data-top="994" ctime="2007-07-05" mtime="2019-02-19" id="klubove_talire" author="Michael Klíma" short="Klubové talíře"}
+{ctime="2007-07-05" mtime="2019-02-19" data-top="994" id="klubove_talire" author="Michael Klíma" short="Klubové talíře"}
 
 # Používání klubových talířů
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-07-05, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="restaurace a servis"}
 

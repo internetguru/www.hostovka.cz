@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=589.html" data-image="/files/preview/clanky/service_charge/general.jpg" data-type="article"}
 
-{data-top="963" ctime="2011-09-29" mtime="2011-09-29" id="service\_charge" author="Michael Klíma" short="Service charge" authorid="hostovka/michael\_klima"}
+{ctime="2011-09-29" mtime="2011-09-29" data-top="963" id="service\_charge" author="Michael Klíma" short="Service charge" authorid="hostovka/michael\_klima"}
 
 # Service charge
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-07-05, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="restaurace a servis"}
 

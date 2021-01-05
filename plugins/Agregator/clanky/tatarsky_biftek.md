@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=64.html" data-image="/files/preview/clanky/tatarsky_biftek/general.jpg" data-type="article"}
 
-{data-top="957" ctime="2005-08-18" mtime="2005-08-18" id="tatarsky\_biftek" author="Michael Klíma" short="Tatarský biftek" authorid="hostovka/michael\_klima"}
+{ctime="2005-08-18" mtime="2005-08-18" data-top="957" id="tatarsky\_biftek" author="Michael Klíma" short="Tatarský biftek" authorid="hostovka/michael\_klima"}
 
 # Tatarský biftek
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-07-05, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 

@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=268.html" data-image="/files/preview/clanky/chilli/general.jpg" data-type="article"}
 
-{data-top="964" ctime="2008-01-08" mtime="2019-03-29" id="chili" author="Michael Klíma" short="Vítězné chili"}
+{ctime="2008-01-08" mtime="2019-03-29" data-top="964" id="chili" author="Michael Klíma" short="Vítězné chili"}
 
 # Recept na vítězné chili
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-07-05, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="jídla a jídelní lístky, historka, recept, Amerika, Mexiko"}
 

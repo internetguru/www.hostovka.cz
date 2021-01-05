@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=349.html" data-image="/files/preview/clanky/open_bar/general.jpg" data-type="article"}
 
-{data-top="947" ctime="2008-07-16" mtime="2008-07-16" id="open\_bar" author="Michael Klíma" short="Open Bar" authorid="hostovka/michael\_klima"}
+{ctime="2008-07-16" mtime="2008-07-16" data-top="947" id="open\_bar" author="Michael Klíma" short="Open Bar" authorid="hostovka/michael\_klima"}
 
 # Open Bar
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-07-05, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="co-kdy-kde"}
 

@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=447.html" data-image="/files/preview/clanky/steaky\_stupen\_propeceni/general.jpg" data-type="article"}
 
-{data-top="990" ctime="2009-06-21" mtime="2009-06-21" id="steaky\_stupen\_propeceni" author="Michael Klíma" short="Steaky stupeň propečení" authorid="hostovka/michael_klima"}
+{ctime="2009-06-21" mtime="2009-06-21" data-top="990" id="steaky\_stupen\_propeceni" author="Michael Klíma" short="Steaky stupeň propečení" authorid="hostovka/michael_klima"}
 
 # Steaky stupeň propečení
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-07-05, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="kuchyňské techniky"}
 

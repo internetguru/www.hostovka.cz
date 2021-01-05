@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=209.html" data-image="/files/preview/clanky/avokado/general.jpg" data-type="article"}
 
-{data-top="931" ctime="2007-01-27" mtime="2019-03-28" id="avokado" author="Michael Klíma" short="Avokádo"}
+{ctime="2007-01-27" mtime="2019-03-28" data-top="931" id="avokado" author="Michael Klíma" short="Avokádo"}
 
 # Vše o avokádu
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-07-05, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="zbožíznalství, ovoce, zelenina"}
 

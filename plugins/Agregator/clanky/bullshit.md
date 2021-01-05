@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=285.html" data-image="/files/preview/clanky/bullshit/general.jpg" data-type="article"}
 
-{data-top="951" ctime="2008-01-05" mtime="2008-02-14" id="bullshit" author="Michael Klíma" short="Bullshit" authorid="hostovka/michael_klima"}
+{ctime="2008-01-05" mtime="2008-02-14" data-top="951" id="bullshit" author="Michael Klíma" short="Bullshit" authorid="hostovka/michael_klima"}
 
 # Bullshit a špatná mluva
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-07-05, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="co-kdy-kde, Amerika"}
 

@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=365.html" data-image="files/preview/clanky/banket/general.jpg" data-type="article"}
 
-{data-top="989" ctime="2008-10-23" mtime="2018-12-06" id="banket" author="Michael Klíma" short="Banket"}
+{ctime="2008-10-23" mtime="2018-12-06" data-top="989" id="banket" author="Michael Klíma" short="Banket"}
 
 # Význam slova banket a banketní
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-07-05, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="gastronomie, banket"}
 

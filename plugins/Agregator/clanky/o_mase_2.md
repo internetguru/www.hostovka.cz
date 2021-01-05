@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=66.html" data-image="/files/preview/clanky/o\_mase\_2/general.jpg" data-type="article"}
 
-{data-top="909" ctime="2005-08-20" mtime="2005-08-20" id="o\_mase\_2" author="Michael Klíma" short="O mase 2" authorid="hostovka/michael_klima"}
+{ctime="2005-08-20" mtime="2005-08-20" data-top="909" id="o\_mase\_2" author="Michael Klíma" short="O mase 2" authorid="hostovka/michael_klima"}
 
 # O mase 2
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-07-05, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
