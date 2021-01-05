@@ -450,6 +450,14 @@ body:not(.admin) .copyable__close:hover {
   min-width: auto;
   color: #546E7A;
 }
+.card.card--image a[href="#"].button {
+}
+.card.card--image a[href="#"].button:before {
+  position: relative;
+  top: -0.1em;
+  filter: contrast(0) sepia(100%) hue-rotate(155deg) brightness(1) saturate(1.48);
+  max-width: 1.8em;
+}
 .copyable-wrapper button {
   width: auto !important;
   height: auto !important;
