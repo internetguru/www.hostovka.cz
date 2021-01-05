@@ -1,11 +1,11 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" data-question="Dobrý den, žil jsem 40 v USA a poměrně dobře jsem se obeznámil s USDA hovězím masem na steaky. Nyní jsem už 10 let v České republice a ještě jsem nenašel restauraci, kde by se maso (i to, jak je připraveno) vyrovnalo tomu americkému. Existuje taková restaurace, nebo řezník, kde by bylo možné dostat opravdové steaky? Děkuji předem za odpověď." data-answer="Nikde jsem nenašel Vaše ctěné jméno a proto se omluvám za to, že Vás jménem neoslovuji. To je v Americe považováno za velkou neslušnost. Steaky USDA kvality bohužel dostanete jen v Americe (kvůli specifickým zákonům). Není to jen v plemeni dobytčat, ale i v jejich krmení, porážení, bourání, zrání, krájení a v neposlední řadě v tepelném zpracování. <a href="https://www.steakgrill.cz">Restaurace Steakgrill</a>, která se může v současné době pochlubit steaky z nejlepšího masa, které je v Česku na trhu, bohužel také nemůže dělat úplné zázraky. Vaření nejsou žádné čáry máry, jaká kvalita jde do hrnce, taková jde z hrnce. Více se dozvíte v dalších článcích o mase na těchto stránkách nebo v jiném odborném tisku."}
+{xml:lang="cs" ns="https://www.hostovka.cz" data-question=""Dobrý den, V případové studii <a href=""/convenience"">convenience</a> se zmiňujete, že vyhazování umělých dochucovacích prostředků je hloupost. Pochopil jsem z toho, že si myslíte, že je používání těchto umělých chemických věcí v pořádku. Opravdu si myslíte že je správné používat omáčky, vývary a podobné věci z prášku, nebo jsem to jen špatně pochopil? Děkuji předem za odpověď. S úctou Ondřej Bílek."" data-answer="Vážený Ondřeji, ano, já si myslím, že používání dochucovacích prostředků je docela v pořádku. Musí se ale umět správně používat. Odpůrci dochucovacích prostředků používají slova umělý a chemický a mnohdy mají pravdu. Většina dochucovacích prostředků jsou výtažky či koncentráty z těch nejlepších potravin. Francouzští kuchaři si je kdysi vyráběli sami pod názvem appareil. Dnes se tím již nikdo nezabývá, protože na jich je na trhu celá řada. Takovým přípravkem je například omáčka Escoffier nebo celosvětově oblíbený a populární kečup. To ani nemluvím o Worcestrové omáčce a tabascu. No a kde by někteří naši kuchař byli bez Maggi nebo Podravky."}
 
-{id="faq1" author="InternetGuru" ctime="2019-11-08"}
+{id="faq1" author="InternetGuru" ctime="2021-01-05T12:17:54+01:00"}
 
-# Kde v Česku dostanu opravdové steaky?
+# Je v pořádku používat dochucovací prostředky?
 
-{kw="steak"}
+{kw="koření, případová studie, Francie"}
 
 n/a
 
