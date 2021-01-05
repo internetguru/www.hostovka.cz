@@ -1385,6 +1385,9 @@ li.example:before {
   background: none;
   transition: all var(--button-transition);
 }
+#content .description a.definition {
+  border-bottom: medium dotted rgba(13, 71, 161, 0.5) !important;
+}
 #content .definition__cont .clanek {
   box-shadow: var(--shadow-2);
   display: flex !important;
