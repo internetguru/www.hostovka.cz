@@ -5,7 +5,7 @@
 
 # Mušle
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -64,4 +64,22 @@ Manhattan Clam Chowder je bílý. Oba tyto chowdry obsahují zeleninu a brambory
 Tyto chowdry jsou dnes tak populární, že se objevují na jídelních lístcích mnoha velkých mezinárodních restaurací.
 
 Chowdry se vyznačují také tím, že jsou hustější než kterékoliv jiné husté polévky.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

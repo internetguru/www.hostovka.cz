@@ -1,13 +1,13 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=107.html" data-image="/files/preview/clanky/koktejly/general.jpg" data-type="article"}
 
-{ctime="2005-11-12" mtime="2019-02-19" id="koktejly" author="Michael Klíma" short="Koktejly"}
+{ctime="2005-11-12" mtime="2020-04-30" data-top="920" id="koktejly" author="Michael Klíma" short="Koktejly"}
 
 # Koktejly a barmanství
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
-{kw="nápoje, koktejly, zkušensti"}
+{kw="nápoje, koktejly, zkušenosti"}
 
 Občas jsem se díval na barmana Karla Kroupu zvaného Charlie, o kterém jsem si ve svých 14 letech myslel, že je největším barmanem na světě. Pozoroval jsem ho, když mixoval koktejly, a snil jsem o tom, že jednoho dne budu také takovým slavným barmanem jako je on. Tento sen se mi však nikdy nesplnil.
 
@@ -56,4 +56,22 @@ Dnes, až na výjimky, dělá barmanství kdekdo a o lihovinách, koktejlech a j
 Já proti barmankám nic nemám, ba naopak, ale mnohé z nich toho o barmanství moc nevědí. Proto to dohánějí svým dekoltem. Ve světě jsou bary, kde jsou dokonce barmanky „nahoře bez“. Některé toho o barmanství vědí tak málo, že by podle mě za barem mohly být i nahaté a stejně by jim to nepomohlo.
 
 Nemám nic proti mladým lidem, protože i já jsem byl kdysi mladý, a navíc téměř celý život pracuji s mladými lidmi. Přesto se ale domnívám, že nějaká zralost je k barmanství potřeba. Prostě si myslím, že to s mladými barmany a someliéry trochu přeháníme. Nemám nic proti ambiciózním mladým lidem, ale obávám se, že některým našim mladým barmanům odměny, ceny a medaile stouply až moc do hlavy.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

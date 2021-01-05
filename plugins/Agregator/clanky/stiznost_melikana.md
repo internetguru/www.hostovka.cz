@@ -5,7 +5,7 @@
 
 # Stížnost Melikana
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="o čem se nemluví"}
 
@@ -30,4 +30,22 @@ Když jsem se najedl, tak mi řekla, že mám jít za vedoucím do jeho kancelá
 Za chvíli přišla paní vedoucí, které jsem se představil, dal ji moji vizitku, a požádal ji, aby se posadila, protože to bude na delší dobu. Na moji vizitku se paní vedoucí ani nepodívala, což je společenské faut pas, a ani se nenamáhala mi zřetelně říci své jméno, natožpak aby mi rovněž dala svoji vizitku, což je základ obchodní etiky. No, nic, to se na českých hotelových školách neučí, ale základ obchodní etiky také je umění přijmou pochvalu nebo i kritiku, což tato velice sebevědomá a nejspíše velice namyšlená paní vedoucí naprosto ignorovala a na vše měla svoji omluvu. Řekl jsem ji, že jsem profesionální konzultant a proto, že ji nemohu dávat nějaké rady, ale přednesl jsem ji, s čím jsem byl nespokojený, a že si myslím, že v zásadě za vše co se děje v tom podniku že může i ona, a že by měla zaměstnance vychovávat, a soustavně kontrolovat. Na to mi tato velice sebevědomá, a zřejmě velice zkušená paní vedoucí řekla největší blbost, kterou manažer, nebo supervisor může říci, a sice že od nikoho žádné rady nepotřebují, protože všechno znají a všechno vědí, a že ta kuchařka má svoji hlavu, a že na tom ona nic nemůže změnit.
 
 No, nemusím vám asi říkat, že já bych takovou vedoucí, která nemůže nic změnit a která neumí to základní, a to je supervision a schopnost vést ostatní zaměstnance, nejspíše vyhodil.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

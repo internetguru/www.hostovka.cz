@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=392.html" data-image="files/preview/clanky/food_cost/general.jpg" data-type="article"}
 
-{ctime="2009-04-09" mtime="2009-04-09" id="food\_cost" author="Michael Klíma" short="Food Cost" authorid="hostovka/michael\_klima"}
+{ctime="2009-04-09" mtime="2009-04-09" data-top="974" id="food\_cost" author="Michael Klíma" short="Food Cost" authorid="hostovka/michael\_klima"}
 
 # Food Cost
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="kdo-kdy-kde"}
 
@@ -20,4 +20,22 @@ V drahých či luxusních restauracích, které používají drahé potraviny, F
 V americkém pohostinství FC je zaklínadlo, kterému je ale věnována nezasloužená pozornost. FC podobně jako Labor cost (LC) je do značné míry ovlivňován odborným ekonomickým zpracování potravin a celkovým know how.
 
 Vytvoření ideálního FC pro zabezpečení dobrého hospodářského výsleku není tak jednoduché jak se zdá, což je dobře, protože to by do toho pohostinství skutečně fušoval kde kdo. Tvorbou ideálního FC se bude zabývat jeden z připravovaných seminářů výchovného střediska STEAKGRILLEDU™.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

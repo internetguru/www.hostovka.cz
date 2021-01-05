@@ -1,7 +1,7 @@
 
 {
   "name": "Univerzita pro hosty restaurací",
-  "short_name": "Hostovka.cz",
+  "short_name": "Hostovka",
   "display": "minimal-ui",
   "start_url": "/",
   "theme_color": "#ddd",

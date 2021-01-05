@@ -1,11 +1,13 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=190.html" data-image="/files/preview/clanky/bujabeza/general.jpg" data-type="article"}
 
-{ctime="2006-11-20" mtime="2019-03-28" id="bujabeza" author="Michael Klíma" short="Bujabéza"}
+{ctime="2006-11-20" mtime="2019-03-28" data-top="958" id="bujabeza" author="Michael Klíma" short="Bujabéza"}
 
 # Polévka bujabéza a její příprava
 
-{kw="jídla a jídelní lístky, polévka, recept, ryby, mořské plody, Francie"}
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
+
+{kw="jídla a jídelní lístky, polévky, recept, ryby, mořské plody, Francie"}
 
 Správný název polévky by měl být _buillabaise_ (francouzsky). V Česku je ale tato polévka více známá pod názvem bujabéza.
 
@@ -67,4 +69,22 @@ Rouille, nazývaný v češtině jako „růj“, je přídavek, chcete-li dochu
 Růj připravíme tak, že všechny suroviny, mimo vývaru a oleje posekáme v mixéru. Potom pomalu přidáváme vývar, než získáme hladkou pastu. Pastu pak rozředíme olejem, který při pomalé rychlosti přidáváme v tenkém proudu, jako při přípravě majonézy.
 
 Růj přidáváme do polévky asi 10 minut před dohotovením, aby se rozvařila strouhanka. V některých případech růj podáváme zvlášť.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

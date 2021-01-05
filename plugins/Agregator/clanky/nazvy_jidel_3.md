@@ -5,7 +5,7 @@
 
 # Názvy jídel 3
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="etika"}
 
@@ -30,4 +30,22 @@ O psaní jídelních lístků byly napsány celé spisy a lexikonů jídel je to
 Tudíž dokud budou existovat restaurace ve kterých se budou podávat klasická jídla světových kuchyní tak roštěná Esterhazy by měla zůstat roštěnou Esterhazy, svíčková Welington by měla zůstat svíčkovou Welington a kuře Marengo by mělo zůstate kuřetem Marengo, a Americká limonáda Americkou limonádou, ať je to v Římě, Moskvě, Pekingu, New Yorku nebo kdekoliv jinde na světě.
 
 Tvořit násilně nové názvy jídel, nebo měnit stávající vžité názvy bez znalosti zásad jejich tvorby je známka naprosté ignorance gastronomických zásad a etiky.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

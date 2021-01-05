@@ -5,7 +5,7 @@
 
 # Rocky mountain oysters
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -26,4 +26,22 @@ Já do Tijuany občas jedu, ale ne na býčí zápasy, ale na ty ústřice kter�
 Já si v restauracích moc nestěžuji, ale jednou mi tam podali dva takové prcky, že jsem musel zavolat číšníka a na tu velikost jsem si stěžoval.
 
 Ten číšník mi to vysvětlil. Řekl mi totiž, že asi dobře vím že býčí zápasy (ze kterých oni ty "ústřice" dostávali, jsou velice riskantní a nevyzpytatelný byznys a že prostě někdy to vyhraje ten býk.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=211.html" data-image="/files/preview/clanky/proc\_lide\_chodi\_do\_restauraci/general.jpg" data-type="article"}
 
-{ctime="2007-01-21" mtime="2007-01-21" id="proc\_lide\_chodi\_do\_restauraci" author="Michael Klíma" short="Proč chodí lidé do restaurací" authorid="hostovka/michael_klima"}
+{ctime="2007-01-21" mtime="2007-01-21" data-top="916" id="proc\_lide\_chodi\_do\_restauraci" author="Michael Klíma" short="Proč chodí lidé do restaurací" authorid="hostovka/michael_klima"}
 
 # Proč chodí lidé do restaurací
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="restaurace a servis"}
 
@@ -86,4 +86,22 @@ Pointa
 Jednak jsem na té polévce pro ty hajzlíky utratil všechno mé kapsné a s manželkou jsme pak dva dny jedli drůbeží polévku a ještě mi zbylo zeleniny že jsem nevěděl co s tím. Nakonec ale abychom nejedli stále to samé jsem koupil hovězí žebra a udělal jsem z těch žeber téměř to samé s tím rozdílem. že jsem je musel vařit asi 3 hodiny.
 
 Tudíž vidíte, že vařit některá jídla doma se nevyplatí a je lepší si zajít na ně do restaurace kde to máte bez práce, nemáte žádné zbytky a navíc nemusíte mýt nádobí.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

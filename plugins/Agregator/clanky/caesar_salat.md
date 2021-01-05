@@ -5,6 +5,8 @@
 
 # Suroviny a příprava Caesar salátu
 
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
+
 {kw="gastronomie"}
 
 První zajímavá věc na Caesar salátu je, že není americký, a že nemá nic společného s Juliem Caesarem. Americký název salátu _Caesar_ je chybný. Vynález tohoto salátu, kdysi populárního jen ve Spojených státech amerických, je přičítán italskému imigrantovi Livio Santinimu. Ten byl v roce 1925 kuchařem původní restaurace Caesara Cardinino v Tijuaně v Mexiku.
@@ -65,6 +67,24 @@ Plánováním akce se asi 4 měsíce dopředu zabývalo více než 120 studentů
 V Tijuaně je přes den velmi horko, a proto většina přípravných prací probíhala v noci před prezentací. Muselo se nakrájet 1.200 hlávek salátu, na minutu povařit 1.200 vajec a přidat je k ostatním surovinám dresinku. Dresink mimo jiné obsahoval 75,7 litrů olivového oleje, 53,2 kg citrónů, a 99,9 kilogramů strouhaného parmazánu.
 
 Z rodiny Santini bohužel nebyl nikdo přítomen. Na míchání salátu dorazil Alex Caesar Cardini III. a zástupci vlády, kteří museli potvrdit délku salátové mísy, váhy surovin a celkovou identitu této významné akce.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 
  [1]: /files/thumbs/clanky/caesar_salat/04-06-07-5.JPG
  [2]: /files/thumbs/clanky/caesar_salat/04-06-07-6.JPG

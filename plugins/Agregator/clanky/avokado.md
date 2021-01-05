@@ -1,9 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=209.html" data-image="/files/preview/clanky/avokado/general.jpg" data-type="article"}
 
-{ctime="2007-01-27" mtime="2019-03-28" id="avokado" author="Michael Klíma" short="Avokádo"}
+{ctime="2007-01-27" mtime="2019-03-28" data-top="931" id="avokado" author="Michael Klíma" short="Avokádo"}
 
 # Vše o avokádu
+
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="zbožíznalství, ovoce, zelenina"}
 
@@ -40,6 +42,24 @@ Tradiční zpracování avokáda se liší podle zemí a jejich zvyků. Napřík
 Avokádo zraje až po utrhnutí. Je to kvůli látkám v listech avokáda, které brání zrání. Nejlepší způsob, jak skladovat avokádo, je ponechat ho na stromě, na kterém vydrží až 7 měsíců.
 
 Skladování pod 4 °C nebo nad 21 °C způsobí kažení. Některé druhy se začnou kazit už při 7 °C. Ideální je nechat avokádo uzrát při pokojové teplotě (od 15 °C do 21 °C) a pak ho skladovat při teplotě 7 °C do doby použití.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 
  [1]: /zalivka_dresink
 

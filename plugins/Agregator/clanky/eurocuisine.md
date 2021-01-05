@@ -5,6 +5,8 @@
 
 # Budoucnost evropské kuchyně
 
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
+
 {kw="gastronomie, Evropa"}
 
 Evropa se může pochlubit hned několika dobrými kuchyněmi, které byly založeny na historii a tradicích zemí, ve kterých vznikly.
@@ -18,6 +20,24 @@ V EU vznikne úplně jiná kuchyně, která podle mě bude nejspíše nazývaná
 Příkladem _euroquisine {xml:lang="en"}_ je jídelní lístek [restaurace Steakgrill][1].
 
 Tvorbou jídelních lístků a studiem etnických kuchyní se zabývám již několik let. Situaci, ve které se evropská gastronomie nachází jsem předvídal. Proto jsem již před několika lety pražskému nakladatelství Grada nabídl více než 200stránkový rukopis zvaný _Tvorba jídelních lístků_. Grada rukopis odmítla s vyjádřením českých „odborníků“, že je to moc dlouhé a že „česká gastronomie k něčemu takovému ještě nedorostla“.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 
  [1]: https://www.steakgrill.cz/nabidka
 

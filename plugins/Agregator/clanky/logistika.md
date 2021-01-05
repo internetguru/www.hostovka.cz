@@ -5,7 +5,7 @@
 
 # Logistika
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="pohostinství"}
 
@@ -18,4 +18,22 @@ Dnes se logistika používá téměř ve všech odvětvích obchodu a průmyslu.
 Logistika je spojení jednotlivých aktivit v místě a čase.
 
 Taktiky logistiky v pohostinství, tak jako taktiky logistiky v armádách, jsou zaměřeny na úspěšné zakončení boje proti nepříteli. V pohostinství, i když se o tom tak nemluví, logistika je také nástroj v boji a to v boji o hosta a nepřítelem je konkurence. Boj o hosta, obzvláště toho zahraničního, je mnohdy velice tvrdý, a při vstupu do Evropského Společenství se tento boj může stát nemilosrdným. Úměrně k tomu se budou muset zcela změnit stávající taktiky marketingu přičemž jak jsme si řekli neúčinnějším nástrojem marketingu je jídelní lístek.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

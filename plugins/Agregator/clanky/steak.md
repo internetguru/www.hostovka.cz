@@ -1,15 +1,17 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=179.html" data-image="/files/preview/clanky/steak/general.jpg" data-type="article"}
 
-{ctime="2006-09-27" mtime="2019-08-13" id="steak" author="Michael Klíma" short="Steak"}
+{ctime="2006-09-27" mtime="2019-08-13" data-top="935" id="steak" author="Michael Klíma" short="Steak"}
 
 # Co je to steak
+
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="jídla a jídelní lístky, steak, telecí, hovězí"}
 
 Steak je nejvíce zneužívaný výraz v gastronomii. Steak může být i řez ryby, kuřete nebo jiné potraviny. Většinou se tím ale rozumí řez masa a není-li specifikováno jinak, tak hovězího.
 
-Hostovka není školou vaření, a proto jsem nepovažoval za nutné se zmiňovat o všech masech, ze kterých se steaky dají připravit. To hlavně proto, že technika přípravy je u všech druhů masa téměř stejná. Teď ale vidím že jsem něco zanedbal.
+Hostovka není školou vaření, a proto jsem nepovažoval za nutné se zmiňovat o všech masech, ze kterých se steaky dají připravit. To hlavně proto, že technika přípravy je u všech druhů masa téměř stejná. Teď ale vidím, že jsem něco zanedbal.
 
 {id="zkreslene\_povedomi\_o_steacich"}
 
@@ -51,7 +53,7 @@ Telecí maso je maso dobytčete, které je příliš mladé a příliš malé na
 
 Telecí maso obsahuje více vody než hovězí, ale je libovější což je pro některé lidi předností.
 
-V Americe jsou _vealers {xml:lang="en"}_ a _calves {xml:lang="en"}_ prodávány na váhu a podle pěti kvalitativních tříd stanovených federální vládou, ale tím si nebudeme lámat hlavu. Stačí, když budeme vědět, že maso nižší tříd je tenké a vodnaté a že dobré telecí maso musí být hutné a jeho barva musí být růžová až slabě šedá.
+V Americe jsou _vealers {xml:lang="en"}_ a _calves {xml:lang="en"}_ prodávány na váhu a podle pěti kvalitativních tříd stanovených federální vládou, ale tím si nebudeme lámat hlavu. Stačí, když budeme vědět, že maso nižších tříd je tenké a vodnaté a že dobré telecí maso musí být hutné a jeho barva musí být růžová až slabě šedá.
 
 {class="important"}
 
@@ -75,17 +77,23 @@ T-bone steak má své jméno odvozené od kosti ve tvaru písmene T, která jím
 ![veal chop][2] 
 :   veal chop
 
-{var="inputvar-faq_h" id="dotazy"}
+{id="dalsi" var="inputvar-pribuzne_h"}
 
 ## n/a
 
-{var="inputvar-faq_desc"}
-
 n/a
 
-{var="doclist-faq"}
+{var="inputvar-relation@var"}
 
-Seznam příbuzných dotazů není k dispozici
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 
  [1]: http://2017.hostovka.cz/soubor/27-09-06-5.JPG
  [2]: http://2017.hostovka.cz/soubor/27-09-06-6.JPG

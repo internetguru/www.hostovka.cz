@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=69.html" data-image="/files/preview/clanky/vykostovani/general.jpg" data-type="article"}
 
-{ctime="2005-08-29" mtime="2005-08-29" id="vykostovani" author="Michael Klíma" short="Vykosťování" authorid="hostovka/michael_klima"}
+{ctime="2005-08-29" mtime="2005-08-29" data-top="932" id="vykostovani" author="Michael Klíma" short="Vykosťování" authorid="hostovka/michael_klima"}
 
 # Vykosťování
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="kuchyňské techniky"}
 
@@ -15,9 +15,9 @@ Tomuto byly kdysi vyškoleni kuchaři případně číšníci, a tak zvaní carv
 
 Toto, pokud to bylo provedeno odborně, bylo jakýmsi zpestřením stolování v restauracích vyšších cenových skupin a bylo to velice nóbl.
 
-V moderní gastronomii se ale od dranšírování u stolů v restauraci upouští.
+V moderní gastronomii se ale od <a>dranšírování {var="definition-dranzirovani"}</a> u stolů v restauraci upouští.
 
-Při velkých bufetech je dranšírování velkých kusů masa či drůbeže stále ještě populární jednak proto, že je to velice atraktivní. ale také z ekonomických důvodů.
+Při velkých bufetech je <a>dranšírování {var="definition-dranzirovani"}</a> velkých kusů masa či drůbeže stále ještě populární jednak proto, že je to velice atraktivní. ale také z ekonomických důvodů.
 
 V Americe si dnes můžete objednat čerstvé pstruhy již vykostěné a to třeba i 5 tisíc kusů a všechny budou o váze vaši specifikace třeba i 283,5 gramů.
 
@@ -26,4 +26,22 @@ U nás ale se s něčím takovým zatím nesetkáme. Jednak těžko dostanete t�
 Ve většině lepších restaurací vám toho pstruha sice vykostí, ale já bych si mého pstruha vykosťovat nenechal protože i když ten číšník je zručný tak pokud jste u stolu dva nebo i více, tak v té době než toho vašeho pstruha dostanete tak je studený.
 
 Já vím, že se mi hned někdo ozve s tím, že v jejich restauraci se to stát nemůže protože toho pstruha přihřejí na stolním vařiči, ale já prostě bych si ho raději vykostil sám.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

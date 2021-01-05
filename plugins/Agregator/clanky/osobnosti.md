@@ -5,7 +5,7 @@
 
 # Osobnosti
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="koho se to týká"}
 
@@ -50,4 +50,22 @@ Michael Klima
 Jak vidíte z popisu mé osoby v úvodu do těchto stránek tak já jsem sice hodně namyšlený, což je více méně můj trade mark, protože já nevynechám ani jdenu příležitost abych se zviditelníl, ale není to nějaký B.S.,a proto bych chtěl touto cestou zdůraznit, že se za osobnost českého pohostisnví nepovažuji a že zmínky o mé osobě oddělení OSOBNOSTI na stránkách www.gastronews.cz jsou proti mé vůli.
 
 Michael (Mike) Klima
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

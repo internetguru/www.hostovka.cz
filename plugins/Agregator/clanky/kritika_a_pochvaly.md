@@ -5,7 +5,7 @@
 
 # Kritika a pochvaly
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="restaurace a servis"}
 
@@ -34,4 +34,22 @@ Doma (v Americe) si totiž postěžují jednou nebo dvakrát a potřetí jdou n�
 Američtí restauratéři se totiž naučili stížnostem předcházet tím, že se snaží hostům dát nejenom to co chtějí, ale také co jim patří. _What a country! {xml:lang="en"}_
 
 Problém v Česku byl zatím v tom, že málokterý host věděl co mu patří, ale nyní díky Hostovce se situace doufám změní a hosté si na ty nedostatky budou bez ostychu stěžovat.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

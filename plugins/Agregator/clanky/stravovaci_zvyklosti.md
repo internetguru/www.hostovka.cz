@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=176.html" data-image="/files/preview/clanky/stravovaci_zvyklosti/general.jpg" data-type="article"}
 
-{ctime="2006-09-17" mtime="2006-09-17" id="stravovaci\_zvyklosti" author="Michael Klíma" short="Stravovací zvyklosti" authorid="hostovka/michael\_klima"}
+{ctime="2006-09-17" mtime="2006-09-17" data-top="976" id="stravovaci\_zvyklosti" author="Michael Klíma" short="Stravovací zvyklosti" authorid="hostovka/michael\_klima"}
 
 # Stravovací zvyklosti
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="gastronomie"}
 
@@ -210,4 +210,22 @@ Stravovací zvyklosti a chutě jsou důležitým faktorem při tvorbě jídelní
 Při tvorbě restauračních jídelních lístků musíme mít na mysli tradice, chutě a stravovací zvyklosti klientely které jsou naše jídelní lístky určeny.
 
 Stravovací zvyklosti a tradice některých národů a etnických skupin se vyvinuly ze základních surovinových možností. Tyto zvyklosti a tradice byly do značné míry ovlivněny stupněm znalosti správné výživy a případně náboženskými a jinými zásadami. Dnes ale tyto tradice a dokonce i některá náboženská omezení, která v zásadě nebyla nic jiného než jakási gastronomická pravidla, která vycházela z tehdejších znalostí o správné výživě, upadají v zapomenutí.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

@@ -5,6 +5,8 @@
 
 # Ruská polévka boršč
 
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
+
 {kw="jídla a jídelní lístky, polévky, recept, Rusko"}
 
 Boršč je ruská [polévka][1], která je považovaná za jednu z nejlepších polévek na světě. Díky tomu existuje i několik verzí polévky. Tradiční boršč je připravován z červené řepy, která se vaří v silném masitém vývaru s cibulí a se zelím, okořeněná pepřem a kmínem.
@@ -81,7 +83,7 @@ Potřebné suroviny:
 
 Postup přípravy:
 
-  1. Maso vložíme do studené vody a vaříme do studené vody a vaříme do změknutí.
+  1. Maso vložíme do studené vody a vaříme do změknutí.
   2. Očištěnou červenou řepu nakrájíme na nudličky, dáme ji na polovinu dávky sádla a podlijeme troškou vývaru. Přidáme rajčatový protlak, ocet a dusíme tak jako při přípravě boršče moskevského.
   3. Stejně připravíme a podusíme zeleninu s cibulí.
   4. Přidáme na nudličky nakrájené zelí a brambory spolu s vývarem, bobkovým listem, pepřem, solí a cukrem a vaříme s jíškou asi 20 minut (pozor, aby se brambory nerozvařily).
@@ -119,7 +121,9 @@ Suroviny na knedlíčky:
   * 1 vejce,
   * voda,
   * mletý pepř,
-  * sůl. Postup přípravy:
+  * sůl.
+
+Postup přípravy:
 
   1. Nejdříve si připravíme knedlíčky. Hovězí a vepřové maso umeleme na masovém strojku s cibulí, smícháme s vejcem, osolíme, opepříme a tvoříme knedlíčky velkosti vlašských ořechů, které povaříme 10 minut ve vroucí vodě a dáme stranou.
   2. Potom očistíme červenou řepu, nakrájíme ji na nudličky a dáme ji na polovinu dávky rozpáleného másla. Přidáme rajčatový protlak a ocet, podlijeme vývarem a dusíme zakryté do měkka.
@@ -127,6 +131,24 @@ Suroviny na knedlíčky:
   4. Pak přidáme vařené fazole a třený česnek, zahustíme světlou jíškou a dalších 15 minut povaříme.
   5. Nakonec vložíme do polévky připravené knedlíčky, podušenou řepu, na plátky nakrájenou šunku a krátce povaříme.
   6. Smetanu podáváme zvlášť.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 
  [1]: /druhy_polevek
 

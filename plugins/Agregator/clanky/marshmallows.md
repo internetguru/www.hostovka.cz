@@ -5,6 +5,8 @@
 
 # Cukroví marshmallows
 
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
+
 {kw="jídla a jídelní lístky, cukroví, Amerika, recept"}
 
 _Marshmallows {xml:lang="en"}_ je cukroví, jenž pochází až ze starého Egypta. Dělalo z medového základu zahuštěného šťávou z kořene rostliny zvané proskurník lékařský (anglicky _marsh mallow {xml:lang="en"}_).
@@ -37,4 +39,22 @@ Pokud byste si chtěli _marshmallows {xml:lang="en"}_ někdy udělat sami, tak v
  12. Kostičky obalíme práškovým cukrem, aby se nelepily.
 
 Pokud se vám _marshmallow {xml:lang="en"}_ povedlo, tak ho můžete dělat na kšeft. Pokud ne, tak to vyhoďte a pokuste se o to znovu.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

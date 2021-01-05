@@ -1,13 +1,13 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=56.html" data-image="files/preview/clanky/krabi/general.jpg" data-type="article"}
 
-{ctime="2005-08-05" mtime="2019-02-19" id="krabi" author="Michael Klíma" short="Krabi"}
+{ctime="2005-08-05" mtime="2019-02-19" data-top="991" id="krabi" author="Michael Klíma" short="Krabi"}
 
 # Druhy a příprava krabů
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
-{kw="jídla a jídelní lístky, recepty, krabi"}
+{kw="jídla a jídelní lístky, recept, krabi"}
 
 Každý krab pochází z relativně velké rodiny. Krabí samice, která byla oplodněna krabím samcem (v době, kdy byla nahá bez krunýře), po nějaké době snese několik miliónů vajíček. Tato vajíčka vytvoří oranžovou hmotu, která je přichycena ke spodnímu krunýři samice po dobu asi patnácti dnů. Poté se každé vajíčko stane volně plovoucí „lahůdkou“.
 
@@ -41,6 +41,14 @@ Pak jsem nazdvihl obě postranní chlopně a odstranil jsem houbovité žebroví
 
 Příprava krabů na grilu je nejenom jednoduchá, ale velice rychlá. Předpokládám, že ve většině případů budete používat hlavně kraby zmražené a již očištěné. Pokud byste ale chtěli použít kraby čerstvé, tak je musíte zabít a očistit a pak je teprve můžete marinovat v níže popsané marinádě.
 
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
+
 {id="pojidani\_a\_skladovani_krabu"}
 
 ## Pojídání a skladování krabů
@@ -52,4 +60,22 @@ Pojídání krabů, hlavně těch velkých, není žádná věda. Po skončení 
 Ve většině restaurací vám vanu sice nepřinesou, ale podávají kraby s už rozdrcenými klepety. Někteří labužníci dávají přednost tomu, že si klepeta rozlousknou sami. V tom případě vám podají louskáček na klepeta a případně i malý bryndáček, abyste si nepotřísnili kravatu.
 
 Skladování krabů je jednoduché. Živé kraby přikryjeme vlhkou utěrkou a uložíme v chladném místě kde nám vydrží až 12 hodin. Dříve než je začneme vařit, tak se přesvědčíme, zda se ještě hýbou (zda jsou živí). Vařit mrtvé kraby je dosti riskantní byznys. Nakonec i vaření krabi by se měli spotřebovat ten den, kdy byli uvařeni.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

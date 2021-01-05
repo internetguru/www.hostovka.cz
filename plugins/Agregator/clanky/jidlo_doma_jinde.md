@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=189.html" data-image="/files/preview/clanky/jidlo\_doma\_jinde/general.jpg" data-type="article"}
 
-{ctime="2006-11-10" mtime="2006-11-10" id="jidlo\_doma\_jinde" author="Michael Klíma" short="Jídlo doma a jinde" authorid="hostovka/michael_klima"}
+{ctime="2006-11-10" mtime="2006-11-10" data-top="934" id="jidlo\_doma\_jinde" author="Michael Klíma" short="Jídlo doma a jinde" authorid="hostovka/michael_klima"}
 
 # Doma jez co máš a jinde co ti dají
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="gastronomie"}
 
@@ -78,4 +78,22 @@ No a teď se ale nemůžete divit, že já jsem všemi těmi technikami rychlé 
 Nemám ale na mysli jen výše zmíněné řetězce fast food, ale i restaurace, u nás známé jako "zážitkové", ve kterých tím hlavním zážitkem jsou jídla která se sice připravují moderními rychlými technikami, ale ve kterých je host může vychutnat v příjemném prostředí spolu s jeho oblíbeným pivem nebo vínem.
 
 Takovými restauracemi jsou dnes na západě tak zvané STEAKHOUSES, neboli restaurace ve kterých se připravují hlavně steaky a proto jsem vypracoval koncept typického amerického STEAKHOUSE, který ale je přizpůsoben možnostem evropského a východoevropského trhu který vám příležitostně popíši.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

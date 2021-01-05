@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=248.html" data-image="/files/preview/clanky/citrony/general.jpg" data-type="article"}
 
-{ctime="2007-08-29" mtime="2019-03-29" id="citrony" author="Michael Klíma" short="Citróny"}
+{ctime="2007-08-29" mtime="2019-03-29" data-top="997" id="citrony" author="Michael Klíma" short="Citróny"}
 
 # Citróny
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="zbožíznalství"}
 
@@ -102,6 +102,24 @@ Jeden průměrný citrón dá jednu lžíci citrónové kůry (anglicky _lemon z
 {class="example"}
 
 Pokud potřebujete jen několik kapek citrónové šťávy, tak stačí kůru citrónu propíchnout párátkem a šťávu vymačkat. K uchování citrónu pak stačí vpíchnout párátko do stejného otvoru, citrón dát do plastikového sáčku a uložit v lednici.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 
  [1]: https://books.google.com/books?id=2ZtMAQAAMAAJ&lpg=PA3087&ots=yCc1RK3bQK&dq=usa%20lemon%20sizes%20252%2C%20300%2C%20360%2C%20432%2C%20490%2C%20a%20588&hl=cs&pg=PA3087#v=onepage&q=usa%20lemon%20sizes%20252,%20300,%20360,%20432,%20490,%20a%20588
 

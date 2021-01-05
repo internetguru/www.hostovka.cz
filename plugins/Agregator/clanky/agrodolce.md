@@ -5,7 +5,7 @@
 
 # Sladkokyselá omáčka agrodolce
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="gastronomie, recept, omáčka, Francie"}
 
@@ -31,4 +31,22 @@ Podobná populární sladkokyselá omáčka _aigre-doux_ se připravuje ze směs
 {class="example"}
 
 Anglický název _sweet and sour_, se ve většině případů vztahuje k čínským jídlům.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

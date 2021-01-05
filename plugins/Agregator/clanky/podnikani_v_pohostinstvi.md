@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=357.html" data-image="/files/preview/clanky/podnikani\_v\_pohostinstvi/general.jpg" data-type="article"}
 
-{ctime="2008-07-25" mtime="2008-07-25" id="podnikani\_v\_pohostinstvi" author="Michael Klíma" short="Podnikání v pohostinství" authorid="hostovka/michael_klima"}
+{ctime="2008-07-25" mtime="2008-07-25" data-top="927" id="podnikani\_v\_pohostinstvi" author="Michael Klíma" short="Podnikání v pohostinství" authorid="hostovka/michael_klima"}
 
 # Podnikání v pohostinství
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="gastronomie"}
 
@@ -287,4 +287,22 @@ Musitíte ale vědět co hosté nemají rádi, musíte umět dát lidem to co ch
 Bylo to sice velké riziko, ale ukázalo se, že jsem vsadil na správného koně. Můj protežé, Jaroslav Honzajk, majitel velice úspěšného kncetptu STEAGRILL je dnes pro své odborné znalsti již respektovaným odborníkem který je schopen poradit i jiným, tak pokud potřebujete pomoc s vašim případným záměrem, tak se na něj obraťte na: honzajk@honzajk.cz, Tel.: + 420 777 72 73 62
 
 Jarda se ale drží mého kréda, že když Váš záměr má předpoklady úspěchu že Vám ho pomůže přivézt k úspěšnému konci a pokud ne, že Vám ho za pár korun rozmluví.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

@@ -5,6 +5,8 @@
 
 # Koncept jídelního emporia
 
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
+
 {kw="co-kdy-kde"}
 
 Jídelní emporium (anglicky _food floor {xml:lang="en"}_ nebo dokonce i _gourmet floor {xml:lang="en"}_) je seskupení několika restaurací, lépe řečeno jednotek rychlého občerstvení, s odlišným sortimentem jídel na jednom místě. Zpravidla se nachází v obchodním centru nebo supermarketu, ve kterém restaurace využívají jídelnu ve společném prostoru.
@@ -40,4 +42,22 @@ Nevýhody u tohoto konceptu v zásadě nejsou. Například skutečnost, že jedn
 Největší výhodou z pohledu provozovatele je podle mě velmi jednoduchá likvidace jednotky, která nevykazuje předpokládané tržby a její nahrazení jednotkou jinou.
 
 Zas tak jednoduché to ale není. Každá jednotka musí mít vypracovaný podrobný manuál, ve kterém je přesně stanoven každý krok a každý detail pracovního postupu. Tomu se v Americe říká, že vše musí být _idiot proof {xml:lang="en"}_, neboli že po krátkém zacvičení může práci vykonávat kdekdo. Vypracování takového manuálu vyžaduje nejenom odborné znalosti a čas, ale i zkušenost.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

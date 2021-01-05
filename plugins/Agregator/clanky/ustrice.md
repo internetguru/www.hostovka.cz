@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=47.html" data-image="/files/preview/clanky/ustrice/general.jpg" data-type="article"}
 
-{ctime="2005-07-26" mtime="2005-07-26" id="ustrice" author="Michael Klíma" short="Ústřice" authorid="hostovka/michael_klima"}
+{ctime="2005-07-26" mtime="2005-07-26" data-top="962" id="ustrice" author="Michael Klíma" short="Ústřice" authorid="hostovka/michael_klima"}
 
 # Ústřice
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -103,4 +103,22 @@ osminky citrónu
 :   12
 
 Troubu předehřejeme na 190°C. Ústřice opatrně otevřeme, vlastní šťávu zachytíme a dáme stranou. Vrchní lasturu odstraníme, ústřice oddělíme od spodní, hlubší lastury ke které jsou přirostlé, a dáme stranou. Spodní lastury opereme a ústřice do lastur vrátíme. Strouhanou housku smícháme s jemně sekanou petrželkou, solí a cayenským pepřem. Směs rozdělíme stejnoměrně na připravené ústřice, pokapeme zachycenou šťávou, posypeme parmazánem, pokapeme máslem a pečeme v předehřáté troubě dozlatova. Podáváme velmi horké s citrónem nakrájeným na osminky.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

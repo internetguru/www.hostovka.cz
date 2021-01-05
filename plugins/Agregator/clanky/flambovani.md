@@ -1,95 +1,100 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=125.html" data-image="/files/preview/clanky/flambovani/general.jpg" data-type="article"}
 
-{ctime="2005-12-12" mtime="2005-12-12" id="flambovani" author="Michael Klíma" short="Flambování" authorid="hostovka/michael_klima"}
+{ctime="2005-12-12" mtime="2020-01-05" data-top="939" id="flambovani" author="Michael Klíma"}
 
-# Flambování
+# Flambování a jeho nevýhody
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
-{kw="gastronomie"}
+{kw="gastronomie, Francie, Amerika, recept"}
 
-V době popularity tak zvaného francouzského servisu bylo dranšírování, dohotovování jídel u stolu a flambování velice populární.
+Pokud víte, co děláte, tak se dá flambovat v zásadě cokoliv. Oblíbené jsou hořící špízy a meče. To ani nevyžaduje velké odborné znalosti a je to spíše líbivá show.
 
-Já sice nejsem přítelem flambování, ale jako studenti Hostovky byste o této technice měli něco vědět.
+V době popularity takzvaného francouzského servisu bylo [dranžírování][1], dohotovování jídel u stolu a flambování velmi populární. Osobně sice nejsem příznivcem flambování, ale jako studenti Hostovky byste o této technice měli něco vědět.
 
-Přesto, že o technikách flambování bylo napsáno mnoho knih tak ani jedna z těchto technik se dlouho neuchytila a v dnešní uspěchané době v tak zvané době "skupin" se praktikuje již jen v několika málo českých rádoby-francouzských restauracích.
-
-Bohužel v těchto českých restauracích ve kterých flambování ještě praktikují si neuvědomují, že flambování vyžaduje určitou zručnost a praxi.
-
-V některých těchto restauracích nemají s flambováním vůbec žádné zkušenosti, ale přesto ho nabízí jednak proto, že si myslí, že je to módní, ale hlavně proto, aby cena použité lihoviny mohla být k jídlu připočítána a tím zvýšen obrat, což se zdánlivě zdá být velice výhodné, ale ve skutečnosti pravý opak je pravdou protože opravdový gurmán by si u stolu některé třeba I dobré jídlo nenechal flambováním zruinovat.
-
-Základním požadavkem přípravy jídel je zkrátit dobu mezi dohotovením jídla a dobou jeho podávání na minimum.
-
-Jedna z možností která se nabízela bylo připravovat jídlo u stolu, nebo přímo na stole.
-
-Flambování některých jídel při jejich přípravě v kuchyni má mnohdy své opodstatnění, ale podle mého názoru flambování u stolu je jen snobizmus a někdo by mně musel přesvědčit o opaku.
-
-Mohu vás ale ubezpečit, že ze mě nemluví ignorance, jednak proto, že jsem vyučený jak kuchařem tak i číšníkem a ve svém životě jsem flamboval dost jídel k tomu abych věděl o čem mluvím.
-
-V případech, že obsluhující neví, co dělá, se místo toho, aby se doba od výroby jídla do doby jeho podávání zkrátila na minimum, se naopak prodlouží, a kvalita jídla se většinou zhorší.
-
-Nevýhodou flambování totiž také je, že při větším počtu stolovníků, z nichž každý si objednal jiné flambované jídlo, se servis značně zpomalí a to na kvalitě těch jídel také moc nepřidá.
-
-Podle společenského protokolu by totiž žádný ze stolovníků neměl začít jíst dříve než je podáno jídlo všem. Tudíž pokud je několik stolovníků a každý z nich si objedná něco jiného, tak než číšník dohotoví to poslední jídlo, tak to prvé je úplně studené.
-
-O tom, že ve většině případů, díky nesprávné volbě flambovací lihoviny nebo při nesprávném postupu, se dané jídlo spíše znehodnotí než zlepší, ani nemluvě.
-
-Flambovat, pokud víte co děláte, se může v zásadě cokoliv.
-
-Velice oblíbené jsou hořící špízy či meče, což ale žádné velké odobné znalosti nevyžaduje.
-
-Nedá se říci, že by to nějak ovlivnilo dané jídlo, nicméně je to líbivé show.
+Přesto, že o technikách flambování bylo napsáno mnoho knih, tak se ani jedna z těchto technik dlouho neuchytila. V dnešní uspěchané době se praktikuje již jen v několika málo českých rádoby francouzských restauracích.
 
 {id="kdo\_by\_mel\_byt\_flambovanim_poveren"}
 
 ## Kdo by měl být flambováním pověřen
 
-Zdá se, že odborníci v tomto nemají zcela jasno. Jedni tvrdí, že flambováním by měl být pověřen kuchař, ale jelikož se jedná o flambování v jídelně tak druzí zastávaji názor, že by flambovat by měl některý číšník nebo Maître d'Hôtel.
+Zdá se, že v tomto směru nemají odborníci zcela jasno. Jedni tvrdí, že by flambováním měl být pověřen kuchař. Druzí zastávají názor, že by měl flambovat číšník. Proto se to v některých restauracích řeší tak, že je flambováním pověřen číšník s kuchařskou čepicí. To slouží zároveň pro pobavení hostů.
 
-Proto v některých restauracích to řeší tak že flambováním je pověřen číšník s kuchařskou čepicí, což je zároveň pro pobavení hostů.
-
-V mnoha případech, podobně jako u těch fre style barmanů žonglerů a komdiantů, i v tomto případě to mnohdy s odobrností nemá co společného, nicméně někteří lidé tomu říkají "zážitková gastronomie".
-
-{id="flambovani_moucniku"}
-
-## FLAMBOVÁNÍ MOUČNÍKŮ
+V mnoha případech to s odborností nemá nic společného. Nicméně tomu někteří lidé říkají [zážitková gastronomie][2].
 
 Při flambování moučníků je situace o něco lepší, ale i zde by mělo být snahou připravovat stejný moučník pro celou společnost.
 
-Jedním nejpopulárnějším flambovaným moučníkem jsou flambované palačinky známé jako Crêpes.
+{id="nevyhody_flambovani"}
 
-Crêpe je francouzský název pro velice jemnou a tenkou palačinku ze směsi vajec, mléka, mouky, cukru a špetky soli.
+## Nevýhody flambování
 
-Pro zjemnění se do těsta někdy přidává smetana a případně koňak nebo brandy.
+Bohužel v českých restauracích, ve kterých flambování ještě praktikují, si neuvědomují, že správné flambování vyžaduje určitou zručnost a praxi. V některých restauracích flambování praktikují přesto, že s ním nemají vůbec žádné zkušenosti.
 
-Crêpe se běžně překládá do češtiny jako palačinka, ale klasická francouzská jídla jako jsou například crêpes Suzette, si zaslouží být uváděna na lísku pod jejich původními názvy protože palačinky flambované v Grand Marniere s pomerančovou šťávou je sice jejich přesný popis v češtině, ale příliš dlouhý, a nikomu nic neříká.
+Dnešní restaurace flambování nabízejí jednak proto, že si myslí, že je to moderní. Hlavně ovšem proto, aby cena použité lihoviny mohla být připočítána k jídlu a tím zvýšen obrat. To se zdánlivě zdá být velmi výhodné, ale ve skutečnosti je pravdou pravý opak. Opravdový [gurmán][3] by si u stolu nenechal dobré jídlo flambováním zruinovat.
 
-Flambování palačinek je jakýsi obřad který je zakončen vzplanutím alkoholu ve kterém jsou palačinky flambobované, což ve většině případů je Grand Marniere.
+Základním požadavkem přípravy jídel je zkrátit dobu mezi dohotovením jídla a dobou jeho podávání na minimum. Jedna z možností, která se nabízela, bylo připravovat jídlo u stolu nebo přímo na stole.
 
-V Americe mimo Crêpes Suzette neznámějšími flambovanými moučníky jsou Bnanas Foster a Cerries Jubilé.
+Flambování některých jídel (při jejich přípravě v kuchyni) má mnohdy své opodstatnění. Podle mého názoru je ale flambování u stolu jen [snobizmus][4] a někdo by mě musel přesvědčit o opaku.
+
+Mohu vás ale ubezpečit, že ze mě nemluví ignorance. Jsem vyučený kuchařem i číšníkem a ve svém životě jsem flamboval dost jídel k tomu, abych věděl o čem mluvím.
+
+{class="important"}
+
+Pokud obsluhující neví co dělá, tak se flambováním doba od výroby jídla do jeho podání prodlouží místo toho, aby se naopak zkrátila na minimum. Kvalita jídla se tím ve výsledku většinou zhorší.
+
+Nevýhodou flambování totiž také je, že při větším počtu stolovníků, z nichž si každý objednal jiné flambované jídlo, se servis značně zpomalí. To na kvalitě jídel také moc nepřidá.
+
+Podle společenského protokolu by žádný ze stolovníků neměl začít jíst dříve, než je podáno jídlo všem. Pokud je tedy několik stolovníků a každý z nich si objedná něco jiného, tak než číšník dohotoví poslední jídlo, tak je to první už úplně studené.
+
+{id="flambovane\_palacinky\_crepes"}
+
+## Flambované palačinky Crêpes
+
+Jedním z nejpopulárnějších flambovaných moučníků jsou flambované palačinky známé jako _Crêpes {xml:lang="fr"}_. _Crêpe {xml:lang="fr"}_ je francouzský název pro velice jemnou a tenkou palačinku ze směsi vajec, mléka, mouky, cukru a špetky soli. Pro zjemnění se do těsta někdy přidává smetana a případně koňak nebo brandy.
+
+_Crêpe {xml:lang="fr"}_ se běžně překládá do češtiny jako palačinka. Klasická francouzská jídla, jako je například _Crêpes Suzette {xml:lang="fr"}_, si zaslouží být uváděna na lísku pod jejich původními názvy. Palačinky flambované v _Grand Marnier {xml:lang="fr"}_ s pomerančovou šťávou je sice jejich přesný popis v češtině, ale je příliš dlouhý a nikomu nic neříká.
+
+Flambování palačinek je jakýsi obřad, který je zakončen vzplanutím alkoholu, ve kterém jsou palačinky flambované. V Americe jsou neznámějšími flambovanými moučníky _Bananas Foster {xml:lang="en"}_ a _Cerises Jubilé {xml:lang="fr"}_.
 
 {id="bananas_foster"}
 
-## Bananas Foster
+## Vznik moučníku Bananas Foster
 
-V padesátých letech Nový Oreáns byl hlavní přístav kterým do Ameriky byly dováženy banány z Jižní Ameriky.
+V padesátých letech byl _New Orleans {xml:lang="en"}_ hlavní přístav, kterým byly do Ameriky dováženy banány z Jižní Ameriky. _Owen Edward Brennan {xml:lang="en"}_, majitel velmi populární restaurace, vybídl svého talentovaného šéfkuchaře _Paula Blanné {xml:lang="fr"}_ k vytvoření nové banánové kreace.
 
-Owen Edward Brennan, majitel velice populární restaurace, vybídl svého talentovaného šéfkuchaře Paula Blanné k vytvoření nějaké banánové kreace
+V roce 1951 přišel šéf _Paul {xml:lang="en"}_ s receptem, kterým se neproslavil jen on, ale i restaurace _Brennan {xml:lang="en"}_, kde se teď flambuje 16 kg banánů denně.
 
-V roce 1951 šéf Paul s receptem kterým se neproslavil jen on, ale I restaurace Brennan kde se teď flambuje 35 liber banánů denně
+Osobně jsem banány v této restauraci ochutnal v roce 1971, tedy 20 let po jejich vynálezu. Přesto, že nejsem velkým přítelem flambování, musím říci, že byly vynikající.
 
-Já jsem tyto banany v restauraci ochutnal asi tak v roce 1971, což bylo asi tak 20 let po jejich vynálezu a přesto, že nejsem velkým přítelem flambování musím říci, že byly vynikající.
+{id="cherries_jubilee" xml:lang="en"}
 
-{id="cherry_jubile"}
+## Cherries jubilee a flambované nápoje
 
-## CHERRY JUBILÉ
+_Cherries jubilee {xml:lang="en"}_ jsou flambované černé třešně. Podávají se horké a pokud možno ještě hořící, položené na vanilkové zmrzlině. Je to jeden z nejjednodušších flambovaných moučníků, takže jsem je měl na jídelním lístku téměř ve všech restauracích, kde jsem pracoval.
 
-Cherry Jubilé jsou flambované černé třešně které se podávají horké, a pokud možno ještě hořící na vanilkové zmrzlině.
+Ovocem ale flambování nekončí, flambovat se mohou i nápoje. Jedním z nejpopulárnějších flambováných nápojů je _Café Brulot {xml:lang="fr"}_. Flambované kávy jsou obzvláště populární v Jižní Americe.
 
-Je to jeden z nejednodušších flambovaných moučníků takže jsem je měl na jídelním lístku téměř ve všech restauracích ve kterých jsem pracoval a docela mně udivuje, že ho v Česku, kde flambování je ještě ve velké oblibě, ještě nikdo neobjevil.
+{id="dalsi" var="inputvar-pribuzne_h"}
 
-Ovocem ale flambování nekončí, flambovat se mohou i nápoje.
+## n/a
 
-Jedním z nejpopulárnějších flambováných nápojů je café brulé. Flambované kávy jsou obzvláště populární v Jižní Americe.
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
+
+ [1]: jevistni_kuchyne#dranzirovani_a_sotyrovani
+ [2]: zazitkova_gastronomie
+ [3]: gastronomove#gurman
+ [4]: gastronomove#snob
 

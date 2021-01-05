@@ -5,6 +5,8 @@
 
 # Pařížské Anna brambory
 
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
+
 {kw="jídla a jídelní lístky, brambory, Francie, recept"}
 
 Anna brambory, francouzsky _Pommes Anna {xml:lang="fr"}_, anglicky _Anna potatoes {xml:lang="en"}_, jsou podle mnohých údajně výtvor pana _Dugléré {xml:lang="fr"}_, kuchaře ve známé restauraci _Café Anglaise {xml:lang="fr"}_ na ulici _Lafitte {xml:lang="fr"}_ v Paříži.
@@ -16,6 +18,24 @@ Mnoho slavných žen jménem Anna bylo určitě poctěno vědomím, že brambory
   3. Následně brambory dozlatova upečeme v horké troubě.
 
 Anna brambory si získaly větší popularitu než měla _Anna Deslions {xml:lang="fr"}_. Její popularita zanikla díky popularitě mnohých dalších kolegyň, ale brambory pojmenované podle ní se ještě dodnes objevují na jídelních lístcích mnoha mezinárodních restauracích. Díky jejich oblibě se připravují i pro [bankety][1] nebo jiné společenské akce.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 
  [1]: /banket
 

@@ -1,9 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=46.html" data-image="/files/preview/clanky/plody_more/general.jpg" data-type="article"}
 
-{ctime="2005-07-22" mtime="2019-06-25" id="plody_more" author="Michael Klíma"}
+{ctime="2005-07-22" mtime="2019-06-25" data-top="982" id="plody_more" author="Michael Klíma"}
 
 # Plody moře a krevetky
+
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="jídla a jídelní lístky, krevetky"}
 
@@ -19,7 +21,7 @@ Názvy v cizích řečech zmiňuji hlavně proto, že na zájezdech do zahranič
 
 Kdo se neptá, nic se nedozví! „Maminko, co je to?“ ptala se v jednom pražském supermarketu asi desetiletá holčička maminky, přičemž ukazovala na plody moře vystavené na rybím pultě. „To jsou takové mořské potvory,“ odpověděla maminka a dodala: „A neotravuj a pojď.“
 
-Bylo to krátce po sametové revoluci. Tehdy se toho u nás o plodech moře moc nevědělo. Takže jsem se paní nedivil, a nakonec jsem jí dal tak trochu kredit za to, že své dceři dala alespoň nějakou odpověď.
+Bylo to krátce po sametové revoluci. Tehdy se toho u nás o plodech moře moc nevědělo. Takže jsem se paní nedivil a nakonec jsem jí dal tak trochu kredit za to, že své dceři dala alespoň nějakou odpověď.
 
 Paní ale nebyla daleko pravdy. Plody moře totiž mají jednu základní charakteristiku a sice, že jsou drahé jako potvory. To je ale jediné, co mají s potvorami společného.
 
@@ -139,6 +141,32 @@ Tyto ocásky přichází na trh většinou mrazené a po rozmrazení je manipula
 Vařené, loupané a odžilněné ocásky jsou z uvedených druhů nejdražší, protože je v ceně zakalkulováno nejenom jejich loupání ale i vaření. Pro domácnost jsou tyto ocásky zcela neekonomické, protože cenový rozdíl mezi ocásky a neloupanými syrovými ocásky je markantní.
 
 Ve velkých restauračních provozech, kde náklady na mzdy jsou rozhodujícím faktorem, a ve kterých používají vařených ocásků velké množství, se ale vyplatí tyto ocásky kupovat. Představují úsporu času jak čištěním, tak i vařením. Nezanedbatelnou úsporou je i úspora místa pro skladování.
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 
  [1]: /krabi
  [2]: /musle

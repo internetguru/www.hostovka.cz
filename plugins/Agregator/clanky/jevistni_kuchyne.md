@@ -5,6 +5,8 @@
 
 # Prezentace jídel před zraky hostů
 
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
+
 {kw="gastronomie, prezentace"}
 
 Jevištní kuchyně (anglicky _stage kitchen {xml:lang="en"}_) neboli kuchyně, do které hosté mohou kdykoliv nahlédnout, je nejen praktická, ale v poslední době také velmi oblíbená.
@@ -13,7 +15,7 @@ Jevištní kuchyně (anglicky _stage kitchen {xml:lang="en"}_) neboli kuchyně, 
 
 ## Výhody jevištní kuchyně
 
-Pro hosty je tento typ [prezentace jídel][1] součástí zábavy, nebo chcete-li [zážitkovou gastronomií][2]. Host se cítí do přípravy svého jídla do jisté míry zapojen, protože má možnost si vybrat potraviny a dochucení podle své preference. To ale také předpokládá, že má host alespoň nějaké základní znalosti o surovinách a technologiích přípravy jídel.
+Pro hosty je tento typ [prezentace jídel][1] součástí zábavy nebo chcete-li [zážitkovou gastronomií][2]. Host se cítí do přípravy svého jídla do jisté míry zapojen, protože má možnost si vybrat potraviny a dochucení podle své preference. To ale také předpokládá, že má host alespoň nějaké základní znalosti o surovinách a technologiích přípravy jídel.
 
 {class="important"}
 
@@ -27,15 +29,33 @@ Na [brunchích][3] jsou takto podávané hlavně lívance připravované na grid
 
 ## Dranžírování a sotýrování
 
-Typickou technikou jevištní kuchyně je dranžírování (anglicky _carving {xml:lang="en"}_). Pečená masa nebo drůbež se dranžírují (krájí) na porce dle přání hostů. To je jednak velmi atraktivní, ale také i praktické, protože se tím předchází zbytečným zbytkům.
+Typickou technikou jevištní kuchyně je <a>dranžírování {var="definition-dranzirovani"}</a> (anglicky _carving {xml:lang="en"}_). Pečená masa nebo drůbež se <a>dranžírují {var="definition-dranzirovani"}</a> (krájí) na porce dle přání hostů. To je jednak velmi atraktivní, ale také i praktické, protože se tím předchází zbytečným zbytkům.
 
 {class="example"}
 
-Na [brunchích][3] se dranžíruje například pečené hovězí nebo vepřové maso, celá krůta nebo krůtí prso, pečená šunka, skopová kýta, ale i velká ryba.
+Na [brunchích][3] se <a>dranžíruje {var="definition-dranzirovani"}</a> například pečené hovězí nebo vepřové maso, celá krůta nebo krůtí prso, pečená šunka, skopová kýta, ale i velká ryba.
 
 Mnohdy se dranžér nachází až na konci bufetové linky, což má praktický, lépe řečeno psychologický a ekonomický důvod. Host, který prochází kolem bufetové linky si na talíř nandá napřed porcovanou drůbež, dušeniny, ryby, těstovinová a zeleninová jídla a případně přílohy. V době, kdy dojde k dranžérovi, nemá na maso již téměř žádné místo.
 
 [Sotýrování][4] (od francouzského _sauté {xml:lang="fr"}_), je odborný slang. Je to takzvané smažení nebo přehazování v pánvi.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 
  [1]: /prezentace_jidel
  [2]: /modni_pojmy

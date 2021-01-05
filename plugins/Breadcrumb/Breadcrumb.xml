@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Breadcrumb>
-  <var id="logo">/files/glass-martini-alt-solid.png</var>
+  <var id="logo"><span class="fas fa-fw fa-2x fa-wine-glass-alt">i</span><span>Hostovka</span></var>
+  <var id="reset">Výchozí filtr</var>
 <!--   <var id="homeTitle">Na domovskou stránku</var> -->
 </Breadcrumb>

@@ -5,7 +5,7 @@
 
 # Po národ
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="o čem se mluví"}
 
@@ -34,4 +34,22 @@ Nemusím Vám ale asi říkat, že to určitě nenapsal žádný cizinec, ale Č
   * po volbách.
 
 Češi podle mně neustále čekají na něco, co ale bez práce samo nepřijde. Odkládání úkolů na dobu po neděli, po svátcích, po velikonocích, po prázdninách, po dovolené, po Vánocích, po Novém roce, a nevím po čem ještě, je pro Čechy typické a samozřejmé, ale pro celý západní svět nepochopitelné.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

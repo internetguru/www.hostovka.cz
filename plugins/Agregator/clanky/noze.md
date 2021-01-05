@@ -5,6 +5,8 @@
 
 # Vše o nožích
 
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
+
 {kw="stroje a náčiní, nože, výroba nožů, broušení, ostření, ocílka"}
 
 Lidé si myslí, že nůž je nůž, ale jen na samotné maso jich existuje tolik, že bych u toho strávil zbytek mládí, než bych vám je všechny popsal. Nožů na maso, takzvaných řeznických (anglicky _butcher's knives {xml:lang="en"}_) je nekonečná řada. To samé platí o kuchařských nožích (anglicky _chef's knives {xml:lang="en"}_), které se navíc dělí na maso syrové a maso vařené.
@@ -84,6 +86,14 @@ Ocílek je několik druhů, a to většinou ocelových, ale existují i ocílky 
   3. Kořen nože nasadíme na špičku ocílky a při mírném tlaku nůž vedeme proti ostří na konec ocílky tak, abychom skončili u špičky nože.
   4. Tento postup opakujeme na druhé straně ostří.
 
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
+
 {id="pe\_o\_noe\_a\_nad"}
 
 ## Péče o nože a nářadí
@@ -95,4 +105,22 @@ Ocílku po použití zbavíme malých ocelových částic, které se na ni běhe
 V Česku doufám ještě platí pravidlo, že kudla a manželka se nepůjčuje. Proto, pokud já si pamatuji, tak každý pořádný kuchař má vlastní nože, které si sám brousí a sám myje. Nože má uložené buď v krabici na nářadí, nebo v něčem čemu se česky říká futrál na vercajk.
 
 Ideální k uložení nožů jsou dřevěné špalky, ve kterých se neničí a ve kterých o nich máte stále přehled. Praktické jsou také magnetické držáky umístěné v blízkosti pracoviště.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

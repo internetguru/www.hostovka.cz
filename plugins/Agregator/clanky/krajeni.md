@@ -1,9 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=355.html" data-image="/files/preview/clanky/krajeni/general.jpg" data-type="article"}
 
-{ctime="2008-07-22" mtime="2019-06-24" id="krajeni" author="Michael Klíma" short="Krájení"}
+{ctime="2008-07-22" mtime="2019-06-24" data-top="987" id="krajeni" author="Michael Klíma" short="Krájení"}
 
 # Způsoby krájení potravin
+
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="gastronomie, krájení, Čína"}
 
@@ -15,7 +17,7 @@ Důležitost krájení potravin si již uvědomoval člověk v pravěku, a to je
 
 Výhodu krájení potravin na malé kousky objevili před tisíci lety Číňané a následně i Japonci. Ty tím ušetřili spoustu peněz za příbory, protože mohou používat [jídelní hůlky][1].
 
-Nakonec, i já jsem objevil tajemství důležitosti krájení potravin až teprve při studiu čínské a japonské kuchyně. Do té doby jsem se řídil příměry udávaným v kuchařkách, které popisovaly velikost kousků masa. Jednalo se o kousky na guláš, na roštěnky, na řízky apod. To je ale plat prtné někomu, kdo neví, co je to guláš, roštěnky nebo řízek.
+Nakonec i já jsem objevil tajemství důležitosti krájení potravin až teprve při studiu čínské a japonské kuchyně. Do té doby jsem se řídil příměry udávaným v kuchařkách, které popisovaly velikost kousků masa. Jednalo se o kousky na guláš, na roštěnky, na řízky apod. To je ale plat prtné někomu, kdo neví, co je to guláš, roštěnky nebo řízek.
 
 Některé kuchařky udávají rozměry kousků v centimetrech. To by ale kuchaři u sebe museli nosit metr, což by bylo dosti nepraktické.
 
@@ -94,6 +96,24 @@ Jemně sekané _mo_
 :   Jak již bylo řečeno, čínská kuchyně nepoužívá mlýnky na maso. Kde je v předpisech maso mleté, tam by ho čínský kuchař nasekal nožem. Maso nejdříve nakrájíme na plátky _pchien_ a potom je nožem velmi jemně nasekáme.
 :   Čínští kuchaři doporučují: „Máte-li dojem, že je maso již dosti jemně nasekané, sekejte ho ještě jednou tak dlouho“. {class="important"}
 :   Pro přípravu mletého masa ale neváhejte použít mlýnek na maso nebo mixér.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 
  [1]: hulky
 

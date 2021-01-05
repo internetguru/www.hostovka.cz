@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=169.html" data-image="/files/preview/clanky/povinnosti_obsluhy/general.jpg" data-type="article"}
 
-{ctime="2006-08-22" mtime="2006-08-22" id="povinnosti\_obsluhy" author="Michael Klíma" short="Povinnosti obsluhy" authorid="hostovka/michael\_klima"}
+{ctime="2006-08-22" mtime="2006-08-22" data-top="952" id="povinnosti\_obsluhy" author="Michael Klíma" short="Povinnosti obsluhy" authorid="hostovka/michael\_klima"}
 
 # Základní povinnosti obsluhy
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="případová studie"}
 
@@ -94,4 +94,22 @@ Nicméně jsme asi 20% míst nerezervovali, a ta místa byla pak obsazena hosty 
 Tato místa obsazoval pan vrchní Matlák, který mimo jiné byl figurka a také vtipálek.
 
 Jeden host, kterému pan vrchní Matlák ukázal na volné místo u stolu který byl již jinými hosty obsazen, ten host panu Matlalovi řekl: "Nezlobte se pane vrchní, ale já s lidmi u stolu nesedím". Na to mu pan vrchní velice vtipně odpověděl: "To je mi velice líto vašnosto, ale opice u nás nemáme".
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

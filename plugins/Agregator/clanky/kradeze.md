@@ -5,7 +5,7 @@
 
 # Krádeže
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="o čem se mluví"}
 
@@ -40,4 +40,22 @@ No a teď jsem nedávno s hrůzou zjistil, že takto ale postupují dnes i někt
 Nu, a pokud s vašimi zaměstnanci nechcete šábovat tak vám nic jiného nezbývá než s tím, že někteří zaměstnanci kradou, musíte prostě počítat, a když tomu nemůžete zabránit, tak ty krádeže alespoň minimalizoval.
 
 Já sice mám na zadním hořáku již hodně dlouho takové úvahy o tom, jak se v pohostinství šidí a krade, a jak se tomu dá zabránit, ale to abych je uveřejnil odkládám a to jen proto, že by ti zlodějíčkové, kteří jsou zpravidla bystřejší než ti majitelé restaurací, by se naučili to, co ještě neumí a tak by to mohlo udělat více škody než užitku.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

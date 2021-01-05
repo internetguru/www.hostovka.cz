@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=589.html" data-image="/files/preview/clanky/service_charge/general.jpg" data-type="article"}
 
-{ctime="2011-09-29" mtime="2011-09-29" id="service\_charge" author="Michael Klíma" short="Service charge" authorid="hostovka/michael\_klima"}
+{ctime="2011-09-29" mtime="2011-09-29" data-top="963" id="service\_charge" author="Michael Klíma" short="Service charge" authorid="hostovka/michael\_klima"}
 
 # Service charge
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="restaurace a servis"}
 
@@ -28,4 +28,22 @@ Mimo stanoveného lvího podílu státu ve formě DPH, si restaurace může ke s
 Ono je to všechno komplikovanější než se zdá, proto ASCIACE KONZULTANTŮ POHOSTINSTVÍ ČR, připravila seminář PSYCHOLOGIE TVORBY JÍDELNÍCH LÍSTKŮ, ve kterém se i o takovýchto věcech bude hovořit.
 
 V Česku se mimořádné odměny v restauracích při běžné konzumaci již také stávají zvykem, a není nic neobvyklého, že při útratě 72,00 Kč host zaplatí 80,00, což je asi 9% spropitného, ale při účtu za větší společnost ve výši 2.980,00 Kč, na které pracovali 3 obsluhující se nestydí dát 3.000,00, což representuje asi 0,006%, neboli necelých 7,00 Kč na osobu. Proto já doporučuji, aby v takovém případě bylo nějaké odpovídající obslužné v ceně již započtáno.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=201.html" data-image="/files/preview/clanky/piti\_vina\_a_zdravi/general.jpg" data-type="article"}
 
-{ctime="2006-12-21" mtime="2006-12-21" id="piti\_vina\_a\_zdravi" author="Michael Klíma" short="Pití vína a zdraví" authorid="hostovka/michael\_klima"}
+{ctime="2006-12-21" mtime="2006-12-21" data-top="914" id="piti\_vina\_a\_zdravi" author="Michael Klíma" short="Pití vína a zdraví" authorid="hostovka/michael\_klima"}
 
 # Pití vína a jeho vliv na zdraví
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="nápoje"}
 
@@ -62,4 +62,22 @@ Tudíž abych to nějak zakončil. Nenechte si od nikoho nic radit, ani ode mě 
 Já sice nekouřím, ale piji víno denně, ale já také denně cvičím a plavu, a moje doktorka mi při mé poslední prohlídce řekla, že když se budu o mé tělo i nadále tak starat, že mi vydrží až do smrti.
 
 Pokud s mými úvahami nesouhlasíte, tak neváhejte vyjádřit Váš názor, případně mi položte Vaše otázky.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

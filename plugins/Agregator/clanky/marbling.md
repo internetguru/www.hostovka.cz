@@ -5,7 +5,7 @@
 
 # Marbling
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="co-kdy-kde"}
 
@@ -58,4 +58,22 @@ To víte, doma to nehraje moc velkou roli, ale umíte si představit, kolik pen�
 Toto ale nikomu neříkejte protože v Česku vás hned někdo obviní z toho že šidíte spotřebitele a přitom takové šizení je docela košer, protože nahrazujete jen vodu která tam patří.
 
 Více vám k tom mramorování ale neřeknu a další mé finty se eventuálně naučíte při mém semináři grilování.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

@@ -5,6 +5,8 @@
 
 # Párátka na hraně etikety
 
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
+
 {kw="etika, párátko"}
 
 Anglický výraz pro párátko _toothpick {xml:lang="en"}_, napovídá, že je to něco, čím by se člověk měl šťourat v zubech. Proto by se mu mělo říkat spíše šťourátko než párátko.
@@ -38,4 +40,22 @@ Když máte umělý chrup, tak párátko nepotřebujete. Říká se, že lidé, 
 Jak již bylo řečeno, šťourání se v zubech u stolu není příliš estetické. Proto jsou v lepších restauracích párátka vhodně umístěna u východu z restaurace, zpravidla na pultíku hostesky. To má samozřejmě tu výhodu, že se lidé šťourají v zubech až na ulici. Někteří _frajeři_ si pak párátko nechají mezi zuby, protože pak vypadají velice „macho“.
 
 Existují i _osobní_ párátka vyrobená z různých materiálů a v různých (mnohdy velice nákladných) obalech. Mají sloužit k ústní „hygieně“. Pokud ale takové párátko používáte častěji, tak se o nějaké hygieně moc mluvit nedá.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

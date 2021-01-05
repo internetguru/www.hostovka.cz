@@ -5,6 +5,8 @@
 
 # Catering
 
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
+
 {kw="gastronomie, případová studie, banket, catering"}
 
 Podle českých slovníků znamená anglické _cater {xml:lang="en"}_ nakupovat, obstarávat potraviny, postarat se o jídlo nebo zábavu, uspokojovat, ukájet, hovět. _Catering a banket {xml:lang="en"}_ tedy znamená pořádat banket.
@@ -88,6 +90,32 @@ Velké americké firmy, univerzity nebo organizace na to mají svá speciální 
 Není nic neobvyklého, že organizace, která má pobočky ve všech státech Ameriky, pořádá některé akce na Havaji nebo dokonce v Tichomoří či v Evropě. Některé tyto akce trvají několik dní. Plánovači musí zabezpečit nejenom pracovní program, ale i zábavu a využití volného času, ale hlavně jídlo a občerstvení.
 
 Funkce plánovače je velmi dobře placená. Navíc z ní plynou benefity jako je cestování, pobyt v hotelích či resortech, které musí napřed navštívit – a samozřejmě dobré jídlo a dobré pití. Tato funkce předpokládá dokonalou znalost cateringu a spadá do takzvané kongresové turistiky.
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 
  [1]: /sendvice
  [2]: /chucpa

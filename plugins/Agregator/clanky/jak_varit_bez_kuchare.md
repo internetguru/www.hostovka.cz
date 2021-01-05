@@ -5,7 +5,7 @@
 
 # Jak vařit bez kuchaře
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="pohostinství"}
 
@@ -83,4 +83,22 @@ Bohužel, dříve nebo později všechny ty denní vinárny, denní bary a podob
 Ono toho ale je více, jenomže bez znalosti podrobností jednotlivého provozu nelze nic konkrétnějšího říci a pokud si necháte radit od nějakého konzultanta, tak buďte velice opatrní. To že někomu ta jeho hospoda z nějakého důvodu „letí“ ještě neznamená, že všechno dělá dobře, nebo, že by mohl své zkušenosti a rady prodávat jinému.
 
 Totéž platí o všech odborných školách a soukromých kurzech. Nemusím asi říkat, že jsou v nich velké rozdíly.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

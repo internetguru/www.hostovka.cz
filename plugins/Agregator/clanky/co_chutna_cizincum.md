@@ -5,7 +5,7 @@
 
 # Psychlogie chutí a co jí lidé v zahraničí
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="etnické kuchyně, chutě, historka, případová studie, psychologie"}
 
@@ -102,4 +102,22 @@ To by mělo platit i o návštěvě jakékoliv etnické restaurace u nás, o jej
 Nepovažuji se za vynálezce, ale spíše za někoho, kdo zaplňuje mezery. Netrvalo mi tedy dlouho, než jsem si uvědomil mezeru mezi znalostí jídel a receptů a tím, jak se jídla mají podávat a jíst.
 
 Vím, že to lidé neradi slyší, ale všichni hosté nejsou natolik sofistikovaní, aby věděli kde, kdy, proč a jak některá jídla jíst. Ještě méně je takových, kteří vědí, co jim za jejich peníze patří.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

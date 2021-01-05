@@ -1,9 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=168.html" data-image="/files/preview/clanky/brunch/general.jpg" data-type="article"}
 
-{ctime="2006-08-08" mtime="2019-11-07" id="brunch" author="Michael Klíma" short="Brunch"}
+{ctime="2006-08-08" mtime="2019-11-07" data-top="918" id="brunch" author="Michael Klíma" short="Brunch"}
 
 # Pozdní snídaně neboli brunch
+
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="gastronomie, brunch"}
 
@@ -29,15 +31,15 @@ Napřed si řekněme, co vlastně brunch je. Brunch má ve skutečnosti původ v
 
 Základem brunche je snídaně (anglicky _breakfast {xml:lang="en"}_), která je první jídlo dne. Tento anglický výraz, který vznikl z _to break one's feast {xml:lang="en"}_ (ukončit půst), se datuje přinejmenším od roku 1425.
 
-V Americe chodí ve všední dny mnoho lidí na snídani ještě před nástupem do zaměstnání. Proto ve městech podává snídani každá druhá restaurace, a dokonce i některé restaurace rychlého občerstvení.
+V Americe chodí ve všední dny mnoho lidí na snídani ještě před nástupem do zaměstnání. Proto ve městech podává snídani každá druhá restaurace, dokonce i některé restaurace rychlého občerstvení.
 
 {class="example"}
 
 Ani [McDonald's][1], který po dlouhá léta „trucoval“ a nepodával nic jiného než hamburgery, dnes podává snídaně. Mimo jiné jsou pro ně snídaně velice rentabilní.
 
-V neděli však většina lidí do práce nechodí, a tedy nechodí ani na snídaně do restaurace. Buď si přispí a vůbec nesnídají, nebo si udělají snídani doma. V Americe ale chodí v neděli ráno hodně lidí do kostela. Tudíž doma snídat nemohou a po kostele jdou většinou domů. Z domova jdou případně do restaurace na pozdní oběd nebo na časnou večeři.
+V neděli však většina lidí do práce nechodí, a tudíž nechodí ani na snídani do restaurace. Buď si přispí a vůbec nesnídají nebo si udělají snídani doma. V Americe ale chodí v neděli ráno hodně lidí do kostela. Tudíž doma snídat nemohou a po kostele jdou většinou domů. Z domova jdou případně do restaurace na pozdní oběd nebo na časnou večeři.
 
-S tím se ale američtí restauratéři nemohli smířit. Proto přišly s ideálním řešením, což kombinace snídaně a oběda, čímž vzniknul již zmíněný brunch. Brunch se v Americe velmi rychle uchytil. To nejenom proto, že je většinou cenově atraktivní, ale také proto, že se stal příležitostí k setkání celé rodiny.
+S tím se ale američtí restauratéři nemohli smířit. Proto přišli s kombinací snídaně a oběda, čímž vzniknul již zmíněný brunch. Brunch se v Americe velmi rychle uchytil. To nejenom proto, že je většinou cenově atraktivní, ale také proto, že se stal příležitostí k setkání celé rodiny.
 
 Brunche se ale staly populárními téměř po celém světě, nakonec i v České republice. Ve formě podávání brunchů, v nabízeném sortimentu a v cenách jsou veliké rozdíly. Proto by se o nich studenti Hostovky měli dozvědět co nejvíce.
 
@@ -47,14 +49,14 @@ Brunche se ale staly populárními téměř po celém světě, nakonec i v Česk
 
 Podobně jako při snídaních podávaných formou _table d'hôte {xml:lang="fr"}_, jsou tyto brunche rozlišeny podle stanovených cen za kombinaci několika jídel.
 
-V ceně každé kombinace, je mimo hlavního chodu zahrnuta také:
+V ceně každé kombinace je mimo hlavního chodu zahrnuta také:
 
   * malá sklenka chlazeného džusu,
   * příloha, jako jsou brambory, rýže, těstoviny nebo zelenina,
   * neomezené množství teplých nápojů, pečiva, másla, džemu nebo medu a
   * případně i jiné doplňky podle místních zvyklostí.
 
-Níže je uvedeno několik příkladů možných kombinaci snídaní formou _table d'hôte {xml:lang="fr"}_. Kombinací by nemělo byt mnoho. Velkým výběrem by se nedosáhlo zamýšleného účelu, což je nízká inventura potřebných potravin, snadná a rychlá úprava jídel, snadná kontrola, a hlavně rychlé vyúčtování s hostem.
+Níže je uvedeno několik příkladů možných kombinací snídaní formou _table d'hôte {xml:lang="fr"}_. Kombinací by nemělo byt mnoho. Velkým výběrem by se nedosáhlo zamýšleného účelu, což je nízká inventura potřebných potravin, snadná a rychlá úprava jídel, snadná kontrola, a hlavně rychlé vyúčtování s hostem.
 
 Uvedené kombinace se liší typicky pouze v hlavním jídle a příloze. Jídla společná pro všechny kombinace jsou:
 
@@ -188,6 +190,14 @@ Výběr několika populárních suchých obilovin bývá na pultech v individuá
 
 Na velkých bufetových brunchích se setkáte s džusy v chladicích dávkovačích nebo vířičích. Na malých bufetech jsou zpravidla podávány ve džbánech na ledu. V blízkosti džusů by měly být sklenky o obsahu 1 až 1,5 dl.
 
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
+
 {id="hlavni\_tepla\_jidla\_a\_prilohy"}
 
 ## Hlavní teplá jídla a přílohy
@@ -212,6 +222,14 @@ Zezelenání míchaných vajec se dá částečně zabránit tím, že do nich p
 
 Stejný prevít jsou i vejce vařená ve skořápce, která také velmi rychle vystydnou. Pokud je to tedy jenom trochu možné, připravujeme vaječná jídla, jako jsou míchaná vejce a omelety přímo v jídelně, což je mimo také velmi atraktivní.
 
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
+
 {id="tepla\_jidla\_z_drubeze"}
 
 ## Teplá jídla z drůbeže
@@ -220,7 +238,7 @@ Lepší kuře na talíři než holub na střeše. Drůbež (v jakékoliv úprav�
 
 Nejčastěji opakovanou chybou bufetového servisu však je, že je drůbež podávaná ve velkých porcích (soustech). Někdy mi připadá, že naši kuchaři neumí nakrájet kuře na 8 až 12 kousků.
 
-Je sice pravdou, že kuře podávané s kostí chutná daleko lépe než kuře vykostěné. Takové porce také vypadají větší, nicméně pro bufetový servis musíme hřbetní a stehenní kosti z vetší části odstranit.
+Je sice pravdou, že kuře podávané s kostí chutná daleko lépe než kuře vykostěné. Takové porce také vypadají větší, nicméně pro bufetový servis musíme hřbetní a stehenní kosti z větší části odstranit.
 
 {id="tepla\_masita\_jidla"}
 
@@ -228,7 +246,7 @@ Je sice pravdou, že kuře podávané s kostí chutná daleko lépe než kuře v
 
 Maso je relativně nejdražší surovinou v kuchyni a při samoobslužných bufetech je pro hosty nejatraktivnější. Snahou restauratérů by nemělo být hosta nějak omezovat. Aby ale nedocházelo ke zbytečným zbytkům a nedojedkům, tak se maso na brunchích krájí na malé kousky. Žebírka, kotlety, řízky apod. nejsou zpravidla větší než 50 gramů.
 
-Ideální je porce krájet přímo v jídelně. Krájení masa před zraky hostů se stalo velmi atraktivní. Na větších brunchích je to také relativně ekonomický způsob prezentace jídla. Navíc nevznikají zbytky. Restaurace k tomu ale musí mít potřebné zařízení, jako jsou výhřevné lampy, krájecí desky, ostré nože, ocílku a vidličku, a hlavně zručného pracovníka.
+Ideální je porce krájet přímo v jídelně. Krájení masa před zraky hostů se stalo velmi atraktivní. Na větších brunchích je to také relativně ekonomický způsob prezentace jídla. Navíc nevznikají zbytky. Restaurace k tomu ale musí mít potřebné zařízení, jako jsou výhřevné lampy, krájecí desky, ostré nože, ocílku, vidličku a hlavně zručného pracovníka.
 
 {id="brambory\_zelenina\_a\_jine\_prilohy"}
 
@@ -236,7 +254,7 @@ Ideální je porce krájet přímo v jídelně. Krájení masa před zraky host�
 
 Zeleninu (alespoň dva druhy) vybíráme takovou, která je pestrá, neztratí svou barvu a která vydrží dlouho teplá. Na teplý pult ji podáváme v malých dávkách a často ji doplňujeme.
 
-Pečivo prezentujeme na odděleném stole v košících. Přikládáme k němu kleště, aby ho hosté neosahávali rukama. Chléb podáváme, pokud možno v celých bochnících. K bochníkům přikládáme krájecí desku, ubrousek, kterým si host může chléb přidržet, a ostrý nůž, aby si mohl ukrojit libovolně silné krajíčky.
+Pečivo prezentujeme na odděleném stole v košících. Přikládáme k němu kleště, aby ho hosté neosahávali rukama. Chléb podáváme pokud možno v celých bochnících. K bochníkům přikládáme krájecí desku, ubrousek, kterým si host může chléb přidržet, a ostrý nůž, aby si mohl ukrojit libovolně silné krajíčky.
 
 {id="sladke\_pecivo\_a_dezerty"}
 
@@ -245,6 +263,24 @@ Pečivo prezentujeme na odděleném stole v košících. Přikládáme k němu k
 Moučníky a jiné sladkosti jsou na brunchích oblíbeným artiklem. Moučníky však musí být podávány v malých porcích. Hosté totiž rádi ochutnávají více druhů.
 
 Hosté ale dokáží z moučníků docela rychle udělat pěkný masakr. Proto je i zde ideální, když můžeme moučníky připravovat na objednávku před zraky hostů.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 
  [1]: /mc_donalds
  [2]: /jednohubky#druhy_jednohubek

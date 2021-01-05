@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=167.html" data-image="/files/preview/clanky/aspik/general.jpg" data-type="article"}
 
-{ctime="2006-08-07" mtime="2018-12-06" id="aspik" author="Michael Klíma" short="Aspik"}
+{ctime="2006-08-07" mtime="2018-12-06" data-top="972" id="aspik" author="Michael Klíma" short="Aspik"}
 
 # Podstata a využití aspiku
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="jídla a jídelní lístky, aspik, želatina, Carême"}
 
@@ -38,6 +38,24 @@ V Americe, kde chlazení jídel není problém, nejsou jídla v aspiku moc oblí
 Aspik, což si mnoho lidí neuvědomuje, je ideální živnou půdou pro růst bakterií. Proto se ta krásná jídla zalitá aspikem, která se dva nebo i tři dny vystavují na kuchařských výstavách, po skončení výstavy ihned vyhazují.
 
 Osobně se domnívám, že by v restauracích mělo být u jídel v aspiku napsáno, že je hosté mohou jíst jen na vlastní nebezpečí. Tak jako se to dělá u tatarského bifteku.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 
  [1]: https://cs.wikipedia.org/wiki/Marie-Antoine_Car%C3%AAme
 

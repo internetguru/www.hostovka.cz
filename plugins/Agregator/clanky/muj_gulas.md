@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=136.html" data-image="/files/preview/clanky/muj_gulas/general.jpg" data-type="article"}
 
-{ctime="2006-02-06" mtime="2006-02-06" id="muj\_gulas" author="Michael Klíma" short="Můj guláš" authorid="hostovka/michael\_klima"}
+{ctime="2006-02-06" mtime="2006-02-06" data-top="910" id="muj\_gulas" author="Michael Klíma" short="Můj guláš" authorid="hostovka/michael\_klima"}
 
 # Můj guláš
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -44,4 +44,22 @@ Ve čtvrtek většinou ten guláš měl nejenom štych, ale byl již tak trochu 
 No a v pátek se ještě přidáním několika ostrých papriček dal udělat Mexický guláš, atd., ale já vám zase všechna má tajemství vyzradit nemohu a tak vám přesné receptury na ty zbývající dny nedám. Nicméně vidíte, že si můžete poradit.
 
 Tudíž jestli máte nějaké vaše triky kterými by se ta EU dala oblafnout, tak mi je neváhejte napsat.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

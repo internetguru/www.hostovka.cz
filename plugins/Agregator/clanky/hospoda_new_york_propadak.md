@@ -5,7 +5,7 @@
 
 # Hospoda v New Yorku propadák
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="gastronomie"}
 
@@ -34,4 +34,22 @@ Ale jak se zdá, tak hlavní výčepní pan Lukáš Svoboda, který sliboval, ž
 Lukas Svoboda, Hospoda’s chief barkeep, is apparently something of a European draught master (the restaurant touts him as the winner of the 2010 International Master Bartender of the Year competition). Mr. Svoboda uses his taps in amazing ways, pulling very different tastes and textures from single kegs of beer. (A native of the Czech Republic, he would have thrived in the Greek life of American universities.) To ale, až na tu cenu, tomu pivu zřejmě moc neškodí.
 
 Moučníky jak se zdá obstály v té soutěži celkem dobře i když si nemyslím, že jahodové knedlíky podávané s mlékem by byly typickým českým moučníkem, ale nakonec kolik toho Sam Simpon o české kuchyni vůbec ví. Jedno ale podle mě odhadl správně, a sice: „If there is a vision blind Hospoda, it is a clouded one“. Neboli, že budoucnost té Hospody je velice mlhavá, což nakonec tvrdím i já.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

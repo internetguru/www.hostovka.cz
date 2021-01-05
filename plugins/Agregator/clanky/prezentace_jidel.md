@@ -1,9 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=346.html" data-image="/files/preview/clanky/prezentace_jidel/general.jpg" data-type="article"}
 
-{ctime="2008-07-05" mtime="2019-05-26" id="prezentace_jidel" author="Michael Klíma" short="Prezentace jídel"}
+{ctime="2008-07-05" mtime="2019-05-26" data-top="936" id="prezentace_jidel" author="Michael Klíma" short="Prezentace jídel"}
 
 # Důležitost prezentace jídel
+
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="gastronomie, prezentace, talíře"}
 
@@ -98,6 +100,24 @@ To samé se dá říci o podávání jídel ve velkých polévkových talíříc
 Dnes to ale nejsou jen talíře, na kterých se jídla podávají. I když to hygienici neradi vidí (a mnohdy s nimi souhlasím), tak je čím dále více populární podávání teplých jídel na dřevěných prkénkách. Že by to ale bylo estetické nebo dokonce praktické se ale říci nedá.
 
 Hygieničtější a atraktivnější podávání jídel než na dřevěných prkénkách je na litinových pánvičkách (anglicky zvaných _cast iron {xml:lang="en"}_ nebo _sizzler plates {xml:lang="en"}_). Když se takové jídlo podává na stůl, tak stále ještě syčí a prská. Tím získává atraktivní vizuální vjem, který je doplněn vůní.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 
  [1]: /jevistni_kuchyne
  [2]: /careme

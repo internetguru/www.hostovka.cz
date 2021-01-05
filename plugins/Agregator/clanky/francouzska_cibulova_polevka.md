@@ -5,7 +5,7 @@
 
 # Francouzská cibulová polévka
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="o čem se mluví"}
 
@@ -26,4 +26,22 @@ Více než 20 let soutěžíme o nejlepší knedlík, nejlepší kotlíkový gul
 Proč ti nechodí do restaurací a nekritizují to, co se dělá špatně, ale né tím způsobem jakým byl ten pořad Ano šéfe, ve kterém pan Pohlreich z těch, kteří do doby než k nim přišel všechno dělali úplně špatně, a kterým po třech dnech dal nálepku nejlepší restaurace. Nakonec díky pořadu Na nože máme jako jediní na světě kuchaře Supermana, který vyhrál milion korun a tím pádem také hned šel od válu.
 
 Já vím, že si myslíte, že nemám pravdu, nebo že to přeháním, ale doufám, že tento můj příspěvek někdo opět uveřejní po deseti nebo dvaceti letech, aby bylo vidět zda jsem to přeháněl nebo ne.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

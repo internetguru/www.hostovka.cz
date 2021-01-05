@@ -5,7 +5,7 @@
 
 # Česká gastronomie
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="gastronomie"}
 
@@ -40,4 +40,22 @@ Prostě lidé sice chtějí změnu, ale za přijatelné peníze.
 Já vím, že vám s tím jdu již na nervy, ale věřte mi, že tajemství je v umění dát lidem to co chtějí.
 
 Podívejte se s jakým fiaskem skončila ta snaha o oživení Magdaleny Dobromily Retigové, a teď si přdstavte, že jsou i takoví "odborníci" kteří údajně vaří podle školy M.B. Svobodové.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

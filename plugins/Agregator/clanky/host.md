@@ -5,7 +5,7 @@
 
 # Host
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="restaurace a servis"}
 
@@ -52,4 +52,22 @@ Host je každý kdo přijde do ubytovacích a stravovacích zařízení ve kter�
 K tomu bych ale ještě měl dodat, že dobrý host je takový který zná práva hosta, který z naši restaurace odchází spokojený a který se do ni eventuálně vrátí.
 
 V tomto smyslu se tudíž opět ukazuje raison d' être Hostovky která vychová sofistikované studenty (hosty), kteří budou vědět co jim za jejich peníze patří a kteří si v Česku a na Slovensku vynutí respekt a uznání všech provozovatelů pohostintví.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

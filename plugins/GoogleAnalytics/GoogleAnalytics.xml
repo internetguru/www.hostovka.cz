@@ -2,4 +2,6 @@
 <GoogleAnalytics>
   <ga_id readonly="readonly" domain="www.hostovka.cz">UA-52883188-15</ga_id>
   <ga_id readonly="readonly" domain="beta.hostovka.cz">UA-52883188-5</ga_id>
+  <ga_id readonly="readonly" domain="dev.hostovka.cz">UA-52883188-5</ga_id>
+  <var id="ga4">disabled</var>
 </GoogleAnalytics>

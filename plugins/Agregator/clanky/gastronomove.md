@@ -5,9 +5,11 @@
 
 # Gastronomové
 
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
+
 {kw="gastronomie, gastronom, gurmet, gurmán, labužník, snob, host"}
 
-Co bylo dříve, vejce nebo slepice? Podle mě je to stejné otázka, jako kdo se více zasloužil o gastronomii. Byli to kuchaři, gurmeti, gurmáni, labužníci, snobové nebo sofistikovaní hosté?
+Co bylo dříve, vejce nebo slepice? Podle mě je to stejná otázka, jako kdo se více zasloužil o gastronomii. Byli to kuchaři, gurmeti, gurmáni, labužníci, snobové nebo sofistikovaní hosté?
 
 {class="example"}
 
@@ -100,6 +102,24 @@ Jedno z populárních rčení v americkém restauračním byznysu říká, že �
 V Česku díky 40 letům gastronomického temna bohužel uvědomělých hostů moc nemáme. Hostů, kteří by věděli, jaké mají přání a co jim za jejich peníze patři je velice málo.
 
 Nauka gastronomie, chování v restauracích a společenského chování vůbec musí začít v rodině a ve škole, ale také v každé restauraci. Je například doslova nezodpovědné, když restaurace uvádí na jídelním lístku jídla bez jejich patřičného popisu.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 
  [1]: /modni_pojmy
 

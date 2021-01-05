@@ -5,7 +5,7 @@
 
 # Salátové bary
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -46,4 +46,22 @@ Bylo to jen potvrzení toho, že člověk se stále musí učit. Já totiž zná
 Vám ale jako studentům Hostovky mohu poradit, abyste, pokud některé jídlo není označené jménem, se na to zeptali. V Česku nebo na Slovensku to asi nebude zatím tak velký problém, ale našinci čím dále tím více cestují do zahraničí, tudíž hostovka dříve nebo později dojde uznání protože se na ni dozvíte i to "co se nosí" v restauracích v zahraničí, takže si budete moci lépe vybrat.
 
 Na některých ostatních web stránkách jsem se setkal s tím, že některým čtenářům vadilo, že používám cizí odborné výrazy a názvy jídel, ale jak si časem povšimnete, tak oproti jiným autorům já každý takový výraz vysvětlím nebo uvedu jeho český ekvivalent, za což mi jednoho dne budou i ti skeptici vděční.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

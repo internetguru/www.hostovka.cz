@@ -5,6 +5,8 @@
 
 # Vzhled jídel
 
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
+
 {kw="gastronomie"}
 
 Toto je více méně článek pro odborníky který jsem již před několika lety napsal pro stránky Gastronews které jsou jakési rádoby odborné stránky, ale jak se zdá, tak tam to nepadlo na úrodnou půdu protože je to příliš dlouhé a čtenáři těch stránek mají rádi vše jen v kostce.
@@ -168,4 +170,22 @@ Velikost talířů je různá podle toho zda se na nich podává předkrm, hlavn
 Zkuste však stejné množství salátu podávat na vychlazeném velkém talíři a budete překvapení, že vizuálně nejenom, že ta porce bude vypadat větší, ale bude i estetičtější.
 
 Toto je ale jen malá ukázka toho jak je možno presentaci jídel zjednodušit.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

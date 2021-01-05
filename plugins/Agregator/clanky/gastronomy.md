@@ -5,7 +5,7 @@
 
 # Gastronomy
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -86,4 +86,22 @@ Tím pádem ale dnešní americká kuchyně je směsice těch nejlepších jíde
 Průměrný Američan si tímto ale hlavu moc neláme a prostě jí to co mu chutná protože si má z čeho vybrat.
 
 Nu a vy, pokud někdy do Ameriky pojedete, tak do těch českých restaurací nechoďte, i když některé jsou lepší než podobné restaurace v Česku, ale vychutnejte to co doma nemáte, a hlavně dbejte na to, abyste za své dolary dostali to co vám patří.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

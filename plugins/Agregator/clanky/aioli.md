@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=396.html" data-image="/files/preview/clanky/aioli/general.jpg" data-type="article"}
 
-{ctime="2009-04-13" mtime="2019-03-28" id="aioli" author="Michael Klíma" short="Italská omáčka aioli"}
+{ctime="2009-04-13" mtime="2019-03-28" data-top="956" id="aioli" author="Michael Klíma" short="Italská omáčka aioli"}
 
 # Italská dochucovací omáčka aioli
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="co-kdy-kde, omáčka, recept, Itálie"}
 
@@ -27,4 +27,22 @@ Aioli je vlastně česnekem ochucená majonéza. Existují ale její různé dru
 {class="important"}
 
 Omáčka se podává při pokojové teplotě, ale měla by být uchována v lednici.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

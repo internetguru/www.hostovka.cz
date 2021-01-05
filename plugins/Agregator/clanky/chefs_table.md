@@ -5,6 +5,8 @@
 
 # Šéfkuchařův stůl
 
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
+
 {kw="restaurace a servis, Francie"}
 
 [Šéfkuchařův][1] stůl je anglicky nazýván jako _chef‘s table {xml:lang="en"}_. V některých restauracích a hotelech ve Francii bylo, a doufám že je ještě zvykem, že před zahájením provozu všichni kuchaři, společně s šéfkuchařem, zasednou ke stolu prostřenému bílým ubrusem a společně obědvají.
@@ -18,6 +20,24 @@ Tato forma pohostinství si získala takovou oblibu, že některé hotely buduj�
 Šéfkuchařův stůl mnohdy sousedí s vinotékou a nejpopulárnější vína jsou umístěna vždy na dosah ruky. Šéfův stůl zpravidla nabízí jen několik vybraných jídel z normálního jídelního lístku. Některé stoly jsou relativně jednoduché, některé jsou zase naopak elegantnější než stoly v hlavní jídelně.
 
 Pod názvem _chef’s table {xml:lang="en"}_ některé firmy nebo cestovní kanceláře nabízejí v Americe několikadenní návštěvy vybraných restaurací pro zájmové skupiny. Některé tyto Chef's tables jsou tak populární, že musíte mít rezervaci na několik měsíců dopředu.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 
  [1]: /kucharske_tituly#sefkuchar
 

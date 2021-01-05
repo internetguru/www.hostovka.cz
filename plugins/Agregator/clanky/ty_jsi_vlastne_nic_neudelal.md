@@ -5,7 +5,7 @@
 
 # Ty jsi pro mě vlastně nic neudělal
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="konzulting"}
 
@@ -18,4 +18,22 @@ Té mé klientce jsem se to tudíž snažil rozmluvit. Ta paní ale nejenom že 
 Asi po šesti měsících mně ta paní volala znovu, celá ubrečená, že jsem měl pravdu a že do té restaurace investovala dalších  _{var="50"}_.000, ale že i přesto to nejde a že navíc prodělává měsíčně více než  _{var="3"}_.000 na mzdách a dalších nákladech, a že se to snaží prodat, ale že nemůže nalézt kupce a jestli bych ji nepomohl.
 
 V Americe se říká, že koupit restauraci umí každý blbec který má peníze, ale prodat restauraci že není jen tak jednoduché. Průměrná provize z prodeje restaurací je asi tak 7%, a ta paní byla tak zoufalá, že mi nabízela 15% z ceny navýšené na  _{var="300"}_.000, neboli asi tak  _{var="45"}_.000, což by její ztrátu asi  _{var="15"}_ společně s  _{var="50"}_.000 investicemi které tam udělala, přivedlo na více než  _{var="150"}_.000. Já jsem ale také někdy prevít, a proto Vám asi nemusím ani říkat, že jsem ji odmítl, ale ne proto, že bych nevěřil, že by se po případné slevě nějaký kupec nenašel, ale proto, že bych si býval nemohl vzít na svědomí přivést do neštěstí dalšího člověka.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

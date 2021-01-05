@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=152.html" data-image="/files/preview/clanky/kureci_kridelka/general.jpg" data-type="article"}
 
-{ctime="2006-05-29" mtime="2019-02-19" id="kureci_kridelka" author="Michael Klíma" short="Kuřecí křidélka"}
+{ctime="2006-05-29" mtime="2019-02-19" data-top="955" id="kureci_kridelka" author="Michael Klíma" short="Kuřecí křidélka"}
 
 # Kuřecí křidélka a jejich příprava
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="jídla a jídelní lístky, kuře"}
 
@@ -67,6 +67,24 @@ Křidélka se jedí rukama, a tak pro usnadnění nařízneme kůžičku křidé
 Křidélkům se říká grilovaná, ale pokud gril nemáme, tak je stejně úspěšně můžeme péct v troubě, a přesto jim dále říkat grilovaná.
 
 Doba jejich úpravy je různá podle jejich velikosti a podle teploty grilu nebo trouby, ale v průměru by to nemělo být déle než 15 minut. Křidélka můžeme během grilování potírat naší oblíbenou barbecue omáčkou. Ideální v tomto případě je speciální vrubovaná pánev, na které se omáčka zachytí, takže ji pak můžeme podávat ještě zvlášť k namáčení křidélek nebo i jiných potravin.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 
  [1]: http://2017.hostovka.cz/soubor/29-05-06-2.JPG
  [2]: http://2017.hostovka.cz/soubor/29-05-06-3.JPG

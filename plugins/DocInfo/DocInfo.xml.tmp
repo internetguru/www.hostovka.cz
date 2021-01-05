@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocInfo>
+  <var modifyonly="modifyonly" id="docinfo">
+    <ul class="docinfo nomultiple global button-list">
+      <li><span class="fas fa-fw fa-user">i</span>Autor: <span var="author">n/a</span></li>
+      <li><span class="fas fa-fw fa-calendar-alt">i</span>Datum vytvoření: <span var="ctime" fn="inputvar-dateformat">n/a</span></li>
+      <li var="modified">n/a</li>
+    </ul>
+    <ul class="docinfo share nomultiple button-list">
+      <li><a var="source@href" class="eventable button button--simple button--img button--img-only"><span class="far fa-fw fa-globe">i</span>Článek na původním webu</a></li>
+      <li id="docinfoshare">n/a</li>
+    </ul>
+  </var>
+  
+  <var modifyonly="modifyonly" id="partinfo">
+    <ul class="docinfo nomultiple partial">
+      <li var="part_created">n/a</li>
+      <li var="part_modified">n/a</li>
+    </ul>
+  </var>
+
+  <var modifyonly="modifyonly" id="modified"><span class="far fa-fw fa-calendar-edit">i</span>Datum revize: <span var="mtime" fn="inputvar-dateformat">n/a</span></var>
+  <var modifyonly="modifyonly" id="part_created"><span class="fas fa-fw fa-calendar-alt">i</span>Tato část byla vytvořena dne <span fn="inputvar-dateformat" var="ctime">n/a</span></var>
+  <var modifyonly="modifyonly" id="part_modified"><span class="far fa-fw fa-calendar-edit">i</span>Tato část byla upravena dne <span fn="inputvar-dateformat" var="mtime">n/a</span></var>
+ 
+</DocInfo>

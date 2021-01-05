@@ -5,7 +5,7 @@
 
 # Know-how
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="gastronomie"}
 
@@ -54,4 +54,22 @@ Fast je jedno z mála anglických slov kterému i v Čeku téměř každý rozum
 Další výhodou na kterou jsem málem zapoměl je, že ve Fast Food, dostanete ve většině případů to co vám za vaše peníze patří a že nemusíte mít obavy, že vás někdo šidí protože šizení je téměř nemožné. V Česku to zatím možné není, protože tam se vláda teprve dohaduje o tom, jestli nějaké kontrolní pokladny by restairace vůbec měly mít. V Americe ale, kde Uncle Sam si také hlídá co mu patří, je provozování restaruace bez elektronické pokladny nemyslitelné. _What a counry! {xml:lang="en"}_
 
 Já vývoj gastronomie a phostinství dnes sleduji téměř po celém světě a v Česku a na Slovensku dnes více než kdykoliv před tím, a při čtení některých kritik všech těch fast food a popisu všech těch restaurací ve kterých dostanete 12 chodové menu za pouhých 2.500 Kč (bez nápojů) pomalu Čechům jejich gastronomické zkušenosti začínám závidět.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

@@ -5,7 +5,7 @@
 
 # Kuchařské knihy
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="co-kdy-kde"}
 
@@ -92,4 +92,22 @@ Na druhé straně nemůžete ale všechny ty herce, zpěváky, novináře nebo r
 Nevím jak na Slovensku, ale v Česku kuchařské knihy napsané učitelkami někdejších dívčích škol zvaných "Knödelfakulty" jsou stále ještě hodnotnější než knihy některých profesionálních kuchařů.
 
 Tak kolik kuchařek jste za tu vaši kariéru vlastně vůbec napsal?
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

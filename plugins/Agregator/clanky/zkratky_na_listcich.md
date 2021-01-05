@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=115.html" data-image="files/preview/clanky/zkratky\_na\_listcich/general.jpg" data-type="article"}
 
-{ctime="2005-11-23" mtime="2005-11-23" id="zkratky\_na\_listcich" author="Michael Klíma" short="Zkratky na lístcích" authorid="hostovka/michael_klima"}
+{ctime="2005-11-23" mtime="2005-11-23" data-top="970" id="zkratky\_na\_listcich" author="Michael Klíma" short="Zkratky na lístcích" authorid="hostovka/michael_klima"}
 
 # Zkratky na jídelních lístcích
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -22,4 +22,22 @@ S tou stručností se to však nesmí přehánět. Na našich jídelních lístc
 Občas se v odborném tisku objeví kritika jazykové přesnosti jídelních lístků, ale zkratky na jídelních lístcích jsou úplně jiné zvíře a já jsem překvapen, že žádný z těch puristů je zatím tento nešvar nikdy nekritizoval.
 
 Je to podle mně zmatek zkratek a pokud se naši hosté v těchto značkách nevyznají, tak to není díky jejich nedostatečné inteligence, ale nedostatek inteligence jejich tvůrců.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

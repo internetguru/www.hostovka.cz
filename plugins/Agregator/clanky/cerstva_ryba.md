@@ -5,7 +5,7 @@
 
 # Opravdově čerstvá ryba v restauraci
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="gastronomie, ryby, historka"}
 
@@ -50,6 +50,24 @@ Nápad se ihned uchytil. Po Mariánkách se to ihned rozkřiklo, hosté měli p�
 Zabít, oškrábat a vykuchat kapra ale už taková sranda není a navíc to zabere nějaký čas. Netrvalo tedy dlouho než náš kuchař Pepa, který byl mimo jiné velký rošťák, přišel s takzvaným zlepšovákem. Každý den ráno vylovil z jezírka několik kaprů, které očistil, vykuchal a uložil je do ledničky. Tam zůstali do té doby, než některý z hostů přinesl do kuchyně živého kapra, kterého si chtěl nechat uvařit podle svého přání.
 
 Více vám asi ani nemusím vyzrazovat. Živý kapr šel do škopku s vodou a později pak zpátky do jezírka. Do pánve šel kapr, kterého měl kuchař už připraveného neboli „host se najedl a ryba zůstala celá“. Já vím, že tato metoda by dnes nebyla příliš košer, ale tehdy jsme si mysleli, že to byl geniální nápad.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 
  [1]: http://2017.hostovka.cz/soubor/9-7-06-3.JPG
  [2]: http://2017.hostovka.cz/soubor/9-7-06-5.JPG

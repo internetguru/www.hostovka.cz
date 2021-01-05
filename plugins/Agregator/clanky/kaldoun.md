@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=258.html" data-image="/files/preview/clanky/kaldoun/general.jpg" data-type="article"}
 
-{ctime="2007-10-11" mtime="2007-10-11" id="kaldoun" author="Michael Klíma" short="Kaldoun" authorid="hostovka/michael_klima"}
+{ctime="2007-10-11" mtime="2007-10-11" data-top="921" id="kaldoun" author="Michael Klíma" short="Kaldoun" authorid="hostovka/michael_klima"}
 
 # Kaldoun
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -36,4 +36,22 @@ Tatínek totiž z celé té husy měl totiž ta játra nejraději. Co to je pât
 No, a jak maminka pekla tu husu a co jsme s ní pak dělali vám napíši až někdy jindy.
 
 Apropó, pokud chcete ochutnat kaldoun podle receptu mé babičky tak musíte jít do restaurace Steakgrill v Račiněvsi u Roudnice.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

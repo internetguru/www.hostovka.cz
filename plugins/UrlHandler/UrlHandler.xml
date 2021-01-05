@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <UrlHandler>
   <rewrite match="clanky/"></rewrite>
+  <redir link="ala">a_la</redir>
   <redir link="chicken_nuggets">kureci_nugety</redir>
   <redir link="after_dinner_mints">mentolky_po_jidle</redir>
   <redir link="all_you_can_eat">samoobsluzna_restaurace</redir>
@@ -24,7 +25,6 @@
   <redir link="bedekry">bedekr</redir>
   <redir link="fajity">fajitas</redir>
   <redir link="chovani_v_hotelu">poslicci</redir>
-  <redir link="chipsy">bramborove_lupinky</redir>
   <redir link="gi_pans">gi_pan</redir>
   <redir link="garde_manager">garde_manger</redir>
   <redir link="confit">konfitovani</redir>
@@ -32,6 +32,20 @@
   <redir link="cile_kucharu">kucharske_umeni</redir>
   <redir link="polevky">druhy_polevek</redir>
   <redir link="chowdery">chowder</redir>
+  <redir link="zazitkova_gastonomie_2">zazitkova_gastronomie</redir>
+  <redir link="zazitkova_gastonomie">zazitkova_gastronomie</redir>
+  <redir link="buffety_produktivita">ekonomika_bufetu</redir>
+  <redir link="buffety_naklady_na_mzdy">ekonomika_bufetu</redir>
+  <redir link="buffety_planovani">ekonomika_bufetu</redir>
+  <redir link="bramborove_lupinky">chipsy</redir>
+  <redir link="bramborove_lupinky_2">chipsy</redir>
+  <redir link="bonovaci_kniha">ucetnictvi</redir>
+  <redir link="bible">kucharske_knihy</redir>
+  <redir link="barmanstvi">koktejly</redir>
+  <redir link="balsamicky_ocet">balzamikovy_ocet</redir>
+  <redir link="bily_balsamicky_ocet">balzamikovy_ocet</redir>
+  <redir link="a_la_francaise">francouzske_restaurace</redir>
+  <redir link="alemande">agnes_sorel</redir>
   
   <redir parName="s" parValueMatch="stitky/([^/]+)">/?usp=navig&amp;stitek=$1#clanky</redir>
   <redir parName='s' parValueMatch='clanky/([^/]+)'>$1?usp=navig</redir>

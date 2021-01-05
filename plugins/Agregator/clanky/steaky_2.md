@@ -5,7 +5,7 @@
 
 # Steaky 2
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -103,6 +103,14 @@ Typický Steak Au Poivre by měl být suchý, nicméně v mnoha zemích, a např
 
 Taktéž v Německu se setkáte s tím, že Pfeffersteak mit schwarzem geschroteten Pfeffer je přelitý s demi-glace do kterého byla přimíchána smetana.
 
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
+
 {id="steak\_na\_pepri"}
 
 ## Steak na pepři
@@ -150,4 +158,30 @@ Podobným způsobem připravujeme SIRLOIN STEAK AU POIVRE. Viz. podnikové kalku
 Jedním naším tajemstvím je že několik kuliček zeleného pepře mírně rozmáčkneme, čímž omáčka dostane lepší chuť.
 
 Někdy peppersteaky flambujeme koňakem, ale to také nikomu neříkejte protože to je naše tajemství.
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

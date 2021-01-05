@@ -5,7 +5,7 @@
 
 # Středomořsky za dobrou cenu
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="gastronomie"}
 
@@ -27,5 +27,23 @@ Co takový recenzent ví o zbožíznalství, nákupu, cenách surovin, kuchařsk
 
 Jak ale já říkám, dejte lidem to, co chtějí a také říkám, že nikomu nevěřím, ani sobě a tak nevěřte ani mně. Udělejte si na to čas, přečtěte si ten lístek a spočítejte si, na kolik vás přijde večeře o třech chodech pro dva, s vínem (bez tuzéru).
 
-Odměnou vám bude, že se dozvíte, co umí šéfkuchař nejlépe, čemu se na menu raději vyhnout, jestli se můžete těšit na vlídné číšníky či stylový interiér. Jsem přesvědčen, že to v každém případě bude nezapomenutelná gastronomická zkušenost, a třeba se tam budete vracet při každé sebemenší příležitosti.
+Odměnou vám bude, že se dozvíte, co umí šéfkuchař nejlépe, čemu se na menu raději vyhnout, jestli se můžete těšit na vlídné číšníky či stylový interiér. Jsem přesvědčen, že to v každém případě bude nezapomenutelná gastronomická zkušenost, a třeba se tam budete vracet při každé sebemenší příležitosti. 
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

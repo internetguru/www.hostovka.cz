@@ -5,7 +5,7 @@
 
 # Pot Luck
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="gastronomie"}
 
@@ -34,4 +34,22 @@ Nemusím vám asi říkat, že každá kuchařka považuje ten svůj výtvor za 
 Vzpomněl jsem si na potluck v této předvánoční době, kdy české hospodyňky také soutěží a to v přípravě obligátního bramborového salátu a hlavně v pečení vánočního pečiva.
 
 Využívám také této příležitosti k tomu, abych všem studentům hostovky popřál příjemné prožití svátků Vánočních, zdraví a hlavně hodně štěstí v novém roce. Na Titaniku totiž všichni byli zdraví, ale někteří neměli štěstí.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

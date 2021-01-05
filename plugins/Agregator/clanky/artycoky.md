@@ -5,7 +5,7 @@
 
 # Neobyčejný bodlák artyčok
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="gastronomie"}
 
@@ -44,6 +44,24 @@ Srdíčka velkých artyčoků se mohou po uvaření zchladit a [marinovat][1] pr
 Artyčoky se jedí tak, že dvěma prsty vytrhnete lístek z hlavy, namočíte ho do rozpuštěného másla nebo omáčky a zuby strhnete jeho jemnou a lahodnou dřeň. No a takto pokračujete, dokud neotrháte všechny lístky.
 
 Následně nožem nebo ostrou lžičkou vyškrábete z artyčoku vousy. Ty pokrývají jeho nejcennější část, kterou je jeho srdíčko. To si nakrájíte na malé kousky a podobně jako lístky ho namáčíte do másla nebo do oblíbené omáčky.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 
  [1]: /duseni#marinada
 

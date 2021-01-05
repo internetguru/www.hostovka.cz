@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=286.html" data-image="/files/preview/clanky/porchetta/general.jpg" data-type="article"}
 
-{ctime="2008-02-17" mtime="2008-02-17" id="porchetta" author="Michael Klíma" short="Porchetta" authorid="hostovka/michael_klima"}
+{ctime="2008-02-17" mtime="2008-02-17" data-top="924" id="porchetta" author="Michael Klíma" short="Porchetta" authorid="hostovka/michael_klima"}
 
 # Porchetta
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -26,4 +26,22 @@ Zampetti OriginaliTM
 Zampeti které se dá připravit o mnoho snadněji než kdysi tak populární zampone, se připravuje ve speciální peci. Tajemství spočívá také hlavně ve způsobu kořenění.
 
 Výše uvedené výrobky pravděpodobně na českém trhu ještě nejsou ale při oblibě které se vepřové maso na českém stole těší nebude asi dlouho trvat než někdo něco podobného začne vyrábět.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

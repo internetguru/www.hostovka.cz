@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=450.html" data-image="/files/preview/clanky/eighty_six/general.jpg" data-type="article"}
 
-{ctime="2009-09-28" mtime="2009-09-28" id="eighty\_six" author="Michael Klíma" short="Eighty six" authorid="hostovka/michael\_klima"}
+{ctime="2009-09-28" mtime="2009-09-28" data-top="983" id="eighty\_six" author="Michael Klíma" short="Eighty six" authorid="hostovka/michael\_klima"}
 
 # Eighty six
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="co-kdy-kde"}
 
@@ -26,4 +26,22 @@ Jedna nejvěrohodnější teorie je: „86“ A Professional expression (slang),
 V restauraci Delmonico v Novém Yorku měli na přelomu století na jídelním lístku 85 jídel. Podle těch čísel byla v kuchyni ta jídla objednávána a když se některé jídlo vyprodalo, jako například hamburger, tak kuchaři napsali na tabuli: „HAMBURGER 86“.
 
 Toto ale není nic nového, protože i v Česku když se například vyprodala svíčková, tak na tabuli se česky napsalo: „Svíčková AUS“.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

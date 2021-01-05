@@ -5,7 +5,7 @@
 
 # Jak si vybrat z lístku
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="gastronomie"}
 
@@ -82,4 +82,22 @@ Pointa?
 Jako studenti Hostovky byste se neměli holedbat vašimi znalostmi leda že jste si stoprocentně jisti, že víte o čem mluvíte.
 
 Není totiž tajemstvím, že mnozí čeští kuchaři "vylepší" i několik staletí staré klasické receptury, ale někteří oproti tomu připravují jídla podle podnikových receptur.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

@@ -5,7 +5,7 @@
 
 # Ekonomie kuchyňských technik
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="kuchyňské techniky"}
 
@@ -68,4 +68,22 @@ Bez pečlivé přípravy není myslitelné zabezpečit plynulý provoz žádné 
 Byli byste ale sami proti sobě kdybyste se nenaučili připravovat si mise-en-place i v domácnosti.
 
 Posláním HOSTOVKY je popsat a vysvětlit všechny techniky se kterými se setkáváte v mnoha receptech bez jakéhokoliv vysvětlení to jen proto, že sám autor zmíněnou techniku vlastně nezná a nebo předpokládá, že ji jeho čtenáři znají.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

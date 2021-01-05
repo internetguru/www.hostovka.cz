@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=33.html" data-image="/files/preview/clanky/zrani/general.jpg" data-type="article"}
 
-{ctime="2008-07-03" mtime="2019-03-12" id="zrani" author="Michael Klíma" short="Zrání"}
+{ctime="2008-07-03" mtime="2019-03-12" data-top="980" id="zrani" author="Michael Klíma" short="Zrání"}
 
 # Zrání hovězího masa
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-08-25, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="kuchyňské techniky"}
 
@@ -64,6 +64,24 @@ Doba zrání masa je otázka osobní preference. Někteří lidé dají přednos
 V restauracích většina hostů dává přednost masu uzrálému, za což jsou ochotni zaplatit i něco navíc. Problém je v tom, že se stupeň zralosti masa dá zjistit jedině velice složitým testem zvaným _Warner-Bratzler shear force test_, který se v Česku hned tak používat nebude.
 
 Zrání masa nesmíme zaměňovat s [marinováním][1] o kterém si povíme později.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 
  [1]: /duseni#marinada
 

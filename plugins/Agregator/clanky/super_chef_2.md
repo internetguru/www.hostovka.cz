@@ -5,7 +5,7 @@
 
 # Super chef 2
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="gastronomie"}
 
@@ -34,4 +34,22 @@ A co všechny ty naše odborné školy. Neměly by ty pořady „Ano šéfe“ a
 A co ten další porotce, náš největší gastronomický odborník pan Roman Vaněk. Neměl by na těch našich školách vyučovat a podílet se o své mnohaleté odborné zkušenosti.
 
 No takto bych mohl pokračovat do nekonečna, což mě ale již tak trochu unavuje a tak si ještě počkám na to, kdo vyhraje ten milion a titul Super šéf, protože ten se určitě bude o své odborné vědomosti podílet.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

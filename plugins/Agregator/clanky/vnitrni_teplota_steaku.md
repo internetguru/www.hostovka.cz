@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=545.html" data-image="/files/preview/clanky/vnitrni\_teplota\_steaku/general.jpg" data-type="article"}
 
-{ctime="2011-01-06" mtime="2011-01-06" id="vnitrni\_teplota\_steaku" author="Michael Klíma" short="Vnitřní teplota steaků" authorid="hostovka/michael_klima"}
+{ctime="2011-01-06" mtime="2011-01-06" data-top="954" id="vnitrni\_teplota\_steaku" author="Michael Klíma" short="Vnitřní teplota steaků" authorid="hostovka/michael_klima"}
 
 # Vnitřní teplota steaků
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="gastronomie"}
 
@@ -51,4 +51,22 @@ Při výuce na hotelové škole v Chicagu, mí studenti, kteří také zbožňov
 Mnozí se při tom dokonce ušklíbali, až do doby, než jsem je přesvědčil o tom, že ta krev není nic špatného, že do toho masa patří, a že si nemohu dovolit ji vylévat, protože jsem za ni zaplatil stejně jako za to maso.
 
 Kontrolní otázka. Kilogram svíčkové stojí dnes asi tak 500 Kč. Když z této svíčkové po nějaké době vytečou 2 procenta krve, kterou vylijete, a když další 1 procento váhy se vypaří, kolik bude stát kilogram svíčkové, která vám zbyla?
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

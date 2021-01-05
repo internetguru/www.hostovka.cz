@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=124.html" data-image="files/preview/clanky/obloha/preview.jpg" data-type="article" data-top="9"}
 
-{ctime="2005-12-09" mtime="2005-12-09" id="obloha" author="Michael Klíma" authorid="hostovka/michael_klima"}
+{ctime="2005-12-09" mtime="2005-12-09" data-top="988" id="obloha" author="Michael Klíma" authorid="hostovka/michael_klima"}
 
 # Obloha
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -195,4 +195,30 @@ Snad jen to, že toto jsou informace jen pro Vás protože jste se na to ptal a 
 Studentům Hostovky, kteří jak předpokládám že to dočetli až dokonce, mohu ale doporučit, aby si v Česku před jídlem místo předkrmu nedávali něco jako malý salát, což mám rád já místo překrmu, protože jr o nšco co vám pak přidají teměř ku každému jídlu jako oblohu.
 
 Pokud se překrmů týká, tak o těch vám zde také něco napíši jen co mi zde opadne ten fofr.
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

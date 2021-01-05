@@ -5,7 +5,7 @@
 
 # Kde je zakopaný pes
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="o čem se nemluví"}
 
@@ -40,4 +40,22 @@ Já jsem se na ten dotazník sice podíval, a netajím se tím, že pokud se tý
 Opravte mě, pokud se mýlím, ale z praxe vím, že je celá řada chronických stěžovatelů, kteří o nějakých hvězdičkách nic nevědí a kteří spí v hotelu v tom nejlepším případě jednou za rok o dovolené a kteří tudíž vlastně ani nevědí, co jim za jejich peníze patří a tak bych jenom rád věděl, jakým přínosem jejich hodnocení pro daný hotel může být.
 
 Nakonec ani několikaleté zaměstnání v oboru pohostinství ještě není zárukou dostatečných odborných znalostí. Na hotelové škole v Americe, na které jsem několik let vyučoval, jsem často mým studentům dával otázku: „Kdo je lepším znalcem pohostinství, je to kuchař který posledních deset let pracuje v jedné a té samé kuchyni a do žádné jiné restaurace nechodí a v žádném pořádném hotelu nikdy nespal, nebo je to obchodní cestující který si neumí uvařit ani čaj, ale kerný po dva nebo tři roky spí pokaždé v jiné posteli a jí jak dobrá či špatná jídla. A to nemluvím o sofistikovaných hostech kteří již několikrát byli v zahraničí, takže mají možnost srovnání. Co vy na to?
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

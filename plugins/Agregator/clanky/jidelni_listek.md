@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=53.html" data-image="/files/preview/clanky/jidelni_listek/general.jpg" data-type="article"}
 
-{ctime="2005-07-29" mtime="2005-07-29" id="jidelni\_listek" author="Michael Klíma" short="Jídelní lístek" authorid="hostovka/michael\_klima"}
+{ctime="2005-07-29" mtime="2005-07-29" data-top="941" id="jidelni\_listek" author="Michael Klíma" short="Jídelní lístek" authorid="hostovka/michael\_klima"}
 
 # Jídelní lístek
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -76,4 +76,22 @@ V současné době probíhá diskuse o návratu tradice kdysi tak známého čes
 Dnes, sedmnáct let po zavedení tržního hospodářství je zřejmé, že bez pomoci hostů, jako nejdůležitější složky která se na pohostinství podílí, se české pohostinství se současnými problémy nevypořádá a proto bycom se na stránkách HOSTOVKY s touto problematikou měli intezivně zabývat.
 
 Vyzývat studenty Hostovky k tomu aby bojkotovali restarace které ku změnám v mezinárdní gastronomii nepřehlíží by nebylo ode mně moc etické, nehledě k tomu, že díky mým kritikám mám na hlavě másla už dost, ale myslím si, že by studenti Hostovky měli svoji nespokojenost vyjadřovat.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

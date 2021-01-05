@@ -5,7 +5,7 @@
 
 # Sacher Eduard
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="ubytování"}
 
@@ -26,4 +26,22 @@ Jsou to tři vrstvy čokoládového piškotového korpusu které jsou silně pot
 "Nakonec se vyspíš v překrásné Biedermeirové posteli s hedvábným povlečením, a to nejenom že tě také nic nestojí, ale navíc když se ráno probudíš, tak najdeš dvě stodolarové bankovky pod polštářem."
 
 "To není možné, ty jsi tam byl?", jsem se zeptal. "Já ne", povídá můj přítel, "ale moje paní tam byla".
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

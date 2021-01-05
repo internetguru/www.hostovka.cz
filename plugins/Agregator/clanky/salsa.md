@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=308.html" data-image="/files/preview/clanky/salsa/general.jpg" data-type="article"}
 
-{ctime="2008-04-24" mtime="2008-04-24" id="salsa" author="Michael Klíma" short="Salsa" authorid="hostovka/michael_klima"}
+{ctime="2008-04-24" mtime="2008-04-24" data-top="928" id="salsa" author="Michael Klíma" short="Salsa" authorid="hostovka/michael_klima"}
 
 # Salsa
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -124,4 +124,22 @@ Domněnky jsou, že cilantro bylo jednou z prvních rostlin pěstovaných v Seve
 O cilantru byly zmínky v thébských lékařských papyrosech psaných 1552 před n.l. a rostl v babylonských visutých zahradách. Staří Židé přidávali cilantro do rituálního koření používaného při Passover.
 
 Řečtí lékaři cilantro přičítali léčivé účinky.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=75.html" data-image="/files/preview/clanky/zatraceny\_krabi\_zivot/general.jpg" data-type="article"}
 
-{ctime="2005-09-19" mtime="2005-09-19" id="zatraceny\_krabi\_zivot" author="Michael Klíma" short="Zatracený krabí život" authorid="hostovka/michael_klima"}
+{ctime="2005-09-19" mtime="2005-09-19" data-top="912" id="zatraceny\_krabi\_zivot" author="Michael Klíma" short="Zatracený krabí život" authorid="hostovka/michael_klima"}
 
 # Zatracený krabí život
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -188,4 +188,22 @@ Za zmínku také stojí, že pivo se ku krabům také moc nehodí, to si dávejt
 Jsou lidé, a dá se říci, že docela sofistikovaní hosté, kteří ku krabům pijí červené víno, ale podle mě ideální je nějaké suché bílé víno, ale pokud vínu moc nerozumíte, tak si nechte poradit od odborníka, což někdy může být i místní someliér. Když už jste utratili ty hříšné peníze za toho kraba, tak na tom víně moc nešetřete.
 
 Pro ty studenty kteří o krabech toho chtějí vědět více přikládám anatomii kraba, ale do češtiny si to musíte přeložit již sami.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

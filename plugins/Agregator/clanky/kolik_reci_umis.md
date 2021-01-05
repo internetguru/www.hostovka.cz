@@ -5,7 +5,7 @@
 
 # Kolik řečí umíš
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="ubytování"}
 
@@ -164,4 +164,22 @@ English well talking.
 Here speeching American.
 
 Vás kteří nerozumíte angličtině je mně upřímně líto, ale do češtiny bych to nepřekládal za žádné peníze.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

@@ -5,7 +5,7 @@
 
 # Blackdog cantina
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-08-25, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="o čem se mluví"}
 
@@ -70,4 +70,22 @@ Ve střehu ale bychom měli být mi všichni, kteří se tím pohostinstvím ji�
 Ve střehu by ale mělybýt i všechnny hamburgárny. To co v té BLACKDOG CANTNA podávají jako hamburger by měl být důvod k vysídlení Scotta zpět do Ameriky, kde by za to dpstal sto let tsíceletého žaláře.
 
 A to nemluvím o jeho sirloin steaku. What a shit! To je tedy odvaha! Jak je ale vidět novinářum se to líbí, ale pak jim věřte. Co vy na to?
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

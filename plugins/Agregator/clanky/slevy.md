@@ -5,7 +5,7 @@
 
 # Slevy
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="gastronomie"}
 
@@ -38,4 +38,22 @@ Po dobu HAPPY HOUR, se podávají formou "All you can eat", neboli že toho mů�
 A Americe mnohé restaurace poskytují "Senior citizens discount", která se pohybuje od 10 do 25%.
 
 Zřejmě si teď říkáte, jak při těch všemožných slevách mohou restauratéři vůbec existovat. Nemusíte však mít obavy. Jednak se ty slevy nesčítají, takže můžete využít jen jednu z nich, a navíc to mají všechny restaurace dobře spočítané. Na lihovinách je v Americe taková marge, že když si dáte jen dva drinky a nic jiného, tak ten restauratér má již vyděláno, přestože vám poskytl některou z těch slev. _What a contry! {xml:lang="en"}_
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

@@ -5,7 +5,7 @@
 
 # Who Cares About the Czech Specials
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="gastronomie"}
 
@@ -166,4 +166,22 @@ Moje Nová Mexická kuchyně, je dalším důkazem, že nedělám velkých rozd�
 S oblibou dávám lidem otázku: „Kdo je větším znalcem jídel a nápojů?“ Je to kuchař nebo číšník, který pracuje posledních 10 až 15 let v jednom a tom samém (třeba i dobrém) podniku, který zná všechna jídla a nápoje na lístku úplně nazpaměť, a který je všechny třeba uvařil a někdy dokonce i ochutnal, který tvrdě pracuje šest dnů v týdnu a kterého v den volna nedonutíte, aby šel do nějaké restaurace na jídlo - nebo je to obchodní cestující, který po 2 roky cestuje po světě a nejméně pětkrát za týden snídá, obědvá a večeří, buď v dobrých nebo i špatných restauracích a který si sice neumí uvařit ani čaj, ale který měl za tu dobu možnost ochutnat stovky možná i tisíce jídel a nápojů? Je zajímavé, že většina lidí se shoduje v tom, že lepším znalcem jídel a nápojů je spíše ten kdo je často konzumuje, než ten, který je připravuje a někdy ani neochutná. 
 
 No a závěrem i vám musím dát otázku, kterou budu opakovat, dokud mi někdo neodpoví a to ne které jídlo považujete za českou specialitu, ale která tak zvaná česká specialita se objevuje na jídelních lístcích populárních mezinárodních restaurací.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

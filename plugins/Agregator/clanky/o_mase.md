@@ -5,7 +5,7 @@
 
 # O mase
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -186,4 +186,22 @@ Totiž pokud si host stěžuje na nedopečený steak, tak i když to již není 
 Pokud se nebudete moci mého semináře praktického grilování zúčastnit a chtěli byste o těchto steacích něco vědět, neváhejte se na to zeptat.
 
 Pokud se steaků týká tak já mám odpověď na všechno a pokud ne,tak si prostě něco vymyslím.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

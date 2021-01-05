@@ -5,7 +5,7 @@
 
 # M. B. Svobodová
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="gastronomie"}
 
@@ -198,4 +198,22 @@ Polička 30./9. 1893.
 Musím přiznati aniž bych přepínala, že tak dokonalé knihy jako jest ?Kuchařská škola" sepsaná M. B. Svobodovou jsem zřídka kdy v naší české ženské literatuře nalezla. Moderní duch, který pohnul základy naší doby, pronikl tedy i do našeho ženského písemnictví, a na jeho základě povstalo dílo, jež jak obsahem, tak i formou svou předčí vše, co posud v tomto oboru vydáno bylo. Znám mnoho kuchařských knih sepsaných ženami, jež zajisté v tomto směru nad jiné vynikaly, ale nerozpakuji se ani na chvíli prohlásiti, že kniha nejnověji M. B. Svobodovou sepsaná hlavně svou význačnou svérázností a neodvislostí jest korunou jich všech. To není suchopárné poučování, při kterém unikající myšlénky stěží při obsahu udržujeme a jež nás unavuje, naopak, toť pravé vypravování, které nás poutá a baví od stati ku stati vždy více. Způsob jejího poučování je tak jemný, péro tak obratné a sloh tak dokonalý i lehce proniknutelný, že milerády se noříme do obsahu díla jejího a tím jest právě dosažen hlavní účel její, založený na znalosti těkavé mysli dívčí. Ona ve formě výpravovatelské podává vše, co považuje za potřebné pro život, spojujíc tak vše zábavné i poučné v té nejkrásnější shodě.
 
 Proto neopomíjím veškery své družky na toto skvostné dílo upozorniti a vybídnouti je, aby žádná z nich neváhala se sama přesvědčiti o jeho výtečnosti. Božena Routková- Janovská.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

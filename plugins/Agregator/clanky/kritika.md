@@ -5,7 +5,7 @@
 
 # Kritika
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="o čem se mluví"}
 
@@ -118,4 +118,22 @@ Labužník není někdo, kdo navštěvuje populární, drahé a exklusivní rest
 Do skupiny labužníků, abych se přiznal, patřím i já. Během mé praxe jsem procestoval téměř celý svět a s oblibou říkám, že sežeru všechno, co napřed nesežere mně a tak se dá říci, že není téměř žádné jídlo, které bych neochutnal, ale přesto mám své preference. Pracoval jsem také většinou v dobrých hotelích a restauracích, a to i v takových kde cena večeře na osobu mohla být  _{var="200"}_,- i více (bez vína), a kde jsem toho mohl sníst a vypít co hrdlo ráčí, ale nejlépe jsem si pochutnal, když mi manželka doma udělala knedlíky s vejci, šunkofleky nebo cmundu a dobrou českou sekanou nikdy neodmítnu.
 
 Tudíž přes 60 let praxe v pohostinství bych se neopovažoval doporučovat nějaké restaurace jako pan Poštůlka, kterého, podle toho co jsem si na těch jeho stránkách přečetl, považuji za diletanta a bulšitáře, který možná rozumí něčemu jinému, ale který o gastronomii má velice zkreslené představy.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

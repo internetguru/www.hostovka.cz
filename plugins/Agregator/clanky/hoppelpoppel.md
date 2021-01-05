@@ -5,6 +5,8 @@
 
 # Hoppelpoppel – jídlo ze zbytků
 
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
+
 {kw="jídla a jídelní lístky, Německo, recept"}
 
 _Hoppelpoppel {xml:lang="de"}_ (nebo také hoppel-poppel) je jídlo údajně německého původu. Ještě donedávna bych ale dal ruku do ohně za to, že je to české jídlo.
@@ -18,6 +20,24 @@ Kdyby v jídle nebyly knedlíky, tak bych skoro řekl, že se podobá čínském
 Ještě více mě vždy ale mátlo to, že některé restaurace uváděly _Hoppelpoppel {xml:lang="de"}_ mezi vaječnými jídly a některé pražské vinárny a bary ho dokonce uváděly mezi [minutkami][1].
 
 Ať je tomu jakkoliv, přimlouval bych se za to, aby (díky knedlíkům) bylo toto jídlo pasováno na českou národní specialitu. Přál bych si, aby bylo na jídelních lístcích uváděno někde nahoře, aby si ho každý hned všimnul.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 
  [1]: /minutky
 

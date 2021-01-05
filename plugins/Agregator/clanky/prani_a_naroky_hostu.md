@@ -5,7 +5,7 @@
 
 # Přání a nároky sofistikovaných hostů
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="restaurace a servis"}
 
@@ -80,4 +80,22 @@ Požadavky EU na gastronomii a kvalitu služeb jsou dnes jiné a český pohosti
 Moderní evropský host se již nechce přizpůsobovat zastaralým gastronomickým předpisům, evropský sofistikovaný host očekává, že pohostinství ve všech členských státech EU se přizpůsobí jeho přáním a nárokům.
 
 Posláním HOSTOVKY je její studenty naučit rozeznávat rozdíly mezi jejich přáními a nároky.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

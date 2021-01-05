@@ -1,14 +1,19 @@
+
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=294.html" data-image="/files/preview/clanky/bufet/general.jpg" data-type="article"}
 
 {ctime="2008-03-04" mtime="2020-01-05" id="cinsky_bufet" author="Michael Klíma" short="Čínský bufet"}
 
-## Čínský samoobslužný bufet
+# Čínský samoobslužný bufet
+
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="jídla a jídelní lístky, bufet"}
 
-Nedávno jsem v poště našel nabídku jedné čínské restaurace. Cena za [polední bufet][1] se mi zdála přijatelná. Útrata za dvě osoby včetně 15% spropitného (za to odklízení použitého nádobí) je $17, což při aktuálním kurzu dolaru (v roce 2006) odpovídá zhruba 400 Kč.
+Nedávno jsem v poště našel nabídku jedné čínské restaurace. Cena za polední bufet se mi zdála přijatelná. Útrata za dvě osoby včetně 15% spropitného (za to odklízení použitého nádobí) je $17, což při aktuálním kurzu dolaru (v roce 2006) odpovídá zhruba 400 Kč.
 
 Vzdálenost restaurace je od nás jen asi 30 minut jízdy, a tak jsme ji šli s manželkou vyzkoušet. Moc jsem si od toho za tu cenu nesliboval. Byl jsem však velmi mile překvapen, a proto se o svou zkušenost musím s vámi podělit.
+
+{id="koncept"}
 
 ## Koncept a vybavenost restaurace
 
@@ -16,15 +21,17 @@ Restaurace má asi 400 míst a zdá se, že ji obsadí za den asi tak pětkrát.
 
 Restaurace otevírá denně v 10:30 a zavírá ve 23 hod., v neděli ve 22 hod. Přišli jsme tam asi 10 minut před polednem a restaurace byla podle mého odhadu zaplněná asi tak ze 30 %. Takže jsme se mohli vybrat stůl, ke kterému nás uvedla velmi milá hosteska. Ta nám zkráceně řekla, jak to u nich chodí, a zároveň přijala objednávku nápojů.
 
-Vzápětí nám usměvavá čínská servírka s anglickou jmenovkou (a roztomilým čínským přízvukem) přinesla příbory (mně [jídelní hůlky](hulky)) a objednané nápoje (jasmínový čaj) a vyzvala nás k návštěvě bufetu.
+Vzápětí nám usměvavá čínská servírka s anglickou jmenovkou (a roztomilým čínským přízvukem) přinesla příbory (mně [jídelní hůlky][1]) a objednané nápoje (jasmínový čaj) a vyzvala nás k návštěvě bufetu.
 
-Mimo dvou studených pultů s několika druhy salátů a [dresinků](zalivka_dresink#dresinky) a mimo pultu, kde připravují na počkání sushi, tam mají asi 6 dalších bufetových pultů, a to jak chlazených, tak i vyhřívaných.
+Mimo dvou studených pultů s několika druhy salátů a [dresinků][2] a mimo pultu, kde připravují na počkání sushi, tam mají asi 6 dalších bufetových pultů, a to jak chlazených, tak i vyhřívaných.
 
 Chtěl jsem pulty vyfotografovat, ale jeden z vedoucích mě upozornil na to, že se pulty fotografovat nesmí. Já sice bych sice jako vedoucí restaurace každého hosta vybízel, aby si je vyfotil a ukazoval svým známým, ale samozřejmě jsem nařízení respektoval.
 
 Bez nějaké nadsázky se mohu pochlubit tím, že jsem se svými zaměstnanci podobných bufetů nadělal celou řadu. Takže se samozřejmě nejednalo o nějakou špionáž z mé strany, jako spíše o to, že mám rád vše zdokumentované.
 
 Fotografie vám tudíž přiložit nemohu, ale pokusím se vám to takovým českým způsobem popsat v kostce…
+
+{id="pulty"}
 
 ## Pulty a nabídka pokrmů
 
@@ -36,6 +43,8 @@ To ale není vše. Na sladkém pultu, takzvaném _sweet table {xml:lang="en"}_, 
 
 Restaurace má bohatý výběr nealkoholických nápojů, limitovaný výběr vín, piv a čínských lihovin, které jsou ale účtovány zvlášť podobně jako čaje. Samoobslužný zmrzlinový stroj se třemi druhy zmrzliny je populární nejenom u dětí, ale i u mě, protože zmrzlina je moje slabost.
 
+{id="obsluha"}
+
 ## Obsluha a cena
 
 V celku musím tento bufet hodnotit jako velmi dobrý, chutný a atraktivně upravený. Obsluha je jen tak rychlá, jak rychle se stačíte sami obsloužit. Obsluhující velmi ochotně pomohou handicapovaným hostům a také relativně rychle sklízejí použité nádobí.
@@ -46,4 +55,24 @@ Musím také říci, že politika této restaurace je v plném souladu s mou teo
 
 Zajímalo by mě ale, kolik by takový bufet stál v kterémkoliv městě v Čechách. Téměř všechny suroviny, které jsem na tom bufetu viděl, jsou dnes v Čechách již běžně k dostání. Čínská kuchyně dnes už také není nic, co by naši kuchaři neuměli připravit. Největší problém by asi byl potřebný počet hostů.
 
- [1]: bufet#samoobsluzna_restaurace
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
+
+ [1]: /hulky
+ [2]: /zalivka_dresink#dresinky
+

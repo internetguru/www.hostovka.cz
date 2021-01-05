@@ -5,7 +5,7 @@
 
 # Management By the Menu
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="pohostinství"}
 
@@ -36,4 +36,22 @@ K tomu bych ale chtěl dodat, že síla amerického hotelového a pohostinského
 Pokud máte nějaké otázky k tomuto tématu, tak neváhejte mi je položit. Pokud se týká pohostinství mám totiž odpověď na všechno a pokud ne, tak si prostě něco vymyslím.
 
 Nemusím vám ale asi říkat, že k otevření restaurace nebo hotelu vám informace na těchto stránkách stačit nemohou, ale pokud máte o podnikání v pohostinství vážný zájem a máte nějaký záměr, tak mně neváhejte kontaktovat. Pokud váš záměr má předpoklady úspěchu, tak vám ho pomohu dovést k úspěšnému konci a pokud ne, tak vám ho za pár korun rozmluvím.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

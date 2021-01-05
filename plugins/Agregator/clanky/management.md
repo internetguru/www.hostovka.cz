@@ -5,7 +5,7 @@
 
 # Management
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="gastronomie"}
 
@@ -32,4 +32,22 @@ Toto bylo moje první praktické seznámení s kapitalistickým systémem restau
 A jaké z toho plyne poučení? Prostě pokud se týká pohostinství, tak se od těch blbých Američanů musíme ještě hodně učit. S něčím takovým abyste měli ve stavu 8 servírek a nevím kolik kuchařů, ať je kšeft nebo ne, se v Americe nesetkáte. V Americe se totiž neplatí za to, že někdo přijde do práce, ale za práci a eventuálně kolik té práce udělá. _What a country! {xml:lang="en"}_ No, já ale vím, že vám s těmi americkými BS jdu už na nervy, a tak to prostě dělejte nadále tak jak vám to nejlépe vyhovuje.
 
 Tento článek jsem již napsal do některých odborných web stránek, ale myslím si, že se z něj poučíte i vy jako studenti Hostovky. Když nic jiného tak se asi často zamyslete nad tím, jaké jsou tedy výhody toho dlouhého a krátkého týdně a proč v některých restauracích nemůžete za své peníze dostat to co vám patří a musíte na jídlo čekat půl hodiny i déle, přestože tam číšníci a servírky padají jeden přes druhého.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=76.html" data-image="/files/preview/clanky/ochutnavka_vina/general.jpg" data-type="article"}
 
-{ctime="2005-09-19" mtime="2005-09-19" id="ochutnavka\_vina" author="Michael Klíma" short="Ochutnávka vína" authorid="hostovka/michael\_klima"}
+{ctime="2005-09-19" mtime="2005-09-19" data-top="929" id="ochutnavka\_vina" author="Michael Klíma" short="Ochutnávka vína" authorid="hostovka/michael\_klima"}
 
 # Ochutnávka vína
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="nápoje"}
 
@@ -478,5 +478,23 @@ n/a
   * zrání vína - soubor chemických a fyzikálních procesů, vedoucích ke změně barvy, vůně a chuti vína
   * zvadlé víno - víno za vrcholem kvality, doba zrání byla překročena, víno má příchuť stařiny a jeho další vývoj povede ke zhoršování kvality
   * ženské víno - víno jemné harmonické vůně a chuti, s hedvábnou strukturou a exkluzivním stylem; nezaměňovat se sladkým vínem
-  * živé víno - mladé, ještě nevyčleněné, se zbytky oxidu uhličitého
+  * živé víno - mladé, ještě nevyčleněné, se zbytky oxidu uhličitého 
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

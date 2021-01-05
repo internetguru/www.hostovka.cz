@@ -5,7 +5,7 @@
 
 # Příprava jídla bahmi goreng
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="jídla a jídelní lístky, recept, nudle, Holandsko, Indonésie"}
 
@@ -21,4 +21,22 @@ Holandské bahmi goreng je jídlo, se kterým se setkáte po celém světě. Skl
   8. Vařené nudle dobře přecedíme a opražíme dokřupava v horkém oleji. Usmažené nudle přimícháme k masové směsi nebo je dáme na horkou mísu a masovou směs na ně nalijeme.
 
 Toto vynikající jídlo po celém světě zpopularizovali Holanďané, kteří si ho tak říkajíc přivlastnili. V Indonésii bahmi goreng zdobí natvrdo vařeným vejcem osmahnutým v horkém tuku krájeným na čtvrtky.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

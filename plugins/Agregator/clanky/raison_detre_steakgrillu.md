@@ -5,7 +5,7 @@
 
 # Raison d´etre Steakgrillu
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="restaurace a servis"}
 
@@ -15,13 +15,13 @@ Michael Klima (vlevo) autor restauračního konceptu STEAKGRILL© s jeho protég
 
 Tolik tisková správa, nicméně k tomu musím přidat svůj komentář...
 
-Restaurační koncept STEAKGRILL© s jeho krédem dát lidem to co chtějí a co jim za jejich peníze patří, si dnes po téměř dvouletém úspěšném provoze získal tisíce spokojených opakovan‎ých návštěvníků a tím pádem jejich ocenění, čímž vlastně se nikterak nezlobím, že mé jméno při udělování těch cen a uznání za zásluhy o propagaci českého pohostinství na té konferenci ze strany AHR ČR oficiálně nepadlo, což je více méně dobře, protože tím pádem té AHR ČR nemusím za nic děkovat. Musím ale poděkovat panu Václavu Stárkovi, generálnímu sekretáři AHR ČR, kter‎‎ý mně na tu gala večeři pustil přestože jsem přišel bez reservace a v kožené bundě místo ve smokingu nebo "black tie", a který mně dokonce přisadil ku stolu prominentů. Hlvně ale musím poděkovat Jaroslavu Honzajkovi za to, že při jeho poděkování za uznání jeho práce se o mě zmínil a proto zde jeho příspěvek uvádím:
+Restaurační koncept STEAKGRILL© s jeho krédem dát lidem to co chtějí a co jim za jejich peníze patří, si dnes po téměř dvouletém úspěšném provoze získal tisíce spokojených opakovaných návštěvníků a tím pádem jejich ocenění, čímž vlastně se nikterak nezlobím, že mé jméno při udělování těch cen a uznání za zásluhy o propagaci českého pohostinství na té konferenci ze strany AHR ČR oficiálně nepadlo, což je více méně dobře, protože tím pádem té AHR ČR nemusím za nic děkovat. Musím ale poděkovat panu Václavu Stárkovi, generálnímu sekretáři AHR ČR, který mně na tu gala večeři pustil přestože jsem přišel bez reservace a v kožené bundě místo ve smokingu nebo "black tie", a který mně dokonce přisadil ku stolu prominentů. Hlvně ale musím poděkovat Jaroslavu Honzajkovi za to, že při jeho poděkování za uznání jeho práce se o mě zmínil a proto zde jeho příspěvek uvádím:
 
 Vážené představenstvo, vážení kolegové, vážení hosté!
 
 Abych se přiznal, tak jsem doufal, že mi toto uznání bude uděleno a proto jsem si připravil pár slov, kterými bych chtěl poděkovat všem kteří mi k jeho získání pomohli. Nejsem ale žádný řečník, jsem veliký trémista a proto vám raději přečtu co bych chtěl říci.
 
-Můj mentor Mike Klima mi řekl, že když mluvím k nějakému shromáždění, že mám stát rovně, aby mně všichni viděli (protože jsem malej), že mám mluvit hlasitě (aby mně všihni slyšeli), a udělat to krátké (aby mně všichni měli rádi). Proto bych chtěl jenom zkráceně poděkovat AHR ČR za udělení tohoto titulu, dále Miku Klímovi, kter‎ý mně vlastně do toho navezl a bez kterého by ten čestn‎ý titul dostal asi někdo jin‎ý.
+Můj mentor Mike Klima mi řekl, že když mluvím k nějakému shromáždění, že mám stát rovně, aby mně všichni viděli (protože jsem malej), že mám mluvit hlasitě (aby mně všihni slyšeli), a udělat to krátké (aby mně všichni měli rádi). Proto bych chtěl jenom zkráceně poděkovat AHR ČR za udělení tohoto titulu, dále Miku Klímovi, který mně vlastně do toho navezl a bez kterého by ten čestný titul dostal asi někdo jiný.
 
 Já si tohoto titulu velice vážím a jsem rád, že mi Mike poradil stát se v této organizaci členem. Dále se musím zmínit o dodavatelích potravin, zboží, materiálů a zařízení, kteří mi byli z větší míry rovněž velice nápomocni. Dodavatelů je tolik, že je nemohu všechny jmenovat, ale ti kterých se to týká, vědí koho mám na mysli.
 
@@ -56,4 +56,22 @@ HOSTOVKU k dnešnímu dni (1.1.2008) otevřelo 1042383 lídí z nichž velká v�
 Připravil jsem proto seznam podmínek pro kvalifikované hodnocení úrovně kvality služeb restaruací, které případným zájemcům jakýoliv audit nebo hodnocení usnadní.
 
 Tento seznam bude během několika dni na těchto stránkách ku stažení.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

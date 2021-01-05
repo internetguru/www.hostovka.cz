@@ -5,11 +5,11 @@
 
 # Práva hosta
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="restaurace a servis"}
 
-V‎ýňatek z manuálu Servisu konceptu STEAKGRILL. Ochranu hosta povinnosti podnikatele a práva hosta specifikuje, zákon na ochranu spotřebitele ale dá se to vyjádřit našim sloganem:
+Výňatek z manuálu Servisu konceptu STEAKGRILL. Ochranu hosta povinnosti podnikatele a práva hosta specifikuje, zákon na ochranu spotřebitele ale dá se to vyjádřit našim sloganem:
 
 "DEJTE LIDEM TO CO CHTĚJÍ A CO JIM PATŘÍ"
 
@@ -17,15 +17,15 @@ Podle tohoto sloganu, první na co má náš host právo, je dostat za své pen�
 
 Kdysi to bylo v Česku vyjádřeno cenovými skupinami, ale při porevolučním rušení všeho co na našem socialistickém pohostinství bylo špatné, jsme zrušili i věci které byly dobré jako například označení restaurací cenovými skupinami.
 
-Pokud se týká cenových skupin, jsme toti‎ž s tou špinavou vodou z vaničky vylili i to dítě. Jak se tudíž má v té současné cenové džungli chudák host u nás orientovat. Kdo mu řekne co mu za jeho peníze patří? Kdo mu řekne která restaurace je dobrá a která špatná? Rozhodně ne ty bedekry, které až na nějaké výjimky za peníze o vaši restauraci řeknou jen to nejlepší.
+Pokud se týká cenových skupin, jsme totiž s tou špinavou vodou z vaničky vylili i to dítě. Jak se tudíž má v té současné cenové džungli chudák host u nás orientovat. Kdo mu řekne co mu za jeho peníze patří? Kdo mu řekne která restaurace je dobrá a která špatná? Rozhodně ne ty bedekry, které až na nějaké výjimky za peníze o vaši restauraci řeknou jen to nejlepší.
 
 Kdo tomu hostovi ale poradí jak se bránit proti šizení, balamutění a podceňování jeho inteligence.
 
-Opravte mně pokud se m‎ýlím, ale podle věrohodných pramenů máme v České republice více než 300 odborných učilišť a hotelových škol s maturitou a dnes dokonce i dvě nebo tři vysoké hotelové školy, čímž vlastně máme prvenství v počtu těchto škol a to ne jenom na počet obyvatel, ale i na počet hostů včetně zahraničních turistů.
+Opravte mně pokud se mýlím, ale podle věrohodných pramenů máme v České republice více než 300 odborných učilišť a hotelových škol s maturitou a dnes dokonce i dvě nebo tři vysoké hotelové školy, čímž vlastně máme prvenství v počtu těchto škol a to ne jenom na počet obyvatel, ale i na počet hostů včetně zahraničních turistů.
 
 Tím pádem naši číšníci a servírky nejenom že jsou vyučení, ale navíc mají maturitu, takže máme nejvzdělanější obsluhující na světě a myslím si, že na něco takového můžeme být velice pyšní. Méně pyšní ale můžeme být na to, že úroveň poskytovaných služeb, která je tak často kritizována, je pod mezinárodním standardem, a to není z mé hlavy.
 
-Kdysi si na špatný servis v České republice po příjezdu domů stěžovali jen zahraniční hosté, ale místní klientela vycepovaná k poslušnosti "již předem se vším souhlasila". Doba je dnes ale jiná, a domácí host, obzvláště ten který již navštívil některé cizí země, nebo ten kter‎ studuje Hostovku je dnes již sofistikovaným návštěvníkem pohostinských podniků a proto hodnotí úroveň některých podniků podle světového průměru.
+Kdysi si na špatný servis v České republice po příjezdu domů stěžovali jen zahraniční hosté, ale místní klientela vycepovaná k poslušnosti "již předem se vším souhlasila". Doba je dnes ale jiná, a domácí host, obzvláště ten který již navštívil některé cizí země, nebo ten kter studuje Hostovku je dnes již sofistikovaným návštěvníkem pohostinských podniků a proto hodnotí úroveň některých podniků podle světového průměru.
 
 Při tom stojí za zmínku, že v západním světě, mimo Evropy, je mnoho drahých restauraci se složitým servisem ve kterých obsluhující jsou většinou nevyučení, a mnohdy bez jakéhokoliv odborného vzdělání.
 
@@ -43,9 +43,27 @@ Nejhorší na celé věci je, že někteří naši tak zvaní "odborníci", abso
 
 Zahraniční návštěvníci navštěvují doma restaurace o mnoho častěji než naše běžná domácí klientela a to mi doufám věříte. Američané například sedm jídel z deseti jedí mimo domov. Díky tomu mnozí také vědí co jim patří a na druhé straně ví jak se oni musí v restauraci chovat.
 
-Mnozí také o mnoho více cestují a navíc jim kdysi jejich cestovní kanceláře před odjezdem do Česka dávaly mimo všemožn‎ch materiálů o památkách a krásách naši vlasti i rady jak s námi jednat, ale hlavně jak jednat v hotelích a restauracích, kde když se to tak vezme, stráví většinu času.
+Mnozí také o mnoho více cestují a navíc jim kdysi jejich cestovní kanceláře před odjezdem do Česka dávaly mimo všemožnch materiálů o památkách a krásách naši vlasti i rady jak s námi jednat, ale hlavně jak jednat v hotelích a restauracích, kde když se to tak vezme, stráví většinu času.
 
 Tudíž zahraniční turista ví, co má a co nemá jíst, co má pít, na co má nárok a na co ne, kolik za to budou muset asi zaplatit, a také něco velice důležitého a to je ? kolik by měli dát spropitného.
 
 V současné době těch zahraničních turistů v na3em konceptu sice moc nemáme, ale zásadou našeho konceptu je jednat se všemi hosty stejné, ale přesto v kapitole KLIENTELA naleznete informace o tom jak s našimi zahraničními hosty jednat.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

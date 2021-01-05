@@ -5,7 +5,7 @@
 
 # La merde
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="gastronomie"}
 
@@ -18,4 +18,22 @@ Tonda mi ale řekl, že jsem vůl když nevím, že ve francouzštině stačí �
 Zavolali jsme si tudíž toho garçona a Tonda mu nonšalantně ukázal dva prsty a řekl: "Dvě la polévka". Potom opět zvedl dva prsty a řekl: "Dvě la maso". Nakonec opět zvedl dva prsty a řekl: "Dvě la pivo".
 
 Ten garçon ani nemrk a řekl:"Oui monsieur" a měl se k odchodu. V tom okamžiku mi Tonda řekl: "Vidíš jak jsou ti Frantici pitomí, řekneš le, la, nebo lo, a dostaneš co chceš". Načež ten garçon řekl: "Kluci neblbněte, kdybych nebyl ze Žižkova, tak tu dostanete nejvýše tak la merde".
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

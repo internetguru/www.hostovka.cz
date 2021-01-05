@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=289.html" data-image="/files/preview/clanky/gastronomicke_vyrazy/general.jpg" data-type="article"}
 
-{ctime="2008-02-28" mtime="2008-02-28" id="gastronomicke\_vyrazy" author="Michael Klíma" short="Gastronomické výrazy" authorid="hostovka/michael\_klima"}
+{ctime="2008-02-28" mtime="2008-02-28" data-top="926" id="gastronomicke\_vyrazy" author="Michael Klíma" short="Gastronomické výrazy" authorid="hostovka/michael\_klima"}
 
 # Gastronomické výrazy
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="gastronomie"}
 
@@ -41,11 +41,29 @@ Německé názvy těch jídel jsou psány švabachem což mně osobně nedělá 
 
 Tudíž jak vážený Karle vidíte tak zdrojů informací je několik, ale v případě potřeby okamžitou odpověď pravděpodobně nenajdete. Tudíž to začíná u každého autora odborných knížek a článků aby psal tak aby mu většina čtenářů rozuměla a pokud použije nějaký cizí výraz aby ho vysvětlil.
 
-U této příležitosti se musím příznat že já v poslední době používám velké množsví anglick‎ých výrazů hlavně při popisu masitých jídel což je proto, že všechny mé informace jsou na základě amerického dělení masa které je poněkud jiné než české, nicméně všude tam kde to je možné jsem přiložil přibližný český ekvivalent.
+U této příležitosti se musím příznat že já v poslední době používám velké množsví anglických výrazů hlavně při popisu masitých jídel což je proto, že všechny mé informace jsou na základě amerického dělení masa které je poněkud jiné než české, nicméně všude tam kde to je možné jsem přiložil přibližný český ekvivalent.
 
 Já ale jak jste si povšimli používám americkou odbornou terminologii i v jiných případech. Není to ale pod vlivem mého amerického šovinismu. Nakonec i já jsem se již v mém útlém mládí učil francouzštinu která byla uznávaná jako "gastronomický" jazyk. Francouzská gastronomie, která měla svoji dobu je dnes již pasé a já jsem přesvědčen, že i Carême, Escoffier a jiní by se dnes učili anglickou odbornou terminologii bez které se dnes pomalu neobejdete ani ve Francii.
 
 Není to ale také jen s ohledem na odborníky. Nakonec i většina sofistikovaných hostů se dnes lépe orientuje v anglicky psaných jídelních lístcích spíše než v těch francouzských.
 
 M. Klima
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

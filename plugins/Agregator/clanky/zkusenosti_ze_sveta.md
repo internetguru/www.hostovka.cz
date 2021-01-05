@@ -5,7 +5,7 @@
 
 # Zkušenosti ze světa
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="životopis"}
 
@@ -145,6 +145,24 @@ O něco méně nebezpečná byla práce v Egyptě, kde Mike strávil asi dva rok
 :   Egypt
 
 Takto bychom ale mohli pokračovat dále v popisu Mikových dlouholetých zkušenostech učitele, instruktora a konzultanta v oboru hotelnictví, pohostinství a cestovním ruchu. jak v Africe, Americe v Australii, Evropě a v Asii.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 
  [1]: /files/thumbs/clanky/michael_klima/obr12.jpg
  [2]: /files/thumbs/clanky/michael_klima/obr14.jpg

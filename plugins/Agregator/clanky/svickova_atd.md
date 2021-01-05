@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=409.html" data-image="/files/preview/clanky/svickova_atd/general.jpg" data-type="article"}
 
-{ctime="2009-04-19" mtime="2009-04-19" id="svickova\_atd" author="Michael Klíma" short="Svíčková atd." authorid="hostovka/michael\_klima"}
+{ctime="2009-04-19" mtime="2009-04-19" data-top="942" id="svickova\_atd" author="Michael Klíma" short="Svíčková atd." authorid="hostovka/michael\_klima"}
 
 # Svíčková atd.
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="pohostinství"}
 
@@ -120,4 +120,22 @@ Já mám například rád bejlik a šoulet, ale to nejsou regionální, ale nár
 Já mám také rád domácí škvarky ať již zalité do sádla nebo ne, a to je snad porto, že jsem Čech, ale to je jak nejdále projev mého češství či vlastenectví sahá.
 
 Na mně ale nedejte. Czech Specials budou možná deklarovány jako památky UNESCO a co já vím, možná, že až se v zahraničí prostřednictvím agentury CzechTourism lidé o nich dozvědí, tak k nám budou opět houfně jezdit a restaurace zase budou mít na dveřích cedulky: „Máme skupiny“.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

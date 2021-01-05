@@ -1,9 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=290.html" data-image="/files/preview/clanky/gulas/general.jpg" data-type="article"}
 
-{ctime="2008-03-01" mtime="2019-08-12" id="gulas" author="Michael Klíma" short="Guláš"}
+{ctime="2008-03-01" mtime="2019-08-12" data-top="930" id="gulas" author="Michael Klíma" short="Guláš"}
 
 # Pravý původ guláše
+
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="jídla a jídelní lístky, guláš, Maďarsko"}
 
@@ -51,6 +53,24 @@ Takové povídačky, že se po 3 hodinách každá hotovka musí vyhodit, ať si
 Musím se ale přiznat, že jsem v Americe všechny „české“ guláše také s úspěchem dělal. Musel jsem ale každý z nich vařit denně čerstvý, protože americké maso je tak kvalitní, že by se po druhém ohřátí úplně rozpadlo.
 
 Jestli máte také nějaké triky, kterými by se EU dala oblafnout, tak mi je neváhejte napsat. Dejte lidem to, co chtějí a co jim patří!
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 
  [1]: /duseni
  [2]: /chucpa

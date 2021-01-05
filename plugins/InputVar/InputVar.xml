@@ -2,19 +2,50 @@
 <InputVar>
 <!--   <var id="service_plain">Rostoucí weby, www.rostouciweby.cz</var> -->
 <!--   <var id="service_html"><a href="http://www.rostouciweby.cz">Rostoucí weby</a></var> -->
-  <var id="odkazy_h">Související články</var>
-  <var id="odkazy_desc">Článek ve svém textu odkazuje následující zdroje (v uvedeném pořadí). Zdroje danou problematiku rozvádějí či zmiňují v dalších souvislostech.</var>
+  <var id="pribuzne_h">Příbuzné články</var>
   
+  <var id="twitter-title">Sdílet na Twitteru</var>
+  <var id="fb-title">Sdílet na Facebooku</var>
+  <var id="fbcomment-title">Diskutovat na našem Facebooku</var>
+  <fn id="tmpdateformat" fn="strftime" format="%e. [%m] %Y"/>
   <fn id="createlink" fn="pregreplace" pattern=".+" replacement="https://www.hostovka.cz/$0?usp=sharing" />
   <fn id="createfblink" fn="pregreplace" pattern=".+" replacement="https://www.facebook.com/sharer/sharer.php?u=https://www.hostovka.cz/$0" />
   <fn id="createtwitterlink" fn="pregreplace" pattern=".+" replacement="https://twitter.com/intent/tweet?text=www.hostovka.cz/$0" />
-
+  <fn id="createcommentlink" fn="pregreplace" pattern=".+" replacement="https://www.facebook.com/hostovka/posts/$0"/>
+  
   <fn id="html2md" fn="pregreplace" pattern="(.+).html" replacement="$1.md"/>
   <var id="mdfile" var="file" fn="html2md"/>
-  <var id="ghedit"><a var="inputvar-mdfile@href" href="https://github.com/InternetGuru/www.hostovka.cz/edit/dev/%s">Navrhnout úpravy článku</a></var>
+  <var id="ghedit"><a var="inputvar-mdfile@href" href="https://github.com/InternetGuru/www.hostovka.cz/edit/dev/%s"><span class="fas fa-fw fa-pencil">i</span>Upravit článek</a></var>
+  <var id="ghedit2"><a class="button button--simple button--img button--img-only" var="inputvar-mdfile@href" href="https://github.com/InternetGuru/www.hostovka.cz/edit/dev/%s" title="Navrhnout úpravy článku"><span class="fas fa-fw fa-pencil">i</span> Upravit článek</a></var>
+  <var id="fb-share"><a href="https://www.facebook.com/hostovka"><span class="fab fa-facebook-square">i</span>Sledovat Pralék na Facebooku</a></var>
+
+  <var id="articlebuttons">
+    <li>
+      <span class="hideable hideable-hidden" data-hideable-close-on-ext="true">
+        <span class="eventable button button--simple button--img button--img-only" data-eventable-action="share"><span class="fas fa-fw fa-share-alt">i</span> Sdílet článek</span>
+        <ul>
+          <li><a onclick='return !window.open(this.href, "Facebook", "width=750,height=500")' var="link@href" fn="inputvar-createfblink@href" class="button button--simple button--img button--img-inline"><span class="fab fa-fw fa-facebook-square">i</span>Sdílet na Facebooku</a></li>
+          <li><a onclick='return !window.open(this.href, "Twitter", "width=750,height=500")' var="link@href" fn="inputvar-createtwitterlink@href" class="button button--simple button--img button--img-inline"><span class="fab fa-fw fa-twitter">i</span>Sdílet na Twitteru</a></li>
+          <li>
+            <span class="copyable__heading">Možnosti sdílení</span>
+            <span class="copyable__close" onclick='IGCMS.Hideable.toggleElement(this.parentNode.parentNode.parentNode.getElementsByTagName("a")[0])'>×</span>
+            <span class="copyable" fn="inputvar-createlink" var="link">n/a</span>
+          </li>
+        </ul>
+      </span>
+    </li>
+    <li><span var="inputvar-ghedit2">n/a</span></li>
+    <li><button data-eventable-category="print-header" title="Vytisknout článek" class="button__print button button--simple button--img button--img-only eventable"><span class="fas fa-fw fa-print">i</span>Vytisknout článek</button></li>
+  </var>
+  
+  <var id="fbcomment-ico"><span class="fas fa-comment">i</span></var>
+  <var id="facebook-ico"><span class="fab fa-facebook-f">i</span></var>
+  <var id="twitter-ico"><span class="fab fa-twitter">i</span></var>
+  <var id="link-ico"><span class="fas fa-link">i</span></var>
+  <var id="edit-ico"><span class="fas fa-pencil">i</span></var>
   
   <fn id="headertags" fn="sequence">
-    <call>stripkws</call>
+<!--     <call>stripkws</call> -->
     <call>makeelements</call>
     <call>replacenames</call>
     <call>adduspheader</call>
@@ -27,292 +58,451 @@
     <data name="#clanky">&amp;amp;amp;usp=taglist#clanky</data>
   </fn>
   <var id="strippedkws" fn="stripkws" var="kw" />
-  <var id="articlemeta"><div class="meta"><span var="author">n/a</span> na téma <span var="inputvar-strippedkws" fn="inputvar-headertags">n/a</span> z <span fn="inputvar-dateformat" var="ctime">n/a</span></div></var>
+<!--   <var id="articlemeta"><div class="meta"><span var="author">n/a</span> na téma<span var="inputvar-strippedkws" fn="inputvar-headertags">n/a</span> z <span fn="inputvar-dateformat" var="ctime">n/a</span></div></var> -->
+  <var id="articlemeta"><div class="meta"><span var="kw" fn="inputvar-headertags">n/a</span></div></var>
 
+  <fn id="doclistprefix" fn="pregreplace" pattern="^([^,]+).*" replacement="doclist-\1" />
+  <fn id="makedoclist" fn="sequence">
+    <call>normalize</call>
+    <call>doclistprefix</call>
+  </fn>
+  <fn id="doclistprefix2" fn="pregreplace" pattern="^([^,]+).*" replacement="doclist-print-\1" />
+  <fn id="makedoclist2" fn="sequence">
+    <call>normalize</call>
+    <call>doclistprefix2</call>
+  </fn>
+  <var id="relation" fn="makedoclist" var="kw"/>
+  <var id="relationprint" fn="makedoclist2" var="kw"/>
+  
   <fn id="maketags" fn="sequence">
     <call>makeelements</call>
     <call>replacenames</call>
     <call>addusptaglist</call>
   </fn>
-  
-  <fn id="makeelements" fn="pregreplace" pattern="([a-zA-Z0-9áčďéěíňóřšťůúýžÁČĎÉĚÍŇÓŘŠŤŮÚÝŽ _-]+)(:?, )?" replacement="&#x3C;a href=&#x22;href=\1&#x22; title=&#x22;title=\1&#x22; class=&#x22;tag nowarning&#x22; data-local-title=&#x22;Na začátek seznamu&#x22; &#x3E;\1&#x3C;/a&#x3E;" />
 
+  <fn id="faqprefix" fn="pregreplace" pattern="^" replacement="doclist-faq_" />
+  <fn id="faqprefix2" fn="pregreplace" pattern=", " replacement=" doclist-faq_" />
+
+  <fn id="makefaqdoclist" fn="sequence">
+    <call>normalize</call>
+    <call>faqprefix</call>
+    <call>faqprefix2</call>
+  </fn>
+  <var id="faqs" fn="makefaqdoclist" var="kw"/>
   
+  <fn id="makeelements" fn="pregreplace" pattern="([a-zA-Z0-9áčďéěíňóřšťůúýžÁČĎÉĚÍŇÓŘŠŤŮÚÝŽ _-]+)(:?, )?" replacement="&#x3C;a href='href=\1' title='title=\1' class='tag nohash' data-local-title='Na začátek seznamu' &#x3E;&#x3C;span class='fas fa-tag'&#x3E;i&#x3C;/span&#x3E;\1&#x3C;/a&#x3E;" />
+  
+  <fn id="normalize" fn="replace">
+<!-- [normalize] generated content, do not edit -->
+    <data name="Amerika">amerika</data>
+    <data name="Anglie">anglie</data>
+    <data name="aspik">aspik</data>
+    <data name="banket">banket</data>
+    <data name="bar">bar</data>
+    <data name="brambory">brambory</data>
+    <data name="broušení">brouseni</data>
+    <data name="brunch">brunch</data>
+    <data name="bufet">bufet</data>
+    <data name="Bulharsko">bulharsko</data>
+    <data name="Carême">careme</data>
+    <data name="catering">catering</data>
+    <data name="Česká republika">ceska_republika</data>
+    <data name="cestovní ruch">cestovni_ruch</data>
+    <data name="chlebíčky">chlebicky</data>
+    <data name="chutě">chute</data>
+    <data name="chuťovky">chutovky</data>
+    <data name="Čína">cina</data>
+    <data name="čínská restaurace">cinska_restaurace</data>
+    <data name="co-kdy-kde">co-kdy-kde</data>
+    <data name="cukroví">cukrovi</data>
+    <data name="děti">deti</data>
+    <data name="doplňky">doplnky</data>
+    <data name="ekologie">ekologie</data>
+    <data name="etika">etika</data>
+    <data name="etiketa">etiketa</data>
+    <data name="etnické kuchyně">etnicke_kuchyne</data>
+    <data name="Evropa">evropa</data>
+    <data name="Francie">francie</data>
+    <data name="gastronom">gastronom</data>
+    <data name="gastronomie">gastronomie</data>
+    <data name="grazing">grazing</data>
+    <data name="grilování">grilovani</data>
+    <data name="guláš">gulas</data>
+    <data name="gurmán">gurman</data>
+    <data name="gurmet">gurmet</data>
+    <data name="historie">historie</data>
+    <data name="historka">historka</data>
+    <data name="Holandsko">holandsko</data>
+    <data name="host">host</data>
+    <data name="hotel">hotel</data>
+    <data name="hotovky">hotovky</data>
+    <data name="hovězí">hovezi</data>
+    <data name="hygiena a sanitace">hygiena_a_sanitace</data>
+    <data name="Indonésie">indonesie</data>
+    <data name="Itálie">italie</data>
+    <data name="Izrael">izrael</data>
+    <data name="Japonsko">japonsko</data>
+    <data name="jednohubka">jednohubka</data>
+    <data name="jídelní hůlky">jidelni_hulky</data>
+    <data name="jídelní lístek">jidelni_listek</data>
+    <data name="jídla a jídelní lístky">jidla_a_jidelni_listky</data>
+    <data name="kdo-kdy-kde">kdo-kdy-kde</data>
+    <data name="koho se to týká">koho_se_to_tyka</data>
+    <data name="koktejly">koktejly</data>
+    <data name="komponenty">komponenty</data>
+    <data name="konzulting">konzulting</data>
+    <data name="koření">koreni</data>
+    <data name="krabi">krabi</data>
+    <data name="krájení">krajeni</data>
+    <data name="krevetky">krevetky</data>
+    <data name="kuchařka">kucharka</data>
+    <data name="kuchařské čepice">kucharske_cepice</data>
+    <data name="kuchyňské techniky">kuchynske_techniky</data>
+    <data name="kuře">kure</data>
+    <data name="labužník">labuznik</data>
+    <data name="Maďarsko">madarsko</data>
+    <data name="management">management</data>
+    <data name="marináda">marinada</data>
+    <data name="maso">maso</data>
+    <data name="menu">menu</data>
+    <data name="Mexiko">mexiko</data>
+    <data name="minutky">minutky</data>
+    <data name="Mongolsko">mongolsko</data>
+    <data name="mořské plody">morske_plody</data>
+    <data name="nápoje">napoje</data>
+    <data name="Německo">nemecko</data>
+    <data name="nože">noze</data>
+    <data name="nudle">nudle</data>
+    <data name="o čem se mluví">o_cem_se_mluvi</data>
+    <data name="o čem se nemluví">o_cem_se_nemluvi</data>
+    <data name="obědy">obedy</data>
+    <data name="obloha">obloha</data>
+    <data name="ocílka">ocilka</data>
+    <data name="omáčka">omacka</data>
+    <data name="omeleta">omeleta</data>
+    <data name="osobnost">osobnost</data>
+    <data name="ostření">ostreni</data>
+    <data name="ovoce">ovoce</data>
+    <data name="párátko">paratko</data>
+    <data name="podnikání">podnikani</data>
+    <data name="pohostinství">pohostinstvi</data>
+    <data name="polévky">polevky</data>
+    <data name="polotovary">polotovary</data>
+    <data name="pozdní snídaně">pozdni_snidane</data>
+    <data name="předkrm">predkrm</data>
+    <data name="prezentace">prezentace</data>
+    <data name="případová studie">pripadova_studie</data>
+    <data name="průvodce">pruvodce</data>
+    <data name="psychologie">psychologie</data>
+    <data name="recept">recept</data>
+    <data name="Řecko">recko</data>
+    <data name="restaurace a servis">restaurace_a_servis</data>
+    <data name="Rusko">rusko</data>
+    <data name="ryby">ryby</data>
+    <data name="salát">salat</data>
+    <data name="sendvič">sendvic</data>
+    <data name="škola">skola</data>
+    <data name="snob">snob</data>
+    <data name="Špaňelsko">spanelsko</data>
+    <data name="steak">steak</data>
+    <data name="stroje a náčiní">stroje_a_nacini</data>
+    <data name="talíře">talire</data>
+    <data name="telecí">teleci</data>
+    <data name="ubytování">ubytovani</data>
+    <data name="Vánoce">vanoce</data>
+    <data name="vybavení">vybaveni</data>
+    <data name="výroba nožů">vyroba_nozu</data>
+    <data name="zbožíznalství">zboziznalstvi</data>
+    <data name="želatina">zelatina</data>
+    <data name="zelenina">zelenina</data>
+    <data name="životopis">zivotopis</data>
+    <data name="zkušenosti">zkusenosti</data>
+<!-- generated by user_update.sh on 2021-01-05 -->
+  </fn>
+
   <fn id="replacenames" fn="replace">
 <!-- [replacenames] generated content, do not edit -->
-    <data name="title=Amerika">Filtrovat články</data>
-    <data name="href=Amerika">/?stitek=Amerika#clanky</data>
-    <data name="title=aspik"></data>
-    <data name="href=aspik"></data>
-    <data name="title=banket"></data>
-    <data name="href=banket"></data>
-    <data name="title=bar"></data>
-    <data name="href=bar"></data>
-    <data name="title=brambory"></data>
-    <data name="href=brambory"></data>
-    <data name="title=broušení"></data>
-    <data name="href=broušení"></data>
-    <data name="title=brunch"></data>
-    <data name="href=brunch"></data>
-    <data name="title=bufet"></data>
-    <data name="href=bufet"></data>
-    <data name="title=Bulharsko"></data>
-    <data name="href=Bulharsko"></data>
-    <data name="title=Carême"></data>
-    <data name="href=Carême"></data>
-    <data name="title=catering"></data>
-    <data name="href=catering"></data>
-    <data name="title=České republika"></data>
-    <data name="href=České republika"></data>
-    <data name="title=cestovní ruch"></data>
-    <data name="href=cestovní ruch"></data>
-    <data name="title=chlebíčky"></data>
-    <data name="href=chlebíčky"></data>
-    <data name="title=chutě"></data>
-    <data name="href=chutě"></data>
-    <data name="title=chuťovky"></data>
-    <data name="href=chuťovky"></data>
-    <data name="title=Čína"></data>
-    <data name="href=Čína"></data>
-    <data name="title=čínská restaurace"></data>
-    <data name="href=čínská restaurace"></data>
-    <data name="title=co-kdy-kde">Filtrovat články</data>
+    <data name="title=Amerika">28 výskytů</data>
+    <data name="href=Amerika">/?stitek=amerika#clanky</data>
+    <data name="title='title=Anglie'"></data>
+    <data name="href='href=Anglie'"></data>
+    <data name="title='title=aspik'"></data>
+    <data name="href='href=aspik'"></data>
+    <data name="title='title=banket'"></data>
+    <data name="href='href=banket'"></data>
+    <data name="title='title=bar'"></data>
+    <data name="href='href=bar'"></data>
+    <data name="title='title=brambory'"></data>
+    <data name="href='href=brambory'"></data>
+    <data name="title='title=broušení'"></data>
+    <data name="href='href=broušení'"></data>
+    <data name="title='title=brunch'"></data>
+    <data name="href='href=brunch'"></data>
+    <data name="title='title=bufet'"></data>
+    <data name="href='href=bufet'"></data>
+    <data name="title='title=Bulharsko'"></data>
+    <data name="href='href=Bulharsko'"></data>
+    <data name="title='title=Carême'"></data>
+    <data name="href='href=Carême'"></data>
+    <data name="title='title=catering'"></data>
+    <data name="href='href=catering'"></data>
+    <data name="title=Česká republika">7 výskytů</data>
+    <data name="href=Česká republika">/?stitek=ceska_republika#clanky</data>
+    <data name="title='title=cestovní ruch'"></data>
+    <data name="href='href=cestovní ruch'"></data>
+    <data name="title='title=chlebíčky'"></data>
+    <data name="href='href=chlebíčky'"></data>
+    <data name="title='title=chutě'"></data>
+    <data name="href='href=chutě'"></data>
+    <data name="title='title=chuťovky'"></data>
+    <data name="href='href=chuťovky'"></data>
+    <data name="title='title=Čína'"></data>
+    <data name="href='href=Čína'"></data>
+    <data name="title='title=čínská restaurace'"></data>
+    <data name="href='href=čínská restaurace'"></data>
+    <data name="title=co-kdy-kde">33 výskytů</data>
     <data name="href=co-kdy-kde">/?stitek=co-kdy-kde#clanky</data>
-    <data name="title=cukroví"></data>
-    <data name="href=cukroví"></data>
-    <data name="title=děti"></data>
-    <data name="href=děti"></data>
-    <data name="title=doplňky"></data>
-    <data name="href=doplňky"></data>
-    <data name="title=ekologie"></data>
-    <data name="href=ekologie"></data>
-    <data name="title=etika">Filtrovat články</data>
+    <data name="title='title=cukroví'"></data>
+    <data name="href='href=cukroví'"></data>
+    <data name="title='title=děti'"></data>
+    <data name="href='href=děti'"></data>
+    <data name="title='title=doplňky'"></data>
+    <data name="href='href=doplňky'"></data>
+    <data name="title='title=ekologie'"></data>
+    <data name="href='href=ekologie'"></data>
+    <data name="title=etika">7 výskytů</data>
     <data name="href=etika">/?stitek=etika#clanky</data>
-    <data name="title=etnické kuchyně">Filtrovat články</data>
+    <data name="title='title=etiketa'"></data>
+    <data name="href='href=etiketa'"></data>
+    <data name="title=etnické kuchyně">5 výskytů</data>
     <data name="href=etnické kuchyně">/?stitek=etnicke_kuchyne#clanky</data>
-    <data name="title=Evropa"></data>
-    <data name="href=Evropa"></data>
-    <data name="title=Francie">Filtrovat články</data>
-    <data name="href=Francie">/?stitek=Francie#clanky</data>
-    <data name="title=gastronom"></data>
-    <data name="href=gastronom"></data>
-    <data name="title=gastronomie">Filtrovat články</data>
+    <data name="title='title=Evropa'"></data>
+    <data name="href='href=Evropa'"></data>
+    <data name="title=Francie">26 výskytů</data>
+    <data name="href=Francie">/?stitek=francie#clanky</data>
+    <data name="title='title=gastronom'"></data>
+    <data name="href='href=gastronom'"></data>
+    <data name="title=gastronomie">93 výskytů</data>
     <data name="href=gastronomie">/?stitek=gastronomie#clanky</data>
-    <data name="title=grazing"></data>
-    <data name="href=grazing"></data>
-    <data name="title=grilování"></data>
-    <data name="href=grilování"></data>
-    <data name="title=guláš"></data>
-    <data name="href=guláš"></data>
-    <data name="title=gurmán"></data>
-    <data name="href=gurmán"></data>
-    <data name="title=gurmet"></data>
-    <data name="href=gurmet"></data>
-    <data name="title=historka">Filtrovat články</data>
+    <data name="title='title=grazing'"></data>
+    <data name="href='href=grazing'"></data>
+    <data name="title='title=grilování'"></data>
+    <data name="href='href=grilování'"></data>
+    <data name="title='title=guláš'"></data>
+    <data name="href='href=guláš'"></data>
+    <data name="title='title=gurmán'"></data>
+    <data name="href='href=gurmán'"></data>
+    <data name="title='title=gurmet'"></data>
+    <data name="href='href=gurmet'"></data>
+    <data name="title='title=historie'"></data>
+    <data name="href='href=historie'"></data>
+    <data name="title=historka">8 výskytů</data>
     <data name="href=historka">/?stitek=historka#clanky</data>
-    <data name="title=Holandsko"></data>
-    <data name="href=Holandsko"></data>
-    <data name="title=host"></data>
-    <data name="href=host"></data>
-    <data name="title=hotel"></data>
-    <data name="href=hotel"></data>
-    <data name="title=hotely"></data>
-    <data name="href=hotely"></data>
-    <data name="title=hotovky"></data>
-    <data name="href=hotovky"></data>
-    <data name="title=hovězí"></data>
-    <data name="href=hovězí"></data>
-    <data name="title=hygiena a sanitace">Filtrovat články</data>
+    <data name="title='title=Holandsko'"></data>
+    <data name="href='href=Holandsko'"></data>
+    <data name="title='title=host'"></data>
+    <data name="href='href=host'"></data>
+    <data name="title='title=hotel'"></data>
+    <data name="href='href=hotel'"></data>
+    <data name="title='title=hotovky'"></data>
+    <data name="href='href=hotovky'"></data>
+    <data name="title='title=hovězí'"></data>
+    <data name="href='href=hovězí'"></data>
+    <data name="title=hygiena a sanitace">6 výskytů</data>
     <data name="href=hygiena a sanitace">/?stitek=hygiena_a_sanitace#clanky</data>
-    <data name="title=Indonésie"></data>
-    <data name="href=Indonésie"></data>
-    <data name="title=Itálie"></data>
-    <data name="href=Itálie"></data>
-    <data name="title=Japonsko"></data>
-    <data name="href=Japonsko"></data>
-    <data name="title=jednohubka"></data>
-    <data name="href=jednohubka"></data>
-    <data name="title=jídelní hůlky"></data>
-    <data name="href=jídelní hůlky"></data>
-    <data name="title=jídelní lístek"></data>
-    <data name="href=jídelní lístek"></data>
-    <data name="title=jídla a jídelní lístky">Filtrovat články</data>
+    <data name="title='title=Indonésie'"></data>
+    <data name="href='href=Indonésie'"></data>
+    <data name="title='title=Itálie'"></data>
+    <data name="href='href=Itálie'"></data>
+    <data name="title='title=Izrael'"></data>
+    <data name="href='href=Izrael'"></data>
+    <data name="title='title=Japonsko'"></data>
+    <data name="href='href=Japonsko'"></data>
+    <data name="title='title=jednohubka'"></data>
+    <data name="href='href=jednohubka'"></data>
+    <data name="title='title=jídelní hůlky'"></data>
+    <data name="href='href=jídelní hůlky'"></data>
+    <data name="title='title=jídelní lístek'"></data>
+    <data name="href='href=jídelní lístek'"></data>
+    <data name="title=jídla a jídelní lístky">81 výskytů</data>
     <data name="href=jídla a jídelní lístky">/?stitek=jidla_a_jidelni_listky#clanky</data>
-    <data name="title=kdo-kdy-kde">Filtrovat články</data>
+    <data name="title=kdo-kdy-kde">10 výskytů</data>
     <data name="href=kdo-kdy-kde">/?stitek=kdo-kdy-kde#clanky</data>
-    <data name="title=koho se to týká">Filtrovat články</data>
+    <data name="title=koho se to týká">10 výskytů</data>
     <data name="href=koho se to týká">/?stitek=koho_se_to_tyka#clanky</data>
-    <data name="title=koktejly"></data>
-    <data name="href=koktejly"></data>
-    <data name="title=komponenty"></data>
-    <data name="href=komponenty"></data>
-    <data name="title=konzulting">Filtrovat články</data>
+    <data name="title='title=koktejly'"></data>
+    <data name="href='href=koktejly'"></data>
+    <data name="title='title=komponenty'"></data>
+    <data name="href='href=komponenty'"></data>
+    <data name="title=konzulting">6 výskytů</data>
     <data name="href=konzulting">/?stitek=konzulting#clanky</data>
-    <data name="title=koření"></data>
-    <data name="href=koření"></data>
-    <data name="title=krabi"></data>
-    <data name="href=krabi"></data>
-    <data name="title=krájení"></data>
-    <data name="href=krájení"></data>
-    <data name="title=krevetky"></data>
-    <data name="href=krevetky"></data>
-    <data name="title=kuchařské čepice"></data>
-    <data name="href=kuchařské čepice"></data>
-    <data name="title=kuchyňské techniky">Filtrovat články</data>
+    <data name="title='title=koření'"></data>
+    <data name="href='href=koření'"></data>
+    <data name="title='title=krabi'"></data>
+    <data name="href='href=krabi'"></data>
+    <data name="title='title=krájení'"></data>
+    <data name="href='href=krájení'"></data>
+    <data name="title='title=krevetky'"></data>
+    <data name="href='href=krevetky'"></data>
+    <data name="title='title=kuchařka'"></data>
+    <data name="href='href=kuchařka'"></data>
+    <data name="title='title=kuchařské čepice'"></data>
+    <data name="href='href=kuchařské čepice'"></data>
+    <data name="title=kuchyňské techniky">23 výskytů</data>
     <data name="href=kuchyňské techniky">/?stitek=kuchynske_techniky#clanky</data>
-    <data name="title=kuře"></data>
-    <data name="href=kuře"></data>
-    <data name="title=labužník"></data>
-    <data name="href=labužník"></data>
-    <data name="title=Maďarsko"></data>
-    <data name="href=Maďarsko"></data>
-    <data name="title=marináda"></data>
-    <data name="href=marináda"></data>
-    <data name="title=maso"></data>
-    <data name="href=maso"></data>
-    <data name="title=menu"></data>
-    <data name="href=menu"></data>
-    <data name="title=Mexiko"></data>
-    <data name="href=Mexiko"></data>
-    <data name="title=minutky"></data>
-    <data name="href=minutky"></data>
-    <data name="title=Mongolsko"></data>
-    <data name="href=Mongolsko"></data>
-    <data name="title=mořské plody"></data>
-    <data name="href=mořské plody"></data>
-    <data name="title=nápoje">Filtrovat články</data>
+    <data name="title='title=kuře'"></data>
+    <data name="href='href=kuře'"></data>
+    <data name="title='title=labužník'"></data>
+    <data name="href='href=labužník'"></data>
+    <data name="title='title=Maďarsko'"></data>
+    <data name="href='href=Maďarsko'"></data>
+    <data name="title='title=management'"></data>
+    <data name="href='href=management'"></data>
+    <data name="title='title=marináda'"></data>
+    <data name="href='href=marináda'"></data>
+    <data name="title='title=maso'"></data>
+    <data name="href='href=maso'"></data>
+    <data name="title='title=menu'"></data>
+    <data name="href='href=menu'"></data>
+    <data name="title='title=Mexiko'"></data>
+    <data name="href='href=Mexiko'"></data>
+    <data name="title='title=minutky'"></data>
+    <data name="href='href=minutky'"></data>
+    <data name="title='title=Mongolsko'"></data>
+    <data name="href='href=Mongolsko'"></data>
+    <data name="title='title=mořské plody'"></data>
+    <data name="href='href=mořské plody'"></data>
+    <data name="title=nápoje">7 výskytů</data>
     <data name="href=nápoje">/?stitek=napoje#clanky</data>
-    <data name="title=Německo"></data>
-    <data name="href=Německo"></data>
-    <data name="title=nože"></data>
-    <data name="href=nože"></data>
-    <data name="title=nudle"></data>
-    <data name="href=nudle"></data>
-    <data name="title=o čem se mluví">Filtrovat články</data>
+    <data name="title='title=Německo'"></data>
+    <data name="href='href=Německo'"></data>
+    <data name="title='title=nože'"></data>
+    <data name="href='href=nože'"></data>
+    <data name="title='title=nudle'"></data>
+    <data name="href='href=nudle'"></data>
+    <data name="title=o čem se mluví">15 výskytů</data>
     <data name="href=o čem se mluví">/?stitek=o_cem_se_mluvi#clanky</data>
-    <data name="title=o čem se nemluví">Filtrovat články</data>
+    <data name="title=o čem se nemluví">4 výskyty</data>
     <data name="href=o čem se nemluví">/?stitek=o_cem_se_nemluvi#clanky</data>
-    <data name="title=obědy"></data>
-    <data name="href=obědy"></data>
-    <data name="title=obloha"></data>
-    <data name="href=obloha"></data>
-    <data name="title=ocílka"></data>
-    <data name="href=ocílka"></data>
-    <data name="title=omáčka"></data>
-    <data name="href=omáčka"></data>
-    <data name="title=omeleta"></data>
-    <data name="href=omeleta"></data>
-    <data name="title=osobnost"></data>
-    <data name="href=osobnost"></data>
-    <data name="title=ostření"></data>
-    <data name="href=ostření"></data>
-    <data name="title=ovoce"></data>
-    <data name="href=ovoce"></data>
-    <data name="title=párátko"></data>
-    <data name="href=párátko"></data>
-    <data name="title=podnikání"></data>
-    <data name="href=podnikání"></data>
-    <data name="title=pohostinství">Filtrovat články</data>
+    <data name="title='title=obědy'"></data>
+    <data name="href='href=obědy'"></data>
+    <data name="title='title=obloha'"></data>
+    <data name="href='href=obloha'"></data>
+    <data name="title='title=ocílka'"></data>
+    <data name="href='href=ocílka'"></data>
+    <data name="title=omáčka">5 výskytů</data>
+    <data name="href=omáčka">/?stitek=omacka#clanky</data>
+    <data name="title='title=omeleta'"></data>
+    <data name="href='href=omeleta'"></data>
+    <data name="title='title=osobnost'"></data>
+    <data name="href='href=osobnost'"></data>
+    <data name="title='title=ostření'"></data>
+    <data name="href='href=ostření'"></data>
+    <data name="title='title=ovoce'"></data>
+    <data name="href='href=ovoce'"></data>
+    <data name="title='title=párátko'"></data>
+    <data name="href='href=párátko'"></data>
+    <data name="title='title=podnikání'"></data>
+    <data name="href='href=podnikání'"></data>
+    <data name="title=pohostinství">17 výskytů</data>
     <data name="href=pohostinství">/?stitek=pohostinstvi#clanky</data>
-    <data name="title=polévka"></data>
-    <data name="href=polévka"></data>
-    <data name="title=polévky">Filtrovat články</data>
+    <data name="title=polévky">6 výskytů</data>
     <data name="href=polévky">/?stitek=polevky#clanky</data>
-    <data name="title=polotovary"></data>
-    <data name="href=polotovary"></data>
-    <data name="title=pozdní snídaně"></data>
-    <data name="href=pozdní snídaně"></data>
-    <data name="title=předkrm"></data>
-    <data name="href=předkrm"></data>
-    <data name="title=prezentace"></data>
-    <data name="href=prezentace"></data>
-    <data name="title=případová studie">Filtrovat články</data>
+    <data name="title='title=polotovary'"></data>
+    <data name="href='href=polotovary'"></data>
+    <data name="title='title=pozdní snídaně'"></data>
+    <data name="href='href=pozdní snídaně'"></data>
+    <data name="title='title=předkrm'"></data>
+    <data name="href='href=předkrm'"></data>
+    <data name="title='title=prezentace'"></data>
+    <data name="href='href=prezentace'"></data>
+    <data name="title=případová studie">17 výskytů</data>
     <data name="href=případová studie">/?stitek=pripadova_studie#clanky</data>
-    <data name="title=průvodce"></data>
-    <data name="href=průvodce"></data>
-    <data name="title=psychologie"></data>
-    <data name="href=psychologie"></data>
-    <data name="title=recept">Filtrovat články</data>
+    <data name="title='title=průvodce'"></data>
+    <data name="href='href=průvodce'"></data>
+    <data name="title='title=psychologie'"></data>
+    <data name="href='href=psychologie'"></data>
+    <data name="title=recept">25 výskytů</data>
     <data name="href=recept">/?stitek=recept#clanky</data>
-    <data name="title=recepty"></data>
-    <data name="href=recepty"></data>
-    <data name="title=Řecko"></data>
-    <data name="href=Řecko"></data>
-    <data name="title=restaurace a servis">Filtrovat články</data>
+    <data name="title='title=Řecko'"></data>
+    <data name="href='href=Řecko'"></data>
+    <data name="title=restaurace a servis">20 výskytů</data>
     <data name="href=restaurace a servis">/?stitek=restaurace_a_servis#clanky</data>
-    <data name="title=Rusko"></data>
-    <data name="href=Rusko"></data>
-    <data name="title=ryby"></data>
-    <data name="href=ryby"></data>
-    <data name="title=salát"></data>
-    <data name="href=salát"></data>
-    <data name="title=sendvič"></data>
-    <data name="href=sendvič"></data>
-    <data name="title=škola"></data>
-    <data name="href=škola"></data>
-    <data name="title=snob"></data>
-    <data name="href=snob"></data>
-    <data name="title=Špaňelsko"></data>
-    <data name="href=Špaňelsko"></data>
-    <data name="title=steak"></data>
-    <data name="href=steak"></data>
-    <data name="title=stroje a náčiní"></data>
-    <data name="href=stroje a náčiní"></data>
-    <data name="title=talíře"></data>
-    <data name="href=talíře"></data>
-    <data name="title=telecí"></data>
-    <data name="href=telecí"></data>
-    <data name="title=ubytování">Filtrovat články</data>
+    <data name="title='title=Rusko'"></data>
+    <data name="href='href=Rusko'"></data>
+    <data name="title='title=ryby'"></data>
+    <data name="href='href=ryby'"></data>
+    <data name="title='title=salát'"></data>
+    <data name="href='href=salát'"></data>
+    <data name="title='title=sendvič'"></data>
+    <data name="href='href=sendvič'"></data>
+    <data name="title='title=škola'"></data>
+    <data name="href='href=škola'"></data>
+    <data name="title='title=snob'"></data>
+    <data name="href='href=snob'"></data>
+    <data name="title='title=Špaňelsko'"></data>
+    <data name="href='href=Špaňelsko'"></data>
+    <data name="title='title=steak'"></data>
+    <data name="href='href=steak'"></data>
+    <data name="title='title=stroje a náčiní'"></data>
+    <data name="href='href=stroje a náčiní'"></data>
+    <data name="title='title=talíře'"></data>
+    <data name="href='href=talíře'"></data>
+    <data name="title='title=telecí'"></data>
+    <data name="href='href=telecí'"></data>
+    <data name="title=ubytování">6 výskytů</data>
     <data name="href=ubytování">/?stitek=ubytovani#clanky</data>
-    <data name="title=Vánoce"></data>
-    <data name="href=Vánoce"></data>
-    <data name="title=vybavení"></data>
-    <data name="href=vybavení"></data>
-    <data name="title=výroba nožů"></data>
-    <data name="href=výroba nožů"></data>
-    <data name="title=zbožíznalství">Filtrovat články</data>
+    <data name="title='title=Vánoce'"></data>
+    <data name="href='href=Vánoce'"></data>
+    <data name="title='title=vybavení'"></data>
+    <data name="href='href=vybavení'"></data>
+    <data name="title='title=výroba nožů'"></data>
+    <data name="href='href=výroba nožů'"></data>
+    <data name="title=zbožíznalství">5 výskytů</data>
     <data name="href=zbožíznalství">/?stitek=zboziznalstvi#clanky</data>
-    <data name="title=želatina"></data>
-    <data name="href=želatina"></data>
-    <data name="title=zelenina"></data>
-    <data name="href=zelenina"></data>
-    <data name="title=životopis">Filtrovat články</data>
+    <data name="title='title=želatina'"></data>
+    <data name="href='href=želatina'"></data>
+    <data name="title='title=zelenina'"></data>
+    <data name="href='href=zelenina'"></data>
+    <data name="title=životopis">4 výskyty</data>
     <data name="href=životopis">/?stitek=zivotopis#clanky</data>
-    <data name="title=zkušensti"></data>
-    <data name="href=zkušensti"></data>
-<!-- generated by user_update.sh on 2019-11-09 -->
+    <data name="title='title=zkušenosti'"></data>
+    <data name="href='href=zkušenosti'"></data>
+<!-- generated by user_update.sh on 2021-01-05 -->
   </fn>
   
   <var id="taglist">
-    <dl>
-      <dt class="filter">Nejčetnější kategorie článků</dt>
+    <dl class="list--nomultiple">
+      <dt class="filter">Zobrazit články podle štítku</dt>
       <dd>
 <!-- [taglist] generated content, do not edit -->
-    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=Amerika" href="href=Amerika">Amerika</a>
-    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=co-kdy-kde" href="href=co-kdy-kde">co-kdy-kde</a>
-    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=etika" href="href=etika">etika</a>
-    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=etnické kuchyně" href="href=etnické kuchyně">etnické kuchyně</a>
-    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=Francie" href="href=Francie">Francie</a>
-    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=gastronomie" href="href=gastronomie">gastronomie</a>
-    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=historka" href="href=historka">historka</a>
-    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=hygiena a sanitace" href="href=hygiena a sanitace">hygiena a sanitace</a>
-    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=jídla a jídelní lístky" href="href=jídla a jídelní lístky">jídla a jídelní lístky</a>
-    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=kdo-kdy-kde" href="href=kdo-kdy-kde">kdo-kdy-kde</a>
-    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=koho se to týká" href="href=koho se to týká">koho se to týká</a>
-    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=konzulting" href="href=konzulting">konzulting</a>
-    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=kuchyňské techniky" href="href=kuchyňské techniky">kuchyňské techniky</a>
-    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=nápoje" href="href=nápoje">nápoje</a>
-    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=o čem se mluví" href="href=o čem se mluví">o čem se mluví</a>
-    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=o čem se nemluví" href="href=o čem se nemluví">o čem se nemluví</a>
-    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=pohostinství" href="href=pohostinství">pohostinství</a>
-    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=polévky" href="href=polévky">polévky</a>
-    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=případová studie" href="href=případová studie">případová studie</a>
-    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=recept" href="href=recept">recept</a>
-    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=restaurace a servis" href="href=restaurace a servis">restaurace a servis</a>
-    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=ubytování" href="href=ubytování">ubytování</a>
-    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=zbožíznalství" href="href=zbožíznalství">zbožíznalství</a>
-    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=životopis" href="href=životopis">životopis</a>
-<!-- generated by user_update.sh on 2019-11-09 -->
+    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=Amerika" href="href=Amerika"><span class="fas fa-tag">i</span>Amerika</a>
+    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=Česká republika" href="href=Česká republika"><span class="fas fa-tag">i</span>Česká republika</a>
+    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=co-kdy-kde" href="href=co-kdy-kde"><span class="fas fa-tag">i</span>co-kdy-kde</a>
+    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=etika" href="href=etika"><span class="fas fa-tag">i</span>etika</a>
+    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=etnické kuchyně" href="href=etnické kuchyně"><span class="fas fa-tag">i</span>etnické kuchyně</a>
+    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=Francie" href="href=Francie"><span class="fas fa-tag">i</span>Francie</a>
+    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=gastronomie" href="href=gastronomie"><span class="fas fa-tag">i</span>gastronomie</a>
+    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=historka" href="href=historka"><span class="fas fa-tag">i</span>historka</a>
+    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=hygiena a sanitace" href="href=hygiena a sanitace"><span class="fas fa-tag">i</span>hygiena a sanitace</a>
+    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=jídla a jídelní lístky" href="href=jídla a jídelní lístky"><span class="fas fa-tag">i</span>jídla a jídelní lístky</a>
+    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=kdo-kdy-kde" href="href=kdo-kdy-kde"><span class="fas fa-tag">i</span>kdo-kdy-kde</a>
+    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=koho se to týká" href="href=koho se to týká"><span class="fas fa-tag">i</span>koho se to týká</a>
+    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=konzulting" href="href=konzulting"><span class="fas fa-tag">i</span>konzulting</a>
+    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=kuchyňské techniky" href="href=kuchyňské techniky"><span class="fas fa-tag">i</span>kuchyňské techniky</a>
+    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=nápoje" href="href=nápoje"><span class="fas fa-tag">i</span>nápoje</a>
+    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=o čem se mluví" href="href=o čem se mluví"><span class="fas fa-tag">i</span>o čem se mluví</a>
+    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=o čem se nemluví" href="href=o čem se nemluví"><span class="fas fa-tag">i</span>o čem se nemluví</a>
+    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=omáčka" href="href=omáčka"><span class="fas fa-tag">i</span>omáčka</a>
+    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=pohostinství" href="href=pohostinství"><span class="fas fa-tag">i</span>pohostinství</a>
+    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=polévky" href="href=polévky"><span class="fas fa-tag">i</span>polévky</a>
+    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=případová studie" href="href=případová studie"><span class="fas fa-tag">i</span>případová studie</a>
+    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=recept" href="href=recept"><span class="fas fa-tag">i</span>recept</a>
+    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=restaurace a servis" href="href=restaurace a servis"><span class="fas fa-tag">i</span>restaurace a servis</a>
+    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=ubytování" href="href=ubytování"><span class="fas fa-tag">i</span>ubytování</a>
+    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=zbožíznalství" href="href=zbožíznalství"><span class="fas fa-tag">i</span>zbožíznalství</a>
+    <a fn="inputvar-replacenames@href inputvar-replacenames@title" data-local-title="Na začátek seznamu" class="taglist-tag tag nowarning" title="title=životopis" href="href=životopis"><span class="fas fa-tag">i</span>životopis</a>
+<!-- generated by user_update.sh on 2021-01-05 -->
       </dd>
     </dl>
   </var>
@@ -322,392 +512,394 @@
     <ul>
       <li><select id="completable-search" name="s" class="completable">
 <!-- [completable] generated content, do not edit -->
-<option class="tag" value="stitky/Amerika">Amerika (14 výskytů) #stitky/Amerika</option>
-<option class="tag" value="stitky/co-kdy-kde">co-kdy-kde (36 výskytů) #stitky/co-kdy-kde</option>
-<option class="tag" value="stitky/etika">etika (7 výskytů) #stitky/etika</option>
-<option class="tag" value="stitky/etnicke_kuchyne">etnické kuchyně (5 výskytů) #stitky/etnicke_kuchyne</option>
-<option class="tag" value="stitky/Francie">Francie (17 výskytů) #stitky/Francie</option>
-<option class="tag" value="stitky/gastronomie">gastronomie (88 výskytů) #stitky/gastronomie</option>
-<option class="tag" value="stitky/historka">historka (5 výskytů) #stitky/historka</option>
-<option class="tag" value="stitky/hygiena_a_sanitace">hygiena a sanitace (6 výskytů) #stitky/hygiena_a_sanitace</option>
-<option class="tag" value="stitky/jidla_a_jidelni_listky">jídla a jídelní lístky (77 výskytů) #stitky/jidla_a_jidelni_listky</option>
-<option class="tag" value="stitky/kdo-kdy-kde">kdo-kdy-kde (9 výskytů) #stitky/kdo-kdy-kde</option>
-<option class="tag" value="stitky/koho_se_to_tyka">koho se to týká (10 výskytů) #stitky/koho_se_to_tyka</option>
-<option class="tag" value="stitky/konzulting">konzulting (5 výskytů) #stitky/konzulting</option>
-<option class="tag" value="stitky/kuchynske_techniky">kuchyňské techniky (23 výskytů) #stitky/kuchynske_techniky</option>
-<option class="tag" value="stitky/napoje">nápoje (8 výskytů) #stitky/napoje</option>
-<option class="tag" value="stitky/o_cem_se_mluvi">o čem se mluví (18 výskytů) #stitky/o_cem_se_mluvi</option>
-<option class="tag" value="stitky/o_cem_se_nemluvi">o čem se nemluví (4 výskytů) #stitky/o_cem_se_nemluvi</option>
-<option class="tag" value="stitky/pohostinstvi">pohostinství (16 výskytů) #stitky/pohostinstvi</option>
-<option class="tag" value="stitky/polevky">polévky (5 výskytů) #stitky/polevky</option>
-<option class="tag" value="stitky/pripadova_studie">případová studie (13 výskytů) #stitky/pripadova_studie</option>
-<option class="tag" value="stitky/recept">recept (22 výskytů) #stitky/recept</option>
-<option class="tag" value="stitky/restaurace_a_servis">restaurace a servis (20 výskytů) #stitky/restaurace_a_servis</option>
-<option class="tag" value="stitky/ubytovani">ubytování (6 výskytů) #stitky/ubytovani</option>
-<option class="tag" value="stitky/zboziznalstvi">zbožíznalství (6 výskytů) #stitky/zboziznalstvi</option>
-<option class="tag" value="stitky/zivotopis">životopis (4 výskytů) #stitky/zivotopis</option>
-<option class="article" value="clanky/zrani">Zrání hovězího masa #clanky/zrani</option>
-<option class="article" value="clanky/znalec_pohostinstvi">Kdo je lepším znalcem pohostinství #clanky/znalec_pohostinstvi</option>
-<option class="article" value="clanky/zkusenosti_ze_sveta">Zkušenosti ze světa #clanky/zkusenosti_ze_sveta</option>
-<option class="article" value="clanky/zkratky_na_listcich">Zkratky na jídelních lístcích #clanky/zkratky_na_listcich</option>
-<option class="article" value="clanky/zdobeni">Zdobení jídla #clanky/zdobeni</option>
-<option class="article" value="clanky/zbytky2">Zbytky #clanky/zbytky2</option>
-<option class="article" value="clanky/zbytky">Zbytky #clanky/zbytky</option>
-<option class="article" value="clanky/zatraceny_krabi_zivot">Zatracený krabí život #clanky/zatraceny_krabi_zivot</option>
-<option class="article" value="clanky/zarizeni_ke_grilovani_ci_broilovani">Zařízení ke grilování či broilování #clanky/zarizeni_ke_grilovani_ci_broilovani</option>
-<option class="article" value="clanky/zalivka_dresink">Rozdíl a příprava zálivky a dresinku #clanky/zalivka_dresink</option>
-<option class="article" value="clanky/zahranicni_kuchyne">Zahraniční kuchyně #clanky/zahranicni_kuchyne</option>
-<option class="article" value="clanky/z_kuchariny_ctnost">Z kuchařiny ctnost #clanky/z_kuchariny_ctnost</option>
-<option class="article" value="clanky/who_cares_about_the_czech_specials">Who Cares About the Czech Specials #clanky/who_cares_about_the_czech_specials</option>
-<option class="article" value="clanky/vzhled_jidel">Vzhled jídel #clanky/vzhled_jidel</option>
-<option class="article" value="clanky/vykostovani">Vykosťování #clanky/vykostovani</option>
-<option class="article" value="clanky/vyhlaska_107">Hygienická vyhláška č. 107 #clanky/vyhlaska_107</option>
-<option class="article" value="clanky/vnitrni_teplota_steaku">Vnitřní teplota steaků #clanky/vnitrni_teplota_steaku</option>
-<option class="article" value="clanky/velka_huba">Velká huba #clanky/velka_huba</option>
-<option class="article" value="clanky/velikost_porce">Správná velikost porce #clanky/velikost_porce</option>
-<option class="article" value="clanky/vdolky">Vdolky u nás a v Americe #clanky/vdolky</option>
-<option class="article" value="clanky/vazani">Vázání #clanky/vazani</option>
-<option class="article" value="clanky/vareni_z_polotovaru">Vaření z polotovarů v moderní kuchyni #clanky/vareni_z_polotovaru</option>
-<option class="article" value="clanky/vareni">Tepelné úpravy potravin #clanky/vareni</option>
-<option class="article" value="clanky/vanoce_v_americe">Vánoce u nás a v Americe #clanky/vanoce_v_americe</option>
-<option class="article" value="clanky/vanoce_prichazeji">Vánoce přicházejí #clanky/vanoce_prichazeji</option>
-<option class="article" value="clanky/valet_parking">Valet parking #clanky/valet_parking</option>
-<option class="article" value="clanky/v_kostce">V kostce #clanky/v_kostce</option>
-<option class="article" value="clanky/ustrice">Ústřice #clanky/ustrice</option>
-<option class="article" value="clanky/uroven_pohostinstvi">Zlepšení úrovně pohostinství #clanky/uroven_pohostinstvi</option>
-<option class="article" value="clanky/uprava_jidel">Úprava jídel #clanky/uprava_jidel</option>
-<option class="article" value="clanky/u_nas_si_nikdo_nestezuje">U nás si nikdo nestěžuje #clanky/u_nas_si_nikdo_nestezuje</option>
-<option class="article" value="clanky/ty_jsi_vlastne_nic_neudelal">Ty jsi pro mě vlastně nic neudělal #clanky/ty_jsi_vlastne_nic_neudelal</option>
-<option class="article" value="clanky/tvorba_cen">Tvorba cen #clanky/tvorba_cen</option>
-<option class="article" value="clanky/trendy_vyvoje_ceskeho_pohostinstvi">Trendy vývoje českého pohostinství #clanky/trendy_vyvoje_ceskeho_pohostinstvi</option>
-<option class="article" value="clanky/toto_se_tyka_nas_vsech">Toto se týká nás všech #clanky/toto_se_tyka_nas_vsech</option>
-<option class="article" value="clanky/tofu">Tofu #clanky/tofu</option>
-<option class="article" value="clanky/tiskova_zprava_akp_cr">Tisková zpráva APK ČR #clanky/tiskova_zprava_akp_cr</option>
-<option class="article" value="clanky/thanksgiving">Thanksgiving #clanky/thanksgiving</option>
-<option class="article" value="clanky/tequila">Tequila #clanky/tequila</option>
-<option class="article" value="clanky/tenderizovani">Tenderizování #clanky/tenderizovani</option>
-<option class="article" value="clanky/technologie_pohostinstvi">Technologie v průmyslu v pohostinství #clanky/technologie_pohostinstvi</option>
-<option class="article" value="clanky/tatarsky_steak">Tatarský steak trochu jinak #clanky/tatarsky_steak</option>
-<option class="article" value="clanky/tatarsky_biftek">Tatarský biftek #clanky/tatarsky_biftek</option>
-<option class="article" value="clanky/sweet_and_sour">Sweet and Sour #clanky/sweet_and_sour</option>
-<option class="article" value="clanky/svoboda_slova">Svoboda slova a obchodní strategie #clanky/svoboda_slova</option>
-<option class="article" value="clanky/svickova_atd">Svíčková atd. #clanky/svickova_atd</option>
-<option class="article" value="clanky/supervision">Supervision #clanky/supervision</option>
-<option class="article" value="clanky/super_chef_2">Super chef 2 #clanky/super_chef_2</option>
-<option class="article" value="clanky/super_chef">Super chef #clanky/super_chef</option>
-<option class="article" value="clanky/sucha_jiska">Suchá jíška #clanky/sucha_jiska</option>
-<option class="article" value="clanky/studeny_sok">Chlazení studeným šokem #clanky/studeny_sok</option>
-<option class="article" value="clanky/studene_polevky">Studené polévky #clanky/studene_polevky</option>
-<option class="article" value="clanky/stroganov">Hovězí Stroganov s hranolky #clanky/stroganov</option>
-<option class="article" value="clanky/stredomorsky_za_dobrou_cenu">Středomořsky za dobrou cenu #clanky/stredomorsky_za_dobrou_cenu</option>
-<option class="article" value="clanky/stravovaci_zvyklosti">Stravovací zvyklosti #clanky/stravovaci_zvyklosti</option>
-<option class="article" value="clanky/stiznosti">Stížnosti #clanky/stiznosti</option>
-<option class="article" value="clanky/stiznost_melikana">Stížnost Melikana #clanky/stiznost_melikana</option>
-<option class="article" value="clanky/steamship_round">Steamship round #clanky/steamship_round</option>
-<option class="article" value="clanky/steaky_stupen_propeceni">Steaky stupeň propečení #clanky/steaky_stupen_propeceni</option>
-<option class="article" value="clanky/steaky_preference">Steaky preference #clanky/steaky_preference</option>
-<option class="article" value="clanky/steaky_2">Steaky 2 #clanky/steaky_2</option>
-<option class="article" value="clanky/steaky">Steaky #clanky/steaky</option>
-<option class="article" value="clanky/steak">Co je to steak #clanky/steak</option>
-<option class="article" value="clanky/spravne_spatne">Co je správné a co ne #clanky/spravne_spatne</option>
-<option class="article" value="clanky/spolecenske_funkce">Společenské funkce #clanky/spolecenske_funkce</option>
-<option class="article" value="clanky/spojena_kuchyne">Spojení více druhů kuchyní #clanky/spojena_kuchyne</option>
-<option class="article" value="clanky/split_checks">Split Checks #clanky/split_checks</option>
-<option class="article" value="clanky/speciality">Speciality podniku #clanky/speciality</option>
-<option class="article" value="clanky/soucasny_stav_ceskeho_pohostinstvi">Současný stav českého pohostinství #clanky/soucasny_stav_ceskeho_pohostinstvi</option>
-<option class="article" value="clanky/sotyrovani">Sotýrování #clanky/sotyrovani</option>
-<option class="article" value="clanky/sofistikovany_host">Jak se stát sofistikovaným hostem #clanky/sofistikovany_host</option>
-<option class="article" value="clanky/smazeni">Druhy smažení #clanky/smazeni</option>
-<option class="article" value="clanky/sluzby">Služby #clanky/sluzby</option>
-<option class="article" value="clanky/slow_food">Slow food #clanky/slow_food</option>
-<option class="article" value="clanky/slevy">Slevy #clanky/slevy</option>
-<option class="article" value="clanky/sizeni">Šizení #clanky/sizeni</option>
-<option class="article" value="clanky/side_jobs">Side Jobs #clanky/side_jobs</option>
-<option class="article" value="clanky/shrimp_de_jonghe">Shrimp de Jonghe #clanky/shrimp_de_jonghe</option>
-<option class="article" value="clanky/service_charge">Service charge #clanky/service_charge</option>
-<option class="article" value="clanky/sendvice">Původ a typy sendvičů #clanky/sendvice</option>
-<option class="article" value="clanky/sele">Sele #clanky/sele</option>
-<option class="article" value="clanky/sef_na_grilu">Šéf na grilu #clanky/sef_na_grilu</option>
-<option class="article" value="clanky/sanitace">Sanitace #clanky/sanitace</option>
-<option class="article" value="clanky/samoobsluzna_restaurace">Vše, co sníš a nikoli co odneseš #clanky/samoobsluzna_restaurace</option>
-<option class="article" value="clanky/salzburger_nockerl">Salzburger Nockerl #clanky/salzburger_nockerl</option>
-<option class="article" value="clanky/salsa">Salsa #clanky/salsa</option>
-<option class="article" value="clanky/salatove_bary">Salátové bary #clanky/salatove_bary</option>
-<option class="article" value="clanky/sacher_eduard">Sacher Eduard #clanky/sacher_eduard</option>
-<option class="article" value="clanky/rukola">Salát rukola #clanky/rukola</option>
-<option class="article" value="clanky/rozmisteni_buffetovych_jidel">Psychologie rozmístění buffetových jídel #clanky/rozmisteni_buffetovych_jidel</option>
-<option class="article" value="clanky/rocky_mountains_oysters">Rocky mountain oysters #clanky/rocky_mountains_oysters</option>
-<option class="article" value="clanky/roasting">Roasting #clanky/roasting</option>
-<option class="article" value="clanky/reservace">Reservace #clanky/reservace</option>
-<option class="article" value="clanky/rent_a_chef">Rent a chef #clanky/rent_a_chef</option>
-<option class="article" value="clanky/raison_detre_steakgrillu">Raison d´etre Steakgrillu #clanky/raison_detre_steakgrillu</option>
-<option class="article" value="clanky/psychologie">Psychologie #clanky/psychologie</option>
-<option class="article" value="clanky/propagace">Důležitost propagace #clanky/propagace</option>
-<option class="article" value="clanky/proc_lide_nechodi_do_restauraci">Proč nechodí lidé do restaurací #clanky/proc_lide_nechodi_do_restauraci</option>
-<option class="article" value="clanky/proc_lide_chodi_do_restauraci">Proč chodí lidé do restaurací #clanky/proc_lide_chodi_do_restauraci</option>
-<option class="article" value="clanky/priprava_jidel_v_jidelne">Příprava jídel v jídelně #clanky/priprava_jidel_v_jidelne</option>
-<option class="article" value="clanky/pripradove_studie">Případové studie #clanky/pripradove_studie</option>
-<option class="article" value="clanky/prime_rib">Prime Rib #clanky/prime_rib</option>
-<option class="article" value="clanky/prezentace_jidel">Důležitost prezentace jídel #clanky/prezentace_jidel</option>
-<option class="article" value="clanky/prepustene_maslo">Přepuštěné máslo #clanky/prepustene_maslo</option>
-<option class="article" value="clanky/predkrmy">Předkrmy #clanky/predkrmy</option>
-<option class="article" value="clanky/pravda_na_listku">Pravda na jídelním lístku #clanky/pravda_na_listku</option>
-<option class="article" value="clanky/prava_hosta">Práva hosta #clanky/prava_hosta</option>
-<option class="article" value="clanky/prani_a_naroky_hostu">Přání a nároky sofistikovaných hostů #clanky/prani_a_naroky_hostu</option>
-<option class="article" value="clanky/prani">Přání #clanky/prani</option>
-<option class="article" value="clanky/pracovni_obedy">Pracovní a firemní obědy #clanky/pracovni_obedy</option>
-<option class="article" value="clanky/povinnosti_obsluhy">Základní povinnosti obsluhy #clanky/povinnosti_obsluhy</option>
-<option class="article" value="clanky/pot_luck">Pot Luck #clanky/pot_luck</option>
-<option class="article" value="clanky/poslicci">Hoteloví posličci #clanky/poslicci</option>
-<option class="article" value="clanky/porchetta">Porchetta #clanky/porchetta</option>
-<option class="article" value="clanky/popis_jidel_na_jidelnich_listcich">Popis jídel na jídelních lístcích #clanky/popis_jidel_na_jidelnich_listcich</option>
-<option class="article" value="clanky/pompano_en_papillote">Pompano en Papillote #clanky/pompano_en_papillote</option>
-<option class="article" value="clanky/polotovary">Polotovary #clanky/polotovary</option>
-<option class="article" value="clanky/pokojova_teplota">Pokojová teplota #clanky/pokojova_teplota</option>
-<option class="article" value="clanky/podnikani_v_pohostinstvi">Podnikání v pohostinství #clanky/podnikani_v_pohostinstvi</option>
-<option class="article" value="clanky/podavani_polevek">Podávání polévek #clanky/podavani_polevek</option>
-<option class="article" value="clanky/podavani_jidel_pri_bezpecne_teplote">Podávání jídel při bezpečné teplotě #clanky/podavani_jidel_pri_bezpecne_teplote</option>
-<option class="article" value="clanky/pochoutky_s_ocasem">Pochoutky s ocasem #clanky/pochoutky_s_ocasem</option>
-<option class="article" value="clanky/po_narod">Po národ #clanky/po_narod</option>
-<option class="article" value="clanky/plody_more">Plody moře a krevetky #clanky/plody_more</option>
-<option class="article" value="clanky/piti_vina_a_zdravi">Pití vína a jeho vliv na zdraví #clanky/piti_vina_a_zdravi</option>
-<option class="article" value="clanky/pina_colada">Piña Colada #clanky/pina_colada</option>
-<option class="article" value="clanky/physalis">Ovoce physalis #clanky/physalis</option>
-<option class="article" value="clanky/peceni">Pečení #clanky/peceni</option>
-<option class="article" value="clanky/parmentier">Vepřová panenka parmentier #clanky/parmentier</option>
-<option class="article" value="clanky/paratka">Párátka na hraně etikety #clanky/paratka</option>
-<option class="article" value="clanky/osobnosti">Osobnosti #clanky/osobnosti</option>
-<option class="article" value="clanky/osh">Organizace pro bezpečné a zdravé pracovní podmínky OSH #clanky/osh</option>
-<option class="article" value="clanky/opice_tu_nemame">Opice tu nemáme #clanky/opice_tu_nemame</option>
-<option class="article" value="clanky/open_bar">Open Bar #clanky/open_bar</option>
-<option class="article" value="clanky/odbornici_v_pohostinstvi">Odborníci v pohostinství #clanky/odbornici_v_pohostinstvi</option>
-<option class="article" value="clanky/ochutnavka_vina">Ochutnávka vína #clanky/ochutnavka_vina</option>
-<option class="article" value="clanky/obloha">Obloha #clanky/obloha</option>
-<option class="article" value="clanky/o_mase_2">O mase 2 #clanky/o_mase_2</option>
-<option class="article" value="clanky/o_mase">O mase #clanky/o_mase</option>
-<option class="article" value="clanky/noze">Vše o nožích #clanky/noze</option>
-<option class="article" value="clanky/novinky_v_pohostinstvi">Co je nového v českém pohostinství #clanky/novinky_v_pohostinstvi</option>
-<option class="article" value="clanky/nove_koreni">Historka o novém koření #clanky/nove_koreni</option>
-<option class="article" value="clanky/no_problem">No Problem #clanky/no_problem</option>
-<option class="article" value="clanky/no_host_bar">No Host Bar #clanky/no_host_bar</option>
-<option class="article" value="clanky/nikdy">Nikdy #clanky/nikdy</option>
-<option class="article" value="clanky/nezname_potraviny">Neznámé potraviny #clanky/nezname_potraviny</option>
-<option class="article" value="clanky/neznalost_a_ignorance">Neznalost a ignorance #clanky/neznalost_a_ignorance</option>
-<option class="article" value="clanky/nazvy_kuchynskych_technik">Názvy kuchyňských technik #clanky/nazvy_kuchynskych_technik</option>
-<option class="article" value="clanky/nazvy_jidel_3">Názvy jídel 3 #clanky/nazvy_jidel_3</option>
-<option class="article" value="clanky/nazvy_jidel_2">Názvy jídel 2 #clanky/nazvy_jidel_2</option>
-<option class="article" value="clanky/nazvy_jidel">Názvy jídel #clanky/nazvy_jidel</option>
-<option class="article" value="clanky/na_zamku_a_v_podzamci">Na zámku a v podzámčí #clanky/na_zamku_a_v_podzamci</option>
-<option class="article" value="clanky/na_letadlech">Na letadlech #clanky/na_letadlech</option>
-<option class="article" value="clanky/mzda_strachu">Mzda strachu #clanky/mzda_strachu</option>
-<option class="article" value="clanky/mystery_shopping">Mystery Shopping #clanky/mystery_shopping</option>
-<option class="article" value="clanky/musle">Mušle #clanky/musle</option>
-<option class="article" value="clanky/muj_gulas">Můj guláš #clanky/muj_gulas</option>
-<option class="article" value="clanky/mom_and_dad_restaurant">Mom and Dad Restaurant #clanky/mom_and_dad_restaurant</option>
-<option class="article" value="clanky/modni_pojmy">Upoutání pozornosti módními pojmy #clanky/modni_pojmy</option>
-<option class="article" value="clanky/minutky">Minutky #clanky/minutky</option>
-<option class="article" value="clanky/michelin">Michelin #clanky/michelin</option>
-<option class="article" value="clanky/michael_klima_zivotopis">Životopis #clanky/michael_klima_zivotopis</option>
-<option class="article" value="clanky/mexicky_flan">Mexický flan #clanky/mexicky_flan</option>
-<option class="article" value="clanky/mesquite">Mesquite #clanky/mesquite</option>
-<option class="article" value="clanky/mentolky_po_jidle">Bonbóny pro osvěžení dechu po jídle #clanky/mentolky_po_jidle</option>
-<option class="article" value="clanky/md_retigova">Co mi vadí na M. D. Rettigové #clanky/md_retigova</option>
-<option class="article" value="clanky/mc_donalds">Mc Donalds #clanky/mc_donalds</option>
-<option class="article" value="clanky/mb_svobodova">M. B. Svobodová #clanky/mb_svobodova</option>
-<option class="article" value="clanky/martini">Historie koktejlu Martini #clanky/martini</option>
-<option class="article" value="clanky/marshmallows">Cukroví marshmallows #clanky/marshmallows</option>
-<option class="article" value="clanky/marbling">Marbling #clanky/marbling</option>
-<option class="article" value="clanky/mandolina">Multifunkční struhadlo kuchyňská mandolína #clanky/mandolina</option>
-<option class="article" value="clanky/management_by_menu">Management By the Menu #clanky/management_by_menu</option>
-<option class="article" value="clanky/management">Management #clanky/management</option>
-<option class="article" value="clanky/logistika">Logistika #clanky/logistika</option>
-<option class="article" value="clanky/liquid_smoke">Liquid smoke #clanky/liquid_smoke</option>
-<option class="article" value="clanky/la_table_dhote">La table d'hote #clanky/la_table_dhote</option>
-<option class="article" value="clanky/la_merde">La merde #clanky/la_merde</option>
-<option class="article" value="clanky/kvasek">Kvásek #clanky/kvasek</option>
-<option class="article" value="clanky/kureci_nugety">Zrození a vývoj kuřecích nuget #clanky/kureci_nugety</option>
-<option class="article" value="clanky/kureci_kridelka">Kuřecí křidélka a jejich příprava #clanky/kureci_kridelka</option>
-<option class="article" value="clanky/kuchynske_techniky_a_listky">Kuchyňské techniky a jídelní lístky #clanky/kuchynske_techniky_a_listky</option>
-<option class="article" value="clanky/kuchyne_regionalni">Kuchyně regionální #clanky/kuchyne_regionalni</option>
-<option class="article" value="clanky/kuchyne_domaci">Kuchyně domácí #clanky/kuchyne_domaci</option>
-<option class="article" value="clanky/kucharske_umeni">Pomíjivost kuchařského umění #clanky/kucharske_umeni</option>
-<option class="article" value="clanky/kucharske_tituly">Mezinárodní kuchařské tituly #clanky/kucharske_tituly</option>
-<option class="article" value="clanky/kucharske_knihy_2">Kuchařské knihy 2 #clanky/kucharske_knihy_2</option>
-<option class="article" value="clanky/kucharky">Kuchařské knihy #clanky/kucharky</option>
-<option class="article" value="clanky/kucharina">Kuchařina #clanky/kucharina</option>
-<option class="article" value="clanky/kritika_a_pochvaly">Kritika a pochvaly #clanky/kritika_a_pochvaly</option>
-<option class="article" value="clanky/kritika">Kritika #clanky/kritika</option>
-<option class="article" value="clanky/kratky_a_dlouhy_tyden_2">Krátký a dlouhý týden 2 #clanky/kratky_a_dlouhy_tyden_2</option>
-<option class="article" value="clanky/kratky_a_dlouhy_tyden">Krátký a dlouhý týden #clanky/kratky_a_dlouhy_tyden</option>
-<option class="article" value="clanky/krajeni">Způsoby krájení potravin #clanky/krajeni</option>
-<option class="article" value="clanky/kradeze">Krádeže #clanky/kradeze</option>
-<option class="article" value="clanky/krabi">Druhy a příprava krabů #clanky/krabi</option>
-<option class="article" value="clanky/koser">Košer #clanky/koser</option>
-<option class="article" value="clanky/kontrolni_pokladny">Kontrolní pokladny #clanky/kontrolni_pokladny</option>
-<option class="article" value="clanky/konfitovani">Konzervace potravin konfitováním #clanky/konfitovani</option>
-<option class="article" value="clanky/kolik_reci_umis">Kolik řečí umíš #clanky/kolik_reci_umis</option>
-<option class="article" value="clanky/kolacky_stesti">Ne až tak čínské koláčky štěstí #clanky/kolacky_stesti</option>
-<option class="article" value="clanky/koktejly">Koktejly a barmanství #clanky/koktejly</option>
-<option class="article" value="clanky/know_how">Know-how #clanky/know_how</option>
-<option class="article" value="clanky/kniha_prani_a_stiznosti">Přání a stížnosti #clanky/kniha_prani_a_stiznosti</option>
-<option class="article" value="clanky/klubove_talire">Používání klubových talířů #clanky/klubove_talire</option>
-<option class="article" value="clanky/kde_je_zakopany_pes">Kde je zakopaný pes #clanky/kde_je_zakopany_pes</option>
-<option class="article" value="clanky/kalkulace">Kalkulace #clanky/kalkulace</option>
-<option class="article" value="clanky/kaldoun">Kaldoun #clanky/kaldoun</option>
-<option class="article" value="clanky/jidlo_doma_jinde">Doma jez co máš a jinde co ti dají #clanky/jidlo_doma_jinde</option>
-<option class="article" value="clanky/jidelni_listek">Jídelní lístek #clanky/jidelni_listek</option>
-<option class="article" value="clanky/jidelni_emporium">Koncept jídelního emporia #clanky/jidelni_emporium</option>
-<option class="article" value="clanky/jevistni_kuchyne">Prezentace jídel před zraky hostů #clanky/jevistni_kuchyne</option>
-<option class="article" value="clanky/jednotne_ponikove_receptury">Tvorba jednotných podnikových receptur #clanky/jednotne_ponikove_receptury</option>
-<option class="article" value="clanky/jednohubky">Jednohubky pro pobavení huby #clanky/jednohubky</option>
-<option class="article" value="clanky/jak_varit_bez_kuchare">Jak vařit bez kuchaře #clanky/jak_varit_bez_kuchare</option>
-<option class="article" value="clanky/jak_si_vybrat_z_listku">Jak si vybrat z lístku #clanky/jak_si_vybrat_z_listku</option>
-<option class="article" value="clanky/jahody">Jahody #clanky/jahody</option>
-<option class="article" value="clanky/hulky">Jídelní hůlky #clanky/hulky</option>
-<option class="article" value="clanky/hotovky_a_minutky">Hotovky a minutky v českých restauracích #clanky/hotovky_a_minutky</option>
-<option class="article" value="clanky/hotdog_2">Hotdog 2 #clanky/hotdog_2</option>
-<option class="article" value="clanky/hotdog">Hotdog #clanky/hotdog</option>
-<option class="article" value="clanky/hotchpotch">Hotchpotch #clanky/hotchpotch</option>
-<option class="article" value="clanky/hostovka_1">Hostovka #clanky/hostovka_1</option>
-<option class="article" value="clanky/hoste">Hosté #clanky/hoste</option>
-<option class="article" value="clanky/host_bar">Host Bar #clanky/host_bar</option>
-<option class="article" value="clanky/host">Host #clanky/host</option>
-<option class="article" value="clanky/hospoda_new_york_propadak">Hospoda v New Yorku propadák #clanky/hospoda_new_york_propadak</option>
-<option class="article" value="clanky/hoppelpoppel">Hoppelpoppel – jídlo ze zbytků #clanky/hoppelpoppel</option>
-<option class="article" value="clanky/gulas">Pravý původ guláše #clanky/gulas</option>
-<option class="article" value="clanky/grily">Grily #clanky/grily</option>
-<option class="article" value="clanky/grilovani">Grilování #clanky/grilovani</option>
-<option class="article" value="clanky/gravlax">Gravlax #clanky/gravlax</option>
-<option class="article" value="clanky/goodwill">Význam slova goodwill #clanky/goodwill</option>
-<option class="article" value="clanky/gi_pan">Původ názvu pekáče GI pan #clanky/gi_pan</option>
-<option class="article" value="clanky/gastronomy">Gastronomy #clanky/gastronomy</option>
-<option class="article" value="clanky/gastronomove">Gastronomové #clanky/gastronomove</option>
-<option class="article" value="clanky/gastronomicke_vyrazy">Gastronomické výrazy #clanky/gastronomicke_vyrazy</option>
-<option class="article" value="clanky/gastronomicke_skupiny">Gastronomické skupiny na českých lístcích #clanky/gastronomicke_skupiny</option>
-<option class="article" value="clanky/gastonomie">Gastronomie #clanky/gastonomie</option>
-<option class="article" value="clanky/garde_manger">Historie titulu garde manger #clanky/garde_manger</option>
-<option class="article" value="clanky/garbage">Garbage #clanky/garbage</option>
-<option class="article" value="clanky/ganymed">Ganymed #clanky/ganymed</option>
-<option class="article" value="clanky/funkce_pracovniku_v_pohostinstvi">Funkce pracovníků v pohostinství #clanky/funkce_pracovniku_v_pohostinstvi</option>
-<option class="article" value="clanky/francouzska_gastronomie">Úskalí francouzské gastronomie #clanky/francouzska_gastronomie</option>
-<option class="article" value="clanky/francouzska_cibulova_polevka">Francouzská cibulová polévka #clanky/francouzska_cibulova_polevka</option>
-<option class="article" value="clanky/francois_pierre">François Pierre de La Varenne #clanky/francois_pierre</option>
-<option class="article" value="clanky/franchize_day">Franchize Day #clanky/franchize_day</option>
-<option class="article" value="clanky/franchising">Franchising #clanky/franchising</option>
-<option class="article" value="clanky/food_styling">Food styling #clanky/food_styling</option>
-<option class="article" value="clanky/food_cost">Food Cost #clanky/food_cost</option>
-<option class="article" value="clanky/flambovani">Flambování #clanky/flambovani</option>
-<option class="article" value="clanky/fingerbowl">Fingerbowl #clanky/fingerbowl</option>
-<option class="article" value="clanky/finger_food_4">Finger food #clanky/finger_food_4</option>
-<option class="article" value="clanky/fajitas">Mexické jídlo fajitas #clanky/fajitas</option>
-<option class="article" value="clanky/eurocuisine">Budoucnost evropské kuchyně #clanky/eurocuisine</option>
-<option class="article" value="clanky/etika">Etika #clanky/etika</option>
-<option class="article" value="clanky/en_papilotte_neni_grilovani">En papilotte není grilování #clanky/en_papilotte_neni_grilovani</option>
-<option class="article" value="clanky/ellsworth_statler">Příběh hoteliéra Ellswortha M. Statlera #clanky/ellsworth_statler</option>
-<option class="article" value="clanky/ekonomie_kuchynskych_technik">Ekonomie kuchyňských technik #clanky/ekonomie_kuchynskych_technik</option>
-<option class="article" value="clanky/eighty_six">Eighty six #clanky/eighty_six</option>
-<option class="article" value="clanky/ecoflower">Označení výrobků ecoflower #clanky/ecoflower</option>
-<option class="article" value="clanky/duvody_neuspechu_ceskych_restauraci">Důvody neúspěchu českých restaurací #clanky/duvody_neuspechu_ceskych_restauraci</option>
-<option class="article" value="clanky/duseni">Technika dušení ve světě #clanky/duseni</option>
-<option class="article" value="clanky/dulezitost_etnickych_kuchyni">Etnické kuchyně #clanky/dulezitost_etnickych_kuchyni</option>
-<option class="article" value="clanky/druhy_polevek">Druhy polévek #clanky/druhy_polevek</option>
-<option class="article" value="clanky/dress_code">Dress Code #clanky/dress_code</option>
-<option class="article" value="clanky/draha_pomoc">Drahá pomoc #clanky/draha_pomoc</option>
-<option class="article" value="clanky/doplnky">Doplňky zpříjemňující hostův pobyt #clanky/doplnky</option>
-<option class="article" value="clanky/dohotovovani_jidel_u_stolu">Dohotovování jídel u stolu #clanky/dohotovovani_jidel_u_stolu</option>
-<option class="article" value="clanky/divoka_ryze">Divoká rýže #clanky/divoka_ryze</option>
-<option class="article" value="clanky/dinner_diner">Dinner Diner #clanky/dinner_diner</option>
-<option class="article" value="clanky/detske_listky">Dětské jídelní lístky #clanky/detske_listky</option>
-<option class="article" value="clanky/denni_rutina">Moje denní rutina #clanky/denni_rutina</option>
-<option class="article" value="clanky/degustacni_menu">Degustační menu #clanky/degustacni_menu</option>
-<option class="article" value="clanky/dedeckova_hospoda">Dědečkova hospoda #clanky/dedeckova_hospoda</option>
-<option class="article" value="clanky/czech_specials_2">Czech Specials 2 #clanky/czech_specials_2</option>
-<option class="article" value="clanky/czech_specials_1">Czech Specials 1 #clanky/czech_specials_1</option>
-<option class="article" value="clanky/cuisine">Cuisine #clanky/cuisine</option>
-<option class="article" value="clanky/cteni_listku">Jak číst jídelní lístky #clanky/cteni_listku</option>
-<option class="article" value="clanky/cruises">Cruises #clanky/cruises</option>
-<option class="article" value="clanky/cordon_bleu">Škola či řízek Cordon Bleu #clanky/cordon_bleu</option>
-<option class="article" value="clanky/convenience">Convenience #clanky/convenience</option>
-<option class="article" value="clanky/concierge">Hotelová funkce concierge #clanky/concierge</option>
-<option class="article" value="clanky/co_chutna_cizincum">Psychlogie chutí a co jí lidé v zahraničí #clanky/co_chutna_cizincum</option>
-<option class="article" value="clanky/citrony">Citróny #clanky/citrony</option>
-<option class="article" value="clanky/cislovani_jidel">Číslování jídel na jídelních lístcích #clanky/cislovani_jidel</option>
-<option class="article" value="clanky/chucpa">Chucpa #clanky/chucpa</option>
-<option class="article" value="clanky/chrest">Chřest #clanky/chrest</option>
-<option class="article" value="clanky/chowdery">Husté polévky zvané chowdery #clanky/chowdery</option>
-<option class="article" value="clanky/chili">Recept na vítězné chili #clanky/chili</option>
-<option class="article" value="clanky/chefs_table">Šéfkuchařův stůl #clanky/chefs_table</option>
-<option class="article" value="clanky/chatobriand">Chatobriand #clanky/chatobriand</option>
-<option class="article" value="clanky/chateaubriand">Historie chateaubriandova steaku #clanky/chateaubriand</option>
-<option class="article" value="clanky/cesko">Česko #clanky/cesko</option>
-<option class="article" value="clanky/ceske_pohostinstvi">České pohostinství #clanky/ceske_pohostinstvi</option>
-<option class="article" value="clanky/ceska_kuchyne">Česká kuchyně #clanky/ceska_kuchyne</option>
-<option class="article" value="clanky/ceska_gastronomie">Česká gastronomie #clanky/ceska_gastronomie</option>
-<option class="article" value="clanky/cesi_nectou">Češi nečtou #clanky/cesi_nectou</option>
-<option class="article" value="clanky/cerstva_ryba">Opravdově čerstvá ryba v restauraci #clanky/cerstva_ryba</option>
-<option class="article" value="clanky/cenotvorba">Cenotvorba #clanky/cenotvorba</option>
-<option class="article" value="clanky/celer_rapikaty">Jak vybrat a podávat řapíkatý celer #clanky/celer_rapikaty</option>
-<option class="article" value="clanky/celebrity">Celebrity #clanky/celebrity</option>
-<option class="article" value="clanky/cekani_na_stul">Rezervace a čekání na stůl #clanky/cekani_na_stul</option>
-<option class="article" value="clanky/ce_hoste_nemaji_radi">Co hosté nemají rádi #clanky/ce_hoste_nemaji_radi</option>
-<option class="article" value="clanky/catherine_de_medici">Vliv Catherine de Medici na francouzskou kuchyni #clanky/catherine_de_medici</option>
-<option class="article" value="clanky/catering_2">Catering 2 #clanky/catering_2</option>
-<option class="article" value="clanky/catering">Catering #clanky/catering</option>
-<option class="article" value="clanky/cash_bar">Bar za hotové neboli cash bar #clanky/cash_bar</option>
-<option class="article" value="clanky/careme">Marie-Antoine Carême #clanky/careme</option>
-<option class="article" value="clanky/caesar_salat">Suroviny a příprava Caesar salátu #clanky/caesar_salat</option>
-<option class="article" value="clanky/bullshit_2">Bullshit 2 #clanky/bullshit_2</option>
-<option class="article" value="clanky/bullshit">Bullshit #clanky/bullshit</option>
-<option class="article" value="clanky/bujabeza">Polévka bujabéza a její příprava #clanky/bujabeza</option>
-<option class="article" value="clanky/buffety_produktivita">Buffety produktivita #clanky/buffety_produktivita</option>
-<option class="article" value="clanky/buffety_planovani">Buffety plánování #clanky/buffety_planovani</option>
-<option class="article" value="clanky/buffety_naklady_na_mzdy">Buffety náklady na mzdy #clanky/buffety_naklady_na_mzdy</option>
-<option class="article" value="clanky/bufet">Bufet #clanky/bufet</option>
-<option class="article" value="clanky/brunch">Pozdní snídaně neboli brunch #clanky/brunch</option>
-<option class="article" value="clanky/brownnosing">Brownnosing #clanky/brownnosing</option>
-<option class="article" value="clanky/bramborove_lupinky_2">Bramborové lupínky #clanky/bramborove_lupinky_2</option>
-<option class="article" value="clanky/bramborove_lupinky">Bramborové lupínky #clanky/bramborove_lupinky</option>
-<option class="article" value="clanky/borsc">Ruská polévka boršč #clanky/borsc</option>
-<option class="article" value="clanky/bonovaci_kniha">Bonovací kniha #clanky/bonovaci_kniha</option>
-<option class="article" value="clanky/boarding_house">Boarding House #clanky/boarding_house</option>
-<option class="article" value="clanky/blackdog_cantina">Blackdog cantina #clanky/blackdog_cantina</option>
-<option class="article" value="clanky/bily_balsamicky_ocet">Bílý balsamický ocet #clanky/bily_balsamicky_ocet</option>
-<option class="article" value="clanky/bible">Bible #clanky/bible</option>
-<option class="article" value="clanky/besamel">Omáčka bešamel a její varianty #clanky/besamel</option>
-<option class="article" value="clanky/bedekr">Cestovní turistický průvodce neboli bedekr #clanky/bedekr</option>
-<option class="article" value="clanky/bbq">Barbecue #clanky/bbq</option>
-<option class="article" value="clanky/barmanstvi">Barmanství #clanky/barmanstvi</option>
-<option class="article" value="clanky/barman">Barman #clanky/barman</option>
-<option class="article" value="clanky/barding">Barding neboli obalování masa tukem #clanky/barding</option>
-<option class="article" value="clanky/banket">Význam slova banket a banketní #clanky/banket</option>
-<option class="article" value="clanky/balsamicky_ocet">Balsamický ocet #clanky/balsamicky_ocet</option>
-<option class="article" value="clanky/bakterie">Mýtus o bakteriích #clanky/bakterie</option>
-<option class="article" value="clanky/bakery">Bakery #clanky/bakery</option>
-<option class="article" value="clanky/bain_marie">Ohřevná vana bain-marie #clanky/bain_marie</option>
-<option class="article" value="clanky/bahmi_goreng">Příprava jídla bahmi goreng #clanky/bahmi_goreng</option>
-<option class="article" value="clanky/avokado">Vše o avokádu #clanky/avokado</option>
-<option class="article" value="clanky/aspik">Podstata a využití aspiku #clanky/aspik</option>
-<option class="article" value="clanky/artycoky">Neobyčejný bodlák artyčok #clanky/artycoky</option>
-<option class="article" value="clanky/anna_brambory">Pařížské Anna brambory #clanky/anna_brambory</option>
-<option class="article" value="clanky/americke_pohostinstvi">Americké pohostinství #clanky/americke_pohostinstvi</option>
-<option class="article" value="clanky/americke_brambory">Americké pečené brambory a hranolky #clanky/americke_brambory</option>
-<option class="article" value="clanky/americka_kuchyne">Americká kuchyně #clanky/americka_kuchyne</option>
-<option class="article" value="clanky/ambrosia">Ambrosia #clanky/ambrosia</option>
-<option class="article" value="clanky/ambice">Ambice #clanky/ambice</option>
-<option class="article" value="clanky/alois_krofta">Architekt Alois Krofta #clanky/alois_krofta</option>
-<option class="article" value="clanky/alemande">Alemande #clanky/alemande</option>
-<option class="article" value="clanky/alaska">Omeleta s překvapením #clanky/alaska</option>
-<option class="article" value="clanky/ala">À la #clanky/ala</option>
-<option class="article" value="clanky/aioli">Italská dochucovací omáčka aioli #clanky/aioli</option>
-<option class="article" value="clanky/agrodolce">Sladkokyselá omáčka agrodolce #clanky/agrodolce</option>
-<option class="article" value="clanky/agnes_sorel">Agnès Sorel #clanky/agnes_sorel</option>
-<option class="article" value="clanky/aemono">Aemono #clanky/aemono</option>
-<option class="article" value="clanky/administrativni_pracovnik">Administrativní pracovník #clanky/administrativni_pracovnik</option>
-<option class="article" value="clanky/absinth">Absinth #clanky/absinth</option>
-<option class="article" value="clanky/a_la_francaise">À la française #clanky/a_la_francaise</option>
-<option class="article" value="clanky/a_la">A la #clanky/a_la</option>
-<!-- generated by user_update.sh on 2019-11-09 -->
-    </select><button type="submit">Vyhledat</button></li>
+<option class="tag" value="stitky/amerika">Amerika - 28 výskytů</option>
+<option class="tag" value="stitky/ceska_republika">Česká republika - 7 výskytů</option>
+<option class="tag" value="stitky/co-kdy-kde">co-kdy-kde - 33 výskytů</option>
+<option class="tag" value="stitky/etika">etika - 7 výskytů</option>
+<option class="tag" value="stitky/etnicke_kuchyne">etnické kuchyně - 5 výskytů</option>
+<option class="tag" value="stitky/francie">Francie - 26 výskytů</option>
+<option class="tag" value="stitky/gastronomie">gastronomie - 93 výskytů</option>
+<option class="tag" value="stitky/historka">historka - 8 výskytů</option>
+<option class="tag" value="stitky/hygiena_a_sanitace">hygiena a sanitace - 6 výskytů</option>
+<option class="tag" value="stitky/jidla_a_jidelni_listky">jídla a jídelní lístky - 81 výskytů</option>
+<option class="tag" value="stitky/kdo-kdy-kde">kdo-kdy-kde - 10 výskytů</option>
+<option class="tag" value="stitky/koho_se_to_tyka">koho se to týká - 10 výskytů</option>
+<option class="tag" value="stitky/konzulting">konzulting - 6 výskytů</option>
+<option class="tag" value="stitky/kuchynske_techniky">kuchyňské techniky - 23 výskytů</option>
+<option class="tag" value="stitky/napoje">nápoje - 7 výskytů</option>
+<option class="tag" value="stitky/o_cem_se_mluvi">o čem se mluví - 15 výskytů</option>
+<option class="tag" value="stitky/o_cem_se_nemluvi">o čem se nemluví - 4 výskyty</option>
+<option class="tag" value="stitky/omacka">omáčka - 5 výskytů</option>
+<option class="tag" value="stitky/pohostinstvi">pohostinství - 17 výskytů</option>
+<option class="tag" value="stitky/polevky">polévky - 6 výskytů</option>
+<option class="tag" value="stitky/pripadova_studie">případová studie - 17 výskytů</option>
+<option class="tag" value="stitky/recept">recept - 25 výskytů</option>
+<option class="tag" value="stitky/restaurace_a_servis">restaurace a servis - 20 výskytů</option>
+<option class="tag" value="stitky/ubytovani">ubytování - 6 výskytů</option>
+<option class="tag" value="stitky/zboziznalstvi">zbožíznalství - 5 výskytů</option>
+<option class="tag" value="stitky/zivotopis">životopis - 4 výskyty</option>
+<option class="article" value="clanky/a_la">Výraz à la na českých lístcích - À la</option>
+<option class="article" value="clanky/absint">Hořký likér absint - Absint</option>
+<option class="article" value="clanky/administrativni_pracovnik">Dobrý administrativní pracovník v pohostinství - Administrativní pracovník</option>
+<option class="article" value="clanky/agnes_sorel">Drůbeží garnitura Agnès Sorel - Agnès Sorel</option>
+<option class="article" value="clanky/agrodolce">Sladkokyselá omáčka agrodolce - Omáčka agrodolce</option>
+<option class="article" value="clanky/aioli">Italská dochucovací omáčka aioli - Italská omáčka aioli</option>
+<option class="article" value="clanky/alaska">Omeleta s překvapením - Omeleta s překvapením</option>
+<option class="article" value="clanky/alois_krofta">Architekt Alois Krofta - Alois Krofta</option>
+<option class="article" value="clanky/ambiance">Ambiance v gastronomii - Ambiance</option>
+<option class="article" value="clanky/americka_kuchyne">Stravovací zvyklosti Američanů - Americká kuchyně</option>
+<option class="article" value="clanky/americke_brambory">Americké pečené brambory a hranolky - Americké brambory</option>
+<option class="article" value="clanky/americke_pohostinstvi">Americké pohostinství - Americké pohostinství</option>
+<option class="article" value="clanky/americke_servirky">Usměvavé americké servírky - Americké servírky</option>
+<option class="article" value="clanky/americke_vzdelani">Vzdělání v Americe - Americké vzdělání</option>
+<option class="article" value="clanky/americky_turista">Potřeby amerických turistů - Americký turista</option>
+<option class="article" value="clanky/anna_brambory">Pařížské Anna brambory - Anna brambory</option>
+<option class="article" value="clanky/artycoky">Neobyčejný bodlák artyčok - Artyčoky</option>
+<option class="article" value="clanky/aspik">Podstata a využití aspiku - Aspik</option>
+<option class="article" value="clanky/auguste_escoffier">Georges Auguste Escoffier - Georges Auguste Escoffier</option>
+<option class="article" value="clanky/avokado">Vše o avokádu - Avokádo</option>
+<option class="article" value="clanky/bahmi_goreng">Příprava jídla bahmi goreng - Bahmi goreng</option>
+<option class="article" value="clanky/bain_marie">Ohřevná vana bain-marie - Bain-marie</option>
+<option class="article" value="clanky/bakery">Příběh restaurace Bakery - Restaurace Bakery</option>
+<option class="article" value="clanky/bakterie">Mýtus o bakteriích - Bakterie</option>
+<option class="article" value="clanky/balzamikovy_ocet">Výroba a použití balzamikového octa - Balzamikový ocet</option>
+<option class="article" value="clanky/banket">Význam slova banket a banketní - Banket</option>
+<option class="article" value="clanky/barding">Barding neboli obalování masa tukem - Barding</option>
+<option class="article" value="clanky/bbq">Barbecue - BBQ</option>
+<option class="article" value="clanky/bedekr">Cestovní turistický průvodce neboli bedekr - Bedekr</option>
+<option class="article" value="clanky/besamel">Omáčka bešamel a její varianty - Omáčka bešamel</option>
+<option class="article" value="clanky/blackdog_cantina">Blackdog cantina - Blackdog cantina</option>
+<option class="article" value="clanky/boarding_house">Boarding house – ubytování v privátních domech - Boarding house</option>
+<option class="article" value="clanky/borsc">Ruská polévka boršč - Boršč</option>
+<option class="article" value="clanky/brownnosing">Hnědý nos českých kuchařů - Brownnosing</option>
+<option class="article" value="clanky/brunch">Pozdní snídaně neboli brunch - Brunch</option>
+<option class="article" value="clanky/bufet">Restaurace se samoobslužným bufetem - Bufet</option>
+<option class="article" value="clanky/bujabeza">Polévka bujabéza a její příprava - Bujabéza</option>
+<option class="article" value="clanky/bullshit">Bullshit a špatná mluva - Bullshit</option>
+<option class="article" value="clanky/caesar_salat">Suroviny a příprava Caesar salátu - Caesar salát</option>
+<option class="article" value="clanky/careme">Marie-Antoine Carême - Carême</option>
+<option class="article" value="clanky/cash_bar">Bar za hotové neboli cash bar - Cash Bar</option>
+<option class="article" value="clanky/catering">Catering - Catering</option>
+<option class="article" value="clanky/catering_2">Catering 2 - Catering 2</option>
+<option class="article" value="clanky/catherine_de_medici">Vliv Catherine de Medici na francouzskou kuchyni - Catherine de Medici</option>
+<option class="article" value="clanky/ce_hoste_nemaji_radi">Co hosté nemají rádi - Co hosté nemají rádi</option>
+<option class="article" value="clanky/cekani_na_stul">Rezervace a čekání na stůl - Čekání na stůl</option>
+<option class="article" value="clanky/celebrity">Celebrity - Celebrity</option>
+<option class="article" value="clanky/celer_rapikaty">Jak vybrat a podávat řapíkatý celer - Řapíkatý celer</option>
+<option class="article" value="clanky/cenotvorba">Cenotvorba konceptu STEAKGRILL® - Cenotvorba</option>
+<option class="article" value="clanky/cerstva_ryba">Opravdově čerstvá ryba v restauraci - Čerstvá ryba</option>
+<option class="article" value="clanky/cesar_ritz">Geniální hoteliér César Ritz - César Ritz</option>
+<option class="article" value="clanky/cesi_nectou">Češi nečtou - Češi nečtou</option>
+<option class="article" value="clanky/ceska_gastronomie">Česká gastronomie - Česká gastronomie</option>
+<option class="article" value="clanky/ceska_kuchyne">Česká kuchyně - Česká kuchyně</option>
+<option class="article" value="clanky/ceske_pohostinstvi">České pohostinství - České pohostinství</option>
+<option class="article" value="clanky/cesko">Česko - Česko</option>
+<option class="article" value="clanky/chateaubriand">Proslulý francouzský pokrm chateaubriand - Chateaubriand</option>
+<option class="article" value="clanky/chefs_table">Šéfkuchařův stůl - Chefs Table</option>
+<option class="article" value="clanky/chili">Recept na vítězné chili - Vítězné chili</option>
+<option class="article" value="clanky/chipsy">Bramborové lupínky neboli chipsy - Chipsy</option>
+<option class="article" value="clanky/chowder">Husté polévky zvané chowdery - Chowdery</option>
+<option class="article" value="clanky/chrest">Vše o chřestu - Chřest</option>
+<option class="article" value="clanky/chucpa">Význam slova chucpa - Chucpa</option>
+<option class="article" value="clanky/cinsky_bufet">Čínský samoobslužný bufet - Čínský bufet</option>
+<option class="article" value="clanky/cislovani_jidel">Číslování jídel na jídelních lístcích - Číslování jídel</option>
+<option class="article" value="clanky/citrony">Citróny - Citróny</option>
+<option class="article" value="clanky/co_chutna_cizincum">Psychlogie chutí a co jí lidé v zahraničí - Co chutná cizincům</option>
+<option class="article" value="clanky/concierge">Hotelová funkce concierge - Concierge</option>
+<option class="article" value="clanky/convenience">Convenience - Convenience</option>
+<option class="article" value="clanky/cordon_bleu">Škola či řízek Cordon Bleu - Cordon Bleu</option>
+<option class="article" value="clanky/cruises">Rekreační cestování zaoceánskými loděmi - Cruises</option>
+<option class="article" value="clanky/cteni_listku">Jak číst jídelní lístky - Čtení lístku</option>
+<option class="article" value="clanky/cuisine">Cuisine - Cuisine</option>
+<option class="article" value="clanky/czech_specials">Projekt Czech specials - Czech specials</option>
+<option class="article" value="clanky/dedeckova_hospoda">Dědečkova hospoda - Dědečkova hospoda</option>
+<option class="article" value="clanky/degustacni_menu">Degustační menu - Degustační menu</option>
+<option class="article" value="clanky/demi-glace">Omáčka demi-glace - Demi-glace</option>
+<option class="article" value="clanky/denni_rutina">Moje denní rutina - Moje denní rutina</option>
+<option class="article" value="clanky/detske_listky">Dětské jídelní lístky - Dětské lístky</option>
+<option class="article" value="clanky/diner">Restaurace zvaná diner - Diner</option>
+<option class="article" value="clanky/divoka_ryze">Divoká rýže - Divoká rýže</option>
+<option class="article" value="clanky/dohotovovani_jidel_u_stolu">Dohotovování jídel u stolu - Dohotovování jídel u stolu</option>
+<option class="article" value="clanky/doplnky">Doplňky zpříjemňující hostův pobyt - Doplňky</option>
+<option class="article" value="clanky/draha_pomoc">Drahá pomoc - Drahá pomoc</option>
+<option class="article" value="clanky/dress_code">Dress Code - Dress Code</option>
+<option class="article" value="clanky/druhy_polevek">Druhy polévek - Druhy polévek</option>
+<option class="article" value="clanky/duseni">Technika dušení ve světě - Dušení</option>
+<option class="article" value="clanky/duvody_neuspechu_ceskych_restauraci">Důvody neúspěchu českých restaurací - Důvody neúspěchu českých restaurací</option>
+<option class="article" value="clanky/ecoflower">Označení výrobků ecoflower - Ecoflower</option>
+<option class="article" value="clanky/eighty_six">Eighty six - Eighty six</option>
+<option class="article" value="clanky/ekonomie_kuchynskych_technik">Ekonomie kuchyňských technik - Ekonomie kuchyňských technik</option>
+<option class="article" value="clanky/ekonomie_pohostinstvi">Ekonomie amerického pohostinství - Ekonomie pohostinství</option>
+<option class="article" value="clanky/ekonomika_bufetu">Ekonomika samoobslužných bufetů - Ekonomika bufetů</option>
+<option class="article" value="clanky/ellsworth_statler">Příběh hoteliéra Ellswortha M. Statlera - Ellsworth M. Statler</option>
+<option class="article" value="clanky/en_papilotte_neni_grilovani">En papilotte není grilování - En papilotte není grilování</option>
+<option class="article" value="clanky/esterhazy">Roštěná Esterházy - Esterházy</option>
+<option class="article" value="clanky/etika">Etika - Etika</option>
+<option class="article" value="clanky/etnicke_kuchyne">Důležitost etnických kuchyní - Etnické kuchyně</option>
+<option class="article" value="clanky/eurocuisine">Budoucnost evropské kuchyně - Eurocuisine</option>
+<option class="article" value="clanky/fajitas">Mexické jídlo fajitas - Fajitas</option>
+<option class="article" value="clanky/finger_food_4">Finger food - Finger food</option>
+<option class="article" value="clanky/fingerbowl">Oplachování prstů po jídle - Fingerbowl</option>
+<option class="article" value="clanky/flambovani">Flambování a jeho nevýhody - Flambování a jeho nevýhody</option>
+<option class="article" value="clanky/food_cost">Food Cost - Food Cost</option>
+<option class="article" value="clanky/food_styling">Kuchařské umění zvané food styling - Food Styling</option>
+<option class="article" value="clanky/franchising">Franchising - Franchising</option>
+<option class="article" value="clanky/franchize_day">Franchize Day - Franchize Day</option>
+<option class="article" value="clanky/francois_pierre">François Pierre de La Varenne - François Pierre</option>
+<option class="article" value="clanky/francouzska_cibulova_polevka">Francouzská cibulová polévka - Francouzská cibulová polévka</option>
+<option class="article" value="clanky/francouzska_gastronomie">Úskalí francouzské gastronomie - Francouzská gastronomie</option>
+<option class="article" value="clanky/francouzske_restaurace">Úpadek tradičních francouzských restaurací - Francouzské restaurace</option>
+<option class="article" value="clanky/funkce_pracovniku_v_pohostinstvi">Funkce pracovníků v pohostinství - Funkce pracovníků v pohostinství</option>
+<option class="article" value="clanky/ganymed">Ganymed - Ganymed</option>
+<option class="article" value="clanky/garbage">Garbage - Garbage</option>
+<option class="article" value="clanky/garde_manger">Historie titulu garde manger - Garde manger</option>
+<option class="article" value="clanky/gastronomicke_skupiny">Gastronomické skupiny na českých lístcích - Gastronomické skupiny</option>
+<option class="article" value="clanky/gastronomicke_vyrazy">Gastronomické výrazy - Gastronomické výrazy</option>
+<option class="article" value="clanky/gastronomie">Vše o gastronomii - Gastronomie</option>
+<option class="article" value="clanky/gastronomove">Gastronomové - Gastronomové</option>
+<option class="article" value="clanky/gastronomy">Gastronomy - Gastronomy</option>
+<option class="article" value="clanky/gi_pan">Původ názvu pekáče GI pan - Pekáč GI pan</option>
+<option class="article" value="clanky/goodwill">Význam slova goodwill - Goodwill</option>
+<option class="article" value="clanky/gravlax">Gravlax - Gravlax</option>
+<option class="article" value="clanky/grilovani">Grilování - Grilování</option>
+<option class="article" value="clanky/grily">Grily - Grily</option>
+<option class="article" value="clanky/gulas">Pravý původ guláše - Guláš</option>
+<option class="article" value="clanky/hoppelpoppel">Hoppelpoppel – jídlo ze zbytků - Hoppelpoppel</option>
+<option class="article" value="clanky/hospoda_new_york_propadak">Hospoda v New Yorku propadák - Hospoda v New Yorku propadák</option>
+<option class="article" value="clanky/host">Host - Host</option>
+<option class="article" value="clanky/host_bar">Host Bar - Host Bar</option>
+<option class="article" value="clanky/hoste">Hosté - Hosté</option>
+<option class="article" value="clanky/hostovka_1">Hostovka - Hostovka</option>
+<option class="article" value="clanky/hotchpotch">Hotchpotch - Hotchpotch</option>
+<option class="article" value="clanky/hotdog">Hotdog - Hotdog</option>
+<option class="article" value="clanky/hotdog_2">Hotdog 2 - Hotdog 2</option>
+<option class="article" value="clanky/hotovky_a_minutky">Hotovky a minutky v českých restauracích - Hotovky a minutky</option>
+<option class="article" value="clanky/hulky">Jídelní hůlky - Hůlky</option>
+<option class="article" value="clanky/jahody">Jahody - Jahody</option>
+<option class="article" value="clanky/jak_jedi_americane">Jak se doopravdy chovají Američané u stolu - Jak jedí Američané</option>
+<option class="article" value="clanky/jak_si_vybrat_z_listku">Jak si vybrat z lístku - Jak si vybrat z lístku</option>
+<option class="article" value="clanky/jak_varit_bez_kuchare">Jak vařit bez kuchaře - Jak vařit bez kuchaře</option>
+<option class="article" value="clanky/jednohubky">Jednohubky pro pobavení huby - Jednohubky</option>
+<option class="article" value="clanky/jednotne_ponikove_receptury">Tvorba jednotných podnikových receptur - Podnikové receptury</option>
+<option class="article" value="clanky/jevistni_kuchyne">Prezentace jídel před zraky hostů - Jevištní kuchyně</option>
+<option class="article" value="clanky/jidelni_emporium">Koncept jídelního emporia - Jídelní emporium</option>
+<option class="article" value="clanky/jidelni_listek">Jídelní lístek - Jídelní lístek</option>
+<option class="article" value="clanky/jidlo_doma_jinde">Doma jez co máš a jinde co ti dají - Jídlo doma a jinde</option>
+<option class="article" value="clanky/kaldoun">Kaldoun - Kaldoun</option>
+<option class="article" value="clanky/kalkulace">Kalkulace - Kalkulace</option>
+<option class="article" value="clanky/kde_je_zakopany_pes">Kde je zakopaný pes - Kde je zakopaný pes</option>
+<option class="article" value="clanky/klubove_talire">Používání klubových talířů - Klubové talíře</option>
+<option class="article" value="clanky/kniha_prani_a_stiznosti">Přání a stížnosti - Přání a stížnosti</option>
+<option class="article" value="clanky/know_how">Know-how - Know-how</option>
+<option class="article" value="clanky/koktejly">Koktejly a barmanství - Koktejly</option>
+<option class="article" value="clanky/kolacky_stesti">Ne až tak čínské koláčky štěstí - Koláčky štěstí</option>
+<option class="article" value="clanky/kolik_reci_umis">Kolik řečí umíš - Kolik řečí umíš</option>
+<option class="article" value="clanky/konfitovani">Konzervace potravin konfitováním - Konfitování</option>
+<option class="article" value="clanky/kontrolni_pokladny">Kontrolní pokladny - Kontrolní pokladny</option>
+<option class="article" value="clanky/koser">Košer - Košer</option>
+<option class="article" value="clanky/krabi">Druhy a příprava krabů - Krabi</option>
+<option class="article" value="clanky/kradeze">Krádeže - Krádeže</option>
+<option class="article" value="clanky/kradeze_v_kuchyni">Co se zaměstnanci, kteří kradou? - Krádeže v kuchyni</option>
+<option class="article" value="clanky/krajeni">Způsoby krájení potravin - Krájení</option>
+<option class="article" value="clanky/kratky_a_dlouhy_tyden">Krátký a dlouhý týden - Krátký a dlouhý týden</option>
+<option class="article" value="clanky/kratky_a_dlouhy_tyden_2">Krátký a dlouhý týden 2 - Krátký a dlouhý týden 2</option>
+<option class="article" value="clanky/kritika">Kritika - Kritika</option>
+<option class="article" value="clanky/kritika_a_pochvaly">Kritika a pochvaly - Kritika a pochvaly</option>
+<option class="article" value="clanky/kucharina">Kuchařina - Kuchařina</option>
+<option class="article" value="clanky/kucharky">Kuchařské knihy - Kuchařky</option>
+<option class="article" value="clanky/kucharske_knihy">Dobrá kuchařská kniha - Kuchařky</option>
+<option class="article" value="clanky/kucharske_knihy_2">Kuchařské knihy 2 - Kuchařské knihy 2</option>
+<option class="article" value="clanky/kucharske_tituly">Mezinárodní kuchařské tituly - Kuchařské tituly</option>
+<option class="article" value="clanky/kucharske_umeni">Pomíjivost kuchařského umění - Kuchařské umění</option>
+<option class="article" value="clanky/kuchyne_domaci">Kuchyně domácí - Kuchyně domácí</option>
+<option class="article" value="clanky/kuchyne_regionalni">Kuchyně regionální - Kuchyně regionální</option>
+<option class="article" value="clanky/kuchynske_techniky_a_listky">Kuchyňské techniky a jídelní lístky - Kuchyňské techniky a lístky</option>
+<option class="article" value="clanky/kureci_kridelka">Kuřecí křidélka a jejich příprava - Kuřecí křidélka</option>
+<option class="article" value="clanky/kureci_nugety">Zrození a vývoj kuřecích nuget - Kuřecí nugety</option>
+<option class="article" value="clanky/kvasek">Kvásek - Kvásek</option>
+<option class="article" value="clanky/la_merde">La merde - La merde</option>
+<option class="article" value="clanky/la_table_dhote">La table d'hote - La table d'hote</option>
+<option class="article" value="clanky/liquid_smoke">Liquid smoke - Liquid smoke</option>
+<option class="article" value="clanky/logistika">Logistika - Logistika</option>
+<option class="article" value="clanky/management">Management - Management</option>
+<option class="article" value="clanky/management_by_menu">Management By the Menu - Management By Menu</option>
+<option class="article" value="clanky/mandolina">Multifunkční struhadlo kuchyňská mandolína - Mandolína</option>
+<option class="article" value="clanky/marbling">Marbling - Marbling</option>
+<option class="article" value="clanky/marshmallows">Cukroví marshmallows - Marshmallows</option>
+<option class="article" value="clanky/martini">Historie koktejlu Martini - Koktejl Martini</option>
+<option class="article" value="clanky/mb_svobodova">M. B. Svobodová - M. B. Svobodová</option>
+<option class="article" value="clanky/mc_donalds">Mc Donalds - Mc Donalds</option>
+<option class="article" value="clanky/md_retigova">Co mi vadí na M. D. Rettigové - M. D. Retiigová</option>
+<option class="article" value="clanky/mentolky_po_jidle">Bonbóny pro osvěžení dechu po jídle - Mentolky po jídle</option>
+<option class="article" value="clanky/mesquite">Mesquite - Mesquite</option>
+<option class="article" value="clanky/mexicky_flan">Mexický flan - Mexický flan</option>
+<option class="article" value="clanky/michael_klima_zivotopis">Život Mikea Dobromila Klímy - Život Mikea Dobromila Klímy</option>
+<option class="article" value="clanky/michelin">Michelin - Michelin</option>
+<option class="article" value="clanky/minutky">Minutky - Minutky</option>
+<option class="article" value="clanky/modni_pojmy">Upoutání pozornosti módními pojmy - Módní pojmy</option>
+<option class="article" value="clanky/mom_and_dad_restaurant">Mom and Dad Restaurant - Mom and Dad Restaurant</option>
+<option class="article" value="clanky/muj_gulas">Můj guláš - Můj guláš</option>
+<option class="article" value="clanky/musle">Mušle - Mušle</option>
+<option class="article" value="clanky/mystery_shopping">Lesk a bída mystery shopping služeb - Mystery shopping</option>
+<option class="article" value="clanky/mzda_strachu">Mzda strachu - Mzda strachu</option>
+<option class="article" value="clanky/na_letadlech">Na letadlech - Na letadlech</option>
+<option class="article" value="clanky/na_zamku_a_v_podzamci">Na zámku a v podzámčí - Na zámku a v podzámčí</option>
+<option class="article" value="clanky/nazvy_jidel">Názvy jídel - Názvy jídel</option>
+<option class="article" value="clanky/nazvy_jidel_2">Názvy jídel 2 - Názvy jídel 2</option>
+<option class="article" value="clanky/nazvy_jidel_3">Názvy jídel 3 - Názvy jídel 3</option>
+<option class="article" value="clanky/nazvy_kuchynskych_technik">Názvy kuchyňských technik - Názvy kuchyňských technik</option>
+<option class="article" value="clanky/neznalost_a_ignorance">Neznalost a ignorance - Neznalost a ignorance</option>
+<option class="article" value="clanky/nezname_potraviny">Neznámé potraviny - Neznámé potraviny</option>
+<option class="article" value="clanky/nikdy">Nikdy - Nikdy</option>
+<option class="article" value="clanky/no_host_bar">No Host Bar - No Host Bar</option>
+<option class="article" value="clanky/no_problem">No Problem - No Problem</option>
+<option class="article" value="clanky/nove_koreni">Historka o novém koření - Nové koření</option>
+<option class="article" value="clanky/novinky_v_pohostinstvi">Co je nového v českém pohostinství - Novinky v českém pohostinství</option>
+<option class="article" value="clanky/noze">Vše o nožích - Nože</option>
+<option class="article" value="clanky/o_mase">O mase - O mase</option>
+<option class="article" value="clanky/o_mase_2">O mase 2 - O mase 2</option>
+<option class="article" value="clanky/obloha">Obloha - Obloha</option>
+<option class="article" value="clanky/ochutnavka_vina">Ochutnávka vína - Ochutnávka vína</option>
+<option class="article" value="clanky/odbornici_v_pohostinstvi">Odborníci v pohostinství - Odborníci v pohostinství</option>
+<option class="article" value="clanky/open_bar">Open Bar - Open Bar</option>
+<option class="article" value="clanky/opice_tu_nemame">Opice tu nemáme - Opice tu nemáme</option>
+<option class="article" value="clanky/osh">Organizace pro bezpečné a zdravé pracovní podmínky OSH - OSH</option>
+<option class="article" value="clanky/osobnosti">Osobnosti - Osobnosti</option>
+<option class="article" value="clanky/paratka">Párátka na hraně etikety - Párátka</option>
+<option class="article" value="clanky/parmentier">Vepřová panenka parmentier - Parmentier</option>
+<option class="article" value="clanky/peceni">Pečení - Pečení</option>
+<option class="article" value="clanky/physalis">Ovoce physalis - Physalis</option>
+<option class="article" value="clanky/pina_colada">Piña Colada - Piña Colada</option>
+<option class="article" value="clanky/piti_vina_a_zdravi">Pití vína a jeho vliv na zdraví - Pití vína a zdraví</option>
+<option class="article" value="clanky/plody_more">Plody moře a krevetky - Plody moře a krevetky</option>
+<option class="article" value="clanky/po_narod">Po národ - Po národ</option>
+<option class="article" value="clanky/pochoutky_s_ocasem">Pochoutky s ocasem - Pochoutky s ocasem</option>
+<option class="article" value="clanky/podavani_jidel_pri_bezpecne_teplote">Podávání jídel při bezpečné teplotě - Podávání jídel při bezpečné teplotě</option>
+<option class="article" value="clanky/podavani_polevek">Podávání polévek - Podávání polévek</option>
+<option class="article" value="clanky/podnikani_v_pohostinstvi">Podnikání v pohostinství - Podnikání v pohostinství</option>
+<option class="article" value="clanky/pokojova_teplota">Pokojová teplota - Pokojová teplota</option>
+<option class="article" value="clanky/polotovary">Polotovary - Polotovary</option>
+<option class="article" value="clanky/pompano_en_papillote">Pompano en Papillote - Pompano en Papillote</option>
+<option class="article" value="clanky/popis_jidel_na_jidelnich_listcich">Popis jídel na jídelních lístcích - Popis jídel na jídelních lístcích</option>
+<option class="article" value="clanky/porchetta">Porchetta - Porchetta</option>
+<option class="article" value="clanky/poslicci">Hoteloví poslíčci - Poslíčci</option>
+<option class="article" value="clanky/pot_luck">Pot Luck - Pot Luck</option>
+<option class="article" value="clanky/povinnosti_obsluhy">Základní povinnosti obsluhy - Povinnosti obsluhy</option>
+<option class="article" value="clanky/pracovni_obedy">Pracovní a firemní obědy - Pracovní obědy</option>
+<option class="article" value="clanky/prani">Přání - Přání</option>
+<option class="article" value="clanky/prani_a_naroky_hostu">Přání a nároky sofistikovaných hostů - Přání a nároky hostů</option>
+<option class="article" value="clanky/prava_hosta">Práva hosta - Práva hosta</option>
+<option class="article" value="clanky/pravda_na_listku">Pravda na jídelním lístku - Pravda na lístku</option>
+<option class="article" value="clanky/predkrmy">Předkrmy - Předkrmy</option>
+<option class="article" value="clanky/prepustene_maslo">Přepuštěné máslo - Přepuštěné máslo</option>
+<option class="article" value="clanky/prezentace_jidel">Důležitost prezentace jídel - Prezentace jídel</option>
+<option class="article" value="clanky/prime_rib">Prime Rib - Prime Rib</option>
+<option class="article" value="clanky/pripradove_studie">Případové studie - Případové studie</option>
+<option class="article" value="clanky/priprava_jidel_v_jidelne">Příprava jídel v jídelně - Příprava jídel v jídelně</option>
+<option class="article" value="clanky/proc_lide_chodi_do_restauraci">Proč chodí lidé do restaurací - Proč chodí lidé do restaurací</option>
+<option class="article" value="clanky/proc_lide_nechodi_do_restauraci">Proč nechodí lidé do restaurací - Proč nechodí lidé do restaurací</option>
+<option class="article" value="clanky/propagace">Důležitost propagace - Propagace</option>
+<option class="article" value="clanky/psychologie">Psychologie - Psychologie</option>
+<option class="article" value="clanky/raison_detre_steakgrillu">Raison d´etre Steakgrillu - Raison d´etre Steakgrillu</option>
+<option class="article" value="clanky/rent_a_chef">Rent a chef - Rent a chef</option>
+<option class="article" value="clanky/reservace">Reservace - Reservace</option>
+<option class="article" value="clanky/roasting">Roasting - Roasting</option>
+<option class="article" value="clanky/rocky_mountains_oysters">Rocky mountain oysters - Rocky mountain oysters</option>
+<option class="article" value="clanky/rozmisteni_buffetovych_jidel">Psychologie rozmístění buffetových jídel - Rozmístění buffetových jídel</option>
+<option class="article" value="clanky/rukola">Salát rukola - Rukola</option>
+<option class="article" value="clanky/sacher_eduard">Sacher Eduard - Sacher Eduard</option>
+<option class="article" value="clanky/salatove_bary">Salátové bary - Salátové bary</option>
+<option class="article" value="clanky/salsa">Salsa - Salsa</option>
+<option class="article" value="clanky/salzburger_nockerl">Salzburger Nockerl - Salzburger Nockerl</option>
+<option class="article" value="clanky/samoobsluzna_restaurace">Vše, co sníš a nikoli co odneseš - Samoobslužná restaurace</option>
+<option class="article" value="clanky/sanitace">Sanitace - Sanitace</option>
+<option class="article" value="clanky/sef_na_grilu">Šéf na grilu - Šéf na grilu</option>
+<option class="article" value="clanky/sele">Sele - Sele</option>
+<option class="article" value="clanky/sendvice">Původ a typy sendvičů - Sendviče</option>
+<option class="article" value="clanky/service_charge">Service charge - Service charge</option>
+<option class="article" value="clanky/shrimp_de_jonghe">Shrimp de Jonghe - Shrimp de Jonghe</option>
+<option class="article" value="clanky/side_jobs">Side Jobs - Side Jobs</option>
+<option class="article" value="clanky/sizeni">Šizení - Šizení</option>
+<option class="article" value="clanky/slevy">Slevy - Slevy</option>
+<option class="article" value="clanky/slow_food">Slow food - Slow food</option>
+<option class="article" value="clanky/sluzby">Služby - Služby</option>
+<option class="article" value="clanky/smazeni">Druhy smažení - Smažení</option>
+<option class="article" value="clanky/sofistikovany_host">Jak se stát sofistikovaným hostem - Sofistikovaný host</option>
+<option class="article" value="clanky/sotyrovani">Sotýrování - Sotýrování</option>
+<option class="article" value="clanky/soucasny_stav_ceskeho_pohostinstvi">Současný stav českého pohostinství - Současný stav českého pohostinství</option>
+<option class="article" value="clanky/speciality">Speciality podniku - Speciality</option>
+<option class="article" value="clanky/split_checks">Split Checks - Split Checks</option>
+<option class="article" value="clanky/spojena_kuchyne">Spojení více druhů kuchyní - Spojená kuchyně</option>
+<option class="article" value="clanky/spolecenske_funkce">Společenské funkce - Společenské funkce</option>
+<option class="article" value="clanky/spolecenstvi_gastronomu">Společenství gastronomů - Společenství gastronomů</option>
+<option class="article" value="clanky/spravne_spatne">Co je správné a co ne - Co je správné a co ne</option>
+<option class="article" value="clanky/steak">Co je to steak - Steak</option>
+<option class="article" value="clanky/steaky">Steaky - Steaky</option>
+<option class="article" value="clanky/steaky_2">Steaky 2 - Steaky 2</option>
+<option class="article" value="clanky/steaky_preference">Steaky preference - Steaky preference</option>
+<option class="article" value="clanky/steaky_stupen_propeceni">Steaky stupeň propečení - Steaky stupeň propečení</option>
+<option class="article" value="clanky/steamship_round">Steamship round - Steamship round</option>
+<option class="article" value="clanky/stiznost_melikana">Stížnost Melikana - Stížnost Melikana</option>
+<option class="article" value="clanky/stiznosti">Stížnosti - Stížnosti</option>
+<option class="article" value="clanky/stravovaci_zvyklosti">Stravovací zvyklosti - Stravovací zvyklosti</option>
+<option class="article" value="clanky/stredomorsky_za_dobrou_cenu">Středomořsky za dobrou cenu - Středomořsky za dobrou cenu</option>
+<option class="article" value="clanky/stroganov">Hovězí Stroganov s hranolky - Stroganov</option>
+<option class="article" value="clanky/studene_polevky">Studené polévky - Studené polévky</option>
+<option class="article" value="clanky/studeny_sok">Chlazení studeným šokem - Studený šok</option>
+<option class="article" value="clanky/sucha_jiska">Suchá jíška - Suchá jíška</option>
+<option class="article" value="clanky/super_chef">Super chef - Super chef</option>
+<option class="article" value="clanky/super_chef_2">Super chef 2 - Super chef 2</option>
+<option class="article" value="clanky/supervision">Supervision - Supervision</option>
+<option class="article" value="clanky/svickova_atd">Svíčková atd. - Svíčková atd.</option>
+<option class="article" value="clanky/svoboda_slova">Svoboda slova a obchodní strategie - Svobody slova</option>
+<option class="article" value="clanky/sweet_and_sour">Sweet and Sour - Sweet and Sour</option>
+<option class="article" value="clanky/tatarsky_biftek">Tatarský biftek - Tatarský biftek</option>
+<option class="article" value="clanky/tatarsky_steak">Tatarský steak trochu jinak - Tatarský steak</option>
+<option class="article" value="clanky/technologie_pohostinstvi">Technologie v průmyslu v pohostinství - Technologie v pohostinství</option>
+<option class="article" value="clanky/tenderizovani">Tenderizování - Tenderizování</option>
+<option class="article" value="clanky/tequila">Tequila - Tequila</option>
+<option class="article" value="clanky/thanksgiving">Thanksgiving - Thanksgiving</option>
+<option class="article" value="clanky/tiskova_zprava_akp_cr">Tisková zpráva APK ČR - Tisková zpráva APK ČR</option>
+<option class="article" value="clanky/tofu">Tofu - Tofu</option>
+<option class="article" value="clanky/toto_se_tyka_nas_vsech">Toto se týká nás všech - Toto se týká nás všech</option>
+<option class="article" value="clanky/trendy_vyvoje_ceskeho_pohostinstvi">Trendy vývoje českého pohostinství - Trendy vývoje českého pohostinství</option>
+<option class="article" value="clanky/tvorba_cen">Tvorba cen - Tvorba cen</option>
+<option class="article" value="clanky/ty_jsi_vlastne_nic_neudelal">Ty jsi pro mě vlastně nic neudělal - Ty jsi vlastně nic neudělal</option>
+<option class="article" value="clanky/u_nas_si_nikdo_nestezuje">U nás si nikdo nestěžuje - U nás si nikdo nestěžuje</option>
+<option class="article" value="clanky/ucetnictvi">Účetnictví v pohostinství - Účetnictví</option>
+<option class="article" value="clanky/uprava_jidel">Úprava jídel - Úprava jídel</option>
+<option class="article" value="clanky/uroven_pohostinstvi">Zlepšení úrovně pohostinství - Úroveň pohostinství</option>
+<option class="article" value="clanky/ustrice">Ústřice - Ústřice</option>
+<option class="article" value="clanky/v_kostce">V kostce - V kostce</option>
+<option class="article" value="clanky/valet_parking">Valet parking - Valet parking</option>
+<option class="article" value="clanky/vanoce_prichazeji">Vánoce přicházejí - Vánoce přicházejí</option>
+<option class="article" value="clanky/vanoce_v_americe">Vánoce u nás a v Americe - Vánoce v Americe</option>
+<option class="article" value="clanky/vareni">Tepelné úpravy potravin - Vaření</option>
+<option class="article" value="clanky/vareni_z_polotovaru">Vaření z polotovarů v moderní kuchyni - Vaření z polotovarů</option>
+<option class="article" value="clanky/vazani">Vázání - Vázání</option>
+<option class="article" value="clanky/vdolky">Vdolky u nás a v Americe - Vdolky</option>
+<option class="article" value="clanky/velikost_porce">Správná velikost porce - Velikost porce</option>
+<option class="article" value="clanky/velka_huba">Velká huba - Velká huba</option>
+<option class="article" value="clanky/vnitrni_teplota_steaku">Vnitřní teplota steaků - Vnitřní teplota steaků</option>
+<option class="article" value="clanky/vyhlaska_107">Hygienická vyhláška č. 107 - Vyhláška č. 107</option>
+<option class="article" value="clanky/vykostovani">Vykosťování - Vykosťování</option>
+<option class="article" value="clanky/vzhled_jidel">Vzhled jídel - Vzhled Jídel</option>
+<option class="article" value="clanky/who_cares_about_the_czech_specials">Who Cares About the Czech Specials - Czech Specials</option>
+<option class="article" value="clanky/z_kuchariny_ctnost">Z kuchařiny ctnost - Z kuchařiny ctnost</option>
+<option class="article" value="clanky/zahranicni_kuchyne">Zahraniční kuchyně - Zahraniční kuchyně</option>
+<option class="article" value="clanky/zalivka_dresink">Rozdíl a příprava zálivky a dresinku - Zálivka a dresink</option>
+<option class="article" value="clanky/zarizeni_ke_grilovani_ci_broilovani">Zařízení ke grilování či broilování - Zařízení ke grilování či broilování</option>
+<option class="article" value="clanky/zatraceny_krabi_zivot">Zatracený krabí život - Zatracený krabí život</option>
+<option class="article" value="clanky/zazitkova_gastronomie">Zážitková gastronomie - Zážitková gastronomie</option>
+<option class="article" value="clanky/zbytky">Zbytky - Zbytky</option>
+<option class="article" value="clanky/zbytky2">Zbytky - Zbytky</option>
+<option class="article" value="clanky/zdobeni">Zdobení jídla - Zdobení</option>
+<option class="article" value="clanky/zkratky_na_listcich">Zkratky na jídelních lístcích - Zkratky na lístcích</option>
+<option class="article" value="clanky/zkusenosti_ze_sveta">Zkušenosti ze světa - Zkušenosti ze světa</option>
+<option class="article" value="clanky/znalec_pohostinstvi">Kdo je lepším znalcem pohostinství - Znalec pohostinství</option>
+<option class="article" value="clanky/zrani">Zrání hovězího masa - Zrání</option>
+<!-- generated by user_update.sh on 2021-01-05 -->
+      </select><button type="submit" class="completable__submit button button--img button--img-inline"><span>Vyhledat</span><span class="far fa-fw fa-search">i</span></button></li>
     </ul>
   </form>
   </var>

@@ -5,7 +5,7 @@
 
 # Mc Donalds
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="gastronomie"}
 
@@ -209,4 +209,22 @@ Vyzkoušel jsem ale hamburgy v na Sri Lance, v Austrealii, Moskvě, Cairu, Alexa
 convenience tudíž třeba i Finger Food.
 
 Naštěstí ale dnes už i v Česku máme celou řadu restaurací a stravovacích zařízení ze kterých si lze vybrat, ale já osobně bych se nepouštěl do posuzování toho které to jídlo je zdravé a které ne nebo které je zdravější než ta naše typická česká kuchyně.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

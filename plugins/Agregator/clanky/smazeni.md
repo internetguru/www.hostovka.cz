@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=87.html" data-image="files/preview/clanky/smazeni/general.jpg" data-type="article"}
 
-{ctime="2005-10-30" mtime="2019-02-25" id="smazeni" author="Michael Klíma" short="Smažení"}
+{ctime="2005-10-30" mtime="2019-02-25" data-top="919" id="smazeni" author="Michael Klíma" short="Smažení"}
 
 # Druhy smažení
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="kuchyňské techniky"}
 
@@ -20,4 +20,22 @@ U smažení se rozlišuje, v jakém množství tuku byl pokrm usmažen. Zálež�
 U smažení také rozlišujeme, zda byla potravina obalena moukou, trojbalem, nebo jestli byla namočena v těstíčku. Potraviny obalené trojbalem (anglicky _braded_) se dají smažit dokonce i v konvektomatu nebo jenom v troubě, což ovšem nemám moc rád. Výjimku tvoří obalovaná kuřata a ryby, kterým se pak ale říká pečená (anglicky _baked_).
 
 Teď už jako studenti Hostovky víte, že pokud smažení není na jídelním lístku přesně specifikováno, tak byste se na to měli zeptat obsluhy a doufat, že to ví.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

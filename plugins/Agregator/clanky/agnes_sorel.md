@@ -1,37 +1,57 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=30.html" data-image="/files/preview/clanky/agnes_sorel/general.jpg" data-type="article"}
 
-{ctime="2005-07-03" mtime="2005-07-03" id="agnes\_sorel" author="Michael Klíma" short="Agnès Sorel" authorid="hostovka/michael\_klima"}
+{ctime="2005-07-03" mtime="2020-04-30" id="agnes_sorel" author="Michael Klíma" short="Agnès Sorel"}
 
-# Agnès Sorel
+# Drůbeží garnitura Agnès Sorel
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
-{kw="restaurace a servis"}
+{kw="restaurace a servis, omáčka"}
 
-(1410-1450) Milenka francouzského krále Karla VII. a nejlepší milovnice té doby. Měla dobrý a významný vliv na krále a snažila se snížit bídu a mizérii. Po ni byla pojmenována garnitura pro drůbež a jateční masa která sestávala z paštiček z drůbeží fáše, plněné sortýrovanými žampiony obloženými kulatými plátky uzeného jazyka a lanýži. U drůbeže se ještě přidává Sauce Alemande.
+Agnès Sorel (1410–1450) byla milenka francouzského krále Karla VII. Měla významný vliv na krále a snažila o snížení bídy a mizérie v zemi. Je po ní pojmenována garnitura (soubor jídel a doplňků) pro drůbež a jateční masa.
 
-{id="fas"}
+Garnitura se skládala z paštik z drůbeží fáše plněných [sortýrovanými][1] žampiony obloženými kulatými plátky uzeného jazyka a lanýži. K drůbeži se navíc přidávala omáčka _Allemande {xml:lang="fr"}_.
 
-## Fáš
+{id="omacka_allemande"}
 
-Od francouzského farce, je směs syrového nebo vařeného masa, ryb, drůbeže, plodů moře, zeleniny, případně jejich směsi smíchaná s pojivem, osolená a okořeněná. Používá se při výrobě paštik, náplní a pomazánek.
+## Omáčka Allemande
 
-Alemande (fr.) Francouzský výraz znamenající německý, ale také název jedné z velice populárních francouzských omáček. Když známý kuchař Antoine Carême vytvořil tuto lehkou krémovou omáčku, jejíž světlá barva mu připomínala bledé, blonďaté němce, tak tuto omáčku pojmenoval Alemande, neboli německá.
+_Allemande {xml:lang="fr"}_ znamená ve francouzštině _německý_, ale je to také název jedné z velmi populárních francouzských omáček. Vytvořil ji známý kuchař [Marie-Antoine Carême][2]. Krémová omáčka světlé barvy mu připomínala blonďaté Němce, proto ji pojmenoval _Allemande {xml:lang="fr"}_.
 
-Toto ale bylo proti mysli mnoha tehdejších francouzských kuchařů kteří nemohli přežít, že nějaká omáčka má jiný původ než francouzský. Dokonce i král všech kuchařů a kuchař všech králů Escoffier se jednou pokusil změnit germánské jméno této již tak slavné omáčky na Sauce Blonde nebo Sauce Parisienne, ale její originální název přežil.
+{class="example"}
 
-{id="sauce_alemande"}
+Název omáčky byl ale proti mysli mnoha tehdejších francouzských kuchařů. Dokonce i král všech kuchařů a kuchař všech králů [Escoffier][3] se pokusil změnit germánské jméno této již tak slavné omáčky na _Sauce Blonde {xml:lang="fr"}_ nebo _Sauce Parisienne {xml:lang="fr"}_. Její originální název ale přežil.
 
-## Sauce Alemande
+Postup přípravy omáčky je jednoduchý. Ne příliš husté _velouté {xml:lang="fr"}_ zjemníme a částečně zahustíme žloutky a smetanou. Tomu se francouzsky říká _liaison {xml:lang="fr"}_.
 
-Ne příliš husté velouté zjemníme a částečně zahustíme žloutky a smetanou čemuž se francouzsky říká liaison.
-
-{id="veloute"}
+{xml:lang="fr" id="veloute"}
 
 ## Velouté
 
-Nebuďte nervózní když slyšíte názvy některých těch klasických omáček jako například veluoté. Je to francouzský název velice jednoduché bílé omáčky, česky zvané veluté, dělané z drůbežího, telecího nebo rybího vývaru zahuštěného světlou jíškou (roux).
+Nebuďte nervózní z názvů klasických omáček. _Veluoté {xml:lang="fr"}_ je francouzský název velmi jednoduché bílé omáčky, dělané z drůbežího, telecího nebo rybího vývaru zahuštěného světlou jíškou.
 
-Veluté patří do skupiny pěti základních (mateřských) omáček. V kuchyních ve kterých se zabýváte vlastní výrobou se bez této omáčka neobejdete protože je základem pro miliardu dalších omáček. Dvě tyto omáčky o kterých se musíme zmínit jsou Sauce Allemande a Sauce Supreme.
+_Veluoté {xml:lang="fr"}_ patří do skupiny pěti základních (mateřských) omáček. V kuchyních, ve kterých se zabýváte vlastní výrobou se bez ní neobejdete. Je totiž základem pro milión dalších omáček, například pro omáčky _Allemande {xml:lang="fr"}_ a _Supreme {xml:lang="fr"}_.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
+
+ [1]: sotyrovani
+ [2]: careme
+ [3]: auguste_escoffier
 

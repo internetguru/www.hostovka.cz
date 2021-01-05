@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=338.html" data-image="/files/preview/clanky/parmentier/general.jpg" data-type="article"}
 
-{ctime="2008-06-29" mtime="2008-06-29" id="parmentier" author="Michael Klíma" short="Parmentier" authorid="hostovka/michael_klima"}
+{ctime="2008-06-29" mtime="2008-06-29" data-top="940" id="parmentier" author="Michael Klíma" short="Parmentier" authorid="hostovka/michael_klima"}
 
 # Vepřová panenka parmentier
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -50,4 +50,22 @@ Bramboráky byly v té době v Americe velice populární a dušené červené n
 Barbaru jsem samozřejmě pozval s jejím manželem na večeří do jedné exklusivní restaurace kde nám ten PORK TENDERLOIN STEAK PARMETNIÉRE připravili a mohu vám říci že byl stejně dobrý jako bych ho udělal já.
 
 Pokud chcete ten steak ochutnat, tak máte tu možnost v restauraci STEKGRILL? v Račiněvsi u Roudnice kde ho podle mého názoru také dělají tak jako bych ho dělal já.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

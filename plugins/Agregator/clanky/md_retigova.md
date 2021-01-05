@@ -5,7 +5,7 @@
 
 # Co mi vadí na M. D. Rettigové
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="etika"}
 
@@ -40,4 +40,22 @@ Jinak ale po jeho „zpovědi“ v lidových novinách se od něj mnoho kuchař�
 Jestlipak jsme toho Pohlreicha měli zapotřebí. Podle mě mimo Sv. Vavřince máme ještě celou řadu svatých, a tak bychom se jich měli držet, protože jednou svatý, vždycky svatý a sichr je sichr.
 
 No a teď se asi nemůžete divit, proč ani jméno Dobromil nepoužívám a proč jsem v Americe přijal jméno Michael. Ale když se to tak vezme, tak já ani na tom jméně tak moc nerajtuji. Ve Franci mi totiž říkají Michel, Mexiku Miguel, Austrálii a v Americe mi říkají Mike, v Rusku Miša, v Egyptě Mustafa, a v Česku mně ještě dnes někteří lidé znají pod jménem Mirek. No a jedna moje velmi dobrá známá mi říkala Míšánek.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

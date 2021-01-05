@@ -1,9 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=208.html" data-image="/files/preview/clanky/celer_rapikaty/general.jpg" data-type="article"}
 
-{ctime="2007-01-26" mtime="2019-03-29" id="celer_rapikaty" author="Michael Klíma" short="Řapíkatý celer"}
+{ctime="2007-01-26" mtime="2019-03-29" data-top="946" id="celer_rapikaty" author="Michael Klíma" short="Řapíkatý celer"}
 
 # Jak vybrat a podávat řapíkatý celer
+
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="zbožíznalství, recept, zelenina"}
 
@@ -78,6 +80,24 @@ V Americe je syrový celer také nezbytnou součástí nejpopulárnějšího př
   4. Do středu dáme koktejlovou omáčku.
 
 Celer má také využití při přípravě některých koktejlů jako přírodní míchátko. Například velice populární koktejl _Bloody Mary_ by bez míchátka z celeru nebyl úplný. V tomto případě se ke koktejlu míchátko přikusuje.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 
  [1]: /jednohubky
  [2]: /zalivka_dresink#zalivka

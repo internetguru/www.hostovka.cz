@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=242.html" data-image="/files/preview/clanky/klubove_talire/general.jpg" data-type="article"}
 
-{ctime="2007-07-05" mtime="2019-02-19" id="klubove_talire" author="Michael Klíma" short="Klubové talíře"}
+{ctime="2007-07-05" mtime="2019-02-19" data-top="994" id="klubove_talire" author="Michael Klíma" short="Klubové talíře"}
 
 # Používání klubových talířů
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="restaurace a servis"}
 
@@ -66,6 +66,24 @@ Zapomeňme také na to, jestli se mají sklízet po prvním chodu, tak jak to m�
 Zamysleme se ale nad tím, kolik mimo jejich ceny, půjčovného nebo ztrát opotřebováním, rozbitím nebo rozkradením (mimo Česka a Slovenska, kde se nekrade) stojí manipulace s nimi. Klubové talíře (nebo prkénka) by se totiž měly po každém použití umýt, a mimo doby provozu někde uskladnit. Také by se měly na stůl dávat až před servisem, a ne je nechávat na stolech po několik dní nebo týdnů, což je mnohde běžná praxe. Z pohledu logistiky je s nimi prostě velké množství manipulace.
 
 Závěrem s ohledem na některé mé kritiky musím zdůraznit, že vše, co jsem o klubových talířích napsal, jsou moje osobní poznatky a mé osobní názory.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 
  [1]: http://2017.hostovka.cz/soubor/05-07-07-2.JPG
  [2]: http://2017.hostovka.cz/soubor/05-07-07-3.JPG

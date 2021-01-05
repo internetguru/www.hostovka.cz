@@ -5,7 +5,7 @@
 
 # Technologie v průmyslu v pohostinství
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="pohostinství"}
 
@@ -36,4 +36,22 @@ Ideální je mít při seznamu jídel plánovaných pro náš jídelní lístek 
 ## Logistika
 
 Logistika v průmyslu pohostinství a cestovního ruchu je umění skloubit všechny články tohoto enormního odvětví národního hospodářství v jeden celek jehož hlavním cílem je uspokojit potřeby a přání hostů a vytvořit zasloužený předpokládaný zisk.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

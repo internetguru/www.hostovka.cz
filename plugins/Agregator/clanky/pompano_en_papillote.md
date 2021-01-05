@@ -5,7 +5,7 @@
 
 # Pompano en Papillote
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -30,4 +30,22 @@ Při použití pergamenu v té době balíček zhnědne, ale při použití foli
 Popularita tohoto jídla samozřejmě inspirovala ku mnohým variacím při použití jiných ryb a plodů moře a dokonce i kuřat, a to obzvláště v Novém Orléansu.
 
 Nový Orleans je známý creolskou kuchyní která se vyznačuje hlavně svojí ostrostí a proto existuje i několik receptů které se vyznačují svojí ostrostí.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

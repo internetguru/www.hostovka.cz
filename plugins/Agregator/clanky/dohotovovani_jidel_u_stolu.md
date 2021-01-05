@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=205.html" data-image="/files/preview/clanky/dohotovovani\_jidel\_u_stolu/general.jpg" data-type="article"}
 
-{ctime="2006-12-30" mtime="2006-12-30" id="dohotovovani\_jidel\_u\_stolu" author="Michael Klíma" short="Dohotovování jídel u stolu" authorid="hostovka/michael\_klima"}
+{ctime="2006-12-30" mtime="2006-12-30" data-top="968" id="dohotovovani\_jidel\_u\_stolu" author="Michael Klíma" short="Dohotovování jídel u stolu" authorid="hostovka/michael\_klima"}
 
 # Dohotovování jídel u stolu
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="kuchyňské techniky"}
 
@@ -33,7 +33,7 @@ Nebudu tu problematiku probírat podle jednotlivých fází, ale zastavím se u 
 
 Zaprvé se musím zmínit, že jsem nepřítelem toho někdejšího tak zvaného "francouzského" způsobu servisu, který sice mimo toho show měl problematiku zkrácení doby od výroby jídla do jeho konzumace zkrátit, ale který tu dobu díky celé té komedii a zdlouhavému přendávání jídla z mísy či teriny na talíř ve většině případů prodloužil.
 
-Stejně tak jsem proti tak zvanému "tableside carving" (dranšírování u stolu) a "tableside cooking" neboli vaření či dohotovování jídel u stolu, leda že je prováděno kuchařem či vyškoleným pracovníkem obsluhy, s čímž se dnes setkáme jen velmi zřídka.
+Stejně tak jsem proti tak zvanému "tableside carving" (<a>dranžírování {var="definition-dranzirovani"}</a> u stolu) a "tableside cooking" neboli vaření či dohotovování jídel u stolu, leda že je prováděno kuchařem či vyškoleným pracovníkem obsluhy, s čímž se dnes setkáme jen velmi zřídka.
 
 O těchto technikách se ani nebudu zmiňovat, nicméně příležitostně popíši dnes velice populární techniky jako například "table top cooking", což je "vaření na stole" které se ale od těch předchozích technik liší hlavně tím, že se provádí samotnými hosty.
 
@@ -64,4 +64,22 @@ Každá tato polévka chutná jinak, jednak podle použitých surovin, ale hlavn
 U tohoto jídla je nutno opět připomenout, že použití klasického čínského nádobí není podmínkou. Speciální originální čínský hrnec zvaný mongolský kotlík je dosti nákladnou záležitostí. Náčiní, které třeba máme na švýcarské nebo burgundské fondue, které se tomuto způsobu podobá, postačí jen tehdy, je-li nádoba na fondue dostatečně velká. Nicméně starý železňák, který máme ještě po babičce, a elektrický vařič nám udělají stejnou službu.
 
 Toto je z části přidáno z mé kdysi velice populární kniny "Čínská kuchyně" kterou pokud se mi ozve nějaký nakladatel znovu upravím a vydám.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

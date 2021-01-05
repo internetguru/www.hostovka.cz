@@ -5,7 +5,7 @@
 
 # Finger food
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="co-kdy-kde"}
 
@@ -32,4 +32,22 @@ Stejně tak ale i hamburgery, které po celém světě zpopularizoval pod názve
 ## Snacks
 
 Všechna výše uvedená jídla, ať již jsou to tapas, sendviče nebo finger foods, spadají do jedné velké skupiny zvané snacks. Snack se dá přeložit do češtiny jako svačina nebo jako "něco k zakousnutí" nebo jako "něco na zub". Ne všechny snacks se ale dají jíst rukou. Malá jídla kterým se u nás říká "na vidličku" jsou také snacks a nakonec i některé svačinové polévky jsou také snacks. Jak vidíte tak sendviče jsou pole neorané a stačí jenom si umět vybrat.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

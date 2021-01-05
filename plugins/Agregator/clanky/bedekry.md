@@ -33,7 +33,7 @@ Některé restaurace uváděné například pod cenovou skupinou 1 000 Kč, vám
 
 {class="example"}
 
-Některé bedekry a cestovní průvodci na západě vyznačují ceny jídel znakem pro dolary `$$$$`, a kvalitu jídel a nápojů kuchařskými čepicemi (anglicky _toque {xml:lang="en"}_). Někteří hodnotitelé jídel označují kvalitu či lépe řečeno chuť jídel jazýčky. Čím více čepic, nebo čím více jazýčků, tím lepší kvalita jídla.
+Některé bedekry a cestovní průvodci na západě vyznačují ceny jídel znakem pro dolary `$$$$` a kvalitu jídel a nápojů kuchařskými čepicemi (anglicky _toque {xml:lang="en"}_). Někteří hodnotitelé jídel označují kvalitu či lépe řečeno chuť jídel jazýčky. Čím více čepic, nebo čím více jazýčků, tím lepší kvalita jídla.
 
 {id="odboka\_ke\_kuchaskm_epicm"}
 
@@ -43,7 +43,7 @@ Když už jsem u kuchařských čepic, tak bych se chtěl zmínit o tom, že pod
 
 Čím větší [šéfkuchař][2], tím vyšší je jeho čepice. _Toque {xml:lang="en"}_ byly od nepaměti bílé. Najdou se ale i extrémisté, kterým rozlišení odbornosti výškou jejich čepice nestačilo. Začali pak tvrdit, že se opravdový [šéfkuchař][2] pozná podle černé čepice.
 
-Nevím, jestli je to snaha se lišit, nebo jestli je to projev demokracie, ale najednou se v České republice stalo módní, že „mistři“ kuchaři, začali chodit bez čepice. V nejlepším případě mají na hlavě kšiltovku, což sice není kuchařská čepice, ale alespoň něco.
+Nevím, jestli je to snaha se lišit nebo jestli je to projev demokracie, ale najednou se v České republice stalo módní, že „mistři“ kuchaři, začali chodit bez čepice. V nejlepším případě mají na hlavě kšiltovku, což sice není kuchařská čepice, ale alespoň něco.
 
 {class="example"}
 
@@ -57,7 +57,7 @@ Pokutování je například i v Kazachstánu. Tam jsem se setkal s tím, že mí
 
 Abych vám řekl pravdu, tak na hvězdičky také nevěřím. Nevěřil jsem hvězdě na Kremlu a nevěřím ani hvězdičkám na hotelech. Jak víte, tak si jich na svůj hotel může dát každý kolik chce.
 
-Jediné hvězdy, kterým věřím, jsou hvězdy na nebi. Nevěřím ale tomu, že příznivá konstelace hvězd má vliv na kvalitu jídla, nápojů a servisu. Proto k označení kvality jídel a servisu a případně cen, budu ještě hodně dlouho pomyslně používat naše bývalé cenové skupiny.
+Jediné hvězdy, kterým věřím, jsou hvězdy na nebi. Nevěřím ale tomu, že příznivá konstelace hvězd má vliv na kvalitu jídla, nápojů a servisu. Proto k označení kvality jídel a servisu a případně cen budu ještě hodně dlouho pomyslně používat naše bývalé cenové skupiny.
 
  [1]: /gastronomove#gurman
  [2]: /kucharske_tituly#sefkuchar

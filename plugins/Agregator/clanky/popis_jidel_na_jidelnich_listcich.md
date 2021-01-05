@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=568.html" data-image="/files/preview/clanky/popis\_jidel\_na\_jidelnich\_listcich/general.jpg" data-type="article"}
 
-{ctime="2011-07-29" mtime="2011-07-29" id="popis\_jidel\_na\_jidelnich\_listcich" author="Michael Klíma" short="Popis jídel na jídelních lístcích" authorid="hostovka/michael_klima"}
+{ctime="2011-07-29" mtime="2011-07-29" data-top="971" id="popis\_jidel\_na\_jidelnich\_listcich" author="Michael Klíma" short="Popis jídel na jídelních lístcích" authorid="hostovka/michael_klima"}
 
 # Popis jídel na jídelních lístcích
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-08-25, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -98,4 +98,22 @@ Pokud je to možné bychom jídla na českých jídelních lístcích, měli uv�
 Jídlo, jako například Prime rib a Yorkshire pudding, se nedá do češtiny přeložit, protože prime rib jsou hovězí žebra prvé jakosti (prime), a Yorkshire pudding není vlastně puding, ale speciální vaječné těsto pečené v horkém omastku ve kterém nasufluje tak, že téměř ztřínásobí svůj objem.
 
 Toto, ale mnoho jiného na toto téma se budte moci dozvědět při připravovaném semináři "TORBA JÍDELNÍCH LÍSTKŮ".
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

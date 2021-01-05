@@ -5,7 +5,7 @@
 
 # Co je správné a co ne
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="etika"}
 
@@ -16,4 +16,22 @@ Po dvou a půl letech týdenních schůzek, nekonečných diskusí a kontraverz�
 Tito kuchaři kteří zastupovali celou řadu etnických kuchyní se nemohli shodnout na nějakých jednotných zásadách , protože co je dobré a co ne z velké míry záleží na dobrozdání dané sociální skupiny v daném čase. To co je pro jednoho lahůdkou může být pro druhého něčím odporným. Jmenujte kterékoliv jídlo jisté skupiny lidí a zcela určitě najdete jinde ve světě jinou skupinou která by toto jídlo vůbec ani nepozřela.
 
 Skutečnost že francouzští kuchaři při zahušťování šťáv dávají přednost bramborovému škrobu před rýžovým má opodstatnění jedině v tom, že bramborový škrob ve Francii je lacinější a od nepaměti snadněji k dostání než škrob rýžový který naopak je ze stejných důvodů oblíben u čínských kuchařů.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

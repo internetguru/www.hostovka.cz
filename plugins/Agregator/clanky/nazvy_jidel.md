@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=131.html" data-image="/files/preview/clanky/nazvy_jidel/general.jpg" data-type="article"}
 
-{ctime="2006-01-16" mtime="2006-01-16" id="nazvy\_jidel" author="Michael Klíma" short="Názvy jídel" authorid="hostovka/michael\_klima"}
+{ctime="2006-01-16" mtime="2006-01-16" data-top="977" id="nazvy\_jidel" author="Michael Klíma" short="Názvy jídel" authorid="hostovka/michael\_klima"}
 
 # Názvy jídel
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -66,4 +66,22 @@ Při tvorbě nových názvů musíme však být opatrní a nesmíme je tvořit n
 Totéž by se dalo říci o komolení některých názvů. Například Tatarský biftek, kterému doma můžeme říkat "tatar" bez velkého T, nebo tatarák, by na jídelním lístku měl být uváděn pod jeho klasickým názvem.
 
 Poslání Hostovky je snaha vychovat ze svých studentů sofistikované návštěvníky restauračních provozů jak u nás tak i v zahraničí. Proto se já, a doufám i jiní, pokusíme na těchto stránkách popsat význam některých názvů jídel se kterými se na mezinárodních lístcích studenti Hostovky setkají.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

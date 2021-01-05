@@ -5,7 +5,7 @@
 
 # Svoboda slova a obchodní strategie
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="koho se to týká"}
 
@@ -66,4 +66,22 @@ Michael Klima
 P.S. Jenom pro upřesnění: Já jsem neodstoupil od spolupráce "po ostrých názorových výměnách",ale proto,že si myslím že nemám zapotřebí se nechat od těch "uživatelů" toho porálu urážet. Vždyť se na ten jejich slovník podívejte.
 
 Já si s nikým mé názory nevyměňuji. Buď se někomu mé příspěvky líbí a nebo je nemusí číst, to je ta krása internetu. Já se také s nikým nepouštím do žádného chatu, ale nenechám si od nikoho nic llíbit, což je zase moje podniková strategie a tak velmi často používám moji diplomacii.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

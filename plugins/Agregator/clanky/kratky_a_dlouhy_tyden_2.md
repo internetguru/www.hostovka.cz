@@ -5,7 +5,7 @@
 
 # Krátký a dlouhý týden 2
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="případová studie"}
 
@@ -52,4 +52,22 @@ Ti celníci mu moc nevěřili a tak si ten ruksak nechali otevřít a tam bylo k
 S pozdravem,
 
 M. Klima
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

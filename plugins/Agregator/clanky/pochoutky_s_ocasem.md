@@ -5,7 +5,7 @@
 
 # Pochoutky s ocasem
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="o čem se mluví"}
 
@@ -30,4 +30,22 @@ Diskuze k tomuto článku vyjadřuje v zásadě to samé, co bych k tomu řekl i
 Podle mě je to taková typická snaha upoutat pozornost za každou cenu. V daném případě ale není zřejmé komu dávat vinu, ale nejspíše autorce toho článku, protože jak víme, někteří naši šéfkuchaři nejenom že neumí vařit, natožpak aby uměli něco napsat, tudíž jim to většinou, jako v tomto případě, někdo píše.
 
 Jinak ale vám mohu říci, že vařit tu oháňku tři dny, k tomu aby potom z toho masa během 10 minut udělal ravioli, by si nedovolil ani Escoffier, a to byl nějaký hochštapler s časem.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

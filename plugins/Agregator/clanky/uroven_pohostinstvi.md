@@ -5,7 +5,7 @@
 
 # Zlepšení úrovně pohostinství
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="případová studie"}
 
@@ -110,4 +110,22 @@ Tudíž mnohdy si musíte dávat větší pozor na ty s čistým rejstříkem pr
 Prostě i zde plati jedno prikazani meho naboženství- NIKOMU NEVĚŘ, ANI SOBĚ"
 
 Na každý pád je třeba o vašich zaměstnancích vědět co nejvíce k čemuž vám jako obyčejně musím do těchto stránek přidat zábavnou historku.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

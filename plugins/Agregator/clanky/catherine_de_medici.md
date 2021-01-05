@@ -5,13 +5,33 @@
 
 # Vliv Catherine de Medici na francouzskou kuchyni
 
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
+
 {kw="kdo-kdy-kde, Francie, Itálie"}
 
-Základy západní gastronomie byly položeny již v době Renesance. Sňatek čtrnáctileté Kateřiny Medicejské s budoucím francouzským králem Jindřichem II. byl příležitostí vlivu sofistikované italské kuchyně na kuchyni francouzskou.
+Základy západní gastronomie byly položeny již v době renesance. Sňatek čtrnáctileté Kateřiny Medicejské s budoucím francouzským králem Jindřichem II. byl příležitostí vlivu sofistikované italské kuchyně na kuchyni francouzskou.
 
 Kateřina s sebou (mimo dobrých mravů) přinesla také mnohé lahůdky, které byly v renesanční Itálii běžné. Jednalo se například o brzlík, lanýže, srdíčka [artyčoků][1], drůbeží knedlíčky, zmrzlinu a perníčky _Catherine de Medici {xml:lang="it"}_.
 
 Francouzská kuchyně byla později zdokonalena za vlády Ludvíka XIV., XV., a XVI. Svého vrcholu dosáhla vrcholu za doby [Carêma][2], který byl prvním významným cukrářem francouzské kuchyně.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 
  [1]: /artycoky
  [2]: /careme

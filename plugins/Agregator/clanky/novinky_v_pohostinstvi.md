@@ -5,7 +5,7 @@
 
 # Co je nového v českém pohostinství
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="gastronomie"}
 
@@ -97,4 +97,22 @@ Já se obávám, že průměrný český host to ani neví kolik těch organizac
 Měli byste například vědět, že se připravuje sloučení dvou největších ze všech těch organizací které se pohostinstvím zabývají a sice NFHR ČR (Národní federace hotelů a restaurací) a HO.RE.KA.ČR.
 
 Vás jako studenty Hostovky to asi moc nezajímá, i když by mělo, ale mně jen tak ze zvědavosti bude zajímat kdo po tom spojení bude "u válu" a jestli se něco změní. No, necháme se překvapit jestli se o to tajemství ta nová organizace se svými hosty podělí.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

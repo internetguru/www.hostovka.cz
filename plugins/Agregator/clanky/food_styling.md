@@ -1,55 +1,61 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=348.html" data-image="/files/preview/clanky/food_styling/general.jpg" data-type="article"}
 
-{ctime="2008-07-06" mtime="2008-07-06" id="food\_styling" author="Michael Klíma" short="Food styling" authorid="hostovka/michael\_klima"}
+{ctime="2008-07-06" mtime="2020-01-05" id="food_styling" author="Michael Klíma" short="Food Styling" xml:lang="en"}
 
-# Food styling
+# Kuchařské umění zvané food styling
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
-{kw="gastronomie"}
+{kw="gastronomie, Amerika"}
 
-WHAT YOU SEE, THAT'S WHAT YOU GET. Toto je v Americe velmi čsto používané rčení a dokonce je zákon který nedovoluje aby jakýkoliv výrobek byl jiný než jak je inzerován, případně jak je vyobrazen.
+_Food styling {xml:lang="en"}_ není vlastně vaření, ale patří mezi gastronomické výrazy které, zatím nemají český ekvivalent. _Food stylist {xml:lang="en"}_ umí kombinovat kuchařské umění, vědu a triky při tvorbě fotografií pro kuchařské knihy či marketing jídel a při točení gastronomických scén ve filmech.
 
-Nicméně jako všechno, tak i toto rčení musíte v Americe brát s reservou a to platí hlavně u foodstylingu.
+Některé gastronomické slovníky uvádí _food styling {xml:lang="en"}_ v oddělení kuchyňské techniky, což je dosti nepřesné zařazení. V současné české [gastronomii][1] se s tímto výrazem setkáte často i jako hosté. Pokusím se vám, jako studentům Hostovky, význam tohoto výrazu vysvětlit. Bohužel to ale nemůže být v kostce.
 
-Foodstyling, když se to tak vezme není vlastně vaření, ale patří mezi gastronomické výrazy které, pokud je mi známo, nemají zatím český ekvivalent.
+_Food styling {xml:lang="en"}_ má své zásady, triky a finty. Není to ale ani tak technika, jako spíše dovednost neboli umění, které předpokládá určité [know-how][2]. Možná se dá vyučovat, ale nedá se naučit. Buďto to ve vás je nebo na nějakou vážnou kariéru v oboru _food styling {xml:lang="en"}_ můžete zapomenout.
 
-V současné české gastronomii se s tímto výrazem ale setkáte často i jako hosté a tak se pokusím vám jako studentům Hostovky význam tohoto výrazu vysvětlit, ale nemůže to bohužel být v kostce.
+{xml:lang="en" id="dobry_foodstylist"}
 
-Některé gastronomické slovníky uvádí foodstyling v oddělení kuchyňské techniky, což je dosti nepřené zařazení.
+## Co znamená být dobrý food stylist
 
-Foodstyling má sice své zásady, triky a finty, ale není to ani tak technika jako spíše dovednost neboli umění které ale předpokádá určité know how.
+Není pochyb o tom, že by _food stylist {xml:lang="en"}_ měl mít znalosti kuchařských technik, a že by měl něco vědět o potravinách. Vyučený kuchař to ale být nemusí. _Food stylist {xml:lang="en"}_ se značně liší od takzvaného _[garde mangera][3] {xml:lang="fr"}_ . 
 
-Foodstying se totiž dá vyučovat, ale nedá se naučit. Buďto to ve vás je a nebo na nějakou vážnou kariéru ve foodstyling můžete zapomenout.
+Základní rozdíl mezi _garde manger {xml:lang="fr"}_ a _food stylist {xml:lang="en"}_ je, že _garde manger {xml:lang="fr"}_ pracuje s jedlými surovinami a jeho výtvory musí být nejenom jedlé a atraktivní, ale i chutné. Kdežto _food stylist_ pracuje mnohdy se surovinami, které jsou nepoživatelné.
 
-Není pochyb o tom, že foodstylist by měl mít nějaké znalosti kuchařských technik a že by měl něco vědět o potravinách, ale že by to musel být vyučený kuchař se nedá říci, nehledě k tomu že ani diplom z nějaké odborné školy nebo třeba i doktorát není ještě zárukou nějaké kuchařské odbornosti a znalosti foodstyling už vůbec ne.
+_Food stylist {xml:lang="en"}_ musí umět vytvořit jídlo, jehož vzhled si získá uznání široké veřejnosti, a může si s tím hrát třeba i celý den. _Food styling {xml:lang="en"}_ je relativně dobře placené zaměstnání a schopný _food stylist {xml:lang="en"}_ si časem může vybudovat stabilní klientelu.
 
-Foodstylist se značně liši od tak zvaného garde manger o kterém na těchto stránkách byla již zmínka a ku kterému má poněkud blíže než ku kterémukoliv typu kuchaře, ale základní rozdíl mezi garde manger a foods stylist je, že garde manger pracuje v zásadě s jedlými surovinami a jeho výtvory musí být nejenom jedlé a atraktivní, ale i chutné, kdežto foodstylist pracuje mnohdy se surovinami které jsou nepoživatelné.
+Dnes může v Americe schopný _food stylist {xml:lang="en"}_ vydělat od $450 do $850 za den. Musím vás ale upozornit na to, že za celoživotní povolání to považovat nemůžete. Konkurence je veliká a dnů, kdy najdete uplatnění, moc nebude.
 
-Foodstylist se také liší od kuchařů kteří v určité době musí při různých soutěžích vytvořit jídlo které uspokojí představy poroty a které se většinou na žádném jídelním lístku neobjeví. Foodstylist musí vytvořit jídlo jehož vhled si získá uznání široké veřejnosti a může si s tím hrát třeba i celý den.
+{id="spoluprace\_s\_fotografem"}
 
-Foodstylist ve většině případů umí kombinovat kuchařské umění, vědu a triky při tvorbě fotografií pro kuchařské knihy, marketing jídel, a gastronomických scén ve filmech.
+## Spolupráce s fotografem
 
-Triky používané při foodstylingu vám zde popisovat nebudu, ale doufám že se mi jednoho dne podaří vypracovat seminář o technikách foodstylingu který by vás možná mohl zajímat.
+_Food stylist {xml:lang="en"}_ nejčastěji pracuje s fotografem, který se na focení jídel specializuje. Ideálně by měl _food stylist {xml:lang="en"}_ mít alespoň základní představu o dnešním stylu a technikách fotografování jídel.
 
-Dnes totiž již každý druhý Čech je buď sommelier nebo barman a tak proč bychom neměli mít také několik food stilistů.
+Současné fotografie jídel jsou zaměřeny na jídlo samotné. Nejsou zaměřené na „zátiší“ nebo na nádobí, na kterém je jídlo prezentované, ledaže je to účel.
 
-Foodstiling je totiž relativně dobře placené zaměstnání a schopný foodstilista si časem může vybudovat stabilní klientelu.
+Problém v České republice je, že každý chce být mistrem ve všem. Dnešní fotograf, který se specializuje na fotografii jídel, by se měl zaměřit na potřebné techniky fotografování a _food styling {xml:lang="en"}_ by měl přenechat. Obdobně by se _food stylist {xml:lang="en"}_ neměl snažit nahrazovat profesionálního fotografa.
 
-Větší naději stát se úspěšným foodstilistou má ale ten kdo o jídle něco ví a kdo umí jídlo presentovat než ten kdo ho připravuje tudíž pro nadaného absolventa Hostovky by foodstyling molo být výborné zaměsnání "na vedlejšák".
+{id="dalsi" var="inputvar-pribuzne_h"}
 
-V Americe v současné době může schopný foodstilist vydělat od  _{var="450"}_ to  _{var="850"}_ za den, ale musím vás upozornit na to, že jako celoživotní povolání to považovat nemůžete protože konkurence je veliká a těch dnů kdy najdete uplatnění je poskrovnu.
+## n/a
 
-Food stylist nejčastěji pracuje s fotografem který se nafotografování jídel specializuje a proto o dnešním stylu a technikách fotografování jídel by měl foodstylist mít alespoň ty základní představy.
+n/a
 
-Současné fotografie jídel jsou zaměřeny na jídlo samotné a ne na "zátiší" nebo na nádobí na kterém je to jídlo presentované, leda že je to účel.
+{var="inputvar-relation@var"}
 
-Problém v České republice je, že každý chce být mistrem ve všem.
+Příbuzné články nejsou k dispozici
 
-Dnešní fotograf který se specializuje na fotografii jídel by se ale měl zaměřit na potřebné techniky fotografování jídel a foodstiling by měl přenechat zkušenému foodstilistovi. Obdobně foodstylist by se neměl snažit nahrazovat profesionálního fotografa.
+{var="doclist-stitek"}
 
-Foodstyling nesmíme také zaměňovat s kuchařskými dovednostmi jako je například krájení případně carving, česky zvané dranžírování nebo se zdobením a případně s presentací jídel pro kuchařské soutěže.
+  * n/a
 
-Ice-carving, Tallow nebo Butter-carving se v Česku asi moc neuchytí.To už větší uplatnění má vyřezávání melounů v čemž máme světové misrovství a tak proč nemůžeme mít nějakého mistra světa ve Foodstylingu.
+{var="inputvar-taglist" class="taglist"}
+
+n/a
+
+ [1]: gastronomie
+ [2]: know_how
+ [3]: garde_manger
 

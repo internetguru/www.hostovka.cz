@@ -5,7 +5,7 @@
 
 # Jak se stát sofistikovaným hostem
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="o čem se mluví"}
 
@@ -18,4 +18,22 @@ Ostuda ale je, když se u stolu neumí chovat někdo u koho se to očekává jak
 Sofistikovanost se nedá naučit čtením kritik nebo recenzí restaurací. Sofistikovanými hosty se také nestanete přes noc nebo návštěvou několika někým doporučených „GRAND RESTAURANT“.
 
 Prostě to chce čas, a i když o tom nikdo nemluví, tak většinou i peníze a já vím o čem mluvím. Chtěl bych totiž mít ty peníze které jsme za posledních 60 let utratil za ta dobrá a špatná jídla a nápoje.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

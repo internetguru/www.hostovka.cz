@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=349.html" data-image="/files/preview/clanky/open_bar/general.jpg" data-type="article"}
 
-{ctime="2008-07-16" mtime="2008-07-16" id="open\_bar" author="Michael Klíma" short="Open Bar" authorid="hostovka/michael\_klima"}
+{ctime="2008-07-16" mtime="2008-07-16" data-top="947" id="open\_bar" author="Michael Klíma" short="Open Bar" authorid="hostovka/michael\_klima"}
 
 # Open Bar
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="co-kdy-kde"}
 
@@ -20,4 +20,22 @@ Výhody: Host nemusí čekat až mu jeho nápoj "dolije" a může si dojit k bar
 Nevýhody: Někteří hosté, a to ne jenom v Česku, pokud je něco zadarmo prostě neznají míru a tak v takovém případě se opijí, a mnhdy jinak slušnou party svatbu či oslavu zcela zničí.
 
 V Americe, pokud takový host v podnapilosti způsobí nějakou škodu, případně zaviní nějaké neštěstí, může odpovědnost nést ten kdo ho do takového stavu přivedl, což by byl hostitel a proto někteří hostitelé, přesto, že by si výdaje s cash bar mohli dovoloit, dávají přednost podávání lihovin formou cash bar při kterémžto způsobu ta konzumace lihovin je kontrolována alespoň jejich cenou. _What a country! {xml:lang="en"}_
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-image="/files/preview/clanky/kratky\_a\_dlouhy_tyden/preview.jpg" data-type="article" data-source="http://2017.hostovka.cz/clanek.php?clanek=155" data-top="6"}
 
-{ctime="2006-06-18" mtime="2006-06-18" id="kratky\_a\_dlouhy\_tyden" author="Michael Klíma" authorid="hostovka/michael\_klima"}
+{ctime="2006-06-18" mtime="2006-06-18" data-top="993" id="kratky\_a\_dlouhy\_tyden" author="Michael Klíma" authorid="hostovka/michael\_klima"}
 
 # Krátký a dlouhý týden
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="případová studie"}
 
@@ -116,6 +116,14 @@ V případě, jak ty uvádíš (a je to tak i tady na hotelu), je nutné oficiá
 
 Ovšem nedělej si iluzi, dle zákoníku práce se pracuje opravdu málokde a naprostá většina fyzických osob (majitelů a provozovatelů) se prostě se zaměstnanci dohodne bez ohledu na délku směny!
 
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
+
 {id="zaver"}
 
 ## Závěr
@@ -144,4 +152,22 @@ U mladých zaměstnanců tyto velké mezery mezi prací způsobují, že díky p
 Výše uvedené příspěvky mně přesvědčily jen o tom, že mimo samotné provozovatele pohostinství jsou nejvíce škodní hosté a proto jsem se s vámi jako se studenty Hostovky musel o ně podělit.
 
 Teď, po tom, kdy jsem se dozvěděl jak ty dlouhé a krátké týdny fungují, se také neostýchám říci, že jsou tou největší brzdou rozvoje a zkvalitnění českého pohostinství.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

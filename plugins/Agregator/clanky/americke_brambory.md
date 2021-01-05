@@ -1,9 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=173.html" data-image="/files/preview/clanky/americke_brambory/general.jpg" data-type="article"}
 
-{ctime="2006-09-07" mtime="2019-03-28" id="americke_brambory" author="Michael Klíma" short="Americké brambory"}
+{ctime="2006-09-07" mtime="2019-03-28" data-top="965" id="americke_brambory" author="Michael Klíma" short="Americké brambory"}
 
 # Americké pečené brambory a hranolky
+
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="jídla a jídelní lístky, brambory, recept, Amerika"}
 
@@ -71,6 +73,14 @@ Předpokládejme, že po odečtení ostatních nákladů mají na každé brambo
 
 Pokud takovouto speciální pec restaurace nemá, tak je nejjednodušší brambory péct v jakékoliv troubě na teplotu nejméně 204 °C. Při této teplotě se průměrně velké brambory upečou během 50 minut.
 
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
+
 {id="recept\_na\_americke\_pecene\_brambory"}
 
 ## Recept na americké pečené brambory
@@ -96,4 +106,22 @@ Dalším druh amerických brambor jsou bramborové hranolky, anglicky _french fr
 Největší restaurační řetězec na světě McDonald's si svoji popularitu nevybudoval na hamburgerech, ale na bramborových hranolkách. Jejich hranolky se vyznačují nejenom vynikající technikou smažení, ale i tím, jak jsou tenké.
 
 Jediné, co mi na hranolkách z McDonald's vadí je, že nejsou připravovány z čerstvých brambor. Takto je připravuje zatím pouze populární kalifornský řetězec In-N-Out Burger. Pokud pojedete do Kalifornie, tak se tam musíte zastavit.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

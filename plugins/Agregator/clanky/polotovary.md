@@ -5,7 +5,7 @@
 
 # Polotovary
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="co-kdy-kde"}
 
@@ -76,4 +76,22 @@ Tento příspěvek je určen studentům Hostovky a jsem téměř přesvědčen �
 Za používání anglických či jiných cizích odborných výrazů se neomlouvám, a naopak si myslím, že dnes po vstupu do EU by mi měli být vděčni hlavně mladí pracovníci v pohostinství, kteří se bez některých těchto výrazů za nějaký čas v EU asi již neobejdou.
 
 Také se neomlouvám za mé případné gramatické chyby, i když se za ně velice stydím a snažím se polepšit. Když se ale podíváte na všechny ty mé několikastránkové příspěvky které do těchto stránek píši, a porovnáte je s těmi krátkými dotazy mých čtenářů, tak uvidíte, že na to, že v Česku již téměř 40 let nežiji si nepočínám tak špatně.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

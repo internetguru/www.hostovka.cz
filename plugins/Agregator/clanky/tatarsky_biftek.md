@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=64.html" data-image="/files/preview/clanky/tatarsky_biftek/general.jpg" data-type="article"}
 
-{ctime="2005-08-18" mtime="2005-08-18" id="tatarsky\_biftek" author="Michael Klíma" short="Tatarský biftek" authorid="hostovka/michael\_klima"}
+{ctime="2005-08-18" mtime="2005-08-18" data-top="957" id="tatarsky\_biftek" author="Michael Klíma" short="Tatarský biftek" authorid="hostovka/michael\_klima"}
 
 # Tatarský biftek
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -62,4 +62,22 @@ Tatarský biftek se na českých jídelních listcích uvádí mezi předkrmy. A
 V Americe se také dělá buď na 6 uncí což je 170.1g nebo na 4 unce což je 113.4 g, ale tam je to o něčem jiném. Každým gramem masa se cena toho "tataráku" navyšuje, což není dobře, nehledě k tomu, že lidé se tím "naperou", a pak si již nic jiného nedají.
 
 Podle mně 80g masa spolu s tím žloutkem a ostatními přísadami by mělo stačit a spíše k tomu přidat nějakou vhodnou ozdobu (ne oblohu).
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

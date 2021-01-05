@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=293.html" data-image="/files/preview/clanky/koser/general.jpg" data-type="article"}
 
-{ctime="2008-03-03" mtime="2008-03-03" id="koser" author="Michael Klíma" short="Košer" authorid="hostovka/michael_klima"}
+{ctime="2008-03-03" mtime="2008-03-03" data-top="981" id="koser" author="Michael Klíma" short="Košer" authorid="hostovka/michael_klima"}
 
 # Košer
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="gastronomie"}
 
@@ -58,4 +58,22 @@ Konec té historky je, že jsme měli kulaté banketní stoly pro deset osob, ta
 Pointa té historky je, že nemusíte být Číňané k tomu abyste mohli připravit dobré čínské jídlo, nebo ho mohli jíst. Obdobně také nemusíte být židé abyste připravil podle košer zásad dobré židovské jídlo, ale musíte mít po ruce rabína, aby vám ho požehnal, protože jinak by to jídlo nebylo košer, ale můžete mi věřit, že to jestli to jídlo bylo požehnané nebo ne, na jeho kvalitě nic nemění.
 
 Shalom, M. Klima
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

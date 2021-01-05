@@ -5,7 +5,7 @@
 
 # Rent a chef
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="gastronomie"}
 
@@ -18,4 +18,22 @@ U těch„Rent a Chef“, kteří jsou jakž takž zkušení kuchaři, kteří t
 V Americe jsou soukromé domy, ve kterých se dají pořádat různé párty pro několik desítek lidí, takže takový zkušený šef nejdříve k vám přijde k získání potřebných informací, jako je počet hostů, případně jejich preferencích, vaše představy o způsobu jakým jídla či občerstvení hodláte podávat, jestli banketním či bufetovým způsobem či formou picniku, zda máte potřebně velké prostory, nebo jestli například nebudete muset najmout stan, potřebné stoly, židle, servírovací sklo, příbory a nádobí a asi milion dalších věcí k tomu, aby ta párty ty vaše hosty uspokojila.
 
 Všechno je to ale jen o penězích, a proto tyto služby nejsou v Česku zatím běžné, a tak Scott může všechna ta naše media a své potenciální zákazníky oblbovat, ale já jsem v pohostinství již 70 let, procestoval jsem kus světa, a mám tudíž možnost srovnání a tak vím, že všechno sice není u nás come il faut, a že se máme ještě hodně co učit, ale to neznamená, že abych chtěl mlčky přihlížel tomu, že mimo těch místních šarlatánů to české pohostinství dnes przní i šarlatáni z dovozu.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

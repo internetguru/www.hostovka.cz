@@ -5,7 +5,7 @@
 
 # Grilování
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="kuchyňské techniky"}
 
@@ -64,4 +64,22 @@ Závěrem již jen tolik, že grilování by měla být jakási zábava a nakone
 Pokud ale chcete grilování dělat profesionálně tak to co o tom grilování píši já musíte srovnat s tím co o tom píši někteří ti šarlatáni a vybrat si z toho co se vám zdá být věrohodné. To víte, až do nedávna jsem byl mezi jednookkými král, ale dnes máme již celou řadu velice schopných mladých kuchařů z nichž někteří mají i zahraniční praxi, a někteří jsou určitě lepší než jsem já, takže se jen tak něčím už rozcapovat nemohu.
 
 Musím ale zakončit mým obligátním:" Spolu s Voltérem považuji za své právo říkat co si myslím, ale do smrti budu obhajovat Vaše právo mi odporovat, nebo hledat pravdu někde jinde, nicméně když ale všechno selže, tak se pokuste použít mé rady.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

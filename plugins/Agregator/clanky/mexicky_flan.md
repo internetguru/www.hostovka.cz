@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=432.html" data-image="/files/preview/clanky/mexicky_flan/general.jpg" data-type="article"}
 
-{ctime="2009-05-10" mtime="2009-05-10" id="mexicky\_flan" author="Michael Klíma" short="Mexický flan" authorid="hostovka/michael\_klima"}
+{ctime="2009-05-10" mtime="2009-05-10" data-top="953" id="mexicky\_flan" author="Michael Klíma" short="Mexický flan" authorid="hostovka/michael\_klima"}
 
 # Mexický flan
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="etnické kuchyně"}
 
@@ -30,4 +30,22 @@ Suroviny:
   * 8 rozšlehaných vajec,
   * 1 lžička vanilkové tresti,
   * špetka soli.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

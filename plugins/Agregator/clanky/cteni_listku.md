@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=120.html" data-image="/files/preview/clanky/cteni_listku/general.jpg" data-type="article"}
 
-{ctime="2005-11-28" mtime="2018-12-17" id="cteni_listku" author="Michael Klíma" short="Čtení lístku"}
+{ctime="2005-11-28" mtime="2019-01-18" id="cteni_listku" author="Michael Klíma" short="Čtení lístku"}
 
 # Jak číst jídelní lístky
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="jídla a jídelní lístky, minutky, chuťovky"}
 
@@ -58,6 +58,14 @@ Hamburger, který je příkladným reprezentantem jídel na objednávku, se při
 
 Jídla na objednávku se dnes připravují i z těch nejlevnějších surovin, jako jsou například zelenina, vejce, těstoviny a uzeniny. Do jaké skupiny jídel zařazují čeští restauratéři tyto „minutky“?
 
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
+
 {id="priprava_minutek"}
 
 ## Příprava minutek
@@ -79,6 +87,24 @@ Crudités nemusí být jen zelenina. Například se můžeme setkat také s ovoc
 V západních restauracích _crudités_ na jídelním lístků nenajdete. Většinou vám je přinesou ke stolu bez požádání, na talířích nebo na mísách, spolu s takzvaným dipem. Dip je pikantní omáčka, do které se chuťovky namáčí. Je zvykem, že jsou v ceně jídla, tedy za ně neplatíte nic navíc.
 
 V našich restauracích by se chuťovkám mělo říkat něco jako _chyták_ nebo _nemilé překvapení_. Při placení vám totiž započítají nestydatou cenu za to, že jste si „zobli“ z mandlí, oříšků nebo pistácií, které byly na stole ještě předtím, než jste přišli. Tento ubohý a primitivní způsob šizení hostů je jen ukázkou toho, jak zoufalí někteří naši restauratéři mohou být. Jako studenti Hostovky byste si takové chování neměli nechat líbit.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 
  [1]: /modni_pojmy
 

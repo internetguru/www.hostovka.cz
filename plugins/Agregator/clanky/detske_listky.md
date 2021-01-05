@@ -1,9 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=149.html" data-image="/files/preview/clanky/detske_listky/general.jpg" data-type="article"}
 
-{ctime="2006-05-12" mtime="2019-08-12" id="detske_listky" author="Michael Klíma" short="Dětské lístky"}
+{ctime="2006-05-12" mtime="2019-08-12" data-top="984" id="detske_listky" author="Michael Klíma" short="Dětské lístky"}
 
 # Dětské jídelní lístky
+
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="jídla a jídelní lístky, děti, případová studie"}
 
@@ -21,7 +23,7 @@ Nejlepším zdrojem inspirace dětských jídel jsou jesle, školky nebo dětsk�
 
 ## Dítě jako host
 
-Největší chybou některých restauratérů je, že mnohdy podceňují inteligenci, vkus, chuť, a hlavně návyky dětských hostů. Ty se bohužel u dětí mění daleko více než u dospělých lidí. Možná jste se již povšimli toho, že dospělého hosta můžete o něčem přesvědčit dobrým marketingem, nebo ho něčím oblafnout, ale u dětí se vám to hned tak nepodaří.
+Největší chybou některých restauratérů je, že mnohdy podceňují inteligenci, vkus, chuť a hlavně návyky dětských hostů. Ty se bohužel u dětí mění daleko více než u dospělých lidí. Možná jste se již povšimli toho, že dospělého hosta můžete o něčem přesvědčit dobrým marketingem nebo ho něčím oblafnout, ale u dětí se vám to hned tak nepodaří.
 
 Mám vnoučata dvojčata, kterým je teď 5 let. Chodí relativně často do restaurací a dá se říci, že do jisté míry jsou již plnohodnotní hosté. Mají své oblíbené restaurace, u kterých dokonce již před vstupem vědí, co si objednají a v jejich rozhodnutí je těžké je zviklat.
 
@@ -94,6 +96,24 @@ Nedávno jsme byli s mými vnoučaty v jedné relativně populární italské re
 V našem případě, než ty makarony donesli, tak se ti moji „hajzlíci“ samozřejmě narvali chlebem, máslem a preclíkama, které tam měli v košíčku na stole. Bohužel servírka místo makaronů přinesla těstovinové mušličky, které se podávají buď jen s máslem, rajčatovou nebo masovou omáčku ragú. Tudíž se jich moji gurmáni ani nedotkli.
 
 Servírka, jak je tomu v Americe zvykem, se za chvilku přišla zeptat, jestli je vše v pořádku. Podle mě nebyla moc inteligentní, protože mohla vidět, že se děti toho jídla ani nedotkly. Řekl jsem jí, že to v pořádku není. Načež tomu ta „jídlonoška“ dala korunu tím, že místo aby se omluvila a nabídla dětem něco jiného, tak řekla, že to u nich pod tímto názvem takto podávají.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 
  [1]: /jidelni_listek
 

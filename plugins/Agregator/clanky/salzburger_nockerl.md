@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=328.html" data-image="/files/preview/clanky/salzburger_nockerl/general.jpg" data-type="article"}
 
-{ctime="2008-06-12" mtime="2008-06-12" id="salzburger\_nockerl" author="Michael Klíma" short="Salzburger Nockerl" authorid="hostovka/michael\_klima"}
+{ctime="2008-06-12" mtime="2008-06-12" data-top="933" id="salzburger\_nockerl" author="Michael Klíma" short="Salzburger Nockerl" authorid="hostovka/michael\_klima"}
 
 # Salzburger Nockerl
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -33,4 +33,22 @@ Z bílků při občasném přidávání cukru ušleháme tuhý sníh. Dřevěnou
 Před podáváním posypeme práškovým cukrem.
 
 Já jsem ty noky od té doby dělal několikrát a i když nerad, tak se musím přiznat, že tak jako jsou ty na tom obrázku se mi nikdy nepovedly.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

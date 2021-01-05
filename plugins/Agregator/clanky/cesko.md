@@ -5,7 +5,7 @@
 
 # Česko
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="gastronomie"}
 
@@ -72,4 +72,22 @@ Tolik tedy ta zpráva.
 No, byl bych už úplný blázen pokud bych se k tomu vyjádřil, protože od sametové revoluce až donedávna jsem nic jiného nedělal že jsem na všechny ty blbosti Čechů upozorňoval a snažil jsem se příjít s několika návrhy na zlepšení, o čemž naštěstí mám písemné důkazy, ale jak Standa správně říká, nikdo mi nikdy nevěřil. Tudíž téměř na všechno, o čem se ve zmíněné zprávě poukazuje jsem upozorňoval a měla by to pro mně být satisfakce, ale byl bych pokrytec kdybych řekl, že je mi ta výše uvedená zpráva je lhostejná, ať již pravdivá nebo ne. A ještě větší pokrytec bych byl, kdybych nevyjádřil pocit hnusu nad některými diskusními příspěvky k té zprávě.
 
 Jediné co můžeme být rádi, že i kdyby někdo chtěl, tak nemůže ty diskusní příspěvky přeložit do žádné cizí řeči, protože ty do žádné cizí řeči přeložit nelze, nehledě k tomu že pak by do toho Česka, České republiky, Čechie, Zcech Republik, Checo a podobně skutečně niko ani nepáchl.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

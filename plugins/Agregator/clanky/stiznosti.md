@@ -5,7 +5,7 @@
 
 # Stížnosti
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="gastronomie"}
 
@@ -78,4 +78,22 @@ Váženi, úvodem bych chtěl říci, že jsem certifikovaný konzultant v oboru
 Dnes ale musím udělat výjimku. Zavítal jsem do vašeho hotelu náhodou, protože jsem šel přivítat jednu příbuznou, která přijela do vašeho hotelu se skupinou asi 100 Američanů. Když už jsem tedy ve vašem hotelu byl, a byl čas na večeři, tak jsme si s moji přítelkyni řekli, že se u vás navečeříme, ale mohu vám říci, že s tak špatnou zkušeností jsem se v Česku v hotelu vašeho rádoby standardu nesetkal. Váš barman nevěděl jak udělat Vodka Martini a nakonec po poradě mi udělal to nejhorší Martini které jsem v životě okusil, a korunu tomu dal, že do toho dal na párátku napíchnuté tři černé! olivy- no comments! Číšník v tom vašem prázdném restaurantu sice pozdravil, ale jinak se nenamáhal nám něco doporučit, nebo nám pomoci s výběrem, což tedy bych mu odpustil, protože v Alžíru ho to asi nenaučili (tím ale nechci říci, že čeští číšníci jsou lepší). Spíše mi vadilo, že máte na lístku lososa s pak choi, bez jakéhokoliv vysvětlení. To víte, že vím co je pak choi, nebo bok choy, ale jestli si myslíte, že to vědí i všichni vaši hosté, včetně těch cizinců, tak jste velice naivní. Vždyť to nevěděl ani ten váš číšník a to myslím by se v hotelu vašeho kalibru nemělo stát. Já vím, že pomalé pečení se v česku teď nosí, stejně jako ty crusty, ale péct porci lososa více než půl hodiny a to ještě v solné krustě, je tak trochu silný kafe. S tím pomalým pečení by ti vaši kuchaři měli přestat blbnout a měli by ryby vařit co nerychleji, aby zachovali jejich šťavnatost. To že se ten číšník nenamáhal zeptat, jestli to pâté, které měla moje přítelkyně, (které mimo jiné bylo dobré) nebo polévka kterou jsem měl já (kterou jsem nedojedl), bych možná ještě omluvil, ale to samé se opakovalo u hlavních jídel. Ten losos byl přesolený a to moje skopové kolínko, na to, že bylo nejspíše dělané sou vide, ještě šlo. Ta záhadná omáčka byla sice podle mé chutě trochu slaná, ale to je asi tím ohříváním. Horší byly ty šťouchané brambory pod tím neochuceným špenátem. Pochybuji, že vaši kuchaři jsou Češi, protože šťouchané brambory umí v česku udělat skutečně kde kdo.
 
 Je takové rčení v pohostinství: „Moučník dobrý, všechno dobré“, ale v Česku nějaká nabídková služba neexistuje. Byl jsem kdysi majitelem české restaurace v Chicagu a tam když některá servírka nedokázala prodat alespoň 30% moučníků, tak jsem ji vyhodil. (Průměr byl 42%). Já vím, že v česku si to nemůžete dovolit, nehledě k tomu, že byste tam co nevidět byli sami. Němci mají ale také takové hezké rčení: „Nichts besseres komt nah“, neboli nic lepšího stejně asi nedostanete, a tak se budete asi muset zaměřit na intenzivní výchovu a trénink vašich zaměstnanců, tak aby byli schopni dát vašim hostům nejenom to, co chtějí, ale i to co jim za jejich peníze patří.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

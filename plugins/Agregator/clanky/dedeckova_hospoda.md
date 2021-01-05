@@ -5,7 +5,7 @@
 
 # Dědečkova hospoda
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="případová studie"}
 
@@ -18,4 +18,22 @@ Dnes ale tajemství dobrého hospodaření a dosažení maximálních zisků je 
 Podle mé teorie je to ale hlavně obrat který svědčí o tom, že ta restaurace dělá něco dobře, neboli že dává hostům to co jim patří a proto tam lidé chodí.
 
 Nicméně musím dodat, že to není ještě zárukou toho že ta restaurace je profitabilní. Možná že mají špatně vykalkulované ceny a že každým hostem který tam vkročí peníze spíše prodělávají, neboli ne FC ale to co zbude ve šrajtofli je rozhodující.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

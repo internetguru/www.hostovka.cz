@@ -5,7 +5,7 @@
 
 # Tatarský steak trochu jinak
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -92,4 +92,22 @@ Já vím, že každý páv si chválí svoje peří, ale já jsem na steaky prev
 Recept Vám na něj ale dát nemohu protože jak víte jsem se zařekl, že recepty již nikde uveřejňovat nebudu, nehledě k tomu že jsem tomu mému klientu slíbil, že ten recept nikomu nedám.
 
 Ten recept má sice nějaké malé finty, ale mohu vás ubezpečit, že jinak na tom nic není, neboli je "idiot proof" a tak věřím, že se vám ho jako studentům Hostovky podaří udělat i bez receptu.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

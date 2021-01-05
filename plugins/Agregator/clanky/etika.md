@@ -5,13 +5,13 @@
 
 # Etika
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="etika"}
 
-Na stránkách www.gastronews.cz dne 25.1.2008 na téma NÍZKÁ ÚROVEŇ ŠKOLSTVÍ, jist‎ý‎ Fred položil následujicí otázku:"Je to těžké najít na gastronews.cz vůbec nějaké kontakty, jediný jsem našel na pana Řezáče. Tak se ptám, zda-li je možno se nějak spojit s panem Klímou na těchto stránkách a jak se například zakládá nové diskusní téma. Děkuji Fred".
+Na stránkách www.gastronews.cz dne 25.1.2008 na téma NÍZKÁ ÚROVEŇ ŠKOLSTVÍ, jistý Fred položil následujicí otázku:"Je to těžké najít na gastronews.cz vůbec nějaké kontakty, jediný jsem našel na pana Řezáče. Tak se ptám, zda-li je možno se nějak spojit s panem Klímou na těchto stránkách a jak se například zakládá nové diskusní téma. Děkuji Fred".
 
-Ještě ten sam‎‎ý den Fredovi pan Řezáč, majitel a šéfredaktor těchto stránek odpověděl: "Frede volte tento postup:
+Ještě ten samý den Fredovi pan Řezáč, majitel a šéfredaktor těchto stránek odpověděl: "Frede volte tento postup:
 
 1/ v diskuzní (červené) tabulce klikněte na " Hlavní stránka diskuzí: (dole) 2/ rozbalí se "Kategorie diskuzí" 3/ klikněte na kterýkoli bod 4/ rozbalí se "Diskuzní témata" 5/ sjeďte až dolů k "Založit nové téma"
 
@@ -25,9 +25,9 @@ Jiří Řezáč z V."
 
 Co k tomu říci?
 
-Dnes při té svobodě tisku kterou teď v Česku máme si může psát každ‎ý co chce, ale ta svoboda díky internetu je pro každého a tak já jsem Fredovi také opověděl a více méně jse se mu snažil objasnit mylné informace které o mně podal pan Řezáč.
+Dnes při té svobodě tisku kterou teď v Česku máme si může psát každý co chce, ale ta svoboda díky internetu je pro každého a tak já jsem Fredovi také opověděl a více méně jse se mu snažil objasnit mylné informace které o mně podal pan Řezáč.
 
-Má odpověď z těch stránek ale hned druhý‎ den zmizela a jelikož jsem si myslel, že to bylo nedopatřením, tak jsem to Fredovi napsal znovu a přsvědčil jsem se, že to tam bylo přidáno, ale i tendokrát to druh‎ý den z těch stránek někdo vymazal.
+Má odpověď z těch stránek ale hned druhý den zmizela a jelikož jsem si myslel, že to bylo nedopatřením, tak jsem to Fredovi napsal znovu a přsvědčil jsem se, že to tam bylo přidáno, ale i tendokrát to druhý den z těch stránek někdo vymazal.
 
 Napsal jsem můj příspěvek tudíž jako odpověď i panu Řezáčovi, ale historie se opakovala, neboli druhý den to opět někdo vymazal.
 
@@ -35,31 +35,49 @@ Jsem již několik let členem IFJ (International Fderation of Journalist) a čl
 
 Nevím, jestli Fred bude tyto stránky číst, ale jelikož tedy máme tu svobodu tisku, a jelikož si nenechám hned tak něco líbit, tak vám zde ten můj příspěvek přikládám, abyse i vy viděli, že jsem v něm nepoužil nějaké vulgárnosti, neměl jsem protistátní řečí a ani jsem jsem se nesnažil někoho urazit a jestli to vymazává pan Řezáč tak to jenom svědčí o jeho nízké úrovni etiky, pokud ne, tak se mu upřimně omlouvám, ale stejně bych byl rád kdyby tedy vymazel i veškeré mé příspěvky do jeho stránek včetně toho co o mně on napsal do oddělení osobnosti.□
 
-Vážen‎‎ý Frede,
+Vážený Frede,
 
-Já jsem se sice zařekl, že do stránek www.gastgrnews.cz už psát nebudu, ale přesto, že do nich již nepřispívám, tak se musím přiznat, že na rozdíl od jiný‎ch "odborníků" čtu o pohostisntví vše co se mi dostane do ruky a to ve všech řečech, abych jak se říká byl "im Bilde".
+Já jsem se sice zařekl, že do stránek www.gastgrnews.cz už psát nebudu, ale přesto, že do nich již nepřispívám, tak se musím přiznat, že na rozdíl od jiných "odborníků" čtu o pohostisntví vše co se mi dostane do ruky a to ve všech řečech, abych jak se říká byl "im Bilde".
 
 Po přečtení Vašeho dotazu na spojení se mnou a po odpovědi pana Řezáče jsem do těchto stránek přidal moji reakci, ale ta se z nějakého důvodu ztratila.
 
-Na celém světě je jak‎ýmsi zvykem, že pokud se ptáte vydavatele na adresu autora nějaké publikace nebo článku kter‎‎ý veřejnili, že Vám ji pošlou, nebo tomu autoru přepošlou Váš dotaz.
+Na celém světě je jakýmsi zvykem, že pokud se ptáte vydavatele na adresu autora nějaké publikace nebo článku který veřejnili, že Vám ji pošlou, nebo tomu autoru přepošlou Váš dotaz.
 
 No, Gastronews má svoji unikátní obchodní strategii kontakty na autory článků nedávat a na to mají vlastně právo, ale podle mého názoru by o nich neměli udávat mylné informace.
 
-Tudíž abych to přivedl na pravou míru tak Vám vážený Frede musím napsat, že od spolupráce se stránkami Gastronews jem neodstopil "po velmi ostrých názorových výměnách s některými uživateli portálu", jak pan Řezáč uvádí, ale že jsem do těch stránek přestal psát protože jsem došel k názoru, že se z nich stala úplná latrina tím že jejich správce nedokázal vymazat ty vulgární příspěvky a urážky ne jenom mé osoby, ale i jin‎‎ých dopisovatelů.
+Tudíž abych to přivedl na pravou míru tak Vám vážený Frede musím napsat, že od spolupráce se stránkami Gastronews jem neodstopil "po velmi ostrých názorových výměnách s některými uživateli portálu", jak pan Řezáč uvádí, ale že jsem do těch stránek přestal psát protože jsem došel k názoru, že se z nich stala úplná latrina tím že jejich správce nedokázal vymazat ty vulgární příspěvky a urážky ne jenom mé osoby, ale i jiných dopisovatelů.
 
-Jinak si ale také myslím, že mé příspěvky zde nepadaly na úrodnou půdu protože až na nějaké v‎jimky většinu čtenářů obsah a odborná hodnota mých příspěvků a odpovědi na dané otázky nezajímala a spíše hledali kolik gramatických chyb nebo překlepů jsem v mých článcích či odpovědích udělal.
+Jinak si ale také myslím, že mé příspěvky zde nepadaly na úrodnou půdu protože až na nějaké vjimky většinu čtenářů obsah a odborná hodnota mých příspěvků a odpovědi na dané otázky nezajímala a spíše hledali kolik gramatických chyb nebo překlepů jsem v mých článcích či odpovědích udělal.
 
-Dosti mně udivuje, že pan Řezáč o mně nemá žádné zprávy protože on sám o mně napsal údaje o kter‎ých nemohu sice říci že by nebyly pravdivé, ale vadí mi že ze mně udělal osobnost a že mně mezi ty české osobnosti na těchto stránkách zařadil.
+Dosti mně udivuje, že pan Řezáč o mně nemá žádné zprávy protože on sám o mně napsal údaje o kterých nemohu sice říci že by nebyly pravdivé, ale vadí mi že ze mně udělal osobnost a že mně mezi ty české osobnosti na těchto stránkách zařadil.
 
 Já jsem pana Řezáče již několikrát žádal aby mně z toho seznamu osobností vymazal, protože se za žádnou osobnost nepovažuji, ale zatím k tomu nedošlo tudíž máte ještě možnost se na to povídání o mé osobě podívat.
 
-Pokud se t‎‎‎ýká mého věku mně zatím nedošlo, proč se o něm pan Řezáč zmiňuje, ale budiž. Nicméně musím údaj pana Řezáče také trochu upřesnit. Letošního roku jsem se dožil teprve 78 let takže to mám ještě 22 let do penze. Žiji sice v Kalifornii, ale do Česka občas jezdím, a dá se říci, že jsem s Českem jsem téměř denně ve styku prostřednictvím e-mailu, Skype a hlavně prostřednitvím m‎ých web stránek www.hosotovka.cz kde se dozvíte jak o m‎ých minulých tak i současných aktivitách a kde je na mně dokonce i kontakt.
+Pokud se týká mého věku mně zatím nedošlo, proč se o něm pan Řezáč zmiňuje, ale budiž. Nicméně musím údaj pana Řezáče také trochu upřesnit. Letošního roku jsem se dožil teprve 78 let takže to mám ještě 22 let do penze. Žiji sice v Kalifornii, ale do Česka občas jezdím, a dá se říci, že jsem s Českem jsem téměř denně ve styku prostřednictvím e-mailu, Skype a hlavně prostřednitvím mých web stránek www.hosotovka.cz kde se dozvíte jak o mých minulých tak i současných aktivitách a kde je na mně dokonce i kontakt.
 
 Hostovka nejsou stránky pro odborníky. Je to jakási pomyslná universita pro hosty. Já nemohu odborníky diskriminovat tím že bych jim chtěl zakázat aby Hostovku četli, tudíž pokud přesto, že jste třeba odborník tak pokud občas navštěvuje pohostinské provozy jako host, tak máte právo se na ty stránky podívat.
 
-Tu Hostovku spravuji ale já, a tak pokud Vaše dotazy, příspěvky nebo kritika budou v rámci nějaké etiky, a pokud se budou t‎ýkat pohostinství nebo cestovního ruchu, tak nemusíte mít obavy, že bych na váš dotaz neodpověděl nebo že bych ho vymazal.
+Tu Hostovku spravuji ale já, a tak pokud Vaše dotazy, příspěvky nebo kritika budou v rámci nějaké etiky, a pokud se budou týkat pohostinství nebo cestovního ruchu, tak nemusíte mít obavy, že bych na váš dotaz neodpověděl nebo že bych ho vymazal.
 
 S pozdravem
 
 M. Klima
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

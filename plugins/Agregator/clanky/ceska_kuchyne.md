@@ -5,7 +5,7 @@
 
 # Česká kuchyně
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -60,4 +60,22 @@ Následují pak Klicperovy teorie o dvou fázích propagace projektu které ale 
 Mně osobně by zajímalo, jestli ty zmíněné regionální speciality bude smět nabízet i nezávislá neasociovaná restaurace, nebo jestli na ni bude uvaleno trestní stihání pro nekalou soutěž.
 
 Také se již těším na brožuru o projektu která by se měla objevit v jazykových mutacích sousedním zemím včetně maďarštiny a doufám, že se uskuteční úvahy o ruštině o která by našla uplatnění obzvláště v Karlových Varech.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

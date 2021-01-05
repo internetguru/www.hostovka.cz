@@ -5,7 +5,7 @@
 
 # Přání a stížnosti
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="etika"}
 
@@ -150,4 +150,22 @@ No, a to jsou věci, které kritizuji já, protože tragédie českého pohostin
 Nyní po vstupu do EU nastane veliký boj o hosta a proto bychom žádnou kritiku neměli brát na lehkou váhu a každou pochvalu, kterých zatím tolik není, musíme použít k efektivnímu marketingu.
 
 Spolu s Voltérem považuji za své právo říkat co si myslím, ale do smrti budu obhajovat vaše právo mi odporovat, nebo hledat pravdu někde jinde. Když všechno selže, tak se pokuste použít mé rady.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

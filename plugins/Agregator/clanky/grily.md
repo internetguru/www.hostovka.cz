@@ -5,7 +5,7 @@
 
 # Grily
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="kuchyňské techniky"}
 
@@ -50,4 +50,22 @@ Některé restaurace kupříkladu čas od času označovaly malým srdíčkem j�
 Závěrem tudíž musím přiznat, že Radka Hrdinová má nejspíše v mnoha věcech pravdu a myslí to dobře, ale pokud se správného grilování týká tak se musíme rozhodnout pro to čemu chceme dát přednost.
 
 Já jsem tvůrcem nového unikátního konceptu STEKGRILL který využívá ty nejposlednější poznatky o správném grilování a který je v Česku již více než rok s úspěchem provozován a musím si chválit svoje peří a proto jsem se musel k článku Radky Hrdinové vyjádřit.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

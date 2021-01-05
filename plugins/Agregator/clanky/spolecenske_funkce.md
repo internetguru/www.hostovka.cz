@@ -5,7 +5,7 @@
 
 # Společenské funkce
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="o čem se mluví"}
 
@@ -28,4 +28,22 @@ Na stránkách www.gastronews.cz je zhruba 500 otázek jak připravit slavnostn�
 Já ale jak víte, jsem snahy o vzdělání odborníků také více méně vzdal, ale mám jakousi morální povinnost dokončit co jsem začal, a to je výchovu hostů prostřednictvím www.hostovka.cz kde, pokud mimo to, že jste odborníci, jste také hosté, si o společenských funkcích můžete přečíst více a možná se i něco o té gastronomii naučit.
 
 Vám, kteří se potýkáte s tvorbou jídelních lístků, kalkulací, cateringových akcí, nebo samotným managementem, tvorbou podnikových manuálů, či tréninkem Vašich zaměstnanců mohu doporučit služby konzultační firmy STEAKGRILLCONSULT™.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

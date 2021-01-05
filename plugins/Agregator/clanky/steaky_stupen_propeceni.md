@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=447.html" data-image="/files/preview/clanky/steaky\_stupen\_propeceni/general.jpg" data-type="article"}
 
-{ctime="2009-06-21" mtime="2009-06-21" id="steaky\_stupen\_propeceni" author="Michael Klíma" short="Steaky stupeň propečení" authorid="hostovka/michael_klima"}
+{ctime="2009-06-21" mtime="2009-06-21" data-top="990" id="steaky\_stupen\_propeceni" author="Michael Klíma" short="Steaky stupeň propečení" authorid="hostovka/michael_klima"}
 
 # Steaky stupeň propečení
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="kuchyňské techniky"}
 
@@ -103,4 +103,22 @@ Dobu grilování určuje:
   * Zda steaky byly tenderizovány
   * Typ tepelného zdroje
   * Vzdálenost steaku od tepelného zdroje
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

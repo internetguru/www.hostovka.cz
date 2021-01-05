@@ -5,7 +5,7 @@
 
 # Zdobení jídla
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="gastronomie"}
 
@@ -16,6 +16,24 @@ Některé ozdoby těchto kuchařů jsou doslova uměleckými výtvory. Dnes se s
 V některých etnických kuchyních, jako například v kuchyni japonské nebo čínské, není zdobení teplých jídel obvyklé. Tato jídla jsou totiž sama o sobě dost pestrá. Francouzští kuchaři si na vzhled a ozdobu jídel moc nepotrpí, protože tvrdí, že se nejvíce hodnotí chuť jídla.
 
 Nicméně v české kuchyni jsou jídla teplé kuchyně (zejména [minutky][3]) zdobena, ale neříká se tomu ozdoba, ale [obloha][4].
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 
  [1]: /garde_manger
  [2]: /food_styling

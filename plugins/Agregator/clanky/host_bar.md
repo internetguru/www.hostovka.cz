@@ -5,7 +5,7 @@
 
 # Host Bar
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="co-kdy-kde"}
 
@@ -14,4 +14,22 @@ Host bar je anglický výraz používaný v pohostinství, zejména v cateringu,
 Je to opak tak zvaného "cash bar", nebo "no host bar", kdy naopak za nápoje podávané na baru se platí hotově.
 
 Výraz "host" v tomto případě znamená "hostitel".
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

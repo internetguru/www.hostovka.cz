@@ -1,9 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=336.html" data-image="/files/preview/clanky/cordon_bleu/general.jpg" data-type="article"}
 
-{ctime="2008-06-25" mtime="2019-08-11" id="cordon_bleu" author="Michael Klíma" short="Cordon Bleu"}
+{ctime="2008-06-25" mtime="2019-08-11" data-top="922" id="cordon_bleu" author="Michael Klíma" short="Cordon Bleu"}
 
 # Škola či řízek Cordon Bleu
+
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="gastronomie, recept, škola, Francie"}
 
@@ -93,6 +95,24 @@ Pokud nemáme dostatečně velké řízky, použijeme dvojnásobný počet menš
 Závěrem se musím zmínit o tom, že v Česku se tento steak někdy objevuje pod názvem „Gordon Bleu“, což není korektní. Zase takovou vědu bych z toho ale také nedělal, pokud je pod názvem krátce popsáno, oč se jedná.
 
 Pokud ale chcete ochutnat relativně dobrý řízek Cordon Bleu a jiná mezinárodně populární jídla připravovaná na objednávku z čerstvých prvotřídních místně dosažitelných potravin podle mých vyzkoušených receptů, tak mohu doporučit moje dítě [restauraci Steakgrill][3] v Račiněvsi u Roudnice.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 
  [1]: /tenderizovani
  [2]: /zdobeni

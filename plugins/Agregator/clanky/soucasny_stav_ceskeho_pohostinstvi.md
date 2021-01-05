@@ -5,7 +5,7 @@
 
 # Současný stav českého pohostinství
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="pohostinství"}
 
@@ -92,4 +92,22 @@ Reklama výjimečně nelhala. Bylo to skutečné ČESKÉ OBČERSTVENÍ: klobásy
 Dobré ráno.
 
 Čechům originální italský recept a s pomocí maggi a sojovky z něj hrdě uděláme vězeňskou šlichtu.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

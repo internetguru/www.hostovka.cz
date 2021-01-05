@@ -5,6 +5,8 @@
 
 # Zahraniční kuchyně
 
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
+
 {kw="etnické kuchyně"}
 
 Cizinci, kteří k nám přijíždějí ochutnat tradiční českou kuchyni, s vyhlášenými pokrmy dokážou někdy pěkně zatočit.
@@ -130,4 +132,22 @@ Já vím, že to lidé neradi slyší, ale všichni hosté nejsou natolik sofist
 Naštěstí je tady Hostovka, která ale není nějakou školou vaření a proto vám zde nějaké enické recepty psát nebudu, ale postupně se zmíním o několika etnických jidlech která jsou považována za speciality a se kterými se můžete setkat při vašich cestách do zahraničí nebo které se již objevuji na jídelních lístcích etnických restauraci které v česku již máme, ale které se vůbec nenamáhají ta jídla popsat.
 
 Kdo se neptá, nic se nedozví a proto pokud budete chtít něco vědět o jídle o kterém jsem se dosud nezmínil tak neváhejte se mně na něj zeptat. Já jsem vám totiž ještě asi neřekl, že pokud se týká pohostinství tak já mám odpověď na všechno a pokud ne, tak si prostě něco vymyslím.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

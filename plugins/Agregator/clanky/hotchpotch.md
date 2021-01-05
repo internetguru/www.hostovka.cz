@@ -5,7 +5,7 @@
 
 # Hotchpotch
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -16,4 +16,22 @@ Je to něco jako "hoppl-poppl" o jehož původu mám určité dilema. V Holandsk
 Dnešní, zřejmě vylepšený hotchpotch se dělá z hovězího boku bez kosti který se po opečení na horkém másle nakrájí na plátky, které se pak dusí s cibulí, mrkví a bramborami. Když je vše měkké, tak se ta zelenina a brambory rozšťouchají, osolí a opepří, omastí se tukem a k tomu se podávají plátky dušeného masa.
 
 Já vím, že jako studenti Hostovky si to vařit nebudete, ale je dobré to znát pro případ že byste se s tím setkali na jídelním lístku někde v Holandsku.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

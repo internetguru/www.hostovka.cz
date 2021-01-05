@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=88.html" data-image="/files/preview/clanky/podavani\_jidel\_pri\_bezpecne\_teplote/general.jpg" data-type="article"}
 
-{ctime="2005-10-30" mtime="2005-10-30" id="podavani\_jidel\_pri\_bezpecne\_teplote" author="Michael Klíma" short="Podávání jídel při bezpečné teplotě" authorid="hostovka/michael_klima"}
+{ctime="2005-10-30" mtime="2005-10-30" data-top="943" id="podavani\_jidel\_pri\_bezpecne\_teplote" author="Michael Klíma" short="Podávání jídel při bezpečné teplotě" authorid="hostovka/michael_klima"}
 
 # Podávání jídel při bezpečné teplotě
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="hygiena a sanitace"}
 
@@ -59,4 +59,22 @@ Při hromadné výrobě jídel v závodních nebo školních jídelnách nemohou
 Velká většina provozoven hromadné přípravy jídel přechází dnes na moderní a vysoce produktivní kuchyňská zařízení jako jsou konvektomaty, pařáky, combi-pece, smažící pánve a pod. Tato moderní technologie výroby sice ušetří energii a náklady na mzdy, zabezpečí podstatně kvalitnější výrobky, ale takto připravená jídla se však musí udržet v bezpečné servírovací teplotě buď pod 7.2o C nebo nad 60o C po delší dobu bez újmy na kvalitě, relativní vlhkosti, křehkosti, vůně, kyprosti atd. a hlavně tak aby nedocházelo k růstu škodlivých bakterii. Udržovat jídlo v zařízeních ve kterých bylo připraveno je jednak neekonomické a z hlediska zásad hygieny nepřípustné a proto se jako jediné vhodné řešení uchování hotových jídel v bezpečné teplotě po delší dobu ukázaly být udržovací teplé kabinety.
 
 Udržovací kabinety ale nejsou také nic jiného než východ z nouze. Ideální je když jídlo může být podáváno tak říkajíce z pánve rovnou na talíř. Proto již delší dobu pracuji na konceptu STEAK-GRIL-WOK který tomuto požadavku plně odpovídá.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

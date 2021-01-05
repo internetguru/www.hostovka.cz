@@ -5,6 +5,8 @@
 
 # Barding neboli obalování masa tukem
 
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
+
 {kw="kuchyňské techniky, maso"}
 
 Barding je výraz, který se objevuje zejména na lístcích zahraničních steakhousů. Jako studenti Hostovky bychom měli vědět, co to vlastně znamená.
@@ -16,4 +18,22 @@ Masa, která nejsou dostatečně tučná nebo nemají dostatečné mramorování
 Pokrývání masa tenkými plátky tuku se zabraňuje jeho spálení nebo vysušení na povrchu. Tento tuk se během grilování či pečení vypeče, ale masu zůstává lepší chuť.
 
 Je tedy až trestuhodné, když někteří naši kuchaři z masa určeného k pečení nebo k přípravě steaků „opižlají“ i ten poslední kousek tuku.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=365.html" data-image="files/preview/clanky/banket/general.jpg" data-type="article"}
 
-{ctime="2008-10-23" mtime="2018-12-06" id="banket" author="Michael Klíma" short="Banket"}
+{ctime="2008-10-23" mtime="2018-12-06" data-top="989" id="banket" author="Michael Klíma" short="Banket"}
 
 # Význam slova banket a banketní
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="gastronomie, banket"}
 
@@ -64,6 +64,32 @@ Výběr menu pro větší akce je téměř ve všech případech svěřen jedné
 Při větších akcích je hlavním ukazatelem především cena. Dalším požadavkem je uspokojit chutě všech stolujících. Tudíž by vhodné menu měl vybírat někdo, kdo má o jídle a nápojích nějaké znalosti, a kdo ví, která jídla nejspíše uspokojí většinu stolovníků. Volba menu pro lidi, u kterých známe preference v jídlech (příbuzní, rodinní příslušníci, spolupracovníci), není již tak těžký úkol.
 
 Při výběru menu pro stovky a tisíce lidí je nejlepší si nechat poradit od odborníků. To jsou zpravidla pracovníci cateringového oddělení podniku, ve kterém akci objednáváte.
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 
  [1]: doplnky
 

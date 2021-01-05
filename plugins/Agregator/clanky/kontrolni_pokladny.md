@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=246.html" data-image="/files/preview/clanky/kontrolni_pokladny/general.jpg" data-type="article"}
 
-{ctime="2007-08-21" mtime="2007-08-21" id="kontrolni\_pokladny" author="Michael Klíma" short="Kontrolní pokladny" authorid="hostovka/michael\_klima"}
+{ctime="2007-08-21" mtime="2007-08-21" data-top="944" id="kontrolni\_pokladny" author="Michael Klíma" short="Kontrolní pokladny" authorid="hostovka/michael\_klima"}
 
 # Kontrolní pokladny
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-04-16, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="koho se to týká"}
 
@@ -264,4 +264,22 @@ Ve hře jsou ale podle mě jen čtyři hráči: podnikatelé (v tomto případě
 K tomu by se dala ještě přičíst obchodní inspekce která s tím bude také mít plné ruce práce. Tudíž by mně zajímalo, pro koho z těch hráčů je ten odklad zvedení pokladen radostnou zprávou a proč.
 
 Mike
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

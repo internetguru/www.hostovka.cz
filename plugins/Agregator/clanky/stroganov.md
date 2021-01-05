@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=126.html" data-image="files/preview/clanky/stroganov/preview.jpg" data-type="article" data-top="8"}
 
-{ctime="2005-12-21" mtime="2019-02-27" id="stroganov" short="Stroganov" author="Michael Klíma"}
+{ctime="2005-12-21" mtime="2019-02-27" data-top="992" id="stroganov" short="Stroganov" author="Michael Klíma"}
 
 # Hovězí Stroganov s hranolky
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -81,6 +81,14 @@ Použité technice se říká [vaření z polotovarů][1] (anglicky _assembly co
   6. Nakonec pokrm ochutíme citrónovou šťávou.
   7. Před podáváním každou porci ozdobíme lžící husté kyselé smetany a posypeme přiměřeným množstvím na nudličky krájených okurek.
 
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
+
 {id="jak\_jsem\_v\_americe\_varil\_stroganov\_pro_rostropovice"}
 
 ## Jak jsem v Americe vařil Stroganov pro Rostropoviče
@@ -100,6 +108,24 @@ Boršč, jak mistr Rosropovič údajně prohlásil, byl z jiného světa (anglic
 Jakmile mistr Rostropovič Stroganov dojedl, nechal si mě zavolat, a začal mě objímat jako žádný jiný host nikdy před tím. Řekl mi, že procestoval téměř celý svět, ale že nikde, včetně Sovětského svazu, neochutnal tak dobrý Stroganov. Také mi řekl, že nikde mimo Sovětského svazu, mu ho nepodali tak jak má být – a sice s hranolky.
 
 Mistr Rostropovič byl tak nadšený, že mě pozval ke stolu na panáka jeho osobní vodky. Po několika kolech, mě požádal, abych mu říkal Slavo. Tak ho nazývala jen jeho manželka a jen jeho nejbližší přátelé. On mi začal říkat Míšo, takže z toho vznikla pravá ruská družba.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 
  [1]: /vareni_z_polotovaru
  [2]: /kucharske_tituly#vykonny_sefkuchar

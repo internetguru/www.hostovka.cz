@@ -5,7 +5,7 @@
 
 # Supervision
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-06-30, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="pohostinství"}
 
@@ -20,4 +20,22 @@ Dnes není žádným tajemstvím, že jen velmi malé procento absolventů naši
 Management jak známo se může vyučovat, ale nedá se naučit. Either you have it, or you don’t!
 
 Proto jedním ze seminářů, připravovaných nově vzniklou Asociaci Konzultantů Pohostinství ČR, bude seminář “Supervision a Managemet”, určený jak absolventům odborných škol, tak i odborníkům z praxe.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

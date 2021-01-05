@@ -5,7 +5,9 @@
 
 # Hotelová funkce concierge
 
-{kw="ubytování, Francie, hotely"}
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
+
+{kw="ubytování, Francie, hotel"}
 
 _Concierge {xml:lang="fr"}_ je ve Francii vrátný nebo domovník. V hotelu je to ale osoba, která se stará o hostovo pohodlí, a která hostům vyřizuje vše spojené s jejich pobytem. V amerických hotelech byla funkce _concierge {xml:lang="fr"}_ až do sedmdesátých let zcela neznámá.
 
@@ -14,4 +16,22 @@ Při výuce hotelového managementu jsem studentům funkci _concierge {xml:lang=
 {class="example"}
 
 Například když chce host v milánském hotelu lístky do milánské opery, která je třeba na rok dopředu vyprodaná, tak se obrátí se na _concierge {xml:lang="fr"}_. Ten se ho jen zeptá, kolik lístků chce a ve které řadě. Když host chce doprovod, tak se jen ho zeptá, jestli to má být blondýna nebo bruneta, jaké má mít míry přes prsa a jak má být stará. Neboli schopný _concierge {xml:lang="fr"}_ dokáže přinést modré z nebe.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 

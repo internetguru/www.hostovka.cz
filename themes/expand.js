@@ -3,15 +3,14 @@
   
   var fullDescs = [];
   
-  var multiClickHandler = function (handlers, index, button, delay) {
-    var clicks = 0, timeout, index = index, button = button, delay = delay || 250;
+  var multiClickHandler = function (handlers, index, button) {
+    var clicks = 0, timeout, index = index, button = button;
     return function (e) {
       clicks++;
-      clearTimeout(timeout);
-      timeout = setTimeout(function () {
-        if(handlers[clicks]) handlers[clicks](e, index, button);
-        clicks = 0;
-      }, delay);
+      if (handlers[clicks]) {
+        handlers[clicks](e, this, index, button)
+      }
+      clicks = 0;
     };
   }
    
@@ -33,35 +32,40 @@
   for (var i = 0; i < descs.length; i++) {
     var button = document.createElement("a");
     var handler = multiClickHandler({
-      1: function (e, index, button) {
-        var parent = e.target.parentNode;
+      1: function (e, target, index, button) {
+        var parent = target.parentNode;
         parent.classList.toggle("expand");
+        parent.removeChild(button)
+        /*
         if (parent.classList.contains("expand")) {
           parent.innerText = fullDescs[index];
           button.innerText = "› ‹";
           button.title = "Sbalit"
         } else {
-          parent.innerText = shorten(fullDescs[index], 195);
+          parent.innerText = shorten(fullDescs[index], 150);
           button.innerText = "‹ ›";
           button.title = "Rozbalit"
         }
-        parent.appendChild(button);
+        */
         e.preventDefault();
         return false;
       }
     }, i, button);
+    /*
     fullDescs.push(descs[i].innerText);
-    var short = shorten(descs[i].innerText, 195);
+    
+    descs[i].innerText = short;
+    */
+    var short = shorten(descs[i].innerText, 150);
     if (short.length == descs[i].innerText.length) {
       continue;
     }
-    descs[i].innerText = short;
     button.className = "expand-button";
-    button.innerText = "‹ ›";
-    button.title = "Rozbalit"
+    button.innerHTML = "<span class='fas fa-fw fa-chevron-down'/>";
     descs[i].appendChild(button);
     button.addEventListener("touchend", handler, false);
     button.addEventListener("click", handler, false);
     // descs[i].title = "Rozbalit dvojklikem"
   }
 })()
+

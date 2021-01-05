@@ -5,7 +5,7 @@
 
 # Hygienická vyhláška č. 107
 
-<!-- generated attribute kw by user_udpatekw.sh on 2019-03-13, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="gastronomie"}
 
@@ -32,6 +32,24 @@ Opačným extrémem je, že některé restaurace používají jenom [konvenientn
 To, že díky zmíněné vyhlášce z českých jídelníčků zmizela některá hotová jídla, se dalo čekat. Že ale změny budou tak drastické, jsem si nikdy nepředstavoval.
 
 V některých lepších či populárních restauracích hosté sice předpokládají, že musí mít rezervaci někdy i den předem. Kdyby potom ale měli čekat více než 20 minut na stůl a potom dalších 20 až 30 minut na hlavní jídlo, tak by do takové restaurace již nikdy nevkročili.
+
+{id="dalsi" var="inputvar-pribuzne_h"}
+
+## n/a
+
+n/a
+
+{var="inputvar-relation@var"}
+
+Příbuzné články nejsou k dispozici
+
+{var="doclist-stitek"}
+
+  * n/a
+
+{var="inputvar-taglist" class="taglist"}
+
+n/a
 
  [1]: /convenience
 
