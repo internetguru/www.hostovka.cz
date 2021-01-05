@@ -85,7 +85,7 @@ n/a
 
 <!--     <p var="inputvar-faqs">Seznam příbuzných dotazů není k dispozici</p> -->
 
-{var="doclist-faq\_steaky doclist-faq\_jidla\_a\_jidelni_listky"}
+{var="doclist-faq\_steak doclist-faq\_jidla\_a\_jidelni_listky"}
 
 Seznam příbuzných dotazů není k dispozici
 
