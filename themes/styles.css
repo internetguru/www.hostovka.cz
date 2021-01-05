@@ -1537,18 +1537,29 @@ div.part.internetguru form div input {
 }	
 /************************************/
 .faq {
-  background: #f5f5f5;
-  padding: var(--card-padding) !important;
   border-radius: var(--global-border-radius);
-  width: 100%;
+  /* width: 100%; */
+  padding-bottom: 1em;
+}
+.faq.hideable-hidden a.hideable-switch:before {
+  content: "+" !important;
+}
+.faq a.hideable-switch:before {
+  content: "−" !important;
+  color: #546E7A;
+  font-size: 2em;
+  font-weight: 600;
+  line-height: 0;
+  vertical-align: -0.15em;
 }
 .faq > * {
   margin-left: 0;
 }
 .faq__heading a {
-  color: var(--global-color);
-  font-size: 1.2em;
-  display: block;
+  color: #546E7A;
+  font-size: 1.5em;
+  font-weight: 500;
+  /* display: block; */
 }
 .faq__question,
 .faq__answer {
