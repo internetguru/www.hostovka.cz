@@ -216,6 +216,10 @@
           }
         },
         fillVal = function (event) {
+          if (event.detail == "eventable") {
+            event.preventDefault()
+            return false
+          }
           if (event.originCompletable && event.originCompletable !== navig.id) {
             return false
           }
@@ -268,6 +272,7 @@
           clearNavig()
           focused = false
           open = false
+          navig.classList.remove("completable-focused")
           list.style.height = "0em"
           list.classList.remove(GlobalConfig.activeItemClass)
         },
