@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=136.html" data-image="/files/preview/clanky/muj_gulas/general.jpg" data-type="article"}
 
-{data-top="910" ctime="2006-02-06" mtime="2006-02-06" id="muj\_gulas" author="Michael Klíma" short="Můj guláš" authorid="hostovka/michael\_klima"}
+{ctime="2006-02-06" mtime="2006-02-06" data-top="910" id="muj\_gulas" author="Michael Klíma" short="Můj guláš" authorid="hostovka/michael\_klima"}
 
 # Můj guláš
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-07-05, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 

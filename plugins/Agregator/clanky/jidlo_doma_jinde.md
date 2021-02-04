@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=189.html" data-image="/files/preview/clanky/jidlo\_doma\_jinde/general.jpg" data-type="article"}
 
-{data-top="934" ctime="2006-11-10" mtime="2006-11-10" id="jidlo\_doma\_jinde" author="Michael Klíma" short="Jídlo doma a jinde" authorid="hostovka/michael_klima"}
+{ctime="2006-11-10" mtime="2006-11-10" data-top="934" id="jidlo\_doma\_jinde" author="Michael Klíma" short="Jídlo doma a jinde" authorid="hostovka/michael_klima"}
 
 # Doma jez co máš a jinde co ti dají
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-07-05, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="gastronomie"}
 

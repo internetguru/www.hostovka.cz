@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=263.html" data-image="/files/preview/clanky/vanoce/general.jpg" data-type="article"}
 
-{data-top="905" ctime="2007-12-22" mtime="2019-03-11" id="vanoce\_v\_americe" author="Michael Klíma" short="Vánoce v Americe"}
+{ctime="2007-12-22" mtime="2019-03-11" data-top="905" id="vanoce\_v\_americe" author="Michael Klíma" short="Vánoce v Americe"}
 
 # Vánoce u nás a v Americe
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-07-05, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="gastronomie, Vánoce, recept"}
 

@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=233.html" data-image="/files/preview/clanky/sele/general.jpg" data-type="article"}
 
-{data-top="966" ctime="2007-05-14" mtime="2007-05-14" id="sele" author="Michael Klíma" short="Sele" authorid="hostovka/michael_klima"}
+{ctime="2007-05-14" mtime="2007-05-14" data-top="966" id="sele" author="Michael Klíma" short="Sele" authorid="hostovka/michael_klima"}
 
 # Sele
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-07-05, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -72,7 +72,7 @@ Nadité sele položíme břichem dolů, vložíme do vyhřáté trouby a za čas
 
 Z pekáče slijeme všechen vypečený tuk, sele obložíme několika oloupanými bramborami a jablky a sele pečeme dalších 20-30 minut.
 
-Nakonec z rypáku upečeného selete vyndáme kukuřici a nahradíme ji červeným jablkem. Z břicha vyndáme nitě kterými jsme sele zašili a sele položíme na sokl (podložku) z dušeného kyselého zelí, obložíme pečenými bramborami a jablky.
+Nakonec z rypáku upečeného selete vyndáme kukuřici a nahradíme ji červeným jablkem. Z břicha vyndáme nitě kterými jsme sele zašili a sele položíme na <a>sokl {var="definition-sokl"}</a> z dušeného kyselého zelí, obložíme pečenými bramborami a jablky.
 
 Sele porcujeme a podáváme pokud možno hned po upečení. Po nějakém čase ta kůžička ztratí na své křupavosti a maso začíná tuhnout.
 

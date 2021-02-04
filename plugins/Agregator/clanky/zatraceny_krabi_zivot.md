@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=75.html" data-image="/files/preview/clanky/zatraceny\_krabi\_zivot/general.jpg" data-type="article"}
 
-{data-top="912" ctime="2005-09-19" mtime="2005-09-19" id="zatraceny\_krabi\_zivot" author="Michael Klíma" short="Zatracený krabí život" authorid="hostovka/michael_klima"}
+{ctime="2005-09-19" mtime="2005-09-19" data-top="912" id="zatraceny\_krabi\_zivot" author="Michael Klíma" short="Zatracený krabí život" authorid="hostovka/michael_klima"}
 
 # Zatracený krabí život
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-07-05, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 

@@ -235,6 +235,9 @@ body:not(.admin) .copyable__close:hover {
 }	
 #content .hdesc--top .extra .button-list .hideable-hidden ul {	
   display: none;	
+}
+#content .hideable-hidden ul {
+  display: none;
 }	
 .docinfo.share li span > ul li,	
 #content .hdesc--top .extra .button-list ul li {	
@@ -400,7 +403,13 @@ body:not(.admin) .copyable__close:hover {
   --button-border-radius: 10em;	
   display: flex;	
   flex-wrap: wrap;	
-}	
+}
+.card .extra .button-list li a {
+  --button-border-radius: 0.5em;	
+}
+.card .extra .button-list li {
+  flex-grow: 0;
+}
 .extra .button-list li {
   text-align: center;
 }
@@ -440,6 +449,14 @@ body:not(.admin) .copyable__close:hover {
   width: auto;
   min-width: auto;
   color: #546E7A;
+}
+.card.card--image a[href="#"].button {
+}
+.card.card--image a[href="#"].button:before {
+  position: relative;
+  top: -0.1em;
+  filter: contrast(0) sepia(100%) hue-rotate(155deg) brightness(1) saturate(1.48);
+  max-width: 1.8em;
 }
 .copyable-wrapper button {
   width: auto !important;
@@ -542,7 +559,7 @@ body:not(.admin) .copyable__close:hover {
   pointer-events: none;
 }
 .clanek .kw {
-  height: 1.5em;
+  height: 1.75em;
   overflow: hidden;
   display: flex;
   flex-wrap: wrap;
@@ -929,6 +946,9 @@ body:not(.agregator) .hdesc--top label {
 }
 .extra .button-list li:last-child {
   margin-right: 0 !important;
+}
+.card .extra .button-list li:last-child {
+  margin-right: auto !important;
 }
 .hdesc--top .extra .button-list li:first-child .button {
   border-radius: 100%;
@@ -1365,6 +1385,9 @@ li.example:before {
   background: none;
   transition: all var(--button-transition);
 }
+#content .description a.definition {
+  border-bottom: medium dotted rgba(13, 71, 161, 0.5) !important;
+}
 #content .definition__cont .clanek {
   box-shadow: var(--shadow-2);
   display: flex !important;
@@ -1536,6 +1559,36 @@ div.part.internetguru form div input {
   }	
 }	
 /************************************/
+.faq {
+  border-radius: var(--global-border-radius);
+  width: 100%;
+  padding-bottom: 1em;
+}
+.faq.hideable-hidden a.hideable-switch:before {
+  content: "+" !important;
+}
+.faq a.hideable-switch:before {
+  content: "−" !important;
+  color: #546E7A;
+  font-size: 2em;
+  font-weight: 600;
+  line-height: 0;
+  vertical-align: -0.15em;
+}
+.faq > * {
+  margin-left: 0;
+}
+.faq__heading a {
+  color: #546E7A;
+  font-size: 1.5em;
+  font-weight: 500;
+  /* display: block; */
+}
+.faq__question,
+.faq__answer {
+  margin-top: 1em;
+}
+/************************************/
 @media print {
   @page {
     size: auto;
@@ -1563,7 +1616,10 @@ div.part.internetguru form div input {
   .linklist-href,
   .moreable-linkwrapper,
   .docinfo.share,
-  .hdesc--top .extra {
+  .hdesc--top .extra,
+  #mc-embedded-subscribe-form,
+  #content .list-wrapper--multiple dl:nth-child(10) ~ dl,
+  .part.dalsi .list-wrapper--single {
     display: none !important;
   }
   div.part.upozorneni,
@@ -1613,7 +1669,6 @@ div.part.internetguru form div input {
   #footer {
     padding-top: 0;
     background: none;
-    border-top: thin solid;
   }
   #footer .footer-menu__item:nth-child(4) {
     display: none;

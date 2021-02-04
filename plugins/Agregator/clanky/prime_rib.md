@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=221.html" data-image="/files/preview/clanky/prime_rib/general.jpg" data-type="article"}
 
-{data-top="961" ctime="2007-03-22" mtime="2007-03-22" id="prime\_rib" author="Michael Klíma" short="Prime Rib" authorid="hostovka/michael\_klima"}
+{ctime="2007-03-22" mtime="2007-03-22" data-top="961" id="prime\_rib" author="Michael Klíma" short="Prime Rib" authorid="hostovka/michael\_klima"}
 
 # Prime Rib
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-07-05, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -201,13 +201,13 @@ Ztrátu vypečením, jak již bylo řečeno, můžete snížit na minimu pečen�
 
 Je sice pravda, že náklady se zvýší o použitou sůl a neznatelně o vyšší spotřebu energie, ale ztráta vypečením by neměla být vyšší než 3-4%.
 
-K zanedbatelné ztrátě také dochází tím, že se prime rib po upečení musí nechat odpočinut aby se vnitřní šťávy usadily (to rest). Po odpočinutí se teprve prime rib zbaví ochrané vrstvy tuku kterou je pokryt, odstraní se kosti mezi žebry a prime rib se připraví k dranšírování.
+K zanedbatelné ztrátě také dochází tím, že se prime rib po upečení musí nechat odpočinut aby se vnitřní šťávy usadily (to rest). Po odpočinutí se teprve prime rib zbaví ochrané vrstvy tuku kterou je pokryt, odstraní se kosti mezi žebry a prime rib se připraví k <a>dranžírování {var="definition-dranzirovani"}</a>.
 
 {id="dranrovn\_carvrovn\_primerib"}
 
-## DRANŠÍROVÁNÍ (CARVROVÁNÍ) PRIMERIBŮ
+## Dranžírování (carvrování) primeribů
 
-Jak jsme zatím viděli, tak příprava a perfektní upečení primeribu nechce nic jiného než kvalitní maso, jistou odbornost, a důsledné dodržování určitých zásad, teplot a doby pečení, neboli ten know how, ale jeho porcování, neboli dranšírování (carving), se dá označit jako umění.
+Jak jsme zatím viděli, tak příprava a perfektní upečení primeribu nechce nic jiného než kvalitní maso, jistou odbornost, a důsledné dodržování určitých zásad, teplot a doby pečení, neboli ten know how, ale jeho porcování, neboli <a>dranžírování {var="definition-dranzirovani"}</a> (carving), se dá označit jako umění.
 
 Umění carvrovat se dá vyučovat ale nedá se naučit. Buďto k tomu máte vlohy a nebo na to zapomeňte.
 
@@ -241,7 +241,7 @@ Standing prime rib znamená, že pečený prime rib se porcuje "nastojato" obzvl
 
 Dnes je v Americe jen velmi málo carverů, kteří vědí proč se to tak dělá a kteří jsou natolik zruční, aby dokázali "nastojato" krájet prime rib tak, aby jednotlivé porce byly relativně stejné.
 
-Tato technika, obdobně jako technika přípravy primeribů k dranšírování se dá ale jen velmi těžko popsat, nehledě k tomu, že to je také jedno z mých tajemství.
+Tato technika, obdobně jako technika přípravy primeribů k <a>dranžírování {var="definition-dranzirovani"}</a> se dá ale jen velmi těžko popsat, nehledě k tomu, že to je také jedno z mých tajemství.
 
 Jak již řečeno, tak ideální je když se může z jednoho prime ribu udělat 14 porcí.
 

@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=202.html" data-image="/files/preview/clanky/demi-glace/general.jpg" data-type="article"}
 
-{data-top="911" ctime="2006-12-22" mtime="2020-01-05" id="demi-glace" author="Michael Klíma" short="Demi-glace"}
+{ctime="2006-12-22" mtime="2020-01-05" data-top="911" id="demi-glace" author="Michael Klíma" short="Demi-glace"}
 
 # Omáčka demi-glace
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-07-05, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="omáčka, recept, Francie"}
 

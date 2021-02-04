@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=122.html" data-image="/files/preview/clanky/chovani\_v\_hotelu/general.jpg" data-type="article"}
 
-{data-top="917" ctime="2005-12-04" mtime="2019-11-07" id="poslicci" author="Michael Klíma" short="Poslíčci"}
+{ctime="2005-12-04" mtime="2019-11-07" data-top="917" id="poslicci" author="Michael Klíma" short="Poslíčci"}
 
 # Hoteloví poslíčci
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-07-05, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="ubytování, hotel"}
 

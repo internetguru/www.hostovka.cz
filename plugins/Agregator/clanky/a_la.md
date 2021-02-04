@@ -5,7 +5,7 @@
 
 # Výraz à la na českých lístcích
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-07-05, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="gastronomie, Česká republika, Francie, jídla a jídelní lístky, historka"}
 

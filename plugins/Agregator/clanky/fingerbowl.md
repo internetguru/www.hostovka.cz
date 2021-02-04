@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=42.html" data-image="/files/preview/clanky/fingerbowl/general.jpg" data-type="article"}
 
-{data-top="937" ctime="2009-07-25" mtime="2020-01-05" id="fingerbowl" author="Michael Klíma" short="Fingerbowl"}
+{ctime="2009-07-25" mtime="2020-01-05" data-top="937" id="fingerbowl" author="Michael Klíma" short="Fingerbowl"}
 
 # Oplachování prstů po jídle
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-07-05, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="co-kdy-kde, případová studie, Amerika"}
 

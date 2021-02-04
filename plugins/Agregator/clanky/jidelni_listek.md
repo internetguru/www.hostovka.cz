@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=53.html" data-image="/files/preview/clanky/jidelni_listek/general.jpg" data-type="article"}
 
-{data-top="941" ctime="2005-07-29" mtime="2005-07-29" id="jidelni\_listek" author="Michael Klíma" short="Jídelní lístek" authorid="hostovka/michael\_klima"}
+{ctime="2005-07-29" mtime="2005-07-29" data-top="941" id="jidelni\_listek" author="Michael Klíma" short="Jídelní lístek" authorid="hostovka/michael\_klima"}
 
 # Jídelní lístek
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-07-05, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 

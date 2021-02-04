@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=202.html" data-image="/files/preview/clanky/chateaubriand/general.jpg" data-type="article"}
 
-{data-top="949" ctime="2006-12-22" mtime="2020-01-05" id="chateaubriand" author="Michael Klíma" short="Chateaubriand"}
+{ctime="2006-12-22" mtime="2020-01-05" data-top="949" id="chateaubriand" author="Michael Klíma" short="Chateaubriand"}
 
 # Proslulý francouzský pokrm chateaubriand
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-07-05, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -22,7 +22,7 @@ Když se to tak vezme, tak nakonec o tolik nejde. Restaurací, které chateaubri
 
 Horší je, že na základě špatných nebo nedostačujících informací dělá každá restaurace chateaubriand podle svých představ, a ty jsou podle mě spíše _zum abgewöhnen {xml:lang="de"}_. Neboli že když si takový chateaubriand někdo dá, tak ho ani nenapadne si ho ještě někdy objednat.
 
-Chtěl bych to uvést na pravou míru tím, že vám prozradím, že chateaubriand není přímo steak. Pojem chateaubriand se vztahuje k receptu a celkové úpravě pokrmu. Navíc chateaubriand byl sice pojmenován po jmenované osobnosti, avšak jídlo samotné vytvořil slavný francouzský kuchař Montmireil.
+Chtěl bych to uvést na pravou míru tím, že vám prozradím, že chateaubriand není přímo steak. Pojem chateaubriand se vztahuje k receptu a celkové úpravě pokrmu. Navíc chateaubriand byl sice pojmenován po jmenované osobnosti, avšak jídlo samotné vytvořil slavný francouzský kuchař <a>Montmireil {var="definition-montmireil"}</a>.
 
 Recept na chateaubriand vám na těchto stránkách dát nemohu, ale jako studentům Hostovky vám musím alespoň napsat, jak by se měl připravovat. To, abyste si mohli udělat obrázek, zda dostáváte, co vám patří, jestliže si ho v některé restauraci objednáte.
 
@@ -32,7 +32,7 @@ Recept na chateaubriand vám na těchto stránkách dát nemohu, ale jako studen
 
 Steak se připravuje ze střední části pravé svíčkové anglicky zvané _beef tenderloin {xml:lang="en"}_ o váze nejméně 400 gramů (dvojité filé). Tím pádem je jídlo poměrně drahé. Zruční kuchaři jsou schopni z celé svíčkové udělat dvě nebo i více porcí. Ještě větší umění je však tyto steaky prodat.
 
-Jeho cena je však relativní, protože se připravuje nejméně pro 2 osoby a v ceně je zahrnuty všechny přílohy a celý showmanship podávání tohoto pokrmu který. Ten, pokud je správně prezentovaný, je nezapomenutelným gastronomickým zážitkem. Přesto ale v mnoha restauracích, včetně těch rádoby francouzských je prezentace mnohdy pod úroveň a pan Montmireil se určitě obrací v hrobě.
+Jeho cena je však relativní, protože se připravuje nejméně pro 2 osoby a v ceně je zahrnuty všechny přílohy a celý showmanship podávání tohoto pokrmu který. Ten, pokud je správně prezentovaný, je nezapomenutelným gastronomickým zážitkem. Přesto ale v mnoha restauracích, včetně těch rádoby francouzských je prezentace mnohdy pod úroveň a pan <a>Montmireil {var="definition-montmireil"}</a> se určitě obrací v hrobě.
 
 {class="figure"}
 
@@ -51,9 +51,9 @@ Bohužel se správnou atraktivní prezentací pokrmu se dnes nesetkáme ani na n
 
 ## Gastronomický zážitek
 
-Hlavním gastronomickým zážitkem je samotný chateaubriand. Podává se zásadně na horké míse v celku a zpravidla na soklu z bílého chleba a obložený nejméně třemi druhy v páře vařené barevné zeleniny jako je květák, karotka a hrášek, zelené fazolky, brokolice, bruselské kapustičky apod.
+Hlavním gastronomickým zážitkem je samotný chateaubriand. Podává se zásadně na horké míse v celku a zpravidla na <a>soklu {var="definition-sokl"}</a> z bílého chleba a obložený nejméně třemi druhy v páře vařené barevné zeleniny jako je květák, karotka a hrášek, zelené fazolky, brokolice, bruselské kapustičky apod.
 
-Mimo zeleniny by s ním měly být podávány alespoň dva druhy brambor, jako například _pommes château {xml:lang="fr"}_ nebo _pommes Parisienne {xml:lang="fr"}_. V každém případě však s bramborami francouzsky zvanými _pommes duchesse {xml:lang="fr"}_, které se ozdobně nastříkají po okraji mísy a opekou dozlatova pod grilem. Tím vytváří jedlý okraj zvaný bordura neboli rám celému obrazu tohoto velice atraktivního jídla.
+Mimo zeleniny by s ním měly být podávány alespoň dva druhy brambor, jako například <a><em>pommes château {xml:lang="fr"}</em> {var="definition-pommes_chateau"}</a> nebo <a><em>pommes Parisienne {xml:lang="fr"}</em> {var="definition-pommes_parisienne"}</a>. V každém případě však s bramborami francouzsky zvanými <a><em>pommes duchesse {xml:lang="fr"}</em> {var="definition-pommes_duchesse"}</a>, které se ozdobně nastříkají po okraji mísy a opekou dozlatova pod grilem. Tím vytváří jedlý okraj zvaný <a>bordura {var="definition-bordura"}</a> neboli rám celému obrazu tohoto velice atraktivního jídla.
 
 {class="example"}
 
@@ -67,7 +67,7 @@ Totéž platí o žloutcích, které jednak dávají hmotě chuť a pomáhají j
 
 ## Podávání pokrmu
 
-Steak se kdysi porcoval (dranžíroval) na servírovacím stolku (keridonu) přímo u stolu. To vyžadovalo jistou zkušenost a profesionálnost. Toto umění tzv. _dranžéra_ ale už bohužel zaniklo, takže na to dnes můžete již zapomenout.
+Steak se kdysi porcoval (<a>dranžíroval {var="definition-dranzirovani"}</a>) na servírovacím stolku (<a>keridonu {var="definition-keridon"}</a>) přímo u stolu. To vyžadovalo jistou zkušenost a profesionálnost. Toto umění tzv. _dranžéra_ ale už bohužel zaniklo, takže na to dnes můžete již zapomenout.
 
 Steak má dva konce neboli _end cuts {xml:lang="en"}_, které jsou poněkud propečenější než střední část. Pro každou osobu dranžér ukrojil ze steaku 3 plátky masa, z čehož dva (podle hostovy preference propečenosti) položil na levou stranu horkého talíře. Na pravou stranu pak přidal zeleninu podle výběru.
 

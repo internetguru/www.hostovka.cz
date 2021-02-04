@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=258.html" data-image="/files/preview/clanky/kaldoun/general.jpg" data-type="article"}
 
-{data-top="921" ctime="2007-10-11" mtime="2007-10-11" id="kaldoun" author="Michael Klíma" short="Kaldoun" authorid="hostovka/michael_klima"}
+{ctime="2007-10-11" mtime="2007-10-11" data-top="921" id="kaldoun" author="Michael Klíma" short="Kaldoun" authorid="hostovka/michael_klima"}
 
 # Kaldoun
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-07-05, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 

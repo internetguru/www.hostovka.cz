@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=520.html" data-image="/files/preview/clanky/pravda\_na\_listku/general.jpg" data-type="article"}
 
-{data-top="913" ctime="2010-04-16" mtime="2010-04-16" id="pravda\_na\_listku" author="Michael Klíma" short="Pravda na lístku" authorid="hostovka/michael_klima"}
+{ctime="2010-04-16" mtime="2010-04-16" data-top="913" id="pravda\_na\_listku" author="Michael Klíma" short="Pravda na lístku" authorid="hostovka/michael_klima"}
 
 # Pravda na jídelním lístku
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-07-05, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 

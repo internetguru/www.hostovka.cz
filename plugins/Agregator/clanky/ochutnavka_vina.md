@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=76.html" data-image="/files/preview/clanky/ochutnavka_vina/general.jpg" data-type="article"}
 
-{data-top="929" ctime="2005-09-19" mtime="2005-09-19" id="ochutnavka\_vina" author="Michael Klíma" short="Ochutnávka vína" authorid="hostovka/michael\_klima"}
+{ctime="2005-09-19" mtime="2005-09-19" data-top="929" id="ochutnavka\_vina" author="Michael Klíma" short="Ochutnávka vína" authorid="hostovka/michael\_klima"}
 
 # Ochutnávka vína
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-07-05, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="nápoje"}
 

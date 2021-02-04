@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=115.html" data-image="files/preview/clanky/zkratky\_na\_listcich/general.jpg" data-type="article"}
 
-{data-top="970" ctime="2005-11-23" mtime="2005-11-23" id="zkratky\_na\_listcich" author="Michael Klíma" short="Zkratky na lístcích" authorid="hostovka/michael_klima"}
+{ctime="2005-11-23" mtime="2005-11-23" data-top="970" id="zkratky\_na\_listcich" author="Michael Klíma" short="Zkratky na lístcích" authorid="hostovka/michael_klima"}
 
 # Zkratky na jídelních lístcích
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-07-05, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 

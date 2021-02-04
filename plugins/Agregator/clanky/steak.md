@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=179.html" data-image="/files/preview/clanky/steak/general.jpg" data-type="article"}
 
-{data-top="935" ctime="2006-09-27" mtime="2019-08-13" id="steak" author="Michael Klíma" short="Steak"}
+{ctime="2006-09-27" mtime="2019-08-13" data-top="935" id="steak" author="Michael Klíma" short="Steak"}
 
 # Co je to steak
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-07-05, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="jídla a jídelní lístky, steak, telecí, hovězí"}
 
@@ -76,18 +76,6 @@ T-bone steak má své jméno odvozené od kosti ve tvaru písmene T, která jím
 
 ![veal chop][2] 
 :   veal chop
-
-{var="inputvar-faq_h" id="dotazy"}
-
-## n/a
-
-{var="inputvar-faq_desc"}
-
-n/a
-
-{var="doclist-faq"}
-
-Seznam příbuzných dotazů není k dispozici
 
 {id="dalsi" var="inputvar-pribuzne_h"}
 

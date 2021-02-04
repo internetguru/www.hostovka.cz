@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=432.html" data-image="/files/preview/clanky/mexicky_flan/general.jpg" data-type="article"}
 
-{data-top="953" ctime="2009-05-10" mtime="2009-05-10" id="mexicky\_flan" author="Michael Klíma" short="Mexický flan" authorid="hostovka/michael\_klima"}
+{ctime="2009-05-10" mtime="2009-05-10" data-top="953" id="mexicky\_flan" author="Michael Klíma" short="Mexický flan" authorid="hostovka/michael\_klima"}
 
 # Mexický flan
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-07-05, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="etnické kuchyně"}
 

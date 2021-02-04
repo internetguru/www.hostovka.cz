@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-image="/files/preview/clanky/kratky\_a\_dlouhy_tyden/preview.jpg" data-type="article" data-source="http://2017.hostovka.cz/clanek.php?clanek=155" data-top="6"}
 
-{data-top="993" ctime="2006-06-18" mtime="2006-06-18" id="kratky\_a\_dlouhy\_tyden" author="Michael Klíma" authorid="hostovka/michael\_klima"}
+{ctime="2006-06-18" mtime="2006-06-18" data-top="993" id="kratky\_a\_dlouhy\_tyden" author="Michael Klíma" authorid="hostovka/michael\_klima"}
 
 # Krátký a dlouhý týden
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-07-05, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="případová studie"}
 

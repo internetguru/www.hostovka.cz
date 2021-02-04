@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=69.html" data-image="/files/preview/clanky/vykostovani/general.jpg" data-type="article"}
 
-{data-top="932" ctime="2005-08-29" mtime="2005-08-29" id="vykostovani" author="Michael Klíma" short="Vykosťování" authorid="hostovka/michael_klima"}
+{ctime="2005-08-29" mtime="2005-08-29" data-top="932" id="vykostovani" author="Michael Klíma" short="Vykosťování" authorid="hostovka/michael_klima"}
 
 # Vykosťování
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-07-05, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="kuchyňské techniky"}
 
@@ -15,9 +15,9 @@ Tomuto byly kdysi vyškoleni kuchaři případně číšníci, a tak zvaní carv
 
 Toto, pokud to bylo provedeno odborně, bylo jakýmsi zpestřením stolování v restauracích vyšších cenových skupin a bylo to velice nóbl.
 
-V moderní gastronomii se ale od dranšírování u stolů v restauraci upouští.
+V moderní gastronomii se ale od <a>dranšírování {var="definition-dranzirovani"}</a> u stolů v restauraci upouští.
 
-Při velkých bufetech je dranšírování velkých kusů masa či drůbeže stále ještě populární jednak proto, že je to velice atraktivní. ale také z ekonomických důvodů.
+Při velkých bufetech je <a>dranšírování {var="definition-dranzirovani"}</a> velkých kusů masa či drůbeže stále ještě populární jednak proto, že je to velice atraktivní. ale také z ekonomických důvodů.
 
 V Americe si dnes můžete objednat čerstvé pstruhy již vykostěné a to třeba i 5 tisíc kusů a všechny budou o váze vaši specifikace třeba i 283,5 gramů.
 

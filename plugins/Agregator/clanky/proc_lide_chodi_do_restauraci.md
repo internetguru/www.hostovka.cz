@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=211.html" data-image="/files/preview/clanky/proc\_lide\_chodi\_do\_restauraci/general.jpg" data-type="article"}
 
-{data-top="916" ctime="2007-01-21" mtime="2007-01-21" id="proc\_lide\_chodi\_do\_restauraci" author="Michael Klíma" short="Proč chodí lidé do restaurací" authorid="hostovka/michael_klima"}
+{ctime="2007-01-21" mtime="2007-01-21" data-top="916" id="proc\_lide\_chodi\_do\_restauraci" author="Michael Klíma" short="Proč chodí lidé do restaurací" authorid="hostovka/michael_klima"}
 
 # Proč chodí lidé do restaurací
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-07-05, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="restaurace a servis"}
 

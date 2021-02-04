@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=66.html" data-image="/files/preview/clanky/o\_mase\_2/general.jpg" data-type="article"}
 
-{data-top="909" ctime="2005-08-20" mtime="2005-08-20" id="o\_mase\_2" author="Michael Klíma" short="O mase 2" authorid="hostovka/michael_klima"}
+{ctime="2005-08-20" mtime="2005-08-20" data-top="909" id="o\_mase\_2" author="Michael Klíma" short="O mase 2" authorid="hostovka/michael_klima"}
 
 # O mase 2
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-07-05, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 
@@ -161,11 +161,11 @@ Medailónky jak jejich název napovídá jsou menší než turneda. Podávají s
 
 ## Châteaubriand
 
-Châteaubriand, česky šatobriand, byl pojmenován po velkém francouzském spisovateli a státníku Châteaubriandovi, avšak jídlo, tak jak je popsáno níže vytvořil slavný francouzský kuchař Montmireil.
+Châteaubriand, česky šatobriand, byl pojmenován po velkém francouzském spisovateli a státníku Châteaubriandovi, avšak jídlo, tak jak je popsáno níže vytvořil slavný francouzský kuchař <a>Montmireil {var="definition-montmireil"}</a>.
 
 Châteaubriand se připravuje ze střední svíčkové o váze nejméně 400 gramů (dvojité filé), čímž je toto jídlo také poměrně drahé. Jeho cena je však relativní, protože se připravuje nejméně pro 2 osoby a v ceně jsou zahrnuty všechny přílohy a celý showmanship podávání tohoto pokrmu který, pokud je správně presentovaný, je nezapomenutelným gastronomickým zážitkem.
 
-Bohužel se správnou atraktivní presentaci châteaubriandu se setkáme možná již jen na hotelových školách, kde se to zřejmě ještě vyučuje, ale v mnoha restauracích, včetně těch rádoby "francouzských" je ta presentace mnohdy pod úroveň, a pan Montmireil se určitě obrací v hrobě.
+Bohužel se správnou atraktivní presentaci châteaubriandu se setkáme možná již jen na hotelových školách, kde se to zřejmě ještě vyučuje, ale v mnoha restauracích, včetně těch rádoby "francouzských" je ta presentace mnohdy pod úroveň, a pan <a>Montmireil {var="definition-montmireil"}</a> se určitě obrací v hrobě.
 
 Hlavním gastronomickým zážitkem je samotný châteaubriand který musí být opečený nebo grilovaný přesně na požadovaný stupeň vnitřní teploty (většinou medium rare, 71°C.)
 
@@ -173,7 +173,7 @@ Podává se zásadně na horké míse v celku a zpravidla na soklu z bílého ch
 
 Mimo zeleniny by se se šatobriándem měly podávat alespoň dva druhy brambor jako například pommes château nebo pommes Parisienne, a v každém případě s brambory francouzsky zvanými pommes duchesse, které se ozdobně nastříkají po okraji mísy a opekou dozlatova pod grilem, čímž tvoří jedlý okraj zvaný bordura, neboli rám celému obrazu tohoto velice atraktivního jídla.
 
-Châteaubriand se v každém případě musí dranžírovat, neboli porcovat u stolu na tak zvaném keridónu. Pro každou osobu se ukrojí 3 plátky masa, z čehož dva z nich se položí na levou stranu horkého talíře a na pravou stranu se přidá zelenina podle hostova výběru. Zbylé maso a zelenina se udržují na teple, a na talíře se hostům přidávají až na jejich přání, čemuž se v číšnické hantýrce říká náchservis. K châteaubriandu se podávají zvlášť dvě omáčky. Jednak omáčka na maso, což může být jen obyčejné demi-glace, nebo jiná vhodná hnědá omáčka jako je třeba omáčka bordelaise a pikantní béarnská omáčka která se na přání přelévá na zeleninu. Omáčky na maso a zeleninu přelévá servírující až po dotazu které omáčce host dává přednost.
+Châteaubriand se v každém případě musí <a>dranžírovat {var="definition-dranzirovani"}</a>, neboli porcovat u stolu na tak zvaném keridónu. Pro každou osobu se ukrojí 3 plátky masa, z čehož dva z nich se položí na levou stranu horkého talíře a na pravou stranu se přidá zelenina podle hostova výběru. Zbylé maso a zelenina se udržují na teple, a na talíře se hostům přidávají až na jejich přání, čemuž se v číšnické hantýrce říká náchservis. K châteaubriandu se podávají zvlášť dvě omáčky. Jednak omáčka na maso, což může být jen obyčejné demi-glace, nebo jiná vhodná hnědá omáčka jako je třeba omáčka bordelaise a pikantní béarnská omáčka která se na přání přelévá na zeleninu. Omáčky na maso a zeleninu přelévá servírující až po dotazu které omáčce host dává přednost.
 
 Servírující musí mít na paměti, že ani častí návštěvníci restaurací (anglicky restaurant goers) nejedí každý den a někteří hosté, a těch je většina, se s tímto jídlem setkávají poprvé.
 

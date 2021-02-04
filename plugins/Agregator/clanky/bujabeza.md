@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=190.html" data-image="/files/preview/clanky/bujabeza/general.jpg" data-type="article"}
 
-{data-top="958" ctime="2006-11-20" mtime="2019-03-28" id="bujabeza" author="Michael Klíma" short="Bujabéza"}
+{ctime="2006-11-20" mtime="2019-03-28" data-top="958" id="bujabeza" author="Michael Klíma" short="Bujabéza"}
 
 # Polévka bujabéza a její příprava
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-07-05, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="jídla a jídelní lístky, polévky, recept, ryby, mořské plody, Francie"}
 

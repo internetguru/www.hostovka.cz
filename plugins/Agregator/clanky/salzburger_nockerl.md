@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=328.html" data-image="/files/preview/clanky/salzburger_nockerl/general.jpg" data-type="article"}
 
-{data-top="933" ctime="2008-06-12" mtime="2008-06-12" id="salzburger\_nockerl" author="Michael Klíma" short="Salzburger Nockerl" authorid="hostovka/michael\_klima"}
+{ctime="2008-06-12" mtime="2008-06-12" data-top="933" id="salzburger\_nockerl" author="Michael Klíma" short="Salzburger Nockerl" authorid="hostovka/michael\_klima"}
 
 # Salzburger Nockerl
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-07-05, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="jídla a jídelní lístky"}
 

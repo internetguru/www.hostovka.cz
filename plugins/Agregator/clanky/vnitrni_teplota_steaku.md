@@ -1,11 +1,11 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=545.html" data-image="/files/preview/clanky/vnitrni\_teplota\_steaku/general.jpg" data-type="article"}
 
-{data-top="954" ctime="2011-01-06" mtime="2011-01-06" id="vnitrni\_teplota\_steaku" author="Michael Klíma" short="Vnitřní teplota steaků" authorid="hostovka/michael_klima"}
+{ctime="2011-01-06" mtime="2011-01-06" data-top="954" id="vnitrni\_teplota\_steaku" author="Michael Klíma" short="Vnitřní teplota steaků" authorid="hostovka/michael_klima"}
 
 # Vnitřní teplota steaků
 
-<!-- generated attribute kw by user_updatekw.sh on 2020-07-05, do not edit -->
+<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
 
 {kw="gastronomie"}
 
