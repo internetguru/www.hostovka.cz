@@ -235,6 +235,9 @@
             currentFile = files[i]
             navig.value = currentFile.value
           }
+          if (!currentFile) {
+            currentFile = { value: navig.value }
+          }
           if (Config.onSend) {
             Config.onSend(navig, currentFile, closeNavig)
           }
