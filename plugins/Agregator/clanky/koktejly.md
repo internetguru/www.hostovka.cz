@@ -19,7 +19,7 @@ Pohostinství se časem stalo mým koníčkem. Když jsem trochu povyrostl, tak 
 
 Poznal jsem celou řadu barmanů v Est baru, Barberině, Boccaciu, u 5-P, Sekt pavilonu, v Baroku, Rokoku a nevím, jak se všechny ty noční zapadáky jmenovaly a mohu vám říci, že jsem přišel na to, že všichni barmani byli většinou stejně dobří jako byl Charlie.
 
-Když jsem po válce přišel do Paříže a později do Alžíru, Tunisu, Bizerty a dokonce do Saigonu (kterému se tehdy říkalo Paříž Blízkého Východu), a viděl jsem i jiné bary a barmany, tak mě touha stát se barmanem opět popadla.
+Když jsem po válce přišel do Paříže a později do Alžíru, Tunisu, Bizerty a dokonce do Saigonu (kterému se tehdy říkalo Paříž Blízkého Východu) a viděl jsem i jiné bary a barmany, tak mě touha stát se barmanem opět popadla.
 
 {id="teoreticke\_znalosti\_a_vzdelani"}
 
@@ -56,6 +56,18 @@ Dnes, až na výjimky, dělá barmanství kdekdo a o lihovinách, koktejlech a j
 Já proti barmankám nic nemám, ba naopak, ale mnohé z nich toho o barmanství moc nevědí. Proto to dohánějí svým dekoltem. Ve světě jsou bary, kde jsou dokonce barmanky „nahoře bez“. Některé toho o barmanství vědí tak málo, že by podle mě za barem mohly být i nahaté a stejně by jim to nepomohlo.
 
 Nemám nic proti mladým lidem, protože i já jsem byl kdysi mladý, a navíc téměř celý život pracuji s mladými lidmi. Přesto se ale domnívám, že nějaká zralost je k barmanství potřeba. Prostě si myslím, že to s mladými barmany a someliéry trochu přeháníme. Nemám nic proti ambiciózním mladým lidem, ale obávám se, že některým našim mladým barmanům odměny, ceny a medaile stouply až moc do hlavy.
+
+{var="inputvar-faq_h" id="dotazy"}
+
+## n/a
+
+{var="inputvar-faq_desc"}
+
+n/a
+
+{var="inputvar-faqs@var"}
+
+Bez příbuzných dotazů
 
 {id="dalsi" var="inputvar-pribuzne_h"}
 
