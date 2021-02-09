@@ -35,11 +35,23 @@ No a vy si myslíte, že je to v Česku jiné? Ve velkých mezinárodních hotel
 
 {class="important"}
 
-Sice nejsem Nostradamus, ale dovoluji si k mým předpovědím přidat další. Pokud Češi nezmění charakter českého pohostinství, a hlavně úroveň odborného školství, tak přes veškeru snahu toho hnutí [slow food][3] vyřadí stále rychleji rostoucí restaurace rychlého občerstvení. Také si nedám upřít právo na prvenství v užívání mého hesla: „Dejte lidem to, co chtějí, a co jim za jejich peníze patří.“ V tom je podle mě tajemství úspěchu provozování dnešního pohostinství.
+Sice nejsem Nostradamus, ale dovoluji si k mým předpovědím přidat další. Pokud Češi nezmění charakter českého pohostinství, a hlavně úroveň odborného školství, tak přes veškerou snahu toho hnutí [slow food][3] vyřadí stále rychleji rostoucí restaurace rychlého občerstvení. Také si nedám upřít právo na prvenství v užívání mého hesla: „Dejte lidem to, co chtějí, a co jim za jejich peníze patří.“ V tom je podle mě tajemství úspěchu provozování dnešního pohostinství.
 
 Mohu se pochlubit také dalším prvenstvím, a to je uvedení do provozu mého ojedinělého [konceptu STEAKGRILL®][4], který jsem si prozřetelně nechal registrovat. Dnes po jeho čtyřletém provozu, kdy mnohé restaurace zavírají, jsem velice pyšný na to, že je můj koncept tak úspěšný. Jsem ale hlavně pyšný na [Jardu Honzajka][5], který dal tomuto konceptu život.
 
 Mám také další unikátní koncept _Fusion Cuisin by Assemly Cooking™ {xml:lang="en"}_, který se od konceptu STEAKGRILL® podstatně liší. Ukazuje se být ideální pro mnohé skomírající české restaurace.
+
+{var="inputvar-faq_h" id="dotazy"}
+
+## n/a
+
+{var="inputvar-faq_desc"}
+
+n/a
+
+{var="inputvar-faqs@var"}
+
+Bez příbuzných dotazů
 
 {id="dalsi" var="inputvar-pribuzne_h"}
 
