@@ -17,7 +17,7 @@ Jsem Čechoslovák jak poleno, který cestuje po světě a pohybuje se mezi lidm
 
 ## Typické stravovací zvyklosti
 
-První druhá nebo i třetí generace amerických přistěhovalců mají v sobě něco ze svých předků. Je zajímavé, že se to nejvíce projevuje ve stravovacích zvyklostech.
+První, druhá nebo i třetí generace amerických přistěhovalců mají v sobě něco ze svých předků. Je zajímavé, že se to nejvíce projevuje ve stravovacích zvyklostech.
 
 {class="important"}
 
@@ -80,6 +80,18 @@ Dále je oblíbená drůbež. Z té je na prvním místě kuře a na druhém kro
 Mořské ryby a plody moře, jsou běžnou součástí stravy Američanů, ať již v jakékoliv úpravě. Rybí restaurace jsou velice populární a běžné druhy ryb jako je losos, tuňák, žralok, mečoun, treska apod. se objevují i na lístcích ostatních restaurací. Obzvláště oblíbené jsou pak chobotničky, ústřice, mušle, krevetky, krabi, humři a hřebenatky.
 
 Jak vidíte, Američan si má z čeho vybrat, nemluvě o nekonečném množství mezinárodně známých a populárních zeleninových jídel, těstovin, moučníků a dalších.
+
+{var="inputvar-faq_h" id="dotazy"}
+
+## n/a
+
+{var="inputvar-faq_desc"}
+
+n/a
+
+{var="inputvar-faqs@var"}
+
+Bez příbuzných dotazů
 
 {id="dalsi" var="inputvar-pribuzne_h"}
 
