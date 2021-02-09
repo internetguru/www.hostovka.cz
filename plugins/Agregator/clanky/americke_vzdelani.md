@@ -29,7 +29,7 @@ Není mi moc jasné, jak to bude se vzdělaností v České republice, až vzdě
 
 Američané se neustále něco učí. Když Američan ví, že k výkonu v zaměstnání bude potřebovat znalost výpočetní techniky, tak jde do nějakého kurzu, ve kterém se to naučí.
 
-Proto dnes spousta Američanů studuje například japonštinu, čínštinu, ruštinu a v poslední době i arabštinu. Těm, kteří pracují v Česku, také nedělá potíže se naučit češtinu. Na druhou stranu by Američan neztrácel čas studiem marxismu-leninizmu. To leda, že by byl přesvědčen, že se mu investice do tohoto studia vrátí.
+Proto dnes spousta Američanů studuje například japonštinu, čínštinu, ruštinu a v poslední době i arabštinu. Těm, kteří pracují v Česku, také nedělá potíže se naučit češtinu. Na druhou stranu by Američan neztrácel čas studiem marxismu-leninismu. To leda, že by byl přesvědčen, že se mu investice do tohoto studia vrátí.
 
 {class="example"}
 
@@ -46,6 +46,18 @@ Tehdy to byly velké peníze a o manažery hotelů byl velký zájem, a tak o st
 Jelikož v Americe soudí každý každého, tak tento student univerzitu zažaloval a vyhrál. Škola mu musela zaplatit nejenom ušlý zisk za dobu studií, ale i ušlý zisk v době nezaměstnanosti, což dělalo asi $200.000.
 
 Je sice pravdou, že student nemohl sehnat zaměstnání spíše proto že byl černý než proto, že by nebyla poptávka po absolventech zmíněné univerzity. To na věci ale nic nemění.
+
+{var="inputvar-faq_h" id="dotazy"}
+
+## n/a
+
+{var="inputvar-faq_desc"}
+
+n/a
+
+{var="inputvar-faqs@var"}
+
+Bez příbuzných dotazů
 
 {id="dalsi" var="inputvar-pribuzne_h"}
 
