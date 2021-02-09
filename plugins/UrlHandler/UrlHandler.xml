@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <UrlHandler>
+  <notfound link="faq/"/>
   <rewrite match="clanky/"></rewrite>
   <redir link="ala">a_la</redir>
   <redir link="chicken_nuggets">kureci_nugety</redir>
