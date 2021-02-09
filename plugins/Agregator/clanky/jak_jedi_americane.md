@@ -17,7 +17,7 @@ Stoly jsou v průměrné americké restauraci prostřené stejným způsobem jak
 
 ## Používání příborů
 
-Příbor, dá se říci, používají Američané daleko logičtěji než někteří jiní uživatelé příboru. Je to proto, že nedrží nůž nebo vidličku jako tužku, ale pevně shora, aby mohli pohodlněji odkrajovat kousky tuhých potravin, hlavně steaků.
+Příbor, dá se říci, používají Američané daleko logičtěji, než někteří jiní uživatelé příboru. Je to proto, že nedrží nůž nebo vidličku jako tužku, ale pevně shora, aby mohli pohodlněji odkrajovat kousky tuhých potravin, hlavně steaků.
 
 Po odkrojení několika soust masa, Američan odloží nůž na pravý okraj talíře a do pravé ruky si vezme vidličku. Tou pak napichuje nebo nabírá nakrájená sousta a podává si je do úst.
 
@@ -34,6 +34,18 @@ Nemusíte mít obavy, že by se Američané neuměli chovat u stolu. Nicméně e
 Od doby, kdy jsem se začal učit, mám takového koníčka. Pozoruji lidi, jak a co jedí, pijí, a jak se celkově chovají ve společnosti. Mohu vám říci, že za 70 let praxe v pohostinství jsem viděl už všechno možné i nemožné. Musím vám také říci, že jestli si myslíte, že Američané nevědí, co je etiketa stolování, tak jste ještě nic neviděli.
 
 V Americe jsem například poznal, že tam jsou lidé, kteří se v restauracích umí chovat kulturněji než kdekoliv jinde na světě.
+
+{var="inputvar-faq_h" id="dotazy"}
+
+## n/a
+
+{var="inputvar-faq_desc"}
+
+n/a
+
+{var="inputvar-faqs@var"}
+
+Bez příbuzných dotazů
 
 {id="dalsi" var="inputvar-pribuzne_h"}
 
