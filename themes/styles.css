@@ -1149,6 +1149,9 @@ body:not(.agregator) .hdesc--top label {
   text-align: left;
   padding: 0;
 }
+.search select {
+  display: none;
+}
 .search .js-completable__navig {
   width: calc(100% + 5em) !important;
   right: -6em;
