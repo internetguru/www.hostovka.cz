@@ -1622,7 +1622,8 @@ div.part.internetguru form div input {
   .hdesc--top .extra,
   #mc-embedded-subscribe-form,
   #content .list-wrapper--multiple dl:nth-child(10) ~ dl,
-  .part.dalsi .list-wrapper--single {
+  .part.dalsi .list-wrapper--single,
+  .ad {
     display: none !important;
   }
   div.part.upozorneni,
@@ -1652,6 +1653,7 @@ div.part.internetguru form div input {
     padding: 0;
     margin-top: 0.5em;
     margin-bottom: 0.5em;
+    margin-left: 3em;
     max-width: unset !important;
   }
   .clanky .list-wrapper--multiple dl > *:not(.print),
@@ -1702,6 +1704,20 @@ div.part.internetguru form div input {
   .docinfo.social a.fb svg,
   .docinfo.social a.twitter svg {
     color: black !important;
+  }
+  .part:not(.docinfo):not(.dalsi):not(.o_praleku):not(.clanky):not(.upozorneni) .list > ul:not(.button-list) > li:before {
+    font-size: 1.5em;
+    vertical-align: -0.1em;
+  }
+  .faq.hideable-hidden,
+  .faq.hideable-hidden > *,
+  .faq.hideable-hidden .faq__heading a {
+    display: block !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+  .faq.hideable-hidden .faq__heading a:before {
+    display: none;
   }
 }
 /************************************/
