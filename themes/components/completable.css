@@ -48,6 +48,9 @@
   padding-left: 0.5em;
   z-index: 101;
 }
+.search .js-completable__indicator {
+  display: none;
+}
 .file-list select {
   color: rgb(var(--global-color));
   max-width: 20em;
