@@ -1,0 +1,105 @@
+@charset 'UTF-8';
+.completable__submit {
+  border-radius: var(--global-border-radius);
+  flex-shrink: 0;
+}
+.js-completable__wrapper {
+  display: inline-block;
+  max-width: 40em;
+  position: relative;
+  width: 100%;
+}
+.js-completable__wrapper .js-completable__input {
+  border-radius: var(--global-border-radius);
+  width: 100%;
+}
+.js-completable__navig {
+  background: white;
+  box-shadow: var(--shadow-1);
+  display: block;
+  list-style: none;
+  margin: 0;
+  overflow-y: auto;
+  padding: 0;
+  position: absolute;
+  z-index: 100;
+}
+.js-completable__item {
+  background: white;
+  color: rgb(var(--global-color));
+  margin: 0;
+  padding: 0.25em 0.5em;
+  text-align: left;
+  width: 100%;
+}
+.js-completable__item:hover {
+  background: #eee;
+  cursor: pointer;
+}
+.js-completable__item--active {
+  background: #ddd;
+}
+.js-completable__indicator {
+  position: absolute;
+  right: 0.75em;
+  top: 0.9em;
+  color: #616161;
+  background: white;
+  padding-left: 0.5em;
+  z-index: 101;
+}
+.file-list select {
+  color: rgb(var(--global-color));
+  max-width: 20em;
+  width: 100%;
+}
+.file-list dt {
+  display: none;
+}
+.file-list dd {
+  float: none;
+  margin: 0 auto;
+  position: relative;
+}
+.file-list dd,
+.file-list .js-completable__input {
+  max-width: 45em;
+}
+.file-list:after {
+  clear: both;
+  content: "";
+  display: table;
+}
+.file-list .js-completable__input {
+  color: rgb(var(--global-color));
+  height: 100%;
+}
+.file-list__flag--default,
+.file-list__flag--user,
+.file-list__flag--admin,
+.file-list__flag--disabled {
+  padding: 0.1em 0.2em;
+}
+.file-list__flag--user {
+  background-color: #C5CAE9;
+}
+.file-list__flag--admin {
+  background-color: #EF9A9A;
+}
+.file-list__flag--disabled {
+  background-color: #E0E0E0;
+}
+.file-list__flag--secondary {
+  color: #616161;
+}
+@media all and (min-width: 28em) {
+  .file-list dd {
+    display: flex;
+  }
+  .completable__submit {
+    border-radius: 0 var(--global-border-radius) var(--global-border-radius) 0;
+  }
+  .js-completable__wrapper .js-completable__input {
+    border-radius: var(--global-border-radius) 0 0 var(--global-border-radius);
+  }
+}
