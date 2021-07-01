@@ -1,0 +1,11 @@
+
+{xml:lang="cs" ns="https://www.hostovka.cz" data-question="Vážený pane Klímo, teď když vím co je to chucpa, tak si myslím, že je to asi chucpa se vás zeptat, co znamená to BS, které také občas používáte. Děkuji předem Arnošt." data-answer="Vážen‎ý‎ Arnošte, Děkuji za váš dík a za ten kompliment. Byl bych ale pokrytec kdybych na jedné straně hlásal, že kdo se neptá, nic se nedozví a pak nebyl ochoten na každou otázku odpovědět. Já těch otázek ale dostávám nepředstavitelné množství, a i když říkám, že žádná otázka není tak hloupá aby se na ni nenašla nějaká chytrá odpověď, tak na některé neodpovídám. Pes je totiž také zakopan‎ý v tom, že den má jen 24 hodin a pokud si někdy nevezmu oběd tak nejv‎ýše 25, ale i tak na to prostě všechno nestačím. Proto se musím přiznat, že odpovídám jen na otázky o kter‎ých předpokládám že jsou předmětem zájmu většiny studentů Hostovky. Nicméně o tom BS jsem napsal pár řádků do Manuálu personálního oddělení konceptu Steakgrill a tak to na těchto stránkách eventuálně uveřejním."}
+
+{id="faq32" author="InternetGuru" ctime="2021-07-01T17:48:21+02:00"}
+
+# Co znamená výraz chucpa?
+
+{kw="co-kdy-kde"}
+
+n/a
+

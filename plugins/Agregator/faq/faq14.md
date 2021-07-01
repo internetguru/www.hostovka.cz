@@ -1,0 +1,11 @@
+
+{xml:lang="cs" ns="https://www.hostovka.cz" data-question="Dobrý den pane Klímo, asi v polovině září jsem se Vás dotazovala na nástrahy francouzského pohostinství. Nestačil jste mi odpovědět ještě před mým odjezdem do Francie, nicméně jsem si poradila snad v celku dobře. Pochutnala jsem si v Arles, v Montpellier a ve Strasbourgu. Sice jsem nepojedla v Ritzu, ale vždy jen v napohled běžné restauraci. Ve všech jsem měla pocit, že jsem host a dokonce snad i vážený host, byť ani jedna z mých útrat nebyla omračující. Bylo to velice příjemné. Příští rok se chystám navštívit Aquitaine, bližší určení zatím nevím, stále vybírám. Mohl byste prosím poradit co si nemám nechat ujít a naopak čeho se raději vyvarovat? Mnohokrát děkuji, Bauerová." data-answer="Vážená paní Baurová, vyučil jsem se v Česku, a mám několikaletou praxi ve Francii, ale musím přiznat, že celou řadu francouzských jídel jsem se nauči i v jiných zemích a zejména v Americe, kde některé potraviny, zejména maso, jsou podstatně lepší než v samotné Francii. Co ve Francii jíst a co ne, Vám neporadím, protože nejsem něco jako www.labuzdopo.cz., což je veliká chucpa Jídlo je věc osobní preference a chutě se jen těžko dají popsat. Prostě to chce experimentovat."}
+
+{id="faq14" author="InternetGuru" ctime="2021-07-01T17:48:21+02:00"}
+
+# Kam ve Francii zajít na jídlo?
+
+{kw="Francie, gastronomie"}
+
+n/a
+

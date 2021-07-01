@@ -1,0 +1,11 @@
+
+{xml:lang="cs" ns="https://www.hostovka.cz" data-question="Zajímalo by mě, jaká je spotřeba nápojů při různých příležitostech. Děkuji, Pepa." data-answer="Vážený Pepo, odpověď na tuto otázku by určitě zajímala mhoho lidí, a to nejenom provozovatelů pohostintví, ale i lidí, kteří si například objedani nějaký banket nebo párty a pak se diví jestli skutečně vypili všechno to za co by měli zaplatit. Sice někde mám vlastní poznámky o tom, kolik toho lidé vypili při různých příležitostech, protože je to velice důležité v případě, když se podávají nápoje formou "open bar". Tyto mé poznámky by vám ale nebyly moc platné, protože jsou většinou z Ameriky nebo Australie a již tyto se podstatně liší. Například Australané pijí více piva nebo víná, kdežto Američané pijí spíše tvrdé nápoje. Dále pak záleží o jakou příležitost se jedná, jestli je to svatba, podnikové mecheche apod. Teď mně ale napadlo, že před lety, když jsem pracoval pro ČSA, jsem vytvořil jakési spotřební normy pro podávání lihovin v prvé třídě na letadlech. kde cestujicí mohli také vypít lihovin kolik chtěli. Ty normy zřejmě byly přesné protože jsem se pak po více než 20 letech dozvěděl, že je ještě pořád používali."}
+
+{id="faq42" author="InternetGuru" ctime="2021-07-01T17:48:21+02:00"}
+
+# Jaká je spotřeba nápojů při různých příležitostech?
+
+{kw="nápoje"}
+
+n/a
+
