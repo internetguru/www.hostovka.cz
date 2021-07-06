@@ -7,7 +7,7 @@
 -->
   
   <doclist id="vsechny_clanky" path="clanky" wrapper="ul">
-    <li><a title="Zobrazit článek %s" var="link@href short@title heading" href="%s?usp=all">n/a</a></li>
+    <li><a title="Zobrazit článek %s" var="link@href short@title heading" href="%s?usp=all">n/a</a><span class="kw" var="kw" fn="inputvar-maketags">n/a</span></li>
   </doclist>
   
   <doclist id="stitek" path="clanky" filter-name="top" limit="30">
