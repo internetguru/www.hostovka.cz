@@ -1592,6 +1592,26 @@ div.part.internetguru form div input {
   margin-top: 1em;
 }
 /************************************/
+#content .vsechny_clanky {
+  list-style: circle;
+}
+#content .vsechny_clanky li:before {
+  display: none;
+}
+#content .vsechny_clanky li {
+  margin-left: 1.5em;
+}
+@media (min-width: 28em) {
+  #content .vsechny_clanky {
+    column-count: 2;
+  }
+}
+@media (min-width: 48em) {
+  #content .vsechny_clanky {
+    column-count: 3;
+  }
+}
+/************************************/
 @media print {
   @page {
     size: auto;
