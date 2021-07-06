@@ -1,5 +1,5 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" data-image="/files/preview/clanky/ala/general.jpg"}
+{xml:lang="cs" ns="https://www.hostovka.cz" data-image="/files/preview/clanky/nazvy_jidel/general.jpg"}
 
 {id="seznam" author="Internet Guru" ctime="2021-07-06" short="Seznam"}
 
