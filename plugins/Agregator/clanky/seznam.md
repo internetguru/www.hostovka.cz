@@ -1,7 +1,7 @@
 
-{xml:lang="cs" ns="https://beta.hostovka.cz"}
+{xml:lang="cs" ns="https://www.hostovka.cz" data-image="/files/preview/clanky/ala/general.jpg"}
 
-{id="seznam" author="Internet Guru" ctime="2021-07-06"}
+{id="seznam" author="Internet Guru" ctime="2021-07-06" short="Seznam"}
 
 # Seznam všech článků
 
