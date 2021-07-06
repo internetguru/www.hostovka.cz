@@ -5,6 +5,11 @@
     <li><a title="Autor: %s" var="link@href author@title heading">n/a</a></li>
   </doclist>
 -->
+  
+  <doclist id="vsechny_clanky" path="clanky" wrapper="ul">
+    <li><a title="Zobrazit článek %s" var="link@href short@title heading" href="%s?usp=all">n/a</a></li>
+  </doclist>
+  
   <doclist id="stitek" path="clanky" filter-name="top" limit="30">
     <dl class="clanek card card--shadow card--image col--3">
       <dt><a title="Zobrazit článek %s" var="link@href short@title" href="%s?usp=image"><img var="image@src heading@alt"/></a></dt>
