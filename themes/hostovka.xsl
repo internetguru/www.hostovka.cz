@@ -65,7 +65,7 @@
     <xsl:copy>
       <xsl:apply-templates select="node()|@*"/>
       <div class="moreable-linkwrapper">
-        <a href="seznam_clanku">Všechny články</a>
+        <a class="button button--simple" href="seznam_clanku">Všechny články</a>
       </div>
     </xsl:copy>
   </xsl:template>
