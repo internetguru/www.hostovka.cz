@@ -713,6 +713,9 @@ dt label.button {
 .moreable-linkwrapper .button span {
   margin-left: 0.25em;
 }
+.moreable-linkwrapper .button:hover {
+  color: white;
+}
 .meta .moreable-linkwrapper {
   display: inline;
   width: auto;
