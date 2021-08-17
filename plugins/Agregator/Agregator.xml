@@ -6,7 +6,7 @@
   </doclist>
 -->
   
-  <doclist id="vsechny_clanky" path="clanky" wrapper="ul" sort="heading">
+  <doclist id="vsechny_clanky" path="clanky" wrapper="ul" sort="link">
     <li><a title="Zobrazit článek %s" var="link@href short@title heading" href="%s?usp=all">n/a</a></li>
   </doclist>
   
