@@ -3,7 +3,7 @@
 
 {id="seznam_clanku" author="Internet Guru" ctime="2021-07-06" short="Seznam článků"}
 
-# Seznam článků
+# Kompletní seznam článků
 
 Seznam všech článků na Hostovce seřazený podle abecedy.
 
