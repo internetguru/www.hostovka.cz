@@ -1,0 +1,11 @@
+
+{xml:lang="cs" ns="https://www.hostovka.cz" data-question="Dobrý večer, Michaeli! Jste pro mne objevem týdne. Máme doma rádi "čínu", kterou jsem celoživotně dětem vařila a krmila je nostalgickou pohádkou o báječné čínské restauraci ve Vodičkové. Zvláště když nyní jsou "číny" na každém kroku, jedna horší než druhá. Nedávno mi jeden syn na netu našel stránku vzpomínek na tuto restauraci, včetně fotografií interiéru. A krátce na to druhý, starší syn, mne seznámil s vašimi stránkami a s vaším projektem tady na Roudnicku. Jsem zavalena "náhodami". Zjistila jsem, že celoživotně vařím z Vaší Čínské kuchařky, kterou jsem si kdysi koupila ve Vodičkové a syn mi na 14 dní zapůjčil Vaši italskou kuchařku. No a nyní tedy louskám i různé příspěvky. Chystáme se vyzkoušet s rodinou Vaše dítě - Steakgrill. Jsme zvědaví, protože kromě pozitivní reklamy se objevují i kritické příspěvky a vnímám, že své dítě hájíte dojemně jako lev. Takže mám po tomto výlevu jednu otázku, která mne léta trápí. Dají se v čechách sehnat stříbrné rybky? Díky za odpověď." data-answer="Děkuji, za kompliment jak na tu "čínu", tak i na tu "italku". Ty "číny" v Česku, jsou většinou v rukách Vietnamců, na čemž by nebylo vlastně nic špatného, protože já sám se ji také naučil během svého více než dvouletého pobytu ve Vitenamu. Vietnamci u nás bohužel nepochopili, že každá etnická kuchyně se musí sice připravovat pokud možno z autentických surovin, zejména koření, a přísně podle originálních receptů, že se musí do hloubky prostudovat a pak ji připravovat tak trochu s přihlédnutím k českým chutím. Podobně jsem několik let studoval italskou kuchyni, ne jenom v Itálii, ale hlavně v Americe, kde k tomu studiu jsou daleko lepší podmínky. Co se týče stříbrných rybek, tak pochybuji, že je někdo dováží, ale zkuste se zeptat v čínské restauraci v Praze ve Světozoru, kde pracují ještě někteří kuchaři kteří za mě pracovali v té původní "číně". Co se týče restaurace STEAKGRILL v Račiněvsi, tak já si samozřejmě myslím, že je to nejlepší restaurace toho typu v Česku, ale vím, že neuspokojí každého. Je totiž již českou náturou kritizovat i to, co jsme ještě nikdy neochutnali. Každopádně se napřed podívejte na www.steakgrill.cz."}
+
+{id="faq16" author="InternetGuru" ctime="2021-07-01T17:48:21+02:00"}
+
+# Dají se v čechách sehnat stříbrné rybky?
+
+{kw="Česká republika, gastronomie"}
+
+n/a
+

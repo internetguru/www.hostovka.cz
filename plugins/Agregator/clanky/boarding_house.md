@@ -13,7 +13,7 @@ _Boarding house {xml:lang="en"}_ znamená ubytování v privátních domech. Ně
 
 Ve Spojených státech se _boarding house {xml:lang="en"}_ kdysi nazýval jako _rooming house {xml:lang="en"}_ nebo také jako _lodging house {xml:lang="en"}_. Všechny tyto výrazy v Americe (v původním poslání) ale upadají v zapomenutí. Jsou původem z Anglie, kde se dodnes běžné používají.
 
-Koupelny či umývárny byly společné, stejně tak jako toalety. Společné bylo i stravování. což byla ve většině případů jen snídaně, ale mnohdy i oběd nebo i celodenní strava.
+Koupelny či umývárny byly společné, stejně tak jako toalety. Společné bylo i stravování, což byla ve většině případů jen snídaně, ale mnohdy i oběd nebo i celodenní strava.
 
 V Anglii tyto domy většinou spravovaly ženy (anglicky _boarding ladies {xml:lang="en"}_). Ty ve většině případů při delší době ubytování poskytovaly i praní prádla, což bývalo i u nás součástí podnájmu. Podobně se některým našim podnájmům tehdy říkalo „s mýdlem“, což ale mělo i jiný význam, který tady popisovat nemohu.
 
@@ -42,6 +42,18 @@ Oproti tomu v Česku v té porevoluční euforii a při nedostatku ubytování (
 Někteří sice nevěděli, co jejich hostům za jejich peníze patří, ala na druhou stranu na výpadovkách na Německo jste se setkali (a možná ještě setkáte), že za příplatek dostanete k snídani ještě masáž. V takovém případě by měli mít na domě buď červenou lucernu anebo k tomu _B&B {xml:lang="en"}_ přidat ještě jedno B nebo ještě lépe P (pro německý _Puff {xml:lang="de"}_).
 
 Já vím, že by mě hned někdo mohl napadnout, že urážím Čechy, a tak musím dodat, že byly a jsou výjimky. Jako studentům Hostovky jsem vám o tom ale musel napsat.
+
+{var="inputvar-faq_h" id="dotazy"}
+
+## n/a
+
+{var="inputvar-faq_desc"}
+
+n/a
+
+{var="inputvar-faqs@var"}
+
+Bez příbuzných dotazů
 
 {id="dalsi" var="inputvar-pribuzne_h"}
 

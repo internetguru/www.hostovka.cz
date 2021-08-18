@@ -713,6 +713,9 @@ dt label.button {
 .moreable-linkwrapper .button span {
   margin-left: 0.25em;
 }
+.moreable-linkwrapper .button:hover {
+  color: white;
+}
 .meta .moreable-linkwrapper {
   display: inline;
   width: auto;
@@ -1148,6 +1151,9 @@ body:not(.agregator) .hdesc--top label {
   justify-content: flex-start;
   text-align: left;
   padding: 0;
+}
+.search select {
+  display: none;
 }
 .search .js-completable__navig {
   width: calc(100% + 5em) !important;
@@ -1589,6 +1595,26 @@ div.part.internetguru form div input {
   margin-top: 1em;
 }
 /************************************/
+#content .vsechny_clanky {
+  list-style: circle;
+}
+#content .vsechny_clanky li:before {
+  display: none;
+}
+#content .vsechny_clanky li {
+  margin-left: 1.5em;
+}
+@media (min-width: 28em) {
+  #content .vsechny_clanky {
+    column-count: 2;
+  }
+}
+@media (min-width: 48em) {
+  #content .vsechny_clanky {
+    column-count: 3;
+  }
+}
+/************************************/
 @media print {
   @page {
     size: auto;
@@ -1619,7 +1645,8 @@ div.part.internetguru form div input {
   .hdesc--top .extra,
   #mc-embedded-subscribe-form,
   #content .list-wrapper--multiple dl:nth-child(10) ~ dl,
-  .part.dalsi .list-wrapper--single {
+  .part.dalsi .list-wrapper--single,
+  .ad {
     display: none !important;
   }
   div.part.upozorneni,
@@ -1649,6 +1676,7 @@ div.part.internetguru form div input {
     padding: 0;
     margin-top: 0.5em;
     margin-bottom: 0.5em;
+    margin-left: 3em;
     max-width: unset !important;
   }
   .clanky .list-wrapper--multiple dl > *:not(.print),
@@ -1699,6 +1727,20 @@ div.part.internetguru form div input {
   .docinfo.social a.fb svg,
   .docinfo.social a.twitter svg {
     color: black !important;
+  }
+  .part:not(.docinfo):not(.dalsi):not(.o_praleku):not(.clanky):not(.upozorneni) .list > ul:not(.button-list) > li:before {
+    font-size: 1.5em;
+    vertical-align: -0.1em;
+  }
+  .faq.hideable-hidden,
+  .faq.hideable-hidden > *,
+  .faq.hideable-hidden .faq__heading a {
+    display: block !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+  .faq.hideable-hidden .faq__heading a:before {
+    display: none;
   }
 }
 /************************************/

@@ -8,6 +8,7 @@
   <jsFile append="body">themes/moreable.js</jsFile>
   <jsFile append="body">themes/moreableinit.js</jsFile>
   <jsFile append="body">themes/print.js</jsFile>
+  <jsFile append="body">themes/fa-subset.js</jsFile>
   
   <xslt>themes/hostovka.xsl</xslt>
   <xslt>themes/hostovka2.xsl</xslt>

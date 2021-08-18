@@ -1,0 +1,11 @@
+
+{xml:lang="cs" ns="https://www.hostovka.cz" data-question="Pane Klímo, vy sice říkáte, že jedním z poslání Hostovky je vychovat její studenty k tomu, aby věděli co jim za jejich peníze patří. To je sice moc hezké, ale mně by spíše zajímalo, jak mám poznat když mě v některé restauraci šidí. Děkuji , Arnošt." data-answer="Vážený Arnošte, já vím co máte na mysli, ale ona na to nějaká šablona není. Těch způsobů okrádání je dnes již tolik, že je všechny ani já již neznám a to už jsem v životě zažil ledacos. Prostě je to otázka praxe a možnosti srovnání. Já se ale vždy snažím na případových studiích na některé případy sprostého okrádání poukázat. Je to ale vždy limitované tím, že pokud nemám hmatatelný důkaz nemohu jméno té restaurace nebo toho "zloděje" uveřejnit."}
+
+{id="faq41" author="InternetGuru" ctime="2021-07-01T17:48:21+02:00"}
+
+# Jak zjistit, jestli mě v restauraci neokrádají?
+
+{kw="restaurace a servis"}
+
+n/a
+

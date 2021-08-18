@@ -31,7 +31,19 @@ Postup přípravy omáčky je jednoduchý. Ne příliš husté _velouté {xml:la
 
 Nebuďte nervózní z názvů klasických omáček. _Veluoté {xml:lang="fr"}_ je francouzský název velmi jednoduché bílé omáčky, dělané z drůbežího, telecího nebo rybího vývaru zahuštěného světlou jíškou.
 
-_Veluoté {xml:lang="fr"}_ patří do skupiny pěti základních (mateřských) omáček. V kuchyních, ve kterých se zabýváte vlastní výrobou se bez ní neobejdete. Je totiž základem pro milión dalších omáček, například pro omáčky _Allemande {xml:lang="fr"}_ a _Supreme {xml:lang="fr"}_.
+_Veluoté {xml:lang="fr"}_ patří do skupiny pěti základních (mateřských) omáček. V kuchyních, ve kterých se zabýváte vlastní výrobou, se bez ní neobejdete. Je totiž základem pro milión dalších omáček, například pro omáčky _Allemande {xml:lang="fr"}_ a _Supreme {xml:lang="fr"}_.
+
+{var="inputvar-faq_h" id="dotazy"}
+
+## n/a
+
+{var="inputvar-faq_desc"}
+
+n/a
+
+{var="inputvar-faqs@var"}
+
+Bez příbuzných dotazů
 
 {id="dalsi" var="inputvar-pribuzne_h"}
 

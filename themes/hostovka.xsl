@@ -61,6 +61,15 @@
     <xsl:copy-of select="."/>
   </xsl:template>
   
+  <xsl:template match="//div[contains(@class, 'part clanky')]/div[@class='list list-wrapper--multiple']/div">
+    <xsl:copy>
+      <xsl:apply-templates select="node()|@*"/>
+      <div class="moreable-linkwrapper">
+        <a class="button button--simple" href="seznam_clanku">Všechny články</a>
+      </div>
+    </xsl:copy>
+  </xsl:template>
+  
   <xsl:template match="//div[@id='content']/div[@class='list list-wrapper--multiple'][last()]"/>
   
   <xsl:template match="node()|@*">
