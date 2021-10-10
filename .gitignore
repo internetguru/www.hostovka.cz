@@ -1,8 +1,6 @@
 *.[0-9]*
 .inotify
-.*.sw*
 files/
-.watch_user
-.watch_user.tmp
-plugins/Convertor/
-
+.watch_user*
+plugins/ValidateForm/*-*
+plugins/ValidateForm/[0-9]*
