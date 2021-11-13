@@ -19,7 +19,7 @@
       <dd class="desc" var="desc">n/a</dd>
       <dd class="extra"><ul class="button-list">
         <li>
-          <a class="button button--simple button--simple" title="Zobrazit článek %s" var="link@href heading@title" href="%s?usp=button">Přečíst</a></li>
+          <a class="button button--simple button--simple" title="Zobrazit článek %s" var="link@href heading@title" href="%s?usp=button">Zobrazit článek</a></li>
       </ul></dd>
       <dd class="print"><span var="heading">n/a</span>, /<span var="link">n/a</span></dd>
     </dl>
