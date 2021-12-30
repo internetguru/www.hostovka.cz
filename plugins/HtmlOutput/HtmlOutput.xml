@@ -10,7 +10,7 @@
   <jsFile append="body">themes/print.js</jsFile>
   <jsFile append="body">themes/fa-subset.js</jsFile>
   <jsFile append="body" >themes/fa-subset.js</jsFile>
-  <jsFile append="body" if-xpath="//body[contains(@class, 'vsechny_clanky')]">themes/char.js</jsFile>
+  <jsFile append="body" if-xpath="//body[contains(@data-link, '/seznam_clanku')]">themes/char.js</jsFile>
 
   <xslt>themes/hostovka.xsl</xslt>
   <xslt>themes/hostovka2.xsl</xslt>
