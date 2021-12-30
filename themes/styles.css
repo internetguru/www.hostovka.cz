@@ -1597,6 +1597,7 @@ div.part.internetguru form div input {
 /************************************/
 #content .vsechny_clanky {
   list-style: circle;
+  max-width: 60em !important;
 }
 #content .vsechny_clanky li:before {
   display: none;
@@ -1605,6 +1606,8 @@ div.part.internetguru form div input {
   margin-left: 1.5em;
 }
 .chars {
+  width: 100%;
+  max-width: 60em !important;
   text-align: center;
   margin: 1rem 0;
   padding: 1rem 0;
