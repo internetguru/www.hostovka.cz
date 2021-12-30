@@ -1604,7 +1604,16 @@ div.part.internetguru form div input {
 #content .vsechny_clanky li {
   margin-left: 1.5em;
 }
-.vsechny_clanky .first-char {
+.chars {
+  text-align: center;
+  margin: 1rem 0;
+  padding: 1rem 0;
+}
+.chars > * {
+  margin: 0.25rem;
+  padding: 0 0.25rem;
+}
+.first-char {
   list-style: none;
   position: relative;
   font-size: 2rem;
