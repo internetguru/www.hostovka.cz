@@ -1585,7 +1585,6 @@ div.part.internetguru form div input {
   margin-left: 0;
 }
 .faq__heading a {
-  -webkit-tap-highlight-color: transparent;
   color: #546E7A;
   font-size: 1.5em;
   font-weight: 500;
@@ -1604,6 +1603,14 @@ div.part.internetguru form div input {
 }
 #content .vsechny_clanky li {
   margin-left: 1.5em;
+}
+.vsechny_clanky .first-char {
+  list-style: none;
+  position: relative;
+  font-size: 2rem;
+  margin: 0 !important;
+  margin-left: 1rem !important;
+  color: #d8442a;
 }
 @media (min-width: 28em) {
   #content .vsechny_clanky {
