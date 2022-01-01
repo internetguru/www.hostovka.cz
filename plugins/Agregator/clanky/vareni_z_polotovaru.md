@@ -29,7 +29,7 @@ Kuchyňské techniky, kdysi založené na manuální zručnosti, se díky modern
 
 Cílem dnešního kuchařského umění je odborně, hygienicky a ekonomicky správně připravit jídlo, které je zdravé, chutné a atraktivní, a které si získá obdiv a uznání jeho konzumentů. Cesta k tomuto cíli je jen ve znalostech a schopnostech kuchaře.
 
-V mé definici dnešního kuchařského umění se sice vyloženě nezmiňuji o rychlosti nebo o čase, ale jasně je tam uvedena ekonomika. Ekonomika a čas při vaření si vyžádaly, že vaření je dnes rozděleno na přípravu a na dohotovení, případně na prezentaci jídel, což je v zásadě systém vaření z polotovarů.
+V definici kuchařského umění se sice vyloženě nezmiňuji o rychlosti nebo o čase, ale jasně je tam uvedena ekonomika. Vaření je dnes rozděleno na přípravu a na dohotovení, případně na prezentaci jídel. To je vlastně vaření z polotovarů.
 
 {id="priprava_polotovaru"}
 
@@ -43,7 +43,7 @@ To bylo v dobách, kdy se vůbec nevědělo o komerčně vyráběných polotovar
 
 ## Rychlost a plánování výroby
 
-Umění se nedá měřit rychlostí, ale není žádným tajemstvím, že rychlost je v přípravě jídel v dnešní době mnohdy tím základním požadavkem.
+Umění se nedá měřit rychlostí. Není ale žádným tajemstvím, že je rychlost v přípravě jídel v dnešní době mnohdy tím základním požadavkem.
 
 Základním požadavkem moderní gastronomie je totiž zkrátit dobu od vyrobení jídla do doby jeho konzumace na minimum. K tomu se technika vaření z polotovarů přímo nabízí.
 
@@ -61,7 +61,7 @@ Předem upravené _(konvenientní)_ potraviny si stále ještě nenašly cestu d
 
 Konvenitentní jsou například všechny polotovary, opracované potraviny a přípravky francouzsky zvané _appareils_. Také jsou to v poslední době i konzervovaná či zmrazená hotová jídla.
 
-Rozdíl je v tom, že kdysi jsme si všechny tyto přípravky a polotovary museli v kuchyni připravovat sami. Dnes jsou ale všechny tyto přípravky vyráběny ve velkém. Mnohdy jsou vyráběny levněji a lépe, než bychom si je mohli vyrobit doma sami.
+Dříve jsme si všechny tyto přípravky a polotovary museli v kuchyni připravovat sami. Dnes jsou ale všechny tyto přípravky vyráběny ve velkém. Mnohdy jsou vyráběny levněji a lépe, než bychom si je mohli vyrobit doma sami.
 
 Někteří kuchaři, ať již v domácích nebo v restauračních kuchyních, mají ke konvenientním potravinám a výrobkům neopodstatněnou nedůvěru. To je hlavně proto, že výhodu těchto výrobků ještě neobjevili a nevyzkoušeli.
 
