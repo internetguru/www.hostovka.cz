@@ -107,14 +107,6 @@ n/a
 
 Bez příbuzných dotazů
 
-{var="inputvar-feedback_h" id="feedback"}
-
-## n/a
-
-{var="inputvar-feedback_desc"}
-
-n/a
-
 {id="dalsi" var="inputvar-pribuzne_h"}
 
 ## n/a
