@@ -194,7 +194,7 @@
         feedbackElm = document.querySelector(Config.elmSelector)
         
         var part = getElm('div', '', 'part feedback')
-        wrapper = getElm("dl", '', 'feedback')
+        wrapper = getElm("dl")
         part.appendChild(wrapper)
         var dt = getElm("dt", "Líbil se Vám tento článek?", "card__heading")
         var dd = getElm("dd")
