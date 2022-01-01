@@ -192,8 +192,10 @@
       },
       init = function () {
         feedbackElm = document.querySelector(Config.elmSelector)
-
+        
+        var part = getElm('div', '', 'part feedback')
         wrapper = getElm("dl", '', 'feedback')
+        part.appendChild(wrapper)
         var dt = getElm("dt", "Líbil se Vám tento článek?", "card__heading")
         var dd = getElm("dd")
         wrapper.appendChild(dt)
@@ -206,7 +208,7 @@
         yesButton.addEventListener("click", processYes, false)
         noButton.addEventListener("click", processNo, false)
 
-        feedbackElm.parentNode.insertBefore(wrapper, feedbackElm)
+        feedbackElm.parentNode.insertBefore(part, feedbackElm)
 
         window.addEventListener("beforeunload", sendEvent, false)
       }
