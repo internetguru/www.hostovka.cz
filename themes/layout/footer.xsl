@@ -60,6 +60,11 @@
       <div id="footer">
         <xsl:value-of disable-output-escaping="yes" select="$globalmenu"/>
         <ul class="footer-menu">
+          <li class="footer-menu__item">
+            Sponzor webu: <a href="https://www.steakgrill.cz/">Restaurace STEAKGRILL</a>
+          </li>
+        </ul>
+        <ul class="footer-menu">
           <xsl:attribute name="lang">
             <xsl:value-of disable-output-escaping="yes" select="$cms-lang"/>
           </xsl:attribute>
@@ -100,11 +105,6 @@
             </xsl:choose>
           </li>
           <li class="print"><xsl:value-of select="$cms-uri"/></li>
-        </ul>
-        <ul class="footer-menu">
-          <li class="footer-menu__item">
-            Sponzor webu: Restaurace STEAKGRILL
-          </li>
         </ul>
       </div>
     </body>
