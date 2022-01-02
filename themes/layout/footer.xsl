@@ -61,7 +61,8 @@
         <xsl:value-of disable-output-escaping="yes" select="$globalmenu"/>
         <ul class="footer-menu">
           <li class="footer-menu__item sponzor">
-            Sponzor webu: <a href="https://www.steakgrill.cz/">restaurace STEAKGRILL</a> <a href="https://www.steakgrill.cz/"><img src="/files/sg.png" alt="Restaurace STEAKGRILL"/></a>
+            <a href="https://www.steakgrill.cz/"><img src="/files/sg.png" alt="Restaurace STEAKGRILL"/></a>
+            Sponzor webu: <a href="https://www.steakgrill.cz/">restaurace STEAKGRILL</a>
           </li>
         </ul>
         <ul class="footer-menu">
