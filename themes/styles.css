@@ -1600,6 +1600,7 @@ div.part.internetguru form div input {
   display: block;
   font-size: 2rem;
   margin-bottom: 1em;
+  font-weight: 500;
 }
 .feedback .card__heading {
   font-weight: normal;
