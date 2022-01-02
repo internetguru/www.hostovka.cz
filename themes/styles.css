@@ -112,7 +112,7 @@ h1 {
   margin-right: 0.75rem;
 }
 .part:not(.docinfo):not(.dalsi):not(.o_praleku):not(.clanky):not(.upozorneni) .list > ul:not(.button-list) > li:before {
-  content: "•";
+  content: "â€¢";
   font-size: 2.5em;
   line-height: 0;
   vertical-align: -0.5rem;
@@ -354,7 +354,7 @@ body:not(.admin) .copyable__close:hover {
   font-size: 1.25em;
 }
 .hdesc--top .list-wrapper--multiple li:before {
-  content: "●";
+  content: "â—";
   margin-right: 0.5em;
   color: #607D8B;
 }
@@ -510,7 +510,7 @@ body:not(.admin) .copyable__close:hover {
   padding: 2em 0 0 0;
 }
 .clanek .desc a.expand-button:before {
-  content: "──────────────────────";
+  content: "_________________________________";
   color: #BDBDBD;
   position: absolute;
   left: 0;
@@ -1574,7 +1574,7 @@ div.part.internetguru form div input {
   content: "+" !important;
 }
 .faq a.hideable-switch:before {
-  content: "−" !important;
+  content: "âˆ’" !important;
   color: #546E7A;
   font-size: 2em;
   font-weight: 600;
@@ -1593,6 +1593,44 @@ div.part.internetguru form div input {
 .faq__question,
 .faq__answer {
   margin-top: 1em;
+}
+/************************************/
+.feedback dl:before {
+  content: "Zpětná vazba";
+  display: block;
+  font-size: 2rem;
+  margin-bottom: 1em;
+}
+.feedback .card__heading {
+  font-weight: normal;
+}
+.feedback dt,
+.feedback dd {
+  margin: 1rem 0;
+}
+.feedback dd {
+  margin-left: 0;
+}
+.feedback .button {
+  margin: 1rem 1rem 0 0
+}
+.feedback-yes {	
+  --button--border-border: medium solid #4CAF50;	
+  --button--border-active-border: medium solid #4CAF50;	
+  --button--border-active-bg: #E8F5E9;	
+  --button-svg-color: #4CAF50;	
+  margin-right: var(--button-list-item-margin);	
+  margin-bottom: 0.25em;	
+}	
+.feedback-no {	
+  --button--border-border: medium solid #EF5350;	
+  --button--border-active-border: medium solid #EF5350;	
+  --button--border-active-bg: #FCE4EC;	
+  --button-svg-color: #EF5350;	
+}
+.feedback .step3 {
+  padding-left: 0;
+  font-size: 1.2em;
 }
 /************************************/
 #content .vsechny_clanky {
