@@ -62,11 +62,11 @@
         var question = " Co byste na článku změnili?"
         initStep2("no", question, "")        
       },
-      showHide = function (prevClass, curClass) {
+      showHide = function (prevClass) {
         wrapper.childNodes.forEach(function (child) {
           if (child.classList.contains(prevClass)) {
             child.style.display = ""
-          } else if (child.classList.contains(curClass)) {
+          } else {
             child.style.display = "none"
           }
         })
@@ -81,6 +81,7 @@
           beneficial
         )
         */
+        showHide("step2")
         if (!step2inited) {
           wrapper.childNodes.forEach(function (child) {
             child.style.display = "none"
@@ -119,7 +120,6 @@
           emailInputDescDd = getElm("dd", emailDesc)
           wrapper.appendChild(emailInputDescDd)
   
-          var donationText = "Pomohla by veřejná diskuze, osobní konzultace či jiné rozšíření Praléku?"
           var nextStepDt = getElm("dt", "Další krok")
           var nextStepDd = getElm("dd")
           var nextStepNext = getElm("button", "Odeslat", "feedback-yes button button--border")
@@ -150,7 +150,7 @@
           }, false)
           nextStepPrev.addEventListener("click", function () {
             action = this.innerHTML
-            showHide("step1", "step2")
+            showHide("step1")
           })
           nextStepSkip.addEventListener("click", function () {
             if (emailInput.value || questionInput.value) {
@@ -168,17 +168,14 @@
               child.classList.add("step2")
             }
           })
-          var thanks = getElm('p', 'Děkujeme za Vaši zpětnou vazbu', 'step3')
-          wrapper.appendChild(thanks)
           step2inited = true
           return
         }
-        showHide("step2", "step1")
         questionLabel.innerHTML = question
         emailInputDescDd.innerHTML = emailDesc
       },
       initStep3 = function () {
-        showHide("step3", "step2")
+        showHide("step3")
       },
       sendEvent = function () {
         if (beneficial === null) {
@@ -209,6 +206,10 @@
         noButton.addEventListener("click", processNo, false)
 
         feedbackElm.parentNode.insertBefore(part, feedbackElm)
+
+        var thanks = getElm('p', 'Děkujeme za Vaši zpětnou vazbu!', 'step3')
+        thanks.style.display = 'none'
+        wrapper.appendChild(thanks)
 
         window.addEventListener("beforeunload", sendEvent, false)
       }
