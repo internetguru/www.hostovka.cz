@@ -87,7 +87,11 @@
             child.style.display = "none"
             child.classList.add("step1")
           })
-  
+          
+          var thanks = getElm('p', 'Děkujeme za Vaši zpětnou vazbu!', 'step3')
+          thanks.style.display = 'none'
+          wrapper.appendChild(thanks)
+          
           var questionDt = getElm("dt")
           questionLabel = getElm("label", question)
           var questionInputDd = getElm("dd")
@@ -206,11 +210,6 @@
         noButton.addEventListener("click", processNo, false)
 
         feedbackElm.parentNode.insertBefore(part, feedbackElm)
-
-        var thanks = getElm('p', 'Děkujeme za Vaši zpětnou vazbu!', 'step3')
-        thanks.style.display = 'none'
-        wrapper.appendChild(thanks)
-
         window.addEventListener("beforeunload", sendEvent, false)
       }
 
