@@ -1,5 +1,5 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz"}
+{xml:lang="cs" ns="https://www.hostovka.cz" data-image="/files/preview/seznam.jpg"}
 
 {id="gdpr" short="Ochrana soukromí" author="Internet Guru" ctime="2022-01-03T18:55:02+01:00"}
 
