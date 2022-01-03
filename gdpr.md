@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz"}
 
-{id="soukromi" short="Ochrana soukromí" author="Internet Guru" ctime="2022-01-03T18:55:02+01:00"}
+{id="gdpr" short="Ochrana soukromí" author="Internet Guru" ctime="2022-01-03T18:55:02+01:00"}
 
 # Podmínky ochrany osobních údajů
 
