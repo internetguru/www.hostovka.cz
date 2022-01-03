@@ -66,6 +66,9 @@
           </li>
         </ul>
         <ul class="footer-menu">
+          <li class="footer-menu__item"><a href="gdpr">Podmínky ochrany osobních údajů (GDPR)</a></li>
+        </ul>
+        <ul class="footer-menu">
           <xsl:attribute name="lang">
             <xsl:value-of disable-output-escaping="yes" select="$cms-lang"/>
           </xsl:attribute>
