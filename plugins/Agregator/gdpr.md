@@ -14,7 +14,7 @@ n/a
 n/a
 
   1. Správcem osobních údajů podle čl. 4 bod 7 nařízení Evropského parlamentu a Rady (EU) 2016/679 o ochraně fyzických osob v souvislosti se zpracováním osobních údajů a o volném pohybu těchto údajů (dále jen GDPR) je STEAKGRILL s.r.o., IČ 08311901 se sídlem Račiněves 189, 413 01 (dále jen Správce).
-  2. Kontaktní údaje Správce jsou honzajk@steakgrill.cz
+  2. Kontaktní údaje Správce jsou restaurace@steakgrill.cz
   3. Osobními údaji se rozumí veškeré informace o identifikované nebo identifikovatelné fyzické osobě; identifikovatelnou fyzickou osobou je fyzická osoba, kterou lze přímo či nepřímo identifikovat, zejména odkazem na určitý identifikátor, například jméno, identifikační číslo, lokační údaje, síťový identifikátor nebo na jeden či více zvláštních prvků fyzické, fyziologické, genetické, psychické, ekonomické, kulturní nebo společenské identity této fyzické osoby.
   4. Správce nejmenoval pověřence pro ochranu osobních údajů.
 
