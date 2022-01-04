@@ -179,6 +179,18 @@ Servírující musí mít na paměti, že ani častí návštěvníci restaurac�
 
 Kolem toho šatobriándu a těch ostatních steaků z hovězího masa je toho o mnoho více, ale já jsem vám jako studentům Hostovky toho napsal jen tolik abyste si udělali představy co byste za vaše peníze mohli dostat.
 
+{var="inputvar-faq_h" id="dotazy"}
+
+## n/a
+
+{var="inputvar-faq_desc"}
+
+n/a
+
+{var="inputvar-faqs@var"}
+
+Bez příbuzných dotazů
+
 {id="dalsi" var="inputvar-pribuzne_h"}
 
 ## n/a

@@ -1,5 +1,5 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=315.html" data-image="/files/preview/clanky/polevky/general.jpg" data-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=315.html" data-image="/files/preview/clanky/druhy_polevek/general.jpg" data-type="article"}
 
 {ctime="2008-05-01" mtime="2019-10-16" data-top="959" id="druhy_polevek" author="Michael Klíma" short="Druhy polévek"}
 
@@ -90,6 +90,18 @@ Většina ramen nudlí se dělá z obilné mouky, soli, vody a kansui, což je d
 _Soupwich {xml:lang="en"}_ je jedno z mála typicky amerických jídel. Je to kombinace sendviče a polévky, ve většině případů podává jako hlavní jídlo, a to zejména v poledne.
 
 Mnoho lidí si v poledne objedná buď jen polévku anebo sendvič. Jednou ale přišel někdo s nápadem nabízet kombinací polévky a vybraných sendvičů za zvýhodněnou cenu. To se velmi rychle ujalo, takže tuto kombinaci nabízí většina restaurací ve městech v místech kancelářských budov.
+
+{var="inputvar-faq_h" id="dotazy"}
+
+## n/a
+
+{var="inputvar-faq_desc"}
+
+n/a
+
+{var="inputvar-faqs@var"}
+
+Bez příbuzných dotazů
 
 {id="dalsi" var="inputvar-pribuzne_h"}
 

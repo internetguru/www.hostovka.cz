@@ -1,5 +1,5 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=315.html" data-image="/files/preview/clanky/polevky/general.jpg" data-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=315.html" data-image="/files/preview/clanky/chowder/general.jpg" data-type="article"}
 
 {ctime="2008-05-01" mtime="2019-10-16" id="chowder" author="Michael Klíma" short="Chowdery"}
 
@@ -62,6 +62,18 @@ V Americe, což vám asi bude připadat neuvěřitelné, se zbytky jídel nevyha
 Druhý den se zbytky zahřejí na předepsanou teplotu a dají se do výdejní linky jako specialita za sníženou cenu. Menší zbytky ryb se uloží do mrazáku, někdy až do dalšího pátku, kdy se přidávají do rybích polévek.
 
 Přišel jsem s nápadem nashromáždit denní zbytky ryb, na kterých nebylo nic špatného a v pátek z nich udělat krémovou rybí polévku. Aby se lépe prodávala navrhoval jsem jí nazvat jako chowder. Chowder Klíma by asi moc neupoutal, a tak jsme ho nazvali podle jména komplexu jako _Hartford Fisherman's Chowder {xml:lang="en"}_.
+
+{var="inputvar-faq_h" id="dotazy"}
+
+## n/a
+
+{var="inputvar-faq_desc"}
+
+n/a
+
+{var="inputvar-faqs@var"}
+
+Bez příbuzných dotazů
 
 {id="dalsi" var="inputvar-pribuzne_h"}
 

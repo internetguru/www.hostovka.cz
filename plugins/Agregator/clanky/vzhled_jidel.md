@@ -1,5 +1,5 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=346.html" data-image="/files/preview/clanky/prezentace_jidel/general.jpg" data-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=346.html" data-image="/files/preview/clanky/vzhled_jidel/general.jpg" data-type="article"}
 
 {ctime="2007-05-05" mtime="2007-05-05" id="vzhled\_jidel" author="Michael Klíma" short="Vzhled Jídel" authorid="hostovka/michael\_klima"}
 
@@ -170,6 +170,18 @@ Velikost talířů je různá podle toho zda se na nich podává předkrm, hlavn
 Zkuste však stejné množství salátu podávat na vychlazeném velkém talíři a budete překvapení, že vizuálně nejenom, že ta porce bude vypadat větší, ale bude i estetičtější.
 
 Toto je ale jen malá ukázka toho jak je možno presentaci jídel zjednodušit.
+
+{var="inputvar-faq_h" id="dotazy"}
+
+## n/a
+
+{var="inputvar-faq_desc"}
+
+n/a
+
+{var="inputvar-faqs@var"}
+
+Bez příbuzných dotazů
 
 {id="dalsi" var="inputvar-pribuzne_h"}
 

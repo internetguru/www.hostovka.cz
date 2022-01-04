@@ -21,6 +21,18 @@ Nevýhody: Někteří hosté, a to ne jenom v Česku, pokud je něco zadarmo pro
 
 V Americe, pokud takový host v podnapilosti způsobí nějakou škodu, případně zaviní nějaké neštěstí, může odpovědnost nést ten kdo ho do takového stavu přivedl, což by byl hostitel a proto někteří hostitelé, přesto, že by si výdaje s cash bar mohli dovoloit, dávají přednost podávání lihovin formou cash bar při kterémžto způsobu ta konzumace lihovin je kontrolována alespoň jejich cenou. _What a country! {xml:lang="en"}_
 
+{var="inputvar-faq_h" id="dotazy"}
+
+## n/a
+
+{var="inputvar-faq_desc"}
+
+n/a
+
+{var="inputvar-faqs@var"}
+
+Bez příbuzných dotazů
+
 {id="dalsi" var="inputvar-pribuzne_h"}
 
 ## n/a

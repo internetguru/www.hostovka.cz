@@ -103,6 +103,18 @@ Jedno vám ale mohu říci, ať se Češi učili ten catering od kohokoliv, tak 
 
 To ale na stránkách Hostovky nevyřešíme.
 
+{var="inputvar-faq_h" id="dotazy"}
+
+## n/a
+
+{var="inputvar-faq_desc"}
+
+n/a
+
+{var="inputvar-faqs@var"}
+
+Bez příbuzných dotazů
+
 {id="dalsi" var="inputvar-pribuzne_h"}
 
 ## n/a

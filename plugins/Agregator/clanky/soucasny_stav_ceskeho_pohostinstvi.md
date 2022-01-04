@@ -93,6 +93,18 @@ Dobré ráno.
 
 Čechům originální italský recept a s pomocí maggi a sojovky z něj hrdě uděláme vězeňskou šlichtu.
 
+{var="inputvar-faq_h" id="dotazy"}
+
+## n/a
+
+{var="inputvar-faq_desc"}
+
+n/a
+
+{var="inputvar-faqs@var"}
+
+Bez příbuzných dotazů
+
 {id="dalsi" var="inputvar-pribuzne_h"}
 
 ## n/a

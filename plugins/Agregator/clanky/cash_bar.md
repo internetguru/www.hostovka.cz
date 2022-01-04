@@ -15,6 +15,18 @@ _Cash bar {xml:lang="en"}_ je v zásadě opak výrazu _[open bar][1] {xml:lang="
 
 V Americe, jak asi víte, soudí každý každého při sebemenší příležitosti. V případě, že se někdo opije a způsobí škodu nebo neštěstí, tak zodpovědnost nese ten, kdo ho do takového stavu přivedl. V případě _[open bar][1] {xml:lang="en"}_ je jasné, že zodpovědnost nese hostitel, a proto se s ním v Americe již tak často nesetkáte. 
 
+{var="inputvar-faq_h" id="dotazy"}
+
+## n/a
+
+{var="inputvar-faq_desc"}
+
+n/a
+
+{var="inputvar-faqs@var"}
+
+Bez příbuzných dotazů
+
 {id="dalsi" var="inputvar-pribuzne_h"}
 
 ## n/a

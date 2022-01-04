@@ -1,5 +1,5 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=315.html" data-image="/files/preview/clanky/polevky/general.jpg" data-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=315.html" data-image="/files/preview/clanky/studene_polevky/general.jpg" data-type="article"}
 
 {ctime="2008-05-01" mtime="2019-10-16" id="studene_polevky" author="Michael Klíma" short="Studené polévky"}
 
@@ -48,6 +48,18 @@ Je to jednoduchá polévka z vařeného pórku a brambor, která se ve francouzs
 Pokud jste byli v Řecku a neochutnali jste řecké [citróny][2] nebo polévku avgolemono, tak toho o Řecku moc nevíte. Citróny se v řecké kuchyni přidávají do všeho a polévka není výjimkou.
 
 Polévka avgolemono, je tak jednoduchá, že vám zde ani nebudu uvádět recept. Je to silný hovězí nebo drůbeží vývar, do kterého jsou přešlehány žloutky s citrónovou šťávou. Tato polévka je tak populární, že se objevuje na jídelních lístcích mnoha mezinárodních restaurací. Podává se horká, ale v létě i studená.
+
+{var="inputvar-faq_h" id="dotazy"}
+
+## n/a
+
+{var="inputvar-faq_desc"}
+
+n/a
+
+{var="inputvar-faqs@var"}
+
+Bez příbuzných dotazů
 
 {id="dalsi" var="inputvar-pribuzne_h"}
 
