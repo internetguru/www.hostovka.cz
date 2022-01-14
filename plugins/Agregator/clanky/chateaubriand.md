@@ -32,7 +32,7 @@ Recept na chateaubriand vám na těchto stránkách dát nemohu, ale jako studen
 
 Steak se připravuje ze střední části pravé svíčkové anglicky zvané _beef tenderloin {xml:lang="en"}_ o váze nejméně 400 gramů (dvojité filé). Tím pádem je jídlo poměrně drahé. Zruční kuchaři jsou schopni z celé svíčkové udělat dvě nebo i více porcí. Ještě větší umění je však tyto steaky prodat.
 
-Jeho cena je však relativní, protože se připravuje nejméně pro 2 osoby a v ceně je zahrnuty všechny přílohy a celý showmanship podávání tohoto pokrmu který. Ten, pokud je správně prezentovaný, je nezapomenutelným gastronomickým zážitkem. Přesto ale v mnoha restauracích, včetně těch rádoby francouzských je prezentace mnohdy pod úroveň a pan <a>Montmireil {var="definition-montmireil"}</a> se určitě obrací v hrobě.
+Jeho cena je však relativní, protože se připravuje nejméně pro 2 osoby. V ceně jsou zahrnuty všechny přílohy a showmanství při podávání tohoto pokrmu. Pokud je steak správně prezentovaný, je nezapomenutelným gastronomickým zážitkem. Přesto je v mnoha restauracích, včetně těch rádoby francouzských, prezentace mnohdy pod úroveň a pan <a>Montmireil {var="definition-montmireil"}</a> se určitě obrací v hrobě.
 
 {class="figure"}
 
