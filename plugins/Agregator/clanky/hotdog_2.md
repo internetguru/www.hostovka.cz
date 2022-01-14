@@ -257,6 +257,18 @@ Popis hospodaření toho studenta s tím stekhousem vám tady popisovat nebudu, 
 
 Já vím, že vy jako studenti Hostovky nemáte v úmyslu v pohostinství podnikat, ale pokud byste si mně najali jako konzultanta, tak něco takového jako hot dog stand, pokud by to nebylo na takovém místě jako je například Václavák, bych vám za pár šupů stejně asi rozmluvil.
 
+{var="inputvar-faq_h" id="dotazy"}
+
+## n/a
+
+{var="inputvar-faq_desc"}
+
+n/a
+
+{var="inputvar-faqs@var"}
+
+Bez příbuzných dotazů
+
 {id="dalsi" var="inputvar-pribuzne_h"}
 
 ## n/a

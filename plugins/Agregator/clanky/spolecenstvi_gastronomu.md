@@ -1,5 +1,5 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=61.html" data-image="/files/preview/clanky/gastonomie/general.jpg" data-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=61.html" data-image="/files/preview/clanky/spolecenstvi_gastronomu/general.jpg" data-type="article"}
 
 {ctime="2005-08-11" mtime="2020-01-05" id="spolecenstvi_gastronomu" author="Michael Klíma"}
 
@@ -30,6 +30,18 @@ Tehdy bylo znovu oficiálně ustanoveno společenství _Chaîne des Rôtisseurs 
 Dnes je společenství _Chaîne des Rôtisseurs {xml:lang="fr"}_ nejstarší a největší [gastronomickou][1] organizací na světě. Více než 80.000 osob se každoročně zúčastňuje aktivit této organizace, z čehož je 7.000 členů v Americe. Hlavní štáb tohoto řetězce sídlí v Paříži. V Americe má tento řetězec přibližně 140 poboček a celonárodní kancelář je v Novém Yorku.
 
 Řetězec _Chaîne des Rôtisseurs {xml:lang="fr"}_ se od ostatních organizací odlišuje důrazem na vyrovnané členství amatéru a profesionálů v hotelovém a restauračním průmyslu dodávajících potraviny, víno a zařízení. Dále se odlišuje vyrovnaným členstvím odborníků v obsluze, instruktorů, autorů kuchařských a odborných knížek, stejně tak jako amatérů a sofistikovaných návštěvníků restaurací (hostů), kteří nalézají uspokojení v dobrém jídle, pití a dobré společnosti.
+
+{var="inputvar-faq_h" id="dotazy"}
+
+## n/a
+
+{var="inputvar-faq_desc"}
+
+n/a
+
+{var="inputvar-faqs@var"}
+
+Bez příbuzných dotazů
 
 {id="dalsi" var="inputvar-pribuzne_h"}
 

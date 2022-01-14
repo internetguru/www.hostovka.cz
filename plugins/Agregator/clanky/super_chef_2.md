@@ -35,6 +35,18 @@ A co ten další porotce, náš největší gastronomický odborník pan Roman V
 
 No takto bych mohl pokračovat do nekonečna, což mě ale již tak trochu unavuje a tak si ještě počkám na to, kdo vyhraje ten milion a titul Super šéf, protože ten se určitě bude o své odborné vědomosti podílet.
 
+{var="inputvar-faq_h" id="dotazy"}
+
+## n/a
+
+{var="inputvar-faq_desc"}
+
+n/a
+
+{var="inputvar-faqs@var"}
+
+Bez příbuzných dotazů
+
 {id="dalsi" var="inputvar-pribuzne_h"}
 
 ## n/a

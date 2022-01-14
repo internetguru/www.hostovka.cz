@@ -3,13 +3,16 @@
   <jsFile id="js10" append="body" priority="2" async="false">themes/igcms.js</jsFile>
   
   <jsFile append="body">themes/article-bg.js</jsFile>
+  <jsFile append="body">themes/feedback.js</jsFile>
   <jsFile append="body">themes/expand.js</jsFile>
   <jsFile append="body">themes/components/completable-init.js</jsFile>
   <jsFile append="body">themes/moreable.js</jsFile>
   <jsFile append="body">themes/moreableinit.js</jsFile>
   <jsFile append="body">themes/print.js</jsFile>
   <jsFile append="body">themes/fa-subset.js</jsFile>
-  
+  <jsFile append="body" >themes/fa-subset.js</jsFile>
+  <jsFile append="body" if-xpath="//body[contains(@data-link, '/seznam_clanku')]">themes/char.js</jsFile>
+
   <xslt>themes/hostovka.xsl</xslt>
   <xslt>themes/hostovka2.xsl</xslt>
   <xslt>themes/ad.xsl</xslt>

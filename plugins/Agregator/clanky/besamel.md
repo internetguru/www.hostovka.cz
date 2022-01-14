@@ -95,6 +95,18 @@ Příprava omáčky je jednoduchá:
 
 Kdysi bylo běžné omáčku mornay zjemňovat žloutkem a smetanou _(anglicky liaison)_. Omáčka byla sice jemnější, ale měla nesmírné množství kalorií. Dnes už se od této praxe upouští.
 
+{var="inputvar-faq_h" id="dotazy"}
+
+## n/a
+
+{var="inputvar-faq_desc"}
+
+n/a
+
+{var="inputvar-faqs@var"}
+
+Bez příbuzných dotazů
+
 {id="dalsi" var="inputvar-pribuzne_h"}
 
 ## n/a

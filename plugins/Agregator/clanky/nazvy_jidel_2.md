@@ -111,6 +111,18 @@ Toto vám vážení studenti při vašich cestách do zahraničí doufám pomů�
 
 Steaků je nekonečná řada, ale při svých cestách do zahraničí se přesvědčíte, že oproti Česku nebo Slovensku, kde ještě donedávna mnoho lidí vůbec nevědělo co pravý steak vlastně je, a kde teď nevědí co by s těmi staky dělali, jsou všechny dělány velice jednosuše podle jakýchsi nepsaných zákonů.
 
+{var="inputvar-faq_h" id="dotazy"}
+
+## n/a
+
+{var="inputvar-faq_desc"}
+
+n/a
+
+{var="inputvar-faqs@var"}
+
+Bez příbuzných dotazů
+
 {id="dalsi" var="inputvar-pribuzne_h"}
 
 ## n/a

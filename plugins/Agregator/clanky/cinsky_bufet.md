@@ -1,5 +1,5 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=294.html" data-image="/files/preview/clanky/bufet/general.jpg" data-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=294.html" data-image="/files/preview/clanky/cinsky_bufet/general.jpg" data-type="article"}
 
 {ctime="2008-03-04" mtime="2020-01-05" id="cinsky_bufet" author="Michael Klíma" short="Čínský bufet"}
 
@@ -54,6 +54,18 @@ Můj největší kompliment restauraci je, když jim slíbím, že se k nim rád
 Musím také říci, že politika této restaurace je v plném souladu s mou teorií nabídnout hostům to, co chtějí, a to v takovém výběru, že obrazně řečeno nevědí, co si vybrat dříve. A hlavně za cenu, která takovému množství a kvalitě odpovídá.
 
 Zajímalo by mě ale, kolik by takový bufet stál v kterémkoliv městě v Čechách. Téměř všechny suroviny, které jsem na tom bufetu viděl, jsou dnes v Čechách již běžně k dostání. Čínská kuchyně dnes už také není nic, co by naši kuchaři neuměli připravit. Největší problém by asi byl potřebný počet hostů.
+
+{var="inputvar-faq_h" id="dotazy"}
+
+## n/a
+
+{var="inputvar-faq_desc"}
+
+n/a
+
+{var="inputvar-faqs@var"}
+
+Bez příbuzných dotazů
 
 {id="dalsi" var="inputvar-pribuzne_h"}
 

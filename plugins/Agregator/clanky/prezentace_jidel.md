@@ -101,6 +101,18 @@ Dnes to ale nejsou jen talíře, na kterých se jídla podávají. I když to hy
 
 Hygieničtější a atraktivnější podávání jídel než na dřevěných prkénkách je na litinových pánvičkách (anglicky zvaných _cast iron {xml:lang="en"}_ nebo _sizzler plates {xml:lang="en"}_). Když se takové jídlo podává na stůl, tak stále ještě syčí a prská. Tím získává atraktivní vizuální vjem, který je doplněn vůní.
 
+{var="inputvar-faq_h" id="dotazy"}
+
+## n/a
+
+{var="inputvar-faq_desc"}
+
+n/a
+
+{var="inputvar-faqs@var"}
+
+Bez příbuzných dotazů
+
 {id="dalsi" var="inputvar-pribuzne_h"}
 
 ## n/a

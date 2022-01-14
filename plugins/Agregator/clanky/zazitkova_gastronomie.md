@@ -1,5 +1,5 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=61.html" data-image="/files/preview/clanky/gastonomie/general.jpg" data-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=61.html" data-image="/files/preview/clanky/zazitkova_gastronomie/general.jpg" data-type="article"}
 
 {ctime="2005-08-11" mtime="2020-01-05" id="zazitkova_gastronomie" author="Michael Klíma"}
 
@@ -36,6 +36,18 @@ Někdo je ochoten za zážitek z jídla dát „poslední korunu“ (nebo dolar)
 Je dokázáno, že někteří hobby kuchaři ve svých teoretických znalostech o mezinárodní gastronomii předčí mnohé odborníky z povolání. Je to z jednoduchého důvodu a sice, že si ve většině případů mohou dovolit navštěvovat více restaurací než lidé, kteří v nich pracují.
 
 Na západě návštěva některých luxusních restaurací stojí $100 na osobu a více. V některých případech k tomu musíte přičíst riziko, že zážitek nebude odpovídat ceně.
+
+{var="inputvar-faq_h" id="dotazy"}
+
+## n/a
+
+{var="inputvar-faq_desc"}
+
+n/a
+
+{var="inputvar-faqs@var"}
+
+Bez příbuzných dotazů
 
 {id="dalsi" var="inputvar-pribuzne_h"}
 

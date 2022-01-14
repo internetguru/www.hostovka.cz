@@ -1,5 +1,5 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=315.html" data-image="/files/preview/clanky/polevky/general.jpg" data-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=315.html" data-image="/files/preview/clanky/podavani_polevek/general.jpg" data-type="article"}
 
 {ctime="2008-05-01" mtime="2019-10-16" data-top="985" id="podavani_polevek" author="Michael Klíma" short="Podávání polévek"}
 
@@ -32,6 +32,18 @@ Polévkovým talířům se anglicky říká _soup bowl {xml:lang="en"}_. Polévk
 V restauracích někdejší IV. cenové skupiny nebo v takzvaných lidovkách se tyto talíře zakládaly (nebo ještě zakládají) na stůl spolu s papírovým ubrouskem, vidličkou, nožem a polévkovou lžicí. V lepších restauracích se z hygienických důvodů tyto talíře zakládají na stůl až těsně před podáváním polévky nebo polévkou již naplněné.
 
 Mimo polévkových talířů mají některé „servisy“ takzvané polévkové teriny, z kterých si každý host může polévku nabrat sám. Podávání polévky z teriny v restauraci má svá specifika, která jsou zpravidla popsána v manuálech servisu.
+
+{var="inputvar-faq_h" id="dotazy"}
+
+## n/a
+
+{var="inputvar-faq_desc"}
+
+n/a
+
+{var="inputvar-faqs@var"}
+
+Bez příbuzných dotazů
 
 {id="dalsi" var="inputvar-pribuzne_h"}
 

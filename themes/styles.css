@@ -29,7 +29,7 @@
   --font-family: Roboto, sans-serif;
   --footer-bg: #f5f5f5;
   --footer-color: 0, 0, 0;
-  --footer-padding: 3em 0;
+  --footer-padding: 1em 0 3em 0;
 }
 .button--border,
 .button--simple {
@@ -112,7 +112,7 @@ h1 {
   margin-right: 0.75rem;
 }
 .part:not(.docinfo):not(.dalsi):not(.o_praleku):not(.clanky):not(.upozorneni) .list > ul:not(.button-list) > li:before {
-  content: "•";
+  content: "â€¢";
   font-size: 2.5em;
   line-height: 0;
   vertical-align: -0.5rem;
@@ -354,7 +354,7 @@ body:not(.admin) .copyable__close:hover {
   font-size: 1.25em;
 }
 .hdesc--top .list-wrapper--multiple li:before {
-  content: "●";
+  content: "â—";
   margin-right: 0.5em;
   color: #607D8B;
 }
@@ -510,7 +510,7 @@ body:not(.admin) .copyable__close:hover {
   padding: 2em 0 0 0;
 }
 .clanek .desc a.expand-button:before {
-  content: "──────────────────────";
+  content: "_________________________________";
   color: #BDBDBD;
   position: absolute;
   left: 0;
@@ -1449,6 +1449,20 @@ li {
 .footer-menu__item--service svg {
   top: -0.05em;
 }
+#footer .footer-menu__item.sponzor {
+  display: block;
+  margin-bottom: 2rem;
+}
+#footer .footer-menu__item.sponzor a:first-child {
+  border: none;
+  display: block;
+  margin: 0 auto 1rem auto;
+  width: 10rem !important;
+  max-width: 100%;
+}
+#footer .footer-menu__item.sponzor .imgwrap {
+  background: none;
+}
 /************************************/
 .fa-symbol {
   width: 1em;
@@ -1574,7 +1588,7 @@ div.part.internetguru form div input {
   content: "+" !important;
 }
 .faq a.hideable-switch:before {
-  content: "−" !important;
+  content: "âˆ’" !important;
   color: #546E7A;
   font-size: 2em;
   font-weight: 600;
@@ -1585,7 +1599,6 @@ div.part.internetguru form div input {
   margin-left: 0;
 }
 .faq__heading a {
-  -webkit-tap-highlight-color: transparent;
   color: #546E7A;
   font-size: 1.5em;
   font-weight: 500;
@@ -1596,14 +1609,73 @@ div.part.internetguru form div input {
   margin-top: 1em;
 }
 /************************************/
+.feedback dl:before {
+  content: "Zpětná vazba";
+  display: block;
+  font-size: 2rem;
+  margin-bottom: 1em;
+  font-weight: 500;
+}
+.feedback .card__heading {
+  font-weight: normal;
+}
+.feedback dt,
+.feedback dd {
+  margin: 1rem 0;
+}
+.feedback dd {
+  margin-left: 0;
+}
+.feedback .button {
+  margin: 1rem 1rem 0 0
+}
+.feedback-yes {	
+  --button--border-border: medium solid #4CAF50;	
+  --button--border-active-border: medium solid #4CAF50;	
+  --button--border-active-bg: #E8F5E9;	
+  --button-svg-color: #4CAF50;	
+  margin-right: var(--button-list-item-margin);	
+  margin-bottom: 0.25em;	
+}	
+.feedback-no {	
+  --button--border-border: medium solid #EF5350;	
+  --button--border-active-border: medium solid #EF5350;	
+  --button--border-active-bg: #FCE4EC;	
+  --button-svg-color: #EF5350;	
+}
+.feedback .step3 {
+  padding-left: 0;
+  font-size: 1.2em;
+}
+/************************************/
 #content .vsechny_clanky {
   list-style: circle;
+  max-width: 60em !important;
 }
 #content .vsechny_clanky li:before {
   display: none;
 }
 #content .vsechny_clanky li {
   margin-left: 1.5em;
+}
+.chars {
+  width: 100%;
+  max-width: 60em !important;
+  text-align: center;
+  margin: 1rem 0;
+  padding: 1rem 0;
+}
+.chars > * {
+  margin: 0.25rem;
+  padding: 0 0.25rem;
+}
+.first-char {
+  list-style: none;
+  position: relative;
+  font-size: 2rem;
+  margin: 0 !important;
+  margin-left: 1rem !important;
+  color: #d8442a;
 }
 @media (min-width: 28em) {
   #content .vsechny_clanky {

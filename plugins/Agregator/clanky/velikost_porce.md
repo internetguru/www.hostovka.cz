@@ -1,5 +1,5 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=171.html" data-image="/files/preview/clanky/tvorba_cen/general.jpg" data-type="article" data-top="5"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=171.html" data-image="/files/preview/clanky/velikost_porce/general.jpg" data-type="article" data-top="5"}
 
 {ctime="2006-09-02" mtime="2019-03-11" data-top="998" id="velikost_porce" author="Michael Klíma" short="Velikost porce"}
 
@@ -108,6 +108,18 @@ Vařená rýže, těstoviny, knedlíky (jako příloha)
 {class="example"}
 
 V případě, že si host objedná k jídlu dva druhy zeleniny nebo například dva druhy knedlíků, podáváme dvě poloviční porce. Váhy porcí upravujeme podle místních zvyklostí a nesmíme se bát vybočit ze stereotypu stogramových až třistagramových porcí, a začít podávat některé pokrmy ve váze 170, nebo 220 g apod.
+
+{var="inputvar-faq_h" id="dotazy"}
+
+## n/a
+
+{var="inputvar-faq_desc"}
+
+n/a
+
+{var="inputvar-faqs@var"}
+
+Bez příbuzných dotazů
 
 {id="dalsi" var="inputvar-pribuzne_h"}
 
