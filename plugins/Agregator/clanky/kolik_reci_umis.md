@@ -3,181 +3,179 @@
 
 {ctime="2006-12-03" mtime="2006-12-03" id="kolik\_reci\_umis" author="Michael Klíma" short="Kolik řečí umíš" authorid="hostovka/michael_klima"}
 
-# Kolik řečí umíš
-
-<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
+# Kolik řečí umíš 
 
 {kw="ubytování"}
 
-Pokud čtete některé mé příspěvky do různých web stránek, tak jste se asi povšimli, že v mnoha případech používám cizí, většinou odborné výrazy.
+Pokud čtete některé mé příspěvky do různých web stránek, tak jste se asi povšimli, že v mnoha případech používám cizí, většinou odborné výrazy. 
 
-Na těch 200 nebo možná již 300 odborných a hotelových školách se dnes angličtina již učí, takže za několik let bude každý restaurační či hotelový zaměstnanec mluvit anglicky jako když bičem mrská, ale hosté budou po nějaký čas ještě handicapováni.
+Na těch 200 nebo možná již 300 odborných a hotelových školách se dnes angličtina již učí, takže za několik let bude každý restaurační či hotelový zaměstnanec mluvit anglicky jako když bičem mrská, ale hosté budou po nějaký čas ještě handicapováni. 
 
-Přikládám vám něco pro pobavení. Je to v angličtině protože do češtiny se to přeložit nedá, ztratilo by to totiž také na snaze poukázat na to, jak je v pohostinství znalost angličtiny důležitá jak u zaměstnanců tak i u hostů.
+Přikládám vám něco pro pobavení. Je to v angličtině protože do češtiny se to přeložit nedá, ztratilo by to totiž také na snaze poukázat na to, jak je v pohostinství znalost angličtiny důležitá jak u zaměstnanců tak i u hostů. 
 
-Here are some signs and notices written in English that were discovered throughout the world.
+Here are some signs and notices written in English that were discovered throughout the world. 
 
-In a Tokyo hotel:
+In a Tokyo hotel: 
 
-Is forbidden to steal hotel towels please. If you are not a person to do such thing is please not to read this notis.
+Is forbidden to steal hotel towels please. If you are not a person to do such thing is please not to read this notis. 
 
-In a Bucharest hotel lobby:
+In a Bucharest hotel lobby: 
 
-The lift is being fixed for teh next day. During that time we regret that you will be unbearable.
+The lift is being fixed for teh next day. During that time we regret that you will be unbearable. 
 
-In a Leipzig hotel elevator:
+In a Leipzig hotel elevator: 
 
-Do not enter the lift backwards, and only when lit up.
+Do not enter the lift backwards, and only when lit up. 
 
-In a Belgrade hotel elevator:
+In a Belgrade hotel elevator: 
 
-To move the cabin, push button for wishing floor. If the cabin should enter more persons, each one should press a number of wishing floor. Driving is then going alphabetically by national order.
+To move the cabin, push button for wishing floor. If the cabin should enter more persons, each one should press a number of wishing floor. Driving is then going alphabetically by national order. 
 
-In a Paris hotel elevator:
+In a Paris hotel elevator: 
 
-Please leave your values at the front desk.
+Please leave your values at the front desk. 
 
-In a hotel in Athens:
+In a hotel in Athens: 
 
-Visitors are expected to complain at the office between the hours of 9 and 11 a.m. daily.
+Visitors are expected to complain at the office between the hours of 9 and 11 a.m. daily. 
 
-In a Yugoslavian hotel:
+In a Yugoslavian hotel: 
 
-The flattering of underwear with pleasure is the job of the chambermaid.
+The flattering of underwear with pleasure is the job of the chambermaid. 
 
-In the lobby of a Moscow hotel across from a Russian Orthodox monastery:
+In the lobby of a Moscow hotel across from a Russian Orthodox monastery: 
 
-You are welcome to visit the cemetery where famous Russian and Soviet composers, artists and writers are burryed daily except Thursday.
+You are welcome to visit the cemetery where famous Russian and Soviet composers, artists and writers are burryed daily except Thursday. 
 
-In an Austrian hotel catering to skiers:
+In an Austrian hotel catering to skiers: 
 
-Not to parambulate the corridors in the hoursk of repose in the boots of ascension.
+Not to parambulate the corridors in the hoursk of repose in the boots of ascension. 
 
-On the menu of a Swss restaurant:
+On the menu of a Swss restaurant: 
 
-Our wines leave you nothing to hope for.
+Our wines leave you nothing to hope for. 
 
-On the menu of a Polish hotel:
+On the menu of a Polish hotel: 
 
-Salad a firm?s own make; limpid red beet soup with cheesy dumplings in the form of finger; rosted duck let loose; beef rashers beaten up in the country people?s fashion.
+Salad a firm?s own make; limpid red beet soup with cheesy dumplings in the form of finger; rosted duck let loose; beef rashers beaten up in the country people?s fashion. 
 
-Outside a Hong Kong tailor shop:
+Outside a Hong Kong tailor shop: 
 
-Ladies may have a fit upstairs.
+Ladies may have a fit upstairs. 
 
-In Bangkok dry cleaner?s:
+In Bangkok dry cleaner?s: 
 
-Drop your trousers here for best results.
+Drop your trousers here for best results. 
 
-In a Prague dry cleaner?s:
+In a Prague dry cleaner?s: 
 
-Ladies, please lift your skirts by noon.
+Ladies, please lift your skirts by noon. 
 
-Outside a Paris dress shop:
+Outside a Paris dress shop: 
 
-Dresses for street walking.
+Dresses for street walking. 
 
-In a Rhodes tailor shop:
+In a Rhodes tailor shop: 
 
-Order your summer suit. Because is big rush we will execute customers in strict rotation.
+Order your summer suit. Because is big rush we will execute customers in strict rotation. 
 
-Similarly, from Soviet Weekly:
+Similarly, from Soviet Weekly: 
 
-There will be a Moscow Exhobition of Arts by 15,000 Soviet Republic painters and sculptors. These were executed over the past two years.
+There will be a Moscow Exhobition of Arts by 15,000 Soviet Republic painters and sculptors. These were executed over the past two years. 
 
-A sign posted in Germany?s Black Forest:
+A sign posted in Germany?s Black Forest: 
 
-It is strictly forbiden on our black forest camping site that people of different sex, for instance, men and women, live together in one tent unless they are married with each other for that purpose.
+It is strictly forbiden on our black forest camping site that people of different sex, for instance, men and women, live together in one tent unless they are married with each other for that purpose. 
 
-In a Zurich hotel:
+In a Zurich hotel: 
 
-Because of the impropriety of entertaining guests of the opposite sex in the bedroom, it is suggested that the lobby be used for this purpose.
+Because of the impropriety of entertaining guests of the opposite sex in the bedroom, it is suggested that the lobby be used for this purpose. 
 
-In and advertisement by a Hong Kong dentist:
+In and advertisement by a Hong Kong dentist: 
 
-Teeth extracted by the latest Methodists.
+Teeth extracted by the latest Methodists. 
 
-In a Rome laundry:
+In a Rome laundry: 
 
-Ladies, leave your clothes here and spend the afternoon having a good time.
+Ladies, leave your clothes here and spend the afternoon having a good time. 
 
-In a Czech tourist agency:
+In a Czech tourist agency: 
 
-Take one of our horse-driven city tours ? we guarantee no miscarriages.
+Take one of our horse-driven city tours ? we guarantee no miscarriages. 
 
-Advertisement for donkey rides in Thailand:
+Advertisement for donkey rides in Thailand: 
 
-Would you like to ride on your own ass?
+Would you like to ride on your own ass? 
 
-In a Swiss mountain inn:
+In a Swiss mountain inn: 
 
-Special today ? no ice cream.
+Special today ? no ice cream. 
 
-In a Bangkok temple:
+In a Bangkok temple: 
 
-It is forbidden to enter a women even a foreigner if a dressed as a man.
+It is forbidden to enter a women even a foreigner if a dressed as a man. 
 
-In a Tokyo bar:
+In a Tokyo bar: 
 
-Special cocktails for the ladies with nuts.
+Special cocktails for the ladies with nuts. 
 
-In a Copenhagen airline ticket office:
+In a Copenhagen airline ticket office: 
 
-We take your bags and send them in all directions.
+We take your bags and send them in all directions. 
 
-On the door of a Moscow hotel room:
+On the door of a Moscow hotel room: 
 
-If this is your first wisit to the USSR, you are welcome to it.
+If this is your first wisit to the USSR, you are welcome to it. 
 
-In a Norwegian cocktail lounge:
+In a Norwegian cocktail lounge: 
 
-Ladier are requested not to have children in the bar.
+Ladier are requested not to have children in the bar. 
 
-In a Budapest Zoo:
+In a Budapest Zoo: 
 
-Please do not feed the animals. If you have any suitable food, give it to the quard on duty.
+Please do not feed the animals. If you have any suitable food, give it to the quard on duty. 
 
-In the office of a Roman doctor:
+In the office of a Roman doctor: 
 
-Specialist in women and other diseases.
+Specialist in women and other diseases. 
 
-In Acapulco hotel:
+In Acapulco hotel: 
 
-The manager has personally passed all the water served here.
+The manager has personally passed all the water served here. 
 
-In a Tokyo shop:
+In a Tokyo shop: 
 
-Our nylons cost more than common, but you?ll find they are best in the long run.
+Our nylons cost more than common, but you?ll find they are best in the long run. 
 
-From Japanese information booklet about using hotel air conditioner:
+From Japanese information booklet about using hotel air conditioner: 
 
-Cooles and Heates: If you want just condition of warm in your room please control yourself.
+Cooles and Heates: If you want just condition of warm in your room please control yourself. 
 
-From a brochure of a car rental firm in Tokyo:
+From a brochure of a car rental firm in Tokyo: 
 
-When passenger of foot have in sight tootle the horn. Trumpet him meldiously at first, but if he still obstacles your passage, then tootle him vith vigor.
+When passenger of foot have in sight tootle the horn. Trumpet him meldiously at first, but if he still obstacles your passage, then tootle him vith vigor. 
 
-Two signs from a Majorcan shop entrance:
+Two signs from a Majorcan shop entrance: 
 
-English well talking.
+English well talking. 
 
-Here speeching American.
+Here speeching American. 
 
-Vás kteří nerozumíte angličtině je mně upřímně líto, ale do češtiny bych to nepřekládal za žádné peníze.
+Vás kteří nerozumíte angličtině je mně upřímně líto, ale do češtiny bych to nepřekládal za žádné peníze. 
 
 {id="dalsi" var="inputvar-pribuzne_h"}
 
-## n/a
+## n/a 
 
-n/a
+n/a 
 
 {var="inputvar-relation@var"}
 
-Příbuzné články nejsou k dispozici
+Příbuzné články nejsou k dispozici 
 
 {var="doclist-stitek"}
 
-  * n/a
+  * n/a 
 
 {var="inputvar-taglist" class="taglist"}
 

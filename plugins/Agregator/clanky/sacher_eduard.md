@@ -3,43 +3,41 @@
 
 {ctime="2005-11-29" mtime="2005-11-29" id="sacher\_eduard" author="Michael Klíma" authorid="hostovka/michael\_klima"}
 
-# Sacher Eduard
-
-<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
+# Sacher Eduard 
 
 {kw="ubytování"}
 
-Kostel svatého Štěpána ve Vídní je jen několik kroků od hotelu Sacher, ale nejsem si jist co je u vídeňských turistů populárnější, jestli ten nádherný oltář kostela nebo dort kterým se zakladatel hotelu Sacher proslavil.
+Kostel svatého Štěpána ve Vídní je jen několik kroků od hotelu Sacher, ale nejsem si jist co je u vídeňských turistů populárnější, jestli ten nádherný oltář kostela nebo dort kterým se zakladatel hotelu Sacher proslavil. 
 
-Na přelomu století Franz Sacher, bývalý vrchní cukrář na dvoře Metternicha, vytvořil tuto čokoládovou ambrozií kerá mu přinesla popularitu po celém světě.
+Na přelomu století Franz Sacher, bývalý vrchní cukrář na dvoře Metternicha, vytvořil tuto čokoládovou ambrozií kerá mu přinesla popularitu po celém světě. 
 
-Jsou to tři vrstvy čokoládového piškotového korpusu které jsou silně potřeny meruňkovou marmeládou a slepeny do dortu který je pokryt polevou z hořké čokolády. Podává se v silných trojúhelníkových řezech pokrytých čerstvou šlehačkou které se v Rakousku říká Obers.
+Jsou to tři vrstvy čokoládového piškotového korpusu které jsou silně potřeny meruňkovou marmeládou a slepeny do dortu který je pokryt polevou z hořké čokolády. Podává se v silných trojúhelníkových řezech pokrytých čerstvou šlehačkou které se v Rakousku říká Obers. 
 
 {id="lacine_ubytovani"}
 
-## Laciné ubytování
+## Laciné ubytování 
 
-"Už jsi slyšel o tom hotelu Sachr ve Vídni?" se mně jednou zeptal můj dobrý přítel v Americe. "V tom hotelu", pokračoval můj přítel, "jdeš odpoledne do kavárny na pravou vídeňskou kávu s pravou Obers", což ve Vídni znamená šlehačka," dají ti k tomu pravý Sachrův dort, také s tím Obers, a nic tě to nestojí."
+"Už jsi slyšel o tom hotelu Sachr ve Vídni?" se mně jednou zeptal můj dobrý přítel v Americe. "V tom hotelu", pokračoval můj přítel, "jdeš odpoledne do kavárny na pravou vídeňskou kávu s pravou Obers", což ve Vídni znamená šlehačka," dají ti k tomu pravý Sachrův dort, také s tím Obers, a nic tě to nestojí." 
 
-"Večer jdeš do jejich překrásné restaurace, kde ochutnáš pravou vídeňskou kuchyni, a také tě to nic nestojí. Po večeří jdeš do jejich Weinstuberl, kde ochutnáš typická rakouská vína, a poslechneš si typický vídeňský šraml, a celá tato Gemûtlichkheit tě zase nic nestojí."
+"Večer jdeš do jejich překrásné restaurace, kde ochutnáš pravou vídeňskou kuchyni, a také tě to nic nestojí. Po večeří jdeš do jejich Weinstuberl, kde ochutnáš typická rakouská vína, a poslechneš si typický vídeňský šraml, a celá tato Gemûtlichkheit tě zase nic nestojí." 
 
-"Nakonec se vyspíš v překrásné Biedermeirové posteli s hedvábným povlečením, a to nejenom že tě také nic nestojí, ale navíc když se ráno probudíš, tak najdeš dvě stodolarové bankovky pod polštářem."
+"Nakonec se vyspíš v překrásné Biedermeirové posteli s hedvábným povlečením, a to nejenom že tě také nic nestojí, ale navíc když se ráno probudíš, tak najdeš dvě stodolarové bankovky pod polštářem." 
 
-"To není možné, ty jsi tam byl?", jsem se zeptal. "Já ne", povídá můj přítel, "ale moje paní tam byla".
+"To není možné, ty jsi tam byl?", jsem se zeptal. "Já ne", povídá můj přítel, "ale moje paní tam byla". 
 
 {id="dalsi" var="inputvar-pribuzne_h"}
 
-## n/a
+## n/a 
 
-n/a
+n/a 
 
 {var="inputvar-relation@var"}
 
-Příbuzné články nejsou k dispozici
+Příbuzné články nejsou k dispozici 
 
 {var="doclist-stitek"}
 
-  * n/a
+  * n/a 
 
 {var="inputvar-taglist" class="taglist"}
 

@@ -3,43 +3,41 @@
 
 {ctime="2008-02-17" mtime="2008-02-17" data-top="924" id="porchetta" author="Michael Klíma" short="Porchetta" authorid="hostovka/michael_klima"}
 
-# Porchetta
-
-<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
+# Porchetta 
 
 {kw="jídla a jídelní lístky"}
 
-Porchetta, jeden z nejpopulárnějších masitých italských produktů je původem z města Arricia.
+Porchetta, jeden z nejpopulárnějších masitých italských produktů je původem z města Arricia. 
 
-Arricia horské město jihovýchodně od Říma je již po 2000 let známé svými recepty jídel připravených z vepřového masa. Každý víkend více než 40.000 italských a jiných evropských turistů navštěvuje Arricii aby ochutnali jejích nejpopulárnější výrobek poršetu (Porchetta). Dnes ale několik rodin specialistů z Arricie vyváží jejich speciality do světa. Jejich nejznámější výrobky jsou Porchetta OriginaleTM , Coppiette OriginaliTM, Tronchetto OriginaleTM , a Zampetti OriginaliTM.
+Arricia horské město jihovýchodně od Říma je již po 2000 let známé svými recepty jídel připravených z vepřového masa. Každý víkend více než 40.000 italských a jiných evropských turistů navštěvuje Arricii aby ochutnali jejích nejpopulárnější výrobek poršetu (Porchetta). Dnes ale několik rodin specialistů z Arricie vyváží jejich speciality do světa. Jejich nejznámější výrobky jsou Porchetta OriginaleTM , Coppiette OriginaliTM, Tronchetto OriginaleTM , a Zampetti OriginaliTM. 
 
-Toto je nejznámější ze zmíněných výrobků připravený podle 2000 let starého receptu, který je údajně přísně střežený.
+Toto je nejznámější ze zmíněných výrobků připravený podle 2000 let starého receptu, který je údajně přísně střežený. 
 
-K výrobě Porchetta OriginaleTM se používají malá prvotřídní selata která po vykostění a okořenění vybraným kořením pečou po dlouhé hodiny ve speciálních pecích. Ochutnal jsem tuto porchettu na mezinárodní restaurační výstavě v Chicagu a dokonce se mi podařilo získat recept na její přípravu který jsem ale přislíbil zachovat v tajnosti. Jediné co mohu prozradit, že v chuti tato porchetta předčí její pověst.
+K výrobě Porchetta OriginaleTM se používají malá prvotřídní selata která po vykostění a okořenění vybraným kořením pečou po dlouhé hodiny ve speciálních pecích. Ochutnal jsem tuto porchettu na mezinárodní restaurační výstavě v Chicagu a dokonce se mi podařilo získat recept na její přípravu který jsem ale přislíbil zachovat v tajnosti. Jediné co mohu prozradit, že v chuti tato porchetta předčí její pověst. 
 
-Coppiette je něco podobného jako americké "beef jerky" s tím rozdílem, že coppiette je lepší. Díky minimálnímu obsahu tuku a cholesterolu a díky tomu že nebyly přidány žádné konzervační prostředky si coppiette určitě získá oblibu.
+Coppiette je něco podobného jako americké "beef jerky" s tím rozdílem, že coppiette je lepší. Díky minimálnímu obsahu tuku a cholesterolu a díky tomu že nebyly přidány žádné konzervační prostředky si coppiette určitě získá oblibu. 
 
-Tronchetto jak se zdá si získá ještě větší oblibu než Porchetta hlavně při cateringu díky jejímu tvaru.
+Tronchetto jak se zdá si získá ještě větší oblibu než Porchetta hlavně při cateringu díky jejímu tvaru. 
 
-Zampetti OriginaliTM
+Zampetti OriginaliTM 
 
-Zampeti které se dá připravit o mnoho snadněji než kdysi tak populární zampone, se připravuje ve speciální peci. Tajemství spočívá také hlavně ve způsobu kořenění.
+Zampeti které se dá připravit o mnoho snadněji než kdysi tak populární zampone, se připravuje ve speciální peci. Tajemství spočívá také hlavně ve způsobu kořenění. 
 
-Výše uvedené výrobky pravděpodobně na českém trhu ještě nejsou ale při oblibě které se vepřové maso na českém stole těší nebude asi dlouho trvat než někdo něco podobného začne vyrábět.
+Výše uvedené výrobky pravděpodobně na českém trhu ještě nejsou ale při oblibě které se vepřové maso na českém stole těší nebude asi dlouho trvat než někdo něco podobného začne vyrábět. 
 
 {id="dalsi" var="inputvar-pribuzne_h"}
 
-## n/a
+## n/a 
 
-n/a
+n/a 
 
 {var="inputvar-relation@var"}
 
-Příbuzné články nejsou k dispozici
+Příbuzné články nejsou k dispozici 
 
 {var="doclist-stitek"}
 
-  * n/a
+  * n/a 
 
 {var="inputvar-taglist" class="taglist"}
 

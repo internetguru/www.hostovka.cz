@@ -3,49 +3,47 @@
 
 {ctime="2006-12-27" mtime="2019-03-11" id="vyhlaska_107" author="Michael Klíma" short="Vyhláška č. 107"}
 
-# Hygienická vyhláška č. 107
-
-<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
+# Hygienická vyhláška č. 107 
 
 {kw="gastronomie"}
 
-Hygienická vyhláška č. 107 se Čechům nelíbí, protože zpřísňuje podmínky pro uchovávání hotových jídel. To ale neznamená, že bude zrušena. Česká kuchyně se prostě bude muset těmto požadavkům přizpůsobit.
+Hygienická vyhláška č. 107 se Čechům nelíbí, protože zpřísňuje podmínky pro uchovávání hotových jídel. To ale neznamená, že bude zrušena. Česká kuchyně se prostě bude muset těmto požadavkům přizpůsobit. 
 
-Zrušení vyhlášky se asi nedočkáte. Spíše se dočkáte toho, že se příslušné orgány naučí plnění této vyhlášky kontrolovat. Vyhláška je v zásadě dobrá, a to v tom smyslu, že chrání zdraví hostů a všech zaměstnanců v pohostinství.
+Zrušení vyhlášky se asi nedočkáte. Spíše se dočkáte toho, že se příslušné orgány naučí plnění této vyhlášky kontrolovat. Vyhláška je v zásadě dobrá, a to v tom smyslu, že chrání zdraví hostů a všech zaměstnanců v pohostinství. 
 
 {class="important"}
 
-Již od nepaměti je základní snahou všech konstruktérů kuchyňských zařízení, kuchařů a gastronomů, zkrátit cestu od výroby jídla do konzumace a tím zároveň snížit nebezpečí kontaminace potravin. Například Číňanům, Japoncům a jiným Asiatům se to při přípravě a úpravě jídel daří již po tisíciletí.
+Již od nepaměti je základní snahou všech konstruktérů kuchyňských zařízení, kuchařů a gastronomů, zkrátit cestu od výroby jídla do konzumace a tím zároveň snížit nebezpečí kontaminace potravin. Například Číňanům, Japoncům a jiným Asiatům se to při přípravě a úpravě jídel daří již po tisíciletí. 
 
 {id="budoucnost\_ceske\_kuchyne"}
 
-## Budoucnost české kuchyně
+## Budoucnost české kuchyně 
 
-Nemyslím si, že by se Češi měli okamžitě vzdát surovin a jídel, na která jsou po staletí zvyklí. Naši kuchaři musí nicméně nalézt nové techniky jejich přípravy a úpravy.
+Nemyslím si, že by se Češi měli okamžitě vzdát surovin a jídel, na která jsou po staletí zvyklí. Naši kuchaři musí nicméně nalézt nové techniky jejich přípravy a úpravy. 
 
-Opačným extrémem je, že některé restaurace používají jenom [konvenientní potraviny][1], což se mi nezdá jako nejlepší řešení. Je to sice ta nejsnadnější cesta z nouze, ale budoucnost (české) kuchyně se na tom stavět nedá.
+Opačným extrémem je, že některé restaurace používají jenom [konvenientní potraviny][1], což se mi nezdá jako nejlepší řešení. Je to sice ta nejsnadnější cesta z nouze, ale budoucnost (české) kuchyně se na tom stavět nedá. 
 
 {id="hotova_jidla"}
 
-## Hotová jídla
+## Hotová jídla 
 
-To, že díky zmíněné vyhlášce z českých jídelníčků zmizela některá hotová jídla, se dalo čekat. Že ale změny budou tak drastické, jsem si nikdy nepředstavoval.
+To, že díky zmíněné vyhlášce z českých jídelníčků zmizela některá hotová jídla, se dalo čekat. Že ale změny budou tak drastické, jsem si nikdy nepředstavoval. 
 
-V některých lepších či populárních restauracích hosté sice předpokládají, že musí mít rezervaci někdy i den předem. Kdyby potom ale měli čekat více než 20 minut na stůl a potom dalších 20 až 30 minut na hlavní jídlo, tak by do takové restaurace již nikdy nevkročili.
+V některých lepších či populárních restauracích hosté sice předpokládají, že musí mít rezervaci někdy i den předem. Kdyby potom ale měli čekat více než 20 minut na stůl a potom dalších 20 až 30 minut na hlavní jídlo, tak by do takové restaurace již nikdy nevkročili. 
 
 {id="dalsi" var="inputvar-pribuzne_h"}
 
-## n/a
+## n/a 
 
-n/a
+n/a 
 
 {var="inputvar-relation@var"}
 
-Příbuzné články nejsou k dispozici
+Příbuzné články nejsou k dispozici 
 
 {var="doclist-stitek"}
 
-  * n/a
+  * n/a 
 
 {var="inputvar-taglist" class="taglist"}
 

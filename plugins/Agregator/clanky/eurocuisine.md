@@ -3,37 +3,35 @@
 
 {ctime="2008-05-11" mtime="2019-11-07" id="eurocuisine" author="Michael Klíma" short="Eurocuisine"}
 
-# Budoucnost evropské kuchyně
-
-<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
+# Budoucnost evropské kuchyně 
 
 {kw="gastronomie, Evropa"}
 
-Evropa se může pochlubit hned několika dobrými kuchyněmi, které byly založeny na historii a tradicích zemí, ve kterých vznikly.
+Evropa se může pochlubit hned několika dobrými kuchyněmi, které byly založeny na historii a tradicích zemí, ve kterých vznikly. 
 
-Dnešní (a díky Hostovce sofistikovaný) host má svoje představy o kvalitě a hodnotě jídel a nedá se již tak snadno opít rohlíkem. Evropská gastronomie, i když se o tom zatím nemluví, stojí před velkými změnami a mnohdy nebude stačit se změnám pouze přizpůsobit.
+Dnešní (a díky Hostovce sofistikovaný) host má svoje představy o kvalitě a hodnotě jídel a nedá se již tak snadno opít rohlíkem. Evropská gastronomie, i když se o tom zatím nemluví, stojí před velkými změnami a mnohdy nebude stačit se změnám pouze přizpůsobit. 
 
-V EU vznikne úplně jiná kuchyně, která podle mě bude nejspíše nazývaná _eurocuisine {xml:lang="en"}_. Ta bude ovlivněná jídly a kuchařskými technikami všech členských států EU. _Eurocuisine {xml:lang="en"}_ se bude vyznačovat novými jídly a novými jídelními lístky, které uspokojí očekávání a přání této nové klientely.
+V EU vznikne úplně jiná kuchyně, která podle mě bude nejspíše nazývaná _eurocuisine {xml:lang="en"}_. Ta bude ovlivněná jídly a kuchařskými technikami všech členských států EU. _Eurocuisine {xml:lang="en"}_ se bude vyznačovat novými jídly a novými jídelními lístky, které uspokojí očekávání a přání této nové klientely. 
 
 {class="example"}
 
-Příkladem _euroquisine {xml:lang="en"}_ je jídelní lístek [restaurace Steakgrill][1].
+Příkladem _euroquisine {xml:lang="en"}_ je jídelní lístek [restaurace Steakgrill][1]. 
 
-Tvorbou jídelních lístků a studiem etnických kuchyní se zabývám již několik let. Situaci, ve které se evropská gastronomie nachází jsem předvídal. Proto jsem již před několika lety pražskému nakladatelství Grada nabídl více než 200stránkový rukopis zvaný _Tvorba jídelních lístků_. Grada rukopis odmítla s vyjádřením českých „odborníků“, že je to moc dlouhé a že „česká gastronomie k něčemu takovému ještě nedorostla“.
+Tvorbou jídelních lístků a studiem etnických kuchyní se zabývám již několik let. Situaci, ve které se evropská gastronomie nachází jsem předvídal. Proto jsem již před několika lety pražskému nakladatelství Grada nabídl více než 200stránkový rukopis zvaný _Tvorba jídelních lístků_. Grada rukopis odmítla s vyjádřením českých „odborníků“, že je to moc dlouhé a že „česká gastronomie k něčemu takovému ještě nedorostla“. 
 
 {id="dalsi" var="inputvar-pribuzne_h"}
 
-## n/a
+## n/a 
 
-n/a
+n/a 
 
 {var="inputvar-relation@var"}
 
-Příbuzné články nejsou k dispozici
+Příbuzné články nejsou k dispozici 
 
 {var="doclist-stitek"}
 
-  * n/a
+  * n/a 
 
 {var="inputvar-taglist" class="taglist"}
 

@@ -3,23 +3,21 @@
 
 {ctime="2006-07-15" mtime="2019-01-18" id="propagace" short="Propagace" author="Michael Klíma"}
 
-# Důležitost propagace
-
-<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
+# Důležitost propagace 
 
 {kw="životopis"}
 
-V Česku vám stačí titul a nějaké medaile. V Americe ale tituly nejsou a na medaile se také moc nevěří. Můžete tam být jakkoli dobří, ale pokud to nikdo neví, tak si za to nic nekoupíte. Musíte mýt neustále vidět, propagovat se a nesmíte být skromní.
+V Česku vám stačí titul a nějaké medaile. V Americe ale tituly nejsou a na medaile se také moc nevěří. Můžete tam být jakkoli dobří, ale pokud to nikdo neví, tak si za to nic nekoupíte. Musíte mýt neustále vidět, propagovat se a nesmíte být skromní. 
 
-Propagovat se jsem se naučil až v Americe. Tam takové povídačky jako „sedávej panenko v koutě, budeš-li skromná (hodná), najdou tě“, kterými dříve vrchnost udržovala podané v lati, neplatí.
+Propagovat se jsem se naučil až v Americe. Tam takové povídačky jako „sedávej panenko v koutě, budeš-li skromná (hodná), najdou tě“, kterými dříve vrchnost udržovala podané v lati, neplatí. 
 
-Pokud ale v Americe začnete vykřikovat, jak jste dobří, tak musíte být připraveni na to, že to po vás také budou chtít dokázat. Tudíž vám nepomůže ani to, že z vás někdo udělal osobnost nebo že jste držitelem ceny Magdaleny Dobromily Rettigové, Dr. Štětiny, či Jaroslava Vašaty. Nikdo stejně neví, kdo tito lidé vlastně byli.
+Pokud ale v Americe začnete vykřikovat, jak jste dobří, tak musíte být připraveni na to, že to po vás také budou chtít dokázat. Tudíž vám nepomůže ani to, že z vás někdo udělal osobnost nebo že jste držitelem ceny Magdaleny Dobromily Rettigové, Dr. Štětiny, či Jaroslava Vašaty. Nikdo stejně neví, kdo tito lidé vlastně byli. 
 
-Nesmíte se také spoléhat na to, že vám něco přijde od Boha. Ne nadarmo se tady říká „člověče přičiň se a Bůh ti pak také trochu pomůže“. Nevím kolik je v Americe bohů, ale vím, že jsou tady velice úspěšní i někteří ateisté. Podle mě je tedy nejlepší spoléhat se jen sám na sebe. Plné znění mojí náboženské filosofie vám přikládám v angličtině, protože v češtině by se to nerýmovalo.
+Nesmíte se také spoléhat na to, že vám něco přijde od Boha. Ne nadarmo se tady říká „člověče přičiň se a Bůh ti pak také trochu pomůže“. Nevím kolik je v Americe bohů, ale vím, že jsou tady velice úspěšní i někteří ateisté. Podle mě je tedy nejlepší spoléhat se jen sám na sebe. Plné znění mojí náboženské filosofie vám přikládám v angličtině, protože v češtině by se to nerýmovalo. 
 
 {xml:lang="en"}
 
-My Religious Philosophy
+My Religious Philosophy 
 :   I am neither Protestant, Catholic nor Jew  
     If you don’t understand, I’ll explain it to you 
 :   These religious of man, are only a name  
@@ -29,23 +27,23 @@ My Religious Philosophy
 :   But what makes me think, that I’m right  
     I talk to God, every night  
     And I’m happy to know, and tell it to you 
-:   He never has asked, if I’m Protestant, Catholic or Jew.
+:   He never has asked, if I’m Protestant, Catholic or Jew. 
 
-Já například nerozumím ničemu jinému než pohostinství. Nejsem ještě první na světě, ale pracuji na tom a už jsem sakramentsky blízko. Člověk musí být zatraceně dobrý, aby byl lepší, než jsem já. Tolik o mé skromnosti.
+Já například nerozumím ničemu jinému než pohostinství. Nejsem ještě první na světě, ale pracuji na tom a už jsem sakramentsky blízko. Člověk musí být zatraceně dobrý, aby byl lepší, než jsem já. Tolik o mé skromnosti. 
 
 {id="dalsi" var="inputvar-pribuzne_h"}
 
-## n/a
+## n/a 
 
-n/a
+n/a 
 
 {var="inputvar-relation@var"}
 
-Příbuzné články nejsou k dispozici
+Příbuzné články nejsou k dispozici 
 
 {var="doclist-stitek"}
 
-  * n/a
+  * n/a 
 
 {var="inputvar-taglist" class="taglist"}
 

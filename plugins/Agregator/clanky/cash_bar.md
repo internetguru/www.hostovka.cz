@@ -3,9 +3,7 @@
 
 {ctime="2008-07-16" mtime="2019-08-19" id="cash_bar" author="Michael Klíma" short="Cash Bar"}
 
-# Bar za hotové neboli cash bar
-
-<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
+# Bar za hotové neboli cash bar 
 
 {kw="co-kdy-kde, bar, Amerika"}
 
@@ -17,29 +15,29 @@ V Americe, jak asi víte, soudí každý každého při sebemenší příležito
 
 {var="inputvar-faq_h" id="dotazy"}
 
-## n/a
+## n/a 
 
 {var="inputvar-faq_desc"}
 
-n/a
+n/a 
 
 {var="inputvar-faqs@var"}
 
-Bez příbuzných dotazů
+Bez příbuzných dotazů 
 
 {id="dalsi" var="inputvar-pribuzne_h"}
 
-## n/a
+## n/a 
 
-n/a
+n/a 
 
 {var="inputvar-relation@var"}
 
-Příbuzné články nejsou k dispozici
+Příbuzné články nejsou k dispozici 
 
 {var="doclist-stitek"}
 
-  * n/a
+  * n/a 
 
 {var="inputvar-taglist" class="taglist"}
 
