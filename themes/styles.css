@@ -112,7 +112,7 @@ h1 {
   margin-right: 0.75rem;
 }
 .part:not(.docinfo):not(.dalsi):not(.o_praleku):not(.clanky):not(.upozorneni) .list > ul:not(.button-list) > li:before {
-  content: "â€¢";
+  content: "·";
   font-size: 2.5em;
   line-height: 0;
   vertical-align: -0.5rem;
@@ -354,7 +354,7 @@ body:not(.admin) .copyable__close:hover {
   font-size: 1.25em;
 }
 .hdesc--top .list-wrapper--multiple li:before {
-  content: "â—";
+  content: "·";
   margin-right: 0.5em;
   color: #607D8B;
 }
@@ -1588,7 +1588,7 @@ div.part.internetguru form div input {
   content: "+" !important;
 }
 .faq a.hideable-switch:before {
-  content: "âˆ’" !important;
+  content: "−" !important;
   color: #546E7A;
   font-size: 2em;
   font-weight: 600;
