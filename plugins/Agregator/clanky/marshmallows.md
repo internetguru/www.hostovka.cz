@@ -40,6 +40,18 @@ Pokud byste si chtěli _marshmallows {xml:lang="en"}_ někdy udělat sami, tak v
 
 Pokud se vám _marshmallow {xml:lang="en"}_ povedlo, tak ho můžete dělat na kšeft. Pokud ne, tak to vyhoďte a pokuste se o to znovu.
 
+{var="inputvar-faq_h" id="dotazy"}
+
+## n/a
+
+{var="inputvar-faq_desc"}
+
+n/a
+
+{var="inputvar-faqs@var"}
+
+Bez příbuzných dotazů
+
 {id="dalsi" var="inputvar-pribuzne_h"}
 
 ## n/a

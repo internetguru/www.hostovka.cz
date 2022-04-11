@@ -79,6 +79,18 @@ Dnes ale musím udělat výjimku. Zavítal jsem do vašeho hotelu náhodou, prot
 
 Je takové rčení v pohostinství: „Moučník dobrý, všechno dobré“, ale v Česku nějaká nabídková služba neexistuje. Byl jsem kdysi majitelem české restaurace v Chicagu a tam když některá servírka nedokázala prodat alespoň 30% moučníků, tak jsem ji vyhodil. (Průměr byl 42%). Já vím, že v česku si to nemůžete dovolit, nehledě k tomu, že byste tam co nevidět byli sami. Němci mají ale také takové hezké rčení: „Nichts besseres komt nah“, neboli nic lepšího stejně asi nedostanete, a tak se budete asi muset zaměřit na intenzivní výchovu a trénink vašich zaměstnanců, tak aby byli schopni dát vašim hostům nejenom to, co chtějí, ale i to co jim za jejich peníze patří.
 
+{var="inputvar-faq_h" id="dotazy"}
+
+## n/a
+
+{var="inputvar-faq_desc"}
+
+n/a
+
+{var="inputvar-faqs@var"}
+
+Bez příbuzných dotazů
+
 {id="dalsi" var="inputvar-pribuzne_h"}
 
 ## n/a
