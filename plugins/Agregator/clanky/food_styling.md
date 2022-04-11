@@ -17,7 +17,7 @@ _Food styling {xml:lang="en"}_ má své zásady, triky a finty. Není to ale ani
 
 ## Co znamená být dobrý food stylist 
 
-Není pochyb o tom, že by _food stylist {xml:lang="en"}_ měl mít znalosti kuchařských technik, a že by měl něco vědět o potravinách. Vyučený kuchař to ale být nemusí. _Food stylist {xml:lang="en"}_ se značně liší od takzvaného _[garde mangera][3] {xml:lang="fr"}_ . 
+Není pochyb o tom, že by _food stylist {xml:lang="en"}_ měl mít znalosti kuchařských technik, a že by měl něco vědět o potravinách. Vyučený kuchař to ale být nemusí. _Food stylist {xml:lang="en"}_ se značně liší od takzvaného _[garde mangera][3] {xml:lang="fr"}_. 
 
 Základní rozdíl mezi _garde manger {xml:lang="fr"}_ a _food stylist {xml:lang="en"}_ je, že _garde manger {xml:lang="fr"}_ pracuje s jedlými surovinami a jeho výtvory musí být nejenom jedlé a atraktivní, ale i chutné. Kdežto _food stylist_ pracuje mnohdy se surovinami, které jsou nepoživatelné. 
 

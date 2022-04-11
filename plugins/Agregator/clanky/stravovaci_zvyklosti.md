@@ -129,7 +129,7 @@ Nesprávná hostem očekávaná velikost porce může být důvodem jeho nespoko
 
 Proto přílohy k jídlům by měl doporučovat kuchař nebo kvalifikovaný gastronom. 
 
-Za vizuální kontrolu jídel před jejich podáváním je zodpovědný jak kuchař který jídlo vydává , šéfkuchař nebo jeho zástupce který by měl být u výdeje jídel přítomen, ale v neposlední řadě i obsluhující. 
+Za vizuální kontrolu jídel před jejich podáváním je zodpovědný jak kuchař který jídlo vydává, šéfkuchař nebo jeho zástupce který by měl být u výdeje jídel přítomen, ale v neposlední řadě i obsluhující. 
 
 {id="gardemanger"}
 

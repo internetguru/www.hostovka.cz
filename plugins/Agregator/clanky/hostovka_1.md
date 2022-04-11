@@ -15,7 +15,7 @@ Na těchto školách by měli své studenty připravit pro jejich případné po
 
 Je ale zajímavé, alespoň pokud je mi známo, že ani v České republice a ani na Slovensku není škola která by naučila hosty nejenom to na co mají za své peníze právo, ale také jak se mají v restauracích chovat, aby si získali respekt těch obluhujich. 
 
-Před několika dny jsem na místní americké televisi viděl, že školné (tuition) na průměrné odborné škole v Kalifornii bude v příštím roce .000,-. Tudíž 4 léta studia na některé z místních hotelových škol může přijít na .000,- ale přes to o studenty nemají tyto školy nouzi. 
+Před několika dny jsem na místní americké televisi viděl, že školné (tuition) na průměrné odborné škole v Kalifornii bude v příštím roce.000,-. Tudíž 4 léta studia na některé z místních hotelových škol může přijít na .000,- ale přes to o studenty nemají tyto školy nouzi. 
 
 V české republice je situace obdobná, s tím rozdílem, že školné zdaleka nedosahuje takové výše, ale tak jako na těch amerických školách, tak ani na těch českých odborných školách své studenty neučí jaké jsou ve skutečnosti práva hostů kterým budou eventuálně sloužit. 
 

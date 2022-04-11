@@ -31,7 +31,7 @@ Dozvěděl jsem se o tom pozdě, takže jsem nebyl registrován, ale jsem mezin�
 
 Ptal se mně, do kterých novin nebo do kterého časopisu píši, načež jsem jim řekl, že jsem feelance writer, a že píši prostě do všeho i do bobkových listů, ale já v poslední době píši hlavně do různých odborných webových stránek na internentu, což tedy není placené, ale obsáhne to daleko větší okruh čtenářů. 
 
-Následně mi řekl, , je jen pro registrované účastníky a že jsem se měl zúčastnit tiskové konference, která se konala před několika dny ( o které jsem ale nevěděl), a na kterou byli pozváni, jeho slovy: „všichni žurnalisté kteří o nás píši“. 
+Následně mi řekl,, je jen pro registrované účastníky a že jsem se měl zúčastnit tiskové konference, která se konala před několika dny ( o které jsem ale nevěděl), a na kterou byli pozváni, jeho slovy: „všichni žurnalisté kteří o nás píši“. 
 
 Nestačil jsem se zeptat, jestli se jednalo jen o žurnalisty, kteří o nich píši jenom to dobré, ale to už není podstatné. Podstatné je, že mi to připomnělo dobu socialismu, kde ti co psali jen to dobré měli místo na Dobříši, a ty co psali pravdu byli schopni poslat na Sibíř. 
 

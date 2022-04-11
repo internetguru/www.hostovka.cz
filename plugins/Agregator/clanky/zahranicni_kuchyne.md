@@ -117,7 +117,7 @@ Prostě: "In Rome do as the Romans do", což znamená že v Římě byste se mě
 
 No a to se dostávám k další věci o které se musím zmínit. 
 
-Existuje spousta lidí, včetně mně, kteří jsou ochotni za dobrým jídlem jet kraj světa, ale oproti mně je již méně takových , kteří si o jídlech nebo gastronomii země do které se chystají, něco přečtou, a tím se vlastně o moc ochuzují. 
+Existuje spousta lidí, včetně mně, kteří jsou ochotni za dobrým jídlem jet kraj světa, ale oproti mně je již méně takových, kteří si o jídlech nebo gastronomii země do které se chystají, něco přečtou, a tím se vlastně o moc ochuzují. 
 
 To ale by mělo platit i o návštěvě každé etnické restaurace u nás o jejíž kuchyni toho moc nevíme. Nahlédnout do některých z těch nesčetných etnických kuchařek ale nestačí, leda že v té kuchařce je i napsáno jak se taková jídla jí. 
 

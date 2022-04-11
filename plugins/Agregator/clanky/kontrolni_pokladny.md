@@ -161,7 +161,7 @@ V Americkém pohostinství dnes je již asi 90% finančních transakcí přes kr
 
 Kreditní kartou můžete dnes platit dokonce i v restauracích rychlého občerstvení (Fast food), které se tomuto způsobu platby hodně dlouho bránilo údajně proto, že to zpomalovalo prodej. 
 
-Dnes ale sám zákazník projede svoji kartu čtečkou spojenou s kontrolní pokladnou a v mnoha podnicích, pokud ta útrata nepřesahuje , nemusí ani nic podepisovat, nicméně pokaždé, pokud ho požaduje, dostane pokladní blok. _What a country! {xml:lang="en"}_ 
+Dnes ale sám zákazník projede svoji kartu čtečkou spojenou s kontrolní pokladnou a v mnoha podnicích, pokud ta útrata nepřesahuje, nemusí ani nic podepisovat, nicméně pokaždé, pokud ho požaduje, dostane pokladní blok. _What a country! {xml:lang="en"}_ 
 
 To ale mluvím jen o fast food. V restauracích s plným servisem používání kreditních karet není nic nového a nemusím vám asi říkat, že mnozí zaměstnanci z toho velkou radost nemají, protože úmyslné šizení hostů není již tak jednoduché a pokud host byl z nějakého důvodu ošizen, tak z toho neprofituje ten zaměstnanec, ale podnik. 
 

@@ -13,7 +13,7 @@ U kuchařů jsou to práce které s vařením nemají zdánlivě co společného
 
 Tyto práce se lyší od podniku k podniku a proto jsou přesně specifikovány v manuálu kuchyně formou check listu. 
 
-V obsluze vedlejší práce mají také svoji důležitost. Je to zejména příprava pracoviště včetně prostírání, , doplnění zásob a v mnoha případech i vaření kávy, příprava a drobných jednoduchých salátů či moučníků, případně výdej polévek, apod. Tyto práce jsou rovněž přesně specifikovány v manuálu obsluhy formou check listu. 
+V obsluze vedlejší práce mají také svoji důležitost. Je to zejména příprava pracoviště včetně prostírání,, doplnění zásob a v mnoha případech i vaření kávy, příprava a drobných jednoduchých salátů či moučníků, případně výdej polévek, apod. Tyto práce jsou rovněž přesně specifikovány v manuálu obsluhy formou check listu. 
 
 {id="dalsi" var="inputvar-pribuzne_h"}
 

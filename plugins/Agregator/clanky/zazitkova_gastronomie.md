@@ -29,7 +29,7 @@ Pro někoho je zážitek návštěva nějaké vyhlášené restaurace, privátn�
 
 Já jsem toho také schopen. Pro mě je zážitek ale i opečený špekáček v kiosku na Václavském náměstí nebo chleba namazaný škvarkovým sádlem. 
 
-Někdo je ochoten za zážitek z jídla dát „poslední korunu“ (nebo dolar). Takoví lidé se slučují v různých klubech, ve kterých není zanedbatelný již samotný členský příspěvek. Jedním z nich je například _[Chaîne des Rôtisseurs][2] {xml:lang="fr"}_ , kde lidé utrácí tisíce dolarů za gastronomické magazíny a kuchařské knížky. 
+Někdo je ochoten za zážitek z jídla dát „poslední korunu“ (nebo dolar). Takoví lidé se slučují v různých klubech, ve kterých není zanedbatelný již samotný členský příspěvek. Jedním z nich je například _[Chaîne des Rôtisseurs][2] {xml:lang="fr"}_, kde lidé utrácí tisíce dolarů za gastronomické magazíny a kuchařské knížky. 
 
 Je dokázáno, že někteří hobby kuchaři ve svých teoretických znalostech o mezinárodní gastronomii předčí mnohé odborníky z povolání. Je to z jednoduchého důvodu a sice, že si ve většině případů mohou dovolit navštěvovat více restaurací než lidé, kteří v nich pracují. 
 

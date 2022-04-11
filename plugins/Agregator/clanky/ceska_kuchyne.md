@@ -17,7 +17,7 @@ Nemohu si pomoci, ale podle mého slovníku je to jen dlouhodobý záměr a vypr
 
 Podle článku Petra Manuela Ulrycha jedním z iniciátorů tohoto „projektu“ je Pavel Klicpera z Agentury Czech turism, ale bylo by třeba znát jména i těch druhých iniciátorů, protože ti by měli tento záměr podrobně popsat, aby se z toho dal vypracovat nějaký koncept. 
 
-Oproti názoru uvedeném ve zmíněném článku, si já osobně myslím že idea zařadit české speciality na restaurační jídelní lístky není vůbec jednoduchá viz. www.hostovka .cz jídla a jídelní lístky/SPECIALITY. 
+Oproti názoru uvedeném ve zmíněném článku, si já osobně myslím že idea zařadit české speciality na restaurační jídelní lístky není vůbec jednoduchá viz. www.hostovka.cz jídla a jídelní lístky/SPECIALITY. 
 
 Charakteristickými rysy regionálních jídel jsou jednak místní (regionální) potraviny, v mnoha případech i místní (regionální) kuchařské techniky a tradiční úpravy, popsané v domácích recepturách. Takové receptury, vytvořené většinou domácími kuchaři nebo kuchařkami, nejsou pro restaurace použitelné a musí být pro použití v restauracích přizpůsobeny. 
 

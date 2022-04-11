@@ -43,7 +43,7 @@ Abych to ale zkrátil...
 
 My jsme ten Merlot prostě ochutnali k té rybě, a mohu vám říci, ta ryba na chuť toho vína neměla vůbec žádný vliv a vice versa. 
 
-To víno prostě bylo vynikající, a ještě ho mám schované protože, a teď se podržte... stálo jen .99 
+To víno prostě bylo vynikající, a ještě ho mám schované protože, a teď se podržte... stálo jen.99 
 
 Já nevím kolik toho víte o kalifornském víně a nevím, za kolik se prodává v Česku, ale tady to "laciné" kalifornské víno, které je vždy velice dobré, nedostanete pod 3 až 4 dolary za sedmičku, a proto hned druhý den jsem ho koupil celou bednu, dříve než ho rozprodali. 
 

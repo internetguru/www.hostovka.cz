@@ -83,7 +83,7 @@ Labužník prostě vyhledává restaurace, ve kterých podávaná jídla uspokoj
 
 Labužník není někdo, kdo navštěvuje populární, drahé a exklusivní restaurace jenom proto, aby tam „dýchal stejný vzduch“ s nějakými intelektuály nebo osobnostmi což je charakteristické pro snoby. 
 
-Do skupiny labužníků, abych se přiznal, patřím i já. Během mé praxe jsem procestoval téměř celý svět a s oblibou říkám, že sežeru všechno, co napřed nesežere mně a tak se dá říci, že není téměř žádné jídlo, které bych neochutnal, ale přesto mám své preference. Pracoval jsem také většinou v dobrých hotelích a restauracích, a to i v takových kde cena večeře na osobu mohla být ,- i více (bez vína), a kde jsem toho mohl sníst a vypít co hrdlo ráčí, ale nejlépe jsem si pochutnal, když mi manželka doma udělala knedlíky s vejci, šunkofleky nebo cmundu a dobrou českou sekanou nikdy neodmítnu. 
+Do skupiny labužníků, abych se přiznal, patřím i já. Během mé praxe jsem procestoval téměř celý svět a s oblibou říkám, že sežeru všechno, co napřed nesežere mně a tak se dá říci, že není téměř žádné jídlo, které bych neochutnal, ale přesto mám své preference. Pracoval jsem také většinou v dobrých hotelích a restauracích, a to i v takových kde cena večeře na osobu mohla být,- i více (bez vína), a kde jsem toho mohl sníst a vypít co hrdlo ráčí, ale nejlépe jsem si pochutnal, když mi manželka doma udělala knedlíky s vejci, šunkofleky nebo cmundu a dobrou českou sekanou nikdy neodmítnu. 
 
 Jsou ale i „labužníci“ kteří se spíše rozcapují a sáhodlouze popisují jídla a nápoje případně i ambiánci luxusních a drahých restaurací které údajně navštívili i lidem, kteří se do takových restaurací nikdy v životě nedostanou nejenom, že si je nemohou dovolit, ale které jsou případně v zemích, kam se tito lidé nikdy nedostanou. 
 
@@ -113,7 +113,7 @@ Labužník prostě vyhledává restaurace, ve kterých podávaná jídla uspokoj
 
 Labužník není někdo, kdo navštěvuje populární, drahé a exklusivní restaurace jenom proto, aby tam „dýchal stejný vzduch“ s nějakými intelektuály nebo osobnostmi což je charakteristické pro snoby. 
 
-Do skupiny labužníků, abych se přiznal, patřím i já. Během mé praxe jsem procestoval téměř celý svět a s oblibou říkám, že sežeru všechno, co napřed nesežere mně a tak se dá říci, že není téměř žádné jídlo, které bych neochutnal, ale přesto mám své preference. Pracoval jsem také většinou v dobrých hotelích a restauracích, a to i v takových kde cena večeře na osobu mohla být ,- i více (bez vína), a kde jsem toho mohl sníst a vypít co hrdlo ráčí, ale nejlépe jsem si pochutnal, když mi manželka doma udělala knedlíky s vejci, šunkofleky nebo cmundu a dobrou českou sekanou nikdy neodmítnu. 
+Do skupiny labužníků, abych se přiznal, patřím i já. Během mé praxe jsem procestoval téměř celý svět a s oblibou říkám, že sežeru všechno, co napřed nesežere mně a tak se dá říci, že není téměř žádné jídlo, které bych neochutnal, ale přesto mám své preference. Pracoval jsem také většinou v dobrých hotelích a restauracích, a to i v takových kde cena večeře na osobu mohla být,- i více (bez vína), a kde jsem toho mohl sníst a vypít co hrdlo ráčí, ale nejlépe jsem si pochutnal, když mi manželka doma udělala knedlíky s vejci, šunkofleky nebo cmundu a dobrou českou sekanou nikdy neodmítnu. 
 
 Tudíž přes 60 let praxe v pohostinství bych se neopovažoval doporučovat nějaké restaurace jako pan Poštůlka, kterého, podle toho co jsem si na těch jeho stránkách přečetl, považuji za diletanta a bulšitáře, který možná rozumí něčemu jinému, ale který o gastronomii má velice zkreslené představy. 
 

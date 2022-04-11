@@ -9,7 +9,7 @@
 
 Asi tak v roce 1985, v době kdy jsem byl ředitelem Hospitality Institute International v Chicagu, jsem se občas zúčastňoval různých soutěží, včetně soutěží na recepty nových jídel. 
 
-Jednoho dne mi moje sekretářka Barbara ukázala v jednom odborném časopise inzerát velkého masného kombinátu na celostátní soutěž o nejlepší recept z vepřového masa vhodný pro restaurační kuchyně. První cena byla .000 což v té době byly docela velké peníze. 
+Jednoho dne mi moje sekretářka Barbara ukázala v jednom odborném časopise inzerát velkého masného kombinátu na celostátní soutěž o nejlepší recept z vepřového masa vhodný pro restaurační kuchyně. První cena byla.000 což v té době byly docela velké peníze. 
 
 Nebylo to ani tak pro ty peníze, protože když něco děláte jen pro peníze tak se vám to mnohdy nepodaří. Mně to ale bavilo a neustále jsem si chtěl dokazovat jak jsem dobrý a tak jsem si to přečetl. 
 

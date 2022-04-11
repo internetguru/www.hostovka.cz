@@ -115,7 +115,7 @@ To slovo "zadarmo", anglicky FOR FREE, nesmíte ale v Americe brát vážně.
 
 FOR FREE vidíte v Americe na každém rohu, ale ve skutečnosti to co je zadarmo někdo musí zaplatit. What a country! 
 
-I tento steak má totiž jeden háček. Ten steak je totiž zdarma jen pro toho, komu se ho podaří sníst během hodiny, a když se vám to za tu dobu nepodaří, tak zaplatíte pokutu . 
+I tento steak má totiž jeden háček. Ten steak je totiž zdarma jen pro toho, komu se ho podaří sníst během hodiny, a když se vám to za tu dobu nepodaří, tak zaplatíte pokutu. 
 
 Tato myšlenka, jak mi Robert J. Lee, zakladatel této restaurace řekl, vznikla v roce 1959, kdy do jeho restaurace přišel místní cowboy se slovy, že je tak hladový, že by snědl celou krávu. 
 

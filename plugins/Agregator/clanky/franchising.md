@@ -11,7 +11,7 @@ Asi tak v roce 1991, neboli ne příliš dlouho po Sametové revoluci, v době k
 
 Heslem mé americké konzultační firmy bylo: „Pokud váš záměr má předpoklady úspěchu, tak vám ho pomohu přivézt k úspěšnému konci, a pokud ne, tak vám ho za pár dolarů rozmluvím“. 
 
-Ten mladý muž, který se jmenoval Standa, byl absolvent nějaké hotelové školy, a právě se vrátil ze čtrnáctidenní dovolené ve Spojených státech, kde jak mi řekl, okoukal to americké pohostinství, které na něj údajně udělalo veliký dojem. Nejvíce se mu líbily všechny ty restaurace rychlého občerstvení, o čemž mně nemusel moc přesvědčovat, protože jsem ani nepředpokládal že by býval si mohl dovolit navštívit některou z těch restaurací kde by dal v průměru až .00 za večeři (bez vína). 
+Ten mladý muž, který se jmenoval Standa, byl absolvent nějaké hotelové školy, a právě se vrátil ze čtrnáctidenní dovolené ve Spojených státech, kde jak mi řekl, okoukal to americké pohostinství, které na něj údajně udělalo veliký dojem. Nejvíce se mu líbily všechny ty restaurace rychlého občerstvení, o čemž mně nemusel moc přesvědčovat, protože jsem ani nepředpokládal že by býval si mohl dovolit navštívit některou z těch restaurací kde by dal v průměru až.00 za večeři (bez vína). 
 
 To ale není předmětem mé úvahy. Předmětem mé úvahy je, jak naivní představy u nás mají odborníci (ten mladý muž byl odborník) o americkém pohostinství. Standovi se totiž nejvíce líbily restaurace zvané Submarin, které mají své jméno od tvaru sendvičů které jsou jejich jediným artiklem a které jsou ve tvaru ponorky. 
 
@@ -27,7 +27,7 @@ Subway je největší frenčízing tohoto typu na světě s asi 18.000 restaurac
 
 Submarin má své restaurace i malých obcích a tím pádem ve Spojených Státech má dnes více jednotek než například McDonalds. 
 
-Franchising Fee, což je členský poplatek za užívání jejich jména a jejich systému je ,500. Předpokládaná investice, podle velikosti je ,300 - ,000, přičemž je možnost financování třetí osobou. 
+Franchising Fee, což je členský poplatek za užívání jejich jména a jejich systému je,500. Předpokládaná investice, podle velikosti je ,300 - ,000, přičemž je možnost financování třetí osobou. 
 
 V členském poplatku je zahrnuto čtrnácti denní školení z čehož je 50% praxe a 50% teorie, a případná odborná pomoc. 
 
@@ -125,13 +125,13 @@ Od prvého dne kdy jsme vybudovali náš frenčízing, se tento systém stal „
 
 Nyní nabízíme finančně přijatelnou formu příležitost frenčízingu našeho systému zájemcům jako jste vy. Doufáme, že přiložené informace Vás zaujmou. 
 
-Celkové investice do našeho frenčízingu (mimo tříměsíční mimořádné operativní náklady, které mohou být od ,000 do ,000) jsou zpravidla mezi ,000 až ,000. Se správným financováním které vyžaduje zpravidla 20% až 30% budete potřebovat asi ,000 to ,000 vlastního kapitálu. 
+Celkové investice do našeho frenčízingu (mimo tříměsíční mimořádné operativní náklady, které mohou být od,000 do ,000) jsou zpravidla mezi ,000 až ,000. Se správným financováním které vyžaduje zpravidla 20% až 30% budete potřebovat asi ,000 to ,000 vlastního kapitálu. 
 
 Toto je relativně malá investice a potřeba vlastního kapitálu v hotovosti ve srovnáním s finančními náklady na získání frenčízingu nové restaurace rychlého občerstvení (fast food), které jsou téměř nedostupně vysoké. 
 
 Jestliže vaše první frenčízingová restaurace bude úspěšná, tak bude mít druhou a třetí ve velmi krátkém čase, a vybudujete si relativně úspěšný byznys s minimálními investicemi. 
 
-My hledáme frenčízory kteří mají alespoň pět let praxe v pohostinství nebo v příbuzné branži, kteří mají vážný zájem, a cíl vybudovat nejméně tři restaurace, a kteří mají minimálně .00 disponibilního kapitálu. 
+My hledáme frenčízory kteří mají alespoň pět let praxe v pohostinství nebo v příbuzné branži, kteří mají vážný zájem, a cíl vybudovat nejméně tři restaurace, a kteří mají minimálně.00 disponibilního kapitálu. 
 
 Jestliže máte požadované předpoklady, tak po obdržení našeho materiálu vyplňte laskavě přiloženou přihlášku. Jestliže vaše údaje budou odpovídat našim požadavkům budete pozváni k pohovoru při kterém vám budou předány bližší informace o našem frenčízingu. Náš frenčízing je velice atraktivní, také díky tomu, že vybíráme naše frenčízory velice opatrně, čímž je zabezpečena naše dlouhá spolupráce. 
 

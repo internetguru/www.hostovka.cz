@@ -63,7 +63,7 @@ No a to samé platí o jeho steacích. To je tedy bomba.
 
 Ve střehu by ale měl být i Aleš Dočka, majitel pražské restaurace Pivní KLub, V současnosti, zřejmě pod vedením Scotta, vzniká pivní klub, který má podpořit malé a střední pivovary, a to s pomocí spřátelených restaurací, které budou točit jejich pivo, a pak také pivních gurmánů. Gott sei dank! Konečně nás někdo o tom pivu něci naučí. 
 
-Ve střehu ale bychom měli být mi všichni, kteří se tím pohostinstvím již několik let zabýváme, protože se zrodila nová gastronomická hvězda, která nám teď konečně ukáže jak to pohostinství dělat lépe, což je podle mě je také veliká chucpa a výsměch českému pohostinství ,které si to nejspíše zaslouží. 
+Ve střehu ale bychom měli být mi všichni, kteří se tím pohostinstvím již několik let zabýváme, protože se zrodila nová gastronomická hvězda, která nám teď konečně ukáže jak to pohostinství dělat lépe, což je podle mě je také veliká chucpa a výsměch českému pohostinství,které si to nejspíše zaslouží. 
 
 Ve střehu by ale mělybýt i všechnny hamburgárny. To co v té BLACKDOG CANTNA podávají jako hamburger by měl být důvod k vysídlení Scotta zpět do Ameriky, kde by za to dpstal sto let tsíceletého žaláře. 
 

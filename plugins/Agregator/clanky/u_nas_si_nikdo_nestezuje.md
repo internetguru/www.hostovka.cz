@@ -33,13 +33,13 @@ No, asi by bývalo lepší, kdyby nám to polévku nedávali, protože ta polév
 
 To vše bych jim ale odpustil, ale rozhodně jim nemohu odpustit úroveň jejich služeb. 
 
-Při placení účtu, tak jako se to dělá v lepších restauracích, nám „paní vrchní“ předložila na tácku v Ambiente obálce s jakousi nepovedenou fotografií a odvážným: „JINDE UŽ SI NEPCHUTNÁTE“, a pokladní blok, což dejme tomu je také v pořádku . Co ale nebylo už tak v pořádku, že ta paní vrchní s kasírtaškou v ruce, nahlas a tak aby to slyšela nejenom moje partnerka, ale i všichni hosté u vedlejších stolů, ohlásila tu sumu 398,00 Kč. 
+Při placení účtu, tak jako se to dělá v lepších restauracích, nám „paní vrchní“ předložila na tácku v Ambiente obálce s jakousi nepovedenou fotografií a odvážným: „JINDE UŽ SI NEPCHUTNÁTE“, a pokladní blok, což dejme tomu je také v pořádku. Co ale nebylo už tak v pořádku, že ta paní vrchní s kasírtaškou v ruce, nahlas a tak aby to slyšela nejenom moje partnerka, ale i všichni hosté u vedlejších stolů, ohlásila tu sumu 398,00 Kč. 
 
 No, kdysi na učňovských školách se způsob vyúčtování s hostem učil již v prvních hodinách, což se ale asi již neučí, nicméně to není omluva. Porušil jsem tudíž moji zásadu nikomu neradit a řekl jsem té paní vrchní, že je to hrubé faux pas, ale se zlou jsme se potázal, protože ona si nejspíše myslela, že faux pas spíše bylo, že jsem se ji opovážil něco takového říci. 
 
 Já vím, že bych s tou Amerikou neměl již unavovat, a že mi to stejně nikdo nevěří, ale v Americe, v některých privátních klubech ceny na jídelních listcích vůbec nemají, protože říkají, že když se musíte ptát na cenu, že si to nejspíše stejně nemůžete dovolit. Ale i v některých „nóbl“ restauracích jídelní lístek s cenami dostane jen hostitel, a jeho hosté mají lístky bez cen, aby se nemuseli žinýrovat si vybrat jídlo podle své chuti. Nemějte ale obavy, v Česku něco takového hned tak nebude. 
 
-Pan Karpíšek , zakladatel Ambiente teď otevřel českou restauraci v Novém Yorku, kde určitě bude propagivat ty Czsch specials, ale jen doufám, že nebude propagovat ty české služby a že tam bude mít místní americké nevyučené servírky a číšníky protože s těmi českými by si dobrou reputaci asi neudělal. 
+Pan Karpíšek, zakladatel Ambiente teď otevřel českou restauraci v Novém Yorku, kde určitě bude propagivat ty Czsch specials, ale jen doufám, že nebude propagovat ty české služby a že tam bude mít místní americké nevyučené servírky a číšníky protože s těmi českými by si dobrou reputaci asi neudělal. 
 
 {id="dalsi" var="inputvar-pribuzne_h"}
 

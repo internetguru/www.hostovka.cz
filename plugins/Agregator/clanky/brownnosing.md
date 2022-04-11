@@ -35,7 +35,7 @@ Mnozí z nich, včetně mě, mimo jiných zemí pracovali také ve Francii, něk
 
 Jsem na některé naše kuchaře pyšný, protože přes 40 let gastronomického temna dnes získávají opět respekt a uznání téměř po celém světě. Obávám se ale, že někteří z nich mají stále hnědé nosy. 
 
-Žádná jiná země na světě se nemůže pochlubit tolika hotelovými školami na počet hostů, kolik jich máme my. V žádné jiné zemi nejsou všichni kuchaři vyučeni s maturitou a někteří dokonce i s doktorátem. _What a [BS][1] {xml:lang="en"}_ . Přesto si to necháme líbit. Naši osvoboditelé nám ve všem byli vzorem, ale nikdy se nás neopovážili učit [gastronomii][2]. 
+Žádná jiná země na světě se nemůže pochlubit tolika hotelovými školami na počet hostů, kolik jich máme my. V žádné jiné zemi nejsou všichni kuchaři vyučeni s maturitou a někteří dokonce i s doktorátem. _What a [BS][1] {xml:lang="en"}_. Přesto si to necháme líbit. Naši osvoboditelé nám ve všem byli vzorem, ale nikdy se nás neopovážili učit [gastronomii][2]. 
 
 {id="zahranicni_vzory"}
 
@@ -63,7 +63,7 @@ Souhlasím také s tím, že úspěch některých hotelových restaurací je v t
 
 S čím ale nemohu souhlasit, a dokonce se za to stydím, je, že naši kuchaři něco takového připustili. 
 
-Andrea Accordi potřeboval k tomu, aby se stal v Česku slavným jen půl roku. Slavný anglický kuchař Gordon Ramsay se v Česku stal slavným již po třech dnech, které tu strávil. _What a [BS][1] {xml:lang="en"}_ . 
+Andrea Accordi potřeboval k tomu, aby se stal v Česku slavným jen půl roku. Slavný anglický kuchař Gordon Ramsay se v Česku stal slavným již po třech dnech, které tu strávil. _What a [BS][1] {xml:lang="en"}_. 
 
 Nakonec vám musím dát jednu radu. Nemějte strach před velkými zvířaty a „bulšitáři“. Utřete si své hnědé nosy a řekněte si, že už toho je dost. Dejte lidem to, co chtějí a co jim za jejich peníze patří – nejen v hotelích, ale i v té nejzapadlejší hospodě. Nehoňte se za hvězdami, ale za spokojeností vašich hostů. 
 

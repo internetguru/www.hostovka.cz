@@ -21,7 +21,7 @@ Labužník je někdo, kdo si umí vychutnat všechno co mu chutná, bez ohledu n
 
 Do skupiny labužníků, abych se přiznal, patřím i já. Během mé praxe jsem procestoval téměř celý svět a dá se říci, že není téměř žádné jídlo které bych neochutnal. 
 
-Pracoval jsem také většinou v dobrých hotelích a restauracích, a to i v takových kde cena večeře na osobu mohla být ,- i více (bez vína), a kde jsem toho mohl sníst a vypít co hrdlo ráčí, ale nejlépe jsem si pochutnal když mi manželka doma udělala knedlíky s vejci, šunkofleky nebo cmundu a dobrou českou sekanou nikdy neodmítnu. 
+Pracoval jsem také většinou v dobrých hotelích a restauracích, a to i v takových kde cena večeře na osobu mohla být,- i více (bez vína), a kde jsem toho mohl sníst a vypít co hrdlo ráčí, ale nejlépe jsem si pochutnal když mi manželka doma udělala knedlíky s vejci, šunkofleky nebo cmundu a dobrou českou sekanou nikdy neodmítnu. 
 
 Všechno je to v sofistikovanosti hostů o které jsem se již zmínil, a o které se v Česku nemluví, a já si myslím, že vím proč. Většina Čechů po celou dobu gastronomického temna totiž neměla možnost navštěvovat dobré a případně luxusní restaurace, a kde tedy tu sofistikovanost měli získat. 
 

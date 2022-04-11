@@ -108,7 +108,7 @@ A tak se to pořád dokola střídá. Samozřejmě další věcí jsou odpracova
 
 Takže v konečném součtu za daný měsíc musí být oficiálně vykázané pouze hodiny dle zákonem daného počtu pracovních hodin v tom kterém měsíci a maximálně 30 hodin přesčas za měsíc! 
 
-Všechny ostatní odpracované hodiny ti buď zaměstnavatel zaplatí „jinak“ (hotově nebo formou prémie či mimořádné odměny atd.) nebo prostě nezaplatí vůbec ... 
+Všechny ostatní odpracované hodiny ti buď zaměstnavatel zaplatí „jinak“ (hotově nebo formou prémie či mimořádné odměny atd.) nebo prostě nezaplatí vůbec... 
 
 V případě, jak ty uvádíš (a je to tak i tady na hotelu), je nutné oficiálně uvádět odpracované hodiny, viz výše, tedy maximálně 12h směna, pak musí nastoupit někdo jiný nebo se musí vymyslet tzv. trhačky. Tzn., že ráno přijde 1 osoba, pracuje třeba jenom „do obědů“ a přichází další osoba(y), která pracují „do konce“ a k ní se třeba na večeře opět vrátí ta ranní směna atd. 
 

@@ -17,7 +17,7 @@ Základní charakteristikou každé cuisine, neboli "kuchyně" je místní, mnoh
 
 Některé tyto kuchyně se pak dělí na etnické, regionální, krajové či oblastní a každá tato "kuchyně" má svá vyhraněná specifika. 
 
-Popularita a obliba některé kuchyně překročiala oblast svého vzniku a získala si meziárodní oblibu a tím si vysloužila být označována jako cuisine . 
+Popularita a obliba některé kuchyně překročiala oblast svého vzniku a získala si meziárodní oblibu a tím si vysloužila být označována jako cuisine. 
 
 Mezi tyto kuchyně patří (v abecedním pořádku) kuchyně: Africká, Americká, Americká, Arabská, Argentinská, Arménská, Asijská, Australská, Balkánská, Belgická, Brazilská, Britská, Bulharská, Cajun, Česká, Čínská, Dánská, Egyptská, Evropská, Finská, Francouzská, Indická, Indonézská, Irská, Izraelská, Italská, Japonská, Jihoamerická,Jugoslávská, Kalifornská, Lebanonská, Malajská, Marocká, Mexická, Mongolská, Německá, Nouvele Cuisine, Orientální, Polská, Portugalská, Řecká, Rumunská, Ruská, Skandinávská, Skotská, Slovenská, Španělská, Srbská, Švédská, Švýcarská, Tex-Mex, Turecká, Vietnamská,Židovská. 
 

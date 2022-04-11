@@ -45,7 +45,7 @@ To slovo "zadarmo" nesmíte brát vážně, alespoň ne v Americe.
 
 FOR FREE, což v češtině znamená zadarmo, vidíte v Americe na každém rohu, ale ve skutečnosti to co je zadarmo někdo musí zaplatit. 
 
-Zadarmo ani kuře nehrabe. Má to tudíž jeden háček. Ten steak je zdarma jen pro toho, komu se ho podaří sníst během hodiny, a když se mu to za tu dobu nepodaří, tak zaplatí pokutu . 
+Zadarmo ani kuře nehrabe. Má to tudíž jeden háček. Ten steak je zdarma jen pro toho, komu se ho podaří sníst během hodiny, a když se mu to za tu dobu nepodaří, tak zaplatí pokutu. 
 
 Všechny steaky ale nejsou veliké. Některé steaky, jako například tournedo, jsou menší, o váze 4 unce, ale ty se zpravidla podávají 2 na porci. 
 

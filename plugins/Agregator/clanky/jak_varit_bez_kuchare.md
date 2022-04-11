@@ -7,7 +7,7 @@
 
 {kw="pohostinství"}
 
-Tento článek jsem před několika lety někde napsal , ale jako mnoho mých příspěvků do medii, má stále ještě svoji platnost a proto vám ho v trochu pozměněné formě předkládám i zde. 
+Tento článek jsem před několika lety někde napsal, ale jako mnoho mých příspěvků do medii, má stále ještě svoji platnost a proto vám ho v trochu pozměněné formě předkládám i zde. 
 
 Když si v kterékoliv knize přečteme definici kuchaře, co by všechno měl znát a co by všechno měl dělat, tak si teprve uvědomíme jak důležitá funkce to je v podnicích ve kterých se vaří. 
 

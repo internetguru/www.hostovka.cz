@@ -11,7 +11,7 @@ Vážení studenti Hostovky, já se netajím tím, že jsem Čechoameričan, a t
 
 Jako Američan jsem procestoval téměř celý svět, ale nikdy jsem neopomněl zdůraznit, že jsem původem Čech, na což jsem byl většinou velice pyšný jako například po proslovu prezidenta Havla, před americkým kongresem, který byl hodnocen jako jeden nejlepších proslovů předneseným před americkým kongresem vůbec. 
 
-Nikdy nezapomenu na to, jak jsem byl pyšný na to, že jsem Čech když mi ostatní profesoři na college na které jsem učil k tomu projevu presidenta Havla gratulovali . 
+Nikdy nezapomenu na to, jak jsem byl pyšný na to, že jsem Čech když mi ostatní profesoři na college na které jsem učil k tomu projevu presidenta Havla gratulovali. 
 
 Musím se ale přiznat, že byly, a jsou momenty, kdy se za mé české občanství stydím. Mluvím o českém pohostinství, protože ničemu jinému nerozumím, a které srovnávám s pohostinstvím v celém světě a tudíž i s pohostinstvím mého druhého domova to je Americkým. 
 
@@ -43,7 +43,7 @@ Já již více než 20 let denně sleduji trend úpadku českého pohostinství,
 
 Zlaté časy, kdy restaurace byly rozděleny do těch cenových skupin, kdy hospoda byla hospodou, kdy krčma byla krčmou, kdy hostinec byl hostincem, kdy byly známé rozdíly mezi restaurací, restaurantem a případně grand restaurantem, nebo francouzskou restaurací, kdy čínská restaurace musela být čínská, bulharská bulharskou, ruská ruskou apod. abych vyjmenoval alespoň některé. Je to hrůza, co se s tím českým pohostinstvím děje a obávám se, že žádnými Czech species, soutěžemi o nejlepší kotlíkový guláš, bigoš, který také není český, nebo kuchyní našich babiček to nezachráníme. 
 
-To pohostinství ale nezachráníme ani restauracemi jako je ten váš Buffalo Amecan Resaurant . 
+To pohostinství ale nezachráníme ani restauracemi jako je ten váš Buffalo Amecan Resaurant. 
 
 Předpokládám, že to Buffalo se vztahu k býkům a hovězímu masu a ne k Buffalu ve státě New York, v Americe protože nejspíše nevíš kde Amerika je a jaké restauranty tam jsou. 
 

@@ -23,7 +23,7 @@ Já jsem totiž od útlého mládí (od roku 1942) až donedávna byl vášnivý
 
 V Česku je údajně jeden sběratel který má více než sto vydání kuchařdké knihy Magdaleny Dobromily Rettigové, která je našim kuchařům dnes dávána za vzor, a v jejíž jméně jsoou našim kuchařům dávány dokonceny. 
 
-Já jednu nebo dvě její kuchařky také mám , ale jinak jsem sbíral více méně jen klasické knihy a to v jakémkoliv jazyce a nemusím vám říkat, že za komunismu to nebylo tak jednoduché protože konkrétně gastronomie, obzvláště ta cizí, nebyla pro budování socialismu důležitá. 
+Já jednu nebo dvě její kuchařky také mám, ale jinak jsem sbíral více méně jen klasické knihy a to v jakémkoliv jazyce a nemusím vám říkat, že za komunismu to nebylo tak jednoduché protože konkrétně gastronomie, obzvláště ta cizí, nebyla pro budování socialismu důležitá. 
 
 Dostal jsem ale nápad napsat většině antikvariátů prodávajících kuchařské knihy, a to nejen v Praze, ale i v ostatních velkých městech, s tím aby mě napsali pokud nějaké takové knihy budou mít. 
 
@@ -81,7 +81,7 @@ No, pochybuji, že by mí studenti, pragmatici vychovaní k tomu, aby se učili 
 
 Ale zpět k těm kuchařkám. Nechtěl bych vás odradit od kupování knížek protože já jsem také autor kuchařek. 
 
-V Americe dobrá kuchařská knížka stoji až , ale věřte mi, že já jsem takových peněz nikdy nelitoval pokud jsem nejméně 3-4 recetpty mohl opakovaně použít protože tím se tak knížka zaplatila. 
+V Americe dobrá kuchařská knížka stoji až, ale věřte mi, že já jsem takových peněz nikdy nelitoval pokud jsem nejméně 3-4 recetpty mohl opakovaně použít protože tím se tak knížka zaplatila. 
 
 Pro praktické využití nekupujte ale kuchařky podle obálky, podle barevných obrázků a ani ne podle jména autora. V Česku nebo na Slovensku tomu asi tak není, ale všude jinde na světě ti nejpopulárnější autoři ty kuchařky většinou sami nepíší a o tom, že by ta jídla byli schopni uvařit, ani nemluvě. 
 

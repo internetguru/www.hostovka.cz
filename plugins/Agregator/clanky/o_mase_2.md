@@ -91,7 +91,7 @@ a) dobré a b) špatné.
 
 Myslím, že to nikterak nepřeháním když například trvám i na dobré presentaci jídel. O Francouzích se říká, že těm tak na presentaci moc nezáleží a že důležitější pro ně jeho chuť. 
 
-Mně například vadí, když knedlíky jsou položeny na špatné straně vedle masa a nebo když nejsou správně složené čemuž se anglicky říká "shingled" , neboli že se skládají jako tašky nebo šindele na střeše. 
+Mně například vadí, když knedlíky jsou položeny na špatné straně vedle masa a nebo když nejsou správně složené čemuž se anglicky říká "shingled", neboli že se skládají jako tašky nebo šindele na střeše. 
 
 {id="steaky\_ze\_svkov"}
 

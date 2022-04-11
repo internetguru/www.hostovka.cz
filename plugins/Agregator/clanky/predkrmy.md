@@ -19,7 +19,7 @@ Do chřupava upečená křidélka dal do košíčku, přidal k nim na kousky kr�
 
 S něčím takovým se ti hosté ještě nesetkali a tak se barmana ptali, co to vlastně je, načež jim řekl, že jsou to prachobyčejná kuřecí křidélka z Bufala. Hostům ta křidélka nesmírně chutnala, a ten barman zřejmě znal moji techniku tvorby cen, podle které za jídlo počítáte tolik kolik jsou lidé ochotni za něj zaplatit, jim počítal 90 centů za každé křidélko. 
 
-Teď ale přijde to nejlepší. V té době celé kuře o váze asi 1600 gramů stálo .72, tudíž cena obou křidélek, které tvoří 14.28% z váhy celého kuřete byla 24 centů, neboli 12 centů za kus. Když vydělíme cenu každého křidélka jeho prodejní cenou (12/90) tak dostaneme food cost 13.3%, což se nám hned tak u něčeho nepodaří. 
+Teď ale přijde to nejlepší. V té době celé kuře o váze asi 1600 gramů stálo.72, tudíž cena obou křidélek, které tvoří 14.28% z váhy celého kuřete byla 24 centů, neboli 12 centů za kus. Když vydělíme cenu každého křidélka jeho prodejní cenou (12/90) tak dostaneme food cost 13.3%, což se nám hned tak u něčeho nepodaří. 
 
 Kuřecí křidélka se ale upravují i jinými způsoby, které jsou o něco pracnější, ale také i atraktivnější, takže se za ně počítá více, ale většinou to stojí za to. 
 

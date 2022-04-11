@@ -43,7 +43,7 @@ Já jsme proto na to přidal příspěvek ve kterém jsem se zmínil o tom, že 
 
 To se samořejmě samo z těch stránek vymazalo. 
 
-Nicméně teď, 4 dny po mých 80. narozeninách se na stránkách www.gastronews.cz , které na základě všech těch snah některých těch "uživatelů" mě z diskreditovat nemohu nazvat jinak než "latrina" se objevil následujicí článek. 
+Nicméně teď, 4 dny po mých 80. narozeninách se na stránkách www.gastronews.cz, které na základě všech těch snah některých těch "uživatelů" mě z diskreditovat nemohu nazvat jinak než "latrina" se objevil následujicí článek. 
 
 Nadpis: Re: NÍZKÁ ÚROVEŇ ŠKOLSTVÍ 
 

@@ -239,11 +239,11 @@ Každý párek s hořčicí a chlebem a s veškerým "trimmings" ho tehdy stál 
 
 Jeho hrubý zisk na jednom párku byl tudíž 68 centů (90-22= 68), což representuje teoreticky asi 76% hrubého zisku (68:90= 75.5). _What a country! {xml:lang="en"}_ 
 
-Zeptal jsem se ale, jakou má průměrnou denní tržbu. Načež mi řekl, že asi tak ,- což představovalo asi 550 párků. 
+Zeptal jsem se ale, jakou má průměrnou denní tržbu. Načež mi řekl, že asi tak,- což představovalo asi 550 párků. 
 
-Měl ten stánek otevřený od 11:00 do 22:00 hodin, nebo-li 11 hodin, což je hodin jako na kostele a v průměru prodal 55 párků za hodinu čímž vytvořil ,- hrubého zisku. 
+Měl ten stánek otevřený od 11:00 do 22:00 hodin, nebo-li 11 hodin, což je hodin jako na kostele a v průměru prodal 55 párků za hodinu čímž vytvořil,- hrubého zisku. 
 
-Ten stánek měl zaplacený, zaměstnance žádné neměl, takže po úhradě všech ostatních nákladů, které nemohly být vyšší než .- (asi 26% z tržby), mu teoreticky mohlo zbýt asi 244 dolarů ( - 130= ). 
+Ten stánek měl zaplacený, zaměstnance žádné neměl, takže po úhradě všech ostatních nákladů, které nemohly být vyšší než.- (asi 26% z tržby), mu teoreticky mohlo zbýt asi 244 dolarů ( - 130= ). 
 
 Připočteme-li k provozní době 2 hodiny pro nákup a přípravu a 2 hodiny pro úklid a vyúčtování, což je 15 pracovních hodin, zjistíme, že jeho teoretická hodinová mzda mohla být kolem 16.26 dolarů (před zdaněním). 
 

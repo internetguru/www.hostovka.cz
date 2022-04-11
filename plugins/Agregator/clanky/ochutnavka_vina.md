@@ -413,7 +413,7 @@ n/a
   * připálené víno - vykvašené při vysokých teplotách nebo příliš zahřáté při tepelné metodě 
   * reduktivní víno - nebylo při výrobě vystaveno působení vzduchu 
   * refraktoměr - optický přístroj k měření obsahu cukru v moštu nebo ve víně 
-  * rmut - odstopkované , rozdrcené bobule hroznů 
+  * rmut - odstopkované, rozdrcené bobule hroznů 
   * rmutový klobouk - viz kvasný klobouk 
   * ročníkové víno - pochází z hroznů sklizených v určitém roce; jsou ročníky, desetiletí a staletí, kdy se urodila velká vína výjimečných kvalit 
   * řezák - viz ostré víno 

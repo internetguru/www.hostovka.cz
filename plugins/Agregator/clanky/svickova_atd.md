@@ -53,7 +53,7 @@ Název svíčková vznikl v dobách, kdy hovězí maso bylo méně kvalitní a k
 
 Později, když se kvalita hovězího masa zlepšila a cena pravé svíčkové stoupla, tak hlavně v restauracích byla pravá svíčková nahrazena falešnou svíčkovou nebo prostě hovězím masem z kýty. 
 
-Toto maso, relativně málo odleželé (aged) , a málo prorostlé tukem (marbled) bylo špikováno (larded), a většinou rovněž nakládáno (pickled) do octového nálevu (pickling brine) s kořenovou zeleninou, který masu dodal jednak chuť a maso poněkud tenderizoval. 
+Toto maso, relativně málo odleželé (aged), a málo prorostlé tukem (marbled) bylo špikováno (larded), a většinou rovněž nakládáno (pickled) do octového nálevu (pickling brine) s kořenovou zeleninou, který masu dodal jednak chuť a maso poněkud tenderizoval. 
 
 Během doby vzniklo několik receptů na přípravy tohoto jídla, ale ať již bylo maso marinováno nebo ne, tak technika jeho úpravy je vždy téměř stejná. 
 

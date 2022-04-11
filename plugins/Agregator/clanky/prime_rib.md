@@ -290,7 +290,7 @@ Když ten steak nedopeče, tak ho v nejhorším případě dá ještě na někol
 Prime rib je ale úplně jiné zvíře. Z dobře upečeného primeribu ze kterého uspokojíte největší počet hostů podle jejich představ o propečenosti masa musíte mít asi následující počet porcí: 
 
   * 2 krajní porce, kterým se anglicky říká end cut, a které jsou v každém případě zcela propečené na stupeň zvaný well done (WD) tj. na 65°C. 
-  * 2 další porce z každého konce, celkem 4, které by měly být propečeny poněkud méně, na stupeň zvaný medium well (MW), tj. na 62°C, a které se vyznačují šedivou barvou . 
+  * 2 další porce z každého konce, celkem 4, které by měly být propečeny poněkud méně, na stupeň zvaný medium well (MW), tj. na 62°C, a které se vyznačují šedivou barvou. 
   * 2 další porce z každého konce (celkem 4),ukrojené blíže ze středu, které jsou propečeny na střední stupeň medium, tj. na 60°C, a které se vyznačují jasně růžovou barvou. 
   * 4 porce ze středu, upečené jen na medium rare nebo rare, což je syrové nebo téměř syrové, asi 50°C. 
 

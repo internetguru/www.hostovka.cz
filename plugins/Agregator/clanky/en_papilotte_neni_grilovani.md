@@ -27,7 +27,7 @@ Pokud se ale hovoří o grilování, tak se jedná o přípravu jídla přímým
 
 Jídla "en papilotte", neboli v pergamenu, kdysi připravovaná v troubě, na grilu připravovat nelze, protože by se ten pergamen spálil, nicméně jídla v alobalu, na grilu připravována být mohou. 
 
-To ale z odborného hlediska není grilování, nýbrž spíše dušení protože v tom alobalu se ta jídla „dusí“ buď v marinádě nebo nějaké jiné tekutině, takže tato technika se dá použít pro mnoho potravin, ale pro steaky, pokud je chceme nazývat grilované, v žádném případě ne . 
+To ale z odborného hlediska není grilování, nýbrž spíše dušení protože v tom alobalu se ta jídla „dusí“ buď v marinádě nebo nějaké jiné tekutině, takže tato technika se dá použít pro mnoho potravin, ale pro steaky, pokud je chceme nazývat grilované, v žádném případě ne. 
 
 {id="dalsi" var="inputvar-pribuzne_h"}
 

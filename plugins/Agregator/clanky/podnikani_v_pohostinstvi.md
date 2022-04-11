@@ -62,9 +62,9 @@ Bez potřebných odborných znalostí restauratér který v Americe staví svoji
 
 Investice nejméně jednoho milionu dolarů do relativně jednoduché restaurace je zcela běžná. Nalezení investora který se na riziku neúspěchu chce podílet, procento případného neúspěchu nikterak nesnižuje. 
 
-Plné zařízení restaurace o 100 místech stojí mezi .000 až .000 nebo i více za každé místo, neboli .000 až .000. K tomu musíte přičíst hodnotu pozemku v případě jeho koupě nebo jeho nájmu. 
+Plné zařízení restaurace o 100 místech stojí mezi.000 až .000 nebo i více za každé místo, neboli .000 až .000. K tomu musíte přičíst hodnotu pozemku v případě jeho koupě nebo jeho nájmu. 
 
-Na druhé straně stánek se sendviči můžete v Americe otevřít za méně než .000. Pokud se rozhodnete pro jakoukolif formu podnikání v pohstisntví a nejste si jisti že k tomu máte potřebné znalosti, tak se obraťte na renomovanou konzultační firmu nebo čtěte mé příspěvky na těchto stránkách. 
+Na druhé straně stánek se sendviči můžete v Americe otevřít za méně než.000. Pokud se rozhodnete pro jakoukolif formu podnikání v pohstisntví a nejste si jisti že k tomu máte potřebné znalosti, tak se obraťte na renomovanou konzultační firmu nebo čtěte mé příspěvky na těchto stránkách. 
 
 {id="investice\_do\_frenchizy"}
 
@@ -84,7 +84,7 @@ Heslem mé americké konzultační firmy je: "Pokud váš záměr má předpokla
 
 Standa byl absolvent některé z těch četných českých hotelových školy, a právě se vrátil ze čtrnáctidenní dovolené ve Spojených státech, kde během té doby, jak mi řekl, okoukal to americké pohostinství, které na něj údajně veliký dojem, a že teď prostě již ví v čem ten úspěch amerického pohostinství vězí. 
 
-Nejvíce se mu líbily všechny ty restaurace rychlého občerstvení, o čemž mně nemusel moc přesvědčovat, protože jsem ani nepředpokládal že by býval si mohl dovolit navštívit některou z těch lepších restaurací kde by za večeři (bez vína) dal .00 a možná i více. 
+Nejvíce se mu líbily všechny ty restaurace rychlého občerstvení, o čemž mně nemusel moc přesvědčovat, protože jsem ani nepředpokládal že by býval si mohl dovolit navštívit některou z těch lepších restaurací kde by za večeři (bez vína) dal.00 a možná i více. 
 
 To ale není předmětem mé úvahy. Předmětem mé úvahy jsou naivní představy našich "odborníků" (Standa se totiž za odborníka považoval) o americkém pohostinství. 
 
@@ -110,7 +110,7 @@ Subway má své restaurace i malých obcích a tím pádem ve Spojených Státec
 
 ## Frenchizink Fee 
 
-Frenchising Fee, což je členský poplatek za užívání jejich jména a jejich systému je ,500. Předpokládaná investice, podle velikosti je ,300 - ,000, přičemž je možnost financování třetí osobou. 
+Frenchising Fee, což je členský poplatek za užívání jejich jména a jejich systému je,500. Předpokládaná investice, podle velikosti je ,300 - ,000, přičemž je možnost financování třetí osobou. 
 
 V členském poplatku je zahrnuto čtrnácti denní školení z čehož je 50% praxe a 50% teorie, a případná odborná pomoc. No, a když se to tak vezme tak Standova naivita byla v tom, že si myslel že skutečnost že je absolvent hotelové školy mu stačí k tomu, aby se do tak jednoduché věci, jako je Submarin mohl pustil. Nemusím vám ale říkat, že jsem mu to během několika minut rozmluvil, což mi asi dodnes nemůže odpustit, ale na moji omluvu musím říci, že jsem mu za to nic nepočítal. 
 

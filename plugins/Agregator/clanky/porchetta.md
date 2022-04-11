@@ -9,7 +9,7 @@
 
 Porchetta, jeden z nejpopulárnějších masitých italských produktů je původem z města Arricia. 
 
-Arricia horské město jihovýchodně od Říma je již po 2000 let známé svými recepty jídel připravených z vepřového masa. Každý víkend více než 40.000 italských a jiných evropských turistů navštěvuje Arricii aby ochutnali jejích nejpopulárnější výrobek poršetu (Porchetta). Dnes ale několik rodin specialistů z Arricie vyváží jejich speciality do světa. Jejich nejznámější výrobky jsou Porchetta OriginaleTM , Coppiette OriginaliTM, Tronchetto OriginaleTM , a Zampetti OriginaliTM. 
+Arricia horské město jihovýchodně od Říma je již po 2000 let známé svými recepty jídel připravených z vepřového masa. Každý víkend více než 40.000 italských a jiných evropských turistů navštěvuje Arricii aby ochutnali jejích nejpopulárnější výrobek poršetu (Porchetta). Dnes ale několik rodin specialistů z Arricie vyváží jejich speciality do světa. Jejich nejznámější výrobky jsou Porchetta OriginaleTM, Coppiette OriginaliTM, Tronchetto OriginaleTM , a Zampetti OriginaliTM. 
 
 Toto je nejznámější ze zmíněných výrobků připravený podle 2000 let starého receptu, který je údajně přísně střežený. 
 

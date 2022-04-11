@@ -11,7 +11,7 @@ Přikládám kopii e-mailu od Jirky Feřtka, jednoho mého spolužáka na hotelo
 
 Děkuji, Jirko, 
 
-Ty teď, jak předpokládám, čteš Hostovku a možná i jiné web stránky do kterých přispívám jako je například www.cestovní-ruch.cz , nebo do kterých jsem přispíval jako je www.gastronews.cz, a tak asi vidíš, že trochu jinými slovy to samé píši již od Sametové revoluce a že jsem si zato vysloužil spoustu invenktiv a titulu zrádce českého národa, nebo při nejmenším českého pohostinství. 
+Ty teď, jak předpokládám, čteš Hostovku a možná i jiné web stránky do kterých přispívám jako je například www.cestovní-ruch.cz, nebo do kterých jsem přispíval jako je www.gastronews.cz, a tak asi vidíš, že trochu jinými slovy to samé píši již od Sametové revoluce a že jsem si zato vysloužil spoustu invenktiv a titulu zrádce českého národa, nebo při nejmenším českého pohostinství. 
 
 Pohostinství, prostřednictvím kterého se každý národ presentuje, je podle mě v České republice úplně na huntě. Já, jako český odborník, jsem v celém světě stále ještě respektován a při mé práci konzultanta jsem se k mému češství vždy hrdě hlásil a chlubil jsem se tím, že jsem se vyučil v Hotelu Alcron, což byl za mé éry jeden z těch předních hotelů v Evropě. 
 

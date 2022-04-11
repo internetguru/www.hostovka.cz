@@ -11,7 +11,7 @@ Sotýrování, anglicky sauté, od francouzského slovesa sauter, je kuchařský
 
 Sotýrování Francouzi ale nevynašli. Tato technika byla požívána i v jiných zemích a hlavně v Asii pod jinými názvy. 
 
-V Americe je tato technika známá jako stir-frying . 
+V Americe je tato technika známá jako stir-frying. 
 
 V Česku, až do doby objevení výhod grilování se technik sotýrování používala při přípravě tak zvaných minutek neboli jídel na objednávku. 
 

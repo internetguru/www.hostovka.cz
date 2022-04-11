@@ -23,7 +23,7 @@ Puristé dělají z pojídání fajitas úplný obřad, to nejspíše proto, aby
 
 Ve většině restaurací vám fajitas udělají dle přání, buď krvavou _(rare) {xml:lang="en"}_, růžovou _(medium rare) {xml:lang="en"}_ nebo propečenou _(well done) {xml:lang="en"}_. 
 
-Příprava fajitas trvá jen několik minut, tudíž dříve, než stačíte dopít druhou margaritu, máte jídlo na stole. Fajitas se podává na ještě se škvařící litinové pánvi, na které se v kuchyni jídlo grilovalo. Dále dostanete teplé kukuřičné tortilly, které se podávají ve speciální misce s poklopem, nebo zabalené ve fólii, případně v košíčku zvaném _chicuhite {xml:lang="es"}_ . 
+Příprava fajitas trvá jen několik minut, tudíž dříve, než stačíte dopít druhou margaritu, máte jídlo na stole. Fajitas se podává na ještě se škvařící litinové pánvi, na které se v kuchyni jídlo grilovalo. Dále dostanete teplé kukuřičné tortilly, které se podávají ve speciální misce s poklopem, nebo zabalené ve fólii, případně v košíčku zvaném _chicuhite {xml:lang="es"}_. 
 
 Mezi tím, co se na pruhy nakrájené maso a papričky ještě škvaří na pánvi, si na talíř z košíčku vyndáte tortillu. Z té jste si připravili obal (anglicky _wrapper {xml:lang="en"}_). Tortilly opět přikryjte, aby nevystydly. Tortillu pomažete tenkou vrstvou guacamole, posypete čerstvě sekaným koriandrem a navrch dáte 2 nebo 3 proužky horké fachitas a několik kousků papriky a cibule. 
 
