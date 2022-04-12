@@ -1,5 +1,5 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=105.html" data-image="files/preview/clanky/slow_food/general.jpg" data-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=105.html" data-image="/files/preview/clanky/slow_food/general.jpg" data-type="article"}
 
 {ctime="2005-11-08" mtime="2005-11-08" id="slow\_food" author="Michael Klíma" short="Slow food" authorid="hostovka/michael\_klima"}
 

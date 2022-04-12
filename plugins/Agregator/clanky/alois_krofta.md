@@ -1,5 +1,5 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=43.html" data-image="files/preview/clanky/alois_krofta/general.jpg" data-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=43.html" data-image="/files/preview/clanky/alois_krofta/general.jpg" data-type="article"}
 
 {ctime="2005-07-20" mtime="2019-11-07" id="alois_krofta" author="Michael Klíma" short="Alois Krofta"}
 

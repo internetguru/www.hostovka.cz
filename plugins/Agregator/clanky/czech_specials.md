@@ -59,7 +59,7 @@ Příbuzné články nejsou k dispozici
 
 n/a
 
- [1]: http://www.czechspecials.cz
+ [1]: http://www.czechspecials.cz/uvod
  [2]: gulas
  [3]: stroganov
  [4]: borsc

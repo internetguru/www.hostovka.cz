@@ -1,5 +1,5 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=178.html" data-image="files/preview/clanky/barding_house/general.jpg" data-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=178.html" data-image="/files/preview/clanky/barding_house/general.jpg" data-type="article"}
 
 {ctime="2006-09-22" mtime="2020-04-30" id="boarding_house" author="Michael Klíma" short="Boarding house"}
 

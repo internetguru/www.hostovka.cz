@@ -1,5 +1,5 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=426.html" data-image="files/preview/clanky/concierge/general.jpg" data-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=426.html" data-image="/files/preview/clanky/concierge/general.jpg" data-type="article"}
 
 {ctime="2009-05-03" mtime="2009-05-03" id="concierge" author="Michael Klíma" short="Concierge" authorid="hostovka/michael_klima"}
 

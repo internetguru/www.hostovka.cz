@@ -1,5 +1,5 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=56.html" data-image="files/preview/clanky/krabi/general.jpg" data-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=56.html" data-image="/files/preview/clanky/krabi/general.jpg" data-type="article"}
 
 {ctime="2005-08-05" mtime="2019-02-19" data-top="991" id="krabi" author="Michael Klíma" short="Krabi"}
 

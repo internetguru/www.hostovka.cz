@@ -1,5 +1,5 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=365.html" data-image="files/preview/clanky/banket/general.jpg" data-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=365.html" data-image="/files/preview/clanky/banket/general.jpg" data-type="article"}
 
 {ctime="2008-10-23" mtime="2018-12-06" data-top="989" id="banket" author="Michael Klíma" short="Banket"}
 

@@ -1,5 +1,5 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=87.html" data-image="files/preview/clanky/smazeni/general.jpg" data-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=87.html" data-image="/files/preview/clanky/smazeni/general.jpg" data-type="article"}
 
 {ctime="2005-10-30" mtime="2019-02-25" data-top="919" id="smazeni" author="Michael Klíma" short="Smažení"}
 

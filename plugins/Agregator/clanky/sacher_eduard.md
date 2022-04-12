@@ -1,5 +1,5 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=121.html" data-image="files/preview/clanky/sacher_eduard/preview.jpg" data-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=121.html" data-image="/files/preview/clanky/sacher_eduard/preview.jpg" data-type="article"}
 
 {ctime="2005-11-29" mtime="2005-11-29" id="sacher\_eduard" author="Michael Klíma" authorid="hostovka/michael\_klima"}
 

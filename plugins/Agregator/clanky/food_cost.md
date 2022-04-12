@@ -1,5 +1,5 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=392.html" data-image="files/preview/clanky/food_cost/general.jpg" data-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=392.html" data-image="/files/preview/clanky/food_cost/general.jpg" data-type="article"}
 
 {ctime="2009-04-09" mtime="2009-04-09" data-top="974" id="food\_cost" author="Michael Klíma" short="Food Cost" authorid="hostovka/michael\_klima"}
 

@@ -1,5 +1,5 @@
 
-{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=113.html" data-image="files/preview/clanky/bahmi_goreng/preview.jpg" data-type="article"}
+{xml:lang="cs" ns="https://www.hostovka.cz" class="docinfo linklist" data-source="http://2017.hostovka.cz/clanek.php?clanek=113.html" data-image="/files/preview/clanky/bahmi_goreng/preview.jpg" data-type="article"}
 
 {ctime="2005-11-21" mtime="2018-12-06" id="bahmi_goreng" short="Bahmi goreng" author="Michael Klíma"}
 
