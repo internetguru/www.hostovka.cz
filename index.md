@@ -20,7 +20,7 @@ Michael Dobromil Klíma[<span class="fa fa-tag">i</span>životopis {title="zobra
 
 ## Seznam článků 
 
-n/a 
+n/a
 
 {var="doclist-stitek"}
 
