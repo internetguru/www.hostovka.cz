@@ -1819,3 +1819,18 @@ div.part.internetguru form div input {
 /************************************/
 
 
+body[data-link="/seznam_clanku"].agregator-new .hdesc--top > div:after {
+  display: none;
+}
+body[data-link="/seznam_clanku"] .meta {
+  display: none;
+}
+body[data-link="/seznam_clanku"].agregator #content .hdesc--top + div:before {
+  display: none;
+}
+body[data-link="/seznam_clanku"].agregator .hdesc--top {
+  padding-bottom: 0;
+}
+body[data-link="/seznam_clanku"] .list-wrapper--single {
+  margin-top: 0;
+}
