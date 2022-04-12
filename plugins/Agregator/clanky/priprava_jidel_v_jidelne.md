@@ -3,29 +3,27 @@
 
 {ctime="2009-12-20" mtime="2009-12-20" id="priprava\_jidel\_v\_jidelne" author="Michael Klíma" short="Příprava jídel v jídelně" authorid="hostovka/michael\_klima"}
 
-# Příprava jídel v jídelně
-
-<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
+# Příprava jídel v jídelně 
 
 {kw="gastronomie"}
 
-Příprava jídel v jídelně je více zábava než práce. V Česku se z toho dělala a ještě dělá věda. Taková jídla musel připravoat Maitr d´hotel nebo kuchař, tak zvaný minutkář, který sice toho neuměl o nic více než kterýkoliv průměrný kuchař, který se ale vyznačoval tím, že byl více placený protože byl považován za specialistu. Ve světě, zejména v Americe, se takové práci iříká „Mickey Mouse work“, protože je to více zábva než práce. Proto dnes téměř po celém světě (mimio České republiky), přípravou jídel v jídelně, případně v tak zvaných „stage kitchens), nebo i ve všech těch fast food kuchyních, ty statisíce jídle připravují úplní laici a to velice dobře, a lacino.
+Příprava jídel v jídelně je více zábava než práce. V Česku se z toho dělala a ještě dělá věda. Taková jídla musel připravoat Maitr d´hotel nebo kuchař, tak zvaný minutkář, který sice toho neuměl o nic více než kterýkoliv průměrný kuchař, který se ale vyznačoval tím, že byl více placený protože byl považován za specialistu. Ve světě, zejména v Americe, se takové práci iříká „Mickey Mouse work“, protože je to více zábva než práce. Proto dnes téměř po celém světě (mimio České republiky), přípravou jídel v jídelně, případně v tak zvaných „stage kitchens), nebo i ve všech těch fast food kuchyních, ty statisíce jídle připravují úplní laici a to velice dobře, a lacino. 
 
-Původně způsob přípravy jídel v jídelně sledoval jeden účel a sice aby se co nejvíce krátila doba od přípravy jídla do doby jeho podávání či konzumace, ale se to zvrátilo ve snobismus.Pravý conoiseur by si své jídlo nenechal nikým u stolu pokazit.
+Původně způsob přípravy jídel v jídelně sledoval jeden účel a sice aby se co nejvíce krátila doba od přípravy jídla do doby jeho podávání či konzumace, ale se to zvrátilo ve snobismus.Pravý conoiseur by si své jídlo nenechal nikým u stolu pokazit. 
 
 {id="dalsi" var="inputvar-pribuzne_h"}
 
-## n/a
+## n/a 
 
-n/a
+n/a 
 
 {var="inputvar-relation@var"}
 
-Příbuzné články nejsou k dispozici
+Příbuzné články nejsou k dispozici 
 
 {var="doclist-stitek"}
 
-  * n/a
+  * n/a 
 
 {var="inputvar-taglist" class="taglist"}
 

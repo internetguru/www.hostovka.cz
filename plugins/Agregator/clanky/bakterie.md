@@ -3,33 +3,31 @@
 
 {ctime="2009-05-01" mtime="2019-11-07" id="bakterie" author="Michael Klíma" short="Bakterie"}
 
-# Mýtus o bakteriích
-
-<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
+# Mýtus o bakteriích 
 
 {kw="hygiena a sanitace"}
 
-Co to jsou bakterie to vám psát nebudu. Pokud to chcete znát definici, co jsou to bakterie, které jsou užitečné a které ne, tak se podívejte na internet. Chtěl bych se zde jen zmínit o jednom způsobu, jakým se bakterie množí.
+Co to jsou bakterie to vám psát nebudu. Pokud to chcete znát definici, co jsou to bakterie, které jsou užitečné a které ne, tak se podívejte na internet. Chtěl bych se zde jen zmínit o jednom způsobu, jakým se bakterie množí. 
 
-Když jdou maminky s dětmi na záchod, tak v domnění, že záchody jsou největším semeništěm bakterií své děti poučují a nabádají je k tomu, aby na nic nesahali a ničeho se nedotýkali. Také je učí, aby si po použití záchodu umyli ruce a aby dveře od záchodu otevírali a zavírali loktem.
+Když jdou maminky s dětmi na záchod, tak v domnění, že záchody jsou největším semeništěm bakterií své děti poučují a nabádají je k tomu, aby na nic nesahali a ničeho se nedotýkali. Také je učí, aby si po použití záchodu umyli ruce a aby dveře od záchodu otevírali a zavírali loktem. 
 
 {class="important"}
 
-Málokdo ale ví, že v porovnání se záchodovým prkénkem a se zadky lidí, mají ruce, obličeje, a dokonce i holohlavé hlavy (o těch vlasatých ani nemluvě) bakterií daleko více. Proto mi vadí, když si kuchaři při vaření otírají rukou upocené obličeje, škrábou se všude možně a pak stejnými prsty ochutnávají jídla a olizují si je.
+Málokdo ale ví, že v porovnání se záchodovým prkénkem a se zadky lidí, mají ruce, obličeje, a dokonce i holohlavé hlavy (o těch vlasatých ani nemluvě) bakterií daleko více. Proto mi vadí, když si kuchaři při vaření otírají rukou upocené obličeje, škrábou se všude možně a pak stejnými prsty ochutnávají jídla a olizují si je. 
 
 {id="dalsi" var="inputvar-pribuzne_h"}
 
-## n/a
+## n/a 
 
-n/a
+n/a 
 
 {var="inputvar-relation@var"}
 
-Příbuzné články nejsou k dispozici
+Příbuzné články nejsou k dispozici 
 
 {var="doclist-stitek"}
 
-  * n/a
+  * n/a 
 
 {var="inputvar-taglist" class="taglist"}
 

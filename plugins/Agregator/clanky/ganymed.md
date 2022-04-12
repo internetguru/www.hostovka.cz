@@ -3,31 +3,29 @@
 
 {ctime="2008-06-29" mtime="2008-06-29" id="ganymed" author="Michael Klíma" short="Ganymed" authorid="hostovka/michael_klima"}
 
-# Ganymed
-
-<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
+# Ganymed 
 
 {kw="kdo-kdy-kde"}
 
-V řecké mytologii Ganymed byl velice pohledný mladík z Troje, kterého Zeus přivedl na Olymp k obsluze bohů.
+V řecké mytologii Ganymed byl velice pohledný mladík z Troje, kterého Zeus přivedl na Olymp k obsluze bohů. 
 
-V české historii pohostinství to byl klub číšníků kteří se zabývali výchovou nových adeptů číšnického povolání a osvětou v pohostinství.
+V české historii pohostinství to byl klub číšníků kteří se zabývali výchovou nových adeptů číšnického povolání a osvětou v pohostinství. 
 
-Je škoda že tento klub upadl v zapomenutí protože dnes při obrodě českého pohostinství by takový klub mohl mít velký vliv na zlepšení práce našich číšníků.
+Je škoda že tento klub upadl v zapomenutí protože dnes při obrodě českého pohostinství by takový klub mohl mít velký vliv na zlepšení práce našich číšníků. 
 
 {id="dalsi" var="inputvar-pribuzne_h"}
 
-## n/a
+## n/a 
 
-n/a
+n/a 
 
 {var="inputvar-relation@var"}
 
-Příbuzné články nejsou k dispozici
+Příbuzné články nejsou k dispozici 
 
 {var="doclist-stitek"}
 
-  * n/a
+  * n/a 
 
 {var="inputvar-taglist" class="taglist"}
 

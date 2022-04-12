@@ -3,33 +3,31 @@
 
 {ctime="2008-07-06" mtime="2019-03-11" id="zdobeni" author="Michael Klíma" short="Zdobení"}
 
-# Zdobení jídla
-
-<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
+# Zdobení jídla 
 
 {kw="gastronomie"}
 
-Ozdobě jídel se říká všelijak: ozdoba, garnýr, garnitura, anglicky _garnish_, francouzsky _garniture_ apod. Ozdoby jsou výtvory [kuchařů studené kuchyně][1] (_garde manager_), kteří by neměli být zaměňováni se [stylisty jídla][2] (_food stylists_).
+Ozdobě jídel se říká všelijak: ozdoba, garnýr, garnitura, anglicky _garnish_, francouzsky _garniture_ apod. Ozdoby jsou výtvory [kuchařů studené kuchyně][1] (_garde manager_), kteří by neměli být zaměňováni se [stylisty jídla][2] (_food stylists_). 
 
-Některé ozdoby těchto kuchařů jsou doslova uměleckými výtvory. Dnes se s tím ještě setkáme při kuchařských soutěžích, banketech nebo studených bufetech. Při běžném stravování se na zdobení téměř zapomnělo.
+Některé ozdoby těchto kuchařů jsou doslova uměleckými výtvory. Dnes se s tím ještě setkáme při kuchařských soutěžích, banketech nebo studených bufetech. Při běžném stravování se na zdobení téměř zapomnělo. 
 
-V některých etnických kuchyních, jako například v kuchyni japonské nebo čínské, není zdobení teplých jídel obvyklé. Tato jídla jsou totiž sama o sobě dost pestrá. Francouzští kuchaři si na vzhled a ozdobu jídel moc nepotrpí, protože tvrdí, že se nejvíce hodnotí chuť jídla.
+V některých etnických kuchyních, jako například v kuchyni japonské nebo čínské, není zdobení teplých jídel obvyklé. Tato jídla jsou totiž sama o sobě dost pestrá. Francouzští kuchaři si na vzhled a ozdobu jídel moc nepotrpí, protože tvrdí, že se nejvíce hodnotí chuť jídla. 
 
-Nicméně v české kuchyni jsou jídla teplé kuchyně (zejména [minutky][3]) zdobena, ale neříká se tomu ozdoba, ale [obloha][4].
+Nicméně v české kuchyni jsou jídla teplé kuchyně (zejména [minutky][3]) zdobena, ale neříká se tomu ozdoba, ale [obloha][4]. 
 
 {id="dalsi" var="inputvar-pribuzne_h"}
 
-## n/a
+## n/a 
 
-n/a
+n/a 
 
 {var="inputvar-relation@var"}
 
-Příbuzné články nejsou k dispozici
+Příbuzné články nejsou k dispozici 
 
 {var="doclist-stitek"}
 
-  * n/a
+  * n/a 
 
 {var="inputvar-taglist" class="taglist"}
 

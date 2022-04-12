@@ -3,183 +3,181 @@
 
 {ctime="2007-04-08" mtime="2007-04-08" id="steaky\_2" author="Michael Klíma" short="Steaky 2" authorid="hostovka/michael\_klima"}
 
-# Steaky 2
-
-<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
+# Steaky 2 
 
 {kw="jídla a jídelní lístky"}
 
-Jak jsem se již zmínil, tak jsem po několika letech průzkumu vypracoval koncept jakéhosi amerického steakhousu přizpůsobeného evropským podmínkám, který se podle mých předpokladů velice dobře uchytil a pokud jsou nějaké stížnsti, tak je to jen na kvalitu masa kerou ale bohužel nemohu moc ovlivnit.
+Jak jsem se již zmínil, tak jsem po několika letech průzkumu vypracoval koncept jakéhosi amerického steakhousu přizpůsobeného evropským podmínkám, který se podle mých předpokladů velice dobře uchytil a pokud jsou nějaké stížnsti, tak je to jen na kvalitu masa kerou ale bohužel nemohu moc ovlivnit. 
 
-Jeden z vás se mně konkrétně ptal na Peppersteak.
+Jeden z vás se mně konkrétně ptal na Peppersteak. 
 
-V manuálu zmíněného konceptu se o pepersteacích zmiňuji a tak protože vás mám rád, tak přestože je to proti mému náboženstí, vám výňatek z toho manuálu přikládám.
+V manuálu zmíněného konceptu se o pepersteacích zmiňuji a tak protože vás mám rád, tak přestože je to proti mému náboženstí, vám výňatek z toho manuálu přikládám. 
 
 {id="peppersteak"}
 
-## PEPPERSTEAK
+## PEPPERSTEAK 
 
-Jednak vám asi došlo, že se jedná o steak a jelikož pepper je anglický název pro pepř tak jste si asi vydedukovali, že se jedná o steak okořeněný pepřem, v čemž máte pravdu.
+Jednak vám asi došlo, že se jedná o steak a jelikož pepper je anglický název pro pepř tak jste si asi vydedukovali, že se jedná o steak okořeněný pepřem, v čemž máte pravdu. 
 
-Na jídelních lístcích, a to ne jenom v Česku, se ale setkáte s několika verzemi takových steaků které jsou označeny určitými názvy, jako například:
+Na jídelních lístcích, a to ne jenom v Česku, se ale setkáte s několika verzemi takových steaků které jsou označeny určitými názvy, jako například: 
 
-Peppersteak, Pfeffersteak, Steak au Poivre, Steak Madagaskar, Steak ou Poivre Vert, Green Peppercorn Steak, apod.
+Peppersteak, Pfeffersteak, Steak au Poivre, Steak Madagaskar, Steak ou Poivre Vert, Green Peppercorn Steak, apod. 
 
-Jak ale víme, tak obzvláště v Česku, se téměř nikdo nezabývá tím aby takový steak podrobně popsal, a to buď proto, že to neví, a nebo proto, že přeceňuje znalosti jejich hostů.
+Jak ale víme, tak obzvláště v Česku, se téměř nikdo nezabývá tím aby takový steak podrobně popsal, a to buď proto, že to neví, a nebo proto, že přeceňuje znalosti jejich hostů. 
 
-Vy ale jako zaměstnanci konceptu STEAKGRILL. byste peppersteacích měli něco vědět co možná nejvíce protože jsou našimi specialitami.
+Vy ale jako zaměstnanci konceptu STEAKGRILL. byste peppersteacích měli něco vědět co možná nejvíce protože jsou našimi specialitami. 
 
-V prvé řadě byste měli vědět že rozdíl může být jak v použitém mase, v zařízení, tak i v technice přípravy a nakonec i v dalších potravinách které se k přípravě těchto steaků používají.
+V prvé řadě byste měli vědět že rozdíl může být jak v použitém mase, v zařízení, tak i v technice přípravy a nakonec i v dalších potravinách které se k přípravě těchto steaků používají. 
 
-V Česku,a zřejmě i na Slovensku, díky té dnešní demokracii si ty steaky každý dělá podle svého, ale my se musíme držet nějakých zásad a mezinárodních zvyklostí.
+V Česku,a zřejmě i na Slovensku, díky té dnešní demokracii si ty steaky každý dělá podle svého, ale my se musíme držet nějakých zásad a mezinárodních zvyklostí. 
 
-V našem konceptu děláme peppersteaky buď z roštěnce (sirloin) nebo ze svíčkové (beef tenderloin).
+V našem konceptu děláme peppersteaky buď z roštěnce (sirloin) nebo ze svíčkové (beef tenderloin). 
 
-Sirloin, neboli roštěnec, a v tomto případě roštěnec bez kostí (boneless), musí být dobře odleželý případně uzrálý (aged) a musí být dobře mramorovaný (marbled) Viz. mramorování
+Sirloin, neboli roštěnec, a v tomto případě roštěnec bez kostí (boneless), musí být dobře odleželý případně uzrálý (aged) a musí být dobře mramorovaný (marbled) Viz. mramorování 
 
-Náš roštěnec musí mít přiměřenou vrstvu tuku, kterou někteří kuchaři z neznalosti odříznou, což je neodpustitelná chyba, protože ten tuk dává tomu masu právě tu ojedinělou chuť.
+Náš roštěnec musí mít přiměřenou vrstvu tuku, kterou někteří kuchaři z neznalosti odříznou, což je neodpustitelná chyba, protože ten tuk dává tomu masu právě tu ojedinělou chuť. 
 
-Některé steaky se připravují s kostí (bone in), protože ta kost jim dává lepší chuť, ale peppersteaky se připravují zásadně z masa bez kostí (boneless).
+Některé steaky se připravují s kostí (bone in), protože ta kost jim dává lepší chuť, ale peppersteaky se připravují zásadně z masa bez kostí (boneless). 
 
-Váha porcí se liší podle krajových preferencí. V Americe běžná váha grilovaného steaku z roštěnce bez kosti je 12 až 14 uncí což je 340 až 397 gramů, kdežto v Evropě, díky ceně masa jsou tyto steaky o něco menši a také o něco tenčí protože Evropané mají rádi tyto steaky více propečené.
+Váha porcí se liší podle krajových preferencí. V Americe běžná váha grilovaného steaku z roštěnce bez kosti je 12 až 14 uncí což je 340 až 397 gramů, kdežto v Evropě, díky ceně masa jsou tyto steaky o něco menši a také o něco tenčí protože Evropané mají rádi tyto steaky více propečené. 
 
 {id="krajeni_steaku"}
 
-## KRÁJENÍ STEAKŮ
+## KRÁJENÍ STEAKŮ 
 
-Ideální je krájet steaky až při objednávce.
+Ideální je krájet steaky až při objednávce. 
 
-Krájíme je na čisté desce která je určena jen pro krájení masa, a to čistým a ostrým nožem protože krájení tupým nožem je jednak o mnoho namáhavější a navíc steaky ztrácí mnoho drahocenné šťávy. Viz. broušení nožů.
+Krájíme je na čisté desce která je určena jen pro krájení masa, a to čistým a ostrým nožem protože krájení tupým nožem je jednak o mnoho namáhavější a navíc steaky ztrácí mnoho drahocenné šťávy. Viz. broušení nožů. 
 
-Maso by mělo být až do doby krájení uloženo v lednici.
+Maso by mělo být až do doby krájení uloženo v lednici. 
 
-Při kuchyňské teplotě je maso příliš měkké, tak říkajíce "živé" a velmi těžko se z něj krájí úhledné steaky o stejné váze.
+Při kuchyňské teplotě je maso příliš měkké, tak říkajíce "živé" a velmi těžko se z něj krájí úhledné steaky o stejné váze. 
 
-Ideální je tak zvaný řeznický nůž, ale stejnou službu udělá ostrý kuchyňský nůž zvaný francouzák, anglicky chef's knife.
+Ideální je tak zvaný řeznický nůž, ale stejnou službu udělá ostrý kuchyňský nůž zvaný francouzák, anglicky chef's knife. 
 
 {id="sirloin\_steak\_au_poivre"}
 
-## SIRLOIN STEAK AU POIVRE
+## SIRLOIN STEAK AU POIVRE 
 
-Sirloin steak au poivre, česky steak z roštěnce na pepři, se zdá být nejznámější a nejpopulárnější, ale tento steak není vžy připravován tak jak má být a proto Vám přkládám moji verzi pro srovnání.
+Sirloin steak au poivre, česky steak z roštěnce na pepři, se zdá být nejznámější a nejpopulárnější, ale tento steak není vžy připravován tak jak má být a proto Vám přkládám moji verzi pro srovnání. 
 
-Au poivre znamená na pepři a v tomto případě na černém pepři, a to čerstvě drceném anglicky zvaném freshly crushed pepper,německy geshrotteter pfeffer.
+Au poivre znamená na pepři a v tomto případě na černém pepři, a to čerstvě drceném anglicky zvaném freshly crushed pepper,německy geshrotteter pfeffer. 
 
-Drcený pepř není to samé jako mletý pepř i kdyby byl hrubě mletý. Je v tom nepředstavitelný rozdíl. Pod pojmem drcený pepř v naši kuchyni rozumíme pepř který jsme čerstvě rozdrtili.
+Drcený pepř není to samé jako mletý pepř i kdyby byl hrubě mletý. Je v tom nepředstavitelný rozdíl. Pod pojmem drcený pepř v naši kuchyni rozumíme pepř který jsme čerstvě rozdrtili. 
 
-Jak si povšimnete tak čerstvě drcený pepř má intenzivní příjemnou vůni kterou ale do jednoho nebo dvou dnů ztrácí a proto ho drtíme, ne-li pro každé jídlo, tak alespoň denně. Viz. drcení pepře.
+Jak si povšimnete tak čerstvě drcený pepř má intenzivní příjemnou vůni kterou ale do jednoho nebo dvou dnů ztrácí a proto ho drtíme, ne-li pro každé jídlo, tak alespoň denně. Viz. drcení pepře. 
 
 {id="priprava"}
 
-### PŘÍPRAVA
+### PŘÍPRAVA 
 
-Naklepávání steaků je kriminální čin a měl by se trestat alespoň sto lety tisíciletého žaláře.
+Naklepávání steaků je kriminální čin a měl by se trestat alespoň sto lety tisíciletého žaláře. 
 
-Nicméně v naši kuchyni steaky tenderizujeme. Viz. tenedrizování.
+Nicméně v naši kuchyni steaky tenderizujeme. Viz. tenedrizování. 
 
 {id="soleni"}
 
-### Solení
+### Solení 
 
-Steaky ze zásady před tepelnou přípravou nesolíme protože sůl vysaje z osoleného steaku jeho drahocenné šťávy o čemž se můžete velice snadno přesvědčit když necháte osolený steak ležet na čistém talíři, abyste viděli o kolik šťávy přicházíte.
+Steaky ze zásady před tepelnou přípravou nesolíme protože sůl vysaje z osoleného steaku jeho drahocenné šťávy o čemž se můžete velice snadno přesvědčit když necháte osolený steak ležet na čistém talíři, abyste viděli o kolik šťávy přicházíte. 
 
 {id="koreneni"}
 
-### Kořenění
+### Kořenění 
 
-To samé se dá říci o kořenění, nicméně Peppersteak těsně před grilováním obalíme po jedné straně drceným pepřem.
+To samé se dá říci o kořenění, nicméně Peppersteak těsně před grilováním obalíme po jedné straně drceným pepřem. 
 
 {id="grilovani"}
 
-### Grilování
+### Grilování 
 
-Okořeněný steak položíme okořeněnou stranou na horký rošt grilu a grilujeme asi dvě minuty. Posléze steak kleštěmi obrátíme a grilujeme na požadovanou vnitřní teplotu.
+Okořeněný steak položíme okořeněnou stranou na horký rošt grilu a grilujeme asi dvě minuty. Posléze steak kleštěmi obrátíme a grilujeme na požadovanou vnitřní teplotu. 
 
-Význam termínu vnitřní teploty musíte znát nejenom vy, ale i obsluhující který musí hostům vysvětlit, že na teplotu medium well nebo na well done, což znamená dobře propečené, nemůžeme v našem konceptu steaky grilovat protože bychom nemohli zaručit jejich kvalitu.
+Význam termínu vnitřní teploty musíte znát nejenom vy, ale i obsluhující který musí hostům vysvětlit, že na teplotu medium well nebo na well done, což znamená dobře propečené, nemůžeme v našem konceptu steaky grilovat protože bychom nemohli zaručit jejich kvalitu. 
 
-Když někdo nemá rád steaky, nebo steky udělané na výše uvedenou vnitřní teplotu, tak by si steak neměl vůbec objednávat.
+Když někdo nemá rád steaky, nebo steky udělané na výše uvedenou vnitřní teplotu, tak by si steak neměl vůbec objednávat. 
 
-Typický Steak Au Poivre by měl být suchý, nicméně v mnoha zemích, a například i ve Francii, se podává přelitý omáčkou demi-glace. Viz. omáčky.
+Typický Steak Au Poivre by měl být suchý, nicméně v mnoha zemích, a například i ve Francii, se podává přelitý omáčkou demi-glace. Viz. omáčky. 
 
-Taktéž v Německu se setkáte s tím, že Pfeffersteak mit schwarzem geschroteten Pfeffer je přelitý s demi-glace do kterého byla přimíchána smetana.
+Taktéž v Německu se setkáte s tím, že Pfeffersteak mit schwarzem geschroteten Pfeffer je přelitý s demi-glace do kterého byla přimíchána smetana. 
 
 {var="doclist-stitek"}
 
-  * n/a
+  * n/a 
 
 {var="inputvar-taglist" class="taglist"}
 
-n/a
+n/a 
 
 {id="steak\_na\_pepri"}
 
-## Steak na pepři
+## Steak na pepři 
 
-Steak na pepři se dá také dělat v alobalu, ale podle mě to není moc košer. Jednak se ten steak musí napřed na grilu opéct aby měl barvu, ale v tom alobalu ten steak pak pustí šťávu, takže se pak vlastně dusí, což už není ono.
+Steak na pepři se dá také dělat v alobalu, ale podle mě to není moc košer. Jednak se ten steak musí napřed na grilu opéct aby měl barvu, ale v tom alobalu ten steak pak pustí šťávu, takže se pak vlastně dusí, což už není ono. 
 
-V Americe sice ve většině lepších restauracích dostanete pravý Steak Au Poivre přpravený "come il faut" ale pod názvem Pepeppersteak Američané rozumí něco úplně jiného.
+V Americe sice ve většině lepších restauracích dostanete pravý Steak Au Poivre přpravený "come il faut" ale pod názvem Pepeppersteak Američané rozumí něco úplně jiného. 
 
-Ten americký peppersteak jsou tenké plátky dobře odleželého roštěnce bez tuku nakrájené na kousky kterým se v Americe říká "Dollar size pieces", nebo nakrájené na šiřší nudličky (širší julienne).
+Ten americký peppersteak jsou tenké plátky dobře odleželého roštěnce bez tuku nakrájené na kousky kterým se v Americe říká "Dollar size pieces", nebo nakrájené na šiřší nudličky (širší julienne). 
 
-Toto maso se restuje,přhazuje nebo prostě sotýruje na horkém tuku v pánvi s kousky cibule, zelených a červených paprik, případně s plátky žampionů, okořeněné velkým množstvím drceného pepře, a nakonec se zalije zalije španěslou omáčkou nebo s demi-glace.
+Toto maso se restuje,přhazuje nebo prostě sotýruje na horkém tuku v pánvi s kousky cibule, zelených a červených paprik, případně s plátky žampionů, okořeněné velkým množstvím drceného pepře, a nakonec se zalije zalije španěslou omáčkou nebo s demi-glace. 
 
-Podává se okamžitě po dohotovení na horkém talíři nejčastěji na rýži nebo na nudlích. Viz. Standardní podniková receptura.
+Podává se okamžitě po dohotovení na horkém talíři nejčastěji na rýži nebo na nudlích. Viz. Standardní podniková receptura. 
 
-Někde k tomu peppersteaku dostanete ještě mrkev, ale to je již tak trochu zbytečné.
+Někde k tomu peppersteaku dostanete ještě mrkev, ale to je již tak trochu zbytečné. 
 
 {id="steak\_au\_poivre_vert"}
 
-## STEAK AU POIVRE VERT
+## STEAK AU POIVRE VERT 
 
-Česky STEAK NA ZELENÉM PEPŘI, je něco trošku jiného a sice proto, že místo roštěnce se používá steak ze svíčkové tak zvaný filet mignon, ten pepř je zelený a ten steak se nedělá na grilu nebo na gridlu, ale na pánvi.
+Česky STEAK NA ZELENÉM PEPŘI, je něco trošku jiného a sice proto, že místo roštěnce se používá steak ze svíčkové tak zvaný filet mignon, ten pepř je zelený a ten steak se nedělá na grilu nebo na gridlu, ale na pánvi. 
 
-Mignon, ve skutečnosti znamená "malý" takže i tyto steak jou zpravidla menší, a oproti těm předešlým steakům se dělá na pánvi v omáčce.
+Mignon, ve skutečnosti znamená "malý" takže i tyto steak jou zpravidla menší, a oproti těm předešlým steakům se dělá na pánvi v omáčce. 
 
-Zelený pepř jsou nezralé bobule pepře které se prodávají sušené, ale které se musí před přidáním do jídel máčet.
+Zelený pepř jsou nezralé bobule pepře které se prodávají sušené, ale které se musí před přidáním do jídel máčet. 
 
-Častěji se používá zelený pepř nakládaný v nálevu nebo v octě.
+Častěji se používá zelený pepř nakládaný v nálevu nebo v octě. 
 
-Nejlepší pepř přichází z Malajsie nebo z Madagaskaru a to ne jenom černý nebo bílý, ale i zelený. Proto stek na zeleném pepři je mnohdy nazýván STEAK MADAGASCAR.
+Nejlepší pepř přichází z Malajsie nebo z Madagaskaru a to ne jenom černý nebo bílý, ale i zelený. Proto stek na zeleném pepři je mnohdy nazýván STEAK MADAGASCAR. 
 
 {id="priprava1"}
 
-### PŘÍPRAVA
+### PŘÍPRAVA 
 
-Tenderizovaný steak ze svíčkové osolíme a vložíme do horké pánve na rozpálený olej případně s troškou, přepuštěného másla (což mu dá lepší chuť). Viz. přepuštěné máslo (drawn butter).
+Tenderizovaný steak ze svíčkové osolíme a vložíme do horké pánve na rozpálený olej případně s troškou, přepuštěného másla (což mu dá lepší chuť). Viz. přepuštěné máslo (drawn butter). 
 
-Jakmile steak dostane žádoucí barvu, obrátíme ho kleštěmi a opékáme z druhé strany několik okamžiků. Posléze přidáme předepsané množství zeleného pepře a demi-glace. Zmírníme teplotu, zjemníme smetanou a vařím asi 3-4 minuty. Jinak postupujeme podle podnikové kakulace.
+Jakmile steak dostane žádoucí barvu, obrátíme ho kleštěmi a opékáme z druhé strany několik okamžiků. Posléze přidáme předepsané množství zeleného pepře a demi-glace. Zmírníme teplotu, zjemníme smetanou a vařím asi 3-4 minuty. Jinak postupujeme podle podnikové kakulace. 
 
-Steak dáme na horký talíř, přelijeme přiměřeným množstvím omáčky, přidáme stanovenou přílohu a hned podáváme.
+Steak dáme na horký talíř, přelijeme přiměřeným množstvím omáčky, přidáme stanovenou přílohu a hned podáváme. 
 
-Toto jídlo, jako nakonec většina našich jídel, žádnou ozdobu nepotřebuje, tudíž pokud byste v naši restauraci k němu přidali nějakou typickou českou oblohu, tak jak jste byli možná zvyklí, tak si můžete hned hledat nové místo.
+Toto jídlo, jako nakonec většina našich jídel, žádnou ozdobu nepotřebuje, tudíž pokud byste v naši restauraci k němu přidali nějakou typickou českou oblohu, tak jak jste byli možná zvyklí, tak si můžete hned hledat nové místo. 
 
-Podobným způsobem připravujeme SIRLOIN STEAK AU POIVRE. Viz. podnikové kalkulace a receptury.
+Podobným způsobem připravujeme SIRLOIN STEAK AU POIVRE. Viz. podnikové kalkulace a receptury. 
 
-Jedním naším tajemstvím je že několik kuliček zeleného pepře mírně rozmáčkneme, čímž omáčka dostane lepší chuť.
+Jedním naším tajemstvím je že několik kuliček zeleného pepře mírně rozmáčkneme, čímž omáčka dostane lepší chuť. 
 
-Někdy peppersteaky flambujeme koňakem, ale to také nikomu neříkejte protože to je naše tajemství.
+Někdy peppersteaky flambujeme koňakem, ale to také nikomu neříkejte protože to je naše tajemství. 
 
 {var="doclist-stitek"}
 
-  * n/a
+  * n/a 
 
 {var="inputvar-taglist" class="taglist"}
 
-n/a
+n/a 
 
 {id="dalsi" var="inputvar-pribuzne_h"}
 
-## n/a
+## n/a 
 
-n/a
+n/a 
 
 {var="inputvar-relation@var"}
 
-Příbuzné články nejsou k dispozici
+Příbuzné články nejsou k dispozici 
 
 {var="doclist-stitek"}
 
-  * n/a
+  * n/a 
 
 {var="inputvar-taglist" class="taglist"}
 

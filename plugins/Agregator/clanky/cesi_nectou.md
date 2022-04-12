@@ -3,91 +3,89 @@
 
 {ctime="2009-11-04" mtime="2009-11-04" id="cesi\_nectou" author="Michael Klíma" short="Češi nečtou" authorid="hostovka/michael\_klima"}
 
-# Češi nečtou
-
-<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
+# Češi nečtou 
 
 {kw="pohostinství"}
 
-To není z mé hlavy, ale musím s tím souhlasit, protože pokud se týká pohostinství jsem se o tom již několikrát přesvědčil.
+To není z mé hlavy, ale musím s tím souhlasit, protože pokud se týká pohostinství jsem se o tom již několikrát přesvědčil. 
 
-Mám na české poměry relativně velkou multilinguální odbornou knihovnu, kterou jsem shromažďoval v zahraničí po dobu více než 40 let. Podle názoru mnohých odborníků v Americe, je to sbírka crème de la crème a jsem na ni velice pyšný. Odborné knihy nejsou v Americe nic laciného, a protože je jich tolik, jsem za ně za ta léta utratil celé jmění.
+Mám na české poměry relativně velkou multilinguální odbornou knihovnu, kterou jsem shromažďoval v zahraničí po dobu více než 40 let. Podle názoru mnohých odborníků v Americe, je to sbírka crème de la crème a jsem na ni velice pyšný. Odborné knihy nejsou v Americe nic laciného, a protože je jich tolik, jsem za ně za ta léta utratil celé jmění. 
 
-Když jsem musel v Americe prodat můj dům, tak jsem více než polovinu těch knih daroval místní knihovně, ale ty nejvzácnější jsem přivezl do Česka, což mně tedy stálo skoro více než ty knihy, v naivní představě, že dojdou k praktickému využití.
+Když jsem musel v Americe prodat můj dům, tak jsem více než polovinu těch knih daroval místní knihovně, ale ty nejvzácnější jsem přivezl do Česka, což mně tedy stálo skoro více než ty knihy, v naivní představě, že dojdou k praktickému využití. 
 
-Několikrát jsem českým odborníkům nabízel jejich použití, ale přesto, že někteří tu knihovnu viděli, tak až na nějaké výjimky, se většina z nich na ty knihy ani nepodívala.
+Několikrát jsem českým odborníkům nabízel jejich použití, ale přesto, že někteří tu knihovnu viděli, tak až na nějaké výjimky, se většina z nich na ty knihy ani nepodívala. 
 
-Vydedukoval jsem si, že je to nejspíše proto, že českých knih je v mé knihovně málo, a že to co je v cizích jazycích čeští odborníci všechno znají a navíc, že v Česku mají tolik českých kvalitních odborných časopisů, že nějakou zahraniční literaturu nepotřebují.
+Vydedukoval jsem si, že je to nejspíše proto, že českých knih je v mé knihovně málo, a že to co je v cizích jazycích čeští odborníci všechno znají a navíc, že v Česku mají tolik českých kvalitních odborných časopisů, že nějakou zahraniční literaturu nepotřebují. 
 
-Já jsem ale také Čech, a oproti některým mým kolegům, čtu o pohostinství a gastronomii všechno, i bobkové listy a mohu vám říci, že se i z těch českých odborných časopisů hodně naučím.
+Já jsem ale také Čech, a oproti některým mým kolegům, čtu o pohostinství a gastronomii všechno, i bobkové listy a mohu vám říci, že se i z těch českých odborných časopisů hodně naučím. 
 
-Čtu také například i časopis HotelRevue, který vychází 10 krát ročně ale u kterého náklad není udán, takže to, kolik lidí to čte, se nedá vlastně odhadnut. RvueHotel se podle mého názoru se spíše zabývá cestovním ruchem, pivem, vínem (someliéstvím) a gastronomii více než ubytováním a hotelnictvím, ale to je v pořádku, protože já mám důkazy o tom, že o sloučení všech těchto sektorů pohostinství usiluji již od Sametové revoluce. Tudíž to mi vadí nejméně, ale vadí mi, když někdo říká úplné bludy o něčem čemu ani za nehet nerozumí jako pan Daniel Meller.
+Čtu také například i časopis HotelRevue, který vychází 10 krát ročně ale u kterého náklad není udán, takže to, kolik lidí to čte, se nedá vlastně odhadnut. RvueHotel se podle mého názoru se spíše zabývá cestovním ruchem, pivem, vínem (someliéstvím) a gastronomii více než ubytováním a hotelnictvím, ale to je v pořádku, protože já mám důkazy o tom, že o sloučení všech těchto sektorů pohostinství usiluji již od Sametové revoluce. Tudíž to mi vadí nejméně, ale vadí mi, když někdo říká úplné bludy o něčem čemu ani za nehet nerozumí jako pan Daniel Meller. 
 
-Daniel Meller
+Daniel Meller 
 
-V úvodníku 5-6 čísla svého časopisu RevueHotel mimo jiné píše:
+V úvodníku 5-6 čísla svého časopisu RevueHotel mimo jiné píše: 
 
-Pro tento rok léto skončilo. Čas grilování je definitivně ten tam, loučíme se s barbarským, ale geneticky zafixovaným pojídáním opékaných masných pokrmů a vracíme se ke sporákům a troubám. Začínáme se věnovat opravdové gastronomii. Tak to dělají nejenom normální lidé, ale i kuchaři a profesionálové. Poznáte to podle toho, že začínají soutěže kuchařů. Na všech úrovních, regionálních, národních, ale i mezinárodní. Začala totiž prestižní soutěž.
+Pro tento rok léto skončilo. Čas grilování je definitivně ten tam, loučíme se s barbarským, ale geneticky zafixovaným pojídáním opékaných masných pokrmů a vracíme se ke sporákům a troubám. Začínáme se věnovat opravdové gastronomii. Tak to dělají nejenom normální lidé, ale i kuchaři a profesionálové. Poznáte to podle toho, že začínají soutěže kuchařů. Na všech úrovních, regionálních, národních, ale i mezinárodní. Začala totiž prestižní soutěž. 
 
-Nechci pokračovat v těch dalších slátaninách a bulšitech o českých kuchařích, protože to si v tom úvodníku můžete přečíst, ale musím uvést jeho zakončení:
+Nechci pokračovat v těch dalších slátaninách a bulšitech o českých kuchařích, protože to si v tom úvodníku můžete přečíst, ale musím uvést jeho zakončení: 
 
-Jenže „jenomkuchařům“ nemůžeme přenechat zodpovědnost za pohostinství, které je důležitou součástí turistického ruchu v České republice. To dá rozum. Tato práce se jmenuje mravenčí a nestojí v zájmu medií a neodehrává se ve světle ramp, ale může tam vést.
+Jenže „jenomkuchařům“ nemůžeme přenechat zodpovědnost za pohostinství, které je důležitou součástí turistického ruchu v České republice. To dá rozum. Tato práce se jmenuje mravenčí a nestojí v zájmu medií a neodehrává se ve světle ramp, ale může tam vést. 
 
-Tak to vidím, Váš
+Tak to vidím, Váš 
 
-Daniel Meller v. r.
+Daniel Meller v. r. 
 
-Podle mě zodpovědnost za vaření a gastronomii, jako podstatnou část pohostinství, musíme naopak předat „jenom těm kuchařům“. Kdo jiný má tu zodpovědnost z toho vaření převzít. To dá rozum, že to vaření v zájmu medií nestojí, protože to by jinak o těch špatných zkušenostech s některými jídly nebo restauracemi psali. To je jednak mravenčí práce a nic se za to neplatí a proto spíše píši to, co se odehrává ve světle ramp nebo nesvětle televizních obrazovek, případně ve všech těch restauracích pro těch horních deset tisíc.
+Podle mě zodpovědnost za vaření a gastronomii, jako podstatnou část pohostinství, musíme naopak předat „jenom těm kuchařům“. Kdo jiný má tu zodpovědnost z toho vaření převzít. To dá rozum, že to vaření v zájmu medií nestojí, protože to by jinak o těch špatných zkušenostech s některými jídly nebo restauracemi psali. To je jednak mravenčí práce a nic se za to neplatí a proto spíše píši to, co se odehrává ve světle ramp nebo nesvětle televizních obrazovek, případně ve všech těch restauracích pro těch horních deset tisíc. 
 
-No, ale tak to vidí pan Meller, který grilování, jako nejpoužívanější techniku vaření používanou dnes již biliony lidí po celém světě, označuje za barbarství a volá po návratu sporáků a trub, díky kterým se údajně začneme opět věnovat opravdové gastronomii.
+No, ale tak to vidí pan Meller, který grilování, jako nejpoužívanější techniku vaření používanou dnes již biliony lidí po celém světě, označuje za barbarství a volá po návratu sporáků a trub, díky kterým se údajně začneme opět věnovat opravdové gastronomii. 
 
-Co to je za bludy. Doufám, že nebude chtít, abychom se vrátili k otevřeným ohništím. Rád bych věděl, kdy pan Meller byl vůbec v nějaké kuchyni. Sporák v moderní kuchyni, jíž téměř neuvidíte. V tom nejlepším případě se v dnešní kuchyni setkáte s holdomaty, se šokéry, s fritézami, grily, gridly, rotisseriemi (gyros), salamandry, sklopnými pánvemi, kotli, dietními kotlíky a eventuálně s konvektomaty, které, když pominu mikrovlnné trouby, téměř všechna tato zařízení nahrazují a mně se nezdá, že lidé kteří tato zařízení používají by bili nějak nenormální.
+Co to je za bludy. Doufám, že nebude chtít, abychom se vrátili k otevřeným ohništím. Rád bych věděl, kdy pan Meller byl vůbec v nějaké kuchyni. Sporák v moderní kuchyni, jíž téměř neuvidíte. V tom nejlepším případě se v dnešní kuchyni setkáte s holdomaty, se šokéry, s fritézami, grily, gridly, rotisseriemi (gyros), salamandry, sklopnými pánvemi, kotli, dietními kotlíky a eventuálně s konvektomaty, které, když pominu mikrovlnné trouby, téměř všechna tato zařízení nahrazují a mně se nezdá, že lidé kteří tato zařízení používají by bili nějak nenormální. 
 
-Pokud se profesionálních soutěží týká tak panu Mellerovi asi ušlo, že ty soutěže se u nás pořádaly již za prvé republiky a dokonce už i za socialismu, a to také na úrovni regionální a národní. Teď ale naši kuchaři soutěží i mezinárodně a vyhrávají mnoho medailí, ale z nějakého důvodu se ty jejich kreace na jídelní lístky všech těch populárních restaurací zatím nedostaly, a o závodních a školních jídelnách, nebo menzách ani nemluvě a to asi proto, že v těchto kuchyních se kuchaři ještě nenaučili používat pinzety.
+Pokud se profesionálních soutěží týká tak panu Mellerovi asi ušlo, že ty soutěže se u nás pořádaly již za prvé republiky a dokonce už i za socialismu, a to také na úrovni regionální a národní. Teď ale naši kuchaři soutěží i mezinárodně a vyhrávají mnoho medailí, ale z nějakého důvodu se ty jejich kreace na jídelní lístky všech těch populárních restaurací zatím nedostaly, a o závodních a školních jídelnách, nebo menzách ani nemluvě a to asi proto, že v těchto kuchyních se kuchaři ještě nenaučili používat pinzety. 
 
-Tím se ale dostávám k dalšímu časopisu pro profesionály COT který vychází 11 krát ročně v nákladu 6 500 výtisků. Předpokládejme, že díky tomu předplatnému to většina těch předplatitelů čte, ale obávám se že je jen velmi málo těch, kteří by jako já, to četli „cover to cover“.
+Tím se ale dostávám k dalšímu časopisu pro profesionály COT který vychází 11 krát ročně v nákladu 6 500 výtisků. Předpokládejme, že díky tomu předplatnému to většina těch předplatitelů čte, ale obávám se že je jen velmi málo těch, kteří by jako já, to četli „cover to cover“. 
 
-Některé ty příspěvky, i když s nějakým zpožděním, jsou velice zajímavé, a já jsem za dobu mé praxe už něco napsal a to ve všech možných řečech, a tak vím, že je za tím nesmírné množství času. No, když to někdo píše za peníze, tak to není tak hrozné, ale pokud to někdo píše zadarmo, jako já, a pak zjistí, že to nikdo nečte, mu to přijde jako sisyfovská práce. Já se ale obávám, že mnoho odborníků, nebo dokonce ani ti kteří o pohostinství cestovním duchu píší to nečte, a pokud to čtou tak ale pochybuji, že cestují po světě, aby mohli srovnávat a viděli na vlastní oči ty chyby, kterých se to české pohostinství dopouští.
+Některé ty příspěvky, i když s nějakým zpožděním, jsou velice zajímavé, a já jsem za dobu mé praxe už něco napsal a to ve všech možných řečech, a tak vím, že je za tím nesmírné množství času. No, když to někdo píše za peníze, tak to není tak hrozné, ale pokud to někdo píše zadarmo, jako já, a pak zjistí, že to nikdo nečte, mu to přijde jako sisyfovská práce. Já se ale obávám, že mnoho odborníků, nebo dokonce ani ti kteří o pohostinství cestovním duchu píší to nečte, a pokud to čtou tak ale pochybuji, že cestují po světě, aby mohli srovnávat a viděli na vlastní oči ty chyby, kterých se to české pohostinství dopouští. 
 
-Na jedné straně je ten časopis plný pozitivních tabulek a článků o tom jak jsme všichni dobří. Uvádíme nekonečné seznamy nominovaných na nějaké ceny, ale jen zřídka se u těchto lidí dozvíte, za co byli vlastně nominováni. Ale ono vlastně o nic nejde, protože ty ceny se musí prostě rozdělit, a každý rok se to opakuje, takže při trošce trpělivosti se na každého dostane.
+Na jedné straně je ten časopis plný pozitivních tabulek a článků o tom jak jsme všichni dobří. Uvádíme nekonečné seznamy nominovaných na nějaké ceny, ale jen zřídka se u těchto lidí dozvíte, za co byli vlastně nominováni. Ale ono vlastně o nic nejde, protože ty ceny se musí prostě rozdělit, a každý rok se to opakuje, takže při trošce trpělivosti se na každého dostane. 
 
-Na druhé straně je podle některých tabulek a podle článku Jaromíra Beránka a několika jiných vidíme, že ono to s tím českým pohostinstvím tak růžové není a to nemluvím o hlasu lidu.
+Na druhé straně je podle některých tabulek a podle článku Jaromíra Beránka a několika jiných vidíme, že ono to s tím českým pohostinstvím tak růžové není a to nemluvím o hlasu lidu. 
 
-Nevím, který z našich králů byl tak dobrý, že posílal mezi lid špicly, aby špiclovali o tom, co se mezi lidem skutečně děje, a pak ty kteří šidili, okrádali nebo nedělali svoji práci, tak jak by měli, namáčel z Karlova mostu ve Vltavě.
+Nevím, který z našich králů byl tak dobrý, že posílal mezi lid špicly, aby špiclovali o tom, co se mezi lidem skutečně děje, a pak ty kteří šidili, okrádali nebo nedělali svoji práci, tak jak by měli, namáčel z Karlova mostu ve Vltavě. 
 
-září 2009 12:47 mimo jiné říká:“ Šidil jsem jako všichni. Do roku 1989 jsem pracoval pod podnikem Restaurace a Jídelny. Bral jsem 1200 Kč měsíčně a to stačilo akorát na inkaso. Hlavní motivací lidí, co pracovali v pohostinství – ale i jinde – bylo vydělat nějaké peníze, aby byl ten život k žití. Já chtěl žít standardně, nechtěl jsem živořit. A jediným způsobem, jak toho dosáhnout, bylo něco si ukrást. Tak jsem si holt něco ukrad.Nestydím se za to. Proč bych se měl stydět? Všichni to dělali. Nejsem na to hrdý, ale beru to tak, že když člověk žil v idiotské zemi, v idiotském zřízení, tak se musel chovat jako idiot, aby přežil. Myslím si, že když někdo něco umí líp než ostatní, měl by být placen víc než ostatní.
+září 2009 12:47 mimo jiné říká:“ Šidil jsem jako všichni. Do roku 1989 jsem pracoval pod podnikem Restaurace a Jídelny. Bral jsem 1200 Kč měsíčně a to stačilo akorát na inkaso. Hlavní motivací lidí, co pracovali v pohostinství – ale i jinde – bylo vydělat nějaké peníze, aby byl ten život k žití. Já chtěl žít standardně, nechtěl jsem živořit. A jediným způsobem, jak toho dosáhnout, bylo něco si ukrást. Tak jsem si holt něco ukrad.Nestydím se za to. Proč bych se měl stydět? Všichni to dělali. Nejsem na to hrdý, ale beru to tak, že když člověk žil v idiotské zemi, v idiotském zřízení, tak se musel chovat jako idiot, aby přežil. Myslím si, že když někdo něco umí líp než ostatní, měl by být placen víc než ostatní. 
 
-No vidíte, místo toho aby ho za to máčeli ve Vltavě, tak dnes z něj dělají vzor, ale já bych to máčení ve Vltavě opět zavedl a viděli byste, jak by se ten český incomming turismus zvětšil bez nějakých Czech Specials.
+No vidíte, místo toho aby ho za to máčeli ve Vltavě, tak dnes z něj dělají vzor, ale já bych to máčení ve Vltavě opět zavedl a viděli byste, jak by se ten český incomming turismus zvětšil bez nějakých Czech Specials. 
 
-Nechci ale říci, že všechno je na tom českém pohostinství špatné, ale o některých, kteří tomu pohostinství za pár šupů věnují všechno, i zdraví, se z nějakého důvodu nemluví.
+Nechci ale říci, že všechno je na tom českém pohostinství špatné, ale o některých, kteří tomu pohostinství za pár šupů věnují všechno, i zdraví, se z nějakého důvodu nemluví. 
 
-Mám na mysli naše české hospody. Máme sice líbivý televizní pořad o hospodách a lidé se u toho i zasmějí, ale věřte mi, že pravé hospody, ty které dali základ tomu našemu někdejšímu pohostinství, jsou o něčem jiném.
+Mám na mysli naše české hospody. Máme sice líbivý televizní pořad o hospodách a lidé se u toho i zasmějí, ale věřte mi, že pravé hospody, ty které dali základ tomu našemu někdejšímu pohostinství, jsou o něčem jiném. 
 
-Já bych se chtěl téměř vsadit, že v současném Česku není nikdo, kdo navštívil tolik luxusních restaurací kolik jsem jich za posledních 60 let po celém světě navštívil jako host, nemluvě o těch ve kterých jsem pracoval, tudíž mohu srovnávat jako host, ale i jako odborník za kterého se považuji, a věřte mi, že to srovnání těch českých rádoby „luxusních“ nebo „exkluzivních“ restaurací je někdy velice žalostné. Já jsem ale ani nad těmi lidovými restauracemi nikdy neohrnoval nos. Bylo mi 20 let, když jsem po návratu z Francie, díky mé odbornosti a jazykovým schopnostem, dostal místo jako chef de rangue ve francouzské restauraci v Hotelu Pupp v Karlových Varech. Byl jsem nejmladší chef de rangue v celé republice a připadal jsem si velice důležitý. Nosil jsem frak s tvrdým límcem, tvrdou náprsenkou a tvrdými manžetami, ale občas jsem jezdil pomáhat jednomu mému kamarádu do Jáchymova, kde jsem pracoval v obyčejné hospodě v kostkované košili s vytaženými rukávy, a kde jsem si útratu od těch horníků mnohdy musel vyboxovat.
+Já bych se chtěl téměř vsadit, že v současném Česku není nikdo, kdo navštívil tolik luxusních restaurací kolik jsem jich za posledních 60 let po celém světě navštívil jako host, nemluvě o těch ve kterých jsem pracoval, tudíž mohu srovnávat jako host, ale i jako odborník za kterého se považuji, a věřte mi, že to srovnání těch českých rádoby „luxusních“ nebo „exkluzivních“ restaurací je někdy velice žalostné. Já jsem ale ani nad těmi lidovými restauracemi nikdy neohrnoval nos. Bylo mi 20 let, když jsem po návratu z Francie, díky mé odbornosti a jazykovým schopnostem, dostal místo jako chef de rangue ve francouzské restauraci v Hotelu Pupp v Karlových Varech. Byl jsem nejmladší chef de rangue v celé republice a připadal jsem si velice důležitý. Nosil jsem frak s tvrdým límcem, tvrdou náprsenkou a tvrdými manžetami, ale občas jsem jezdil pomáhat jednomu mému kamarádu do Jáchymova, kde jsem pracoval v obyčejné hospodě v kostkované košili s vytaženými rukávy, a kde jsem si útratu od těch horníků mnohdy musel vyboxovat. 
 
-Dnes se ti hospodští o útratu se svými hosty nemusí boxovat, ale jinak si myslím, že si zachovali jistou autentitu. Bydlím teď v Račiněvsi, což je taková malá vesnice kousek od Roudnice nad Labem. Máme tady takovou typickou vesnickou hospodu. Hospoda nic moc. Střída se tam máma s dcerou. Nevím, jestli jsou vyučené nebo jestli mají hotelovou školu, ale mohu vám říci, že to dělají velice dobře. Asi 35 míst uvnitř a jeden stůl před hospodou, jedna výčepní stolice, dvě točená piva 10° a 11°, nějaké láhvové pivo, soft drinks, pár kořalek a dobré Roudnické víno, nějaké sušenky, cigarety, utopenci, tlačenka s cibulí a horká klobása, rollmops, pepřenky a to je myslím všechno. Já to vše ochutnal a všechno je to dobré.
+Dnes se ti hospodští o útratu se svými hosty nemusí boxovat, ale jinak si myslím, že si zachovali jistou autentitu. Bydlím teď v Račiněvsi, což je taková malá vesnice kousek od Roudnice nad Labem. Máme tady takovou typickou vesnickou hospodu. Hospoda nic moc. Střída se tam máma s dcerou. Nevím, jestli jsou vyučené nebo jestli mají hotelovou školu, ale mohu vám říci, že to dělají velice dobře. Asi 35 míst uvnitř a jeden stůl před hospodou, jedna výčepní stolice, dvě točená piva 10° a 11°, nějaké láhvové pivo, soft drinks, pár kořalek a dobré Roudnické víno, nějaké sušenky, cigarety, utopenci, tlačenka s cibulí a horká klobása, rollmops, pepřenky a to je myslím všechno. Já to vše ochutnal a všechno je to dobré. 
 
-Já tam občas chodím a musím říci, že docela rád. Narodil jsem se v Terezíně, což odtud není tak daleko a tak někdy vím o čem všechny ty pivní kecy jsou, ale to všechno je jakási nostalgie. Prostě mám ty Latrine Nachrichten z první ruky. Vím, kdo spí s kým, kdo se rozvádí a kdo je už rozvedený, vím, komu chcípla koza, která holka je zbouchnutá, kdo co komu přeje a nepřeje, kdo komu co závidí, prostě všechno co musím pro ten život na vesnici vědět. Mluví se také o někdejší slávě místního fotbalového klubu, nadává se ale na všechno, jak na to dobré tak i na to špatné, ale o politice se kupodivu mluví velice zřídka. Každý mi totiž říká, že v Česku, pokud nečteš noviny a nedíváš se na televizi, tak že je tu docela dobře. Občas někdo jede někam do zahraničí a pak několik dní nadává o něco více, ale pak se to vrátí do normálních kolejí. To víte, ten slovník, který se tam používá, není slovník z nějakého lycea, ale who cares, k té atmosféře vesnických hospod to podle mě patří, ale mohu vám říci že není zdaleka tak hrubý a sprostý jako slovník pana Pohlreicha, kterému za něj někteří lidé na televizi tleskají.
+Já tam občas chodím a musím říci, že docela rád. Narodil jsem se v Terezíně, což odtud není tak daleko a tak někdy vím o čem všechny ty pivní kecy jsou, ale to všechno je jakási nostalgie. Prostě mám ty Latrine Nachrichten z první ruky. Vím, kdo spí s kým, kdo se rozvádí a kdo je už rozvedený, vím, komu chcípla koza, která holka je zbouchnutá, kdo co komu přeje a nepřeje, kdo komu co závidí, prostě všechno co musím pro ten život na vesnici vědět. Mluví se také o někdejší slávě místního fotbalového klubu, nadává se ale na všechno, jak na to dobré tak i na to špatné, ale o politice se kupodivu mluví velice zřídka. Každý mi totiž říká, že v Česku, pokud nečteš noviny a nedíváš se na televizi, tak že je tu docela dobře. Občas někdo jede někam do zahraničí a pak několik dní nadává o něco více, ale pak se to vrátí do normálních kolejí. To víte, ten slovník, který se tam používá, není slovník z nějakého lycea, ale who cares, k té atmosféře vesnických hospod to podle mě patří, ale mohu vám říci že není zdaleka tak hrubý a sprostý jako slovník pana Pohlreicha, kterému za něj někteří lidé na televizi tleskají. 
 
-Proč to ale takto popisuji. Česká media se předhání v popisování všech těch drahých, luxusních, rádoby francouzských a ohvězdičkovaných restaurací, ve kterých podle mých zkušeností musí ti hodnotitelé ta jídla ochutnat, což tedy není nějaká oběť. Ta jídla, jak jinak, jsou vždy dobrá, a byli byste na omylu, pokud byste si mysleli, že je musí zaplatit, ale to jim nezávidím, protože to k tomu patří.
+Proč to ale takto popisuji. Česká media se předhání v popisování všech těch drahých, luxusních, rádoby francouzských a ohvězdičkovaných restaurací, ve kterých podle mých zkušeností musí ti hodnotitelé ta jídla ochutnat, což tedy není nějaká oběť. Ta jídla, jak jinak, jsou vždy dobrá, a byli byste na omylu, pokud byste si mysleli, že je musí zaplatit, ale to jim nezávidím, protože to k tomu patří. 
 
-Co mi ale vadí, že ani jeden z těch reportérů nezajde do těch bezejmenných českých vesnických hospod, o kterých se nikde nemluví. Vadí mi, že jim nikdo ani nepoděkuje za to, že si huntují zdraví v tom zakouřeném prostředí, ve kterém musí celý den poslouchat to hulákání těch hostů, a to mlácení do stolu těch karbaníků. Že jim nikdo nepoděkuje za to, že pomáhají lidem překlenout dobu od výplaty k výplatě bezúročnými půjčkami, apod.
+Co mi ale vadí, že ani jeden z těch reportérů nezajde do těch bezejmenných českých vesnických hospod, o kterých se nikde nemluví. Vadí mi, že jim nikdo ani nepoděkuje za to, že si huntují zdraví v tom zakouřeném prostředí, ve kterém musí celý den poslouchat to hulákání těch hostů, a to mlácení do stolu těch karbaníků. Že jim nikdo nepoděkuje za to, že pomáhají lidem překlenout dobu od výplaty k výplatě bezúročnými půjčkami, apod. 
 
-Já vím, že k tomu, aby někdo dostal uznání nějaké organizace, že napřed musí být jejím členem, který platí příspěvky, ale myslím si, že města a obce, by měly mít tu iniciativu ocenit dobrou práci restauračních podniků a v jejich regionech, včetně těch bezejmenných hospod, které nejsou nikde organizovaně a místo fotografie pana Pohlreicha, jim dávat například fotografii pana starosty.
+Já vím, že k tomu, aby někdo dostal uznání nějaké organizace, že napřed musí být jejím členem, který platí příspěvky, ale myslím si, že města a obce, by měly mít tu iniciativu ocenit dobrou práci restauračních podniků a v jejich regionech, včetně těch bezejmenných hospod, které nejsou nikde organizovaně a místo fotografie pana Pohlreicha, jim dávat například fotografii pana starosty. 
 
 {id="dalsi" var="inputvar-pribuzne_h"}
 
-## n/a
+## n/a 
 
-n/a
+n/a 
 
 {var="inputvar-relation@var"}
 
-Příbuzné články nejsou k dispozici
+Příbuzné články nejsou k dispozici 
 
 {var="doclist-stitek"}
 
-  * n/a
+  * n/a 
 
 {var="inputvar-taglist" class="taglist"}
 

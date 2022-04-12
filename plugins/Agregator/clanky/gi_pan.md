@@ -3,33 +3,31 @@
 
 {ctime="2007-03-29" mtime="2019-11-07" id="gi_pan" author="Michael Klíma" short="Pekáč GI pan"}
 
-# Původ názvu pekáče GI pan
-
-<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
+# Původ názvu pekáče GI pan 
 
 {kw="co-kdy-kde, Amerika"}
 
-_GI pan {xml:lang="en"}_ je označení speciálních pekáčů, dodnes používaných v amerických kuchyních. V samotné Americe ale jen velmi málo lidí zná původ tohoto názvu.
+_GI pan {xml:lang="en"}_ je označení speciálních pekáčů, dodnes používaných v amerických kuchyních. V samotné Americe ale jen velmi málo lidí zná původ tohoto názvu. 
 
-Po příchodu do Ameriky jsem sice věděl, že je _GI pan {xml:lang="en"}_ velký silnostěnný pekáč, ale nikdo mi nebyl schopen říci, proč se tak ten pekáč jmenuje. Byl bych ale velký pokrytec, kdybych svým studentům říkal, že kdo se neptá, nic se nedozví, a přitom bych se sám nechal odbýt neúplnou odpovědí.
+Po příchodu do Ameriky jsem sice věděl, že je _GI pan {xml:lang="en"}_ velký silnostěnný pekáč, ale nikdo mi nebyl schopen říci, proč se tak ten pekáč jmenuje. Byl bych ale velký pokrytec, kdybych svým studentům říkal, že kdo se neptá, nic se nedozví, a přitom bych se sám nechal odbýt neúplnou odpovědí. 
 
-Tudíž jsem se dále vyptával, až jsem v jedné kuchyni v Chicagu narazil na kuchaře, který byl o něco starší než já a který mi konečně řekl to, co jsem chtěl slyšet.
+Tudíž jsem se dále vyptával, až jsem v jedné kuchyni v Chicagu narazil na kuchaře, který byl o něco starší než já a který mi konečně řekl to, co jsem chtěl slyšet. 
 
-_GI {xml:lang="en"}_ je zkratka pro _gouvernement issue {xml:lang="en"}_. Touto zkratkou je označováno vše, co se v americké armádě „fasuje“ neboli vydává. Patři tam tedy i pekáče do kuchyně.
+_GI {xml:lang="en"}_ je zkratka pro _gouvernement issue {xml:lang="en"}_. Touto zkratkou je označováno vše, co se v americké armádě „fasuje“ neboli vydává. Patři tam tedy i pekáče do kuchyně. 
 
 {id="dalsi" var="inputvar-pribuzne_h"}
 
-## n/a
+## n/a 
 
-n/a
+n/a 
 
 {var="inputvar-relation@var"}
 
-Příbuzné články nejsou k dispozici
+Příbuzné články nejsou k dispozici 
 
 {var="doclist-stitek"}
 
-  * n/a
+  * n/a 
 
 {var="inputvar-taglist" class="taglist"}
 

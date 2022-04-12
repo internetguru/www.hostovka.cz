@@ -1,7 +1,7 @@
 
 {xml:lang="cs" ns="https://www.hostovka.cz" data-question="Pane Klímo, s oblibou čtu Vaše články, které myslím nemají chybu. Někdy ale skutečně použijete výraz, který nejenom že neznám, ale nedaří se mi ho nalézt v žádném slovníku a ani na internetu. Jedním z nich je slovo ambiance. Pokud vás to nebude moc obtěžovat, tak mi prosím napište co to znamená. Děkuji Andrea." data-answer="Vážená Andreo. Nechci se Vás nikterak dotknut, už jenom proto, že mi děláte komplimenty, ale jedno přikázání mého náboženství říká: "Nikomu nevěř, ani sobě", a protože jsem také velk‎ý previít, tak jsem se na ten internet podíval a máte pravdu, pod heslem "ambiance" tam je úplně něco jiného než co ta ambiance vlastně je. Ten v‎‎ýraz nenajdete ani v žádném americkém slovníku přestože se velice často používá. Vím ale, že je to francouzské slovo a tak jsem se podíval do francouzkého slovníku a tam pod heslem ambiance je okolí a ovzduší, což podle mně je asi jen tak desetina toho co se pod slovem ambiance rozumí v americkém pohostinství. V americkém pohostinství ambiance totiž zahrnuje sice i okolí a ovzduší, ale znamená to více méně celkov‎ý dojem z prostředí, nábytku, zařízení, uměleckých předmětů, a hudby, ale i dobr‎‎ý pocit z jídla a piítí, dobré nálady, neboli celkového uspokojení. V Česku se v poslední době používá v‎ý‎‎raz zážitková gastronomie který ale nebyl tuším nikdy nik‎ým podrobně popsán. Jedno Vám ale musím říci, že ambiance, stojí velké penize."}
 
-{id="faq30" author="InternetGuru" ctime="2021-07-01T17:48:21+02:00"}
+{id="faq30" author="InternetGuru" ctime="2022-01-18T14:30:59+01:00"}
 
 # Co znamená slovo ambiance?
 

@@ -3,33 +3,31 @@
 
 {ctime="2008-08-16" mtime="2008-08-16" id="divoka\_ryze" author="Michael Klíma" short="Divoká rýže" authorid="hostovka/michael\_klima"}
 
-# Divoká rýže
-
-<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
+# Divoká rýže 
 
 {kw="zbožíznalství"}
 
-Divoká rýže, anglicky zvaná wild rice, jsou vlastně semena rostliny Zizania palustris rostoucí divoce v mělčinách vodních toků a jezer v americkém státě Minesota a sousední Kanadě.
+Divoká rýže, anglicky zvaná wild rice, jsou vlastně semena rostliny Zizania palustris rostoucí divoce v mělčinách vodních toků a jezer v americkém státě Minesota a sousední Kanadě. 
 
-Tato rýže je velice pracně ručně sklízena místními Indiány podle insdiánkých rituálů a proto je relativně drahá. V současné době se její maloobcodní cena pohybuje kolem 28 dolarů za kilogram.
+Tato rýže je velice pracně ručně sklízena místními Indiány podle insdiánkých rituálů a proto je relativně drahá. V současné době se její maloobcodní cena pohybuje kolem 28 dolarů za kilogram. 
 
-Je velice populární a proto některé restaurace pod názvem divoká rýže podávají bílou rýži s smichanou s divokou rýží v poměru asi 2:8.
+Je velice populární a proto některé restaurace pod názvem divoká rýže podávají bílou rýži s smichanou s divokou rýží v poměru asi 2:8. 
 
-Divoká rýže, pokud je spráíně uvařená se velice navaří takže z jednoho kilogramu syrové rýže můžete získat 40 až 48 šálků vařené což je asi tak 80 až 90 porcí.
+Divoká rýže, pokud je spráíně uvařená se velice navaří takže z jednoho kilogramu syrové rýže můžete získat 40 až 48 šálků vařené což je asi tak 80 až 90 porcí. 
 
 {id="dalsi" var="inputvar-pribuzne_h"}
 
-## n/a
+## n/a 
 
-n/a
+n/a 
 
 {var="inputvar-relation@var"}
 
-Příbuzné články nejsou k dispozici
+Příbuzné články nejsou k dispozici 
 
 {var="doclist-stitek"}
 
-  * n/a
+  * n/a 
 
 {var="inputvar-taglist" class="taglist"}
 

@@ -3,166 +3,164 @@
 
 {ctime="2007-05-14" mtime="2007-05-14" data-top="966" id="sele" author="Michael Klíma" short="Sele" authorid="hostovka/michael_klima"}
 
-# Sele
-
-<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
+# Sele 
 
 {kw="jídla a jídelní lístky"}
 
-Kdysi se jistý Vladimír na stránkách www.gastronews.cz zeptal že by rád upekl na rožni sele a jestli mu někdo může poradit.
+Kdysi se jistý Vladimír na stránkách www.gastronews.cz zeptal že by rád upekl na rožni sele a jestli mu někdo může poradit. 
 
-Samozřejmě, jako obyčejně, mu nikdo neodpověděl, a tak v dobrém úmyslu jsem mu napsal to co o selatech vím já.
+Samozřejmě, jako obyčejně, mu nikdo neodpověděl, a tak v dobrém úmyslu jsem mu napsal to co o selatech vím já. 
 
-To bylo v dobách kdy jsem byl ještě naivní a hloupý a na všechny otázky jsem se snažil na těch stránkách odpovědět podle mého nejlepšího vědomí a svědomí, ale na to okamžitě reagovali všichni kteří o selatech také něco věděli, a já jako obyčejně jsem sklidil jen celou řadu urážek.
+To bylo v dobách kdy jsem byl ještě naivní a hloupý a na všechny otázky jsem se snažil na těch stránkách odpovědět podle mého nejlepšího vědomí a svědomí, ale na to okamžitě reagovali všichni kteří o selatech také něco věděli, a já jako obyčejně jsem sklidil jen celou řadu urážek. 
 
-No, do těch stránek již nepíši, ale i když nepředpokládám že vy jako studenti Hostovky byste někdy nějaké sele pekli, tak je možné, že se s ním setkáte třeba na nějakém věhlasném českém rautu a tak třeba bude dobré vědět jak se takové sele peče.
+No, do těch stránek již nepíši, ale i když nepředpokládám že vy jako studenti Hostovky byste někdy nějaké sele pekli, tak je možné, že se s ním setkáte třeba na nějakém věhlasném českém rautu a tak třeba bude dobré vědět jak se takové sele peče. 
 
-Jenom tak pro přesnost jsem Vladimírovi napsal, že na rožni se sele nepeče ale rožní, ale také jsem mu napsal, aby si tím nelámal moc hlavu protože lidé říkají rožnění grilování, barbekuování, rotisserie, prostě všelijak a ono v zásadě vlastně o moc nejde.
+Jenom tak pro přesnost jsem Vladimírovi napsal, že na rožni se sele nepeče ale rožní, ale také jsem mu napsal, aby si tím nelámal moc hlavu protože lidé říkají rožnění grilování, barbekuování, rotisserie, prostě všelijak a ono v zásadě vlastně o moc nejde. 
 
-Také jsem se Vladimírovi přiznal, že já jsem sele nikdy nerožnil.
+Také jsem se Vladimírovi přiznal, že já jsem sele nikdy nerožnil. 
 
-Já jsem sice už jako mladý kluk v Africe rožnil několik celých beranů, ale abych se přiznal, tak tehdy jsem vůbec nevěděl co vlastně dělám a koukal jsem na to jako tele na nová vrata.
+Já jsem sice už jako mladý kluk v Africe rožnil několik celých beranů, ale abych se přiznal, tak tehdy jsem vůbec nevěděl co vlastně dělám a koukal jsem na to jako tele na nová vrata. 
 
-Od té doby jsem se ale hodně naučil a chtěl jsem Vladimírovi nějak pomoci a tak jsem mu napsal, že to bude muset nějak odhadnout protože na tom v zásadě skutečně nic není a nakonec to stejně každý dělá podle svého.
+Od té doby jsem se ale hodně naučil a chtěl jsem Vladimírovi nějak pomoci a tak jsem mu napsal, že to bude muset nějak odhadnout protože na tom v zásadě skutečně nic není a nakonec to stejně každý dělá podle svého. 
 
-Základní pravidlo je, že se nesmí rožnit nad přímým ohněm, a že pod tím seletem musí být pekáč nebo nějakou nádobu na zachycení vypečeného tuku a šťávy a že u toho nesmíte nikterak pospíchat.
+Základní pravidlo je, že se nesmí rožnit nad přímým ohněm, a že pod tím seletem musí být pekáč nebo nějakou nádobu na zachycení vypečeného tuku a šťávy a že u toho nesmíte nikterak pospíchat. 
 
-Já jsem sele nerožnil nejspíše proto, že maso selete, je jemné a že nožičky, ouška, ocásek se na rožni velice snadno a rychle spálí.
+Já jsem sele nerožnil nejspíše proto, že maso selete, je jemné a že nožičky, ouška, ocásek se na rožni velice snadno a rychle spálí. 
 
-Na rožni také nemůžete dělat to sele nadívané, což ale není tak velký problém protože nádivku pokud ji chcete, si můžete udělat zvlášť.
+Na rožni také nemůžete dělat to sele nadívané, což ale není tak velký problém protože nádivku pokud ji chcete, si můžete udělat zvlášť. 
 
-Jinak koření a způsob přípravy je u většiny technik téměř stejný a tak jsem přiložil dva rozdílné recepty.
+Jinak koření a způsob přípravy je u většiny technik téměř stejný a tak jsem přiložil dva rozdílné recepty. 
 
 {id="pecene\_sele\_8-10_porci"}
 
-## Pečené sele (8-10 porcí)
+## Pečené sele (8-10 porcí) 
 
-V muslimských zemích se s pečeným seletem nesetkáte a v Izraeli také ne protože to není košer, ale v mnoha asijských zemím vepřové maso je téměř každodenní potravinou a je velice oblíbené.
+V muslimských zemích se s pečeným seletem nesetkáte a v Izraeli také ne protože to není košer, ale v mnoha asijských zemím vepřové maso je téměř každodenní potravinou a je velice oblíbené. 
 
-V některých východoevropských zemích bylo vepřové maso více méně svátečním jídlem.
+V některých východoevropských zemích bylo vepřové maso více méně svátečním jídlem. 
 
-Jedny svátky které se bez nějaké formy vepřového masa neobejdou jsou Vánoce a hlavně Silvestr nebo Nový rok.
+Jedny svátky které se bez nějaké formy vepřového masa neobejdou jsou Vánoce a hlavně Silvestr nebo Nový rok. 
 
-Jednou takovou sváteční formou úpravy vepřového masa, pokud máte dostatek hostů, je pečené sele.
+Jednou takovou sváteční formou úpravy vepřového masa, pokud máte dostatek hostů, je pečené sele. 
 
-Recept z Litvy
-:   1 sele 3,600 - 4,600 gramů
-:   2 šálky drobně sekané cibule
-:   3- 4 šálky jablek krájených na kostičky
-:   4- 6 šálků strouhanky
-:   4 lžíce rozpuštěného másla
-:   4 lžíce sekané zelené petrželky
-:   1 šálek mléka
-:   sůl
-:   pepř
-:   šalvěj nebo zázvor
+Recept z Litvy 
+:   1 sele 3,600 - 4,600 gramů 
+:   2 šálky drobně sekané cibule 
+:   3- 4 šálky jablek krájených na kostičky 
+:   4- 6 šálků strouhanky 
+:   4 lžíce rozpuštěného másla 
+:   4 lžíce sekané zelené petrželky 
+:   1 šálek mléka 
+:   sůl 
+:   pepř 
+:   šalvěj nebo zázvor 
 
-Postup
-:   Troubu vyhřejeme na 170°C.
+Postup 
+:   Troubu vyhřejeme na 170°C. 
 
-Sele omyjeme zevnitř a zvenčí ponořením do slabého roztoku jedlé sody a vody, přičemž dbáme obzvláště na omytí hlavy, oušek a čumáčku.
+Sele omyjeme zevnitř a zvenčí ponořením do slabého roztoku jedlé sody a vody, přičemž dbáme obzvláště na omytí hlavy, oušek a čumáčku. 
 
-Vodu slijeme a sele ponoříme na 15 minut do slabého roztoku soli. Po 15 minutách sele vyndáme a osušíme. Do vnitřku selete vetřeme sůl, případně pepř, šalvěj nebo zázvor.
+Vodu slijeme a sele ponoříme na 15 minut do slabého roztoku soli. Po 15 minutách sele vyndáme a osušíme. Do vnitřku selete vetřeme sůl, případně pepř, šalvěj nebo zázvor. 
 
-Strouhanku smícháme s cibulí, jablky, máslem a dostatečným množstvím mléka k vytvoření relativně měkkého těsta. Těstem naplníme vnitřek selete a sešijeme režnou nití.
+Strouhanku smícháme s cibulí, jablky, máslem a dostatečným množstvím mléka k vytvoření relativně měkkého těsta. Těstem naplníme vnitřek selete a sešijeme režnou nití. 
 
-Ouška, nožičky a ocásek zabalíme do aluminiové folie aby se během pečení nespálily a do rypáku vložíme kus kukuřice aby zůstal otevřený.
+Ouška, nožičky a ocásek zabalíme do aluminiové folie aby se během pečení nespálily a do rypáku vložíme kus kukuřice aby zůstal otevřený. 
 
-Nadité sele položíme břichem dolů, vložíme do vyhřáté trouby a za častého přelévání vypečený tukem a pečeme asi 1 ½ hodiny.
+Nadité sele položíme břichem dolů, vložíme do vyhřáté trouby a za častého přelévání vypečený tukem a pečeme asi 1 ½ hodiny. 
 
-Z pekáče slijeme všechen vypečený tuk, sele obložíme několika oloupanými bramborami a jablky a sele pečeme dalších 20-30 minut.
+Z pekáče slijeme všechen vypečený tuk, sele obložíme několika oloupanými bramborami a jablky a sele pečeme dalších 20-30 minut. 
 
-Nakonec z rypáku upečeného selete vyndáme kukuřici a nahradíme ji červeným jablkem. Z břicha vyndáme nitě kterými jsme sele zašili a sele položíme na <a>sokl {var="definition-sokl"}</a> z dušeného kyselého zelí, obložíme pečenými bramborami a jablky.
+Nakonec z rypáku upečeného selete vyndáme kukuřici a nahradíme ji červeným jablkem. Z břicha vyndáme nitě kterými jsme sele zašili a sele položíme na <a>sokl {var="definition-sokl"}</a> z dušeného kyselého zelí, obložíme pečenými bramborami a jablky. 
 
-Sele porcujeme a podáváme pokud možno hned po upečení. Po nějakém čase ta kůžička ztratí na své křupavosti a maso začíná tuhnout.
+Sele porcujeme a podáváme pokud možno hned po upečení. Po nějakém čase ta kůžička ztratí na své křupavosti a maso začíná tuhnout. 
 
-Ty porce nikdy moc úhledně nevypadají, ale to patří k věci.
+Ty porce nikdy moc úhledně nevypadají, ale to patří k věci. 
 
 {id="pecene\_sele\_west_virginia"}
 
-## Pečené sele West Virginia
+## Pečené sele West Virginia 
 
-Toto je můj vlastní tajný recept ku kterému se váže stejně tajná historka.
+Toto je můj vlastní tajný recept ku kterému se váže stejně tajná historka. 
 
-Krátce po příjezdu do Spojených států jsem pracoval nějaký čas v jednom golfovém resortu v Západní Virginii jako Executive Chef.
+Krátce po příjezdu do Spojených států jsem pracoval nějaký čas v jednom golfovém resortu v Západní Virginii jako Executive Chef. 
 
-Práce v tom resortu byla zajímavá, měl jsem tam relativně dobrý plat,spoustu zaměstnanců, velice dobré bydlení pro celou rodinu, ale mělo to své nedostatky.
+Práce v tom resortu byla zajímavá, měl jsem tam relativně dobrý plat,spoustu zaměstnanců, velice dobré bydlení pro celou rodinu, ale mělo to své nedostatky. 
 
-O Vest Virginii zlé jazyky tvrdí,že jsou tam samí Hillbilies, neboli křupani, což by mi bývalo nevadilo protože s tím se setkáte i v jiných zeemích, ale ani jeden z těch zaměsntanců nikdy neviděl žádný hotel natožpak kuchyni v privátním klubu.
+O Vest Virginii zlé jazyky tvrdí,že jsou tam samí Hillbilies, neboli křupani, což by mi bývalo nevadilo protože s tím se setkáte i v jiných zeemích, ale ani jeden z těch zaměsntanců nikdy neviděl žádný hotel natožpak kuchyni v privátním klubu. 
 
-To víte, vést kuchyni s absolventy nějaké české hotelové školy není žádné umění, ale vést ji s bandou lidí kteří v restaurační kuchyni nidky nebyli nebyla nějaká legrace, ale nakonec jsem si s tím poradil.
+To víte, vést kuchyni s absolventy nějaké české hotelové školy není žádné umění, ale vést ji s bandou lidí kteří v restaurační kuchyni nidky nebyli nebyla nějaká legrace, ale nakonec jsem si s tím poradil. 
 
-Horší je, že Západní Virginie je "suchý" stát. Což znamená, že podle zákona se v tom resortu nesměly podávat žádné alkoholické nápoje, neboli ani pivo.
+Horší je, že Západní Virginie je "suchý" stát. Což znamená, že podle zákona se v tom resortu nesměly podávat žádné alkoholické nápoje, neboli ani pivo. 
 
-Já, jako každý Čech, jsem občas měl chuť na pivo, ale Alkohol se prodával jen státních obchodech ve městě které bylo od toho resortu vzdálené asi 15 km, což bylo dosti z ruky.
+Já, jako každý Čech, jsem občas měl chuť na pivo, ale Alkohol se prodával jen státních obchodech ve městě které bylo od toho resortu vzdálené asi 15 km, což bylo dosti z ruky. 
 
-Ten zákon se ale nevztahoval na alkohol používaný při vaření a tak jako správný Čech jsem velmi rychle přišel na řešení. Dal jsem na jídelní lístek prostě několik jídel připravovaných na víně, ale hlavně na pivě, které jsem občas měl rád. Jedním z populárních receptů bylo sele pečené na pivě a tak jsem ho měl v lednici neustále několik beden.
+Ten zákon se ale nevztahoval na alkohol používaný při vaření a tak jako správný Čech jsem velmi rychle přišel na řešení. Dal jsem na jídelní lístek prostě několik jídel připravovaných na víně, ale hlavně na pivě, které jsem občas měl rád. Jedním z populárních receptů bylo sele pečené na pivě a tak jsem ho měl v lednici neustále několik beden. 
 
-Ideální k tomuto receptu je sele ne starší než 4 - 5 týdnů a ne těžší než 8 - 10 kg. Takové sele nemá vlastně kosti, jsou to spíše chřupky a proto by se nemuselo ani vykosťovat.
+Ideální k tomuto receptu je sele ne starší než 4 - 5 týdnů a ne těžší než 8 - 10 kg. Takové sele nemá vlastně kosti, jsou to spíše chřupky a proto by se nemuselo ani vykosťovat. 
 
-Vykostěné sele se však snadněji porcuje a proto jsem ho vždy raději vykostil. Sele můžeme po vykostění jen okořenit, srolovat, ovázat motouzem a péct jako každou jinou pečeni ne jako se peče 86" porchetta.
+Vykostěné sele se však snadněji porcuje a proto jsem ho vždy raději vykostil. Sele můžeme po vykostění jen okořenit, srolovat, ovázat motouzem a péct jako každou jinou pečeni ne jako se peče 86" porchetta. 
 
-Na seleti to ale není jen chuť toho masa, ale i jeho presentace. To je co dělá tento pokrm zajímavým a proto jsem ta selata pekl většinou celá nevykostěná.
+Na seleti to ale není jen chuť toho masa, ale i jeho presentace. To je co dělá tento pokrm zajímavým a proto jsem ta selata pekl většinou celá nevykostěná. 
 
-Příprava selete není sice nic komplikovaného, žádné umění, ale zabere to čas.
+Příprava selete není sice nic komplikovaného, žádné umění, ale zabere to čas. 
 
-K zachování alespoň částečného tvaru selete musíme jeho vnitřek něčím vyztužit nebo naplnit. Malá selata jsem nadíval houskovou nádivkou uvedenou níže, ale pokaždé jsem malá selata neměl a velká selata, která jsem musel použít, by spotřebovala moc nádivky, a tak jsem to řešil zpravidla tak, že jsem nádivku pekl zvlášť.
+K zachování alespoň částečného tvaru selete musíme jeho vnitřek něčím vyztužit nebo naplnit. Malá selata jsem nadíval houskovou nádivkou uvedenou níže, ale pokaždé jsem malá selata neměl a velká selata, která jsem musel použít, by spotřebovala moc nádivky, a tak jsem to řešil zpravidla tak, že jsem nádivku pekl zvlášť. 
 
-Pro zachování tvaru jsem dával do vnitřku selete prázdné velké očištěné plechovky od zeleniny, které jsem po upečení, těsně před servírováním vyndal.
+Pro zachování tvaru jsem dával do vnitřku selete prázdné velké očištěné plechovky od zeleniny, které jsem po upečení, těsně před servírováním vyndal. 
 
-Toto, jak jsem si později uvědomil, mělo ještě další výhodu, a sice tu, že plechovky které se uvnitř selete rozpálily, pekly vlastně sele i z vnitřku, což ve skutečnosti urychlilo jejich pečení a to bylo částečně mým tajemstvím.
+Toto, jak jsem si později uvědomil, mělo ještě další výhodu, a sice tu, že plechovky které se uvnitř selete rozpálily, pekly vlastně sele i z vnitřku, což ve skutečnosti urychlilo jejich pečení a to bylo částečně mým tajemstvím. 
 
-Vnitřek selete však můžete místo nádivkou vyplnit třeba jablky nebo bramborami, jež se mohou podávat jako příloha.
+Vnitřek selete však můžete místo nádivkou vyplnit třeba jablky nebo bramborami, jež se mohou podávat jako příloha. 
 
-Sele kupujeme vykuchané a očištěné, ale před další úpravou, pokud to řezník už neudělal, vyřízneme jazyk a sele dobře opereme, tak jak uvedeno v předešlém receptu - a necháme ho okapat hlavou dolů.
+Sele kupujeme vykuchané a očištěné, ale před další úpravou, pokud to řezník už neudělal, vyřízneme jazyk a sele dobře opereme, tak jak uvedeno v předešlém receptu - a necháme ho okapat hlavou dolů. 
 
-Po vykapání vnitřek selete dobře osušíme a vymažeme směsí soli, pepře, sekané petrželky, tymiánu a mletých bobkových listů.
+Po vykapání vnitřek selete dobře osušíme a vymažeme směsí soli, pepře, sekané petrželky, tymiánu a mletých bobkových listů. 
 
 {id="nadivka"}
 
-## Nádivka
+## Nádivka 
 
-V mixéru usekáme 2 šálky drobně sekané cibule, přidáme 2 lžíce zelené petrželky, 1/4 lžičky kerblíku, 1 lžičku drceného česneku, 1/2 lžičky soli, 1/2 lžičky mletého černého pepře, 1/4 lžičky tymiánu, 1/8 lžičky muškátového květu, 1/4 lžičky šalvěje, trošku muškátového oříšku, 1/8 lžičky koriandru a 1/4 lžičky majoránky. Směs dáme do hlubší pánve se 2 lžícemi másla a za stálého míchání dřevěnou vařečkou mícháme asi 5 minut.
+V mixéru usekáme 2 šálky drobně sekané cibule, přidáme 2 lžíce zelené petrželky, 1/4 lžičky kerblíku, 1 lžičku drceného česneku, 1/2 lžičky soli, 1/2 lžičky mletého černého pepře, 1/4 lžičky tymiánu, 1/8 lžičky muškátového květu, 1/4 lžičky šalvěje, trošku muškátového oříšku, 1/8 lžičky koriandru a 1/4 lžičky majoránky. Směs dáme do hlubší pánve se 2 lžícemi másla a za stálého míchání dřevěnou vařečkou mícháme asi 5 minut. 
 
-Mezitím namočíme asi 5 žemlí v bílém víně, dobře vymačkáme a dáme do hluboké mísy. Přidáme 1 nebo 2 jablka nakrájená na malé kostičky, restovanou směs, dobře zamícháme a necháme prochladnout. Směsí naplníme vnitřek selete a zašijeme.
+Mezitím namočíme asi 5 žemlí v bílém víně, dobře vymačkáme a dáme do hluboké mísy. Přidáme 1 nebo 2 jablka nakrájená na malé kostičky, restovanou směs, dobře zamícháme a necháme prochladnout. Směsí naplníme vnitřek selete a zašijeme. 
 
-Naplněnému seleti skrčíme nožičky a bříškem dolů ho na mřížku v pekáči tak, že sele v pekáči vlastně klečí. Ouška, nožičky a ocásek zabalíme do aluminiové folie aby se během pečení nespálily a do rypáku vložíme kus kukuřice aby zůstal otevřený. Sele potřeme rozpuštěným máslem a dáme do trouby vyhřáté ne výše než na 180°C. Pokud pečeme sele v příliš horké troubě, dělají se na kůžičce puchýře, které nevzhledně vypadají.
+Naplněnému seleti skrčíme nožičky a bříškem dolů ho na mřížku v pekáči tak, že sele v pekáči vlastně klečí. Ouška, nožičky a ocásek zabalíme do aluminiové folie aby se během pečení nespálily a do rypáku vložíme kus kukuřice aby zůstal otevřený. Sele potřeme rozpuštěným máslem a dáme do trouby vyhřáté ne výše než na 180°C. Pokud pečeme sele v příliš horké troubě, dělají se na kůžičce puchýře, které nevzhledně vypadají. 
 
-Sele pečeme asi 2 hodiny. Aby byla kůžička selete po upečení zlatová a chřupavá, často potíráme povrch selete během pečení pivem a přeléváme vlastní šťávou a tím dostane to sele nejenom krásnou zlatovou barvu, ale jeho kůžička je chřupavá, tak jak je to žádoucí.
+Sele pečeme asi 2 hodiny. Aby byla kůžička selete po upečení zlatová a chřupavá, často potíráme povrch selete během pečení pivem a přeléváme vlastní šťávou a tím dostane to sele nejenom krásnou zlatovou barvu, ale jeho kůžička je chřupavá, tak jak je to žádoucí. 
 
-A u toho je to druhé tajemství mého receptu, a sice množství toho piva.
+A u toho je to druhé tajemství mého receptu, a sice množství toho piva. 
 
-Všude jinde kde není prohibice, by toho piva na jedno sele měl stačit asi tak litr nejvýše dva, ale v mém tajném receptu na Sele West Virginia bylo však počítáno s celou bednou protože jsem to pečení musel také pivem zapíjet.
+Všude jinde kde není prohibice, by toho piva na jedno sele měl stačit asi tak litr nejvýše dva, ale v mém tajném receptu na Sele West Virginia bylo však počítáno s celou bednou protože jsem to pečení musel také pivem zapíjet. 
 
-Z pečeného selete odřízneme napřed opečenou kůžičku (kterou gurmáni považují za to nejlepší) a maso a nádivku dokud jsou horké krájíme na porce.
+Z pečeného selete odřízneme napřed opečenou kůžičku (kterou gurmáni považují za to nejlepší) a maso a nádivku dokud jsou horké krájíme na porce. 
 
-Vypečenou šťávu odtučníme, přecedíme a nezahuštěnou podáváme zvlášť v omáčníku.
+Vypečenou šťávu odtučníme, přecedíme a nezahuštěnou podáváme zvlášť v omáčníku. 
 
-Pro 15 ? 20 lidí by 15 kg sele mělo bohatě stačit, ale záleží co k tomu budete podávat jako filler neboli plnič.
+Pro 15 ? 20 lidí by 15 kg sele mělo bohatě stačit, ale záleží co k tomu budete podávat jako filler neboli plnič. 
 
-15 kg se sice zdá být moc, ale po upečení nebo grilování toho tom seleti toho moc není. Záleží na jaký stupeň to sele vypečete.
+15 kg se sice zdá být moc, ale po upečení nebo grilování toho tom seleti toho moc není. Záleží na jaký stupeň to sele vypečete. 
 
-V některých kuchařkách jsou sice obrázky jak takové sele karvrovat, ale ty dělají většinou lidé kteří žádné sele v životě pořádně neupekli.
+V některých kuchařkách jsou sice obrázky jak takové sele karvrovat, ale ty dělají většinou lidé kteří žádné sele v životě pořádně neupekli. 
 
-Pečené nebo grilované sele, pokud ho chcete karvrovat před zraky hostů je totiž prevít, obzvláště když je ta kůžička dobře upečená. Tudíž ideální je ho porcovat v kuchyni, ale to pak není ten efekt.
+Pečené nebo grilované sele, pokud ho chcete karvrovat před zraky hostů je totiž prevít, obzvláště když je ta kůžička dobře upečená. Tudíž ideální je ho porcovat v kuchyni, ale to pak není ten efekt. 
 
-Já vím, že se zase někdo najde kdo řekne, že kecám, ale věřte mi, že jsem se těch selat napekl stovky ale to karvrování a ta výtěžnost je různá od selete k seleti.
+Já vím, že se zase někdo najde kdo řekne, že kecám, ale věřte mi, že jsem se těch selat napekl stovky ale to karvrování a ta výtěžnost je různá od selete k seleti. 
 
-Z toho všeho vyplývá že by vám mělo zbýt asi tak 6000 gramů upotřebitelného masa, ale to je jen velice naivní představa, protože při sebe zručnějším karvrování zbude spousta neupotřebitelného ořezu.
+Z toho všeho vyplývá že by vám mělo zbýt asi tak 6000 gramů upotřebitelného masa, ale to je jen velice naivní představa, protože při sebe zručnějším karvrování zbude spousta neupotřebitelného ořezu. 
 
 {id="dalsi" var="inputvar-pribuzne_h"}
 
-## n/a
+## n/a 
 
-n/a
+n/a 
 
 {var="inputvar-relation@var"}
 
-Příbuzné články nejsou k dispozici
+Příbuzné články nejsou k dispozici 
 
 {var="doclist-stitek"}
 
-  * n/a
+  * n/a 
 
 {var="inputvar-taglist" class="taglist"}
 

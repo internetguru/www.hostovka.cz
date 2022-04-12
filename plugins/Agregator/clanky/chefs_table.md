@@ -3,37 +3,35 @@
 
 {ctime="2009-04-19" mtime="2019-11-07" id="chefs_table" author="Michael Klíma" short="Chefs Table"}
 
-# Šéfkuchařův stůl
-
-<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
+# Šéfkuchařův stůl 
 
 {kw="restaurace a servis, Francie"}
 
-[Šéfkuchařův][1] stůl je anglicky nazýván jako _chef‘s table {xml:lang="en"}_. V některých restauracích a hotelech ve Francii bylo, a doufám že je ještě zvykem, že před zahájením provozu všichni kuchaři, společně s šéfkuchařem, zasednou ke stolu prostřenému bílým ubrusem a společně obědvají.
+[Šéfkuchařův][1] stůl je anglicky nazýván jako _chef‘s table {xml:lang="en"}_. V některých restauracích a hotelech ve Francii bylo, a doufám že je ještě zvykem, že před zahájením provozu všichni kuchaři, společně s šéfkuchařem, zasednou ke stolu prostřenému bílým ubrusem a společně obědvají. 
 
-V Americe znamená ale _chef’s table {xml:lang="en"}_ poněkud něco jiného. Původně to byly restaurace s jídelnami, ze kterých bylo prosklenou stěnou vidět do kuchyně. Dnes to jsou jídelní stoly umístěné přímo v kuchyni, z kterých mohou hosté sledovat přípravu objednaných jídel.
+V Americe znamená ale _chef’s table {xml:lang="en"}_ poněkud něco jiného. Původně to byly restaurace s jídelnami, ze kterých bylo prosklenou stěnou vidět do kuchyně. Dnes to jsou jídelní stoly umístěné přímo v kuchyni, z kterých mohou hosté sledovat přípravu objednaných jídel. 
 
 {class="example"}
 
-Tato forma pohostinství si získala takovou oblibu, že některé hotely budují v kuchyních, nebo těsně v jejich sousedství malé jídelny o kapacitě 12 až 18 hostů.
+Tato forma pohostinství si získala takovou oblibu, že některé hotely budují v kuchyních, nebo těsně v jejich sousedství malé jídelny o kapacitě 12 až 18 hostů. 
 
-Šéfkuchařův stůl mnohdy sousedí s vinotékou a nejpopulárnější vína jsou umístěna vždy na dosah ruky. Šéfův stůl zpravidla nabízí jen několik vybraných jídel z normálního jídelního lístku. Některé stoly jsou relativně jednoduché, některé jsou zase naopak elegantnější než stoly v hlavní jídelně.
+Šéfkuchařův stůl mnohdy sousedí s vinotékou a nejpopulárnější vína jsou umístěna vždy na dosah ruky. Šéfův stůl zpravidla nabízí jen několik vybraných jídel z normálního jídelního lístku. Některé stoly jsou relativně jednoduché, některé jsou zase naopak elegantnější než stoly v hlavní jídelně. 
 
-Pod názvem _chef’s table {xml:lang="en"}_ některé firmy nebo cestovní kanceláře nabízejí v Americe několikadenní návštěvy vybraných restaurací pro zájmové skupiny. Některé tyto Chef's tables jsou tak populární, že musíte mít rezervaci na několik měsíců dopředu.
+Pod názvem _chef’s table {xml:lang="en"}_ některé firmy nebo cestovní kanceláře nabízejí v Americe několikadenní návštěvy vybraných restaurací pro zájmové skupiny. Některé tyto Chef's tables jsou tak populární, že musíte mít rezervaci na několik měsíců dopředu. 
 
 {id="dalsi" var="inputvar-pribuzne_h"}
 
-## n/a
+## n/a 
 
-n/a
+n/a 
 
 {var="inputvar-relation@var"}
 
-Příbuzné články nejsou k dispozici
+Příbuzné články nejsou k dispozici 
 
 {var="doclist-stitek"}
 
-  * n/a
+  * n/a 
 
 {var="inputvar-taglist" class="taglist"}
 

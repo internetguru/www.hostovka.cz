@@ -3,35 +3,33 @@
 
 {ctime="2008-07-29" mtime="2008-07-29" id="la\_merde" author="Michael Klíma" short="La merde" authorid="hostovka/michael\_klima"}
 
-# La merde
-
-<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
+# La merde 
 
 {kw="gastronomie"}
 
-Moje první setkání s Francii bylo nádraží Garde Du Nord v Paříži kam jsme asi tak 18. května 1945 dorazili s mým kamarádem Tondou.
+Moje první setkání s Francii bylo nádraží Garde Du Nord v Paříži kam jsme asi tak 18. května 1945 dorazili s mým kamarádem Tondou. 
 
-Měli jsme hlad jako vlci a tak jsme si zašli do jejich nádražní restaurace, která oproti našim českým nádražním restauracím nám tehdy připadala velice nóbl a já, i když jsem se už více než dva roky učil Francouzsky, jsem měl obavy, že si nebudeme umět ani objednat.
+Měli jsme hlad jako vlci a tak jsme si zašli do jejich nádražní restaurace, která oproti našim českým nádražním restauracím nám tehdy připadala velice nóbl a já, i když jsem se už více než dva roky učil Francouzsky, jsem měl obavy, že si nebudeme umět ani objednat. 
 
-Tonda mi ale řekl, že jsem vůl když nevím, že ve francouzštině stačí říci buď le, la nebo lo, a ti pitomí Frantíci ale vědí co člověk chce.
+Tonda mi ale řekl, že jsem vůl když nevím, že ve francouzštině stačí říci buď le, la nebo lo, a ti pitomí Frantíci ale vědí co člověk chce. 
 
-Zavolali jsme si tudíž toho garçona a Tonda mu nonšalantně ukázal dva prsty a řekl: "Dvě la polévka". Potom opět zvedl dva prsty a řekl: "Dvě la maso". Nakonec opět zvedl dva prsty a řekl: "Dvě la pivo".
+Zavolali jsme si tudíž toho garçona a Tonda mu nonšalantně ukázal dva prsty a řekl: "Dvě la polévka". Potom opět zvedl dva prsty a řekl: "Dvě la maso". Nakonec opět zvedl dva prsty a řekl: "Dvě la pivo". 
 
-Ten garçon ani nemrk a řekl:"Oui monsieur" a měl se k odchodu. V tom okamžiku mi Tonda řekl: "Vidíš jak jsou ti Frantici pitomí, řekneš le, la, nebo lo, a dostaneš co chceš". Načež ten garçon řekl: "Kluci neblbněte, kdybych nebyl ze Žižkova, tak tu dostanete nejvýše tak la merde".
+Ten garçon ani nemrk a řekl:"Oui monsieur" a měl se k odchodu. V tom okamžiku mi Tonda řekl: "Vidíš jak jsou ti Frantici pitomí, řekneš le, la, nebo lo, a dostaneš co chceš". Načež ten garçon řekl: "Kluci neblbněte, kdybych nebyl ze Žižkova, tak tu dostanete nejvýše tak la merde". 
 
 {id="dalsi" var="inputvar-pribuzne_h"}
 
-## n/a
+## n/a 
 
-n/a
+n/a 
 
 {var="inputvar-relation@var"}
 
-Příbuzné články nejsou k dispozici
+Příbuzné články nejsou k dispozici 
 
 {var="doclist-stitek"}
 
-  * n/a
+  * n/a 
 
 {var="inputvar-taglist" class="taglist"}
 

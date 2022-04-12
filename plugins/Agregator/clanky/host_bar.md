@@ -3,43 +3,41 @@
 
 {ctime="2008-07-16" mtime="2008-07-16" id="host\_bar" author="Michael Klíma" short="Host Bar" authorid="hostovka/michael\_klima"}
 
-# Host Bar
-
-<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
+# Host Bar 
 
 {kw="co-kdy-kde"}
 
-Host bar je anglický výraz používaný v pohostinství, zejména v cateringu, který vyjadřuje že při společenských funkcích jako jsou bankety, svatby, promoce, případně jiné oslavy, se za nápoje podávané na baru neplatí.
+Host bar je anglický výraz používaný v pohostinství, zejména v cateringu, který vyjadřuje že při společenských funkcích jako jsou bankety, svatby, promoce, případně jiné oslavy, se za nápoje podávané na baru neplatí. 
 
-Je to opak tak zvaného "cash bar", nebo "no host bar", kdy naopak za nápoje podávané na baru se platí hotově.
+Je to opak tak zvaného "cash bar", nebo "no host bar", kdy naopak za nápoje podávané na baru se platí hotově. 
 
-Výraz "host" v tomto případě znamená "hostitel".
+Výraz "host" v tomto případě znamená "hostitel". 
 
 {var="inputvar-faq_h" id="dotazy"}
 
-## n/a
+## n/a 
 
 {var="inputvar-faq_desc"}
 
-n/a
+n/a 
 
 {var="inputvar-faqs@var"}
 
-Bez příbuzných dotazů
+Bez příbuzných dotazů 
 
 {id="dalsi" var="inputvar-pribuzne_h"}
 
-## n/a
+## n/a 
 
-n/a
+n/a 
 
 {var="inputvar-relation@var"}
 
-Příbuzné články nejsou k dispozici
+Příbuzné články nejsou k dispozici 
 
 {var="doclist-stitek"}
 
-  * n/a
+  * n/a 
 
 {var="inputvar-taglist" class="taglist"}
 

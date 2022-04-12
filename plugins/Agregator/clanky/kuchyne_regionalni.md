@@ -3,43 +3,41 @@
 
 {ctime="2008-05-11" mtime="2008-05-11" id="kuchyne\_regionalni" author="Michael Klíma" short="Kuchyně regionální" authorid="hostovka/michael\_klima"}
 
-# Kuchyně regionální
-
-<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
+# Kuchyně regionální 
 
 {kw="gastronomie"}
 
-V mezinárodní gastronomii kuchyně která si získala popularitu přesahujicí místo jejího vzniku je zpravidla označována jako cuisine. Jsou to zpravidla kuchyně národnostní, z nichž některé se navích rozlišují podle krajů či regionů. Toto platí hlavně u velkých územních celků jako je například Afrika, Amerika, Azie, Blízký a Dálný Východ apod.
+V mezinárodní gastronomii kuchyně která si získala popularitu přesahujicí místo jejího vzniku je zpravidla označována jako cuisine. Jsou to zpravidla kuchyně národnostní, z nichž některé se navích rozlišují podle krajů či regionů. Toto platí hlavně u velkých územních celků jako je například Afrika, Amerika, Azie, Blízký a Dálný Východ apod. 
 
-Ale i některé etnické kuchyně se dělí podle krajů a regionů a některé tyto regionální kuchyně si získaly takovou popularitu že jsou uznávány mezinárodně. Tyto krajové či regionální kuchyně (cuisines) z nichž některé vznikly již ve střtedověku byly založeny na místních surovinových zdrojích, tehdejších zařízeních, technikách, zvycích a mnohdy rodinných tradicích které dnes ve většině případů nemají někdejší charakteristické rysy.
+Ale i některé etnické kuchyně se dělí podle krajů a regionů a některé tyto regionální kuchyně si získaly takovou popularitu že jsou uznávány mezinárodně. Tyto krajové či regionální kuchyně (cuisines) z nichž některé vznikly již ve střtedověku byly založeny na místních surovinových zdrojích, tehdejších zařízeních, technikách, zvycích a mnohdy rodinných tradicích které dnes ve většině případů nemají někdejší charakteristické rysy. 
 
-Nejvíce se u těchto regionálních kuchyní změnila surovinová základna, což se v Evropě projevilo hlavně na kdysi tak populární evropské zvěřinové kuchyni tudíž mně udivuje že se dnes ještě nějaká restaurace považuje za zvěřinovou.
+Nejvíce se u těchto regionálních kuchyní změnila surovinová základna, což se v Evropě projevilo hlavně na kdysi tak populární evropské zvěřinové kuchyni tudíž mně udivuje že se dnes ještě nějaká restaurace považuje za zvěřinovou. 
 
-Nicméně i migrace lidí všechny ty regionální recepty ovlivnila. Když jenom uvážíme že například Stalin násilně přesunul celé národy z jednoho konce bývalého Sovětského Svazu na druhý, tak nemůžemě již věřit tomu, že strava Ukrajinců přesunutých z Ukrajiny třba až do Kazachstanu je dnes stejná jako byla strava jejich předků.
+Nicméně i migrace lidí všechny ty regionální recepty ovlivnila. Když jenom uvážíme že například Stalin násilně přesunul celé národy z jednoho konce bývalého Sovětského Svazu na druhý, tak nemůžemě již věřit tomu, že strava Ukrajinců přesunutých z Ukrajiny třba až do Kazachstanu je dnes stejná jako byla strava jejich předků. 
 
-To ale platí i o zemích jako je Čína, Indie, Itália a o Americe, kde ta migrace byla největší, ani nemluvě. Tudíž to co je dnes vydáváno za regionální nebo krajová jídla nemá ve většině případů co společnho s jejich původními recepty.
+To ale platí i o zemích jako je Čína, Indie, Itália a o Americe, kde ta migrace byla největší, ani nemluvě. Tudíž to co je dnes vydáváno za regionální nebo krajová jídla nemá ve většině případů co společnho s jejich původními recepty. 
 
-Jsou sice ještě výjimky a to jsou například rybí kuchyně jako je u nás například kuchyně Třeboňská a nebo kuchyně přímořské jako je například kuchyně Středomořská. Za socializmu, v době gastronomikého temna, kdy se o mezinárodních kuchyních mimo kuchyně ruské, bulharské, čínské, francouzské či italské se toho moc nevědělo, byla snaha alespoň zpopularizovat místní krajové speciality, ale mohu vám říci, že to byla tragedie.
+Jsou sice ještě výjimky a to jsou například rybí kuchyně jako je u nás například kuchyně Třeboňská a nebo kuchyně přímořské jako je například kuchyně Středomořská. Za socializmu, v době gastronomikého temna, kdy se o mezinárodních kuchyních mimo kuchyně ruské, bulharské, čínské, francouzské či italské se toho moc nevědělo, byla snaha alespoň zpopularizovat místní krajové speciality, ale mohu vám říci, že to byla tragedie. 
 
-Můj přítel Tonda Nestával, tehdejší šéfkuchař Čedoku sestavil knížku krajových specialit podle receptů které mu poslali kuchaři kteří mnohdy o místních gstronomických zvycích a tradicích moc nevěděli a tak si umíte asi představit co se na základě toho za krajové speciality považuje.
+Můj přítel Tonda Nestával, tehdejší šéfkuchař Čedoku sestavil knížku krajových specialit podle receptů které mu poslali kuchaři kteří mnohdy o místních gstronomických zvycích a tradicích moc nevěděli a tak si umíte asi představit co se na základě toho za krajové speciality považuje. 
 
-No a teď si představte co díky tomu humbuku s těmi CZECH SPECIALS těc regionálních jídel vzniklo v Česku.
+No a teď si představte co díky tomu humbuku s těmi CZECH SPECIALS těc regionálních jídel vzniklo v Česku. 
 
-Tudíž pokud si dnes nějakou tu krajovou či regionální specialtu objednáte, tak ale nějaké autentičnosti moc nevěřte. To ale neznamená, že nemůže taková specialita být dobrá či lepší než podle původního receptu.
+Tudíž pokud si dnes nějakou tu krajovou či regionální specialtu objednáte, tak ale nějaké autentičnosti moc nevěřte. To ale neznamená, že nemůže taková specialita být dobrá či lepší než podle původního receptu. 
 
 {id="dalsi" var="inputvar-pribuzne_h"}
 
-## n/a
+## n/a 
 
-n/a
+n/a 
 
 {var="inputvar-relation@var"}
 
-Příbuzné články nejsou k dispozici
+Příbuzné články nejsou k dispozici 
 
 {var="doclist-stitek"}
 
-  * n/a
+  * n/a 
 
 {var="inputvar-taglist" class="taglist"}
 

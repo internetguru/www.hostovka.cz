@@ -3,337 +3,335 @@
 
 {ctime="2007-03-22" mtime="2007-03-22" data-top="961" id="prime\_rib" author="Michael Klíma" short="Prime Rib" authorid="hostovka/michael\_klima"}
 
-# Prime Rib
-
-<!-- generated attribute kw by user_updatekw.sh on 2021-01-05, do not edit -->
+# Prime Rib 
 
 {kw="jídla a jídelní lístky"}
 
-Prime rib je něco co se ještě před několika lety na českých jídelních lístcích vůbec neobjevovalo.
+Prime rib je něco co se ještě před několika lety na českých jídelních lístcích vůbec neobjevovalo. 
 
-Dnes se s primeriby v Česku již sice setkáme, ale velká většina hostů a dokonce i mnoho kuchařů vůbec neví co to vlastně je, a někteří kuchaři ani neví jak takový primerib správně připravit, upéct, podávat, a jak ho správně krájet, neboli carvrovat už vůbec nevědí, nemluvě o tom jak ho jíst, což má rovněž jakési nepsané zákony ale nikdo by se na to nezeptal protože přeci nemohou přiznat, že něco nevědí.
+Dnes se s primeriby v Česku již sice setkáme, ale velká většina hostů a dokonce i mnoho kuchařů vůbec neví co to vlastně je, a někteří kuchaři ani neví jak takový primerib správně připravit, upéct, podávat, a jak ho správně krájet, neboli carvrovat už vůbec nevědí, nemluvě o tom jak ho jíst, což má rovněž jakési nepsané zákony ale nikdo by se na to nezeptal protože přeci nemohou přiznat, že něco nevědí. 
 
-Chtěl bych ale hned úvodem říci, že to není žádná ostuda. Ostuda je když to někdo neví, dělá haura, a nezeptá se.
+Chtěl bych ale hned úvodem říci, že to není žádná ostuda. Ostuda je když to někdo neví, dělá haura, a nezeptá se. 
 
-Prime rib (pro nás třeba i primerib) je americké označení celého vysokého roštěnce s kostí o váze 10-12 kg, který se peče v celku, a za který, pokud je dobře a čerstvě upečený, je znalec ochoten dát jakékoliv peníze.
+Prime rib (pro nás třeba i primerib) je americké označení celého vysokého roštěnce s kostí o váze 10-12 kg, který se peče v celku, a za který, pokud je dobře a čerstvě upečený, je znalec ochoten dát jakékoliv peníze. 
 
-Pro některé restaurace i v Americe, kde je primerib velice populární, je to relativně "riskantní" jídlo jako jakákoliv česká "hotovka" nebo Czech special, neboli speciality, v tom smyslu, že když ten upečený primerib neprodají celý, tak ty neprodané porce jsou téměř bezcenné.
+Pro některé restaurace i v Americe, kde je primerib velice populární, je to relativně "riskantní" jídlo jako jakákoliv česká "hotovka" nebo Czech special, neboli speciality, v tom smyslu, že když ten upečený primerib neprodají celý, tak ty neprodané porce jsou téměř bezcenné. 
 
-Mohou se sice zpracovat do jiných jídel, za která však mohou počítat podstatně méně než za čerstvý primerib, takže v mnoha případech je ten primerib vyloženě prodělkový.
+Mohou se sice zpracovat do jiných jídel, za která však mohou počítat podstatně méně než za čerstvý primerib, takže v mnoha případech je ten primerib vyloženě prodělkový. 
 
 {id="blackhawk_steakhouse"}
 
-## Blackhawk Steakhouse
+## Blackhawk Steakhouse 
 
-Případové studie jsou v Americe nejúspěšnější formou výuky, ale jak vím, tak některým z vás mými případovými studiemi jdu na nervy, protože v nich nepíši, že "tam a tam to dělali tak a tak". ale spíše, že "já jsem to dělal tak a tak", což někteří lidé u nás nradi slyší, ale věřte mi, že já už prostě jiný nebudu.
+Případové studie jsou v Americe nejúspěšnější formou výuky, ale jak vím, tak některým z vás mými případovými studiemi jdu na nervy, protože v nich nepíši, že "tam a tam to dělali tak a tak". ale spíše, že "já jsem to dělal tak a tak", což někteří lidé u nás nradi slyší, ale věřte mi, že já už prostě jiný nebudu. 
 
-No, co naděláte, prostě mi musíte věřit, že vám říkám pravdu a že pokud nemusím si nic nevymýšlím, a nebo prostě ty mé případové studie přestaňte číst protože mimo jiné to není v kostce, ale naopak je to dosti dlouhé.
+No, co naděláte, prostě mi musíte věřit, že vám říkám pravdu a že pokud nemusím si nic nevymýšlím, a nebo prostě ty mé případové studie přestaňte číst protože mimo jiné to není v kostce, ale naopak je to dosti dlouhé. 
 
-Již jsem se někde zmínil o tom, že Amerika byl můj životní cíl, ale oproti některým kteří se do Ameriky vypravili s tím, že to těm Amíkům ukáží jak se ta kuchařina dělá, já jsem se na tu Ameriku téměř dvacet let připravoval.
+Již jsem se někde zmínil o tom, že Amerika byl můj životní cíl, ale oproti některým kteří se do Ameriky vypravili s tím, že to těm Amíkům ukáží jak se ta kuchařina dělá, já jsem se na tu Ameriku téměř dvacet let připravoval. 
 
-Studoval jsem o americkém pohostinství a gastronomii vše co mi přišlo do ruky a myslel jsem si, že když jsem v 68 roce do Ameriky přišel, že není ani jedno americké jídlo nebo americké kuchyňské zařízení které bych teoreticky neznal lépe než někteří rodilí Američané, ale musím přiznat, že jsem se mýlil, což vám jednou také možná popíši.
+Studoval jsem o americkém pohostinství a gastronomii vše co mi přišlo do ruky a myslel jsem si, že když jsem v 68 roce do Ameriky přišel, že není ani jedno americké jídlo nebo americké kuchyňské zařízení které bych teoreticky neznal lépe než někteří rodilí Američané, ale musím přiznat, že jsem se mýlil, což vám jednou také možná popíši. 
 
-Mluvil jsme relativně dobře anglicky, byl jsem absolventem hotelové školy a tak bych asi býval našel místo jako kuchař, číšník a možná že i jako manager, ale vzal jsem si do hlavy, že se tu americkou gastronomii kterou jsem znal teoreticky naučím i prakticky a to od píky a že se hlavně naučím něco o steacích které jsem sice teoreticky téměř všechny znal, ale které jsem v životě nikdy neviděl natožpak abych je uměl připravit nebo abych je kdy ochunal.
+Mluvil jsme relativně dobře anglicky, byl jsem absolventem hotelové školy a tak bych asi býval našel místo jako kuchař, číšník a možná že i jako manager, ale vzal jsem si do hlavy, že se tu americkou gastronomii kterou jsem znal teoreticky naučím i prakticky a to od píky a že se hlavně naučím něco o steacích které jsem sice teoreticky téměř všechny znal, ale které jsem v životě nikdy neviděl natožpak abych je uměl připravit nebo abych je kdy ochunal. 
 
-Jak jsem se po příjezdu do Ameriky dozvěděl tak nejlepší americký steakhouse v té době byl Blackhawk Restaurant v Chicagu který byl známý nejenom nejlepšími steaky, ale hlavně primeriby, které jsem teoreticky také znal, ale jak a co se s nimi dělá jsem nevěděl.
+Jak jsem se po příjezdu do Ameriky dozvěděl tak nejlepší americký steakhouse v té době byl Blackhawk Restaurant v Chicagu který byl známý nejenom nejlepšími steaky, ale hlavně primeriby, které jsem teoreticky také znal, ale jak a co se s nimi dělá jsem nevěděl. 
 
-Vyučil jsem se v Praze v hotelu Alcron a od té doby mám takovou manii pracovat pokud možno v těch nejlepších domech a tak jsem se tam prostě šel ucházet o místo v řezničárně.
+Vyučil jsem se v Praze v hotelu Alcron a od té doby mám takovou manii pracovat pokud možno v těch nejlepších domech a tak jsem se tam prostě šel ucházet o místo v řezničárně. 
 
-Je to spojeno s relativně dlouhou historku kterou vám někdy možná popíši, ale pro daný okamžik vám mohu říci, že majitel té restaurace pan Don Roth když viděl moje credentials a CV si myslel, že jsem se zbláznil, protože podle něj ta práce v jejich řezničárně byla tak namáhavá a nebezpečná, že tam údajně nechtěli dělat ani černoši.
+Je to spojeno s relativně dlouhou historku kterou vám někdy možná popíši, ale pro daný okamžik vám mohu říci, že majitel té restaurace pan Don Roth když viděl moje credentials a CV si myslel, že jsem se zbláznil, protože podle něj ta práce v jejich řezničárně byla tak namáhavá a nebezpečná, že tam údajně nechtěli dělat ani černoši. 
 
-Já jsem se ale nedal odbýt a tak nakonec mně ale přijal a pro tento případ je podstatné, že když jsem viděl ty tuny steaků a primeribů, že mi spadl srdce do kalhot, ale já jsem v zásadě geroj, a tak jsem hned ten prvý den neutekl.
+Já jsem se ale nedal odbýt a tak nakonec mně ale přijal a pro tento případ je podstatné, že když jsem viděl ty tuny steaků a primeribů, že mi spadl srdce do kalhot, ale já jsem v zásadě geroj, a tak jsem hned ten prvý den neutekl. 
 
-V Česku nám Tonda Novotný stále sliboaval že maso bude v brzku takže když jsem najednou viděl všechno to maso a tu kvalitu, tak jsem byl jako v Jiříkově vidění.
+V Česku nám Tonda Novotný stále sliboaval že maso bude v brzku takže když jsem najednou viděl všechno to maso a tu kvalitu, tak jsem byl jako v Jiříkově vidění. 
 
-Blackhawk se specializuje jednak na steaky ale hlavně na Standing prime ribs, což i v Americe je jakási specialita a dodnes jsem rád že jsem využil příležitost se přípravu těch steků a hlavně primeribů naučit.
+Blackhawk se specializuje jednak na steaky ale hlavně na Standing prime ribs, což i v Americe je jakási specialita a dodnes jsem rád že jsem využil příležitost se přípravu těch steků a hlavně primeribů naučit. 
 
-Já vím, že se o Češích říká že všichni všechno vědí a včechno znají a tak jsem jim asi dělal ostudu tím že jsem se na všechno ptal, ale já tu nectnost mám už od malička protože vím, že kdo se neptá, nic se nedoví.
+Já vím, že se o Češích říká že všichni všechno vědí a včechno znají a tak jsem jim asi dělal ostudu tím že jsem se na všechno ptal, ale já tu nectnost mám už od malička protože vím, že kdo se neptá, nic se nedoví. 
 
-Mohu vám ale říci, že dnes jsem rád protože jsem získal takovou expertýzu jako málo kdo a to ne jenom v krájení těch steaků, ale i v carvrování primeribů, což je i v Americe považováno za jakési umění."
+Mohu vám ale říci, že dnes jsem rád protože jsem získal takovou expertýzu jako málo kdo a to ne jenom v krájení těch steaků, ale i v carvrování primeribů, což je i v Americe považováno za jakési umění." 
 
-Já ale mám i další zřejmě nečeskou vlastnost a sice že se rád podělím o to co umím a proto jsem obrazně řečeno po celém světě celou řadu kuchařů to tajemství přípravy a krájení steaků, a carvrování primeribů nauči,l za což mi všude byli velice vděční.
+Já ale mám i další zřejmě nečeskou vlastnost a sice že se rád podělím o to co umím a proto jsem obrazně řečeno po celém světě celou řadu kuchařů to tajemství přípravy a krájení steaků, a carvrování primeribů nauči,l za což mi všude byli velice vděční. 
 
-Od sametové revoluce jsem se také několikrát snažil o moji expertízu podělit s českými kuchaři a řezníky, ale věřte nevěřte, ani jeden se nenašel který by o něco takového projevil zájem.
+Od sametové revoluce jsem se také několikrát snažil o moji expertízu podělit s českými kuchaři a řezníky, ale věřte nevěřte, ani jeden se nenašel který by o něco takového projevil zájem. 
 
-Prostě jak s oblibou říkám: "Koně můžeš přivézt k vodě, ale nemůžeš ho donutit aby se napil".
+Prostě jak s oblibou říkám: "Koně můžeš přivézt k vodě, ale nemůžeš ho donutit aby se napil". 
 
-Obdobně ani na stránkách www.gastronews.cz mé příspěvky o steacích nepadaly na úrodnou půdu a doknce mi tam několik lidí napsalo, že ty moje nesmysle jsou moc dlouhé a nikoho nezajímají a tak jsem tam přestal psát.
+Obdobně ani na stránkách www.gastronews.cz mé příspěvky o steacích nepadaly na úrodnou půdu a doknce mi tam několik lidí napsalo, že ty moje nesmysle jsou moc dlouhé a nikoho nezajímají a tak jsem tam přestal psát. 
 
-Vám ale jako studentům Hostovky to jak se steaky krájí a připravuji a grilují také někdy eventuálně popíši abyste věděli který steak si při vašich cestách do zahraničí objednat a proč, ale dnes se chci držet těch primeribů které dříve mebo později, si i v Česku získají popularitu.
+Vám ale jako studentům Hostovky to jak se steaky krájí a připravuji a grilují také někdy eventuálně popíši abyste věděli který steak si při vašich cestách do zahraničí objednat a proč, ale dnes se chci držet těch primeribů které dříve mebo později, si i v Česku získají popularitu. 
 
-Výraz prime rib je ale něco, čemu se v Americe říká missnomer, neboli nesprávné pojmenování věci.
+Výraz prime rib je ale něco, čemu se v Americe říká missnomer, neboli nesprávné pojmenování věci. 
 
-Je to v zásadě nesprávné označení vysoké části hovězího hřbetu u nás zvaného nízký roštěnec s kostí, a v Americe rib of beef.
+Je to v zásadě nesprávné označení vysoké části hovězího hřbetu u nás zvaného nízký roštěnec s kostí, a v Americe rib of beef. 
 
-Vysvětleme si ale napřed proč je prime rib nesprávné označení.
+Vysvětleme si ale napřed proč je prime rib nesprávné označení. 
 
-Primeriby přicházejí na trh v několika velikostech, jakostech a úpravách, které jsou pro usnadnění očíslovány.
+Primeriby přicházejí na trh v několika velikostech, jakostech a úpravách, které jsou pro usnadnění očíslovány. 
 
-Základní prime rib s kostmi (žebry) má číslo 107.
+Základní prime rib s kostmi (žebry) má číslo 107. 
 
-Prime rib s kostmi dodávaný již převázaný řeznickým motouzem, nebo v řeznické síťce, případně v plastikovém obalu (cryovac) který se ale před pečením musí odstranit, má číslo 109 atp.
+Prime rib s kostmi dodávaný již převázaný řeznickým motouzem, nebo v řeznické síťce, případně v plastikovém obalu (cryovac) který se ale před pečením musí odstranit, má číslo 109 atp. 
 
-Pravý prime rib, neboli nízký roštěnec s kostí (šús), musí mít jednak sedm žeber (od 6 do 13 žebra), a mimo to několik dalších náležitostí jako je předepsaná vrstva tuku (2.5 cm), stanovenou délku žeberních kostí a hlavně správné velikost špičky (tail) a rozložení tuku zvané mramorování (marbling).
+Pravý prime rib, neboli nízký roštěnec s kostí (šús), musí mít jednak sedm žeber (od 6 do 13 žebra), a mimo to několik dalších náležitostí jako je předepsaná vrstva tuku (2.5 cm), stanovenou délku žeberních kostí a hlavně správné velikost špičky (tail) a rozložení tuku zvané mramorování (marbling). 
 
-Prime rib musí mít také požadovanou váhu.
+Prime rib musí mít také požadovanou váhu. 
 
-Větší rib (11-12 kg), pocházející z většího a staršího dobytčete, bude pravděpodobně o něco tužší, ale bude chutnější a bude vyžadovat delší dobu pečení (3-3 ½ hod. při 176°C).
+Větší rib (11-12 kg), pocházející z většího a staršího dobytčete, bude pravděpodobně o něco tužší, ale bude chutnější a bude vyžadovat delší dobu pečení (3-3 ½ hod. při 176°C). 
 
-Menší o váze asi 9 kg, bude jemnější v chuti a bude při stejné teplotě pečený během 21/2 až 3 hod.) tak, že střed bude krvavý.
+Menší o váze asi 9 kg, bude jemnější v chuti a bude při stejné teplotě pečený během 21/2 až 3 hod.) tak, že střed bude krvavý. 
 
-Mimo váhy délku pečení samozřejmě ovlivňuje i stupeň na který byl prime rib aged tj. nakolik je "uzrálý", a eventuálně technika pečení.
+Mimo váhy délku pečení samozřejmě ovlivňuje i stupeň na který byl prime rib aged tj. nakolik je "uzrálý", a eventuálně technika pečení. 
 
-Prime rib, lépe řečeno roast-ready rib se dodává již vykostěný, čemuž některé restaurace dávají přednost, ale pravý connoiseur dává přednost primeribu s kostí.
+Prime rib, lépe řečeno roast-ready rib se dodává již vykostěný, čemuž některé restaurace dávají přednost, ale pravý connoiseur dává přednost primeribu s kostí. 
 
 {id="rib-eye_roll"}
 
-## Rib-Eye roll
+## Rib-Eye roll 
 
-Rib-eye roll, neboli "oko" primeribu, což je u nás dobře známý roštěnec, je ideální pro porcování strojem a dávají mu přednost restaurace nebo cateringové společnosti pro společensk0 akce.
+Rib-eye roll, neboli "oko" primeribu, což je u nás dobře známý roštěnec, je ideální pro porcování strojem a dávají mu přednost restaurace nebo cateringové společnosti pro společensk0 akce. 
 
-Rib-eye roll je, relativně dražší, ale jeho pečení je rychlejší a snadnější, a navíc je příhodnější pro krájení steaků zvaných Rib steaks, kterým se také říká "men steaks" a které jsou relativně populární.
+Rib-eye roll je, relativně dražší, ale jeho pečení je rychlejší a snadnější, a navíc je příhodnější pro krájení steaků zvaných Rib steaks, kterým se také říká "men steaks" a které jsou relativně populární. 
 
 {id="such_zrn"}
 
-## Suché zrání
+## Suché zrání 
 
-Rib of beef, je v Americe někdy prodáván neuzrálý (green), ale steakhouses, restaurace které se na hovězí pečeně specializují a restaurace vyšších cenových skupin vyžadují jen maso uzrálé.
+Rib of beef, je v Americe někdy prodáván neuzrálý (green), ale steakhouses, restaurace které se na hovězí pečeně specializují a restaurace vyšších cenových skupin vyžadují jen maso uzrálé. 
 
-Velcí distributoři masa (Meat Packers), dávají přednost tak zvanému suchému zrání při kterém jsou prime riby uloženy ve velkých chladírnách na regálech, tak aby kolem nich mohl volně proudit vzduch při teplotě 1°-3° C po dobu 3 - 6 týdnů.
+Velcí distributoři masa (Meat Packers), dávají přednost tak zvanému suchému zrání při kterém jsou prime riby uloženy ve velkých chladírnách na regálech, tak aby kolem nich mohl volně proudit vzduch při teplotě 1°-3° C po dobu 3 - 6 týdnů. 
 
-Procento relativní vlhkosti může být nízké (70-75%) jestliže chceme mít maso na řezu suché a nebo relativně vysoké (85-90%) jestliže chceme aby se na řezu vytvořila žádoucí plíseň, čemuž někteří restauratéři dávají přednost.
+Procento relativní vlhkosti může být nízké (70-75%) jestliže chceme mít maso na řezu suché a nebo relativně vysoké (85-90%) jestliže chceme aby se na řezu vytvořila žádoucí plíseň, čemuž někteří restauratéři dávají přednost. 
 
 {id="zrn"}
 
-## Zrání
+## Zrání 
 
-Zrání vyžaduje velkou odbornost, a přísnou kontrolu, přičemž mimo ztrát vysušením vznikají velké manipulační náklady. Není proto divu, že kvalitní prime rib stojí o mnoho více, nicméně hosté, kteří si jsou toho vědomi rádi za tuto kvalitu zaplatí.
+Zrání vyžaduje velkou odbornost, a přísnou kontrolu, přičemž mimo ztrát vysušením vznikají velké manipulační náklady. Není proto divu, že kvalitní prime rib stojí o mnoho více, nicméně hosté, kteří si jsou toho vědomi rádi za tuto kvalitu zaplatí. 
 
 {id="zrn\_v\_crayovacu"}
 
-## Zrání v crayovacu
+## Zrání v crayovacu 
 
-Při zrání v plastiku (crayovac) jsou ztráty poněkud menší, ale je s tím větší manipulace a někteří restauratéři to nemají moc rádi.
+Při zrání v plastiku (crayovac) jsou ztráty poněkud menší, ale je s tím větší manipulace a někteří restauratéři to nemají moc rádi. 
 
-Na snímku vpravo je můj dobrý přítel Daniel Pollak, najitel jedné největší americké Meat Packing Company Stockyards v Chicagu od kterého jsem se o mase také hodně naučil.
+Na snímku vpravo je můj dobrý přítel Daniel Pollak, najitel jedné největší americké Meat Packing Company Stockyards v Chicagu od kterého jsem se o mase také hodně naučil. 
 
 {id="peen"}
 
-## Pečení
+## Pečení 
 
-U té příležitosti se musím zmínit o tom, že pečením, anglicky to bake, se v zásadě rozumí pečení pečiva. U masa, až na malé výjimky se používá výraz to roast.
+U té příležitosti se musím zmínit o tom, že pečením, anglicky to bake, se v zásadě rozumí pečení pečiva. U masa, až na malé výjimky se používá výraz to roast. 
 
-Roast beef, neboli hovězí pečeně ať je jakákoliv, je v Americe stejné zaklínadlo jako například i steak.
+Roast beef, neboli hovězí pečeně ať je jakákoliv, je v Americe stejné zaklínadlo jako například i steak. 
 
-Prime rib ale zaujímá v americké gastronomií místo nejčestnější. Prime rib je součástí Ameriky stejně tak jako socha svobody, apple pie nebo americký fotbal.
+Prime rib ale zaujímá v americké gastronomií místo nejčestnější. Prime rib je součástí Ameriky stejně tak jako socha svobody, apple pie nebo americký fotbal. 
 
-Pokud jste byli v Americe a neochutnali jste Prime rib, tak nevíte, co je Amerika. Oproti hamburgerům a pize, které Amerika ve světě zpopularizovala, které ale nejsou americké, se prime rib může pochlubit svým ničím nefalšovaným americkým příslušenstvím.
+Pokud jste byli v Americe a neochutnali jste Prime rib, tak nevíte, co je Amerika. Oproti hamburgerům a pize, které Amerika ve světě zpopularizovala, které ale nejsou americké, se prime rib může pochlubit svým ničím nefalšovaným americkým příslušenstvím. 
 
-Pro mně má prime rib navíc to kouzlo, že to bylo prvé americké jídlo které jsem se naučil nejenom pect, ale i carvroat a dokonce i jíst, což je také jakési umění.
+Pro mně má prime rib navíc to kouzlo, že to bylo prvé americké jídlo které jsem se naučil nejenom pect, ale i carvroat a dokonce i jíst, což je také jakési umění. 
 
-V ceně pečeného primeribu není jen hodnota masa a jeho zrání, ale i mimořádná péče při jeho pečení.
+V ceně pečeného primeribu není jen hodnota masa a jeho zrání, ale i mimořádná péče při jeho pečení. 
 
-Jak víme, tak maso, aby neleželo během pečení ve vypečeném tuku, musíme péct na roštu, případně na kostech apod.
+Jak víme, tak maso, aby neleželo během pečení ve vypečeném tuku, musíme péct na roštu, případně na kostech apod. 
 
 {id="rot"}
 
-## Rošt
+## Rošt 
 
-Krása a praktičnost primeribu je také v tom že pravý primerib má svůj přirozený rošt ve formě žeber, tudíž další rošt nepotřebuje.
+Krása a praktičnost primeribu je také v tom že pravý primerib má svůj přirozený rošt ve formě žeber, tudíž další rošt nepotřebuje. 
 
-Při pečení také víme, že každá potravina musí mít pořadovnou vlhkost která se během pečení odpaří a u masa je navíc důležitý obsah a rozložení tuku tak zvané mramorování (marbling).
+Při pečení také víme, že každá potravina musí mít pořadovnou vlhkost která se během pečení odpaří a u masa je navíc důležitý obsah a rozložení tuku tak zvané mramorování (marbling). 
 
-Z toho důvodu se některá libová masa kdysi před pečením protýkala, neboli špikovala tukem (larding).
+Z toho důvodu se některá libová masa kdysi před pečením protýkala, neboli špikovala tukem (larding). 
 
-Toto je dnes považováno přiléváním oleje do ohně, nicméně kvalita hovězího masa, zejména primeribu, je hodnocena podle jeho mramorování (marblování) neboli podle ideálního rozložení tuku v mase.
+Toto je dnes považováno přiléváním oleje do ohně, nicméně kvalita hovězího masa, zejména primeribu, je hodnocena podle jeho mramorování (marblování) neboli podle ideálního rozložení tuku v mase. 
 
-Některá masa se eventuálně pokrývala tukem (barding), jednak proto aby se povrch pečeně chránil před spálením, a aby pečeně dostala i lepší chuť.
+Některá masa se eventuálně pokrývala tukem (barding), jednak proto aby se povrch pečeně chránil před spálením, a aby pečeně dostala i lepší chuť. 
 
-Primerib je pokrytý dostatečné silnou ochranou vrstvou tuku, které brání přepečení jeho středu, a maso je prorostlé (mramorované) žádoucím množství tuku který mu dodává na křehkosti a šťavnatosti.
+Primerib je pokrytý dostatečné silnou ochranou vrstvou tuku, které brání přepečení jeho středu, a maso je prorostlé (mramorované) žádoucím množství tuku který mu dodává na křehkosti a šťavnatosti. 
 
-Někteří čeští kuchaři ale z masa někdy opižlají i ten poslední kousek tuku a pak se diví že to maso nemá žádnou chuť a že povrch je přepečený, ale povídejtejim to když oni všechno vědí.
+Někteří čeští kuchaři ale z masa někdy opižlají i ten poslední kousek tuku a pak se diví že to maso nemá žádnou chuť a že povrch je přepečený, ale povídejtejim to když oni všechno vědí. 
 
-Tudíž jak vidíme, tak prime rib nepotřebuje nic jiného než vložit do trouby a péct až je maso hotové.
+Tudíž jak vidíme, tak prime rib nepotřebuje nic jiného než vložit do trouby a péct až je maso hotové. 
 
-Musím vám ale říci, že tak jednoduché to zase není, protože v tom případě by každý kdo by si toto přečetl byl specialistou na prime riby a to jak uznáte nemohu potřebovat protože zatím jsem jednooký král mezi slepými.
+Musím vám ale říci, že tak jednoduché to zase není, protože v tom případě by každý kdo by si toto přečetl byl specialistou na prime riby a to jak uznáte nemohu potřebovat protože zatím jsem jednooký král mezi slepými. 
 
-Prime rib totiž není pečený dokud není pečený!
+Prime rib totiž není pečený dokud není pečený! 
 
-Prime rib se může péct (to roast) několika způsoby avšak účel je vždy stejný a to je:
+Prime rib se může péct (to roast) několika způsoby avšak účel je vždy stejný a to je: 
 
-upéct maso na požadovanou vnitřní teplotu při minimálních ztrátách
+upéct maso na požadovanou vnitřní teplotu při minimálních ztrátách 
 
-Přepečený prime rib 16-20% Správně upečený 8-12 %
+Přepečený prime rib 16-20% Správně upečený 8-12 % 
 
-K nejmenším ztrátám při pečení masa dochází při pomalém pečení. To ale nevěděl ani šéfkuchař Florian Zimmermann pod kterým jsem se vyučil v Praze v hotelu Alcron a byl to ňááký kuchař.
+K nejmenším ztrátám při pečení masa dochází při pomalém pečení. To ale nevěděl ani šéfkuchař Florian Zimmermann pod kterým jsem se vyučil v Praze v hotelu Alcron a byl to ňááký kuchař. 
 
-To by pan Zimmermann mrkal, kdyby viděl jak jsem ty primeriby pekl v Black Hawk restauraci.
+To by pan Zimmermann mrkal, kdyby viděl jak jsem ty primeriby pekl v Black Hawk restauraci. 
 
-Ty primeriby se dělají po dvou ve velkých železných pekáčích zvaných GI Pans o kterých vám jednoho dne také něco napíši.
+Ty primeriby se dělají po dvou ve velkých železných pekáčích zvaných GI Pans o kterých vám jednoho dne také něco napíši. 
 
-No, a teď vám vyzradím jedno z přísně střežených tajemství pečení primeribu podle restaurace Black Hawk.
+No, a teď vám vyzradím jedno z přísně střežených tajemství pečení primeribu podle restaurace Black Hawk. 
 
-Na dno každého pekáče se dala asi 4cm silná vrstva hrubé sole, na to se žebry dolů, aby tvořily přirozený rošt, se položily vedle sebe 2 primeriby.
+Na dno každého pekáče se dala asi 4cm silná vrstva hrubé sole, na to se žebry dolů, aby tvořily přirozený rošt, se položily vedle sebe 2 primeriby. 
 
-Zasypaly se hrubou solí, tak aby byla alespoň 1 cm silná vrstva sole napovrchu a pokud měly být pečeny pro obědy se o půlnoci daly do trouby předehřáté na 120°C. Druhý den kolem 8-9 hodiny se ty primeriby daly do udržovací trouby (holding oven) kde "odpočívaly" až do doby krájení (carving).
+Zasypaly se hrubou solí, tak aby byla alespoň 1 cm silná vrstva sole napovrchu a pokud měly být pečeny pro obědy se o půlnoci daly do trouby předehřáté na 120°C. Druhý den kolem 8-9 hodiny se ty primeriby daly do udržovací trouby (holding oven) kde "odpočívaly" až do doby krájení (carving). 
 
 {id="peen\_v\_soli"}
 
-## Pečení v soli
+## Pečení v soli 
 
-To pečení v soli v té restauraci nevynašli. To je staré již několik tisíc let, ale co vynašli bylo několik dalších fint s tím spojených které vám ale vyzradit nemohu protože to už bych se pak neměl už vůbec čím ohánět.
+To pečení v soli v té restauraci nevynašli. To je staré již několik tisíc let, ale co vynašli bylo několik dalších fint s tím spojených které vám ale vyzradit nemohu protože to už bych se pak neměl už vůbec čím ohánět. 
 
 {id="vtnost_yield"}
 
-## Výtěžnost (yield)
+## Výtěžnost (yield) 
 
-Vyzradím vám ale něco jiného a to je co znamená výtěžnost.
+Vyzradím vám ale něco jiného a to je co znamená výtěžnost. 
 
-Výtěžnost, anglicky yield, je něco co jsem se v Americe velmi rychle naučil a na co musíte v Americe při velkovýrobě jídel a obzvláště primeribů být jako čerti.
+Výtěžnost, anglicky yield, je něco co jsem se v Americe velmi rychle naučil a na co musíte v Americe při velkovýrobě jídel a obzvláště primeribů být jako čerti. 
 
-Dejme tomu, že budete používat vždy stejně velké primeriby o váze 10 kg, což je ideální váha.
+Dejme tomu, že budete používat vždy stejně velké primeriby o váze 10 kg, což je ideální váha. 
 
-V takovém případě k tomu aby výtěžnost (yield) byla co nejvyšší, budete muset váš prime rib péct při teplotě 180°C 3-3 ½ hodiny.
+V takovém případě k tomu aby výtěžnost (yield) byla co nejvyšší, budete muset váš prime rib péct při teplotě 180°C 3-3 ½ hodiny. 
 
-Ztráta vypečením v takovém případě bude 8-12%. Tuto ztrátu můžete však drasticky snížit pomalým pečením při nižší teplotě. Tudíž ztráta u stejného primeribu pečeného při teplotě 120°C po dobu 7-7 1/2 hodiny by se měla pohybovat kolem 4-7%.
+Ztráta vypečením v takovém případě bude 8-12%. Tuto ztrátu můžete však drasticky snížit pomalým pečením při nižší teplotě. Tudíž ztráta u stejného primeribu pečeného při teplotě 120°C po dobu 7-7 1/2 hodiny by se měla pohybovat kolem 4-7%. 
 
-Ztrátu vypečením, jak již bylo řečeno, můžete snížit na minimu pečením v hluboké vrstvě soli při velice nízké teplotě 90-90°C, po dobu 10-12 hodin.
+Ztrátu vypečením, jak již bylo řečeno, můžete snížit na minimu pečením v hluboké vrstvě soli při velice nízké teplotě 90-90°C, po dobu 10-12 hodin. 
 
-Je sice pravda, že náklady se zvýší o použitou sůl a neznatelně o vyšší spotřebu energie, ale ztráta vypečením by neměla být vyšší než 3-4%.
+Je sice pravda, že náklady se zvýší o použitou sůl a neznatelně o vyšší spotřebu energie, ale ztráta vypečením by neměla být vyšší než 3-4%. 
 
-K zanedbatelné ztrátě také dochází tím, že se prime rib po upečení musí nechat odpočinut aby se vnitřní šťávy usadily (to rest). Po odpočinutí se teprve prime rib zbaví ochrané vrstvy tuku kterou je pokryt, odstraní se kosti mezi žebry a prime rib se připraví k <a>dranžírování {var="definition-dranzirovani"}</a>.
+K zanedbatelné ztrátě také dochází tím, že se prime rib po upečení musí nechat odpočinut aby se vnitřní šťávy usadily (to rest). Po odpočinutí se teprve prime rib zbaví ochrané vrstvy tuku kterou je pokryt, odstraní se kosti mezi žebry a prime rib se připraví k <a>dranžírování {var="definition-dranzirovani"}</a>. 
 
 {id="dranrovn\_carvrovn\_primerib"}
 
-## Dranžírování (carvrování) primeribů
+## Dranžírování (carvrování) primeribů 
 
-Jak jsme zatím viděli, tak příprava a perfektní upečení primeribu nechce nic jiného než kvalitní maso, jistou odbornost, a důsledné dodržování určitých zásad, teplot a doby pečení, neboli ten know how, ale jeho porcování, neboli <a>dranžírování {var="definition-dranzirovani"}</a> (carving), se dá označit jako umění.
+Jak jsme zatím viděli, tak příprava a perfektní upečení primeribu nechce nic jiného než kvalitní maso, jistou odbornost, a důsledné dodržování určitých zásad, teplot a doby pečení, neboli ten know how, ale jeho porcování, neboli <a>dranžírování {var="definition-dranzirovani"}</a> (carving), se dá označit jako umění. 
 
-Umění carvrovat se dá vyučovat ale nedá se naučit. Buďto k tomu máte vlohy a nebo na to zapomeňte.
+Umění carvrovat se dá vyučovat ale nedá se naučit. Buďto k tomu máte vlohy a nebo na to zapomeňte. 
 
-V Americe jsou krájením masa pověřeni kuchaři zvaní carvers, v češtině zvaní dranšéři. Jsou o něco více placeni než ostatní kuchaři, ale mají také větší zodpovědnost, protože se říká: "Money talks". Špatně ukrojená porce primeribu se dá jen velmi těžko napravit.
+V Americe jsou krájením masa pověřeni kuchaři zvaní carvers, v češtině zvaní dranšéři. Jsou o něco více placeni než ostatní kuchaři, ale mají také větší zodpovědnost, protože se říká: "Money talks". Špatně ukrojená porce primeribu se dá jen velmi těžko napravit. 
 
-Pokud carver ukrojí jednu porci prime ribu větší než má být, tak se toho ještě moc nestane, protože v tom nejhorším případě přebytečnou váhu porce odkrojí, což se ale nedělá. Pokud se totiž stává opakovaně, že místo 14 porcí udělá z jednoho primeribu jen 13, tak dříve nebo později se bude muset se svým místem rozloučit. To je Amerika.
+Pokud carver ukrojí jednu porci prime ribu větší než má být, tak se toho ještě moc nestane, protože v tom nejhorším případě přebytečnou váhu porce odkrojí, což se ale nedělá. Pokud se totiž stává opakovaně, že místo 14 porcí udělá z jednoho primeribu jen 13, tak dříve nebo později se bude muset se svým místem rozloučit. To je Amerika. 
 
-V restauracích které se specializují na primeriby se za večer prodá až 20 celých primeribů, což při 14 porcích z jednoho representuje 280 porcí.
+V restauracích které se specializují na primeriby se za večer prodá až 20 celých primeribů, což při 14 porcích z jednoho representuje 280 porcí. 
 
-Jestliže však by carver udělal z každého primeribu jen 13 porcí, tak by za jeden večer mohl prodělat až 20 porcí, což by při cenách prime ribu representovalo o mnoho více než je jeho mzda.
+Jestliže však by carver udělal z každého primeribu jen 13 porcí, tak by za jeden večer mohl prodělat až 20 porcí, což by při cenách prime ribu representovalo o mnoho více než je jeho mzda. 
 
-Pokud by krájel porce menší, neboli že by místo 14 porcí by z každého prime ribu by jich udělal 15, tak by to asi také dlouho nedělal, protože tím pádem by ty porce byly malé a po nějakém čase by do této restaurace nikdo nechodil.What a country!
+Pokud by krájel porce menší, neboli že by místo 14 porcí by z každého prime ribu by jich udělal 15, tak by to asi také dlouho nedělal, protože tím pádem by ty porce byly malé a po nějakém čase by do této restaurace nikdo nechodil.What a country! 
 
-K tomu, přestože to někteří lidé neradi čtou, vám musím opět něco napsat o sobě.
+K tomu, přestože to někteří lidé neradi čtou, vám musím opět něco napsat o sobě. 
 
-Nouze naučila Dalibora housti
+Nouze naučila Dalibora housti 
 
-Když jsem se to carvrování u Black Hawk učil, tak se mi dlouho nedařilo docílit průměru 14 porcí z každého primeribu.
+Když jsem se to carvrování u Black Hawk učil, tak se mi dlouho nedařilo docílit průměru 14 porcí z každého primeribu. 
 
-Po několika dnech ku mně přišel pan Hoppy, který tu výtěžnost primeribů denně kontroloval a řekl mi, že je stojím příliš mnoho peněz a že mi tudíž dává ještě 2 dny a pak že se s tím místem mohu rozloučit.
+Po několika dnech ku mně přišel pan Hoppy, který tu výtěžnost primeribů denně kontroloval a řekl mi, že je stojím příliš mnoho peněz a že mi tudíž dává ještě 2 dny a pak že se s tím místem mohu rozloučit. 
 
-Mohu vám říci, že jsem z toho nespal, protože to místo bylo relativně dobře placene a i mně se jednalo o peníze, ale vzpomněl jsem si na Dalibora, a tak ne jenom, že jsem to nakonec dokázal, ale po několika dnech jsem byl prohlášen za nejlepšího carvra kterého kdy v Black Hawk měli. What a country!
+Mohu vám říci, že jsem z toho nespal, protože to místo bylo relativně dobře placene a i mně se jednalo o peníze, ale vzpomněl jsem si na Dalibora, a tak ne jenom, že jsem to nakonec dokázal, ale po několika dnech jsem byl prohlášen za nejlepšího carvra kterého kdy v Black Hawk měli. What a country! 
 
-Nu, a dnes se s každým sázím, že z každého primeribu nakrájím nastojato (standing) tolik stejných porcí kolik si řekne.
+Nu, a dnes se s každým sázím, že z každého primeribu nakrájím nastojato (standing) tolik stejných porcí kolik si řekne. 
 
 {id="standing\_prime\_rib"}
 
-## Standing prime rib
+## Standing prime rib 
 
-Standing prime rib znamená, že pečený prime rib se porcuje "nastojato" obzvláště když se carvruje před hostem v jídelně.
+Standing prime rib znamená, že pečený prime rib se porcuje "nastojato" obzvláště když se carvruje před hostem v jídelně. 
 
-Dnes je v Americe jen velmi málo carverů, kteří vědí proč se to tak dělá a kteří jsou natolik zruční, aby dokázali "nastojato" krájet prime rib tak, aby jednotlivé porce byly relativně stejné.
+Dnes je v Americe jen velmi málo carverů, kteří vědí proč se to tak dělá a kteří jsou natolik zruční, aby dokázali "nastojato" krájet prime rib tak, aby jednotlivé porce byly relativně stejné. 
 
-Tato technika, obdobně jako technika přípravy primeribů k <a>dranžírování {var="definition-dranzirovani"}</a> se dá ale jen velmi těžko popsat, nehledě k tomu, že to je také jedno z mých tajemství.
+Tato technika, obdobně jako technika přípravy primeribů k <a>dranžírování {var="definition-dranzirovani"}</a> se dá ale jen velmi těžko popsat, nehledě k tomu, že to je také jedno z mých tajemství. 
 
-Jak již řečeno, tak ideální je když se může z jednoho prime ribu udělat 14 porcí.
+Jak již řečeno, tak ideální je když se může z jednoho prime ribu udělat 14 porcí. 
 
-Těmto porcím se říká regular, neboli běžné, které váží v průměru 300 gramů (b.k.). Některé restaurace krájí však prime rib na porce o různých vahách a tyto mají své názvy.
+Těmto porcím se říká regular, neboli běžné, které váží v průměru 300 gramů (b.k.). Některé restaurace krájí však prime rib na porce o různých vahách a tyto mají své názvy. 
 
-Porce zvané ladies cut váží v průměru 220 gramů, zatímco gentlema's cut může vážit od 300 do 400 gramů a Brady Jim's, nebo Diamond's Jim Cut váží třeba až 700 gramů.
+Porce zvané ladies cut váží v průměru 220 gramů, zatímco gentlema's cut může vážit od 300 do 400 gramů a Brady Jim's, nebo Diamond's Jim Cut váží třeba až 700 gramů. 
 
-Jakousi specialitou při krájení primeribu je tak zvaný English Cut, (anglický řez) což je kterýkoliv z uvedených porcí ve dvou pllátcích.
+Jakousi specialitou při krájení primeribu je tak zvaný English Cut, (anglický řez) což je kterýkoliv z uvedených porcí ve dvou pllátcích. 
 
-Krájení masa nastojato má svoji logiku. Pokud se prime rib krájí naležato, tak přesto, že jsme ho nechali řádně "odpočinout", tak během krájení z něj vytékají vnitřní šťávy, které jsou vlastně to nejcennější.
+Krájení masa nastojato má svoji logiku. Pokud se prime rib krájí naležato, tak přesto, že jsme ho nechali řádně "odpočinout", tak během krájení z něj vytékají vnitřní šťávy, které jsou vlastně to nejcennější. 
 
-Proto, aby se šťávy v primeribu udržely, se z jednoho konce napřed odkrojí první porce (end cut), a to také aby prime rib potom stál zpříma bez podpory tak jak je vidět na obrázku.
+Proto, aby se šťávy v primeribu udržely, se z jednoho konce napřed odkrojí první porce (end cut), a to také aby prime rib potom stál zpříma bez podpory tak jak je vidět na obrázku. 
 
-Ten end cut, pokud nebyl hned potřeba, se dál na teplo. Následně se pak krájely porce prime ribu zezhora. První řez byl tudíž opět end cut a pak následovaly porce tak jek popsáno výše.
+Ten end cut, pokud nebyl hned potřeba, se dál na teplo. Následně se pak krájely porce prime ribu zezhora. První řez byl tudíž opět end cut a pak následovaly porce tak jek popsáno výše. 
 
-Nevýhodou bylo, že v tom případě byly k disposici 2 koncové porce (end cuts) a případně další porce která byla v tom nejlepším případě medium well, a pokud někdo chtěl krvavou porci prime ribu (rare), která byla uprostřed, tak se musel prime rib rozpůlit, což tedy není tak docela košer.
+Nevýhodou bylo, že v tom případě byly k disposici 2 koncové porce (end cuts) a případně další porce která byla v tom nejlepším případě medium well, a pokud někdo chtěl krvavou porci prime ribu (rare), která byla uprostřed, tak se musel prime rib rozpůlit, což tedy není tak docela košer. 
 
-V Black Hawk restauraci ve které jsem se carvrování naučil, se peklo ve všední den až 30 primeribů, což representovalo zhruba 420 porcí (30x14), a všechny byly krájeny v jídelně "nastojato" z horkého pojízdného vozu.
+V Black Hawk restauraci ve které jsem se carvrování naučil, se peklo ve všední den až 30 primeribů, což representovalo zhruba 420 porcí (30x14), a všechny byly krájeny v jídelně "nastojato" z horkého pojízdného vozu. 
 
-Na tomto voze mohly stát 4 primeriby (56 porcí), takže byl zajištěn výběr všech možných požadovaných vnitřních teplot masa.
+Na tomto voze mohly stát 4 primeriby (56 porcí), takže byl zajištěn výběr všech možných požadovaných vnitřních teplot masa. 
 
-Ve spodní části toho vozu, která byla rovněž vyhřívaná, bylo možno umístit dalších 8 prime ribů (112 porcí), tudíž bylo stále dost porcí při ruce.
+Ve spodní části toho vozu, která byla rovněž vyhřívaná, bylo možno umístit dalších 8 prime ribů (112 porcí), tudíž bylo stále dost porcí při ruce. 
 
 {id="kontrola_porc"}
 
-## Kontrola porcí
+## Kontrola porcí 
 
-Jestli Američané v kuchařině vynalezli něco geniálního tak je to Portion controll a Food Cost (FC). What a country!
+Jestli Američané v kuchařině vynalezli něco geniálního tak je to Portion controll a Food Cost (FC). What a country! 
 
-Snadná kontrola porcí je dnes základním požadavkem při hromadné přípravě jídel a prime rib je k tomu ideální.
+Snadná kontrola porcí je dnes základním požadavkem při hromadné přípravě jídel a prime rib je k tomu ideální. 
 
-Jak jste si povšimli, tak prime rib má sedm žeber a v tom je další jeho krása, protože lepší kontrolu porcí už ani nemůžete mít...
+Jak jste si povšimli, tak prime rib má sedm žeber a v tom je další jeho krása, protože lepší kontrolu porcí už ani nemůžete mít... 
 
-Klasický způsob pečení primeribu je, že se peče s kostí a že se také s kostí podává. Jak ale víme, tak nic není perfektní, tudíž ani prime rib.
+Klasický způsob pečení primeribu je, že se peče s kostí a že se také s kostí podává. Jak ale víme, tak nic není perfektní, tudíž ani prime rib. 
 
-Někteří hosté dávají přednost porcím s kostí, ale každá porce s kostí být nemůže, leda že by se z každého prime ribu dělalo jen sedm porcí, což je nemyslitelné, protože by byly příliš veliké.
+Někteří hosté dávají přednost porcím s kostí, ale každá porce s kostí být nemůže, leda že by se z každého prime ribu dělalo jen sedm porcí, což je nemyslitelné, protože by byly příliš veliké. 
 
-Proto v restauraci, která se na prime rib specializuje, se z každého prime ribu krájí čtrnáct porcí a podávají jednu porci s kostí a druhou bez kosti. Porce s kostí jsou v takových restauracích žádanější a sice proto, že prime rib s kostí je chutnější, a taková porce je někdy tak velká, že se sotva vejde na talíř, což lidé mají rádi.
+Proto v restauraci, která se na prime rib specializuje, se z každého prime ribu krájí čtrnáct porcí a podávají jednu porci s kostí a druhou bez kosti. Porce s kostí jsou v takových restauracích žádanější a sice proto, že prime rib s kostí je chutnější, a taková porce je někdy tak velká, že se sotva vejde na talíř, což lidé mají rádi. 
 
-Aby ale porce prim ribu byly skutečně velké i bez kosti, tak se musí zabránit ztrátám při jeho pečení neboli, že se musí péct velice zvolna na požadovaný stupeň dohotovení.
+Aby ale porce prim ribu byly skutečně velké i bez kosti, tak se musí zabránit ztrátám při jeho pečení neboli, že se musí péct velice zvolna na požadovaný stupeň dohotovení. 
 
-Toto se ale snadněji řekne než udělá.
+Toto se ale snadněji řekne než udělá. 
 
-U steaků je toto relativně jednoduché protože každý zkušený broilerman ví jak dlouho musí mít steak na ohni aby vnitřek byl upečen podle přání hosta.
+U steaků je toto relativně jednoduché protože každý zkušený broilerman ví jak dlouho musí mít steak na ohni aby vnitřek byl upečen podle přání hosta. 
 
-Když ten steak nedopeče, tak ho v nejhorším případě dá ještě na několik okamžiků na oheň, případně do mikrovlnky, ale když ten steak přepeče, tak ho bohužel musí vyhodit, a když to uděláte příliš často, tak pan restauratér nejspíše vyhodí vás. What a country!
+Když ten steak nedopeče, tak ho v nejhorším případě dá ještě na několik okamžiků na oheň, případně do mikrovlnky, ale když ten steak přepeče, tak ho bohužel musí vyhodit, a když to uděláte příliš často, tak pan restauratér nejspíše vyhodí vás. What a country! 
 
-Prime rib je ale úplně jiné zvíře. Z dobře upečeného primeribu ze kterého uspokojíte největší počet hostů podle jejich představ o propečenosti masa musíte mít asi následující počet porcí:
+Prime rib je ale úplně jiné zvíře. Z dobře upečeného primeribu ze kterého uspokojíte největší počet hostů podle jejich představ o propečenosti masa musíte mít asi následující počet porcí: 
 
-  * 2 krajní porce, kterým se anglicky říká end cut, a které jsou v každém případě zcela propečené na stupeň zvaný well done (WD) tj. na 65°C.
-  * 2 další porce z každého konce, celkem 4, které by měly být propečeny poněkud méně, na stupeň zvaný medium well (MW), tj. na 62°C, a které se vyznačují šedivou barvou .
-  * 2 další porce z každého konce (celkem 4),ukrojené blíže ze středu, které jsou propečeny na střední stupeň medium, tj. na 60°C, a které se vyznačují jasně růžovou barvou.
+  * 2 krajní porce, kterým se anglicky říká end cut, a které jsou v každém případě zcela propečené na stupeň zvaný well done (WD) tj. na 65°C. 
+  * 2 další porce z každého konce, celkem 4, které by měly být propečeny poněkud méně, na stupeň zvaný medium well (MW), tj. na 62°C, a které se vyznačují šedivou barvou. 
+  * 2 další porce z každého konce (celkem 4),ukrojené blíže ze středu, které jsou propečeny na střední stupeň medium, tj. na 60°C, a které se vyznačují jasně růžovou barvou. 
   * 4 porce ze středu, upečené jen na medium rare nebo rare, což je syrové nebo téměř syrové, asi 50°C. 
 
-Toto ovšem je velice ideální představa a skutečnost je vždy trochu jiná, nicméně se to dá trochu kontrolovat.
+Toto ovšem je velice ideální představa a skutečnost je vždy trochu jiná, nicméně se to dá trochu kontrolovat. 
 
 {id="podvn\_prime\_ribu"}
 
-## Podávání prime ribu
+## Podávání prime ribu 
 
-Prime rib se podává na velkém kulatém talíři zvaném dinner plate, případně oválném horkém talíři, zvaném platter, a ve většině případů přelitý silnou, řídkou hovězí šťávou zvanou au jus.
+Prime rib se podává na velkém kulatém talíři zvaném dinner plate, případně oválném horkém talíři, zvaném platter, a ve většině případů přelitý silnou, řídkou hovězí šťávou zvanou au jus. 
 
-Na stejném talíři, ale někdy ale na zvláštním talířku zvaném side dish, se podává pečená brambora, naplněná buď čerstvým máslem nebo kyselou smetanou, nebo tak zvané "Double baked potato", což je plněná brambora, a nějaká zelenina což je nejčastěji hrášek, zelené fazolky, mrkev, nebo špenát.
+Na stejném talíři, ale někdy ale na zvláštním talířku zvaném side dish, se podává pečená brambora, naplněná buď čerstvým máslem nebo kyselou smetanou, nebo tak zvané "Double baked potato", což je plněná brambora, a nějaká zelenina což je nejčastěji hrášek, zelené fazolky, mrkev, nebo špenát. 
 
-V Americe se k jídlům běžně podávají dvě přílohy, jedna škrobovina (starch), což může být rýže, těstoviny nebo brambory, a druhá je zpravidla zelenina (vegetable).
+V Americe se k jídlům běžně podávají dvě přílohy, jedna škrobovina (starch), což může být rýže, těstoviny nebo brambory, a druhá je zpravidla zelenina (vegetable). 
 
-Gimmick Blackhawk restaurace je, že říkají, že u nich můžete dostat jakoukoliv zeleninu, pokud to je jejich populární krémový špenát! - "take it or leave it", což se do češtiny dá přeložit jako: "Buď si ten špenát dáte a nebo to budete mít bez zeleniny.
+Gimmick Blackhawk restaurace je, že říkají, že u nich můžete dostat jakoukoliv zeleninu, pokud to je jejich populární krémový špenát! - "take it or leave it", což se do češtiny dá přeložit jako: "Buď si ten špenát dáte a nebo to budete mít bez zeleniny. 
 
-To je jako když Ford zpočátku inzeroval, že u nich můžete dostat auto jakékoliv barvy, pokud ta barva je černá.
+To je jako když Ford zpočátku inzeroval, že u nich můžete dostat auto jakékoliv barvy, pokud ta barva je černá. 
 
-Je zajímavé, že přesto, že Black Hawk je velice drahý exklusivní restaurant, ve kterém se očekává, že se hostům splní každé jejich přání, si zatím nikdo nestěžoval. What a country!
+Je zajímavé, že přesto, že Black Hawk je velice drahý exklusivní restaurant, ve kterém se očekává, že se hostům splní každé jejich přání, si zatím nikdo nestěžoval. What a country! 
 
-K prime ribu se také někdy zvlášť podává krémový křen, zakysaná smetana s pažitku a případně čistá šťáva zvaná "au jus". Tak jak Američané mají rádi ku všemu kečup, tak k prime ribu se ale kečup nepodává, protože to by nebylo košer a dokonce velká chucpa.
+K prime ribu se také někdy zvlášť podává krémový křen, zakysaná smetana s pažitku a případně čistá šťáva zvaná "au jus". Tak jak Američané mají rádi ku všemu kečup, tak k prime ribu se ale kečup nepodává, protože to by nebylo košer a dokonce velká chucpa. 
 
-Mimořádně se k primeribu podávají bramborové hranolky, rýžový pilaf nebo divoká rýže (wild rice), ale pravý connoiseur by k prime ribu nejedl nic jiného než pečenou bramboru a případně Yorkshire Pudding.
+Mimořádně se k primeribu podávají bramborové hranolky, rýžový pilaf nebo divoká rýže (wild rice), ale pravý connoiseur by k prime ribu nejedl nic jiného než pečenou bramboru a případně Yorkshire Pudding. 
 
-Američané, jak ale asi již víte, jsou tak zaostalí, že ani nevědí co to je "obloha" nicméně téměř všechna jídla zdobí snítkou zelené petrželky.
+Američané, jak ale asi již víte, jsou tak zaostalí, že ani nevědí co to je "obloha" nicméně téměř všechna jídla zdobí snítkou zelené petrželky. 
 
-  * Yorkshire Pudding12-15
-  * Mouka2 šálky
-  * Sůl¼ lžičky
-  * Rozšlehaná vejce2
-  * Mléko2 ¼ šálku
-  * Vyškvařený tuk½ šálku
+  * Yorkshire Pudding12-15 
+  * Mouka2 šálky 
+  * Sůl¼ lžičky 
+  * Rozšlehaná vejce2 
+  * Mléko2 ¼ šálku 
+  * Vyškvařený tuk½ šálku 
 
-V Anglii je pudingů že se všechny nedají ani popsat, ale Yorkshire Pudding má původ v Jižní Anglii kde šetrné hospodyně nemohly přenést přes srdce, že tuk který se vypekl z pečeně nebyl dostatečně využit.
+V Anglii je pudingů že se všechny nedají ani popsat, ale Yorkshire Pudding má původ v Jižní Anglii kde šetrné hospodyně nemohly přenést přes srdce, že tuk který se vypekl z pečeně nebyl dostatečně využit. 
 
-Proto asi 30-40 minut před tím než byla hovězí pečeně dopečena, přidávaly do vypečeného tuku v pekáči těsto z mouky, vajec a mléka, které v horkém omastku česky řečeno "nesuflovalo" a v době kdy byla pečeně hotová byl hotový i tento "puding".
+Proto asi 30-40 minut před tím než byla hovězí pečeně dopečena, přidávaly do vypečeného tuku v pekáči těsto z mouky, vajec a mléka, které v horkém omastku česky řečeno "nesuflovalo" a v době kdy byla pečeně hotová byl hotový i tento "puding". 
 
-Pudding se krájel na kusy a přidával se k pečeni jako příloha. Postup přípravy tohoto pudinku je dnes téměř stejný s tím rozdílem, že se těsto buď přidává do tuku v malých dávkách, nebo že se peče v individuálních formách.
+Pudding se krájel na kusy a přidával se k pečeni jako příloha. Postup přípravy tohoto pudinku je dnes téměř stejný s tím rozdílem, že se těsto buď přidává do tuku v malých dávkách, nebo že se peče v individuálních formách. 
 
-Potom přimícháme zbytek mléka, a odměrkou nebo naběračkou dáváme malé kopečky těsta do rozpáleného tuku a pečeme v troubě při teplotě 200°C až jednotlivé porce nasuflují a zhnědnou, asi 15 až 20 minut.
+Potom přimícháme zbytek mléka, a odměrkou nebo naběračkou dáváme malé kopečky těsta do rozpáleného tuku a pečeme v troubě při teplotě 200°C až jednotlivé porce nasuflují a zhnědnou, asi 15 až 20 minut. 
 
 Blackhawk Creamed Spinach 
 
@@ -345,167 +343,167 @@ Blackhawk Creamed Spinach
   * Mletý kmín 
   * Maggi koření 
   * Drcený česnek 
-  * Bešamel
+  * Bešamel 
 
-Množství jednotlivých surovin vám říci nemohu, protože tento recept jsem pro Dona Roth, majitele Blackhawk restaurace udělal já, a slíbil jsem mu, že ho nikomu nedám. Nicméně pokud to nikomu neprozradíte, tak vám řeknu jak byste ten špenát měli dělat.
+Množství jednotlivých surovin vám říci nemohu, protože tento recept jsem pro Dona Roth, majitele Blackhawk restaurace udělal já, a slíbil jsem mu, že ho nikomu nedám. Nicméně pokud to nikomu neprozradíte, tak vám řeknu jak byste ten špenát měli dělat. 
 
 {id="postup"}
 
-## Postup
+## Postup 
 
-Na cibuli osmahnutou na přepuštěném másle přidáte rozmražený mletý špenát i s tou vodou (protože jste si ji zaplatili). Přidáte sůl, mletý bílý pepř, mletý kmín a Maggi koření podle chuti.
+Na cibuli osmahnutou na přepuštěném másle přidáte rozmražený mletý špenát i s tou vodou (protože jste si ji zaplatili). Přidáte sůl, mletý bílý pepř, mletý kmín a Maggi koření podle chuti. 
 
-Špenát nepotřebuje dlouhé vaření a tak asi po 20 minutách, když ten špenát rozmrzne a část vody se vyvaří, přidáte drcený česnek (který by se také neměl dlouho vařit) a horký bešamel podle potřeby.
+Špenát nepotřebuje dlouhé vaření a tak asi po 20 minutách, když ten špenát rozmrzne a část vody se vyvaří, přidáte drcený česnek (který by se také neměl dlouho vařit) a horký bešamel podle potřeby. 
 
-Kolik toho bešamelu tam dáte záleží jen jak rychle chcete zbohatnout. Čím více bešamelu, tím lepší food cost, ale všecko má své meze. Když toho bešamelu přidáte moc, tak tomu budete muset říkat "bešamel se špenátem" a to podle mně také není moc košer.
+Kolik toho bešamelu tam dáte záleží jen jak rychle chcete zbohatnout. Čím více bešamelu, tím lepší food cost, ale všecko má své meze. Když toho bešamelu přidáte moc, tak tomu budete muset říkat "bešamel se špenátem" a to podle mně také není moc košer. 
 
-Po přidání bešamelu špenát již moc nevaříme, protože by ztrácel na váze, zřídnul by a změnila by se jeho barva.
+Po přidání bešamelu špenát již moc nevaříme, protože by ztrácel na váze, zřídnul by a změnila by se jeho barva. 
 
-A tím jsme se dostáli k tmu proč ten Prime Rib je misnomina.
+A tím jsme se dostáli k tmu proč ten Prime Rib je misnomina. 
 
-Kdykoliv se někde v obchodě nebo v restauraci inzeruje, že používají U.S. Prime, U.S. Choice nebo U.S. cokoliv, tak musí skutečné používat maso které bylo do patřičné skupiny zařazeno státně zkušeným inspektorem.
+Kdykoliv se někde v obchodě nebo v restauraci inzeruje, že používají U.S. Prime, U.S. Choice nebo U.S. cokoliv, tak musí skutečné používat maso které bylo do patřičné skupiny zařazeno státně zkušeným inspektorem. 
 
-Tudíž Prime Rib pokud nebyl připraven z prvé jakostní třídy může být prodáván jen pod názvem rib roast, neboli kus masa z nízkého roštěnce s kostí.
+Tudíž Prime Rib pokud nebyl připraven z prvé jakostní třídy může být prodáván jen pod názvem rib roast, neboli kus masa z nízkého roštěnce s kostí. 
 
-Podle amerického zákona na ochranu spotřebitele Truth on The Menu, je nesprávné označení použitého masa sice postižitelné, ale výraz Prime Rib je tak vžitý, že je mlčky tolerován i když je tato pečeně připravena z Choice a proto si myslím, že i v Česku se může výraz primerib tolerovat.
+Podle amerického zákona na ochranu spotřebitele Truth on The Menu, je nesprávné označení použitého masa sice postižitelné, ale výraz Prime Rib je tak vžitý, že je mlčky tolerován i když je tato pečeně připravena z Choice a proto si myslím, že i v Česku se může výraz primerib tolerovat. 
 
-Primeriby a maso na steaky, jak jsme si řekli musí být aged neboli uzrálé.
+Primeriby a maso na steaky, jak jsme si řekli musí být aged neboli uzrálé. 
 
 {id="peen1"}
 
-## Pečení
+## Pečení 
 
-Pečení (roasting) prime ribů je další tajemství amerických primeribů.
+Pečení (roasting) prime ribů je další tajemství amerických primeribů. 
 
-U té příležitosti se musím zmínit o tom, že pečením, anglicky to bake, se v zásadě rozumí pečení pečiva.
+U té příležitosti se musím zmínit o tom, že pečením, anglicky to bake, se v zásadě rozumí pečení pečiva. 
 
-U masa, až na malé výjimky, se používá výraz to roast. Čeština v tom rozdíly nedělá, ale my jako studenti Hostovky si budeme asi rozumět.
+U masa, až na malé výjimky, se používá výraz to roast. Čeština v tom rozdíly nedělá, ale my jako studenti Hostovky si budeme asi rozumět. 
 
-Roast beef, neboli hovězí pečeně ať je jakákoliv, je v Americe stejné zaklínadlo jako například steak.
+Roast beef, neboli hovězí pečeně ať je jakákoliv, je v Americe stejné zaklínadlo jako například steak. 
 
-Primerib ale zaujímá v americké gastronomií místo nejčestnější.
+Primerib ale zaujímá v americké gastronomií místo nejčestnější. 
 
-Primerib je součástí Ameriky stejně tak jako socha Svobody, apple pie nebo americký footbal, který ale s fotbalem nemá vůbec co společného.
+Primerib je součástí Ameriky stejně tak jako socha Svobody, apple pie nebo americký footbal, který ale s fotbalem nemá vůbec co společného. 
 
-Pokud jste byli v Americe a neochutnali jste Prime rib, tak vlastně nevíte, co je Amerika.
+Pokud jste byli v Americe a neochutnali jste Prime rib, tak vlastně nevíte, co je Amerika. 
 
 Oproti hamburgerům a pize, které Amerika ve světě zpopularizovala, které ale nejsou americké, a v Americe jsou nejpopulárnější, se ale Amerika může pochlubit svým primeribem jako ničím nefalšovaným americkým příslušenstvím. 
 
-Pro mně má prime rib navíc to kouzlo, že to bylo prvé americké jídlo které jsem se naučil nejenom bourat a upravovat, ale i péct, carvrovat a dokonce i podávat a jíst, což samo o sobě má také své zásady.
+Pro mně má prime rib navíc to kouzlo, že to bylo prvé americké jídlo které jsem se naučil nejenom bourat a upravovat, ale i péct, carvrovat a dokonce i podávat a jíst, což samo o sobě má také své zásady. 
 
 {id="peen_primerib"}
 
-## Pečení primeribů
+## Pečení primeribů 
 
-Některá libová masa se kdysi před pečením protýkala, neboli špikovala tukem (larding).
+Některá libová masa se kdysi před pečením protýkala, neboli špikovala tukem (larding). 
 
-Toto je dnes považováno přiléváním oleje do ohně, nicméně kvalita hovězího masa je hodnoceno podle jeho mramorování (marbling) neboli podle ideálního rozložení tuku v mase.
+Toto je dnes považováno přiléváním oleje do ohně, nicméně kvalita hovězího masa je hodnoceno podle jeho mramorování (marbling) neboli podle ideálního rozložení tuku v mase. 
 
-Proto se některá "libová" masa mimo špikování pokrývala tukem (barding), jednak proto aby se povrch pečeně chránil před spálením, a aby maso dostalo i lepší chuť.
+Proto se některá "libová" masa mimo špikování pokrývala tukem (barding), jednak proto aby se povrch pečeně chránil před spálením, a aby maso dostalo i lepší chuť. 
 
-V ceně pečeného primeribu není jen hodnota masa a jeho zrání, ale i mimořádná péče při jeho pečení.
+V ceně pečeného primeribu není jen hodnota masa a jeho zrání, ale i mimořádná péče při jeho pečení. 
 
-Povrch primeribu je pokryt dostatečné silnou ochranou vrstvou tuku, které brání přepečení jeho středu, a maso je prorostlé (marbled) žádoucím tukem který dodává masu na křehkosti a šťavnatosti.
+Povrch primeribu je pokryt dostatečné silnou ochranou vrstvou tuku, které brání přepečení jeho středu, a maso je prorostlé (marbled) žádoucím tukem který dodává masu na křehkosti a šťavnatosti. 
 
-Tudíž jak vidíme, primerib nepotřebuje nic jiného než vložit do trouby a péct až je maso hotové.
+Tudíž jak vidíme, primerib nepotřebuje nic jiného než vložit do trouby a péct až je maso hotové. 
 
-Musím vám ale říci, že tak jednoduché to zase není, protože v tom případě by každý kdo by si toto přečetl by byl kuchařem a to jak uznáte nemůžeme potřebovat.
+Musím vám ale říci, že tak jednoduché to zase není, protože v tom případě by každý kdo by si toto přečetl by byl kuchařem a to jak uznáte nemůžeme potřebovat. 
 
-Primerib není pečený dokud není pečený!
+Primerib není pečený dokud není pečený! 
 
-Prime rib se může péct (to roast) několika způsoby avšak účel je vždy stejný a to je: upéct maso na požadovanou vnitřní teplotu při minimálních ztrátách
+Prime rib se může péct (to roast) několika způsoby avšak účel je vždy stejný a to je: upéct maso na požadovanou vnitřní teplotu při minimálních ztrátách 
 
-Přepečený primerib 16-20% Správně upečený 8-12 %
+Přepečený primerib 16-20% Správně upečený 8-12 % 
 
-K nejmenším ztrátám připečení masa dochází při pomalém pečení.
+K nejmenším ztrátám připečení masa dochází při pomalém pečení. 
 
-To ale nevěděl ani pan šéfkuchař Zimermann pod kterým jsem se vyučil v hoelu Alcron v Praze, ale to bylo za druhé světové války kdy se toho masa tolik nepeklo.
+To ale nevěděl ani pan šéfkuchař Zimermann pod kterým jsem se vyučil v hoelu Alcron v Praze, ale to bylo za druhé světové války kdy se toho masa tolik nepeklo. 
 
-Dnes by ale pan Zimermann mrkal, a byl by na mně pyšný kdyby viděl jak jsem ty primriby pekl v Black Hawk restauraci v Chicagu.
+Dnes by ale pan Zimermann mrkal, a byl by na mně pyšný kdyby viděl jak jsem ty primriby pekl v Black Hawk restauraci v Chicagu. 
 
 {id="gi_pan"}
 
-## GI pan
+## GI pan 
 
-Ty primeriby se pekly po dvou ve velkých železných pekáčích zvaných GI Pans.
+Ty primeriby se pekly po dvou ve velkých železných pekáčích zvaných GI Pans. 
 
-Na dno každého pekáče se dala asi 4cm silná vrstva hrubé sole, na to se položily žebry dolů 2 primeriby, zasypaly se hrubou solí, tak aby byla alespoň 1 cm silná vrstva sole napovrchu a daly se ve o půlnoci do trouby předehřáté na 120°C.
+Na dno každého pekáče se dala asi 4cm silná vrstva hrubé sole, na to se položily žebry dolů 2 primeriby, zasypaly se hrubou solí, tak aby byla alespoň 1 cm silná vrstva sole napovrchu a daly se ve o půlnoci do trouby předehřáté na 120°C. 
 
-Druhý den kolem 8-9 hodiny ráno se ty primeriby daly do udržovací trouby (holding oven) kde "odpočívaly" až do doby krájení (carving).
+Druhý den kolem 8-9 hodiny ráno se ty primeriby daly do udržovací trouby (holding oven) kde "odpočívaly" až do doby krájení (carving). 
 
 {id="jak\_podvat\_primerib"}
 
-## Jak podávat primerib
+## Jak podávat primerib 
 
-Podávání primeribu má své zásady. Primerib se podává na horkém velkém kulatém nebo oválném talíři.
+Podávání primeribu má své zásady. Primerib se podává na horkém velkém kulatém nebo oválném talíři. 
 
-Na stejném talíři, ale někdy na zvláštním talířku, se podává pečená brambora, naplněná buď čerstvým máslem nebo kyselou smetanou. Velice oblíbené jsou tak zvané "Double baked potato", což je pečená brambora, vydlabaná a následně plněná nějakou náplní.
+Na stejném talíři, ale někdy na zvláštním talířku, se podává pečená brambora, naplněná buď čerstvým máslem nebo kyselou smetanou. Velice oblíbené jsou tak zvané "Double baked potato", což je pečená brambora, vydlabaná a následně plněná nějakou náplní. 
 
-Porce zvané ladies cut váží v průměru 220 gramů, zatímco gentleme?s cut může vážit od 300 do 400 gramů a Brady Jim?s, nebo Diamond Jim Cut váží třeba až 700 gramů.
+Porce zvané ladies cut váží v průměru 220 gramů, zatímco gentleme?s cut může vážit od 300 do 400 gramů a Brady Jim?s, nebo Diamond Jim Cut váží třeba až 700 gramů. 
 
 Jakousi specialitou při krájení primeribu je tak zvaný English Cut, což je kterýkoliv z uvedených porcí ve dvou tenkých řezech. 
 
-V Americe se k jídlům běžně podávají dvě přílohy, jedna škrobovina (starch), což může být rýže, těstoviny nebo brambory, a druhá je zpravidla zelenina. Tudíž mimo brambor, se podává ještě jedna zelenina podle výběru.
+V Americe se k jídlům běžně podávají dvě přílohy, jedna škrobovina (starch), což může být rýže, těstoviny nebo brambory, a druhá je zpravidla zelenina. Tudíž mimo brambor, se podává ještě jedna zelenina podle výběru. 
 
-Gimmick Blackhawk restaurace je, že říkají, že u nich můžete dostat jakoukoliv zeleninu, pokud to je jejich populární krémový špenát ? "take it or leave it", což se dá přeložit do češtiny jako: "Buď si ten špenát dáte a nebo to budete mít bez zeleniny".
+Gimmick Blackhawk restaurace je, že říkají, že u nich můžete dostat jakoukoliv zeleninu, pokud to je jejich populární krémový špenát ? "take it or leave it", což se dá přeložit do češtiny jako: "Buď si ten špenát dáte a nebo to budete mít bez zeleniny". 
 
-Je zajímavé, že přesto, že Blackhawk je velice drahý restaurant, ve kterém se očekává, že se hostům splní každé jejich přání, si zatím nikdo nestěžoval. What a country!
+Je zajímavé, že přesto, že Blackhawk je velice drahý restaurant, ve kterém se očekává, že se hostům splní každé jejich přání, si zatím nikdo nestěžoval. What a country! 
 
-K primeribu se také někdy zvlášť podává krémový křen, nicméně tak jak Američané mají rádi ku všemu kečup, tak k primeribu se ale kečup nepodává, protože to by nebylo "košer".
+K primeribu se také někdy zvlášť podává krémový křen, nicméně tak jak Američané mají rádi ku všemu kečup, tak k primeribu se ale kečup nepodává, protože to by nebylo "košer". 
 
 Mimořádně se k primeribu podávají bramborové hranolky, rýžový pilaf nebo divoká rýže (wild rice), ale pravý connoiseur by k prime ribu nejedl nic jiného než pečenou bramboru a případně Yorkshire Pudding. 
 
 {id="jak\_si\_objednat\_a\_jak\_jst\_primerib"}
 
-## Jak si objednat a jak jíst primerib
+## Jak si objednat a jak jíst primerib 
 
-I když primerib je v Americe velice populární tak ani tam všichni lidé nevědí jak si primerib objednat natožpak aby to věděli Evropané.
+I když primerib je v Americe velice populární tak ani tam všichni lidé nevědí jak si primerib objednat natožpak aby to věděli Evropané. 
 
-Tudíž pokud přijedete do Ameriky tak nedělejte nějaké haury a nechte si poradit od někoho kdo primeribům rozumí protože jinak váš požitek bude minimální a možná že i velkým zklamáním.
+Tudíž pokud přijedete do Ameriky tak nedělejte nějaké haury a nechte si poradit od někoho kdo primeribům rozumí protože jinak váš požitek bude minimální a možná že i velkým zklamáním. 
 
-Správně upečený primerib, jak teď již víme, by měl uspokojit každého pokud se týká jeho propečení neboli jeho vnitřní teploty.
+Správně upečený primerib, jak teď již víme, by měl uspokojit každého pokud se týká jeho propečení neboli jeho vnitřní teploty. 
 
-Lidé kteří nemají rádi syrové nebo méně propečené maso si zpravidla objednávají tzv. end cut, což jsou již zmíněné dva konce každého primeribu.
+Lidé kteří nemají rádi syrové nebo méně propečené maso si zpravidla objednávají tzv. end cut, což jsou již zmíněné dva konce každého primeribu. 
 
-End cut je nejenom dobře propečený, ale je to také veliký flák masa. Je zpravidla bez kostí, ale "who cares", ty kosti se nedají jíst tak jako tak.
+End cut je nejenom dobře propečený, ale je to také veliký flák masa. Je zpravidla bez kostí, ale "who cares", ty kosti se nedají jíst tak jako tak. 
 
-Mimo knedlíků si můžete v Americe k primeribu objednat téměř každou přílohu ale typická je pečená brambora s máslem nebo s kyselou smetanou, ale ve většině restaurací vám k té bramboře dají obojí.
+Mimo knedlíků si můžete v Americe k primeribu objednat téměř každou přílohu ale typická je pečená brambora s máslem nebo s kyselou smetanou, ale ve většině restaurací vám k té bramboře dají obojí. 
 
 Někdy je to už v té bramboře a navrch vám dokonce dají kousky grilované slaniny kterým se říká "bacon bits", ale pro pravého gurmána to není moc košer. 
 
-Ta pečená brambora, a hlavně její pojídání je totiž jakýsi rituál podle kterého se pozná jestli jste connoiseur nebo nějaký greenhorn.
+Ta pečená brambora, a hlavně její pojídání je totiž jakýsi rituál podle kterého se pozná jestli jste connoiseur nebo nějaký greenhorn. 
 
-Ta brambora se po upečení totiž musí otevřít, ale ne rozříznutím nožem, to by bylo to největší faut pas které byste mohli udělat.
+Ta brambora se po upečení totiž musí otevřít, ale ne rozříznutím nožem, to by bylo to největší faut pas které byste mohli udělat. 
 
-Musí se to udělat vidličkou to tak, že do té brambory se vidličkou rozpíchá kříž, což taky nemá co společného s vašim náboženstvím protože si tam můžete udělat třeba i židovskou hvězdu.
+Musí se to udělat vidličkou to tak, že do té brambory se vidličkou rozpíchá kříž, což taky nemá co společného s vašim náboženstvím protože si tam můžete udělat třeba i židovskou hvězdu. 
 
-Účel totiž je, aby se potom mírným zatlačením na oba konce ta brambora "otevřela".
+Účel totiž je, aby se potom mírným zatlačením na oba konce ta brambora "otevřela". 
 
-V tom okamžiku z té brambory začne unikat pára která je známkou toho, že ta brambora byla čerstvě upečená.
+V tom okamžiku z té brambory začne unikat pára která je známkou toho, že ta brambora byla čerstvě upečená. 
 
-Následně ten vnitřek té brambory jak se správně česky říká vidličkou "rozkňafáte" a přikňafáte si do ni to co máte raději a to buď máslo nebo kyselou smetanu případně se sekanou pažitkou (chives), což je v Americe velice populární.
+Následně ten vnitřek té brambory jak se správně česky říká vidličkou "rozkňafáte" a přikňafáte si do ni to co máte raději a to buď máslo nebo kyselou smetanu případně se sekanou pažitkou (chives), což je v Americe velice populární. 
 
-Závěrem se musím omluvit za to, že vám to všechno tak podrobně popisuji protože vím, že jednak některým lidem mé dlouhé povídačky vadí a také proto, že to vlastně není moc aktuální.
+Závěrem se musím omluvit za to, že vám to všechno tak podrobně popisuji protože vím, že jednak některým lidem mé dlouhé povídačky vadí a také proto, že to vlastně není moc aktuální. 
 
-Jsou ale také lidé kterým naopak vadí, že dnes 15 let po té Sametové revoluci a obrodě toho českého pohostinství takové jídla jako jsou pořádné steaky nebo primerib v Česku nemáme a proto za takovými jídly jezdí do zahraničí.
+Jsou ale také lidé kterým naopak vadí, že dnes 15 let po té Sametové revoluci a obrodě toho českého pohostinství takové jídla jako jsou pořádné steaky nebo primerib v Česku nemáme a proto za takovými jídly jezdí do zahraničí. 
 
-Těmto lidem ale já moc nepomohu. Mohu jim jedině poradit, aby se i v Česku tvrdě domáhali toho co jim za jejich peníze patří.
+Těmto lidem ale já moc nepomohu. Mohu jim jedině poradit, aby se i v Česku tvrdě domáhali toho co jim za jejich peníze patří. 
 
-Mohu jim ale říci, aby byli trpěliví. Já ty primeriby zatím jen popisuji, ale pevně věřím, že v restauracích konceptu STAKTGRILL büdou jednoho dne k dostání a pak zanimy do zahraničí již nebudou muset jezdit.
+Mohu jim ale říci, aby byli trpěliví. Já ty primeriby zatím jen popisuji, ale pevně věřím, že v restauracích konceptu STAKTGRILL büdou jednoho dne k dostání a pak zanimy do zahraničí již nebudou muset jezdit. 
 
 {id="dalsi" var="inputvar-pribuzne_h"}
 
-## n/a
+## n/a 
 
-n/a
+n/a 
 
 {var="inputvar-relation@var"}
 
-Příbuzné články nejsou k dispozici
+Příbuzné články nejsou k dispozici 
 
 {var="doclist-stitek"}
 
-  * n/a
+  * n/a 
 
 {var="inputvar-taglist" class="taglist"}
 
