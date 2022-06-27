@@ -9,27 +9,27 @@
 
 Michelinův průvodce byl poprvé vydaný ve Francii v roce 1900. Sloužil k prodeji Michelinových pneumatik šoférům bohatých klientů. Dříve průvodce hodnotil jen francouzské restaurace. Dnes obrazně řečeno rozhoduje o životě a smrti mnoha kuchařů po celé Evropě. 
 
-{class="example"} 
+{class="example"}
 
-Celosvětový prodej průvodců dosáhl 1,5 milionů výtisků ročně. Ve Francii, kde je jídlo náboženstvím, se průvodců prodává více než biblí.
+Celosvětový prodej průvodců dosáhl 1,5 milionů výtisků ročně. Ve Francii, kde je jídlo náboženstvím, se průvodců prodává více než biblí. 
 
 Stejně jako soudy bible, tak i soudy průvodce, jsou nevyzpytatelné a všemohoucí. Jeho systém hodnocení je epigonem jednoduchosti: 
 
- - jedna hvězda označuje „velice dobrou restauraci ve své kategorii“,
- - dvě hvězdičky označují „vynikající kuchyni hodnou zajížďky“,
- - a tři hvězdy označují „mimořádně dobrou kuchyni která stojí za zvláštní cestu“.
+  * jedna hvězda označuje „velice dobrou restauraci ve své kategorii“, 
+  * dvě hvězdičky označují „vynikající kuchyni hodnou zajížďky“, 
+  * a tři hvězdy označují „mimořádně dobrou kuchyni která stojí za zvláštní cestu“. 
 
 Nejsem přítelem průvodců, bedekrů a hodnocení restaurací a hotelů hvězdičkami. Michelinův průvodce je ale úplně jiné zvíře, a proto si myslím, že jako studenti Hostovky byste o něm měli něco vědět. 
 
 {id="hodnoceni"}
 
-## Hodnocení restaurací
+## Hodnocení restaurací 
 
 Průvodce Michelin uděluje ceny zpravidla celým restauracím, a to nejen za jídlo a víno, ale i za celkový dojem. Jak se ale zdá, tak Andrea Accordi, kterému v roce 2004 bylo Michelinem uděleno nejvyšší kulinářské ocenění je výjimkou. 
 
 Michelin uděluje jednu až tři hvězdičky. Tyto hvězdičky jsou velmi žádané restauracemi, které jsou zaměřené na snoby a vybranou klientelu. 
 
-{class="important"} 
+{class="important"}
 
 Získat jednu nebo dvě hvězdičky z vás může udělat legendu, ztratit jednu hvězdu může způsobit úplnou katastrofu. Průvodce sám uvádí, že jisté podniky si zaslouží, aby na ně bylo upozorněno pro kvalitu jídel, která podávají. 
 
@@ -37,11 +37,11 @@ Protože průvodce Michelin začal jako průvodce cestovatelů, tak jsou hvězdi
 
 {id="nazory"}
 
-## Názory na průvodce a jeho hodnocení
+## Názory na průvodce a jeho hodnocení 
 
 Michelinův průvodce, jeden z nejmocnější na světě, slavil v roce 2000 své 100leté výročí. Někteří kritici, mezi které patřím, díky stále se zvyšujícím rozdílům v hodnocení, dnes zpochybňují právo na titul jediné autority v posuzování kvality jídla a služeb v předních restauracích. 
 
-{class="important"} 
+{class="important"}
 
 Michelin posuzuje jen vybrané restaurace, kterým přidělí, případně odejme hvězdičky, přičemž zcela ignorují řadu jiných restaurací. 
 
@@ -55,11 +55,11 @@ Manažeři velkých francouzských společností chtějí dnes vidět podrobněj
 
 Nedá se však říci, že všechny tyto jednoduché popisy pomohou. O Lameloise, tříhvězdičkové restauraci V Burgundsku, Michelin píše: „Tato prastará diskrétní restaurace ukrývá elegantní interiér a dekor. Kuchyně je velmi tradiční.“ 
 
-Ale i tyto drobky representují ohromující změny v průvodci, na kterém za sto let jeho trvání nebylo nic změněno.  
+Ale i tyto drobky representují ohromující změny v průvodci, na kterém za sto let jeho trvání nebylo nic změněno. 
 
 {id="historie"}
 
-## Historie průvodce
+## Historie průvodce 
 
 Původně André a Eduard Michelinovi ve svém průvodci měli reklamy (které později zrušili) a podávali instrukce o údržbě automobilů spolu s adresami servisních stanic. Michelin rozdal zdarma 35000 výtisků prvního vydání a 54000 výtisků druhého. 
 
@@ -73,11 +73,11 @@ Když se Zick, majitel pařížské restaurace Relais des Porquerolles, v roce 1
 
 {id="kriteria"}
 
-## Kritéria hodnocení
+## Kritéria hodnocení 
 
 Tajemství, jakým způsobem Michelin hodnotí své restaurace dávalo, a ještě dává průvodci nádech jakési mystiky. Michelin nepřizná kolik inspektorů zaměstnávají, ale říká se, že v samotné Francii jich mají asi 20. Jak jsou tito inspektoři školeni zůstává rovněž tajemstvím. 
 
-{class="example"} 
+{class="example"}
 
 Jeden bývalý londýnský inspektor přiznal, že jeho trénink spočíval v návštěvě několika restaurací v doprovodu staršího francouzského inspektora, ale že ho nikdo nikdy nevzal do tříhvězdičkové restaurace. 
 
@@ -93,7 +93,7 @@ Michelin bere rovněž v úvahu hodnocení svých čtenářů, průvodce dostáv
 
 V roce 2001 zažil Michelinův hlavní stan v Paříži, který se vyznačoval loupajícími se tapetami a nepohodlnými křesly, radikální změny. Mnozí kritici říkali, že Michelin sám o sobě je zaostalý, pomalý, jak v udělování, tak i v odebírání hvězd. Tyto místnosti tedy byly renovovány zlatými nátěry a černým koženým nábytkem. Dokonce se v pátek, 2. března 2001 ujal žezla nový ředitel, Angličan Derek Brown. 
 
-Nové koště dobře mete, a tak se jeho panování se projevilo hned.  Mimo jiné byla odebrána jedna hvězda populárnímu Alanovi Ducasse v jeho monacké restauraci Louis XV. Promoce a demise mnoha dalších restaurací pak následovala. Tím Darek dokázal, že hodnocení Michelinu má stále ještě sílu. 
+Nové koště dobře mete, a tak se jeho panování se projevilo hned. Mimo jiné byla odebrána jedna hvězda populárnímu Alanovi Ducasse v jeho monacké restauraci Louis XV. Promoce a demise mnoha dalších restaurací pak následovala. Tím Darek dokázal, že hodnocení Michelinu má stále ještě sílu. 
 
 No a takto bychom mohli v popisu minulosti a současnosti Michelinu pokračovat do nekonečna, ale nikdo nemá dost odvahy odhadnout jeho budoucnost. 
 
@@ -109,7 +109,7 @@ Nakonec ještě jedna perla. Tisková zpráva: „Michelin stahuje 50 tisíc pr�
 
 „Známý francouzský průvodce po restauracích Michelin stahuje z prodeje desítky tisíc výtisků svého nového vydání pro rok 2005 zaměřeného na země Beneluxu. Důvodem je, že dobrou známkou je ohodnocena jedna belgická restaurace, která však v době výtisku ještě nefungovala. V minulosti se už mnohokrát spekulovalo o tom, že inspektoři jsou ve svých hodnoceních ovlivňování svými známými či věhlasnými šéfkuchaři. Nyní je to ale vůbec poprvé ve více než stoleté historii, kdy firma přistoupila ke stažení svého průvodce z prodeje.“ 
 
-Jaký jiný důkaz o humbuku celého Michelinu ještě chcete. Já jen doufám, že je to začátek konce této dnes již zprofanované organizace. Není líto restauratérů, kteří za získání hvězdiček zaplatily statisíce dolarů, to je prostě daň z blbosti a dobře jim tak. Je mi líto poctivých kuchařů a podnikatelů, které Michelin mnohdy připravil k bankrotu, nemluvě o několika, kteří si díky tomu vzali život. Jaký snobismus a jaká tragikomedie.
+Jaký jiný důkaz o humbuku celého Michelinu ještě chcete. Já jen doufám, že je to začátek konce této dnes již zprofanované organizace. Není líto restauratérů, kteří za získání hvězdiček zaplatily statisíce dolarů, to je prostě daň z blbosti a dobře jim tak. Je mi líto poctivých kuchařů a podnikatelů, které Michelin mnohdy připravil k bankrotu, nemluvě o několika, kteří si díky tomu vzali život. Jaký snobismus a jaká tragikomedie. 
 
 {id="dalsi" var="inputvar-pribuzne_h"}
 
