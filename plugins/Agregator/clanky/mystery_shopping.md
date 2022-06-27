@@ -85,29 +85,28 @@ Díky kontrolním pokladnám na západě k šizení již téměř nedochází. H
 
 V americké restauraci, pokud jenom výrazem obličeje vyjádříte, že vám nechutná jídlo, tak vám okamžitě nabídnou jiné. V mnoha případech, pokud máte oprávněnou stížnost na kvalitu jídla, vám za něj nic nepočítají, a navíc někdy dostanete i drink zdarma. _What a country! {xml:lang="en"}_ 
 
-To je ale v Americe, kde je většina hostů zvyklá chodit do restaurace několikrát týdně, případně i několikrát měsíčně, třeba i s celou rodinou. Hosté jsou zde tudíž sofistikovanější než kdekoliv jinde na světě a vědí, co chtějí, a co jim za jejich peníze patří.
+To je ale v Americe, kde je většina hostů zvyklá chodit do restaurace několikrát týdně, případně i několikrát měsíčně, třeba i s celou rodinou. Hosté jsou zde tudíž sofistikovanější než kdekoliv jinde na světě a vědí, co chtějí, a co jim za jejich peníze patří. 
 
-Teď si ale vezměte Česko nebo Slovensko. Já vím, že by si člověk neměl dělat do vlastního hnízda, ale nejsem pokrytec. Tak Vám to řeknu tak, jak to vidím. Na omluvu Čechů musím říci, že za to nemohou. Čechoslováci, kdysi respektovaný národ v celé Evropě, který byl při nejmenším na úrovni Německa a Rakouska, se díky socializmu dostal na úroveň národů, které se za národy nepočítají.
+Teď si ale vezměte Česko nebo Slovensko. Já vím, že by si člověk neměl dělat do vlastního hnízda, ale nejsem pokrytec. Tak Vám to řeknu tak, jak to vidím. Na omluvu Čechů musím říci, že za to nemohou. Čechoslováci, kdysi respektovaný národ v celé Evropě, který byl při nejmenším na úrovni Německa a Rakouska, se díky socializmu dostal na úroveň národů, které se za národy nepočítají. 
 
-Při jedné návštěvě ČR jsem při vstupu do stanice metra Hradčanská viděl relativně velký nápis, který nikdo nemohl přehlédnout.
-Cizinci si o Češích myslí že:
+Při jedné návštěvě ČR jsem při vstupu do stanice metra Hradčanská viděl relativně velký nápis, který nikdo nemohl přehlédnout. Cizinci si o Češích myslí že: 
 
- - Jsou inteligentní a milý národ.
- - Jsou národ sto let za opicemi.
- - Nejsou vůbec národ.
+  * Jsou inteligentní a milý národ. 
+  * Jsou národ sto let za opicemi. 
+  * Nejsou vůbec národ. 
 
-Nemusím Vám asi říkat, že to určitě napsal Čech, nicméně je v tom hodně pravdy. Většina cizinců si totiž myslí, že s tím s čím se v Česku dnes setkávají je standard.
+Nemusím Vám asi říkat, že to určitě napsal Čech, nicméně je v tom hodně pravdy. Většina cizinců si totiž myslí, že s tím s čím se v Česku dnes setkávají je standard. 
 
-Od samotných Čechů také často slyším, že Češi jsou pranárod, s čímž však také nemohu souhlasit. Nakonec i já jsem také Čech. Proto jsem to trochu změnil na to, že Češi jsou po-národ. Češi si podle mě totiž stále myslí, že tráva je vždy zelenější na druhé straně plotu. Neustále po něčem touží a stále na něco čekají a tak mají období jako:
+Od samotných Čechů také často slyším, že Češi jsou pranárod, s čímž však také nemohu souhlasit. Nakonec i já jsem také Čech. Proto jsem to trochu změnil na to, že Češi jsou po-národ. Češi si podle mě totiž stále myslí, že tráva je vždy zelenější na druhé straně plotu. Neustále po něčem touží a stále na něco čekají a tak mají období jako: 
 
- - po třicetileté válce,
- - po bílé hoře,
- - po Rakousko-Uhersku,
- - po druhé světové válce,
- - po únoru 1948,
- - po roce 1968,
- - po pádu komunismu,
- - po vstupu do EU.
+  * po třicetileté válce, 
+  * po bílé hoře, 
+  * po Rakousko-Uhersku, 
+  * po druhé světové válce, 
+  * po únoru 1948, 
+  * po roce 1968, 
+  * po pádu komunismu, 
+  * po vstupu do EU. 
 
 Opravte mě, pokud se mýlím, ale podle mě je _mystery shopping {xml:lang="en"}_ jen oblbování klientů firem, které _mystery shopping {xml:lang="en"}_ nabízí. Nicméně Češi a Slováci jsou v tomto ohledu jak malé děti a naletí na kdejaký špek. 
 
