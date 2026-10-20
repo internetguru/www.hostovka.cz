@@ -1,0 +1,21 @@
+dd.validateform-warning:before,
+label.validateform-warning:not([for]):before {
+  content: "\00bb";
+  display: inline-block;
+  color: rgb(152, 0, 0);
+  font-size: 1.5em;
+  line-height: 1em;
+  width: 0.8em;
+  margin-left: -0.8em;
+}
+label.validateform-warning:not([for]) {
+  color: rgb(152, 0, 0);
+}
+input.validateform-warning,
+textarea.validateform-warning {
+  border-color: #A13939;
+  background-color: #FFE5E5;
+}
+input.validateform-hp {
+  display: none;
+}

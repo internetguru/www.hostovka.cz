@@ -1,0 +1,15 @@
+@charset "UTF-8";
+a {
+  color: rgb(var(--link-color));
+  text-decoration: none;
+}
+a.stripped {
+  --link-color: var(--error);
+}
+a[href] {
+  border-bottom: thin solid rgba(var(--link-color), var(--link-border-opacity));
+}
+a[href]:visited {
+  border-bottom: thin solid rgba(var(--link-visited-color), var(--link-border-opacity));
+  color: rgb(var(--link-visited-color));
+}

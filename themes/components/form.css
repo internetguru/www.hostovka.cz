@@ -1,0 +1,75 @@
+@charset "UTF-8";
+input[type="text"],
+input[type="email"],
+input[type="date"],
+input[type="datetime-local"],
+textarea {
+  border: var(--input-border);
+  border-radius: var(--global-border-radius);
+  transition: var(--input-transition);
+  width: 100%;
+}
+input[type="date"],
+input[type="datetime-local"] {
+  position: relative;
+}
+input[type="datetime-local"][data-input-value=""]:before {
+  content: attr(placeholder);
+}
+input[type="datetime-local"][data-input-value=""]::-webkit-datetime-edit-fields-wrapper {
+  display: none;
+}
+input[type="datetime-local"][data-input-value=""]:focus:before {
+  content: "";
+}
+input:not([type='submit']),
+textarea,
+select {
+  background: white;
+  padding: var(--input-padding);
+}
+.contactform input[type="submit"] {
+  margin-top: 1em;
+  max-width: none;
+  width: 100%;
+}
+.contactform input[type="text"]:focus,
+.contactform input[type="email"]:focus,
+.contactform input[type="date"]:focus,
+.contactform input[type="datetime-local"]:focus,
+.contactform textarea:focus {
+  border: var(--input-border-active);
+  outline: none;
+}
+.contactform__wrapper {
+  margin: 0;
+  padding: 0;
+}
+.contactform__label,
+.contactform__item {
+  margin: 0.5em 0;
+}
+.contactform__label {
+  padding: 0 var(--label-padding-left);
+}
+.contactform__label--send {
+  padding: 0;
+}
+.contactform__label em {
+  font-weight: normal;
+}
+.contactform__label:not(:first-child) {
+  margin-top: var(--label-margin-top);
+}
+.contactform__item--desc {
+  font-style: italic;
+  font-weight: normal;
+  padding-left: var(--label-padding-left);
+}
+.contactform--basic .contactform__wrapper {
+  max-width: var(--cf-basic-wrapper-width);
+}
+.contactform--callme .contactform__wrapper {
+  max-width: var(--cf-callme-wrapper-width);
+}
+

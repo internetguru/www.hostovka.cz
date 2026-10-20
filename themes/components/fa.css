@@ -1,0 +1,8 @@
+@charset "UTF-8";
+*[class*="fa-"] {
+  display: none;
+}
+.fontawesome-i2svg-complete *[class*="fa-"] {
+  display: inline;
+  display: initial;
+}

@@ -1,0 +1,83 @@
+@charset "UTF-8";
+.globalmenu--hideable .globalmenu__item {
+  list-style: none;
+  margin: 0;
+  font-size: 1.2em;
+  width: 80vw;
+  max-width: 15em;
+}
+.globalmenu--hideable {
+  position: relative;
+}
+.globalmenu--hideable.hideable-hidden .globalmenu__wrapper {
+  display: none;
+}
+.globalmenu--hideable .globalmenu__wrapper {
+  background: rgba(var(--globalmenu-wrapper-bg), var(--globalmenu-hideable-opacity));
+  border-radius: var(--global-border-radius);
+  box-shadow: var(--shadow-2);
+  position: absolute;
+  right: var(--global-horizontal-padding);
+  z-index: 100;
+}
+.globalmenu--hideable .hideable-button .hideable-switch {
+  display: inline-flex;
+  font-size: var(--globalmenu-hideable-switch-font-size);
+  line-height: 1;
+  overflow: hidden;
+  padding: var(--globalmenu-hideable-switch-padding);
+  visibility: hidden;
+  white-space: nowrap;
+  width: calc(var(--globalmenu-hideable-switch-font-size) + var(--global-horizontal-padding));
+}
+.globalmenu--hideable.hideable-nohide .hideable-button {
+  display: absolute;
+  border-radius: var(--global-border-radius) var(--global-border-radius) 0 0;
+}
+.globalmenu--hideable .hideable-button .hideable-switch:before {
+  content: var(--globalmenu-hideable-switch);
+  display: flex;
+  flex: 0 0 100%;
+  justify-content: center;
+  visibility: visible;
+}
+.globalmenu--hideable.hideable-nohide .hideable-button .hideable-switch:before {
+  content: var(--globalmenu-hideable-switch-close);
+  font-family: var(--monospace-font-family);
+  margin-right: 0;
+}
+.globalmenu--hideable .globalmenu {
+  margin: 0;
+  padding: 0;
+}
+.globalmenu--hideable .globalmenu__item a {
+  display: block;
+  padding: var(--global-horizontal-padding) calc(2 * var(--global-horizontal-padding));
+  color: var(--globalmenu-wrapper-color);
+  border-bottom: thin solid rgba(var(--globalmenu-wrapper-color), 0.3);
+}
+.globalmenu__item.globalmenu__item--current a {
+  position: relative;
+}
+.globalmenu__item.globalmenu__item--current a:before,
+#footer .globalmenu__item a:before {
+  content: "•";
+  position: absolute;
+  left: 0.75rem;
+  font-size: 2rem;
+  top: 0.5rem
+}
+#footer .globalmenu a {
+  border-bottom: none;
+  text-transform: uppercase;
+}
+#footer .globalmenu__item a:before {
+  position: static;
+  line-height: 0;
+  vertical-align: -0.2em;
+  margin-right: 0.2em;
+  visibility: hidden;
+}
+#footer .globalmenu__item.globalmenu__item--current a:before {
+  visibility: visible;
+}

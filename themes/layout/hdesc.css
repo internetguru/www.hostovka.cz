@@ -1,0 +1,73 @@
+@charset "UTF-8";
+.hdesc--top {
+  background: var(--hdesc-top-bg);
+  padding: var(--hdesc-top-padding);
+  position: relative;
+  background-size: cover;
+}
+.hdesc--top:after {
+  background: var(--hdesc-dim-bg);
+  content: "";
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+.hdesc--top > * {
+  padding: 0 var(--global-horizontal-padding);
+  position: relative;
+  text-align: center;
+  z-index: 1;
+}
+.hdesc {
+  width: 100%;
+}
+.hdesc h1 {
+  max-width: var(--hdesc-top-h1-max-width);
+  padding: 0;
+}
+.hdesc h1,
+.hdesc__desc-wrapper {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+.hdesc__desc-wrapper {
+  max-width: var(--hdesc-top-p-max-width);
+}
+.hdesc__desc-wrapper > div {
+  padding: 0 var(--global-horizontal-padding);
+}
+.hdesc__desc-wrapper p {
+  padding: 0;
+}
+.hdesc h2 + .hdesc__desc-wrapper {
+  margin-left: 0;
+  margin-right: 0;
+  max-width: var(--hdesc-p-max-width);
+  text-align: left;
+}
+.on-image {
+  color: rgb(var(--on-image));
+}
+.on-image a[href] {
+  --link-color: var(--on-image);
+  --link-visited-color: var(--on-image);
+}
+h1.on-image span,
+h2.on-image span {
+  background: var(--hdesc-top-text-bg);
+  box-shadow: calc(var(--on-image-padding) * 2) 0 0 var(--hdesc-top-text-bg), calc(var(--on-image-padding) * -2) 0 0 var(--hdesc-top-text-bg);
+  display: inline;
+  line-height: var(--hdesc-top-h1-line-height);
+  padding: var(--on-image-padding) 0;
+}
+p.on-image {
+  background: var(--hdesc-top-text-bg);
+  box-shadow: calc(var(--on-image-padding) * 2) 0 0 var(--hdesc-top-text-bg), calc(var(--on-image-padding) * -2) 0 0 var(--hdesc-top-text-bg);
+  display: inline;
+  line-height: var(--hdesc-top-p-line-height);
+  padding: var(--on-image-padding) 0;
+}

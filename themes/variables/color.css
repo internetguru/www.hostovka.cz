@@ -1,0 +1,72 @@
+@charset "UTF-8";
+:root {
+  --no-img-bg: rgb(221, 221, 221) url("data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgZm9jdXNhYmxlPSJmYWxzZSIgZGF0YS1wcmVmaXg9ImZhbCIgZGF0YS1pY29uPSJpbWFnZSIgcm9sZT0iaW1nIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlkWU1pZCBtZWV0IiBjbGFzcz0ic3ZnLWlubGluZS0tZmEgZmEtaW1hZ2UgZmEtdy0xNiI+PHBhdGggc3R5bGU9ImZpbGw6IHdoaXRlIiBkPSJNNDY0IDY0SDQ4QzIxLjQ5IDY0IDAgODUuNDkgMCAxMTJ2Mjg4YzAgMjYuNTEgMjEuNDkgNDggNDggNDhoNDE2YzI2LjUxIDAgNDgtMjEuNDkgNDgtNDhWMTEyYzAtMjYuNTEtMjEuNDktNDgtNDgtNDh6bTE2IDMzNmMwIDguODIyLTcuMTc4IDE2LTE2IDE2SDQ4Yy04LjgyMiAwLTE2LTcuMTc4LTE2LTE2VjExMmMwLTguODIyIDcuMTc4LTE2IDE2LTE2aDQxNmM4LjgyMiAwIDE2IDcuMTc4IDE2IDE2djI4OHpNMTEyIDIzMmMzMC45MjggMCA1Ni0yNS4wNzIgNTYtNTZzLTI1LjA3Mi01Ni01Ni01Ni01NiAyNS4wNzItNTYgNTYgMjUuMDcyIDU2IDU2IDU2em0wLTgwYzEzLjIzNCAwIDI0IDEwLjc2NiAyNCAyNHMtMTAuNzY2IDI0LTI0IDI0LTI0LTEwLjc2Ni0yNC0yNCAxMC43NjYtMjQgMjQtMjR6bTIwNy4wMjkgMjMuMDI5TDIyNCAyNzAuMDU5bC0zMS4wMjktMzEuMDI5Yy05LjM3My05LjM3My0yNC41NjktOS4zNzMtMzMuOTQxIDBsLTg4IDg4QTIzLjk5OCAyMy45OTggMCAwIDAgNjQgMzQ0djI4YzAgNi42MjcgNS4zNzMgMTIgMTIgMTJoMzYwYzYuNjI3IDAgMTItNS4zNzMgMTItMTJ2LTkyYzAtNi4zNjUtMi41MjktMTIuNDctNy4wMjktMTYuOTcxbC04OC04OGMtOS4zNzMtOS4zNzItMjQuNTY5LTkuMzcyLTMzLjk0MiAwek00MTYgMzUySDk2di00LjY4Nmw4MC04MCA0OCA0OCAxMTItMTEyIDgwIDgwVjM1MnoiPjwvcGF0aD48L3N2Zz4K") no-repeat center center / 50% 50%;
+
+  --notice: 57, 73, 171;
+  --warning: 255, 143, 0;
+  --error: 211, 47, 47;
+  --success: 67, 160, 71;
+  --rw-blue: 30, 136, 229;
+  --global-color: 33, 33, 33;
+
+  --link-color: 13, 71, 161;
+  --link-visited-color: 103, 58, 182;
+  --link-border-opacity: 0.45;
+
+  --hdesc-top-bg: var(--no-img-bg);
+  --hdesc-dim-bg: rgba(0, 0, 0, 0.1);
+  --hdesc-top-text-bg: rgba(33, 33, 33, 0.8);
+
+  --on-image: 255, 255, 255;
+
+  --topdiv-bg: rgb(238, 238, 238);
+  --part-odd-bg: rgb(238, 238, 238);
+
+  --header-bg: 66, 66, 66;
+  --header-color: 255, 255, 255;
+
+  --globalmenu-hideable-opacity: 0.9;
+  --globalmenu-wrapper-bg: 33, 33, 33;
+  --globalmenu-wrapper-color: 255, 255, 255;
+
+  --footer-bg: rgb(66, 66, 66);
+  --footer-color: 255, 255, 255;
+  --footer-service-ico-color: var(--rw-blue);
+
+  --input-border: medium solid #eff0f3;
+  --input-border-active: medium solid #90A4AE;
+
+  --button-color: var(--global-color);
+  --button-svg-color: rgb(46, 125, 50);
+  --button-bg: rgb(200, 230, 201);
+  --button--active-bg: rgb(129, 199, 132);
+  --button--simple-bg: rgb(255, 255, 255);
+  --button--simple-active-bg: rgb(129, 199, 132);
+  --button--border-bg: rgb(255, 255, 255);
+  --button--border-border: medium solid rgb(200, 230, 201);
+  --button--border-active-bg: rgb(255, 255, 255);
+  --button--border-active-border: medium solid rgb(129, 199, 132);
+  --buttom-shadow-bg: rgb(255, 255, 255);
+  --buttom-shadow-shadow: var(--shadow-1);
+  --buttom-shadow-active-bg: rgb(255, 255, 255);
+  --buttom-shadow-active-shadow: var(--shadow-2);
+
+  --list-ico-svg: rgb(56, 142, 60);
+  --list-card-item-bg: rgb(255, 255, 255);
+
+  --card-bg: rgb(255, 255, 255);
+  --card-shadow-bg: rgb(255, 255, 255);
+  --card-image-showed-bg: rgb(0,0,0, 0.4);
+
+  --photoswipe-ico-bg: url(data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgZm9jdXNhYmxlPSJmYWxzZSIgZGF0YS1wcmVmaXg9ImZhcyIgZGF0YS1pY29uPSJpbWFnZXMiIHJvbGU9ImltZyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgNTc2IDUxMiIgY2xhc3M9InN2Zy1pbmxpbmUtLWZhIGZhLWltYWdlcyBmYS13LTE4Ij48cGF0aCBzdHlsZT0iZmlsbDogd2hpdGU7IiBkPSJNNDgwIDQxNnYxNmMwIDI2LjUxLTIxLjQ5IDQ4LTQ4IDQ4SDQ4Yy0yNi41MSAwLTQ4LTIxLjQ5LTQ4LTQ4VjE3NmMwLTI2LjUxIDIxLjQ5LTQ4IDQ4LTQ4aDE2djIwOGMwIDQ0LjExMiAzNS44ODggODAgODAgODBoMzM2em05Ni04MFY4MGMwLTI2LjUxLTIxLjQ5LTQ4LTQ4LTQ4SDE0NGMtMjYuNTEgMC00OCAyMS40OS00OCA0OHYyNTZjMCAyNi41MSAyMS40OSA0OCA0OCA0OGgzODRjMjYuNTEgMCA0OC0yMS40OSA0OC00OHpNMjU2IDEyOGMwIDI2LjUxLTIxLjQ5IDQ4LTQ4IDQ4cy00OC0yMS40OS00OC00OCAyMS40OS00OCA0OC00OCA0OCAyMS40OSA0OCA0OHptLTk2IDE0NGw1NS41MTUtNTUuNTE1YzQuNjg2LTQuNjg2IDEyLjI4NC00LjY4NiAxNi45NzEgMEwyNzIgMjU2bDEzNS41MTUtMTM1LjUxNWM0LjY4Ni00LjY4NiAxMi4yODQtNC42ODYgMTYuOTcxIDBMNTEyIDIwOHYxMTJIMTYwdi00OHoiIGNsYXNzPSIiPjwvcGF0aD48L3N2Zz4=);
+}
+
+@media print {
+  :root {
+      --header-bg: rgb(238, 238, 238);
+      --header-color: var(--global-color);
+
+      --footer-bg: rgb(238, 238, 238);
+      --footer-color: var(--global-color);
+  }
+}

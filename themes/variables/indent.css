@@ -1,0 +1,59 @@
+@charset "UTF-8";
+:root {
+  --print-page-margin: 21mm 20mm;
+
+  --global-max-width: 62rem;
+  --global-vertical-margin: 1em;
+  --global-horizontal-margin: auto;
+  --global-horizontal-padding: 1rem;
+  --global-border-radius: 0.25em;
+
+  --list-margin-left: 2em;
+  --list-inner-vertical-spacing: 0.5rem;
+  --list-ico-vetical-spacing: 0.25rem;
+  --list-multiple-item-margin: 0.1em;
+  --list-card-item-max-width: 14em;
+  --list-card-border-radius: var(--global-border-radius);
+
+  --headings-margin-top: 1em;
+  --headings-margin-bottom: 1em;
+
+  --header-padding-top: 0.5em;
+  --header-padding-bottom: 0.5em;
+  --footer-padding: 1em 0;
+
+  --globalmenu-hideable-switch-padding: calc(var(--global-horizontal-padding) / 2);
+  --globalmenu-wrapper-top: calc(var(--globalmenu-hideable-switch-font-size) + var(--header-padding-top) + var(--header-padding-bottom));
+
+  --hdesc-top-padding: 4em 0 8em 0;
+  --hdesc-top-h1-line-height: 1.41;
+  --hdesc-top-p-line-height: 1.82;
+  --hdesc-top-h1-max-width: 11em;
+  --hdesc-top-p-max-width: 36em;
+  --hdesc-p-max-width: 38em;
+
+  --on-image-padding: 0.3rem;
+
+  --topdiv-padding: 1em 0;
+
+  --part-vertical-padding: 3rem;
+
+  --input-padding: 0.8em 1em;
+  --label-padding-left: 1em;
+  --label-margin-top: 1.5em;
+  --cf-basic-wrapper-width: 30em;
+  --cf-callme-wrapper-width: 30em;
+
+  --button-border-radius: var(--global-border-radius);
+  --button-padding: 1em 1.25em;
+  --button-img-inline-padding: .7em 1.5em .7em 1em;
+  --button-img-only-padding: 0.7em;
+  --button-list-margin: calc(var(--global-vertical-margin) * 2) 0;
+  --button-list-item-margin: 0.3em;
+  --button-max-width: 19em;
+
+  --card-heading-margin: 0 0 0.5rem 0;
+  --card-padding: 1rem;
+  --card-image-img-height: 14em;
+  --card-image-totop-width: 4.5em;
+}

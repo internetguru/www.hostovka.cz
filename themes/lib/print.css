@@ -1,0 +1,48 @@
+@charset "UTF-8";
+*,
+*:before,
+*:after {
+  background-image: transparent !important;
+  border-color: #5e5e5e !important;
+  box-shadow: none !important;
+  color: black !important;
+  text-shadow: none !important;
+}
+body {
+  font-family: var(--print-font-family) !important;
+  font-size: var(--print-font-size);
+}
+h1,
+h2,
+h3 {
+  font-weight: normal;
+  page-break-after: avoid;
+  page-break-inside: avoid;
+}
+@page {
+  margin: var(--print-page-margin);
+  size: auto;
+}
+.print {
+  display: inline !important;
+  display: initial !important;
+}
+li.print {
+  display: list-item !important;
+}
+.noprint,
+.hidden {
+  display: none !important;
+}
+.hideable dd {
+  margin-left: 0;
+}
+::-moz-placeholder {
+  color: transparent;
+}
+:-ms-input-placeholder {
+  color: transparent;
+}
+::placeholder {
+  color: transparent;
+}

@@ -1,0 +1,1 @@
+(function(){for(var b,c=document.querySelectorAll("a[data-linklist-href]"),d=0;d<c.length;d++)b=document.createElement("a"),b.href=c[d].getAttribute("data-linklist-href"),b.setAttribute("data-title","["+c[d].getAttribute("data-linklist-value")+"]"),b.className=c[d].getAttribute("data-linklist-class"),c[d].parentNode.insertBefore(b,c[d].nextSibling)})();

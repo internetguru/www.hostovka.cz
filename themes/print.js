@@ -1,0 +1,1 @@
+(function(){var a=document.querySelectorAll(".button__print");a.forEach(function(a){a.addEventListener("click",function(a){window.print(),a.preventDefault()})}),window.addEventListener("beforeprint",function(){try{require("IGCMS.Eventable",function(){IGCMS.Eventable.sendGAEvent("print","1","1")})}catch(a){}})})();

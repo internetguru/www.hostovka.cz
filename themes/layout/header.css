@@ -1,0 +1,15 @@
+@charset "UTF-8";
+#header {
+  background-color: rgb(var(--header-bg));
+  color: rgb(var(--header-color));
+}
+#header a {
+  --link-color: var(--header-color);
+  --link-visited-color: var(--header-color);
+}
+#header > div {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  padding: var(--header-padding-top) 0 var(--header-padding-bottom) var(--global-horizontal-padding);
+}

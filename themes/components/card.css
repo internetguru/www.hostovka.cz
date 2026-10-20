@@ -1,0 +1,85 @@
+@charset "UTF-8";
+.card {
+  background: var(--card-bg);
+  border-radius: var(--global-border-radius);
+  padding: var(--card-padding);
+}
+.card > *:not(.list--ico-single) {
+  margin-left: 0;
+}
+.card dd + dt {
+  margin-top: calc(var(--global-vertical-margin) / 2);
+}
+.card__heading {
+  font-size: var(--card-heading-font-size);
+  font-weight: var(--card-heading-font-weight);
+  margin: var(--card-heading-margin);
+}
+.card--shadow {
+  background: var(--card-shadow-bg);
+  box-shadow: var(--shadow-1);
+}
+.card--image {
+  padding: 0;
+}
+.card--image img {
+  border-radius: var(--global-border-radius) var(--global-border-radius) 0 0;
+}
+.card--image > dt:first-child {
+  height: var(--card-image-img-height);
+}
+.card--image img,
+.card--image .imgwrap {
+  padding: 0 !important;
+  height: 100%;
+}
+.card--image img {
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+.card--image > *:not(:first-child) {
+  padding-left: var(--card-padding);
+  padding-right: var(--card-padding);
+}
+.card--image > dt:first-child + dd {
+  padding-top: var(--card-padding);
+}
+.card--image > *:last-child {
+  padding-bottom: var(--card-padding);
+}
+.card.card--image a[href="#"].button:before {
+  content: var(--card-image-totop-text);
+  max-width: 2.5em;
+  visibility: visible;
+  display: block;
+  height: 0;
+}
+.card.card--image a[href="#"].button {
+  visibility: hidden;
+  display: block;
+  width: var(--card-image-totop-width);
+  white-space: nowrap;
+  min-width: unset;
+}
+.card.card--image dt:first-child a[href="#"]:after {
+  content: var(--card-image-showed-text);
+  border-radius: var(--global-border-radius);
+  max-width: 5em;
+  position: absolute;
+  top: 35%;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  text-align: center;
+  z-index: 1;
+  font-weight: normal;
+}
+.card.card--image dt:first-child a[href="#"]:before {
+  background: var(--card-image-showed-bg);
+}
+.card.card--image dt:first-child a[href="#"]:hover:before {
+  background: var(--card-image-showed-bg);
+}
+.card.card--image a[href="#"].button:hover {
+  color: var(--global-color);
+}

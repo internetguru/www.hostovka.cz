@@ -1,0 +1,11 @@
+@charset "UTF-8";
+.part {
+  padding: 0 0 var(--part-vertical-padding) 0;
+}
+.part:nth-child(2n) {
+  background: var(--part-odd-bg);
+}
+.part h2 {
+  margin-top: 0;
+  padding-top: var(--part-vertical-padding);
+}

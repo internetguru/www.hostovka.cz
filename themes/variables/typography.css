@@ -1,0 +1,30 @@
+@charset "UTF-8";
+:root {
+  --print-font-family: Charter, Georgia, sans;
+  --font-family: Roboto, sans-serif;
+  --fallback-font-family: Arial, Helvetica, sans-serif;
+  --monospace-font-family: "Lucida Console", Monaco, monospace;
+
+  --line-height: 1.4;
+  --letter-spacing: 0.01em;
+
+  --print-font-size: 10pt;
+  --h1-font-size: 3em;
+  --h2-font-size: 2em;
+  --h3-font-size: 1.5em;
+
+  --font-weight-strong: 600;
+  --h1-font-weight: 400;
+  --h2-font-weight: 500;
+  --h3-font-weight: var(--h2-font-weight);
+  --button-font-weight: 500;
+
+  --globalmenu-hideable-switch: "☰";
+  --globalmenu-hideable-switch-close: "×";
+  --globalmenu-hideable-switch-font-size: 1.5rem;
+
+  --card-heading-font-size: var(--h3-font-size);
+  --card-heading-font-weight: var(--h3-font-weight);
+  --card-image-totop-text: url("data:image/svg+xml,%0A%3Csvg aria-hidden='true' focusable='false' data-prefix='fas' data-icon='chevron-up' class='svg-inline--fa fa-chevron-up fa-w-14' role='img' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 448 512'%3E%3Cpath fill='currentColor' d='M240.971 130.524l194.343 194.343c9.373 9.373 9.373 24.569 0 33.941l-22.667 22.667c-9.357 9.357-24.522 9.375-33.901.04L224 227.495 69.255 381.516c-9.379 9.335-24.544 9.317-33.901-.04l-22.667-22.667c-9.373-9.373-9.373-24.569 0-33.941L207.03 130.525c9.372-9.373 24.568-9.373 33.941-.001z'%3E%3C/path%3E%3C/svg%3E");
+  --card-image-showed-text: url("data:image/svg+xml,%0A%3Csvg aria-hidden='true' focusable='false' data-prefix='far' data-icon='eye' class='svg-inline--fa fa-eye fa-w-18' role='img' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 576 512'%3E%3Cpath fill='%23fff' d='M288 144a110.94 110.94 0 0 0-31.24 5 55.4 55.4 0 0 1 7.24 27 56 56 0 0 1-56 56 55.4 55.4 0 0 1-27-7.24A111.71 111.71 0 1 0 288 144zm284.52 97.4C518.29 135.59 410.93 64 288 64S57.68 135.64 3.48 241.41a32.35 32.35 0 0 0 0 29.19C57.71 376.41 165.07 448 288 448s230.32-71.64 284.52-177.41a32.35 32.35 0 0 0 0-29.19zM288 400c-98.65 0-189.09-55-237.93-144C98.91 167 189.34 112 288 112s189.09 55 237.93 144C477.1 345 386.66 400 288 400z'%3E%3C/path%3E%3C/svg%3E");
+}

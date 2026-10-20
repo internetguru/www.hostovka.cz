@@ -1,0 +1,1 @@
+(function(){document.querySelectorAll("input[type=\"datetime-local\"], input[type=\"date\"]").forEach(function(a){a.setAttribute("data-input-value",""),a.addEventListener("change",function(){a.setAttribute("data-input-value",a.value)})})})();

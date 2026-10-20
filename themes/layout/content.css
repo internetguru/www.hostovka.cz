@@ -1,0 +1,14 @@
+@charset "UTF-8";
+#header > div,
+.topdiv > *,
+.hdesc > *,
+.part > *,
+#footer > * {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: var(--global-max-width);
+}
+.topdiv {
+  background: var(--topdiv-bg);
+  padding: var(--topdiv-padding);
+}

@@ -1,0 +1,58 @@
+@charset "UTF-8";
+.list-wrapper--single > *:not(.card):not([class*="list-"]),
+.list-wrapper--multiple > div > *:not(.card):not([class*="list-"]):not(.group) {
+  margin-top: 0;
+  padding-left: 0;
+  padding-right: 0;
+}
+.list-wrapper--single > .group,
+.list-wrapper--multiple > div > .group {
+  margin: 0;
+  padding: 0;
+}
+.list-wrapper--multiple > div {
+  display: flex;
+  flex-wrap: wrap;
+}
+.list-wrapper--multiple > div > * {
+  margin: var(--list-multiple-item-margin);
+}
+.list-wrapper--multiple > div > ul > li {
+  margin-left: calc(var(--list-margin-left) / 2);
+}
+.list--ico-single,
+.list--ico li {
+  list-style: none;
+  margin-left: calc(var(--list-margin-left) / 2);
+  padding-left: calc(var(--list-margin-left) / 3);
+  position: relative;
+}
+.list--ico-single:not(:first-child),
+.list--ico li:not(:first-child) {
+  margin-top: var(--list-ico-vetical-spacing);
+}
+.list--ico-single svg,
+.list--ico svg {
+  color: var(--list-ico-svg);
+  left: calc(var(--list-margin-left) / -2);
+  position: absolute;
+  top: 0.25em;
+}
+.list--card {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: calc(var(--global-vertical-margin) * 2) auto;
+  padding: 0;
+}
+.list--card li {
+  align-items: center;
+  background: var(--list-card-item-bg);
+  border-radius: var(--list-card-border-radius);
+  display: flex;
+  margin: var(--list-multiple-item-margin);
+}
+.list--card li svg {
+  margin-right: calc(var(--list-margin-left) / 4);
+  position: static;
+}

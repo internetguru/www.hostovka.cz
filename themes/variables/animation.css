@@ -1,0 +1,11 @@
+@charset "UTF-8";
+:root {
+  --button-transition: 0.15s ease-out;
+  --input-transition: 0.15s ease-out;
+  --scroll-behavior: smooth;
+}
+@media (prefers-reduced-motion: reduce) {
+  :root {
+    --scroll-behavior: initial;
+  }
+}
